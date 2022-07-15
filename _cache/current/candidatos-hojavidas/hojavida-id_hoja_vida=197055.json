@@ -1,0 +1,149 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 197055.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "22521637",
+        "nombres": "WALTER ALFREDO",
+        "apellidoPaterno": "SANCHEZ",
+        "apellidoMaterno": "CUELLAR",
+        "sexo": "1",
+        "feNacimiento": "13/03/1975",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "090101",
+        "naciDepartamento": "HUANUCO",
+        "naciProvincia": "HUANUCO",
+        "naciDistrito": "HUANUCO",
+        "ubigeoDomicilio": "090317",
+        "domiDepartamento": "HUANUCO",
+        "domiProvincia": "DOS DE MAYO",
+        "domiDistrito": "RIPAN",
+        "domicilioDirecc": "CASERIO DE VISTA ALEGRE S/N",
+        "ubigeoPostula": "090317",
+        "postulaDepartamento": "HUANUCO",
+        "postulaProvincia": "DOS DE MAYO",
+        "postulaDistrito": "RIPAN",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/197055.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 08:53:55",
+        "txGuidFormatoHojaVida": "8a6ded43-d4e3-4ce8-9c32-c219f2073eb8",
+        "idSolicitudLista": 31129.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 246977,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "RED DE SALUD DOS DE MAYO",
+            "ocupacionProfesion": "TECNICO EN ENFERMERÍA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JIRON PROVENIR 187 LA UNION",
+            "anioTrabajoDesde": "2009",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "090301",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "HUANUCO",
+            "trabajoProvincia": "DOS DE MAYO",
+            "trabajoDistrito": "LA UNION",
+            "idHojaVida": 197055,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "CENTRO DE LABORES IPRESS VISTA ALEGRE RIPAN"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 218929,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 197055,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 143236,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "I.S.T.P APARICIO POMARES",
+                "carreraNoUni": "TECNICO EN ENFERMERIA",
+                "concluidoNoUni": "1",
+                "idHojaVida": 197055,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 165813,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 14,
+            "orgPolRenunciaOp": "PARTIDO DEMOCRATICO SOMOS PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 197055,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 197218,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 46656.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 197055,
+                "idEstado": 1,
+                "totalIngresos": 46656.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 137104,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "2019-2007",
+            "txOrganoJuridicialObliga": "CORTE SUPERIOR DE JUSTICIA DE HUANUCO",
+            "txFalloObliga": "ARCHIVO DEFINITIVO",
+            "idEstado": 1,
+            "idHojaVida": 197055,
+            "txComentario": "DEMANDA DE ALIMENTOS CONCLUIDO CON AUDIENCIA DE CONCILIACION"
+        }
+    ]
+}

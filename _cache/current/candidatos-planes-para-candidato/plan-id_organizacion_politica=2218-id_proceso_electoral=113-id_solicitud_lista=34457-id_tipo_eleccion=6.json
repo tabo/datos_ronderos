@@ -1,0 +1,115 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 27783,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/03d83907-e2a4-4eef-b00b-3b156597ad4b.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/a52577f0-aea4-46dd-a432-45075d17daef.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 226231,
+            "txPgProblema": "DEFICIENTE SERVICIO DE EDUCACIÓN BÁSICA",
+            "txPgObjetivo": "INCREMENTAR EL RENDIMIENTO ACADEMICO DE LOS ESTUDIANTES DE LOS NIVELES DE EDUCACION",
+            "txPgIndicador": "PORCENTAJE DE ESTUDIANTES DEL 4TO GRADO EDUCACION PRIMARIA QUE ALCANZAN EL NIVEL SATISFACTORIO EN COMPRENSION MATEMATICA\nPORCENTAJE DE ESTUDIANTES DEL 4TO GRADO EDUCACION PRIMARIA QUE ALCANZAN EL NIVEL SATISFACTORIO EN COMPRENSION MATEMATICA\nPORCENTAJE DE ESTUDIANTES DEL 2DO GRADO EDUCACION SECUNDARIA QUE ALCANZAN EL NIVEL SATISFACTORIO EN COMPRENSION MATEMATICA\nPORCENTAJE DE ESTUDIANTES DEL 2DO GRADO EDUCACION SECUNDARIA QUE ALCANZAN EL NIVEL SATISFACTORIO EN COMPRENSION LECTORA",
+            "txPgMeta": "70%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 226247,
+            "txPgProblema": "DEFICIENTE SERVICIO DE SALUD DE LOS TRES NIVELES DE ATENCION",
+            "txPgObjetivo": "REDUCIR LOS NIVELES DE MORBILIDAD Y MORTALIDAD DE LA POBLACION",
+            "txPgIndicador": "TASA DE MORBILIDAD",
+            "txPgMeta": "15%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 226259,
+            "txPgProblema": "CRECIMIENTO ACELERADO DE INVASIONES",
+            "txPgObjetivo": "MEJORAR EL ACCESO DE LA POBLACION A SERVICIOS BASICOS DE CALIDAD",
+            "txPgIndicador": "PORCENTAJE DE SUPERFICIE ERIAZA CON APTITUD DE USO DE VIVIENDA CON SANEAMIENTO FISICO LEGAL",
+            "txPgMeta": "40%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 226272,
+            "txPgProblema": "INADECUADO APOYO AL DESARROLLO PRODUCTIVO DISTRITAL",
+            "txPgObjetivo": "ELEVAR LA COMPETITIVIDAD DISTRITAL",
+            "txPgIndicador": "INDICE DE COMPETITIVIDAD DISTRITAL - TOTAL - PUESTO AREQUIPA",
+            "txPgMeta": "2",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 226280,
+            "txPgProblema": "INADECUADOS SERVICIOS TURISTICOS PUBLICOS",
+            "txPgObjetivo": "ELEVAR LA COMPETITIVIDAD DISTRITAL",
+            "txPgIndicador": "INDICE DE COMPETITIVIDAD DISTRITAL - TOTAL - PUESTO AREQUIPA",
+            "txPgMeta": "2",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 226291,
+            "txPgProblema": "SUPERFICIENTE DE SUPERFICIE AGRICOLA CON RIEGO TECNIFICADO",
+            "txPgObjetivo": "MEJORAR EL APROVECHAMIENTO DEL SUELO PARA USO AGRICOLA",
+            "txPgIndicador": "PORCENTAJE DE HECTAREAS AMPLIADAS PARA USO AGRICOLA",
+            "txPgMeta": "70%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 226298,
+            "txPgProblema": "ÁREAS DEGRADADAS POR RESIDUOS SOLIDOS",
+            "txPgObjetivo": "MEJORAR LA SOSTENIBILIDAD AMBIENTAL",
+            "txPgIndicador": "PORCENTAJE DE USO DEL SUELO SIN CONTROL",
+            "txPgMeta": "100%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 226307,
+            "txPgProblema": "DEFICIENTE SERVICIO DE LIMPIEZA PUBLICA",
+            "txPgObjetivo": "MEJORAR LA SOSTENIBILIDAD AMBIENTAL",
+            "txPgIndicador": "PORCENTAJE DE POBLACION QUE ACCEDE A UN ADECUADO SERVICIO DE RECOJO DE BASURA",
+            "txPgMeta": "50%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 226315,
+            "txPgProblema": "INADECUADO ACCESO A LA INFORMACIÓN PUBLICA",
+            "txPgObjetivo": "FORTALECER LA GOBERNANZA DISTRITAL",
+            "txPgIndicador": "ENTIDADES PUBLICAS FORTALECIDAS",
+            "txPgMeta": "1",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

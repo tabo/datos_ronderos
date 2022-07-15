@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 24887,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/7db151c9-0477-49ab-94f4-43682e0cc029.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/e8061250-4887-4ff7-984f-753d9d6753ae.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 136681,
+            "txPgProblema": "1. CARENCIA DE SERVICIOS BÁSICOS DE AGUA, SANEAMIENTO BÁSICO Y ELECTRIFICACIÓN RURAL EN SIGNIFICATIVOS SECTORES DE LA POBLACIÓN.",
+            "txPgObjetivo": "ACCESO A LA POBLACIÓN EN FORMA INTEGRAL DE LOS SERVICIOS BÁSICOS DE AGUA Y SANEAMIENTO BÁSICO, Y ELECTRIFICACIÓN RURAL.",
+            "txPgIndicador": "EL 95 % DE LA POBLACIÓN NO CUENTA CON SERVICIOS BÁSICOS.",
+            "txPgMeta": "DOTAR DE LOS SERVICIOS BÁSICOS EN UN 100 % A LA POBLACIÓN URBANA Y RURAL",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136704,
+            "txPgProblema": "2. BAJA CALIDAD EDUCATIVA POR LA INADECUADA INFRAESTRUCTURA E EQUIPAMIENTO",
+            "txPgObjetivo": "IGUALDAD DE OPORTUNIDAD DE LA POBLACIÓN Y ACCESO A LA INFRAESTRUCTURA EDUCATIVO",
+            "txPgIndicador": "EL 100 % DE LA INFRAESTRUCTURA EDUCATIVA ES DE MATERIAL RUSTICO Y NO CUENTA CON INTERNET.",
+            "txPgMeta": "DOTAR DE INFRAESTRUCTURA EDUCATIVA Y EQUIPAMIENTO AL 100 % DE LA POBLACIÓN.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136720,
+            "txPgProblema": "3. INEXISTENCIA DE INFRAESTRUCTURA DE RIEGO, LO QUE PONE EN RIESGO LA SEGURIDAD ALIMENTARIA.",
+            "txPgObjetivo": "CONSTRUCCIÓN DE INFRAESTRUCTURA DE RIEGO COMO CANALES, MICRO RESERVORIOS CON GEOMEMBRANA, RIEGO TECNIFICADO",
+            "txPgIndicador": "EL 90 % DE LA FRONTERA AGRÍCOLA DE COSPAN NO CUENTA CON SISTEMAS DE RIEGO.",
+            "txPgMeta": "DOTAR DE INFRAESTRUCTURA DE RIEGO AL 50 % DE LA POBLACIÓN ECONÓMICAMENTE ACTIVA EN EL SECTOR AGROPECUARIO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 136738,
+            "txPgProblema": "1. INEXISTENCIA DE UNA RED VIAL INTEGRADA",
+            "txPgObjetivo": "MEJORAR Y COMPLETAR UNA RED VIAL CON BI-CAPA: COSPAN, RAMBRAN, CALMON, CAMPODEN, HUAYOBAMBA, ASI COMO CAMPODEN, SUIMAT, SALAGUAL, CHIGDEN, SUNCHUBAMBA",
+            "txPgIndicador": "EL 95 % DE LA RED VIAL ES TROCHA CARROZABLE QUE EN TIEMPO DE LLUVIA SE VUELVE INTRANSITABLE",
+            "txPgMeta": "CONSTRUCCIÓN DE BI-CAPA PARA EL MEJORAMIENTO DE LAS VÍAS EN UN TOTAL DE 80 KM.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136760,
+            "txPgProblema": "2.ESCASA PROMOCIÓN DEL TURISMO LOCAL",
+            "txPgObjetivo": "ACONDICIONAMIENTO Y PUESTA EN VALOR DE ATRACTIVOS TURÍSTICOS, COMO LAS RUINAS DE CARACHALOMA, EL COTO DE CAZA SALAGUAL – SUNCHUBAMBA, CIRCUITO TURÍSTICO DE LA LAGUNA MAMACOCHA EN EL CASERÍO HUARIGURO",
+            "txPgIndicador": "0 % DE PROMOCIÓN DEL TURISMO EN EL DISTRITO DE COSPAN",
+            "txPgMeta": "PONER EN PUESTA DE VALOR LOS DIFERENTES CENTROS TURÍSTICOS DEL DISTRITO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136774,
+            "txPgProblema": "3. INADECUADA INFRAESTRUCTURA PUBLICA PARA LA PROMOCIÓN DEL COMERCIO MINORISTA Y MAYORISTA.",
+            "txPgObjetivo": "CONSTRUCCIÓN DE MERCADOS EN LOS DIFERENTES CASERÍOS DEL DISTRITO",
+            "txPgIndicador": "NO SE CUENTA CON MERCADOS EN EL DISTRITO DE COSPAN POR LO QUE EN LAS FERIAS LA GENTE VENDE SUS PRODUCTOS AL AIRE LIBRE GENERANDO DESORDEN Y MALESTAR EN LA POBLACIÓN",
+            "txPgMeta": "DOTAR DE MERCADOS EN UN 50 % DE CASERÍOS DEL DISTRITO DE COSPAN",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 136804,
+            "txPgProblema": "1.CONTAMINACION DE SUELOS Y AGUA POR LA INACCIÓN DEL TRATAMIENTO DE LAS AGUAS SERVIDAS.",
+            "txPgObjetivo": "CONSTRUCCIÓN DE SISTEMAS DE SANEAMIENTO BÁSICO EN LA ZONA RURAL Y ALCANTARILLADO EN LA ZONA URBANA, QUE CUENTE CON UN SISTEMA DE TRATAMIENTO DE AGUAS NEGRAS",
+            "txPgIndicador": "EL 95 % DE LA POBLACIÓN NO CUENTA CON SISTEMAS DE SANEAMIENTO BASICO Y TRATAMIENTO DE AGUAS NEGRAS",
+            "txPgMeta": "COBERTURAR EL 100 % CON SISTEMA DE SANEAMIENTO BÁSICO Y URBANO AL DISTRITO DE COSPAN.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136814,
+            "txPgProblema": "2. ACUMULACIÓN DE DESECHOS SÓLIDOS EN ESPACIOS ABIERTOS CONTAMINANTES",
+            "txPgObjetivo": "CONSTRUCCIÓN DE UN RELLENO SANITARIO EN ZONA URBANA DE COSPAN PARA EL PROCESAMIENTO Y TRATAMIENTO DE LOS RESIDUOS SÓLIDOS",
+            "txPgIndicador": "EL DISTRITO DE COSPAN NO CUENTA CON UN RELLENO SANITARIO LO QUE GENERA CONTAMINACIÓN POR RESIDUOS SÓLIDOS DISPERSOS",
+            "txPgMeta": "CONSTRUCCIÓN DE UN RELLENO SANITARIO EN EL PUEBLO DE COSPAN.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136831,
+            "txPgProblema": "3. ESCASA REFORESTACIÓN DE NUESTROS SUELOS Y TALA DE ÁRBOLES.",
+            "txPgObjetivo": "PROGRAMA DE REFORESTACIÓN DE NUESTROS SUELOS A TRAVÉS DE VIVEROS FORESTALES.",
+            "txPgIndicador": "NO SE CUENTA CON ÁREAS REFORESTADAS A NIVEL DE TODO COSPAN, LO QUE GENERA DISMINUCIÓN EN EL CAUDAL DE LAS FUENTES DE AGUA Y CONTAMINACIÓN DEL AIRE.",
+            "txPgMeta": "IMPLEMENTACIÓN DE VIVEROS FORESTALES EN TODOS LOS CASERÍOS PARA LOGRAR LA REFORESTACIÓN DE UNAS 10 MIL HECTÁREAS DE SUELO A NIVEL DE TODO EL DISTRITO DE COSPAN",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 136846,
+            "txPgProblema": "1. DEMORA EN LA ATENCIÓN A LOS VECINOS POR PARTE DE LA ADMINISTRACIÓN MUNICIPAL",
+            "txPgObjetivo": "MEJORAR LA ATENCIÓN AL CIUDADANO EL BUEN TRATO Y ORIENTACIÓN AL USUARIO SERÁ PRIORIDAD EN NUESTRA GESTIÓN.",
+            "txPgIndicador": "MALA ATENCIÓN AL CIUDADANO POR PARTE DE LOS SERVIDORES PÚBLICOS DE LA MUNICIPALIDAD, NULA ORIENTACIÓN PARA EL TRAMITE DOCUMENTARIO",
+            "txPgMeta": "AL TÉRMINO DE LA GESTIÓN EL BUEN TRATO Y LA ORIENTACIÓN AL USUARIO SERÁ UNO DE NUESTROS LOGROS INSTITUCIONALES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136854,
+            "txPgProblema": "2. FALTA DE INFRAESTRUCTURA TECNOLÓGICA",
+            "txPgObjetivo": "SE EQUIPARÁ A LAS DIFERENTES ÁREAS CON MOBILIARIO Y TECNOLOGÍA DE PUNTA PARA EL LOGRO DE OBJETIVOS.",
+            "txPgIndicador": "ESCASO EQUIPAMIENTO TECNOLÓGICO DE LAS DIFERENTES ÁREAS LO QUE GENERA EL NO CUMPLIMIENTO DE OBJETIVOS",
+            "txPgMeta": "EQUIPAMIENTO DE TODAS LAS ÁREAS PARA EL LOGRO DE OBJETIVOS.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136865,
+            "txPgProblema": "3. PERSONAL QUE LABORA EN LA MUNICIPALIDAD SIN CAPACITACIONES LO QUE GENERA LA MALA ATENCIÓN AL CIUDADANO",
+            "txPgObjetivo": "SE CAPACITARA CONSTANTEMENTE AL PERSONAL QUE LABORA EN LA MUNICIPALIDAD PARA LOGRAR UNA BUENA ATENCIÓN AL CIUDADANO Y EL LOGRO DE METAS.",
+            "txPgIndicador": "NULA CAPACITACIÓN DE LOS TRABAJADORES DE LAS DIFERENTES ÁREAS",
+            "txPgMeta": "CAPACITACIÓN AL 100 % DE PERSONAL QUE LABORA EN LA MUNICIPALIDAD, DE ACUERDO A SUS ÁREAS Y FUNCIONES Y EN EL BUEN TRATO AL USUARIO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

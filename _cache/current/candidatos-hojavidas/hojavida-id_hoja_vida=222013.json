@@ -1,0 +1,156 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 222013.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "70377175",
+        "nombres": "SONIA MARGARITA",
+        "apellidoPaterno": "BAUTISTA",
+        "apellidoMaterno": "MENDOZA",
+        "sexo": "2",
+        "feNacimiento": "10/04/1994",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "021507",
+        "naciDepartamento": "ANCASH",
+        "naciProvincia": "YUNGAY",
+        "naciDistrito": "SHUPLUY",
+        "ubigeoDomicilio": "021507",
+        "domiDepartamento": "ANCASH",
+        "domiProvincia": "YUNGAY",
+        "domiDistrito": "SHUPLUY",
+        "domicilioDirecc": "CASERIO DE ANTA",
+        "ubigeoPostula": "021507",
+        "postulaDepartamento": "ANCASH",
+        "postulaProvincia": "YUNGAY",
+        "postulaDistrito": "SHUPLUY",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/222013.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 16:33:53",
+        "txGuidFormatoHojaVida": "b2dc5116-f9f0-4ca5-b47f-dd32f317202e",
+        "idSolicitudLista": 34212.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 240376,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MUNICIPALIDAD DISTRITAL DE SHUPLUY",
+            "ocupacionProfesion": "REGIDOR",
+            "rucTrabajo": "20206588943",
+            "direccionTrabajo": "PLAZA DE ARMAS S/N",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "021507",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ANCASH",
+            "trabajoProvincia": "YUNGAY",
+            "trabajoDistrito": "SHUPLUY",
+            "idHojaVida": 222013,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 212228,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 222013,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 144359,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 93,
+                "orgPolCargoElec": "MOVIMIENTO INDEPENDIENTE REGIONAL RIO SANTA CAUDALOSO",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2019",
+                "anioCargoElecHasta": "2022",
+                "idHojaVida": 222013,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 163583,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2342,
+            "orgPolRenunciaOp": "MOVIMIENTO INDEPENDIENTE PROYECTO JOVEN",
+            "anioRenunciaOp": "2015",
+            "idHojaVida": 222013,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 192186,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 6552.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 222013,
+                "idEstado": 1,
+                "totalIngresos": 6552.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 196118,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "54043H ",
+                "valor": 4500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL COLOR NEGRO ROJO MARCA RONCO",
+                "comentario": null,
+                "idHojaVida": 222013,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,128 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 226145.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "70102013",
+        "nombres": "HANS CHRISTIAN",
+        "apellidoPaterno": "GUILLEN",
+        "apellidoMaterno": "CORDOVA",
+        "sexo": "1",
+        "feNacimiento": "31/01/1995",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050401",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "LA MAR",
+        "naciDistrito": "SAN MIGUEL",
+        "ubigeoDomicilio": "050404",
+        "domiDepartamento": "AYACUCHO",
+        "domiProvincia": "LA MAR",
+        "domiDistrito": "CHILCAS",
+        "domicilioDirecc": "BQ CHILCAS S/N",
+        "ubigeoPostula": "050404",
+        "postulaDepartamento": "AYACUCHO",
+        "postulaProvincia": "LA MAR",
+        "postulaDistrito": "CHILCAS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/226145.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 18:05:29",
+        "txGuidFormatoHojaVida": "1add8c15-d5a4-4bb4-bb73-3cb03e91322f",
+        "idSolicitudLista": 34701.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 238553,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AGRICULTURA",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "BQ CHILCAS S/N",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "050404",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AYACUCHO",
+            "trabajoProvincia": "LA MAR",
+            "trabajoDistrito": "CHILCAS",
+            "idHojaVida": 226145,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 210531,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 226145,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 190786,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 3600.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 226145,
+                "idEstado": 1,
+                "totalIngresos": 3600.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 195034,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "BAH004 ",
+                "valor": 20000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA TOYO COLOR ROJO",
+                "comentario": null,
+                "idHojaVida": 226145,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

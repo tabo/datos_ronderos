@@ -1,0 +1,159 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 221051.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40143212",
+        "nombres": "EMILIA SANDRA",
+        "apellidoPaterno": "DIAZ",
+        "apellidoMaterno": "VERA",
+        "sexo": "2",
+        "feNacimiento": "05/04/1979",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040511",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "CASTILLA",
+        "naciDistrito": "TIPAN",
+        "ubigeoDomicilio": "040511",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "CASTILLA",
+        "domiDistrito": "TIPAN",
+        "domicilioDirecc": "OYOCO",
+        "ubigeoPostula": "040511",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "CASTILLA",
+        "postulaDistrito": "TIPAN",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/221051.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 22:10:58",
+        "txGuidFormatoHojaVida": "1b614eb5-15f5-4e2c-a5c8-111ec179d431",
+        "idSolicitudLista": 34098.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 227365,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "PARCELA",
+            "ocupacionProfesion": "AGRICULTURA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "OYOCO S/N",
+            "anioTrabajoDesde": "2017",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "040511",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "CASTILLA",
+            "trabajoDistrito": "TIPAN",
+            "idHojaVida": 221051,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 200606,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 221051,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 143388,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 1699,
+                "orgPolCargoElec": "ORGANIZACIÓN POLÍTICA LOCAL PROVINCIAL LISTA INDEPENDIENTE CASTILLA AVANZA",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2007",
+                "anioCargoElecHasta": "2010",
+                "idHojaVida": 221051,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 144348,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "RESPECTO A BIENES MUEBLES, DECLARO TENER MI CASA PERO ACTUALMENTE SE ENCUENTRA EN PROCESO DE FORMALIZACION",
+            "idHojaVida": 221051,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 183529,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 18000.0,
+                "idHojaVida": 221051,
+                "idEstado": 1,
+                "totalIngresos": 18000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 228532,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "SECTOR OYOCO S/N",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 11000.0,
+                "idHojaVida": 221051,
+                "idEstado": 1,
+                "flValor": "10000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

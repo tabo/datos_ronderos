@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20607,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1693,
+        "juradoElectoral": "LIMA CENTRO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/a9700634-718a-478e-8d45-8c7cc4a8a1c6.pdf",
+        "txRutaResumen": null,
+        "txCodExpedienteExt": "ERM.2022017890",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 208404,
+            "txPgProblema": ".INEQUIDAD SOCIAL",
+            "txPgObjetivo": "ERRADICAR EL DESNIVEL SOCIAL",
+            "txPgIndicador": "% DE LA PEA",
+            "txPgMeta": "NIVELAR AL 70%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 208416,
+            "txPgProblema": "2.NIVELES DE POBREZA",
+            "txPgObjetivo": "DISMINUIR EL NIVEL DE POBREZA",
+            "txPgIndicador": "% DE POBREZ",
+            "txPgMeta": "DISMINUIR 20%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 208424,
+            "txPgProblema": "3.FALTA DE NIVEL DE\nCULTURA Y DEPORTE",
+            "txPgObjetivo": "PROMOCIÓN DE 12 EVENTOS\nCULTURALES Y 13 DEPORTIVOS.",
+            "txPgIndicador": "EVENTOS",
+            "txPgMeta": "REALIZAR 25\nEVENTOS.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 208433,
+            "txPgProblema": "1.FALTA DE\nOPORTUNIDADES ECON.",
+            "txPgObjetivo": "INSTRUMENTAR OPORTUNIDADES\nDE ÍNDOLE ECONÓMICO",
+            "txPgIndicador": "TALLERES",
+            "txPgMeta": "REALIZAR TALLERES\nDE EMPRENDIMINTO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 208444,
+            "txPgProblema": "FALTA DE APOYO\nCREDITICIO.",
+            "txPgObjetivo": "IMPLEMENTAR UN FONDO\nROTATORIO DE CRÉDITO.",
+            "txPgIndicador": "PRESTAMOS",
+            "txPgMeta": "COLOCACIÓN DE\n230 CRÉDITOS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 208446,
+            "txPgProblema": "3.ESCASA ASIGNACIÓN\nPRESUPUESTAL",
+            "txPgObjetivo": "SOLICITAR EL INCREMENTO DEL\nFONCOMUN Y CANON",
+            "txPgIndicador": "% DE\nINCREMENTO",
+            "txPgMeta": "INCREMENTAR EN\n15% PRESUPUESTO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 208458,
+            "txPgProblema": "1.TRATAMIENTO DE LA\nBASURA",
+            "txPgObjetivo": "PROMOVER LA CONCIENTIZACIÓN Y\nCULTURA DE LIMPIEZA LOCAL.",
+            "txPgIndicador": "EVENTOS",
+            "txPgMeta": "REALIZAR 10\nEVENTOS LOCALES.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 208466,
+            "txPgProblema": "2.FALTA DE CUIDADO DE\nÁREAS NATURALES",
+            "txPgObjetivo": "DIFUNDIR MECANISMOS DE\nSEMBRÍO Y CUIDADO DE TERRENO",
+            "txPgIndicador": "TALLERES",
+            "txPgMeta": "REALIZAR 25\nTALLERES .",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 208474,
+            "txPgProblema": "3.FALTA DE CUIDADO\nDEL AGUA.",
+            "txPgObjetivo": "DIFUNDIR LA IMPORTANCIA DEL\nUSO ADECUADO DEL AGUA.",
+            "txPgIndicador": "TALLERES",
+            "txPgMeta": "EFECTUAR 24\nTALLERES.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 208489,
+            "txPgProblema": "1.EXCESO DE GASTO\nOPERATIVO",
+            "txPgObjetivo": "IMPLEMENTAR ACCIONES DE\nDISMINUCIÓN DEL G.O.",
+            "txPgIndicador": "ACCIONES",
+            "txPgMeta": "DISMINUIR EN 20%\nEL GASTO OPERAT.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 208502,
+            "txPgProblema": "2.FALTA DE EFICIENCIA\nDE LA INVERSIÓN MUNIC",
+            "txPgObjetivo": "MEJORAR LA EJECUCIÓN DE LA\nINVERSIÓN MUNICIPAL.",
+            "txPgIndicador": "ACCIONES",
+            "txPgMeta": "OPTIMIZAR EN 25%\nLA INVERSIÓN MUNIC",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 208512,
+            "txPgProblema": "3.MALA ATENCIÓN DE\nLOS SERVICIOS MUNICIP",
+            "txPgObjetivo": "MEJORAR LA ATENCIÓN DE LOS\nSERVICIOS MUNICIPALES.",
+            "txPgIndicador": "ACTIVIDAD",
+            "txPgMeta": "BUENA ATENCIÓN\nDE SERVICIOS MUN.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

@@ -1,0 +1,161 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 185523.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42711984",
+        "nombres": "FERNANDO EMMANUEL",
+        "apellidoPaterno": "JARA",
+        "apellidoMaterno": "RUIZ",
+        "sexo": "1",
+        "feNacimiento": "20/11/1984",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140501",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "HUAURA",
+        "naciDistrito": "HUACHO",
+        "ubigeoDomicilio": "140901",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "BARRANCA",
+        "domiDistrito": "BARRANCA",
+        "domicilioDirecc": "PUERTO CHICO 173",
+        "ubigeoPostula": "140900",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "BARRANCA",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/185523.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 4.0,
+        "organizacionPolitica": "ACCION POPULAR",
+        "numeroCandidato": 7.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 07:53:57",
+        "txGuidFormatoHojaVida": "9a102efd-b6f0-405c-88d2-b113c509cda6",
+        "idSolicitudLista": 29575.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 185302,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "I.E. FE Y ALEGRIA Nª35",
+            "ocupacionProfesion": "DOCENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "BARRANCA",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140901",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "BARRANCA",
+            "trabajoDistrito": "BARRANCA",
+            "idHojaVida": 185523,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 163148,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 185523,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 156516,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL JOSÉ FAUSTINO SÁNCHEZ CARRIÓN",
+                "carreraUni": "LICENCIADO EN EDUCACION FISICA Y DEPORTES",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2008",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 139288,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 4,
+                "orgPolCargoPartidario": "PARTIDO POLÍTICO ACCION POPULAR",
+                "cargoPartidario": "COMANDO DE JUVENTUDES",
+                "anioCargoPartiDesde": "2010",
+                "anioCargoPartiHasta": "2014",
+                "idHojaVida": 185523,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 155154,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 21600.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 185523,
+                "idEstado": 1,
+                "totalIngresos": 21600.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 166363,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "C12178 ",
+                "valor": 3500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO BAJAJ",
+                "comentario": null,
+                "idHojaVida": 185523,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

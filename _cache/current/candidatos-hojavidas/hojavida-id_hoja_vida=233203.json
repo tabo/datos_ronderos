@@ -1,0 +1,144 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 233203.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42821296",
+        "nombres": "SANDRO",
+        "apellidoPaterno": "CACERES",
+        "apellidoMaterno": "MONTOYA",
+        "sexo": "1",
+        "feNacimiento": "19/02/1980",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "070901",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "LA CONVENCION",
+        "naciDistrito": "SANTA ANA",
+        "ubigeoDomicilio": "070901",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "LA CONVENCION",
+        "domiDistrito": "SANTA ANA",
+        "domicilioDirecc": "CALDERON ALTA",
+        "ubigeoPostula": "070000",
+        "postulaDepartamento": "CUSCO",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/233203.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "ACCESITARIO"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 19:24:13",
+        "txGuidFormatoHojaVida": "46efff1b-3ee5-4f6f-b0b8-eaeb72554359",
+        "idSolicitudLista": 35504.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 230284,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AGRICULTURA - SECTOR POTRERO",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SECTOR POTRERO",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "070901",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CUSCO",
+            "trabajoProvincia": "LA CONVENCION",
+            "trabajoDistrito": "SANTA ANA",
+            "idHojaVida": 233203,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 196628,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 233203,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 185259,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 6000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 233203,
+                "idEstado": 1,
+                "totalIngresos": 6000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 187181,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "15239X ",
+                "valor": 8000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA LINEAL MODELO PULSAR 200NS FI MARCA BAJAJ NEGRO",
+                "comentario": null,
+                "idHojaVida": 233203,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 187180,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "X52028 ",
+                "valor": 7000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA LINEAL MODELO AT200GY NEO ROUTER MARCA CROSS",
+                "comentario": null,
+                "idHojaVida": 233203,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,155 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 200223.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40707446",
+        "nombres": "ROGER CIRO",
+        "apellidoPaterno": "ALMERI",
+        "apellidoMaterno": "VERAMENDI",
+        "sexo": "1",
+        "feNacimiento": "01/06/1979",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140101",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "LIMA",
+        "ubigeoDomicilio": "140126",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "SAN MARTIN DE PORRES",
+        "domicilioDirecc": "AV. LOS ALAMOS 241 URB VALDIVIEZO",
+        "ubigeoPostula": "140126",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "SAN MARTIN DE PORRES",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/200223.jpg",
+        "estado": "INSCRITO",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 17:16:43",
+        "txGuidFormatoHojaVida": "47d5720e-f50b-42f0-abd3-96f18db13ae8",
+        "idSolicitudLista": 31532.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 163798,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 200223,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 155572,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS",
+                "carreraUni": "BACHILLER EN DERECHO",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2018",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 146292,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 2651,
+            "orgPolRenunciaOp": "FRENTE METROPOLITANO",
+            "anioRenunciaOp": "2015",
+            "idHojaVida": 200223,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 146291,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 47,
+            "orgPolRenunciaOp": "UNION POR EL PERU",
+            "anioRenunciaOp": "2020",
+            "idHojaVida": 200223,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 196540,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "LIMA-SAN MARTIN DE PORRAS- MZ I SUB LOTE 1 UNIDAD INMOBILIARIA N° 1 - URBANIZACION VALDIVIEZO",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "13058061",
+                "fichaTomoSunarp": null,
+                "autovaluo": 71250.0,
+                "idHojaVida": 200223,
+                "idEstado": 1,
+                "flValor": "71250"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 2332,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "VRALING S.A.C",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 3500.0,
+                "flValor": 7000.0,
+                "idHojaVida": 200223,
+                "idEstado": 1,
+                "txUsuario": "02881537",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

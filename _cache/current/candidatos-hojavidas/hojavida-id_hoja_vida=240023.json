@@ -1,0 +1,146 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 240023.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "72925541",
+        "nombres": "MAURO FRANCESCO",
+        "apellidoPaterno": "VALDIVIA",
+        "apellidoMaterno": "DIAZ",
+        "sexo": "1",
+        "feNacimiento": "10/11/1999",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140133",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "JESUS MARIA",
+        "ubigeoDomicilio": "140130",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "SANTIAGO DE SURCO",
+        "domicilioDirecc": "JR. KETIN VIDAL MZ Q, LT 33",
+        "ubigeoPostula": "140130",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "SANTIAGO DE SURCO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/240023.jpg",
+        "estado": "TACHA EN TRAMITE",
+        "idOrganizacionPolitica": 2173.0,
+        "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+        "numeroCandidato": 13.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 09:57:20",
+        "txGuidFormatoHojaVida": "068e4078-e362-46de-87ea-2c51e1fe9fc0",
+        "idSolicitudLista": 34379.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 178814,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AVANZA SOSTENIBLE",
+            "ocupacionProfesion": "CONSULTORIA DE SOSTENIBILIDAD",
+            "rucTrabajo": "20557154915",
+            "direccionTrabajo": "CALLE RAMON ZAVALA 395",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140115",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "MIRAFLORES",
+            "idHojaVida": 240023,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 157146,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 240023,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 153401,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD TECNOLOGICA DEL PERU",
+                "carreraUni": "ESTUDIANTE",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": null,
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "CURSANDO EL QUINTO CICLO DE INGIENERÍA INDUSTRIAL"
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 150815,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 4500.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 240023,
+                "idEstado": 1,
+                "totalIngresos": 4500.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 1807,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "CONTRATISTAS VAL S.A.C.",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 99.0,
+                "flValor": 150000.0,
+                "idHojaVida": 240023,
+                "idEstado": 1,
+                "txUsuario": "09878655",
+                "txFechaRegistro": null,
+                "txComentario": "99% DE ACCIONES",
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

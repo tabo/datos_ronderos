@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 142088.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "45560061",
+        "nombres": "JOSE EMERSON",
+        "apellidoPaterno": "MORA",
+        "apellidoMaterno": "MALDONADO",
+        "sexo": "1",
+        "feNacimiento": "04/02/1989",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "100304",
+        "naciDepartamento": "ICA",
+        "naciProvincia": "NASCA",
+        "naciDistrito": "MARCONA",
+        "ubigeoDomicilio": "140129",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "SANTA ROSA",
+        "domicilioDirecc": "MZ. O3 LOTE 7 URB EL GOLF DE SANTA ROSA",
+        "ubigeoPostula": "140129",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "SANTA ROSA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/142088.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL",
+            " REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 14:54:30",
+        "txGuidFormatoHojaVida": "946e3206-4a32-4712-9ded-bc6386ce06ad",
+        "idSolicitudLista": 23720.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 236395,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MUNICIPALIDAD METROPOLITANA DE LIMA",
+            "ocupacionProfesion": "ADMINISTRATIVO",
+            "rucTrabajo": "20131380951",
+            "direccionTrabajo": "JR, RUFINO TORRICO 1178",
+            "anioTrabajoDesde": "2017",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "LIMA",
+            "idHojaVida": 142088,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 208726,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 142088,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 179961,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD NACIONAL SAN LUIS DE GONZAGA",
+                "carreraUni": "INGENIERIA DE SISTEMAS",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2012",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 189326,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 30000.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 142088,
+                "idEstado": 1,
+                "totalIngresos": 30000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 194074,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "MAZDA FAMIILIAR",
+                "marca": null,
+                "placa": "D1L 419",
+                "valor": 17000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "01 AUTO",
+                "comentario": null,
+                "idHojaVida": 142088,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 194015,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "D1L419 ",
+                "valor": 17000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTO",
+                "comentario": "AUTO COLOR VINO",
+                "idHojaVida": 142088,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 153151.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42749599",
+        "nombres": "BETTY",
+        "apellidoPaterno": "ANGULO",
+        "apellidoMaterno": "GOSHI",
+        "sexo": "2",
+        "feNacimiento": "10/08/1984",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "070902",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "LA CONVENCION",
+        "naciDistrito": "ECHARATE",
+        "ubigeoDomicilio": "070915",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "LA CONVENCION",
+        "domiDistrito": "MEGANTONI",
+        "domicilioDirecc": "COMUNIDAD NATIVA TIMPIA",
+        "ubigeoPostula": "070915",
+        "postulaDepartamento": "CUSCO",
+        "postulaProvincia": "LA CONVENCION",
+        "postulaDistrito": "MEGANTONI",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/153151.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2857.0,
+        "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "08/06/2022 18:56:34",
+        "txGuidFormatoHojaVida": "f8cb73a5-cbf3-4171-8641-29292541f513",
+        "idSolicitudLista": 25200.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 162948,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "I.E.FRAY JULIAN MASEGOZA NRO64125",
+            "ocupacionProfesion": "DOCENTE CONTRATADO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CC.NN.TIMPIA",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "070915",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CUSCO",
+            "trabajoProvincia": "LA CONVENCION",
+            "trabajoDistrito": "MEGANTONI",
+            "idHojaVida": 153151,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 142469,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 153151,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 140232,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 2200.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 26400.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 2.2,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 153151,
+                "idEstado": 1,
+                "totalIngresos": 28602.2
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 152999,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "9476IB ",
+                "valor": 15000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "SSENDA",
+                "comentario": null,
+                "idHojaVida": 153151,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 607,
+                "tengoTitularidad": "NO",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "NATURAL",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 10000.0,
+                "flValor": 10000.0,
+                "idHojaVida": 153151,
+                "idEstado": 1,
+                "txUsuario": "28602349",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

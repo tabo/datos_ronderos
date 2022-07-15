@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 24006,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1264,
+        "txOrganizacionPolitica": "JUNTOS POR EL PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1720,
+        "juradoElectoral": "RECUAY",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/fd9a7eea-72df-4a0b-a0fd-6a05f4f47287.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/c39ae97b-230e-4386-83e8-9dc4d5587562.pdf",
+        "txCodExpedienteExt": "ERM.2022014638",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 129533,
+            "txPgProblema": "1. LOCALES EDUCATIVOS EN MAL\nESTADO",
+            "txPgObjetivo": "MEJORAMIENTO DE LOCALES\nEDUCATIVAS",
+            "txPgIndicador": "66.7% LOCALES EDUCATIVOS\nEN BUEN ESTADO",
+            "txPgMeta": "95% LOCALES EDUCATIVOS EN BUEN ESTADO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 129538,
+            "txPgProblema": "2. DEFICIENTE SERVICIOS BÁSICOS\nCON LA QUE CUENTA LAS\nINSTITUCIONES EDUCATIVAS",
+            "txPgObjetivo": "ADECUADOS SERVICIOS BÁSICOS\nPATA LAS INSTITUCIONES\nEDUCATIVAS",
+            "txPgIndicador": "67 % RED DE ELECTRICIDAD,\n33 % RED DE AGUA POTABLE",
+            "txPgMeta": "95% CON RED DE ELECTRICIDAD, 95% II.EE\nRED DE AGUA POTABLE",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 129543,
+            "txPgProblema": "3. LAS INSTITUCIONES EDUCATIVAS\nCARECEN ACCESO A INTERNET",
+            "txPgObjetivo": "INSTITUCIONES EDUCATIVAS\nACCESIBILIDAD CON ACCESO AL\nINTERNET.",
+            "txPgIndicador": "0.0%",
+            "txPgMeta": "50% II.EE CUENTAN CON ACCESO DE\nINTERNET",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 129553,
+            "txPgProblema": "1. FALTA DE RECURSOS HÍDRICOS E\nINFRAESTRUCTURA DE RIEGO",
+            "txPgObjetivo": "MEJORAMIENTO DE\nINFRAESTRUCTURA DE RIEGO.",
+            "txPgIndicador": "225 UNIDADES\nAGROPECUARIAS BAJO RIEGO Y\nSOLO EL 5% CON CANAL\nREVESTIDO",
+            "txPgMeta": "15% DE UNIDADES AGROPECUARIAS CON\nCANALES REVESTIDOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 129565,
+            "txPgProblema": "2. CARENCIA DE SISTEMA DE RIEGO\nPARCELARIO (RIEGO TECNIFICADO)",
+            "txPgObjetivo": "INSTALAR SISTEMA DE RIEGO\nPARCELARIO (RIEGO TECNIFICADO)\nEN LA UNIDADES\nAGROPECUARIAS",
+            "txPgIndicador": "0 HAS CON SISTEMA DE RIEGO\nPARCELARIO",
+            "txPgMeta": "20 HAS CON SISTEMA DE RIEGO PARCELARIO\nINSTALADO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 129573,
+            "txPgProblema": "3. UNIDADES PRODUCTIVAS\nAGROPECUARIAS NO RECIBIERON\nASISTENCIA (AT) TÉCNICA NI\nCAPACITACIÓN",
+            "txPgObjetivo": "UNIDADES AGROPECUARIAS\nRECIBEN ASISTENCIA TÉCNICA Y\nCAPACITACIÓN",
+            "txPgIndicador": "SÓLO EL 2% (05) UNIDADES\nAGROPECUARIAS RECIBIERON\nAT Y CAPACITACIÓN",
+            "txPgMeta": "DE 234 UNIDADES AGROPECUARIAS, EL 15%\nRECIBIRÁN ASISTENCIA TÉCNICA Y\nCAPACITACIÓN",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 129587,
+            "txPgProblema": "1. FALTA COBERTURA DEL SERVICIO\nINTEGRAL DE TRATAMIENTO DE\nRESIDUOS SÓLIDOS, EN EL\nDISTRITO.",
+            "txPgObjetivo": "MEJORAR LA COBERTURA PARA\nTRATAMIENTO DE RESIDUOS\nSÓLIDOS, EN DIFERENTES\nÁMBITOS DEL DISTRITO.",
+            "txPgIndicador": "75% DE COBERTURA DEL\nDESTINO FINAL DE RESIDUOS\nSÓLIDOS",
+            "txPgMeta": "95% DE COBERTURA DEL DESTINO FINAL DE\nRESIDUOS SÓLIDOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 129594,
+            "txPgProblema": "2. ECOSISTEMA DEGRADADO POR\nMUCHO TIEMPO",
+            "txPgObjetivo": "RECUPERACIÓN DE ECOSISTEMA\nY DE REGULACIÓN HÍDRICA",
+            "txPgIndicador": "0%",
+            "txPgMeta": "10% DE ECOSISTEMA RECUPERADO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 129598,
+            "txPgProblema": "3. REDUCCIÓN DE CAUDAL DEL\nAGUA EN 04 PUNTOS DE\nFILTRACIONES.",
+            "txPgObjetivo": "RECUPERACIÓN DEL SERVICIO\nECOSISTÉMICO DE REGULACIÓN\nHÍDRICA EN PUNTOS DE\nCAPTACIÓN DEL AGUA",
+            "txPgIndicador": "0 PUNTOS DE CAPTACIÓN\nHÍDRICA RECUPERADO",
+            "txPgMeta": "04 PUNTOS DE CAPTACIÓN HÍDRICA\nRECUPERADO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 129604,
+            "txPgProblema": "1. INEFICIENCIA EN CUMPLIMIENTO\nDE METAS PARA EL INCENTIVO\nMUNICIPAL",
+            "txPgObjetivo": "DESARROLLO DE CAPACIDADES DE\nLOS FUNCIONARIOS DE LA\nMUNICIPALIDAD",
+            "txPgIndicador": "50% DE FUNCIONARIOS\nCAPACITADOS PARA EL\nCUMPLIMIENTO DE METAS",
+            "txPgMeta": "90% DE FUNCIONARIOS CAPACITADOS PARA\nEL CUMPLIMIENTO DE METAS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 129610,
+            "txPgProblema": "2. RETRASO EN LA EJECUCIÓN DE\nINVERSIONES",
+            "txPgObjetivo": "INCREMENTAR EL AVANCE DE\nEJECUCIÓN DE INVERSIONES",
+            "txPgIndicador": "PROMEDIO DE 70% DE\nAVANCE DE EJECUCIÓN DE\nINVERSIONES AL CERRAR CADA\nAÑO FISCAL",
+            "txPgMeta": "PROMEDIO 98% DE EJECUCIÓN DE\nINVERSIONES AL CERRAR CADA AÑO FISCAL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 129618,
+            "txPgProblema": "3. INEFICIENCIA EN GESTIÓN\nPÚBLICA PARA LA PRESTACIÓN\nDEL SERVICIO PÚBLICO",
+            "txPgObjetivo": "IMPLEMENTACIÓN DE GESTIÓN\nPOR PROCESO Y ORGANIZACIÓN\nINSTITUCIONAL PARA EFICIENTE\nSERVICIO PÚBLICO",
+            "txPgIndicador": "0 SISTEMA ADMINISTRATIVO\nIMPLEMENTADO POR GESTIÓN\nPOR PROCESO",
+            "txPgMeta": "05 SISTEMAS ADMINISTRATIVOS\nREORGANIZADO Y REALIZANDO GESTIÓN POR\nPROCESO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

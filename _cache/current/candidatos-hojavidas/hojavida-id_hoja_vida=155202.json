@@ -1,0 +1,150 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 155202.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "41382802",
+        "nombres": "HILDEN",
+        "apellidoPaterno": "SALAS",
+        "apellidoMaterno": "CASTILLO",
+        "sexo": "1",
+        "feNacimiento": "19/07/1980",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040101",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "AREQUIPA",
+        "naciDistrito": "AREQUIPA",
+        "ubigeoDomicilio": "040107",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "AREQUIPA",
+        "domiDistrito": "MIRAFLORES",
+        "domicilioDirecc": "LINO URQUIETA 600",
+        "ubigeoPostula": "040107",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "AREQUIPA",
+        "postulaDistrito": "MIRAFLORES",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/155202.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2257.0,
+        "organizacionPolitica": "JUNTOS POR EL DESARROLLO DE AREQUIPA",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 18:14:05",
+        "txGuidFormatoHojaVida": "0d628e01-6350-45b5-84a8-42edafa0b4c4",
+        "idSolicitudLista": 25481.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 173142,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "ENTRENADOR DE FUTBOL",
+            "rucTrabajo": "10413828029",
+            "direccionTrabajo": "CALLE LA MECED 530",
+            "anioTrabajoDesde": "2018",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "040107",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "AREQUIPA",
+            "trabajoDistrito": "MIRAFLORES",
+            "idHojaVida": 155202,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "ACADEMIA DE FUTBOL HILDEN PATO SALAS"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 151826,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 155202,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 137947,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 32,
+                "orgPolCargoElec": "PARTIDO APRISTA PERUANO",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2007",
+                "anioCargoElecHasta": "2010",
+                "idHojaVida": 155202,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 147109,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 30000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 155202,
+                "idEstado": 1,
+                "totalIngresos": 30000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 186107,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CALLE VILLA FUERTE 127 MIRAFLORES",
+                "comentario": "SUCESION INTESTADA",
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "11338318",
+                "fichaTomoSunarp": null,
+                "autovaluo": 500.0,
+                "idHojaVida": 155202,
+                "idEstado": 1,
+                "flValor": "90000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,157 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 235093.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "10485348",
+        "nombres": "SEVERO CICILIO",
+        "apellidoPaterno": "SALDAÑA",
+        "apellidoMaterno": "GUTIERREZ",
+        "sexo": "1",
+        "feNacimiento": "01/02/1950",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140713",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "YAUYOS",
+        "naciDistrito": "HUANGASCAR",
+        "ubigeoDomicilio": "140713",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "YAUYOS",
+        "domiDistrito": "HUANGASCAR",
+        "domicilioDirecc": "CALLE 28 DE JULIO S/N",
+        "ubigeoPostula": "140713",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "YAUYOS",
+        "postulaDistrito": "HUANGASCAR",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/235093.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 19:41:13",
+        "txGuidFormatoHojaVida": "e18a95f4-57b4-4544-bd7d-b1efbc2ecc32",
+        "idSolicitudLista": 35740.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 197717,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AGRICULTOR",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "HUANGASCAR",
+            "anioTrabajoDesde": "1990",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140713",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "YAUYOS",
+            "trabajoDistrito": "HUANGASCAR",
+            "idHojaVida": 235093,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 174160,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 235093,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 150254,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 46,
+            "orgPolRenunciaOp": "PERU POSIBLE",
+            "anioRenunciaOp": "2017",
+            "idHojaVida": 235093,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 150253,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2190,
+            "orgPolRenunciaOp": "VAMOS PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 235093,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 163389,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 12000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 235093,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 205866,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "YAUYOS-HUANGASCAR- MZ I LOTE 4 - CENTRO POBLADO HUANGASCAR",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "21168896",
+                "fichaTomoSunarp": null,
+                "autovaluo": 10000.0,
+                "idHojaVida": 235093,
+                "idEstado": 1,
+                "flValor": "10000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

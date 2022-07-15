@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 17792,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2731,
+        "txOrganizacionPolitica": "PODEMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/ade019a2-8084-457e-b087-f83f2f770690.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/6ca10562-4062-4b8f-a912-0bd43c1a0656.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 160601,
+            "txPgProblema": "DETERIORO DE LA CALIDAD DE VIDA E INCREMENTO DE LA POBREZA MONETARIA POST PANDEMIA\nINCREMENTO DE LA TASA DE DELITOS LUEGO QUE DECAYERAN POR CAUSA DE LA PANDEMIA\nPOBLACIÓN DEL DISTRITO NO SIENTE PLENAMENTE IDENTIFICADO CON SU DISTRITO",
+            "txPgObjetivo": "LOGRAR EL DESARROLLO HUMANO DE LA POBLACIÓN DEL DISTRITO EL AGUSTINO\nMEJORAR LA SEGURIDAD CIUDADANA EN EL DISTRITO EL AGUSTINO\nFORTALECER LA IDENTIDAD CULTURAL EN LA POBLACIÓN DEL DISTRITO EL AGUSTINO",
+            "txPgIndicador": "ÍNDICE DE DESARROLLO HUMANO \nPOBREZA MONETARIA (%) \nTASA DE DELITOS POR 1000 HABITANTES \nESTUDIANTES DE SECUNDARIA QUE SE IDENTIFICAN CON LA CULTURA Y HISTORIA DEL DISTRITO (%)",
+            "txPgMeta": "0.6990\t0.7000\t0.7100\t0.7200\n16.5\t16.0\t15.5\t15.0\n35.0\t34.0\t32.0\t30.0\n25%\t30%\t40%\t50%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 160688,
+            "txPgProblema": "DISMINUCIÓN DE LOS INGRESOS FAMILIARES POR IMPACTO DE LA PANDEMIA\nINFRAESTRUCTURA VIAL Y DE SERVICIOS PÚBLICOS EN EL DISTRITO NO SE ENCUENTRAN EN ÓPTIMAS CONDICIONES",
+            "txPgObjetivo": "AMPLIAR LAS OPORTUNIDADES ECONÓMICAS PARA LA POBLACIÓN DEL DISTRITO EL AGUSTINO\nMEJORAR LA INFRAESTRUCTURA VIAL DE LOS SERVICIOS PÚBLICOS EN EL DISTRITO EL AGUSTINO",
+            "txPgIndicador": "INGRESO FAMILIAR PER CÁPITA (SOLES) \nEJECUCIÓN PLAN ANUAL DE INVERSIONES EN VÍAS URBANAS, SANEAMIENTO URBANO Y PREVENCIÓN DE DESASTRES (%)",
+            "txPgMeta": "1,430.0\t1,440.0\t1,435.0\t1,460.0\n80.0%\t85.0%\t90.0%\t90.0%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 160716,
+            "txPgProblema": "LA OFERTA DE ÁREAS VERDES EN EL DISTRITO ES DIFICIENTE",
+            "txPgObjetivo": "MEJORAR LA CALIDAD AMBIENTAL EN EL DISTRITO EL AGUSTINO",
+            "txPgIndicador": "ÁREAS VERDES PER CÁPITA (M2)",
+            "txPgMeta": "1.40\t1.50\t1.60\t1.80",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 160742,
+            "txPgProblema": "DÉBIL CAPACIDAD DE GESTIÓN REFLEJADA EN BAJA EJECUCIÓN DE PROYECTOS DE INVERSIÓN",
+            "txPgObjetivo": "FORTALECER EL DESARROLLO INSTITUCIONAL DE LA MUNICIPALIDAD DISTRITAL EL AGUSTINO",
+            "txPgIndicador": "EJECUCIÓN DE PRESUPUESTO PARA PROYECTOS (%)",
+            "txPgMeta": "80.0%\t85.0%\t90.0%\t95.0%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

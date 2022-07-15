@@ -1,0 +1,158 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 226171.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40914478",
+        "nombres": "JUAN ROBERTO",
+        "apellidoPaterno": "SACSI",
+        "apellidoMaterno": "INGA",
+        "sexo": "1",
+        "feNacimiento": "17/09/1980",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040301",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "CAMANA",
+        "naciDistrito": "CAMANA",
+        "ubigeoDomicilio": "030301",
+        "domiDepartamento": "APURIMAC",
+        "domiProvincia": "ANDAHUAYLAS",
+        "domiDistrito": "ANDAHUAYLAS",
+        "domicilioDirecc": "AV. JOSE GALVES 339",
+        "ubigeoPostula": "030000",
+        "postulaDepartamento": "APURIMAC",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/226171.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2737.0,
+        "organizacionPolitica": "PROGRESISTA DE APURIMAC",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "ACCESITARIO"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 10:15:11",
+        "txGuidFormatoHojaVida": "864fdc82-7717-4ab6-a5d5-02fd4ab0ffb3",
+        "idSolicitudLista": 34705.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 232294,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "HERRERO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JOSE GALVES N°339",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "030301",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "APURIMAC",
+            "trabajoProvincia": "ANDAHUAYLAS",
+            "trabajoDistrito": "ANDAHUAYLAS",
+            "idHojaVida": 226171,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 205018,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 226171,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 141940,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "LICENCIADO DEL EJERCITO DEL PERU",
+                "carreraNoUni": "LICENCIADO DEL EJERCITO",
+                "concluidoNoUni": "1",
+                "idHojaVida": 226171,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 161171,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 179,
+            "orgPolRenunciaOp": "PARTIDO NACIONALISTA PERUANO",
+            "anioRenunciaOp": "2020",
+            "idHojaVida": 226171,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 186604,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 13200.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 226171,
+                "idEstado": 1,
+                "totalIngresos": 13200.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 231576,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "AV. JOSE GALVES N°339",
+                "comentario": "CASA  COMPARTIDA",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 50.0,
+                "idHojaVida": 226171,
+                "idEstado": 1,
+                "flValor": "45000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

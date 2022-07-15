@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 172717.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "71690340",
+        "nombres": "MILAGROS CAROLINA",
+        "apellidoPaterno": "LOVERA",
+        "apellidoMaterno": "DE LA CRUZ",
+        "sexo": "2",
+        "feNacimiento": "16/03/2001",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "100401",
+        "naciDepartamento": "ICA",
+        "naciProvincia": "PISCO",
+        "naciDistrito": "PISCO",
+        "ubigeoDomicilio": "100406",
+        "domiDepartamento": "ICA",
+        "domiProvincia": "PISCO",
+        "domiDistrito": "SAN ANDRES",
+        "domicilioDirecc": "CALLE INDEPENDENCIA NORTE 280",
+        "ubigeoPostula": "100400",
+        "postulaDepartamento": "ICA",
+        "postulaProvincia": "PISCO",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/172717.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2701.0,
+        "organizacionPolitica": "UNO POR ICA",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 02:33:16",
+        "txGuidFormatoHojaVida": "3e3afbdc-992d-411c-9b08-b7667ffdcc19",
+        "idSolicitudLista": 27869.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 191550,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MULTITRANSP MILAGRITOS Y ESTRELLA S.R.L.",
+            "ocupacionProfesion": "SECRETARIA",
+            "rucTrabajo": "20540746975",
+            "direccionTrabajo": "AV. INDEPENDENCIA NORTE NRO. 280",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "100406",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ICA",
+            "trabajoProvincia": "PISCO",
+            "trabajoDistrito": "SAN ANDRES",
+            "idHojaVida": 172717,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 168767,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 172717,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 159440,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "SAN IGNACIO DE LOYOLA",
+                "carreraUni": "ECONOMISTA",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "ESTUDIANTE"
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 159481,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 11160.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 172717,
+                "idEstado": 1,
+                "totalIngresos": 11160.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 170163,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "AUTOMOVIL",
+                "marca": null,
+                "placa": "BXC-611",
+                "valor": 60000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTOMOVIL",
+                "comentario": "AUTO FINANCIADO POR EL BANCO",
+                "idHojaVida": 172717,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 2842,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "MULTITRANSP MILAGRITOS Y ESTRELLA S.R.L.",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 2500.0,
+                "flValor": 2500.0,
+                "idHojaVida": 172717,
+                "idEstado": 1,
+                "txUsuario": "08976447",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

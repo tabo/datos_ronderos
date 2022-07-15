@@ -1,0 +1,150 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 163131.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "23954188",
+        "nombres": "FRANCISCO",
+        "apellidoPaterno": "AQUISE",
+        "apellidoMaterno": "VELASQUE",
+        "sexo": "1",
+        "feNacimiento": "04/10/1963",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "070101",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "CUSCO",
+        "naciDistrito": "CUSCO",
+        "ubigeoDomicilio": "070305",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "ANTA",
+        "domiDistrito": "MOLLEPATA",
+        "domicilioDirecc": "COMUNID.RAMPAC S/N",
+        "ubigeoPostula": "070305",
+        "postulaDepartamento": "CUSCO",
+        "postulaProvincia": "ANTA",
+        "postulaDistrito": "MOLLEPATA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/163131.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2857.0,
+        "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 07:38:04",
+        "txGuidFormatoHojaVida": "2743b9ba-6d3b-4057-aa58-25b44825e1e9",
+        "idSolicitudLista": 26578.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 216324,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "COMUNIDAD RAMPAC SIN NUMERO",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "070305",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CUSCO",
+            "trabajoProvincia": "ANTA",
+            "trabajoDistrito": "MOLLEPATA",
+            "idHojaVida": 163131,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "AGRICULTOR  DE NACIMIENTO"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 190642,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 163131,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 142432,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": -1,
+                "orgPolCargoElec": "COMUNIDAD CAMPESINA",
+                "idCargoEleccion": 1,
+                "cargoEleccion": "PRESIDENTE DE LA REPÚBLICA",
+                "anioCargoElecDesde": "2017",
+                "anioCargoElecHasta": "2022",
+                "idHojaVida": 163131,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "PRESIDENTE DE LA COMUNIDAD CAMPESINA  DE RAMPAC"
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 175842,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 12000.0,
+                "idHojaVida": 163131,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 219931,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "COMUNIDAD CAMPESINA RAMPAC S/N",
+                "comentario": "CASA CAMPO DENTRO DE LA COMUNIDAD",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 20.0,
+                "idHojaVida": 163131,
+                "idEstado": 1,
+                "flValor": "10000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

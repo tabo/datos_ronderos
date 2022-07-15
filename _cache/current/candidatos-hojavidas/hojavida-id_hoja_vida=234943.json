@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 234943.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "47205654",
+        "nombres": "NEROLY",
+        "apellidoPaterno": "SAAVEDRA",
+        "apellidoMaterno": "CORTEZ",
+        "sexo": "1",
+        "feNacimiento": "08/05/1990",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "190205",
+        "naciDepartamento": "PIURA",
+        "naciProvincia": "AYABACA",
+        "naciDistrito": "PACAIPAMPA",
+        "ubigeoDomicilio": "190205",
+        "domiDepartamento": "PIURA",
+        "domiProvincia": "AYABACA",
+        "domiDistrito": "PACAIPAMPA",
+        "domicilioDirecc": "CASERIO SAN LORENZO S/N",
+        "ubigeoPostula": "190205",
+        "postulaDepartamento": "PIURA",
+        "postulaProvincia": "AYABACA",
+        "postulaDistrito": "PACAIPAMPA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/234943.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 1411.0,
+        "organizacionPolitica": "REGION PARA TODOS",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 21:21:11",
+        "txGuidFormatoHojaVida": "39e9f744-75db-4a25-be98-4917343c44f2",
+        "idSolicitudLista": 35719.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 233532,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "SOLDADOR \"MODASA\"",
+            "ocupacionProfesion": "SOLDADOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ANTIGUA PANAMERICANA - SUR - LURIN",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "2018",
+            "ubigeoTrabajo": "140113",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "LURIN",
+            "idHojaVida": 234943,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 206107,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 234943,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 232290,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "LIMA-LURIN- MZ H LOTE 6    SECTOR MARTHA MILAGROS ALTA - ASENTAMIENTO HUMANO PROYECTO INTEGRAL MARTH",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "12532416",
+                "fichaTomoSunarp": null,
+                "autovaluo": 20000.0,
+                "idHojaVida": 234943,
+                "idEstado": 1,
+                "flValor": "20000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 192537,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "P1O944 ",
+                "valor": 40000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "P10944",
+                "comentario": null,
+                "idHojaVida": 234943,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

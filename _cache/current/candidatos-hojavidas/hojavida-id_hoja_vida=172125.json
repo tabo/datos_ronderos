@@ -1,0 +1,167 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 172125.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42294774",
+        "nombres": "LITMAN DANIEL",
+        "apellidoPaterno": "VILLANUEVA",
+        "apellidoMaterno": "RUIZ",
+        "sexo": "1",
+        "feNacimiento": "14/01/1984",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "210805",
+        "naciDepartamento": "SAN MARTIN",
+        "naciProvincia": "TOCACHE",
+        "naciDistrito": "UCHIZA",
+        "ubigeoDomicilio": "210806",
+        "domiDepartamento": "SAN MARTIN",
+        "domiProvincia": "TOCACHE",
+        "domiDistrito": "SANTA LUCIA",
+        "domicilioDirecc": "CASERIO SANTA ELENA",
+        "ubigeoPostula": "210806",
+        "postulaDepartamento": "SAN MARTIN",
+        "postulaProvincia": "TOCACHE",
+        "postulaDistrito": "SANTA LUCIA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/172125.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 11:45:37",
+        "txGuidFormatoHojaVida": "715246f8-f963-43b2-b3fb-3670addd9eb0",
+        "idSolicitudLista": 27785.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 174719,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "PALMAS DEL ESPINO S.A.",
+            "ocupacionProfesion": "OPERARIO DE BIOGAS",
+            "rucTrabajo": "20104121374",
+            "direccionTrabajo": "PALMAWUASI S/N",
+            "anioTrabajoDesde": "2013",
+            "anioTrabajoHasta": "2015",
+            "ubigeoTrabajo": "210806",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "SAN MARTIN",
+            "trabajoProvincia": "TOCACHE",
+            "trabajoDistrito": "SANTA LUCIA",
+            "idHojaVida": 172125,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 153259,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 172125,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 148102,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 16200.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 172125,
+                "idEstado": 1,
+                "totalIngresos": 16200.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 187381,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "VIVIENDA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CASERIO SANTA ELENA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 172125,
+                "idEstado": 1,
+                "flValor": "20000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 160056,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "6165JS ",
+                "valor": 6000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR AZUL PLATA,MARCA MOTOKAR,MODELO CCG125",
+                "comentario": null,
+                "idHojaVida": 172125,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 160055,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "MX57499",
+                "valor": 1500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR NEGRO,MARCA  MOTORS,MODELO CC110",
+                "comentario": null,
+                "idHojaVida": 172125,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

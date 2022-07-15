@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20262,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1257,
+        "txOrganizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1737,
+        "juradoElectoral": "YAROWILCA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/599633b3-3cfa-460e-8edc-6b94dbd2b399.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/b238e342-8ce4-4a91-bd67-eebd7a3a5344.pdf",
+        "txCodExpedienteExt": "ERM.2022008849",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 195660,
+            "txPgProblema": "INADECUADO SERVICIO DE SALUD A CONSECUENCIA DE LA INADECUADA E INSUFICIENTE INFRAESTRUCTURA, MOBILIARIO Y ESCASES EN CUANTO AL EQUIPAMIENTO, LIMITANDO ASÍ LAS ACTIVIDADES DEL PERSONAL DE SALUD.",
+            "txPgObjetivo": "CREACIÓN, MEJORAMIENTO, AMPLIACIÓN E IMPLEMENTACIÓN DEL SERVICIO INTEGRAL DE SALUD EN LOS CENTROS DE SALUD, PUESTOS DE SALUD Y PUESTOS SATÉLITES.",
+            "txPgIndicador": "PORCENTAJE DE CENTROS DE SALUD, PUESTOS DE SALUD Y PUESTOS SATÉLITES EN BUEN ESTADO",
+            "txPgMeta": "30% DE CENTROS DE SALUD, PUESTOS DE SALUD Y PUESTOS SATÉLITES EN BUEN ESTADO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 195672,
+            "txPgProblema": "INADECUADAS INFRAESTRUCTURAS Y LIMITADO EQUIPAMIENTO DE LAS INSTITUCIONES EDUCATIVAS.",
+            "txPgObjetivo": "CREACIÓN, MEJORAMIENTO Y AMPLIACIÓN DE LOS SERVICIOS DE OFERTA EDUCATIVA EN LOS NIVELES INICIAL, PRIMARIA, SECUNDARIA, CEBA, CEBE Y SUPERIOR TECNOLÓGICA.",
+            "txPgIndicador": "PORCENTAJE DE LOCALES EDUCATIVOS EN BUEN ESTADO",
+            "txPgMeta": "EL 30% DE LAS INSTITUCIONES EDUCATIVAS CONTARAN CON LOCALES PÚBLICOS EN BUEN ESTADO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 195682,
+            "txPgProblema": "ALTOS ÍNDICES DE ENFERMEDADES DIARREICAS, GASTROINTESTINALES Y DÉRMICAS EN LA POBLACIÓN EN SITUACIÓN DE VULNERABILIDAD.",
+            "txPgObjetivo": "CREACIÓN, MEJORAMIENTO Y AMPLIACIÓN DE LOS SERVICIOS DE AGUA POTABLE Y DISPOSICIÓN SANITARIA DE EXCRETAS.",
+            "txPgIndicador": "PORCENTAJE DE VIVIENDAS CON ACCESO A SERVICIO DE AGUA POTABLE Y ALCANTARILLADO.",
+            "txPgMeta": "EL 60% DE LA POBLACIÓN CONTARA CON ACCESO A AGUA POR RED PÚBLICA Y EL 50% DE LA POBLACIÓN CONTARA CON ACCESO A SANEAMIENTO POR RED PÚBLICA.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 195698,
+            "txPgProblema": "DEFICIENTE PRODUCTIVIDAD AGRÍCOLA E INSUFICIENTE INVERSIÓN EN INFRAESTRUCTURA DE RIEGO.",
+            "txPgObjetivo": "CREACIÓN, MEJORAMIENTO, AMPLIACIÓN E INSTALACIÓN DEL SERVICIO DE RIEGO TECNIFICADO.",
+            "txPgIndicador": "PORCENTAJE DE SUPERFICIE AGRÍCOLA CON SERVICIO DE AGUA PARA RIEGO.",
+            "txPgMeta": "EL 40% DE LA SUPERFICIE AGRÍCOLA CONTARÁ CON EL SERVICIO DE AGUA PARA RIEGO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 195710,
+            "txPgProblema": "TROCHAS CARROZABLES Y CAMINOS VECINALES EN MAL ESTADO.",
+            "txPgObjetivo": "CREACIÓN (CONSTRUCCIÓN), MEJORAMIENTO Y REHABILITACIÓN DE LOS CAMINOS VECINALES (CARRETERA).",
+            "txPgIndicador": "PORCENTAJE DE VÍAS VECINALES EN ADECUADAS CONDICIONES.",
+            "txPgMeta": "EL 30% DE LAS LOCALIDADES CONTARAN CON UN ADECUADO SERVICIO DE TRANSITABILIDAD (VÍAS VECINALES EN ÓPTIMAS CONDICIONES).",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 195730,
+            "txPgProblema": "LIMITADA E INADECUADO ACCESO A LOS SERVICIOS TURÍSTICOS.",
+            "txPgObjetivo": "CREACIÓN, AMPLIACIÓN Y MEJORAMIENTO DE LOS SERVICIOS DE ORIENTACIÓN, INTERPRETACIÓN, Y ACCESO DE LOS RECURSOS TURÍSTICOS",
+            "txPgIndicador": "PORCENTAJE DE RECURSOS TURÍSTICOS CON SERVICIOS ADECUADOS.",
+            "txPgMeta": "30% DE SERVICIOS TURÍSTICOS ADECUADOS Y LOS CENTROS ARQUEOLÓGICOS, LAGUNAS Y PAISAJES ESTARÁN RECONOCIDAS COMO ATRACTIVO TURÍSTICO AL 80%.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 195744,
+            "txPgProblema": "INADECUADO TRATAMIENTO DE LOS RESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "CREACIÓN DE LA GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS MUNICIPALES EN LAS ÁREAS URBANAS Y CENTROS POBLADOS.",
+            "txPgIndicador": "PORCENTAJE DE RESIDUOS SÓLIDOS RECOLECTADOS.",
+            "txPgMeta": "EL 50% DE LA POBLACIÓN CON ACCESO AL SERVICIO DE RELLENO SANITARIO, PARA EL ADECUADO MANEJO DE RESIDUOS SÓLIDOS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 195754,
+            "txPgProblema": "EROSIÓN Y CONTAMINACIÓN DE SUELOS.",
+            "txPgObjetivo": "RECUPERACIÓN Y MEJORAMIENTO DE LOS SERVICIOS ECOSISTÉMICOS, CONTROL DE EROSIÓN EN SUELO Y REGULACIÓN DEL RECURSO HÍDRICO, A TRAVÉS DE LA FORESTACIÓN Y REFORESTACIÓN.",
+            "txPgIndicador": "PORCENTAJE DE ÁREAS REFORESTADAS.",
+            "txPgMeta": "EL 30% DE LA SUPERFICIE DEL DISTRITO DE APARICIO POMARES ESTA REFORESTADO, FOMENTANDO ASÍ LA PRESERVACIÓN DEL MEDIO AMBIENTE.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 195779,
+            "txPgProblema": "DESAPROBACIÓN MODERADA DE LAS AUTORIDADES COMUNALES Y MUNICIPALES.",
+            "txPgObjetivo": "FORTALECER LAS INSTITUCIONES CON LA CREACIÓN DE LOCALES COMUNALES Y PROMOVER SU ARTICULACIÓN.",
+            "txPgIndicador": "PORCENTAJE DE LOCALES COMUNALES ADECUADOS.",
+            "txPgMeta": "50% DE LOCALES COMUNALES EN BUEN ESTADO.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 195800,
+            "txPgProblema": "LIMITADA PARTICIPACIÓN DE LAS JUNTAS VECINALES.",
+            "txPgObjetivo": "CONSOLIDAR LA GOBERNABILIDAD DEL DISTRITO, CON LA PARTICIPACIÓN CIUDADANA Y LA TRANSPARENCIA DE LA GESTIÓN.",
+            "txPgIndicador": "PORCENTAJE DE PARTICIPACIÓN CIUDADANA.",
+            "txPgMeta": "90% DE PARTICIPACIÓN CIUDADANA.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 195809,
+            "txPgProblema": "ALTOS ÍNDICES DE BUROCRACIA EN LAS INSTITUCIONES PÚBLICAS QUE NO PROMUEVE LA PARTICIPACIÓN CIUDADANA.",
+            "txPgObjetivo": "MEJORAR LOS SERVICIOS ADMINISTRATIVOS Y DE ATENCIÓN AL USUARIO",
+            "txPgIndicador": "PORCENTAJE DE SERVICIOS ADECUADOS Y ADMINISTRATIVOS DE ATENCIÓN AL USUARIO.",
+            "txPgMeta": "100% DE SERVICIOS ADECUADOS.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

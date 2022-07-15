@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 21020,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 4,
+        "txOrganizacionPolitica": "ACCION POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1705,
+        "juradoElectoral": "MARISCAL NIETO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/dafa9b54-4086-4d0a-b254-8cbe106503ab.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/707789c9-5df2-4084-839b-a89e6151e9f8.pdf",
+        "txCodExpedienteExt": "ERM.2022013051",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 138530,
+            "txPgProblema": "DESIGUALDAD ENTRE GÉNEROS.",
+            "txPgObjetivo": "LOGRAR LA IGUALDAD ENTRE LOS GÉNEROS Y EMPODERAR A LAS MUJERES Y LAS NIÑAS DEL DISTRITO",
+            "txPgIndicador": "% DE DESIGUALDAD DE GÉNERO",
+            "txPgMeta": "ELIMINAR LA BRECHA DE 80% DE DESIGUALDAD A 0%.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138536,
+            "txPgProblema": "FALTA DE LA PARTICIPACIÓN ACTIVA DE LOS JÓVENES EN LA VIDA ECONÓMICA, SOCIAL Y POLÍTICA DEL DISTRITO.",
+            "txPgObjetivo": "APOYAR Y FOMENTAR LA PARTICIPACIÓN ACTIVA DE LOS JÓVENES EN LA VIDA ECONÓMICA, SOCIAL Y POLÍTICA DEL DISTRITO.",
+            "txPgIndicador": "% DE TALLERES CON PARTICIPACIÓN DE POBLACIÓN JOVEN.",
+            "txPgMeta": "REALIZACIÓN DE TALLERES PARTICIPATIVOS DE PARA POBLACIÓN JOVEN 0% A 80%.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138556,
+            "txPgProblema": "FALTA DE PROVISIÓN Y COBERTURA DE SERVICIOS BÁSICOS EN EL ÁREA URBANA Y RURAL",
+            "txPgObjetivo": "MEJORAR Y AMPLIAR LA PROVISIÓN DE SERVICIOS BÁSICOS.\nIMPLEMENTACIÓN DE LOS PROGRAMAS DEL ESTADO",
+            "txPgIndicador": "% DE PERSONAS SIN ACCESO A SERVICIOS BÁSICOS",
+            "txPgMeta": "REDUCIR LA BRECHA DEL ACCESO A SERVICIOS BÁSICOS DE 70% A 10%.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 138579,
+            "txPgProblema": "REDUCIDA PRODUCTIVIDAD DE LA ACTIVIDAD AGRÍCOLA",
+            "txPgObjetivo": "INCREMENTAR LA PRODUCTIVIDAD DE LA ACTIVIDAD AGRÍCOLA",
+            "txPgIndicador": "% DE PRODUCTIVIDAD AGRÍCOLA",
+            "txPgMeta": "INCREMENTAR CULTIVO BAJO RIEGO DE 60% A 90%.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138585,
+            "txPgProblema": "LA FALTA DE FORTALECIMIENTO Y MEJORAMIENTO EN EL MANEJO GENÉTICO DE CAMÉLIDOS SUDAMERICANOS",
+            "txPgObjetivo": "IMPLEMENTACIÓN DE AHIJADEROS Y COBERTIZOS; Y EL MEJORAMIENTO DE MANEJO ADECUADO ESTRICTO Y EXCLUSIVO DE LOS CAMÉLIDOS SUDAMERICANOS MEDIANTE",
+            "txPgIndicador": "% DE PRODUCTIVIDAD PECUARIA",
+            "txPgMeta": "INCREMENTAR LA ACTIVIDAD DE LA CRIANZA DE CAMÉLIDOS DE UN 30% A 95%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138590,
+            "txPgProblema": "FALTA DE INNOVACIÓN TECNOLÓGICA",
+            "txPgObjetivo": "IMPLEMENTAR TECNOLOGÍA EN EL SECTOR AGRÍCOLA.",
+            "txPgIndicador": "% DE PRODUCTORES ASISTIDOS EN INNOVACIÓN TECNOLÓGICA.",
+            "txPgMeta": "MEJORAR LA ACTIVIDAD AGRÍCOLA Y PECUARIA 10% A 95%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 138598,
+            "txPgProblema": "LA EXCESIVA CONTAMINACIÓN DEL MEDIO AMBIENTE",
+            "txPgObjetivo": "ASEGURAR EL USO EFICIENTE DE POTENCIALIDADES GEOGRÁFICAS DEL DISTRITO QUE PERMITAN SERVIR DE SOPORTE EL DESARROLLO ECONÓMICO Y SOCIAL\nIMPLEMENTAR UN PLAN DE SEGREGACIÓN Y/O RECICLAJE SEGÚN LAS NORMAS AMBIENTALES",
+            "txPgIndicador": "% DE POBLACIÓN CAPACITADA EN EL MANEJO DE RESIDUOS SOLIDOS",
+            "txPgMeta": "DIAGNOSTICO EN EL MANEJO DE RESIDUOS SÓLIDOS DE LA POBLACIÓN 50%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138603,
+            "txPgProblema": "LA DEPREDACIÓN DE BOSQUES, Y PASTOS NATURALES.",
+            "txPgObjetivo": "REFORESTACIÓN DE BOSQUES, MANEJO DE SUELOS Y RENOVACIÓN DE PASTOS\nNATURALES",
+            "txPgIndicador": "% DE ÁREAS FORESTADAS",
+            "txPgMeta": "INCREMENTAR ÁREAS DE FORESTACIÓN CON ESPECIES RESISTENTES AL CLIMA AL 20%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138608,
+            "txPgProblema": "OBRAS DE SANEAMIENTO BÁSICO INCONCLUSAS Y/O OBSOLETAS, SIENDO PRINCIPAL FUENTE CONTAMINANTE DE\nRÍOS Y SUELOS EN LA REGIÓN",
+            "txPgObjetivo": "REHABILITACIÓN, AMPLIACIÓN Y MEJORAMIENTO DE OBRAS DE SANEAMIENTO Y SU REUSO PARA FINES FORESTALES Y PRODUCTIVOS",
+            "txPgIndicador": "N° DE DOCUMENTOS Y/O ESTUDIOS",
+            "txPgMeta": "DIAGNÓSTICO DE LAS ACTUALES OBRAS DE SANEAMIENTO.\nIMPLEMENTACIÓN DEL MONITOREO DE PLANTAS DE TRATAMIENTO DE AGUAS RESIDUALES AL 100%\nELABORACIÓN DE ESTUDIOS PARA EL TRATAMIENTO DE AGUAS RESIDUALES Y SISTEMAS DE TRATAMIENTO PARA REUSO.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 138615,
+            "txPgProblema": "LA EXISTENCIA DE GRUPOS CONFLICTIVOS Y EXCLUYENTES EN EL DISTRITO.",
+            "txPgObjetivo": "GARANTIZAR LA ADOPCIÓN EN TODOS LOS NIVELES DE DECISIONES INCLUSIVAS",
+            "txPgIndicador": "N° DE ESPACIOS DE CONCERTACIÓN",
+            "txPgMeta": "ELIMINAR LOS GRUPOS A 0%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138623,
+            "txPgProblema": "BAJOS NIVELES DE\nRENTABILIDAD DEL SECTOR AGROPECUARIO",
+            "txPgObjetivo": "FORTALECER E INCREMENTAR LA RENTABILIDAD, PRODUCTIVIDAD E INGRESO DEL SECTOR AGROPECUARIO",
+            "txPgIndicador": "INGRESO PER CÁPITA",
+            "txPgMeta": "40% INCREMENTO RENTABILIDAD DEL SECTOR AGRARIO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138628,
+            "txPgProblema": "EL CENTRALISMO DISTRITAL",
+            "txPgObjetivo": "LA DESCENTRALIZACIÓN DE GOBIERNO LOCAL A LOS CENTROS POBLADOS SEGÚN LA LEY DE ADECUACIÓN DE CENTROS POBLADOS Y SU REGLAMENTACIÓN RESPECTIVA.",
+            "txPgIndicador": "N° DE REPRESENTANTES DE CENTROS POBLADOS INVOLUCRADOS EN LA GESTIÓN.",
+            "txPgMeta": "DESCENTRALIZAR FUNCIONES AL 15% POR AÑO A LOS CENTROS POBLADOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

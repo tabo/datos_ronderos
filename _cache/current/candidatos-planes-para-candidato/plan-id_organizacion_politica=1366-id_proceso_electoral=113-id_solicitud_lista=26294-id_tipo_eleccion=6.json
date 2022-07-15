@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 19620,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1366,
+        "txOrganizacionPolitica": "FUERZA POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/3b10e31c-921d-4d17-a8d6-8295a4c40617.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/a4b38882-2906-4319-b08f-2ce7a5447412.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 132048,
+            "txPgProblema": "1. ALTO INDICE DE DESEMPLEO\n2.ALTO INDICE DE ENFERMEDADES\n3. FALTA DE SERVICIOS BASICOS",
+            "txPgObjetivo": "1. REDUCIR EL DESEMPLEO\n2. REDUCIR EL INDICE DE ENFERMEDADES\n3 BRINDAR SERVICIO DE AGUA Y DESAGUA",
+            "txPgIndicador": "1 POBREZA\n2. POBREZA\n3. INFRAESTRUCTURA BASICA Y SOCIAL",
+            "txPgMeta": "1. 50% DE EMPLEO\n2. 20% DE LAS EMFERMEDADES\n3. 70% DE LA POBLACION CON SERVCIO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 132068,
+            "txPgProblema": "1. ALTO INDICE DE POBREZA\n2. FALTA INVERSION\n3. FALTA DE APOYO A HOMBRE DE CAMPO",
+            "txPgObjetivo": "1. REDUCIR EL INDICE DE LA POBREZA\n2.PROMOVER LA INVERSION PUBLICA Y PRIVADA\n3. INCENTIVAR EL APOYO",
+            "txPgIndicador": "1. EXTREMA POBREZA\n2. GESTION\n3. MIGRACION DEL CAMPO A LA CIUDAD",
+            "txPgMeta": "1.10% DE MENOS POBREZA\n2. 20% DE INVERSION PUBLICA Y PRIVADA\n3. 20%DE APOYO AL CAMPESINADO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 132130,
+            "txPgProblema": "1. DEFORESTACION\n2. CONTAMINACION \n3.CONCIENCIA CIUDADANA",
+            "txPgObjetivo": "1. SENBILIZACION",
+            "txPgIndicador": "1. POBREZA\n2. EDUCACION",
+            "txPgMeta": "1. 10%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 132133,
+            "txPgProblema": "1. BAJO PRESUPUESTO MUNICIPAL\n2. FALTA DE OFICINA AL SERVICIO DE LA POBLACION\n3. RELACION DE AUTORIDADES Y POBLACION",
+            "txPgObjetivo": "1. ELEVAR EL INGRESO\n2. BRINDAR ATENCION SUFICIENTE\n3. MEJORAR LA RELACION",
+            "txPgIndicador": "1. GESTION\n2. RECOMENDACION DE LA POBLACION\n3. PROTESTA",
+            "txPgMeta": "50%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20366,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1366,
+        "txOrganizacionPolitica": "FUERZA POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1647,
+        "juradoElectoral": "ALTO AMAZONAS",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/a26f61ce-edbe-42d1-b3f6-e2b196f2b3d0.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/c69ed09f-ad00-42e9-8f8a-6f70119a28c4.pdf",
+        "txCodExpedienteExt": "ERM.2022017475",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 171754,
+            "txPgProblema": "1. POBREZA\n2. CORRUPCION\n3. FALTA DE INFRAESTRUCTURA EDUCATIVAS",
+            "txPgObjetivo": "1. REDUCIR LA POBREZA\n2.MEJORAR LOS CENTROS EDUCATIVOS",
+            "txPgIndicador": "CUANTITATIVO",
+            "txPgMeta": "LOGRAR CERRAR BRECHA AL 100%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 171773,
+            "txPgProblema": "1. FALTA PROMOVER TURISMO\n2.FALTA PROMOVER EL SECTOR AGROINDUSTRIAL",
+            "txPgObjetivo": "1. PROMOVER EL TURISMO\n2. PROIMOVER EL SECTOR AGROINDUSTRIAL",
+            "txPgIndicador": "CUANTITATIVO",
+            "txPgMeta": "LOGRAR CERRA LA BRECHA AL 100%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 171792,
+            "txPgProblema": "1. FALTA DE CONSTRUCION DEL RELLENO SANITARIO\n2. CONSTRUCCION DE PLANTA DE TRATAMIENTO DE AGUA\n3. DEFORESTACION",
+            "txPgObjetivo": "1. CONSTRUCION DEL RELLENO SANITARIO\n2. COMBATIR LA DEFORESTACION",
+            "txPgIndicador": "CUANTITATIVO",
+            "txPgMeta": "LOGRAR REDUCIR LA CONTAMINACION EN EL DISTRITO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 171824,
+            "txPgProblema": "1. CORRUPCION\n2. INEFICIENCIA EN LA GESTION DE LOS FUNCIONARIOS\n3. INADECUADA INFRAESTRUCTURA",
+            "txPgObjetivo": "1. COMBATIR LA CORRUPCION \n2. CAPACITAR A LOS FUNCIONARIOS Y CONTRATAR A LAS PERSONAS IDONEAS PARA EL CARGO",
+            "txPgIndicador": "CUANTITATIVO",
+            "txPgMeta": "LOGRAR GASTAR EL PRESUPUESTO DE OBRAS PARA EL DISTRITO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

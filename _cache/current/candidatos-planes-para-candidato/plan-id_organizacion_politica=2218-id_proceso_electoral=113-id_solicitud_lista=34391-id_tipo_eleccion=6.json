@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 27717,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/758a007f-45b8-4200-90f8-32d67ef30130.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/a39a83f4-4650-4894-9a9d-2e37bb331e3a.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 168795,
+            "txPgProblema": "PERSISTENCIA DE LA DC Y ANEMIA EN MENORES DE 3 Y 5 AÑOS.",
+            "txPgObjetivo": "REDUCIR LA PREVALENCIA DE DC Y ANEMIA EN MENORES DE 3 Y 5 AÑOS.",
+            "txPgIndicador": "PREVALENCIA DE DC Y ANEMIA EN MENORES DE 3 Y 5 AÑOS.",
+            "txPgMeta": "REDUCIR LA PREVALENCIA DE DCI Y ANEMIA EN NIÑOS MENORES DE 3 Y 5 AÑOS A MENOS DE 10%.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 168853,
+            "txPgProblema": "ELEVADOS ÍNDICES DE DESERCIÓN ESCOLAR",
+            "txPgObjetivo": "REDUCIR LA DESERCIÓN ESCOLAR",
+            "txPgIndicador": "PORCENTAJE DE ALUMNOS QUE CONCLUYE CADA AÑO SATISFACTORIAMENTE EL AÑO ESCOLAR",
+            "txPgMeta": "AL MENOS EL 90% DE ALUMNOS MATRICULADOS CADA AÑO, CONCLUYE SATISFACTORIAMENTE EL AÑO ESCOLAR",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 168871,
+            "txPgProblema": "LIMITADO ACCESO A SERVICIOS BÁSICOS DE CALIDAD\n - \nALTA INCIDENCIA DE ALCOHOLISMO Y DROGADICCIÓN JUVENIL",
+            "txPgObjetivo": "INCREMENTAR EL ACCESO A SERVICIOS BÁSICOS DE CALIDAD\n - \nREDUCIR EL ALCOHOLISMO Y LA DROGADICCIÓN JUVENIL",
+            "txPgIndicador": "PORCENTAJE DE VIVIENDAS CON ACCESO A SERVICIOS DE AGUA POTABLE, SANEAMIENTO, ELECTRICIDAD E INTERNET\n - \nPORCENTAJE DE JÓVENES QUE SE REHABILITARON DEL ALCOHOLISMO Y LA DROGADICCIÓN",
+            "txPgMeta": "AL MENOS EL 80% DE VIVIENDAS CUENTAN CON ACCESO A SERVICIOS DE AGUA POTABLE, SANEAMIENTO, ELECTRICIDAD E INTERNET\n - \nAL MENOS EL 80% DE JÓVENES ADICTOS AL ALCOHOLISMO Y A LAS DROGAS SE REHABILITARON",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 169216,
+            "txPgProblema": "ESCASA DIVERSIFICACIÓN PRODUCTIVA DE LOS PREDIOS",
+            "txPgObjetivo": "ELEVAR LA DIVERSIFICACIÓN PRODUCTIVA DE LOS PREDIOS",
+            "txPgIndicador": "PORCENTAJE DE UNIDADES PRODUCTIVAS CON TRES Y MÁS CULTIVOS, CRIANZAS O ACTIVIDADES PRODUCTIVAS",
+            "txPgMeta": "AL MENOS EL 40% DE LAS UNIDADES PRODUCTIVAS DEL DISTRITO, CUENTAN CON TRES O MÁS CULTIVOS, CRIANZAS O ACTIVIDADES PRODUCTIVAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 169251,
+            "txPgProblema": "ALTA INCIDENCIA DE MANO DE OBRA DESOCUPADA",
+            "txPgObjetivo": "BAJAR LA INCIDENCIA DE MANO DE OBRA DESOCUPADA",
+            "txPgIndicador": "PORCENTAJE DE PERSONAS OCUPADAS ADECUADAMENTE",
+            "txPgMeta": "AL MENOS EL 80% DE LA POBLACIÓN ECONÓMICAMENTE ACTIVA ESTÁ OCUPADA ADECUADAMENTE",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 169277,
+            "txPgProblema": "BAJA PRODUCTIVIDAD DE CULTIVOS Y CRIANZAS\n  -  \nALTA VOLATILIDAD DE LOS PRECIOS DE PRODUCTOS AGROPECUARIOS",
+            "txPgObjetivo": "ELEVAR LA PRODUCTIVIDAD DE CULTIVOS Y CRIANZAS\n  -  \nREDUCIR LA VOLATILIDAD DE LOS PRECIOS DE LOS PRODUCTOS AGROPECUARIOS",
+            "txPgIndicador": "RENDIMIENTO: KG.-HA/AÑO; ANIMAL/ HATO\n  -  \nNÚMERO DE PRODUCTOS AGROPECUARIOS DIFERENCIADOS",
+            "txPgMeta": "ALCANZAR LOS PROMEDIOS NACIONALES DE RENDIMIENTO DE CULTIVOS Y CRIANZAS\n  -  \nAL MENOS CINCO CULTIVOS/ CRIANZAS SON DIFERENCIADOS Y COMERCIALIZAN EN NICHOS DE MERCADO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 169290,
+            "txPgProblema": "ALTOS NIVELES DE EROSIÓN DE LOS SUELOS",
+            "txPgObjetivo": "BAJAR LOS NIVELES DE EROSIÓN DE LOS SUELOS",
+            "txPgIndicador": "PORCENTAJE DE SUELOS DEGRADADOS EN RECUPERACIÓN",
+            "txPgMeta": "AL MENOS EL 30% DE SUELOS DEGRADADOS RECUPERADOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 169298,
+            "txPgProblema": "USO NO SOSTENIBLE DE LAS FUENTES Y CURSOS DE AGUA",
+            "txPgObjetivo": "MEJORAR EL USO SOSTENIBLE DE LAS FUENTES Y CURSOS DE AGUA",
+            "txPgIndicador": "PORCENTAJE DE FUENTES Y CURSOS DE AGUA CON PLAN DE MANEJO",
+            "txPgMeta": "AL MENOS EL 30% DE FUENTES Y CURSOS DE AGUA IDENTIFICADOS CUENTAN CON PLAN DE MANEJO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 169365,
+            "txPgProblema": "GESTIÓN NO SALUDABLE DE LOS RESIDUOS SÓLIDOS\n - - \nCAMINOS VECINALES EN MAL ESTADO",
+            "txPgObjetivo": "REALIZAR GESTIÓN AMBIENTALMENTE SALUDABLE DE LOS RESIDUOS SÓLIDOS\n - - \nMEJORAR LA RED VIAL VECINAL",
+            "txPgIndicador": "PORCENTAJE DE FAMILIAS QUE SEGREGAN RSM EN LA FUENTE\n - - \nPORCENTAJE DE CAMINOS VECINALES EN BUEN ESTADO",
+            "txPgMeta": "AL MENOS EL 60% DE LAS FAMILIAS SEGREGAN SUS RSM\n - - \nAL MENOS 60% DE CAMINOS VECINALES ESTÁN EN BUEN ESTADO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 169393,
+            "txPgProblema": "DEFICIENTE ORGANIZACIÓN MUNICIPAL",
+            "txPgObjetivo": "MODERNIZAR PARA HACER EFICIENTE LA GESTIÓN MUNICIPAL",
+            "txPgIndicador": "PORCENTAJE DE INSTRUMENTOS DE GESTIÓN EN IMPLEMENTACIÓN",
+            "txPgMeta": "AL MENOS EL 90% DE INSTRUMENTOS DE GESTIÓN EN IMPLEMENTACIÓN",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 169573,
+            "txPgProblema": "ORGANIZACIONES DE LA SOCIEDAD CIVIL DEBILITADAS",
+            "txPgObjetivo": "FORTALECER LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL",
+            "txPgIndicador": "NÚMERO DE ORGANIZACIONES DE LA SOCIEDAD CIVIL FORTALECIDAS (AUTOSOSTENIBLES CON LIDERAZGO)",
+            "txPgMeta": "AL MENOS 4 ORGANIZACIONES DE ALCANCE DISTRITAL AUTOSOSTENIBLES CON LIDERAZGO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 169594,
+            "txPgProblema": "CORRUPCIÓN INSTITUCIONALIZADA EN EL ÁMBITO LOCAL\n - - \nESCASO NIVEL DE PARTICIPACIÓN DE MUJERES Y JÓVENES EN EL DESARROLLO LOCAL",
+            "txPgObjetivo": "REDUCIR LOS NIVELES DE CORRUPCIÓN EN EL ÁMBITO LOCAL\n - - \nMEJORAR EN CANTIDAD Y CALIDAD EL INVOLUCRAMIENTO DE MUJERES Y JÓVENES EN LA GESTIÓN DEL DESARROLLO LOCAL",
+            "txPgIndicador": "NÚMERO DE DENUNCIAS INVESTIGADAS DE CASOS O INDICIOS DE CORRUPCIÓN\n - - \nPORCENTAJE DE MUJERES Y JÓVENES INVOLUCRADOS EN LA VIDA POLÍTICA, SOCIAL, ECONÓMICA Y AMBIENTAL DEL DISTRITO",
+            "txPgMeta": "AL MENOS EL 80% DE DENUNCIAS EFECTUADAS SOBRE CASOS O INDICIOS DE CORRUPCIÓN FUERON INVESTIGADOS Y SANCIONADOS SI SE COMPROBARON\n - - \nAL MENOS EL 40% DE LÍDERES LOCALES SON MUJERES Y/O JÓVENES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

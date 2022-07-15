@@ -1,0 +1,105 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 25083,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 67,
+        "txOrganizacionPolitica": "SUMATE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1714,
+        "juradoElectoral": "PATAZ",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/955a29a6-4cc2-4097-b2b1-e60f946628a2.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/2ae4a5f6-50a6-4880-9717-18783fd983e0.pdf",
+        "txCodExpedienteExt": "ERM.2022015626",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 231062,
+            "txPgProblema": "DEFICIENTE SERVICIOS DE SALUD",
+            "txPgObjetivo": "-PROMOVER EL ACCESO Y CALIDAD DE LOS SERVICIOS DE SALUD.\n-MEJORAR LA INFRAESTRUCTURA DE SALUD.",
+            "txPgIndicador": "PUESTOS DE SALUD",
+            "txPgMeta": "-MEJORAMIENTO DE LA INFRAESTRUCTURA DE LOS ESTABLECIMIENTOS DE SALUD Y SERVICIOS DE SALUD EN EL DISTRITO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 231070,
+            "txPgProblema": "DEFICIENTE SERVICIOS DE EDUCACIÓN",
+            "txPgObjetivo": "-PROMOVER EL ACCESO DE LOS SERVICIOS EDUCACIÓN\n-MEJORAR LA INFRAESTRUCTURA EDUCATIVA.",
+            "txPgIndicador": "INSTITUCIONES EDUCATIVAS",
+            "txPgMeta": "MEJORAMIENTO DE LAS INFRAESTRUCTURAS DE LAS INSTITUCIONES EDUCATIVAS Y SERVICIOS EDUCATIVOS EN EL DISTRITO DE BULDIBUYO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 231056,
+            "txPgProblema": "FALTA DE PROMOCIÓN DE LOS PRODUCTOS COMERCIALES, AGRICULTURA, AGROPECUARIA Y ARTESANALES, ENTRE OTROS.",
+            "txPgObjetivo": "ESTABLECER LA REALIZACIÓN DE FERIAS FALTA DE PROMOCIÓN DE LOS PRODUCTOS COMERCIALES, EN AGRICULTURA, AGROPECUARIA Y ARTESANALES, ENTRE OTROS.",
+            "txPgIndicador": "FERIAS",
+            "txPgMeta": "REALIZACIÓN DE FERIAS Y PROMOCIÓN DE LOS PRODUCTOS COMERCIALES, EN ESPECIAL DEL SECTOR AGRÍCOLA, AGROPECUARIO Y ARTESANAL, ENTRE OTROS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 231060,
+            "txPgProblema": "ESCASOS MECANISMOS DE FORMALIZACIÓN Y DESARROLLO EMPRESARIAL.",
+            "txPgObjetivo": "DISEÑO DE UN PROGRAMA DE FORTALECIMIENTO DE CAPACIDADES QUE PROMUEVA E INCENTIVE EL EMPRENDIMIENTO.",
+            "txPgIndicador": "EMPRENDEDORES Y EMPRESAS FORMALES",
+            "txPgMeta": "IMPLEMENTACIÓN DE UNA VENTANILLA DE FORMALIZACIÓN EMPRESARIAL Y DESARROLLO EMPRESARIAL EN LOS DIVERSOS SECTORES, AGRÍCOLA, MINERÍA, BIENES, SERVICIOS, ENTRE OTROS.\n\nIMPLEMENTACIÓN DE UN PROGRAMA DE FORTALECIMIENTO DE CAPACIDADES QUE PROMUEVA E INCENTIVE EL EMPRENDIMIENTO EN EL DISTRITO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 231043,
+            "txPgProblema": "BAJA COBERTURA Y CALIDAD DE LOS SERVICIOS DE RECOLECCIÓN DE RESIDUOS SOLIDOS",
+            "txPgObjetivo": "MEJORAR LOS NIVELES DE COBERTURA DE RESIDUOS SÓLIDOS.",
+            "txPgIndicador": "TONELADAS DIARIAS",
+            "txPgMeta": "ADQUIRIR Y GESTIONAR CISTERNAS Y COMPACTADORAS PARA LA PRESTACIÓN DE SERVICIOS DE LIMPIEZA PÚBLICA.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 231051,
+            "txPgProblema": "FALTA DE ÁREAS VERDES Y RECREACIONALES",
+            "txPgObjetivo": "DESARROLLAR UN PLAN DE ARBORIZACIÓN Y MEJORAMIENTO DE PARQUES Y JARDINES",
+            "txPgIndicador": "PARQUES",
+            "txPgMeta": "CREACIÓN Y MANTENIMIENTO DE PARQUES, JARDINES Y ÁREAS VERDES.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 231032,
+            "txPgProblema": "BAJA CAPACIDAD DE EJECUCIÓN DEL PRESUPUESTO",
+            "txPgObjetivo": "PLANIFICACIÓN DE LA EJECUCIÓN DEL GASTO DEL PRESUPUESTO",
+            "txPgIndicador": "PRESUPUESTO",
+            "txPgMeta": "PRESUPUESTO EJECUTADO AL 100% EN EL AÑO FISCAL CORRESPONDIENTE.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 231036,
+            "txPgProblema": "FALTA DE TRANSPARENCIA EN LA ADMINISTRACIÓN DE LA MUNICIPALIDAD.",
+            "txPgObjetivo": "DISEÑO E IMPLEMENTACIÓN DE MECANISMOS DE TRANSPARENCIA",
+            "txPgIndicador": "MECANISMOS DE TRANSPARENCIA",
+            "txPgMeta": "IMPLEMENTACIÓN DE MECANISMOS DE TRANSPARENCIA, GOBIERNO ELECTRÓNICO, GOBIERNO ABIERTO, PORTAL DE TRANSPARENCIA ESTÁNDAR, ENTRE OTROS.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

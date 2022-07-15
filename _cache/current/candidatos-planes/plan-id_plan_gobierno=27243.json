@@ -1,0 +1,125 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 27243,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1257,
+        "txOrganizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1704,
+        "juradoElectoral": "MARISCAL CACERES",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/d2edd95d-ce0a-4142-bc8e-ca3300ad7a6e.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/c4344ad8-07fb-41a3-9153-38649c0bc59a.pdf",
+        "txCodExpedienteExt": "ERM.2022013136",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 142482,
+            "txPgProblema": "INFRAESTRUCTURA DE SALUD PRESENTA DEFICIENCIAS QUE NO PERMITE BRINDAR UN ADECUADO SERVICIO.",
+            "txPgObjetivo": "MEJORAMIENTO DEL SERVICIO DE SALUD Y ACONDICIONAMIENTO DE INFRAESTRUCTURA, EQUIPAMIENTO MÉDICO EN EL DISTRITO CAPITAL.",
+            "txPgIndicador": "% DE INFRAESTRUCTURA DE SALUD INTERVENIDA",
+            "txPgMeta": "INCREMENTAR EN UN 20% LA COBERTURA DE SALUD EN EL DISTRITO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 142532,
+            "txPgProblema": "POBLACIÓN NO CUENTA CON ADECUADAS CONDICIONES PARA REALIZAR DEPORTE Y RECREACIÓN.",
+            "txPgObjetivo": "ACONDICIONAMIENTO DE CENTROS DE INTEGRACIÓN Y RECREACIÓN MEDIANTE LA MEJORA Y CREACIÓN DE CANCHAS O LOSAS DEPORTIVAS.",
+            "txPgIndicador": "% DE INFRAESTRUCTURA DEPORTIVA INTERVENIDA",
+            "txPgMeta": "INCREMENTAR EN UN 40% LA INFRAESTRUCTURA DEPORTIVA Y RECREACIONAL DEL DISTRITO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 142631,
+            "txPgProblema": "INSTITUCIONES EDUCATIVAS PRESENTAN DETERIORO Y MAL ESTADO Y NO PRESENTAN LAS CONDICIONES, NI LAS TECNOLOGÍAS ADECUADAS PARA LA ENSEÑANZA.",
+            "txPgObjetivo": "GESTIONAR LA MEJORA DE LA INFRAESTRUCTURA DE LA INFRAESTRUCTURA EDUCATIVA (COLEGIO FRANCISCO BOLOGNESI DEL C.P LA LIBERTAD Y OTROS).",
+            "txPgIndicador": "% DE INFRAESTRUCTURA EDUCATIVA INTERVENIDA",
+            "txPgMeta": "INCREMENTAR EN UN 40% LA INFRAESTRUCTURA EDUCATIVA EN ADECUADAS CONDICIONES EN EL DISTRITO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 142942,
+            "txPgProblema": "PRODUCTORES Y POBLACIÓN NO CUENTAN CON ADECUADOS ACCESOS A LOS CENTROS PRODUCTIVOS",
+            "txPgObjetivo": "MEJORAMIENTO DE LOS ACCESOS A LOS CENTROS DE PRODUCCIÓN AGRÍCOLA DE TODO EL DISTRITO.",
+            "txPgIndicador": "% DE CAMINOS DE ACCESO A CENTROS DE PRODUCCIÓN EN BUEN ESTADO",
+            "txPgMeta": "INCREMENTAR EN UN 70% EL ACCESO A CENTROS DE PRODUCCIÓN",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 142955,
+            "txPgProblema": "ZONAS URBANAS DEL DISTRITO PRESENTAN PROBLEMAS DE INUNDACIÓN Y PROBLEMAS DE TRANSITABILIDAD PEATONAL",
+            "txPgObjetivo": "PISTAS Y VEREDAS Y DRENAJE PLUVIAL EN ZONAS URBANAS DEL DISTRITO",
+            "txPgIndicador": "% DE INFRAESTRUCTURA DE TRANSITABILIDAD PEATONAL Y DRENAJE PLUVIAL",
+            "txPgMeta": "INCREMENTAR EN UN 80% LA INFRAESTRUCTURA DE TRANSITABILIDAD PEATONAL Y DE DRENAJE PLUVIAL",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 142985,
+            "txPgProblema": "CAMINOS VECINALES PRESENTAN INUNDACIONES, DERRUMBES Y DESLIZAMIENTOS",
+            "txPgObjetivo": "CONSTRUCCIÓN DE ALCANTARILLAS, BADENES, PUENTES Y O MUROS DE CONTENCIÓN PARA LAS MEJORAS DE LOS ACCESOS EN EL DISTRITO.",
+            "txPgIndicador": "% DE CAMINOS VECINALES INTERVENIDOS",
+            "txPgMeta": "70% DE CAMINOS VECINALES INTERVENIDOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 143071,
+            "txPgProblema": "CONTAMINACIÓN AMBIENTAL POR LA PRESENCIA DE RESIDUOS SÓLIDOS EN EL DISTRITO",
+            "txPgObjetivo": "GESTIÓN ADECUADA DE LOS RESIDUOS SÓLIDOS",
+            "txPgIndicador": "% DE POBLACIÓN ATENDIDA",
+            "txPgMeta": "INCREMENTAR EN UN 70% LA COBERTURA DEL SERVICIO DE LIMPIEZA PÚBLICA",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 143081,
+            "txPgProblema": "FALTA DE CONCIENTIZACIÓN DEN LA REFORESTACIÓN.",
+            "txPgObjetivo": "REFORESTACIÓN EN ESPACIOS PÚBLICOS Y AV. PRINCIPALES",
+            "txPgIndicador": "% DE TERRENOS REFORESTADOS",
+            "txPgMeta": "INCREMENTO EN UN 65% DE REFORESTACIÓN",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 143097,
+            "txPgProblema": "INSUFICIENCIA DE LA MAQUINARIA PESADA DE LA MUNICIPALIDAD",
+            "txPgObjetivo": "INCREMENTO DEL POOL DE MAQUINARIA PESADA.",
+            "txPgIndicador": "% DE MAQUINARIA INCREMENTADA",
+            "txPgMeta": "INCREMENTAR EN UN 40% LA CANTIDAD DE MAQUINARIA PESADA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 143106,
+            "txPgProblema": "RONDAS CAMPESINAS Y JUNTAS VECINALES NO CUENTAN CON INDUMENTARIA E IMPLEMENTACIÓN. POCO APOYO DE LA PNP A LAS RONDAS CAMPESINAS Y JUNTAS VECINALES",
+            "txPgObjetivo": "MEJORAMIENTO DE LA SEGURIDAD CIUDADANA MEDIANTE EL FORTALECIMIENTO DE LAS RONDAS CAMPESINAS Y JUNTAS VECINALES LA PARTICIPACIÓN DE LA PNP",
+            "txPgIndicador": "% POBLACIÓN ATENDIDA",
+            "txPgMeta": "INCREMENTAR EN UN 70% LA COBERTURA DEL SERVICIO DE SEGURIDAD CIUDADANA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

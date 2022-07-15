@@ -1,0 +1,85 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 29439,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 22,
+        "txOrganizacionPolitica": "RENOVACION POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1723,
+        "juradoElectoral": "SAN MARTIN",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/366efd6f-a6f9-40e6-a9e9-1c0d45ece7ba.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/be489441-7a70-4885-9f41-74da6b026200.pdf",
+        "txCodExpedienteExt": "ERM.2022008143",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 193467,
+            "txPgProblema": "SEGURIDAD CIUDADANA",
+            "txPgObjetivo": "JUNTAS VECINALES Y COMITES",
+            "txPgIndicador": "INCREMENTO EN DELINCUENCIA EN PANDEMIA",
+            "txPgMeta": "REDUCIR EL 40%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 193532,
+            "txPgProblema": "POBREZA",
+            "txPgObjetivo": "REDUCIR POBREZA",
+            "txPgIndicador": "AUMENTO DE POBREZA",
+            "txPgMeta": "REDUCIR POBREZA EN UN 30%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 193545,
+            "txPgProblema": "DESNUNTICION INFANTIL",
+            "txPgObjetivo": "PROGRAMA DE ALIMENTACION",
+            "txPgIndicador": "DESNUTRICION Y ANEMIA",
+            "txPgMeta": "REDUCIOR INDICADORES EN UN 30%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 193485,
+            "txPgProblema": "MAL MANEJO DEL INGRESO MUNICIPAL POR AGREGADOS",
+            "txPgObjetivo": "CONTROLAR DE MANERA REAL Y EFICIENTE LA VENTA DE AGREGADOS",
+            "txPgIndicador": "BAJOS INGRESOS",
+            "txPgMeta": "AUMENTAR LOS INGRESOS POR AGREGADOS EN UN 200%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 193503,
+            "txPgProblema": "BASURA DESORDENADA",
+            "txPgObjetivo": "PLANTA DE RRELLENO SANITARIO",
+            "txPgIndicador": "ENFERMEDADES Y MAL ASPECTO",
+            "txPgMeta": "REDUCIR LA BASURA MUNICPAL Y CREAR LA PLANTA DE RRELLENO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 193518,
+            "txPgProblema": "ANTIGUEDAD DE EQUPOS Y SISTEMAS DE GESTION",
+            "txPgObjetivo": "MODERNIZAR EN GENERAL LOS ESTATUTOS MUNICIPALES",
+            "txPgIndicador": "INEFICACIA EN GESTION PUBLICA POR EQUPOS OBSOLETOS",
+            "txPgMeta": "MODERNIZAR AL 50% LA MUNICIPALIDAD",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

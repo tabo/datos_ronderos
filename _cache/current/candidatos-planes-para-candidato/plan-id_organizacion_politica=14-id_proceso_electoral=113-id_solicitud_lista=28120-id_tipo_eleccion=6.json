@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 21446,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/8a633507-7e14-42c5-91d9-58e212b44036.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/0e4c337f-0850-4173-9eac-395ef7cbb2c5.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 163271,
+            "txPgProblema": "ALTA PREVALENCIA DE ANEMIA EN NIÑOS ENTRE 06 A 36 MESES",
+            "txPgObjetivo": "DISMINUIR LA ANEMIA EN NIÑOS ENTRE 06 A 36 MESES",
+            "txPgIndicador": "PROPORCIÓN DE NIÑOS ENTRE 6 Y 36 MESES CON ANEMIA.",
+            "txPgMeta": "DEL 40% - 25%.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 163347,
+            "txPgProblema": "BAJOS NIVELES DE LOGROS DE APRENDIZAJE DE ESTUDIANTES DE 4° DE PRIMARIA EN MATEMÁTICAS Y COMPRENSIÓN LECTORA.",
+            "txPgObjetivo": "INCREMENTAR LOS NIVELES DE LOGROS DE APRENDIZAJE DE ESTUDIANTES DE 4° DE PRIMARIA EN MATEMÁTICAS Y COMPRENSIÓN LECTORA.",
+            "txPgIndicador": "PORCENTAJE DE ESTUDIANTES DE 2° DE SECUNDARIA QUE SE ENCUENTRAN EN NIVEL SATISFACTORIO EN MATEMÁTICAS.\n\nPORCENTAJE DE ESTUDIANTES DE 2° DE SECUNDARIA QUE SE ENCUENTRAN EN NIVEL SATISFACTORIO EN COMPRENSIÓN LECTORA.",
+            "txPgMeta": "15% - 25%\n\n\n\n\n\n15% - 25%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 163453,
+            "txPgProblema": "ALTOS NIVELES DE HOGARES CON INADECUADOS SERVICIOS PÚBLICOS DE AGUA Y SANEAMIENTOS.",
+            "txPgObjetivo": "DISMINUIR LOS NIVELES DE HOGARES CON INADECUADOS SERVICIOS DE AGUA Y SANEAMIENTOS.",
+            "txPgIndicador": "PORCENTAJE DE HOGARES QUE SE ABASTECEN DE AGUA POR RED PÚBLICA, PILÓN O PILETA.\n\nPORCENTAJE DE HOGARES QUE CUENTAN CON SERVICIO HIGIÉNICO POR RED PÚBLICA Y POZO SÉPTICO.",
+            "txPgMeta": "90% - 95%\n\n\n\n\n70% - 90%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 164026,
+            "txPgProblema": "ALTOS NIVELES DE VULNERABILIDAD ECONÓMICA.",
+            "txPgObjetivo": "DISMINUIR LOS NIVELES DE VULNERABILIDAD ECONÓMICA.",
+            "txPgIndicador": "PORCENTAJE DE POBREZA MONETARIA.",
+            "txPgMeta": "30% - 20%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 164108,
+            "txPgProblema": "ALTOS NIVELES DE POBLACIÓN DESOCUPADA (PEA DESOCUPADA).",
+            "txPgObjetivo": "DISMINUIR LOS NIVELES DE POBLACIÓN DESOCUPADA (PEA DESOCUPADA).",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN ECONÓMICAMENTE ACTIVA (PEA).",
+            "txPgMeta": "35% - 20%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 164191,
+            "txPgProblema": "ALTOS NIVELES DE DESARTICULACIÓN VIAL.",
+            "txPgObjetivo": "INCREMENTAR LOS NIVELES DE ARTICULACIÓN VIAL.",
+            "txPgIndicador": "PORCENTAJE DE VÍAS VECINALES HA PAVIMENTAR.",
+            "txPgMeta": "40% - 80%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 164679,
+            "txPgProblema": "INADECUADA DISPOSICIÓN DE RESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "ADECUADA DISPOSICIÓN DE RESIDUOS SÓLIDOS.",
+            "txPgIndicador": "PORCENTAJE DE TONELADAS DE RESIDUOS SÓLIDOS DISPUESTOS ADECUADAMENTE EN BOTADEROS.",
+            "txPgMeta": "25% - 75%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 164858,
+            "txPgProblema": "ALTOS NIVELES DE CONTAMINACIÓN DE LA LAGUNA Y ESPACIOS DEL DISTRITO.",
+            "txPgObjetivo": "REDUCIR LOS NIVELES DE CONTAMINACIÓN.",
+            "txPgIndicador": "PORCENTAJE DE CENTROS POBLADOS CON PTAR.",
+            "txPgMeta": "30% - 10%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 164906,
+            "txPgProblema": "LIMITADOS NIVELES DE FORESTACIÓN Y REFORESTACIÓN.",
+            "txPgObjetivo": "INCREMENTAR LOS NIVELES DE FORESTACIÓN Y REFORESTACIÓN.",
+            "txPgIndicador": "NÚMERO DE (HAS) DE FORESTACIÓN Y REFORESTACIÓN POR AÑO.",
+            "txPgMeta": "5% - 25%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 164951,
+            "txPgProblema": "INADECUADA ESTRUCTURA DE NIVEL ORGANIZACIONAL INSTITUCIONAL.",
+            "txPgObjetivo": "EVALUAR Y ADECUAR A LA REALIDAD LOS INSTRUMENTOS DE GESTIÓN PÚBLICA PARA MEJOR FUNCIONAMIENTO INSTITUCIONAL.",
+            "txPgIndicador": "INVERSIÓN OBJETIVA CON PORCENTAJE DE EJECUCIÓN PRESUPUESTAL.",
+            "txPgMeta": "85% - 95%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 164986,
+            "txPgProblema": "LIMITADOS ESPACIOS DE PARTICIPACIÓN CIUDADANA CON CARENCIAS DE TRANSPARENCIA ADMINISTRATIVA.",
+            "txPgObjetivo": "INCREMENTAR LOS ESPACIOS DE PARTICIPACIÓN CIUDADANA Y TRANSPARENTAR LA ADMINISTRACIÓN PÚBLICA.",
+            "txPgIndicador": "PORCENTAJE DE ORGANIZACIONES QUE ASISTEN A ESPACIOS DE PARTICIPACIÓN CIUDADANA.",
+            "txPgMeta": "50% - 90%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 165013,
+            "txPgProblema": "INADECUADO FUNCIONAMIENTO DE SEGURIDAD CIUDADANA.",
+            "txPgObjetivo": "MODERNIZACIÓN DE SEGURIDAD CIUDADANA.",
+            "txPgIndicador": "BAJOS NIVELES DE PATRULLAJE DISTRITAL, ROBOS MENORES, ESCASA VIGILANCIA DE CALLES Y VIVIENDAS.",
+            "txPgMeta": "40% - 80%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

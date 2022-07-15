@@ -1,0 +1,146 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 200033.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "77226627",
+        "nombres": "STEVEN",
+        "apellidoPaterno": "LAYZA",
+        "apellidoMaterno": "JIMENEZ",
+        "sexo": "1",
+        "feNacimiento": "22/11/1996",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140136",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "SAN JUAN DE MIRAFLORES",
+        "ubigeoDomicilio": "140119",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "PUENTE PIEDRA",
+        "domicilioDirecc": "MZ.D LT.3A LOS NARANJOS",
+        "ubigeoPostula": "140119",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "PUENTE PIEDRA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/200033.jpg",
+        "estado": "INSCRITO",
+        "idOrganizacionPolitica": 2840.0,
+        "organizacionPolitica": "PARTIDO MORADO",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 09:59:01",
+        "txGuidFormatoHojaVida": "f10b8ce7-4857-45b2-b89e-b62ccbb080b4",
+        "idSolicitudLista": 31506.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 171691,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 200033,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 160879,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS S.A.C.",
+                "carreraUni": "BACHILLER EN DERECHO",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2021",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 149298,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2022",
+            "idHojaVida": 200033,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 139576,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "REALIZO TRABAJOS EVENTUALES E INDIVIDUALES QUE ME PERMITIERON INGRESOS DE 11785.16 SOLES EN EL AÑO 2021",
+            "idHojaVida": 200033,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 161628,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 11785.16,
+                "idHojaVida": 200033,
+                "idEstado": 1,
+                "totalIngresos": 11785.16
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 3105,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 0,
+                "txPersonaJuridica": "SYB CEREALES S.R.L.",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 40000.0,
+                "flValor": 37878.78,
+                "idHojaVida": 200033,
+                "idEstado": 1,
+                "txUsuario": "76838229",
+                "txFechaRegistro": null,
+                "txComentario": "TENGO EL 1 POR CIENTO EN ACCIONES EN LA EMPRESA SYB CEREALES S.R.L.",
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

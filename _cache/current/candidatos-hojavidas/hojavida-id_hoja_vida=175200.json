@@ -1,0 +1,156 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 175200.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44731702",
+        "nombres": "JOSE LUIS",
+        "apellidoPaterno": "NINA",
+        "apellidoMaterno": "PAURO",
+        "sexo": "1",
+        "feNacimiento": "21/10/1987",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040101",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "AREQUIPA",
+        "naciDistrito": "AREQUIPA",
+        "ubigeoDomicilio": "040119",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "AREQUIPA",
+        "domiDistrito": "SOCABAYA",
+        "domicilioDirecc": "ESCORZA 107 N-4 ZONA A - 4 DE OCTUBRE",
+        "ubigeoPostula": "040119",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "AREQUIPA",
+        "postulaDistrito": "SOCABAYA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/175200.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 6.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 18:01:09",
+        "txGuidFormatoHojaVida": "fd327c1f-fdcf-4cfe-9d2f-838e291b654f",
+        "idSolicitudLista": 28205.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 219016,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MINERA SOTRAMI",
+            "ocupacionProfesion": "ASISTENTE DE TI",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AVENIDA SEPARADORA INDUSTRIAL 147",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140110",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "LA MOLINA",
+            "idHojaVida": 175200,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 193016,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 175200,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 149167,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "HONORIO DELGADO ESPINOZA",
+                "carreraTecnico": "COMPUTACION E INFORMATICA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 175200,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 177634,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 35000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 175200,
+                "idEstado": 1,
+                "totalIngresos": 35000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 184806,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "90074V ",
+                "valor": 4000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "NEXUS NEGRO CON ROJO",
+                "comentario": null,
+                "idHojaVida": 175200,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 184805,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "B5F416 ",
+                "valor": 25000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "SUKUKI GRAN VITARA PLATA",
+                "comentario": null,
+                "idHojaVida": 175200,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

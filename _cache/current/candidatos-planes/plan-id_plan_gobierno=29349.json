@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 29349,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 22,
+        "txOrganizacionPolitica": "RENOVACION POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1704,
+        "juradoElectoral": "MARISCAL CACERES",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/1b204345-4d8b-4484-b8ee-9c8dbe23c616.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/29adf4c0-56b8-407e-b8c8-7852bf6a6982.pdf",
+        "txCodExpedienteExt": "ERM.2022013551",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 158815,
+            "txPgProblema": "CORRUPCIÓN",
+            "txPgObjetivo": "CREAR OFICINA ANTICORRUPCIÓN",
+            "txPgIndicador": "DESCONFIANZA",
+            "txPgMeta": "TERMINAR LA CORRUPCIÓN",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 158835,
+            "txPgProblema": "DÉFICIT EN SALUD",
+            "txPgObjetivo": "ATENCIÓN PERMANENTE",
+            "txPgIndicador": "FALTA PERSONAL",
+            "txPgMeta": "CONTRATAR PERSONAL",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 158870,
+            "txPgProblema": "POBREZA EXTREMA",
+            "txPgObjetivo": "CREAR PROGRAMAS DE APOYO SOCIAL",
+            "txPgIndicador": "DESNUTRICIÓN",
+            "txPgMeta": "DISMINUIREMOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 158916,
+            "txPgProblema": "DÉFICIT ECONÓMICO",
+            "txPgObjetivo": "LOGRAR MEDIDAS DE CRECER ECONÓMICAMENTE",
+            "txPgIndicador": "FALTAN OBRAS",
+            "txPgMeta": "OBTENER INGRESOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 158970,
+            "txPgProblema": "REDUCIDA INDUSTRIALIZACIÓN",
+            "txPgObjetivo": "INDUSTRIALIZAR PRODUCTOS",
+            "txPgIndicador": "CARENCIA DE PRODUCTOS",
+            "txPgMeta": "IMPLEMENTAR FABRICAS, TALLERES",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159002,
+            "txPgProblema": "FALTAN MERCADOS",
+            "txPgObjetivo": "IMPULSAR, ABRIR MERCADOS",
+            "txPgIndicador": "CARENCIA DE FERIAS",
+            "txPgMeta": "CREAR NUEVOS MERCADOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 159044,
+            "txPgProblema": "CONTAMINACIÓN",
+            "txPgObjetivo": "CONTROLAR LOS RESIDUOS",
+            "txPgIndicador": "RÍOS Y CALLES SUCIAS",
+            "txPgMeta": "REDUCIR LOS DESHECHOS EN CALLES, RIOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159064,
+            "txPgProblema": "MAL MANEJO DEL AGUA",
+            "txPgObjetivo": "CAMBIO DE TUBERÍAS",
+            "txPgIndicador": "DESPERDICIO DEL AGUA",
+            "txPgMeta": "SERVICIO OPTIMO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159128,
+            "txPgProblema": "AGUA INSALUBRE",
+            "txPgObjetivo": "TRATAR EL AGUA POTABLE",
+            "txPgIndicador": "AGUA SUCIA",
+            "txPgMeta": "AGUA APTA PARA BEBER",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 159165,
+            "txPgProblema": "MALA ADMINISTRACIÓN",
+            "txPgObjetivo": "ELIMINAR BUROCRÁTICA",
+            "txPgIndicador": "MUCHA BUROCRACIA",
+            "txPgMeta": "MODERNIZACIÓN",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159200,
+            "txPgProblema": "EXCESIVO PERSONAL",
+            "txPgObjetivo": "MEJOR RESULTADO POSITIVO",
+            "txPgIndicador": "MALA ATENCIÓN",
+            "txPgMeta": "OPTIMA ATENCIÓN",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159223,
+            "txPgProblema": "TRÁMITE AMBIGUO",
+            "txPgObjetivo": "TRÁMITE SENCILLO",
+            "txPgIndicador": "INFORMALIDAD",
+            "txPgMeta": "REGLAS CLARAS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

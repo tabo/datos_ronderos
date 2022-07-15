@@ -1,0 +1,156 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 209476.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "29432126",
+        "nombres": "REYNA ISABEL",
+        "apellidoPaterno": "CHANCOLLA",
+        "apellidoMaterno": "CALLE",
+        "sexo": "2",
+        "feNacimiento": "08/07/1966",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040109",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "AREQUIPA",
+        "naciDistrito": "PAUCARPATA",
+        "ubigeoDomicilio": "040105",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "AREQUIPA",
+        "domiDistrito": "CHIGUATA",
+        "domicilioDirecc": "CALLE PRINCIPAL 205 ANEXO DE LA RINCONADA",
+        "ubigeoPostula": "040105",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "AREQUIPA",
+        "postulaDistrito": "CHIGUATA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/209476.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 11:07:30",
+        "txGuidFormatoHojaVida": "c6003ff8-4a05-43bd-b675-134d13de7b8c",
+        "idSolicitudLista": 32713.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 225693,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "IDEPENDIENTE AGRÍCOLA",
+            "ocupacionProfesion": "ASALARIADO AGRÍCOLA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CHIGUATA",
+            "anioTrabajoDesde": "2012",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "040105",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "AREQUIPA",
+            "trabajoDistrito": "CHIGUATA",
+            "idHojaVida": 209476,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 199109,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 209476,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 159239,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 15,
+            "orgPolRenunciaOp": "PARTIDO POPULAR CRISTIANO - PPC",
+            "anioRenunciaOp": "2018",
+            "idHojaVida": 209476,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 182397,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 14400.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 209476,
+                "idEstado": 1,
+                "totalIngresos": 14400.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 188582,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "V6W504 ",
+                "valor": 21000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "FORD ESCAPE COLOR PLATA",
+                "comentario": null,
+                "idHojaVida": 209476,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 188581,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "BPF790 ",
+                "valor": 30000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "TOYOTA ICE COLOR AZUL VERDE CELESTE BLANCO",
+                "comentario": null,
+                "idHojaVida": 209476,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

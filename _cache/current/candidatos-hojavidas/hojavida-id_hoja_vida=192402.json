@@ -1,0 +1,138 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 192402.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "26682862",
+        "nombres": "TEOFILO",
+        "apellidoPaterno": "CHUGNAS",
+        "apellidoMaterno": "ALCANTARA",
+        "sexo": "1",
+        "feNacimiento": "25/04/1968",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "060107",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "CAJAMARCA",
+        "naciDistrito": "LOS BAÑOS DEL INCA",
+        "ubigeoDomicilio": "060107",
+        "domiDepartamento": "CAJAMARCA",
+        "domiProvincia": "CAJAMARCA",
+        "domiDistrito": "LOS BAÑOS DEL INCA",
+        "domicilioDirecc": "CASERIO EL CERRILLO",
+        "ubigeoPostula": "060107",
+        "postulaDepartamento": "CAJAMARCA",
+        "postulaProvincia": "CAJAMARCA",
+        "postulaDistrito": "LOS BAÑOS DEL INCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/192402.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 03:06:41",
+        "txGuidFormatoHojaVida": "f1dc33ac-74f3-477e-b5b0-9ea4922ccbc6",
+        "idSolicitudLista": 30516.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 245940,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "COMPLEJO TURISTICO BAÑOS DEL INCA",
+            "ocupacionProfesion": "OBRERO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "BAÑOS DEL INCA",
+            "anioTrabajoDesde": "2016",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "060107",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CAJAMARCA",
+            "trabajoProvincia": "CAJAMARCA",
+            "trabajoDistrito": "LOS BAÑOS DEL INCA",
+            "idHojaVida": 192402,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 217692,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 192402,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 196334,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 11160.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 192402,
+                "idEstado": 1,
+                "totalIngresos": 11160.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 137058,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 15,
+            "txMateriaSentencia": "LABORAL",
+            "txExpedienteObliga": "353-2016",
+            "txOrganoJuridicialObliga": "PODER JUDICIAL CAJAMARCA",
+            "txFalloObliga": "ARCHIVO SIN PRONUNCIAMIENTO SOBRE EL FONDO",
+            "idEstado": 1,
+            "idHojaVida": 192402,
+            "txComentario": null
+        },
+        {
+            "idHvSentenciaObliga": 137059,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 2,
+            "idParamMateriaSentencia": 15,
+            "txMateriaSentencia": "LABORAL",
+            "txExpedienteObliga": "1166-2017",
+            "txOrganoJuridicialObliga": "PODER JUDICIAL CAJAMARCA",
+            "txFalloObliga": "FUNDADA ORDENA SU REPOSICION",
+            "idEstado": 1,
+            "idHojaVida": 192402,
+            "txComentario": null
+        }
+    ]
+}

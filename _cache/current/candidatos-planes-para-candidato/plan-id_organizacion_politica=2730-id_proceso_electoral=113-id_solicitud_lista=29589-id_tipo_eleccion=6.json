@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 22915,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2730,
+        "txOrganizacionPolitica": "MOVIMIENTO INDEPENDIENTE REGIONAL MI BUEN VECINO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/49e989fb-7c47-4569-bcf0-adf8006e08be.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/b1e1bf09-1ab9-4eea-a03b-e517bb1a8988.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 200156,
+            "txPgProblema": "INFRAESTRUCTURA Y MOBILIARIOS \nEDUCATIVOS DE NIVEL INICIAL, \nPRIMARIO Y SECUNDARIO EN MAL \nESTADO.",
+            "txPgObjetivo": "CREAR, MEJORAR Y AMPLIAR LOS SERVICIOS \nEDUCATIVOS EN EL ÁMBITO DISTRITAL",
+            "txPgIndicador": "PORCENTAJE DE INSTITUCIONES \nEDUCATIVAS.",
+            "txPgMeta": "CONSTRUIR Y EQUIPAR 70% DE LAS \nINSTITUCIONES EDUCATIVAS.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 200191,
+            "txPgProblema": "BAJA PRODUCCIÓN Y PRODUCTIVIDAD \nAGRÍCOLA",
+            "txPgObjetivo": "CREACIÓN DE INFRAESTRUCTURAS DE RIEGO \nTECNIFICADO EN EL ÁMBITO DISTRITAL.",
+            "txPgIndicador": "PORCENTAJE DE INFRAESTRUCTURA DE \nRIEGO",
+            "txPgMeta": "INCLUIR MÁS DE 150 HAS., DE SUPERFICIE \nAGRÍCOLA BAJO RIEGO, CREACIÓN DE FERIAS \nAGRÍCOLAS INTERDISTRITALES Y PROVINCIAL.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 200220,
+            "txPgProblema": "ALTOS ÍNDICES DE CONTAMINACIÓN \nAMBIENTAL POR RESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "CREACIÓN E IMPLEMENTACIÓN DE UNA \nPLANTA DE TRATAMIENTO DE RESIDUOS \nSÓLIDOS",
+            "txPgIndicador": "PORCENTAJE DE RESIDUOS SÓLIDOS\nTRATADOS",
+            "txPgMeta": "60% DE RESIDUOS SÓLIDOS TRATADOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 200247,
+            "txPgProblema": "BAJO NIVEL DE EJECUCIÓN DE \nINVERSIÓN PUBLICA",
+            "txPgObjetivo": "IMPLEMENTACIÓN DEL PLAN DE DESARROLLO \nURBANO EN EL ÁMBITO DISTRITAL.",
+            "txPgIndicador": "PORCENTAJE DE PLANES DE \nDESARROLLO URBANO",
+            "txPgMeta": "100% DE PLANIFICACIÓN URBANA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

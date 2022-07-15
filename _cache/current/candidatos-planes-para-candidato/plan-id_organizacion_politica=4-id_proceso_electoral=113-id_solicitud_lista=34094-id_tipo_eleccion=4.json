@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 27420,
+        "idTipoEleccion": 4,
+        "txTipoEleccion": "REGIONAL",
+        "idOrganizacionPolitica": 4,
+        "txOrganizacionPolitica": "ACCION POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/fcb198a5-a36e-4487-8a9b-eec6eb97a209.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/9c00f708-6a84-42bc-8b8d-1a13ea4b3b5e.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 217713,
+            "txPgProblema": "DEFICIT DE SANEAMIENTO BÁSICO",
+            "txPgObjetivo": "OBRAS DE CAPTACIÓN DE AGUA Y SANEAMIENTO BÁSICO",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN A SERVIR",
+            "txPgMeta": "90% DE POBLACIÓN ASISTIDA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 217799,
+            "txPgProblema": "DESNUTRICIÓN INFANTIL",
+            "txPgObjetivo": "NIÑOS CON ANEMIA",
+            "txPgIndicador": "NIÑOS CON BAJO PESO AL NACER",
+            "txPgMeta": "REDUCIR AL 70%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 217846,
+            "txPgProblema": "SALUD - EDUCACIÓN",
+            "txPgObjetivo": "POBLACIÓN VULNERABLE ECONOMICAMENTE",
+            "txPgIndicador": "ENFERMEDAD ANALFABETISMO",
+            "txPgMeta": "ELEVAR LA CALIDAD DE LA SALUD Y LA EDUCACIÓN",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 217903,
+            "txPgProblema": "DESANTENCIÓN AL AGRO",
+            "txPgObjetivo": "TECNIFICACIÓN DEL AGRO",
+            "txPgIndicador": "INDICADORES DE PRODUCCIÓN Y PRODUCTIVIDAD",
+            "txPgMeta": "MEJORAR OBJETIVAMENTE LOS INDICADORES DE PRODUCCIÓN Y PRODUCTIVIDAD",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 217974,
+            "txPgProblema": "FALTA DE INTEGRACIÓN VIAL",
+            "txPgObjetivo": "INTERCONEXIÓN VIAL DE TODA LA REGIÓN",
+            "txPgIndicador": "NÚMERO DE POBLACIONES SIN ACCESO VIAL",
+            "txPgMeta": "INTEGRACIÓN VIAL DE LA REGIÓN",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 218066,
+            "txPgProblema": "DESOCUPACIÓN",
+            "txPgObjetivo": "CIUDADANOS SIN TRABAJO",
+            "txPgIndicador": "INDICES DE DESOCUPACIÓN REGIONAL",
+            "txPgMeta": "CREACIÓN DE  FUENTES DE TRABAJO EN SIERRA Y SELVA",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 218141,
+            "txPgProblema": "PÈRDIDA DEL EQUILIBRIO ECOLÓGICO",
+            "txPgObjetivo": "ZONAS DE CONTAMINACIÓN Y DEPREDACIÓN",
+            "txPgIndicador": "INDICES DE POLUCIÓN Y CONTAMINACIÓN",
+            "txPgMeta": "RECUPERACIÓN DEL EQUILIBRIO ECOLÓGICO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 218283,
+            "txPgProblema": "MAL MANEJO DE RESIDUOS SÓLIDOS",
+            "txPgObjetivo": "CIUDADES CON RELLENOS SANITARIOS",
+            "txPgIndicador": "ÁREAS DEGRADAS",
+            "txPgMeta": "MEJORA DE LA GESTIÓN AMBIENTAL",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 218348,
+            "txPgProblema": "AGUAS SERVIDAS SIN TRATAMIENTO",
+            "txPgObjetivo": "CIUDADES SIN EL DEBIDO MANEJO DE AGUAS SERVIDAS QUE PRODUCEN",
+            "txPgIndicador": "INDICE DE CONTAMINACIÓN",
+            "txPgMeta": "TRATAMIENTO DE AGUAS SERVIDAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 218414,
+            "txPgProblema": "CORRUPCIÓN",
+            "txPgObjetivo": "LUCHA CONTRA LA CORRUPCIÓN INSTITUCIONALIZADA EN TODOS LOS SECTORES DEL ESTADO",
+            "txPgIndicador": "PERCEPCIÓN CIUDADANA",
+            "txPgMeta": "RECUPERAR LA CONFIANZA DE LA CIUDADANÍA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 218512,
+            "txPgProblema": "INSEGURIDAD CIUDADANA",
+            "txPgObjetivo": "CIUDADADES CON ALTO ÍNDICE DE DELINCUENCIA",
+            "txPgIndicador": "NÚMERO DE HECHOS DELICTIVOS EN UN DÍA",
+            "txPgMeta": "LUCHA CONCERTADA CON LOS DIFERENTES SECTORES DE LA CIUDADANÍA PARA DISMINUIR LA DELINCUENCIA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 218590,
+            "txPgProblema": "MAL USO DE LOS RECURSOS ECONÓMICOS",
+            "txPgObjetivo": "OBRAS INCONCLUSAS",
+            "txPgIndicador": "OBRAS SOBREVALORADAS Y CON CUESTIONAMIENTOS",
+            "txPgMeta": "EJECUTAR OBRAS SUSTENTADAS EN EL COSTO BENEFICIO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

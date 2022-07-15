@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 210801.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "72569484",
+        "nombres": "CLEIDER ALAIN",
+        "apellidoPaterno": "CUEVA",
+        "apellidoMaterno": "CERNA",
+        "sexo": "1",
+        "feNacimiento": "17/10/1993",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "061006",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "SAN MIGUEL",
+        "naciDistrito": "NIEPOS",
+        "ubigeoDomicilio": "061006",
+        "domiDepartamento": "CAJAMARCA",
+        "domiProvincia": "SAN MIGUEL",
+        "domiDistrito": "NIEPOS",
+        "domicilioDirecc": "CASERIO LA TIENDA",
+        "ubigeoPostula": "061006",
+        "postulaDepartamento": "CAJAMARCA",
+        "postulaProvincia": "SAN MIGUEL",
+        "postulaDistrito": "NIEPOS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/210801.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2869.0,
+        "organizacionPolitica": "PARTIDO PATRIOTICO DEL PERU",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 23:55:48",
+        "txGuidFormatoHojaVida": "c8324cf7-bd03-4ff2-8c79-163a9848a4ad",
+        "idSolicitudLista": 32876.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 212792,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "NEC-NIEPOS",
+            "ocupacionProfesion": "YACHACHIQ PRODUCTIVO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "NIEPOS",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "061006",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CAJAMARCA",
+            "trabajoProvincia": "SAN MIGUEL",
+            "trabajoDistrito": "NIEPOS",
+            "idHojaVida": 210801,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 187431,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 210801,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 140262,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": "1",
+                "centroEstudioNoUni": "IESP DEL VALLE ZAÑA",
+                "carreraNoUni": "INCONCLUSO",
+                "concluidoNoUni": "2",
+                "idHojaVida": 210801,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 155102,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 21,
+            "orgPolRenunciaOp": "VICTORIA NACIONAL",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 210801,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 173793,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 6000.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 210801,
+                "idEstado": 1,
+                "totalIngresos": 6000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 181712,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "4510OM ",
+                "valor": 3900.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": null,
+                "idHojaVida": 210801,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

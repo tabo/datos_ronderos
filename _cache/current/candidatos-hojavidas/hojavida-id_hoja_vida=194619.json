@@ -1,0 +1,148 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 194619.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "01224647",
+        "nombres": "NICOLAS",
+        "apellidoPaterno": "CALSIN",
+        "apellidoMaterno": "PACOMPIA",
+        "sexo": "1",
+        "feNacimiento": "09/05/1966",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "200115",
+        "naciDepartamento": "PUNO",
+        "naciProvincia": "PUNO",
+        "naciDistrito": "AMANTANI",
+        "ubigeoDomicilio": "200115",
+        "domiDepartamento": "PUNO",
+        "domiProvincia": "PUNO",
+        "domiDistrito": "AMANTANI",
+        "domicilioDirecc": "COM. COLQUECACHI",
+        "ubigeoPostula": "200115",
+        "postulaDepartamento": "PUNO",
+        "postulaProvincia": "PUNO",
+        "postulaDistrito": "AMANTANI",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/194619.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2667.0,
+        "organizacionPolitica": "GESTIONANDO OBRAS Y OPORTUNIDADES CON LIDERAZGO",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 15:04:42",
+        "txGuidFormatoHojaVida": "0e0c4ffa-c01b-4c4f-8e71-d8e126fafefc",
+        "idSolicitudLista": 30821.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 217197,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AGRICULTOR",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "DISTRITO DE AMANTANI",
+            "anioTrabajoDesde": "2012",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "200115",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PUNO",
+            "trabajoProvincia": "PUNO",
+            "trabajoDistrito": "AMANTANI",
+            "idHojaVida": 194619,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 191418,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 194619,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 176365,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 2000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 194619,
+                "idEstado": 1,
+                "totalIngresos": 2000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 249627,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "VIVIENDA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "COMUNIDAD DE COLQUECACHI DE AMANTANI.",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 194619,
+                "idEstado": 1,
+                "flValor": "8000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 137539,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 17,
+            "txMateriaSentencia": "CONTRACTUAL",
+            "txExpedienteObliga": "249-2017",
+            "txOrganoJuridicialObliga": "TERCER JUZGADO CIVIL DE JULIACA",
+            "txFalloObliga": "FUNDADA DEMANDA",
+            "idEstado": 1,
+            "idHojaVida": 194619,
+            "txComentario": null
+        }
+    ]
+}

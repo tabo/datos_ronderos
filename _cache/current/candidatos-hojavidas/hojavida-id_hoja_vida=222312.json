@@ -1,0 +1,146 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 222312.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "47088541",
+        "nombres": "EUFEMIA",
+        "apellidoPaterno": "ESPERILLA",
+        "apellidoMaterno": "LEON",
+        "sexo": "2",
+        "feNacimiento": "14/10/1985",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "071209",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "QUISPICANCHI",
+        "naciDistrito": "MARCAPATA",
+        "ubigeoDomicilio": "071209",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "QUISPICANCHI",
+        "domiDistrito": "MARCAPATA",
+        "domicilioDirecc": "COMUNIDAD MARCAPATA QOLLANA S/N",
+        "ubigeoPostula": "071209",
+        "postulaDepartamento": "CUSCO",
+        "postulaProvincia": "QUISPICANCHI",
+        "postulaDistrito": "MARCAPATA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/222312.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 04:58:26",
+        "txGuidFormatoHojaVida": "bd6e4684-0b1a-4396-8eda-4ea3c0a6668b",
+        "idSolicitudLista": 34248.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 238682,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CENTRO ARTESAL TRES ALPAQUITAS",
+            "ocupacionProfesion": "ARTESANA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "MARCAPATA",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "071209",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CUSCO",
+            "trabajoProvincia": "QUISPICANCHI",
+            "trabajoDistrito": "MARCAPATA",
+            "idHojaVida": 222312,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 210687,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 222312,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 163049,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 21,
+            "orgPolRenunciaOp": "VICTORIA NACIONAL",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 222312,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 190881,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 5400.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 222312,
+                "idEstado": 1,
+                "totalIngresos": 5400.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 235992,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "VIVIENDA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "BARRIO SANTIAGO - MARCAPATA",
+                "comentario": "NO PAGA AUTOVALUO",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 222312,
+                "idEstado": 1,
+                "flValor": "38000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

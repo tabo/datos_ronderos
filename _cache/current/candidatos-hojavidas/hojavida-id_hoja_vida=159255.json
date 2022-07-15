@@ -1,0 +1,139 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 159255.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "33431025",
+        "nombres": "ALBERTO",
+        "apellidoPaterno": "VIDARTE",
+        "apellidoMaterno": "GARCIA",
+        "sexo": "1",
+        "feNacimiento": "04/12/1971",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "130115",
+        "naciDepartamento": "LAMBAYEQUE",
+        "naciProvincia": "CHICLAYO",
+        "naciDistrito": "LA VICTORIA",
+        "ubigeoDomicilio": "010101",
+        "domiDepartamento": "AMAZONAS",
+        "domiProvincia": "CHACHAPOYAS",
+        "domiDistrito": "CHACHAPOYAS",
+        "domicilioDirecc": "AV LIBERTAD N 198",
+        "ubigeoPostula": "010000",
+        "postulaDepartamento": "AMAZONAS",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/159255.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "ACCESITARIO",
+            " ACCESITARIO"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 14:22:59",
+        "txGuidFormatoHojaVida": "d3e7b5b5-05ce-4bfb-a768-7bb61ba9dbaa",
+        "idSolicitudLista": 26044.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 254271,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "TRANSPORTE",
+            "ocupacionProfesion": "TAXISTA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV LIBERTAD 198",
+            "anioTrabajoDesde": "2012",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "010101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AMAZONAS",
+            "trabajoProvincia": "CHACHAPOYAS",
+            "trabajoDistrito": "CHACHAPOYAS",
+            "idHojaVida": 159255,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 226500,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 159255,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 143708,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 805,
+                "orgPolCargoPartidario": "MOVIMIENTO REGIONAL O DEPARTAMENTAL INTEGRACION 6 DE JUNIO",
+                "cargoPartidario": "AFILIACION",
+                "anioCargoPartiDesde": "2006",
+                "anioCargoPartiHasta": "2015",
+                "idHojaVida": 159255,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "AFILIACION CANCELADA"
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 168339,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 805,
+            "orgPolRenunciaOp": "INTEGRACION 6 DE JUNIO",
+            "anioRenunciaOp": "2015",
+            "idHojaVida": 159255,
+            "idEstado": 1,
+            "txComentario": "AFILIACION CANCELADA POR RENUNCIA"
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 203161,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 36000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 159255,
+                "idEstado": 1,
+                "totalIngresos": 36000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

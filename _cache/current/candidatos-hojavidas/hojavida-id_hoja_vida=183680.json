@@ -1,0 +1,173 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 183680.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "33801455",
+        "nombres": "RODNEY",
+        "apellidoPaterno": "SERVAN",
+        "apellidoMaterno": "BAZAN",
+        "sexo": "1",
+        "feNacimiento": "15/03/1971",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "010416",
+        "naciDepartamento": "AMAZONAS",
+        "naciProvincia": "LUYA",
+        "naciDistrito": "SAN FRANCISCO DE YESO",
+        "ubigeoDomicilio": "010416",
+        "domiDepartamento": "AMAZONAS",
+        "domiProvincia": "LUYA",
+        "domiDistrito": "SAN FRANCISCO DE YESO",
+        "domicilioDirecc": "SAN FRANCISCO DEL YESO",
+        "ubigeoPostula": "010416",
+        "postulaDepartamento": "AMAZONAS",
+        "postulaProvincia": "LUYA",
+        "postulaDistrito": "SAN FRANCISCO DE YESO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/183680.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2878.0,
+        "organizacionPolitica": "VICTORIA AMAZONENSE",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 17:57:59",
+        "txGuidFormatoHojaVida": "7d481d39-3a88-4123-bb23-779d14a1967f",
+        "idSolicitudLista": 29321.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 206675,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "OPERARIO DE CONSTRUCCION",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CHACHAPOYAS",
+            "anioTrabajoDesde": "2009",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "010101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AMAZONAS",
+            "trabajoProvincia": "CHACHAPOYAS",
+            "trabajoDistrito": "CHACHAPOYAS",
+            "idHojaVida": 183680,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 181903,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 183680,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 169333,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 15000.0,
+                "idHojaVida": 183680,
+                "idEstado": 1,
+                "totalIngresos": 15000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 212710,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 2,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "SAN FRANCISCO DE YESO",
+                "comentario": "A 3 CUADRAS DE LA PLAZA, AREA TOTAL  150 METROS CUADRADOS",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 183680,
+                "idEstado": 1,
+                "flValor": "20000"
+            },
+            {
+                "idHvBienInmueble": 212689,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "PASAJE BULLARAN - SANTO TORIBIO MOGROVEJO - CHACHAPOYAS",
+                "comentario": "AREA TOTAL 78 METROS CUADRADOS",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 183680,
+                "idEstado": 1,
+                "flValor": "200000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 178373,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "MOTO LINEAL",
+                "marca": null,
+                "placa": "2211CS",
+                "valor": 7500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA HONDA, MODELO CB190R, COLOR ANARANJADO",
+                "comentario": null,
+                "idHojaVida": 183680,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,146 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 201357.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "01703789",
+        "nombres": "JUAN",
+        "apellidoPaterno": "ACCHA",
+        "apellidoMaterno": "MAMANI",
+        "sexo": "1",
+        "feNacimiento": "06/09/1977",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "200304",
+        "naciDepartamento": "PUNO",
+        "naciProvincia": "CARABAYA",
+        "naciDistrito": "COASA",
+        "ubigeoDomicilio": "200304",
+        "domiDepartamento": "PUNO",
+        "domiProvincia": "CARABAYA",
+        "domiDistrito": "COASA",
+        "domicilioDirecc": "COMUNID.DE AYUSUMA",
+        "ubigeoPostula": "200304",
+        "postulaDepartamento": "PUNO",
+        "postulaProvincia": "CARABAYA",
+        "postulaDistrito": "COASA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/201357.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2657.0,
+        "organizacionPolitica": "SOMOS PUEBLO",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 18:57:59",
+        "txGuidFormatoHojaVida": "ddc7def9-f118-4b9e-a1ce-fba913f0b6f9",
+        "idSolicitudLista": 31679.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 183335,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "COMUNIDAD AYUSUMA",
+            "ocupacionProfesion": "ALBAÑIL",
+            "rucTrabajo": null,
+            "direccionTrabajo": "COMUNIDAD AYUSUMA",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "200304",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PUNO",
+            "trabajoProvincia": "CARABAYA",
+            "trabajoDistrito": "COASA",
+            "idHojaVida": 201357,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 161422,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 201357,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 145417,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2657,
+            "orgPolRenunciaOp": "SOMOS PUEBLO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 201357,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 154002,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 14500.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 201357,
+                "idEstado": 1,
+                "totalIngresos": 14500.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 194579,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "VIVIENDA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CENTRO POBLADO AYUSUMA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 5000.0,
+                "idHojaVida": 201357,
+                "idEstado": 1,
+                "flValor": "5000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

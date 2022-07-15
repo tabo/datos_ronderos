@@ -1,0 +1,150 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 234266.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "29486469",
+        "nombres": "JOSE ABRAHAM",
+        "apellidoPaterno": "COAGUILA",
+        "apellidoMaterno": "CORNEJO",
+        "sexo": "1",
+        "feNacimiento": "16/03/1964",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040110",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "AREQUIPA",
+        "naciDistrito": "POCSI",
+        "ubigeoDomicilio": "040110",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "AREQUIPA",
+        "domiDistrito": "POCSI",
+        "domicilioDirecc": "CALLE PRINCIPAL ANEXO HUICCHUNA",
+        "ubigeoPostula": "040110",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "AREQUIPA",
+        "postulaDistrito": "POCSI",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/234266.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2307.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL AREQUIPA AVANCEMOS",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 14:41:37",
+        "txGuidFormatoHojaVida": "84a8fb95-6c54-4410-a076-15705ebf5736",
+        "idSolicitudLista": 35638.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 211593,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "KHUT S.R.L,",
+            "ocupacionProfesion": "ALBAÑIL",
+            "rucTrabajo": "20498333347",
+            "direccionTrabajo": "CALLE JUNIN # 209 JORGE CHAVEZ",
+            "anioTrabajoDesde": "2014",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "040109",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "AREQUIPA",
+            "trabajoDistrito": "PAUCARPATA",
+            "idHojaVida": 234266,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 186353,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 234266,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 141957,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 2257,
+                "orgPolCargoElec": "JUNTOS POR EL DESARROLLO DE AREQUIPA",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2015",
+                "anioCargoElecHasta": "2018",
+                "idHojaVida": 234266,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 172692,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 31920.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 234266,
+                "idEstado": 1,
+                "totalIngresos": 31920.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 216219,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "AREQUIPA-POCSI- MZ N LOTE 2 - CENTRO POBLADO HUICCHUNA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "11132070",
+                "fichaTomoSunarp": null,
+                "autovaluo": 20000.0,
+                "idHojaVida": 234266,
+                "idEstado": 1,
+                "flValor": "50000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,149 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 148123.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "76342132",
+        "nombres": "ANDRES ANTONIO",
+        "apellidoPaterno": "MARTINEZ",
+        "apellidoMaterno": "HIDALGO",
+        "sexo": "1",
+        "feNacimiento": "07/06/1997",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "190502",
+        "naciDepartamento": "PIURA",
+        "naciProvincia": "PAITA",
+        "naciDistrito": "AMOTAPE",
+        "ubigeoDomicilio": "190502",
+        "domiDepartamento": "PIURA",
+        "domiProvincia": "PAITA",
+        "domiDistrito": "AMOTAPE",
+        "domicilioDirecc": "INDEPENDENCIA S/N",
+        "ubigeoPostula": "190502",
+        "postulaDepartamento": "PIURA",
+        "postulaProvincia": "PAITA",
+        "postulaDistrito": "AMOTAPE",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/148123.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 4.0,
+        "organizacionPolitica": "ACCION POPULAR",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 13:35:26",
+        "txGuidFormatoHojaVida": "bf747b8e-a9b3-4485-8400-4d864aad8f9c",
+        "idSolicitudLista": 24525.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 249429,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AMOTAPE",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "190502",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PIURA",
+            "trabajoProvincia": "PAITA",
+            "trabajoDistrito": "AMOTAPE",
+            "idHojaVida": 148123,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 220935,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 148123,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 143312,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 4,
+                "orgPolCargoPartidario": "PARTIDO POLÍTICO ACCION POPULAR",
+                "cargoPartidario": "PERTENECIO A SECRETARIA GENERAL",
+                "anioCargoPartiDesde": "2016",
+                "anioCargoPartiHasta": "2022",
+                "idHojaVida": 148123,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 198845,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 12000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 148123,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 244438,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "VIVIENDA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CALLE MIGUEL GRAU S/N",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 7000.0,
+                "idHojaVida": 148123,
+                "idEstado": 1,
+                "flValor": "7000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

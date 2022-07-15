@@ -1,0 +1,164 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 162577.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40433107",
+        "nombres": "MIRIAM",
+        "apellidoPaterno": "OWAKI",
+        "apellidoMaterno": "GOMEZ",
+        "sexo": "2",
+        "feNacimiento": "17/11/1979",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "210907",
+        "naciDepartamento": "SAN MARTIN",
+        "naciProvincia": "PICOTA",
+        "naciDistrito": "SAN HILARION",
+        "ubigeoDomicilio": "210907",
+        "domiDepartamento": "SAN MARTIN",
+        "domiProvincia": "PICOTA",
+        "domiDistrito": "SAN HILARION",
+        "domicilioDirecc": "JR.BOLOGNESI 411",
+        "ubigeoPostula": "210907",
+        "postulaDepartamento": "SAN MARTIN",
+        "postulaProvincia": "PICOTA",
+        "postulaDistrito": "SAN HILARION",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/162577.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL",
+            " REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 04:15:25",
+        "txGuidFormatoHojaVida": "c033023a-2846-4217-8dd6-7b2fd49cddee",
+        "idSolicitudLista": 26499.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 158786,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "RESTAURANTE",
+            "rucTrabajo": "10404331073",
+            "direccionTrabajo": "JR.PUTUMAYO 135",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "210907",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "SAN MARTIN",
+            "trabajoProvincia": "PICOTA",
+            "trabajoDistrito": "SAN HILARION",
+            "idHojaVida": 162577,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 138683,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 162577,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 136413,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 179,
+            "orgPolRenunciaOp": "PARTIDO NACIONALISTA PERUANO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 162577,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 137573,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 30584.5,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 162577,
+                "idEstado": 1,
+                "totalIngresos": 30584.5
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 171489,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "JIRON PUTUMAYO MZ 35 LOTE 17   SAN HILARION - PICOTA - SAN MARTIN",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "11060878",
+                "fichaTomoSunarp": null,
+                "autovaluo": 1000.0,
+                "idHojaVida": 162577,
+                "idEstado": 1,
+                "flValor": "1500"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 150296,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "S23654 ",
+                "valor": 25000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL ROJO/GEELY",
+                "comentario": null,
+                "idHojaVida": 162577,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

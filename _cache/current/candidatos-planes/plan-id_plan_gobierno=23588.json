@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23588,
+        "idTipoEleccion": 5,
+        "txTipoEleccion": "MUNICIPAL PROVINCIAL",
+        "idOrganizacionPolitica": 1264,
+        "txOrganizacionPolitica": "JUNTOS POR EL PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1686,
+        "juradoElectoral": "HUAYLAS",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/3a72a0dd-e711-4b1c-bf1c-e367c17dcd22.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/69582394-f8df-4148-8d30-f13cf932acf0.pdf",
+        "txCodExpedienteExt": "ERM.2022016757",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 147661,
+            "txPgProblema": "LIMITADO ACCESO DE LAS VIVIENDAS A\nLOS SERVICIOS DE AGUA",
+            "txPgObjetivo": "MEJORAR LA HABITABILIDAD\nEN LOS DISTRITOS DE LA\nPROVINCIA DE YUNGAY",
+            "txPgIndicador": "% DE VIVIENDAS QUE\nACCEDEN AL SERVICIO DE\nAGUA POTABLE",
+            "txPgMeta": "100% DE\nVIVIENDAS\nACCEDEN AL\nSERVICIO DE AGUA\nPOTABLE",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 147678,
+            "txPgProblema": "ALTOS NIVELES DE DESNUTRICIÓN CRÓNICA\nDE NIÑOS EN LA PROVINCIA DE YUNGAY\nALTOS NIVELES DE ANEMIA EN NIÑOS DE\nLA PROVINCIA DE YUNGAY",
+            "txPgObjetivo": "MEJORAR LAS CONDICIONES\nDE SALUD DE LA POBLACIÓN\nDE LA PROVINCIA DE\nYUNGAY",
+            "txPgIndicador": "% DE DESNUTRICIÓN\nCRÓNICA \nNÚMERO DE NIÑOS QUE\nMUEREN POR CADA 1000\nNACIDOS",
+            "txPgMeta": "20 NIÑOS POR\n1000 NACIDOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 147694,
+            "txPgProblema": "BAJOS NIVELES DE LOGROS DE\nAPRENDIZAJE EN LA EBR EN EL ÁREA DE\nCOMPRENSIÓN LECTORA",
+            "txPgObjetivo": "MEJORAR LA EDUCACIÓN DE\nLA POBLACIÓN DE LA\nPROVINCIA DE YUNGAY",
+            "txPgIndicador": "% DE ALUMNOS DEL\nSEGUNDO GRADO DE\nSECUNDARIA CON EL NIVEL\nSATISFACTORIO EN\nRAZONAMIENTO\nCOMPRENSIÓN LECTORA",
+            "txPgMeta": "25% DE ALUMNOS\nDEL SEGUNDO\nGRADO DE\nSECUNDARIA\nOBTIENEN EL NIVEL\nSATISFACTORIO EN\nCOMPRENSIÓN\nLECTORA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 147818,
+            "txPgProblema": "FALTA DE ACCESO A MERCADOS PARA LA\nVENTA DE LA PRODUCCIÓN DE YUNGAY",
+            "txPgObjetivo": "DESARROLLAR CADENAS\nPRODUCTIVAS QUE FACILITEN\nLA COMERCIALIZACIÓN DE LA\nPRODUCCIÓN DE YUNGAY",
+            "txPgIndicador": "VOLUMEN EN TM DE\nPRODUCCIÓN VENDIDA",
+            "txPgMeta": "50% MÁS DE\nVOLUMEN DE\nPRODUCCIÓN\nVENDIDA",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 147844,
+            "txPgProblema": "FALTA DE ACCESO PERMANENTE AL AGUA\nPARA REGADÍO",
+            "txPgObjetivo": "LOGRAR QUE TODOS LOS\nPREDIOS DE CULTIVO DE\nYUNGAY CUENTEN CON\nAGUA PARA REGADÍO",
+            "txPgIndicador": "% DE PREDIOS DE CULTIVO\nCON ACCESO PERMANENTE\nAL AGUA PARA REGADÍO",
+            "txPgMeta": "100% DE PREDIOS\nDE CULTIVO CON\nACCESO\nPERMANENTE AL\nAFUA PARA\nREGADÍO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 147866,
+            "txPgProblema": "FALTA DE INFRAESTRUCTURA PRODUCTIVA\nBÁSICA EN YUNGAY",
+            "txPgObjetivo": "MEJORAR LA PRODUCTIVIDAD\nDE LAS TIERRAS DE YUNGAY\nMEDIANTE LA\nCONSTRUCCIÓN DE UNA\nPLANTA PROCESADORA DE\nABONO ORGÁNICO.",
+            "txPgIndicador": "% DE AVANCE DE LA OBRA",
+            "txPgMeta": "FINALIZACIÓN DE\nLA PLANTA\nPROCESADORA DE\nABONO ORGÁNICO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 147879,
+            "txPgProblema": "INADECUADO TRATAMIENTO DE LOS\nRESIDUOS SÓLIDOS DE YUNGAY",
+            "txPgObjetivo": "OPTIMIZAR EL\nTRATAMIENTO DE LOS\nRESIDUOS SÓLIDOS DE\nYUNGAY",
+            "txPgIndicador": "IMPLEMENTACIÓN DE UN\nRELLENO SANITARIO DE\nACUERDO A LEY",
+            "txPgMeta": "100% DE LOS\nRESIDUOS SÓLIDOS\nSON TRATANDO DE\nMANERA ÓPTIMA",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 147885,
+            "txPgProblema": "ALTO NIVEL DE CONTAMINACIÓN EN RÍOS\nY LAGOS DE YUNGAY",
+            "txPgObjetivo": "REDUCIR LA\nCONTAMINACIÓN DE LOS\nRÍOS, LAGOS Y ACEQUIAS DE\nYUNGAY",
+            "txPgIndicador": "INDICADOR DE CALIDAD DEL\nAGUA (ICA)",
+            "txPgMeta": "ICA: 0.75",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 147895,
+            "txPgProblema": "EXCESIVO CONSUMO DE AGUA DE LAS\nUNIDADES MINERAS EN YUNGAY",
+            "txPgObjetivo": "REDUCIR EL NIVEL DE\nCONSUMO DE AGUA POR\nPARTE DE LAS UNIDADES\nMINERAS DE YUNGAY",
+            "txPgIndicador": "VOLUMEN DE AGUA\nUTILIZADA POR LAS\nUNIDADES MINERAS",
+            "txPgMeta": "-50% DE\nCONSUMO DE\nAGUA",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 147908,
+            "txPgProblema": "FALTA DE LIDERAZGO DE LAS AUTORIDADES\nLOCALES",
+            "txPgObjetivo": "MEJORAR EL LIDERAZGO\nDEL GOBIERNO PROVINCIAL\nDE YUNGAY",
+            "txPgIndicador": "ÍNDICE DE SATISFACCIÓN\nDEL CIUDADANO DE YUNGAY",
+            "txPgMeta": "70% EN EL ÍNDICE\nDE SATISFACCIÓN\nDEL CIUDADANO\nDE YUNGAY",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 147922,
+            "txPgProblema": "FALTA DE ACCESO A SERVICIOS PÚBLICOS\nEN LÍNEA",
+            "txPgObjetivo": "CREAR LAS PLATAFORMAS\nTECNOLÓGICAS QUE\nFACILITEN EL ACCESO DE LA\nPOBLACIÓN A SERVICIOS EN\nLÍNEA",
+            "txPgIndicador": "NO DE PROCESOS DEL\nGOBIERNO PROVINCIAL EN\nLINEA",
+            "txPgMeta": "ACCESO A TODOS\nLOS SERVICIOS\nPÚBLICOS EN LÍNEA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 147927,
+            "txPgProblema": "FALTA DE TRANSPARENCIA EN LA GESTIÓN\nDEL GOBIERNO PROVINCIAL",
+            "txPgObjetivo": "DIFUNDIR MEDIANTE\nCABILDOS ABIERTOS\nRECURRENTES EL ALCANCE DE\nLA GESTIÓN DEL GOBIERNO\nPROVINCIAL",
+            "txPgIndicador": "NO DE CABILDOS\nABIERTOS REALIZADOS CADA\nAÑO",
+            "txPgMeta": "2 CABILDOS\nREALIZADOS POR\nAÑO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

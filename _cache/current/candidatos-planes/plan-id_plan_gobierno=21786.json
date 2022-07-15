@@ -1,0 +1,125 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 21786,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2862,
+        "txOrganizacionPolitica": "CONTIGO REGION",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1728,
+        "juradoElectoral": "SULLANA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/23894623-11fc-4043-bbf3-5a6077636ed5.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/3af9c20f-e96a-4bd5-b02c-cb176f8766db.pdf",
+        "txCodExpedienteExt": "ERM.2022007056",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 156871,
+            "txPgProblema": "BAJA COBERTURA DE LOS SERVICIOS DE SALUD",
+            "txPgObjetivo": "MEJORAR LAS CONDICIONES DE LA SALUD EN LA POBLACIÓN",
+            "txPgIndicador": "PORCENTAJE DE PERSONAS CON ACCESOS A LOS SERVICIOS DE SALUD",
+            "txPgMeta": "25.00\t26.00\t27.00\t28.00",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156915,
+            "txPgProblema": "BAJOS LOGROS DE APRENDIZAJE",
+            "txPgObjetivo": "CONTRIBUIR CON LA CALIDAD DE LOS SERVICIOS DE LA EDUCACIÓN",
+            "txPgIndicador": "PORCENTAJE DE INSTITUCIONES EDUCATIVAS QUE BRINDAN SERVICIOS DE ACUERDO A DIRECTIVAS DEL SECTOR GRACIAS A LA CONTRIBUCIÓN DE LA MUNICIPALIDAD.",
+            "txPgMeta": "30.00\t32.00\t36.00\t40.00",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156971,
+            "txPgProblema": "DEFICIENTE SERVICIOS SOCIALES A LA POBLACIÓN",
+            "txPgObjetivo": "GARANTIZAR EL ACCCESO A LOS SERVICIOS SOCIALES Y PROTECCIÓN DE LOS DERECHOS HUMANOS DE LA POBLACIÓN",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN VULNERABLE BENEFICIADA Y CON PROTECCION ADQUIRIDA",
+            "txPgMeta": "65.00\t66.00\t67.00\t68.00",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 157012,
+            "txPgProblema": "POBREZA MONETARIA DE LA POBLACIÓN",
+            "txPgObjetivo": "REDUCIR LA INCIDENCIA DE LA POBREZA  EN LA POBLACIÓN",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN EN CONDICIÓN DE POBREZA MONETARIA",
+            "txPgMeta": "85.00\t80.00\t75.00\t70.00",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 157055,
+            "txPgProblema": "BAJO NIVEL DE COMPETITIVIDAD TERRITORIAL",
+            "txPgObjetivo": "PROMOVER LA COMPETITIVODAD TERRITORIAL",
+            "txPgIndicador": "PORCENTAJE DE AGENTES ECONÓMICOS QUE ACCEDEN A NUEVOS MERCADOS LOCAL REGIONAL",
+            "txPgMeta": "70.00\t72.00\t76.00\t78.00",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 157132,
+            "txPgProblema": "DEFICIENTE GESTIÓN URBANA",
+            "txPgObjetivo": "PROMOVER EL DESARROLLO URBANO TERRITORIAL ORDENADO Y SOSTENIBLE",
+            "txPgIndicador": "DIMENSION AMBIENTAL \nPORCENTAJE DEL ÁREA URBANA CON EDIFICAIONES QUE CUMPLEN REGULARIZACIONES DE EDIFICACIÓN.",
+            "txPgMeta": "73.00\t76.00\t80.00\t82.00",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 157230,
+            "txPgProblema": "ALTA VULNERABILIDAD DE LA POBLACIÓN ANTE DESASTRES NATURALES Y CAMBIO CLIMÁTICO",
+            "txPgObjetivo": "PROMOVER LA GESTIÓN DE SERVICIOS DE DESASTRES",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN VULNERABLE CON PROTECCIÓN FRENTE A DESASTRES.",
+            "txPgMeta": "45.00\t48.00\t51.00\t55.00",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 157306,
+            "txPgProblema": "INADECUADO MANEJO DE LOS RESIDUOS SÓLIDOS",
+            "txPgObjetivo": "PROMOVER LA GESTIÓN AMBIENTAL SALUDABLE EN EL DISTRITO",
+            "txPgIndicador": "PORCENTAJE DE RESIDUOS SÓLIDOS NO REUTILIZABLES QUE SON DISPUESTOS ADECUADAMENTE.",
+            "txPgMeta": "81.00\t82.00\t83.00\t84.00",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 157475,
+            "txPgProblema": "BAJO NIVEL DE EFICIENCIA Y TRANASPARENCIA DE LA ADMINISTRACIÓN PÚBLICA",
+            "txPgObjetivo": "TRANSPARENCIA Y EFICACIA DE LA ADMINISTRACIÓN PÚBLICA AL SERVICIO DE LOS DERECHOS DE LA CIUDADANIA",
+            "txPgIndicador": "EFECTIVIDAD DEL GOBIERNO",
+            "txPgMeta": "80.00\t83.00\t85.00\t88.00",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 157508,
+            "txPgProblema": "BAJO NIVEL DE PARTICIPACION CIUDADANA",
+            "txPgObjetivo": "PARTICIPACIÓN EQUITATIVA Y EFICIENTE DE LAS ORGANIZACIONES EN LOS PROCESOS DE DEMOCRATIZACIÓN POLÍTICA, TOMA DECISIONES  PÚBLICAS",
+            "txPgIndicador": "SUSCRIPCION A LOS EVENTOS PARTICIPATIVOS Y RENDICIÓN DE CUENTAS.",
+            "txPgMeta": "83..00\t85.00\t90.00\t93.00",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

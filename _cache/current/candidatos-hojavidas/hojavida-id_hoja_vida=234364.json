@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 234364.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "41704887",
+        "nombres": "JUAN CARLOS",
+        "apellidoPaterno": "FERNANDEZ",
+        "apellidoMaterno": "CANDIOTE",
+        "sexo": "1",
+        "feNacimiento": "29/12/1981",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050207",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "CANGALLO",
+        "naciDistrito": "PARAS",
+        "ubigeoDomicilio": "050207",
+        "domiDepartamento": "AYACUCHO",
+        "domiProvincia": "CANGALLO",
+        "domiDistrito": "PARAS",
+        "domicilioDirecc": "BQ.CCAHUACCOCCO S/N ANEXO PARAS",
+        "ubigeoPostula": "050207",
+        "postulaDepartamento": "AYACUCHO",
+        "postulaProvincia": "CANGALLO",
+        "postulaDistrito": "PARAS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/234364.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 10:09:41",
+        "txGuidFormatoHojaVida": "73133401-07d5-4310-93af-0e8da8ac9ca2",
+        "idSolicitudLista": 35648.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 247887,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CONSORCIO COMERCIO",
+            "ocupacionProfesion": "MAESTRO DE OBRA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "PLAZA DE PAUCAR DE SARA SARA",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "051010",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AYACUCHO",
+            "trabajoProvincia": "PAUCAR DEL SARA SARA",
+            "trabajoDistrito": "SARA SARA",
+            "idHojaVida": 234364,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 219493,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 234364,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 197702,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 18000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 234364,
+                "idEstado": 1,
+                "totalIngresos": 18000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 243074,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "NUEVA JERUSALEN LOTE 29  - SALAS GUADALUPE ICA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 234364,
+                "idEstado": 1,
+                "flValor": "70000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 200184,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "90324Y ",
+                "valor": 9000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR ROJO MOTO DE 3 LLANTAS",
+                "comentario": null,
+                "idHojaVida": 234364,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

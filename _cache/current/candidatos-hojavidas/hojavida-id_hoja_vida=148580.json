@@ -1,0 +1,157 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 148580.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "15448507",
+        "nombres": "CARLOS ENRIQUE",
+        "apellidoPaterno": "ROLDAN",
+        "apellidoMaterno": "LLERENA",
+        "sexo": "1",
+        "feNacimiento": "23/06/1966",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140101",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "LIMA",
+        "ubigeoDomicilio": "140903",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "BARRANCA",
+        "domiDistrito": "PATIVILCA",
+        "domicilioDirecc": "AV.JUAN VELASCO ALVARADO 533",
+        "ubigeoPostula": "140903",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "BARRANCA",
+        "postulaDistrito": "PATIVILCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/148580.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 23:37:40",
+        "txGuidFormatoHojaVida": "82d94fa2-0038-410c-8368-98ad1e9fe4b5",
+        "idSolicitudLista": 24591.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 210412,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "FERRETERIA VENTA DE AGREGADOS",
+            "ocupacionProfesion": "PERSONA NATURAL CON NEGOCIO PROPIO",
+            "rucTrabajo": "10154485070",
+            "direccionTrabajo": "CALLE LIMONCILLO N°1014",
+            "anioTrabajoDesde": "2011",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "140901",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "BARRANCA",
+            "trabajoDistrito": "BARRANCA",
+            "idHojaVida": 148580,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 185288,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 148580,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 147237,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "CESCA",
+                "carreraTecnico": "TECNICO EN COMPUTACIÓN",
+                "concluidoEduTecnico": "2",
+                "idHojaVida": 148580,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 180267,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "MAQUINARIA",
+                "marca": null,
+                "placa": "JL-835",
+                "valor": 140000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MAQUINARIA",
+                "comentario": null,
+                "idHojaVida": 148580,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 180243,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "B8F850 ",
+                "valor": 14000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMION MAZDA",
+                "comentario": null,
+                "idHojaVida": 148580,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 4227,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "EMPRESA NUEVO BARRANCO",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 1.0,
+                "flValor": 140200.0,
+                "idHojaVida": 148580,
+                "idEstado": 1,
+                "txUsuario": "74611025",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

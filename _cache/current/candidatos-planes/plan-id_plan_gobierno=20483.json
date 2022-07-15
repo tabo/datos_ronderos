@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20483,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 4,
+        "txOrganizacionPolitica": "ACCION POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1650,
+        "juradoElectoral": "AREQUIPA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/5e1f0fa0-8a3d-43f7-b3f9-684e83a98eaf.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/f400adde-39d3-4ac7-99b2-ee223f887cc8.pdf",
+        "txCodExpedienteExt": "ERM.2022006577",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 155344,
+            "txPgProblema": "1. DEFICIENTES SERVICIOS DE AGUA Y DESAGÜE AFECTAN LA SALUD DE LAS PERSONAS EN EL DISTRITO DE MEJÍA .",
+            "txPgObjetivo": "1. MEJORAR LOS SERVICIOS DE AGUA Y DESAGÜE LAS 24 HORAS DEL DÍA EN EL DISTRITO MEJÍA",
+            "txPgIndicador": "1. PORCENTAJE DE VIVIENDAS DE ZONA URBANA Y RURAL CON SERVICIO DE AGUA POTABLE.",
+            "txPgMeta": "1. 100% DE VIVIENDAS CUENTAN CON SERVICIOS DE AGUA Y DESAGÜE.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 155382,
+            "txPgProblema": "INFRAESTRUCTURA DE SALUD DEFICIENTE",
+            "txPgObjetivo": "MEJORAR LA ATENCIÓN DE SERVICIO DE SALUD EN EL DISTRITO DE MEJÍA",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN QUE SE ATIENDE EN ESTABLECIMIENTO DE SALUD DE MEJÍA",
+            "txPgMeta": "80% DE LA POBLACIÓN SE ATIENDE EN ESTABLECIMIENTO DE SALUD DE MEJÍA.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 155390,
+            "txPgProblema": "DÉFICIT EN ATENCIÓN A NIÑOS DE 0 A 3 AÑOS",
+            "txPgObjetivo": "MEJORAR LA ATENCIÓN A NIÑOS Y NIÑAS DE PRIMERA INFANCIA",
+            "txPgIndicador": "PORCENTAJE DE NIÑOS, NIÑAS Y \nINTEGRADOS A PROGRAMAS SOCIALES",
+            "txPgMeta": "100% DE ADULTOS MAYORES INTEGRADOS A PROGRAMAS DE RECREACIÓN.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 155403,
+            "txPgProblema": "DÉBIL PROMOCIÓN Y APOYO A ACTIVIDADES ECONÓMICO PRODUCTIVAS",
+            "txPgObjetivo": "PROMOVER Y FORTALECER LAS CAPACIDADES PRODUCTIVAS DE LOS EMPRENDIMIENTOS LOCALES.",
+            "txPgIndicador": "PORCENTAJE DE PEA, SE ENCUENTRA INCORPORADA A ACTIVIDADES ECONÓMICO PRODUCTIVAS",
+            "txPgMeta": "80% DE LA POBLACIÓN ECONÓMICAMENTE ACTIVA PEA, ES INCORPORADA A ACTIVIDADES ECONÓMICO PRODUCTIVAS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 155413,
+            "txPgProblema": "INADECUADAS CONDICIONES DE TRANSITABILIDAD PEATONAL Y VEHICULAR EN LA ZONA URBANA Y RURAL",
+            "txPgObjetivo": "MEJORAR TRANSITABILIDAD PEATONAL Y VEHICULAR DE LA ZONA PRODUCTIVA - RURAL DE MEJÍA",
+            "txPgIndicador": "PORCENTAJE VÍAS DE MEJÍA SE ENCUENTRA PAVIMENTADO Y CON PISTAS Y VEREDAS.",
+            "txPgMeta": "80% DE VÍAS DE MEJÍA SE ENCUENTRA PAVIMENTADO Y CON PISTAS Y VEREDAS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 155421,
+            "txPgProblema": "PERDIDA DE RECURSO HÍDRICO PARA RIEGO, POR INADECUADAS CONDICIONES DE INFRAESTRUCTURA DE RIEGO",
+            "txPgObjetivo": "MEJORAR EL APROVECHAMIENTO DEL RECURSO HÍDRICO.",
+            "txPgIndicador": "PORCENTAJE DE INFRAESTRUCTURA DE RIEGO MEJORADA.",
+            "txPgMeta": "70% DE INFRAESTRUCTURA DE RIEGO MEJORADA.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 155427,
+            "txPgProblema": "INADECUADA DISPOSICIÓN DE AGUAS RESIDUALES DEL DISTRITO DE MEJÍA",
+            "txPgObjetivo": "MEJORAR LA DISPOSICIÓN DE AGUAS RESIDUALES.",
+            "txPgIndicador": "100% DE AGUAS RESIDUALES SON TRATADAS ADECUADAMENTE.",
+            "txPgMeta": "100% DE AGUAS RESIDUALES SON TRATADAS ADECUADAMENTE EN LAS PTARS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 155435,
+            "txPgProblema": "INADECUADA DISPOSICIÓN DE RESIDUOS SÓLIDOS DEL DISTRITO DE MEJÍA",
+            "txPgObjetivo": "MEJORAR LA DISPOSICIÓN DE RESIDUOS SOLIDOS",
+            "txPgIndicador": "PORCENTAJE DE RESIDUOS SÓLIDOS SON RECICLADOS EN EL DISTRITO DE MEJÍA",
+            "txPgMeta": "100% DE RESIDUOS SÓLIDOS SON RECICLADOS A TRAVÉS DEL PROGRAMA MEJÍA RECICLA",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 155439,
+            "txPgProblema": "ALTO GRADO DE CONTAMINACIÓN AMBIENTAL POR PRESENCIA DE GRANJAS",
+            "txPgObjetivo": "DISMINUIR EL ÍNDICE DE CONTAMINACIÓN AMBIENTAL",
+            "txPgIndicador": "PORCENTAJE DE PRODUCTORES REUBICADOS",
+            "txPgMeta": "100% DE PRODUCTORES DE ANIMALES MENORES Y OTROS REUBICADOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 155447,
+            "txPgProblema": "ORDENAR EL TERRITORIO EN FUNCION DE LAS NECESIDADES",
+            "txPgObjetivo": "PLANIFICAR Y ORDENAR EL CRECIMIENTO DEL DISTRITO DE MEJÍA",
+            "txPgIndicador": "PORCENTAJE DE ÁREA AGRÍCOLA PROTEGIDA.",
+            "txPgMeta": "100% TERRITORIO ORDENADO .",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 155459,
+            "txPgProblema": "ALTO GRADO DE SENSACIÓN D INSEGURIDAD CIUDADANA.",
+            "txPgObjetivo": "DISMINUIR EL ÍNDICE DE INSEGURIDAD CIUDADANA, Y REDUCIR LOS CASOS DE VIOLENCIA FAMILIAR",
+            "txPgIndicador": "PORCENTAJE DE PERCEPCIÓN POSITIVA DE INSEGURIDAD CIUDADANA.",
+            "txPgMeta": "90% DE PERSONAS TIENE PERCEPCIÓN POSITIVA ACERCA DE LA SEGURIDAD CIUDADANA.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 155471,
+            "txPgProblema": "SISTEMA ORGANIZATIVO MUNICIPAL OBSOLETO Y PRECARIO, GENERA MALESTAR EN LA POBLACIÓN DEL DISTRITO",
+            "txPgObjetivo": "MODERNIZAR LA GESTIÓN MUNICIPAL.",
+            "txPgIndicador": "PORCENTAJE DE INSTRUMENTOS DE GESTIÓN ACTUALIZADOS",
+            "txPgMeta": "100% DE INSTRUMENTOS DE GESTIÓN ACTUALIZADOS.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

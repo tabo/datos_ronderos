@@ -1,0 +1,146 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 180932.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "45737678",
+        "nombres": "KARINA",
+        "apellidoPaterno": "VILLAZANA",
+        "apellidoMaterno": "ALVAREZ",
+        "sexo": "2",
+        "feNacimiento": "08/10/1988",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "080117",
+        "naciDepartamento": "HUANCAVELICA",
+        "naciProvincia": "HUANCAVELICA",
+        "naciDistrito": "VILCA",
+        "ubigeoDomicilio": "110108",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "HUANCAYO",
+        "domiDistrito": "CHILCA",
+        "domicilioDirecc": "JR.PEDRO PERALTA 249",
+        "ubigeoPostula": "110108",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "HUANCAYO",
+        "postulaDistrito": "CHILCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/180932.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 19:45:10",
+        "txGuidFormatoHojaVida": "2dc6394f-a37f-41dd-a91f-e9dd3bf65f9d",
+        "idSolicitudLista": 28954.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 199932,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "TOPYCO KARILYS",
+            "ocupacionProfesion": "ASISTENTA",
+            "rucTrabajo": "10457376788",
+            "direccionTrabajo": "JR. PUNO 667",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "110101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "HUANCAYO",
+            "trabajoDistrito": "HUANCAYO",
+            "idHojaVida": 180932,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 176078,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 180932,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 163202,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD PERUANA DEL CENTRO",
+                "carreraUni": "BACHILLER EN OBSTETRICIA",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2020",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 164857,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 3000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 180932,
+                "idEstado": 1,
+                "totalIngresos": 3000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 174761,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "63152W ",
+                "valor": 4000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO MARCA HARVING, COLOR ROJO",
+                "comentario": null,
+                "idHojaVida": 180932,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

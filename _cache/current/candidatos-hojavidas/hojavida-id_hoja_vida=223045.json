@@ -1,0 +1,147 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 223045.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "02608076",
+        "nombres": "PEDRO JAVIER",
+        "apellidoPaterno": "COTILLO",
+        "apellidoMaterno": "CORTEZ",
+        "sexo": "1",
+        "feNacimiento": "08/04/1957",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "190101",
+        "naciDepartamento": "PIURA",
+        "naciProvincia": "PIURA",
+        "naciDistrito": "PIURA",
+        "ubigeoDomicilio": "140126",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "SAN MARTIN DE PORRES",
+        "domicilioDirecc": "JR CARLOS BACAFLOR 470 URB INGENIERIA V ETAPA",
+        "ubigeoPostula": "140126",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "SAN MARTIN DE PORRES",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/223045.jpg",
+        "estado": "APELACIÓN",
+        "idOrganizacionPolitica": 4.0,
+        "organizacionPolitica": "ACCION POPULAR",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 07:29:29",
+        "txGuidFormatoHojaVida": "c17de530-2c6d-4e6f-80ee-2f988af616ae",
+        "idSolicitudLista": 34334.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 240802,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "POLICIA NACIONAL DEL PERU",
+            "ocupacionProfesion": "CORONEL EN SITUACION DE RETIRO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR CARLOS BACAFLOR 470",
+            "anioTrabajoDesde": "1987",
+            "anioTrabajoHasta": "2017",
+            "ubigeoTrabajo": "140126",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "SAN MARTIN DE PORRES",
+            "idHojaVida": 223045,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 172065,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 223045,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 161091,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD NACIONAL DE PIURA",
+                "carreraUni": "INGENIERO INDUSTRIAL",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "1993",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 172180,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "AZB034 ",
+                "valor": 57000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "NISSAN QASHQAI",
+                "comentario": "GRISS METALICO",
+                "idHojaVida": 223045,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 3142,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "MAGNUS QUALITY",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 50000.0,
+                "flValor": 1.0,
+                "idHojaVida": 223045,
+                "idEstado": 1,
+                "txUsuario": "08160452",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

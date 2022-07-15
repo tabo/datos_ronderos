@@ -1,0 +1,162 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 192963.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "72485562",
+        "nombres": "YESSER MANUEL",
+        "apellidoPaterno": "MINAYA",
+        "apellidoMaterno": "SUTALLA",
+        "sexo": "1",
+        "feNacimiento": "02/11/1992",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140401",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "CAÑETE",
+        "naciDistrito": "SAN VICENTE DE CAÑETE",
+        "ubigeoDomicilio": "140403",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "CAÑETE",
+        "domiDistrito": "CERRO AZUL",
+        "domicilioDirecc": "CPM SEÑOR DE LOS MILAGROS S/N",
+        "ubigeoPostula": "140403",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "CAÑETE",
+        "postulaDistrito": "CERRO AZUL",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/192963.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 22.0,
+        "organizacionPolitica": "RENOVACION POPULAR",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 03:26:52",
+        "txGuidFormatoHojaVida": "0121921e-2f08-40c8-8bf5-71d92421924d",
+        "idSolicitudLista": 30591.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 256011,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CONDOMINIO MIRADOR AZUL",
+            "ocupacionProfesion": "SEGURIDAD",
+            "rucTrabajo": null,
+            "direccionTrabajo": "PLAYA LOBOS KM 126 PAN. SUR",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140403",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "CAÑETE",
+            "trabajoDistrito": "CERRO AZUL",
+            "idHojaVida": 192963,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 228595,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 192963,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 190277,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UDALECH",
+                "carreraUni": "DERECHO Y CIENCIAS POLITICAS",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "AUN CURSANDO"
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 204656,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 6900.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 192963,
+                "idEstado": 1,
+                "totalIngresos": 6900.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 205146,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "18693B ",
+                "valor": 3000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO MARCA ITALKA COLOR NEGRO",
+                "comentario": "VALOR APROXIMADO",
+                "idHojaVida": 192963,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 205145,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "BJV000 ",
+                "valor": 9500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTO NISSAN AD COLOR BLANCO",
+                "comentario": null,
+                "idHojaVida": 192963,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,162 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 183787.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43659901",
+        "nombres": "GALY",
+        "apellidoPaterno": "OLANO",
+        "apellidoMaterno": "TORRES",
+        "sexo": "2",
+        "feNacimiento": "24/12/1984",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "060509",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "CUTERVO",
+        "naciDistrito": "SAN JUAN DE CUTERVO",
+        "ubigeoDomicilio": "210805",
+        "domiDepartamento": "SAN MARTIN",
+        "domiProvincia": "TOCACHE",
+        "domiDistrito": "UCHIZA",
+        "domicilioDirecc": "CASERIO SAN JUAN DE PORONGO",
+        "ubigeoPostula": "210800",
+        "postulaDepartamento": "SAN MARTIN",
+        "postulaProvincia": "TOCACHE",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/183787.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 4.0,
+        "organizacionPolitica": "ACCION POPULAR",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 15:28:57",
+        "txGuidFormatoHojaVida": "89095fe0-4ef1-4610-b6f1-2fc3c48726fc",
+        "idSolicitudLista": 29336.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 226596,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "INDEPENDIENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASERIO SAN JUAN DE PORONGO",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "210801",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "SAN MARTIN",
+            "trabajoProvincia": "TOCACHE",
+            "trabajoDistrito": "TOCACHE",
+            "idHojaVida": 183787,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 199899,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 183787,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 179375,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD DE HUANUCO",
+                "carreraUni": "EN TRAMITE",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2020",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "TRAMITE PARA OBTENCION DEL BACHILLER"
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 182876,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 24000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 183787,
+                "idEstado": 1,
+                "totalIngresos": 24000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 189036,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "82915W ",
+                "valor": 5000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO JINCO COLOR ROJO OSCURO",
+                "comentario": null,
+                "idHojaVida": 183787,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 189035,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "F0H770 ",
+                "valor": 30000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "FAW MODELO CA5013XXYA8",
+                "comentario": null,
+                "idHojaVida": 183787,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

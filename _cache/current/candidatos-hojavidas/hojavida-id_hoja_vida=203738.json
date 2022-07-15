@@ -1,0 +1,130 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 203738.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44762865",
+        "nombres": "JORGE LUIS",
+        "apellidoPaterno": "DIAZ",
+        "apellidoMaterno": "APAZA",
+        "sexo": "1",
+        "feNacimiento": "13/09/1987",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040109",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "AREQUIPA",
+        "naciDistrito": "PAUCARPATA",
+        "ubigeoDomicilio": "040109",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "AREQUIPA",
+        "domiDistrito": "PAUCARPATA",
+        "domicilioDirecc": "CALLE JUAN MANUEL POLAR 214C URB. 15 DE AGOSTO",
+        "ubigeoPostula": "040109",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "AREQUIPA",
+        "postulaDistrito": "PAUCARPATA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/203738.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2719.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL REVALORA",
+        "numeroCandidato": 6.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 18:22:24",
+        "txGuidFormatoHojaVida": "46d4e4e3-57df-4f7d-a72d-b091c42d603d",
+        "idSolicitudLista": 31984.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 225197,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CEVICHERIA EL COCHE Y SUS MARES",
+            "ocupacionProfesion": "ADMINISTRADOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE JUAN MANUEL POLAR 214 15 DE AGOSTO",
+            "anioTrabajoDesde": "2017",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "040109",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "AREQUIPA",
+            "trabajoDistrito": "PAUCARPATA",
+            "idHojaVida": 203738,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 198680,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 203738,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 181921,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 10000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 203738,
+                "idEstado": 1,
+                "totalIngresos": 10000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 135268,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "04459",
+            "feSentenciaPenal": "02/12/2000",
+            "txOrganoJudiPenal": "JUZGADO PENAL UNIPERSONAL DE PAUCARPATA",
+            "txDelitoPenal": "PELIGRO COMUN",
+            "txFalloPenal": "FIRMAR POR UN AÑO CADA 2 MESES",
+            "idParamModalidad": 10,
+            "txModalidad": "EFECTIVA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 203738,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": []
+}

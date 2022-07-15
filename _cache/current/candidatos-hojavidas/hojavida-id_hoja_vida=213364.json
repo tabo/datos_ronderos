@@ -1,0 +1,182 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 213364.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "16287400",
+        "nombres": "CRISTINA NORMA",
+        "apellidoPaterno": "CENTENO",
+        "apellidoMaterno": "ESPINOZA",
+        "sexo": "2",
+        "feNacimiento": "13/03/1968",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140101",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "LIMA",
+        "ubigeoDomicilio": "140707",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "YAUYOS",
+        "domiDistrito": "CARANIA",
+        "domicilioDirecc": "CALLE MANCO CAPAC S/N",
+        "ubigeoPostula": "140707",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "YAUYOS",
+        "postulaDistrito": "CARANIA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/213364.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2306.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL UNIDAD CIVICA LIMA",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 22:50:59",
+        "txGuidFormatoHojaVida": "05e4c84d-76ae-42ad-870e-69d0ede919ef",
+        "idSolicitudLista": 33205.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 253116,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AGRICULTOR INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CARANIA",
+            "anioTrabajoDesde": "1990",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140707",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "YAUYOS",
+            "trabajoDistrito": "CARANIA",
+            "idHojaVida": 213364,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "AGRICULTOR INDEPENDIENTE"
+        },
+        {
+            "idHvExpeLaboral": 253121,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 2,
+            "centroTrabajo": "MUNICIPALIDAD DISTRITAL DE CARANIA",
+            "ocupacionProfesion": "REGIDORA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "PLAZA DE ARMAS S/N",
+            "anioTrabajoDesde": "2018",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "140707",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "YAUYOS",
+            "trabajoDistrito": "CARANIA",
+            "idHojaVida": 213364,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 225107,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 213364,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 145362,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 2306,
+                "orgPolCargoElec": "MOVIMIENTO REGIONAL UNIDAD CIVICA LIMA",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2019",
+                "anioCargoElecHasta": "2022",
+                "idHojaVida": 213364,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 167924,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 46,
+            "orgPolRenunciaOp": "PERU POSIBLE",
+            "anioRenunciaOp": "2017",
+            "idHojaVida": 213364,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 202102,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 8000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 213364,
+                "idEstado": 1,
+                "totalIngresos": 8000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 247042,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "PREDIO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "MZ D LTE 5 CENTRO POBLADO CARANIA",
+                "comentario": "VALOR COMERCIAL - DESCONOCE EL VALOR DEL AUTOVALUO",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 213364,
+                "idEstado": 1,
+                "flValor": "10000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

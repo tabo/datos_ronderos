@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23179,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2862,
+        "txOrganizacionPolitica": "CONTIGO REGION",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1708,
+        "juradoElectoral": "MORROPON",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/d73c6a2e-7492-4dcb-9e03-ca9cf0f08b4b.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/dddec20c-b317-4920-b65e-481046075134.pdf",
+        "txCodExpedienteExt": "ERM.2022011595",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 142998,
+            "txPgProblema": "DEFICIENTE Y REDUCIDA COBERTURA DE SUMINISTRO DE AGUA POTABLE",
+            "txPgObjetivo": "INCREMENTAR LA COBERTURA DEL SUMINISTRO DE AGUA POTABLE",
+            "txPgIndicador": "HORAS / DÍA DE SERVICIO DE AGUA POTABLE PARA CONSUMO HUMANO",
+            "txPgMeta": "6 HORAS DE AGUA DIARIA COMO MÍNIMO EN LAS VIVIENDAS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 143025,
+            "txPgProblema": "DEFICIENTE SERVICIO DE ALCANTARILLADO EN LOS PRINCIPALES CENTROS POBLADOS DEL DISTRITO",
+            "txPgObjetivo": "MEJORAMIENTO DEL SISTEMA DE ALCANTARILLADO",
+            "txPgIndicador": "Nº DE VIVIENDAS CON OPTIMO SERVICIO DE SISTEMA DE ALCANTARILLADO",
+            "txPgMeta": "100 % DE LAS VIVIENDAS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 143051,
+            "txPgProblema": "DEFICIENTE SERVICIO DE ENERGIA ELÉCTRICA",
+            "txPgObjetivo": "GESTIONAR EL INCREMENTO DE LA COBERTURA DE ENERGÍA ELÉCTRICA EN VIVIENDAS DE NUESTRO DISTRITO",
+            "txPgIndicador": "N° DE VIVIENDAS CON ENERGÍA ELECTRICA CONECTADAS A LA RED PUBLICA",
+            "txPgMeta": "90 % DE LAS VIVIENDAS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 143077,
+            "txPgProblema": "BAJA PRODUCCIÓN AGRÍCOLA EN EL DISTRITO",
+            "txPgObjetivo": "INCREMENTAR LAS HECTÁREAS DE CULTIVO EN EL DISTRITO",
+            "txPgIndicador": "Nº DE HECTÁREAS NUEVAS CON CULTIVOS",
+            "txPgMeta": "200 HECTAREAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 143091,
+            "txPgProblema": "DEFICIENTE  INFRAESTRUCTURA DE RIEGO",
+            "txPgObjetivo": "GESTIONAR EL MEJORAMIENTO DE CANALES DE RIEGO Y DE BOCATOMAS",
+            "txPgIndicador": "Nº DE KM DE CANALES REVESTIDOS",
+            "txPgMeta": "150 KILOMETROS DE CANALES",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 143122,
+            "txPgProblema": "SE DESARROLLA UNA AGRICULTURA DE SUBSISTENCIA",
+            "txPgObjetivo": "GESTIONAR E IMPLEMENTAR PROYECTOS DE RECONVERSIÓN PRODUCTIVA",
+            "txPgIndicador": "Nº DE PROYECTOS IMPLEMENTADOS",
+            "txPgMeta": "6 PROYECTOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 143138,
+            "txPgProblema": "PRESENCIA DE PUNTOS CRITICOS DE ACUMULACIÓN DE BASURA EN AREAS PERIFERICAS DE CENTROS POBLADOS",
+            "txPgObjetivo": "IMPLEMENTAR UN RELLENO SANITARIO",
+            "txPgIndicador": "Nº DE RELLENOS SANITARIOS",
+            "txPgMeta": "1 RELLENO SANITARIO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 143240,
+            "txPgProblema": "FALTA DE CONCIENCIA AMBIENTAL EN POBLADORES DEL DISTRITO",
+            "txPgObjetivo": "BRINDAR CHARLAS Y CAPACITACIONES SOBRE LA IMPORTANCIA DEL MEDIO AMBIENTE",
+            "txPgIndicador": "Nº DE CHARLAS Y CAPACITACIONES",
+            "txPgMeta": "30 CHARLAS Y/O CAPACITACIONES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 143256,
+            "txPgProblema": "NOTORIA DEBILIDAD INSTITUCIONAL",
+            "txPgObjetivo": "FORTALECER LA INSTITUCIONALIDAD MUNICIPAL",
+            "txPgIndicador": "NIVEL DE CONFIANZA EN LA INSTITUCIÓN",
+            "txPgMeta": "70% DE CONFIANZA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 143279,
+            "txPgProblema": "FALTA DE APOYO A RONDAS CAMPESINAS DEL DISTRITO PARA COMBATIR LA INSEGURIDAD CIUDADANA",
+            "txPgObjetivo": "FORTALECER, CAPACITAR Y HACER CONVENIOS CON LAS RONDAS CAMPESINAS DE NUESTRO DISTRITO",
+            "txPgIndicador": "BAJAR NIVEL DE INSEGURIDAD CIUDADANA",
+            "txPgMeta": "REDUCCIÓN DE INSEGURIDAD CIUDADANA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 143295,
+            "txPgProblema": "FALTA DE MAQUINARIA MUNICIPAL",
+            "txPgObjetivo": "ADQUISICIÓN DE MAQUINARIA AGRICOLA Y PESADA",
+            "txPgIndicador": "Nº DE MAQUINARIAS ADQUIRIDAS",
+            "txPgMeta": "4 MAQUINARIAS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

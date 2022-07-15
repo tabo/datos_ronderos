@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 155967.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "29439410",
+        "nombres": "MAXIMO",
+        "apellidoPaterno": "MACHACA",
+        "apellidoMaterno": "BLANCO",
+        "sexo": "1",
+        "feNacimiento": "10/05/1965",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "200509",
+        "naciDepartamento": "PUNO",
+        "naciProvincia": "HUANCANE",
+        "naciDistrito": "VILQUE CHICO",
+        "ubigeoDomicilio": "040109",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "AREQUIPA",
+        "domiDistrito": "PAUCARPATA",
+        "domicilioDirecc": "200 MILLAS URB.C.BLANCA 12 M",
+        "ubigeoPostula": "040109",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "AREQUIPA",
+        "postulaDistrito": "PAUCARPATA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/155967.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2257.0,
+        "organizacionPolitica": "JUNTOS POR EL DESARROLLO DE AREQUIPA",
+        "numeroCandidato": 7.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 00:01:37",
+        "txGuidFormatoHojaVida": "00afe6fd-8c47-4f9d-ba63-b80f99cf649c",
+        "idSolicitudLista": 25588.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 165494,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CONSTRUCTORA Y AGENTES INMOBILIARIOS MBYM SAC",
+            "ocupacionProfesion": "GERENTE",
+            "rucTrabajo": "20559294595",
+            "direccionTrabajo": "AVENIDA CHEGUEVARA COMITE 12, MZ M, LOTE 10",
+            "anioTrabajoDesde": "2014",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "040109",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "AREQUIPA",
+            "trabajoDistrito": "PAUCARPATA",
+            "idHojaVida": 155967,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 144637,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 155967,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 141821,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 24000.0,
+                "idHojaVida": 155967,
+                "idEstado": 1,
+                "totalIngresos": 24000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 178740,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "AREQUIPA-PAUCARPATA- MZ M LOTE 10    ZONA B - PUEBLO JOVEN CIUDAD BLANCA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "55035641",
+                "fichaTomoSunarp": null,
+                "autovaluo": 35000.0,
+                "idHojaVida": 155967,
+                "idEstado": 1,
+                "flValor": "90000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 828,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "CONSTRUCTORA Y AGENTES INMOBILIARIOS MBYM SAC",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 90.0,
+                "flValor": 90000.0,
+                "idHojaVida": 155967,
+                "idEstado": 1,
+                "txUsuario": "43313284",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

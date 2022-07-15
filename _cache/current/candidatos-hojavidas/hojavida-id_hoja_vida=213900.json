@@ -1,0 +1,153 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 213900.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42268811",
+        "nombres": "RUTH",
+        "apellidoPaterno": "RUIZ",
+        "apellidoMaterno": "MORI",
+        "sexo": "2",
+        "feNacimiento": "27/12/1983",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "150301",
+        "naciDepartamento": "LORETO",
+        "naciProvincia": "LORETO",
+        "naciDistrito": "NAUTA",
+        "ubigeoDomicilio": "150301",
+        "domiDepartamento": "LORETO",
+        "domiProvincia": "LORETO",
+        "domiDistrito": "NAUTA",
+        "domicilioDirecc": "CALLE TARAPACA 665 NAUTA",
+        "ubigeoPostula": "150000",
+        "postulaDepartamento": "LORETO",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/213900.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "CONSEJERO REGIONAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 02:00:39",
+        "txGuidFormatoHojaVida": "3410f6b8-0a32-457d-afe2-23bba8e737f4",
+        "idSolicitudLista": 33273.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 230860,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "IESTP JOAQUÍN REATEGUI MEDINA",
+            "ocupacionProfesion": "DOCENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE MANUEL PACAYA SN",
+            "anioTrabajoDesde": "2016",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "150301",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LORETO",
+            "trabajoProvincia": "LORETO",
+            "trabajoDistrito": "NAUTA",
+            "idHojaVida": 213900,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 203645,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 213900,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 152014,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "SUPERIOR TECNOLÓGICO - JOAQUIN REATEGUI MEDINA",
+                "carreraTecnico": "PROFESIONAL TÉCNICO EN ENFERMERÍA TÉCNICA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 213900,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 177312,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD CIENTÍFICA DEL PERÚ",
+                "carreraUni": "BACHILLER EN EDUCACIÓN",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2021",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 160691,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 15,
+            "orgPolRenunciaOp": "PARTIDO POPULAR CRISTIANO - PPC",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 213900,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 185630,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 28800.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 213900,
+                "idEstado": 1,
+                "totalIngresos": 28800.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

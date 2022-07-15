@@ -1,0 +1,146 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 233123.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43607155",
+        "nombres": "EDISON",
+        "apellidoPaterno": "OCHOA",
+        "apellidoMaterno": "ORE",
+        "sexo": "1",
+        "feNacimiento": "24/04/1981",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "030504",
+        "naciDepartamento": "APURIMAC",
+        "naciProvincia": "COTABAMBAS",
+        "naciDistrito": "HAQUIRA",
+        "ubigeoDomicilio": "030504",
+        "domiDepartamento": "APURIMAC",
+        "domiProvincia": "COTABAMBAS",
+        "domiDistrito": "HAQUIRA",
+        "domicilioDirecc": "COMUNIDAD CAMPESINA CCOCHA S/N",
+        "ubigeoPostula": "030504",
+        "postulaDepartamento": "APURIMAC",
+        "postulaProvincia": "COTABAMBAS",
+        "postulaDistrito": "HAQUIRA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/233123.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2895.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATA VERDE",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 18:01:02",
+        "txGuidFormatoHojaVida": "17c7b676-42bb-40ae-ad94-3429088cae78",
+        "idSolicitudLista": 35494.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 166241,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "OFICIO DE OBRERO DE CONSTRUCCION",
+            "rucTrabajo": null,
+            "direccionTrabajo": "COTABAMBAS",
+            "anioTrabajoDesde": "2000",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "030504",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "APURIMAC",
+            "trabajoProvincia": "COTABAMBAS",
+            "trabajoDistrito": "HAQUIRA",
+            "idHojaVida": 233123,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 145481,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 233123,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 147229,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD GRENDAL",
+                "carreraUni": "CICLO II",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "EL CANDIDATO ESTUDIO LA CARREA DE EDUCACION"
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 135294,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "EL CANDIDATO DECLARA TENER UA MOTO, MODELO RONCO 250 DE COLOR NEGRO Y VERDE Y SU PLACA SE ENCUENTRA EN TRAMITE.",
+            "idHojaVida": 233123,
+            "idEstado": 1
+        },
+        {
+            "idHvInfoAdicional": 135292,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "EL CANDIDATO DECLARA TENER UNA CASA Y TIENE UN CONTRATO DE TRANSFERENCIA.",
+            "idHojaVida": 233123,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 142456,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 6000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 233123,
+                "idEstado": 1,
+                "totalIngresos": 6000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

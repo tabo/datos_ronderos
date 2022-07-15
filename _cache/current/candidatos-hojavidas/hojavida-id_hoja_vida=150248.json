@@ -1,0 +1,142 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 150248.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40277078",
+        "nombres": "LEONARDO",
+        "apellidoPaterno": "TRUJILLO",
+        "apellidoMaterno": "VASQUEZ",
+        "sexo": "1",
+        "feNacimiento": "19/06/1977",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "150101",
+        "naciDepartamento": "LORETO",
+        "naciProvincia": "MAYNAS",
+        "naciDistrito": "IQUITOS",
+        "ubigeoDomicilio": "250107",
+        "domiDepartamento": "UCAYALI",
+        "domiProvincia": "CORONEL PORTILLO",
+        "domiDistrito": "MANANTAY",
+        "domicilioDirecc": "ASENT.H. LAS BRISAS DE MANANTAY MZ. 10 LT. 14",
+        "ubigeoPostula": "250100",
+        "postulaDepartamento": "UCAYALI",
+        "postulaProvincia": "CORONEL PORTILLO",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/150248.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 4.0,
+        "organizacionPolitica": "ACCION POPULAR",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 17:53:08",
+        "txGuidFormatoHojaVida": "1aa8f0f3-484c-4c90-b4b3-2806e5cf14c7",
+        "idSolicitudLista": 24809.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 157154,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 150248,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 143875,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 2218,
+            "orgPolRenunciaOp": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "anioRenunciaOp": "2020",
+            "idHojaVida": 150248,
+            "idEstado": 1,
+            "txComentario": "NINGUNA"
+        },
+        {
+            "idHvRenunciaOp": 143874,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2278,
+            "orgPolRenunciaOp": "MOVIMIENTO INDEPENDIENTE REGIONAL CAMBIO UCAYALINO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 150248,
+            "idEstado": 1,
+            "txComentario": "NINGUNA"
+        }
+    ],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 143186,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "ACTUALMENTE MIS  INGRESOS SON POR TRABAJOS EXPORADICOS DONDE NO GENERO BOLETAS, RECIBOS POR HONORARIOS ETC.",
+            "idHojaVida": 150248,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 162705,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "NY56579",
+                "valor": 3000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL COLOR AZUL MARCA HAUJIN",
+                "comentario": "NINGUNA",
+                "idHojaVida": 150248,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 134595,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "01015-2016",
+            "feSentenciaPenal": "22/05/2017",
+            "txOrganoJudiPenal": "SEGUNDO JUZGADO DE INVESTIGACION PREPARATORIA",
+            "txDelitoPenal": "USURPACION AGRAVADA Y DAÑOS AGRAVADOS",
+            "txFalloPenal": "CONDENATORIO",
+            "idParamModalidad": 11,
+            "txModalidad": "SUSPENDIDA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 150248,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": []
+}

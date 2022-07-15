@@ -1,0 +1,140 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 192332.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "05925889",
+        "nombres": "ABNER",
+        "apellidoPaterno": "PEREZ",
+        "apellidoMaterno": "RODRIGUEZ",
+        "sexo": "1",
+        "feNacimiento": "21/02/1967",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "150501",
+        "naciDepartamento": "LORETO",
+        "naciProvincia": "UCAYALI",
+        "naciDistrito": "CONTAMANA",
+        "ubigeoDomicilio": "250107",
+        "domiDepartamento": "UCAYALI",
+        "domiProvincia": "CORONEL PORTILLO",
+        "domiDistrito": "MANANTAY",
+        "domicilioDirecc": "ASENT.H. FUERZAS UNIDAS DE MANANTAY MZ. 6 LT. 4",
+        "ubigeoPostula": "250107",
+        "postulaDepartamento": "UCAYALI",
+        "postulaProvincia": "CORONEL PORTILLO",
+        "postulaDistrito": "MANANTAY",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/192332.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2898.0,
+        "organizacionPolitica": "FE EN EL PERU",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 13:32:57",
+        "txGuidFormatoHojaVida": "35123a28-51ad-41ca-883a-a44a2e8ab8a2",
+        "idSolicitudLista": 30507.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 220908,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 192332,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 156580,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "ISTP CONTAMANA",
+                "carreraTecnico": "ENFERMERIA TECNICA",
+                "concluidoEduTecnico": "2",
+                "idHojaVida": 192332,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 166521,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 3,
+            "orgPolRenunciaOp": "TODOS POR EL PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 192332,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 244282,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CALLE PRIMAVERA MZ 6 LOTE N° 4 AA.HH FUERZAS UNIDAS DE MANANTAY MANANTAY - CORONEL PORTILLO - UCAYALI",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "11183535",
+                "fichaTomoSunarp": null,
+                "autovaluo": 28000.0,
+                "idHojaVida": 192332,
+                "idEstado": 1,
+                "flValor": "30000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 135710,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "00288-2002-0-02402-JRPEPOI",
+            "feSentenciaPenal": "12/01/2005",
+            "txOrganoJudiPenal": "1 JUZGADO PENAL",
+            "txDelitoPenal": "PECULADO",
+            "txFalloPenal": "2 AÑOS CARCEL",
+            "idParamModalidad": 10,
+            "txModalidad": "EFECTIVA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 192332,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": []
+}

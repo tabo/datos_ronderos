@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 164081.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "22479723",
+        "nombres": "CESAR",
+        "apellidoPaterno": "DOMINGUEZ",
+        "apellidoMaterno": "BARRUETA",
+        "sexo": "1",
+        "feNacimiento": "01/11/1971",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "090102",
+        "naciDepartamento": "HUANUCO",
+        "naciProvincia": "HUANUCO",
+        "naciDistrito": "CHINCHAO",
+        "ubigeoDomicilio": "090113",
+        "domiDepartamento": "HUANUCO",
+        "domiProvincia": "HUANUCO",
+        "domiDistrito": "SAN PABLO DE PILLAO",
+        "domicilioDirecc": "SAN PABLO DE PILLAO",
+        "ubigeoPostula": "090113",
+        "postulaDepartamento": "HUANUCO",
+        "postulaProvincia": "HUANUCO",
+        "postulaDistrito": "SAN PABLO DE PILLAO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/164081.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2730.0,
+        "organizacionPolitica": "MOVIMIENTO INDEPENDIENTE REGIONAL MI BUEN VECINO",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 06:32:59",
+        "txGuidFormatoHojaVida": "301f6cef-aef9-4f54-8931-c90de62f59d5",
+        "idSolicitudLista": 26706.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 239475,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MI CHACRA",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SAN PABLO DE PILLAO",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "090113",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "HUANUCO",
+            "trabajoProvincia": "HUANUCO",
+            "trabajoDistrito": "SAN PABLO DE PILLAO",
+            "idHojaVida": 164081,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 211411,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 164081,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 191444,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 5500.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 164081,
+                "idEstado": 1,
+                "totalIngresos": 5500.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 236480,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "SAN PABLO DE PILLAO",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 164081,
+                "idEstado": 1,
+                "flValor": "15000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 195618,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "MM10484",
+                "valor": 6000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR ROJO CON BLANCO",
+                "comentario": null,
+                "idHojaVida": 164081,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

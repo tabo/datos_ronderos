@@ -1,0 +1,386 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 238540.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "17819794",
+        "nombres": "CARLOS ANTONIO",
+        "apellidoPaterno": "ALVAREZ",
+        "apellidoMaterno": "CHAVEZ",
+        "sexo": "1",
+        "feNacimiento": "29/12/1959",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140101",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "LIMA",
+        "ubigeoDomicilio": "120104",
+        "domiDepartamento": "LA LIBERTAD",
+        "domiProvincia": "TRUJILLO",
+        "domiDistrito": "MOCHE",
+        "domicilioDirecc": "URB. LAS PALMERAS DE LAS DELICIAS MZ. B LT. 18",
+        "ubigeoPostula": "120104",
+        "postulaDepartamento": "LA LIBERTAD",
+        "postulaProvincia": "TRUJILLO",
+        "postulaDistrito": "MOCHE",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/238540.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2738.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL FORTALEZA PERU",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 18:01:30",
+        "txGuidFormatoHojaVida": "b1682c1f-036a-48eb-b677-b48e56705ea0",
+        "idSolicitudLista": 36154.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 216491,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "ASESORIAS ADMINISTRATIVAS",
+            "ocupacionProfesion": "ADMINISTRADOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "URB.PALMERA DE LAS DELICIAS MZ B-18- LAS DELICIAS",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "120104",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LA LIBERTAD",
+            "trabajoProvincia": "TRUJILLO",
+            "trabajoDistrito": "MOCHE",
+            "idHojaVida": 238540,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "TRABAJO INDEPENDIENTE"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 190795,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 238540,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 148586,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "INSTITUTO UCEDA MEZA",
+                "carreraTecnico": "TITULADO EN ADMINISTRACIÓN BANCARIA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 238540,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 140597,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "INSTITUTO UCEDA MEZA",
+                "carreraNoUni": "ADMINISTRACIÓN BANCARIA",
+                "concluidoNoUni": "1",
+                "idHojaVida": 238540,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 170630,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "2",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL DE TRUJILLO",
+                "carreraUni": "BACHILLER EN CIENCIAS ECONOMICAS",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "1993",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            },
+            {
+                "idHvEduUniversitaria": 170629,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL DE TRUJILLO",
+                "carreraUni": "LICENCIADO EN ADMINISTRACION",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "1995",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [
+            {
+                "idHvPosgrado": 139362,
+                "tengoPosgrado": "SI",
+                "nuItemPosgrado": 1,
+                "txCenEstudioPosgrado": "UNIVERSIDAD NACIONAL DE TRUJILLO",
+                "txEspecialidadPosgrado": "MAESTRO EN ECONOMIA MENCION: ECONOMIA DE EMPRESAS",
+                "concluidoPosgrado": "SI",
+                "egresadoPosgrado": "SI",
+                "esMaestro": "SI",
+                "esDoctor": null,
+                "txAnioPosgrado": "2000",
+                "idHojaVida": 238540,
+                "idEstado": 1,
+                "txEstado": "ACTIVO (R)",
+                "fgRegistroManual": 2,
+                "txComentario": null,
+                "fgRegistro": null
+            }
+        ],
+        "educacionPosgradoOtro": [
+            {
+                "idHvPosgradoOtro": 1244,
+                "tengoPosgradoOtro": "SI",
+                "nuItemPosgradoOtro": 1,
+                "txCenEstudioPosgradoOtro": "UNIVERSIDAD INCA GARCILASO DE LA VEGA",
+                "txEspecialidadPosgradoOtro": "DOCTORADO EN ADMINISTRACION",
+                "concluidoPosgradoOtro": "SI",
+                "egresadoPosgradoOtro": "SI",
+                "txGrado": "DOCTORADO EN ADMINISTRACION",
+                "txAnioPosgradoOtro": "2002",
+                "idHojaVida": 238540,
+                "idEstado": 1,
+                "txEstado": "ACTIVO (R)",
+                "txComentario": "SE HA CONCLUIDO PERO FALTA OBTENER EL GRADO",
+                "fgRegistro": null
+            }
+        ]
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 142468,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 2,
+                "idOrgPolCargoElec": 32,
+                "orgPolCargoElec": "PARTIDO APRISTA PERUANO",
+                "idCargoEleccion": 9,
+                "cargoEleccion": "REGIDOR PROVINCIAL",
+                "anioCargoElecDesde": "1999",
+                "anioCargoElecHasta": "2002",
+                "idHojaVida": 238540,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            },
+            {
+                "idHvcargoEleccion": 142469,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 112572,
+                "orgPolCargoElec": "L.I. NRO 11 TRABAJO + TRABAJO",
+                "idCargoEleccion": 9,
+                "cargoEleccion": "REGIDOR PROVINCIAL",
+                "anioCargoElecDesde": "1996",
+                "anioCargoElecHasta": "1998",
+                "idHojaVida": 238540,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 156385,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2173,
+            "orgPolRenunciaOp": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+            "anioRenunciaOp": "2020",
+            "idHojaVida": 238540,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 156384,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 32,
+            "orgPolRenunciaOp": "PARTIDO APRISTA PERUANO",
+            "anioRenunciaOp": "2020",
+            "idHojaVida": 238540,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 142796,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "ACTUALMENTE CON EL NOMBRE  CARLOS ANTONIO ALVAREZ CHAVEZ  EXISTE OMONIMIA",
+            "idHojaVida": 238540,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 176681,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 10940.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 10000.0,
+                "idHojaVida": 238540,
+                "idEstado": 1,
+                "totalIngresos": 20940.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 245265,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 3,
+                "tipoBienInmueble": "INMUEBLE",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CAPAC YUPANQUI 1593 DEPARTAMENTO 305 LINCE LIMA",
+                "comentario": "CASO DE HOMONIMIA EN EL INMUEBLE CON PARTIDA 42054348",
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "42054348",
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 238540,
+                "idEstado": 1,
+                "flValor": "0"
+            },
+            {
+                "idHvBienInmueble": 220152,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 2,
+                "tipoBienInmueble": "SECCION ESPECIAL DE PREDIOS RURALES",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "UBICACION RURAL VALLE MOCHE PREDIO JUSHAPE    0.5309 U.C. 04006 MOCHE - TRUJILLO - LA LIBERTAD",
+                "comentario": "EL VALOR ES DE COMPRA",
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "04043855",
+                "fichaTomoSunarp": null,
+                "autovaluo": 3310.36,
+                "idHojaVida": 238540,
+                "idEstado": 1,
+                "flValor": "26000"
+            },
+            {
+                "idHvBienInmueble": 220151,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "ZONA: ZONA REGISTRAL V - SEDE TRUJILLO; OFICINA: TRUJILLO",
+                "comentario": "FUE VENDIDA A INMOBILIARIA HOLGUIN S.R.",
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "03125039",
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 238540,
+                "idEstado": 1,
+                "flValor": "0"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 183723,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "C51755 ",
+                "valor": 1000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO AZUL MARCA TOP RYDER",
+                "comentario": null,
+                "idHojaVida": 238540,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 183722,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "T2X195 ",
+                "valor": 25000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "SUBARU KIA , COLOR NEGRO",
+                "comentario": null,
+                "idHojaVida": 238540,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 4739,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "EMPRESA AGRÍCOLA GANADERA MANCO CAPA SAC",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 50.0,
+                "flValor": 250000.0,
+                "idHojaVida": 238540,
+                "idEstado": 1,
+                "txUsuario": "45978202",
+                "txFechaRegistro": null,
+                "txComentario": "EMPRESA NO ACTIVA DESDE SU FUNDACIÓN SOY PROPIETARIO DEL 50% DE ACCIONES",
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

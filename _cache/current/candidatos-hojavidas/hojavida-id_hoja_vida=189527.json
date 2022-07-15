@@ -1,0 +1,160 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 189527.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "21110400",
+        "nombres": "MESIAS",
+        "apellidoPaterno": "ESPINOZA",
+        "apellidoMaterno": "SINCHE",
+        "sexo": "1",
+        "feNacimiento": "15/09/1970",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110606",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "YAULI",
+        "naciDistrito": "PACCHA",
+        "ubigeoDomicilio": "110508",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "TARMA",
+        "domiDistrito": "SAN PEDRO DE CAJAS",
+        "domicilioDirecc": "ANEXO PURHUARACRA",
+        "ubigeoPostula": "110508",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "TARMA",
+        "postulaDistrito": "SAN PEDRO DE CAJAS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/189527.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 14:07:50",
+        "txGuidFormatoHojaVida": "3c04477e-cb73-42c1-8719-1b6cedac10e5",
+        "idSolicitudLista": 30127.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 211654,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CENTRO POBLADO DE PURHUARACRA",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CENTRO POBLADO DE PURHUARACRA - SAN PEDRO DE CAJAS",
+            "anioTrabajoDesde": "1992",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "110508",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "TARMA",
+            "trabajoDistrito": "SAN PEDRO DE CAJAS",
+            "idHojaVida": 189527,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 186408,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 189527,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 172703,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 12000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 189527,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 180896,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 3,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "6615FW ",
+                "valor": 18000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MODELO SK 200 - 10A MARCA SENKE - VERDE",
+                "comentario": null,
+                "idHojaVida": 189527,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 180895,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "W1C543 ",
+                "valor": 20000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MODELO COROLA GL - TOYOTA - COLOR BLANCO",
+                "comentario": null,
+                "idHojaVida": 189527,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 180894,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "W1V881 ",
+                "valor": 15000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MODELO CONDOR TUK - NISSAN - COLOR BLANCO MULTICOLOR",
+                "comentario": null,
+                "idHojaVida": 189527,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

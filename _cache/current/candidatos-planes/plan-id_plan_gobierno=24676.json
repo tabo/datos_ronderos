@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 24676,
+        "idTipoEleccion": 5,
+        "txTipoEleccion": "MUNICIPAL PROVINCIAL",
+        "idOrganizacionPolitica": 2857,
+        "txOrganizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1693,
+        "juradoElectoral": "LIMA CENTRO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/8e95f482-6c20-4ab5-a0ca-54cc2a8b1bca.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/91e3303c-bc3e-46f1-b540-d7898e08abd1.pdf",
+        "txCodExpedienteExt": "ERM.2022008903",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 146887,
+            "txPgProblema": "1. INSEGURIDAD CIUDADANA\nEN TODOS LOS DISTRITOS DE\nLIMA METROPOLITANA.",
+            "txPgObjetivo": "REDUCIR LOS NIVELES DE\nINSEGURIDAD CIUDADANA.",
+            "txPgIndicador": "1. N° MUERTES POR SICARIATO\n2. N° ROBOS X RAQUETEO\n3. N° ASALTO A LA PROPIEDAD\nPRIVADA\n4. N° VIOLACIONES A\nMENORES Y CONTRA LA\nMUJER.",
+            "txPgMeta": "REDUCIR LOS VALORES DE LOS\nINDICADORES EN EL\nTRANSCURSO DEL 1ER AÑO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 147281,
+            "txPgProblema": "2. CONGESTIÓN VEHICULAR\nQUE AFECTA LA CALIDAD DE\nVIDA DE LAS PERSONAS.",
+            "txPgObjetivo": "MEJORAR EL FLUJO\nVEHICULAR, CON\nORDENAMIENTO VEHICULAR\nA CORTO PLAZO Y\nREFORMULACIÓN DE\nPOLÍTICAS DE TRANSPORTE.",
+            "txPgIndicador": "TIEMPO DE VIAJE.",
+            "txPgMeta": "REDUCIR EL INDICADOR CON\nPOLÍTICAS DE\nREORDENAMIENTO Y LUEGO\nCON EL REPLANTEO DE\nPOLÍTICAS DEL SECTOR.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 147409,
+            "txPgProblema": "3. SERVICIOS DE SALUD\nINSUFICIENTES",
+            "txPgObjetivo": "MEJORAR LA CALIDAD DE\nATENCIÓN EN LA RED\nSISOL Y LA ATENCIÓN\nPARA ESTADOS DE\nEMERGENCIA SANITARIA\nY/O DESASTRE.",
+            "txPgIndicador": "1. N° ATENCIÓN DE\nCONSULTAS.\n2. INFRAESTRUCTURA DE\nEMERGENCIA\nSANITARIA Y/O",
+            "txPgMeta": "1. IMPLANTAR SISTEMA DE\nCONSULTAS CON MEDICINAS\nA COSTO SOCIAL.\n2. IMPLEMENTAR UN MÓDULO\nDE EMERGENCIA SANITARIA.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 147435,
+            "txPgProblema": "1. ALTOS NIVELES DE\nDESEMPLEO Y SUB EMPLEO\nEN JÓVENES Y ADULTOS.",
+            "txPgObjetivo": "GENERACIÓN DE\nOPORTUNIDADES LABORALES A\nLOS JÓVENES Y ADULTOS",
+            "txPgIndicador": "% DESEMPLEO",
+            "txPgMeta": "INCREMENTO DEL TRABAJO FORMAL\nPARA LA POBLACIÓN\nDESEMPLEADA.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 147459,
+            "txPgProblema": "2. LIMITADO APOYO POR\nPARTE DE LAS INSTITUCIONES\nPÚBLICAS Y/O PRIVADAS A LOS\nEMPRENDIMIENTOS.",
+            "txPgObjetivo": "GENERACIÓN DE ALIANZAS\nESTRATÉGICAS DE LA\nPOBLACIÓN ORGANIZADA CON\nENTIDADES PÚBLICAS,\nPRIVADAS, ONG’S Y LA\nSOCIEDAD CIVIL.",
+            "txPgIndicador": "% DE\nEMPRENDIMIENTOS",
+            "txPgMeta": "EMPRENDIMIENTOS GENERADOS\nSE FORMALIZAN Y CONSOLIDAN.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 147520,
+            "txPgProblema": "3. INSUFICIENTE E\nINADECUADAS CONDICIONES\nDE INFRAESTRUCTURA\nCOMERCIAL.",
+            "txPgObjetivo": "REORDENAMIENTO Y\nFORMALIZACIÓN DEL COMERCIO\nAMBULATORIO.",
+            "txPgIndicador": "% DEL COMERCIO\nINFORMAL Y\nAMBULATORIO.",
+            "txPgMeta": "CORREDORES COMERCIALES DE\nMICRO EMPRESARIOS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 147548,
+            "txPgProblema": "1.INADECUADO MANEJO DE LOS\nRESIDUOS SÓLIDOS (BASURA),\nTANTO EN LA ZONA URBANA\nCOMO ZONA RURAL.",
+            "txPgObjetivo": "RESIDUOS ORGÁNICOS E\nINORGÁNICOS QUE SON\nARROJADOS A LOS RÍOS RÍMAC,\nCHILLÓN Y LURÍN.",
+            "txPgIndicador": "TONELADAS DE\nRESIDUOS SÓLIDOS\nX DIA",
+            "txPgMeta": "AL 2026 SE PROPONE CONTAR\nCON UN RELLENO SANITARIO\nMUNICIPAL.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 147579,
+            "txPgProblema": "2.RECURRENCIA Y SEVERIDAD\nDE LOS DESASTRES\nASOCIADOS A FENÓMENOS\nNATURALES O INDUCIDOS POR\nLA ACTIVIDAD DEL HOMBRE.",
+            "txPgObjetivo": "2.RECURRENCIA Y SEVERIDAD\nDE LOS DESASTRES\nASOCIADOS A FENÓMENOS\nNATURALES O INDUCIDOS POR\nLA ACTIVIDAD DEL HOMBRE.",
+            "txPgIndicador": "LIMPIEZA EN KM\nDE RÍO.",
+            "txPgMeta": "MANTENIMIENTO PREVENTIVO\n(CHILLÓN, RÍMAC, LURÍN Y\nHUAYCOLORO) PREVIO A LOS\nPERIODOS DE AVENIDA.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 147771,
+            "txPgProblema": "3.INCREMENTO DE LA\nCONTAMINACIÓN AMBIENTAL.",
+            "txPgObjetivo": "DISMINUCIÓN DE LA\nCONTAMINACIÓN DEL AIRE,\nVISUAL Y AUDITIVA.",
+            "txPgIndicador": "CALIDAD DEL AIRE\nNIVELES DE RUIDO\nCONTROL DE\nPUBLICIDAD",
+            "txPgMeta": "CONTROL DE LA CONTAMINACIÓN\nAMBIENTAL Y LA TECNIFICACIÓN\nDEL RIEGO.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 148157,
+            "txPgProblema": "1. PROCESOS JUDICIALES\nQUE SIGNIFICAN UNA\nCARGA IMPORTANTE EN LA\nGESTIÓN MUNICIPAL.",
+            "txPgObjetivo": "ACTOS DE CORRUPCIÓN,\nOBSERVACIONES NO RESUELTAS EN\nLOS CONTRATOS DE CONCESIÓN.",
+            "txPgIndicador": "N° DE PROCESOS\nEN ARBITRAJE.",
+            "txPgMeta": "PARTICIPACIÓN DE LAS\nINSTANCIAS DE CONTROL EN LA\nGESTIÓN MUNICIPAL.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 148175,
+            "txPgProblema": "2. LIMITADOS CANALES\nDE TRANSPARENCIA Y\nACCESO A LA\nINFORMACIÓN PÚBLICA\nDE LA MUNICIPALIDAD.",
+            "txPgObjetivo": "DESARROLLO DE CANALES Y\nMECANISMOS DE TRANSPARENCIA Y\nACCESO A LA INFORMACIÓN DE\nCONTRATACIONES, PRESUPUESTAL Y\nFINANCIERA DE LA GESTIÓN\nMUNICIPAL.",
+            "txPgIndicador": "SIAF\n- INFOBRAS\n- SEACE",
+            "txPgMeta": "IMPLEMENTACIÓN DE\nHERRAMIENTAS DIGITALES PARA\nTRANSPARENTAR INFORMACIÓN\nDE ADQUISICIONES, VIÁTICOS,\nVIAJES EN COMISIÓN DE\nSERVICIOS ENTRE OTROS.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

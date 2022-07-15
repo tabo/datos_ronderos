@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 27296,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2338,
+        "txOrganizacionPolitica": "PODER ANDINO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/ab1b3d5d-f3d1-4415-9b77-64a59cd7de1e.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/81b3a54a-9885-4e05-a919-42dfb20b4929.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 223232,
+            "txPgProblema": "DESERCIÓN DE ALUMNOS DE NIVEL SECUNDARIO EN EL DISTRITO A RELACIÓN DE 1.5% CADA AÑO",
+            "txPgObjetivo": "DISMINUIR LA DESERCIÓN ESTUDIANTIL DE NIVEL SECUNDARIO",
+            "txPgIndicador": "CANTIDAD DE ALUMNOS MATRICULADOS",
+            "txPgMeta": "DISMINUIR A 0.1% EN EL AÑO 2026",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 223240,
+            "txPgProblema": "NADECUADAS INFRAESTRUCTURAS EDUCATIVAS A NIVEL INICIAL, PRIMARIA Y SECUNDARIO EN EL DISTRITO DE LIMBANI",
+            "txPgObjetivo": "DISMINUIR LA INADECUADA INFRAESTRUCTURA EDUCATIVA A NIVEL INICIAL, PRIMARIA Y SECUNDARIO",
+            "txPgIndicador": "CANTIDAD DE INSTITUCIONES EDUCATIVAS",
+            "txPgMeta": "DISMINUIR A 15% EN EL AÑO 2026",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 223251,
+            "txPgProblema": "INADECUADAS INFRAESTRUCTURAS DE SALUD EN EL DISTRITO DE 72%",
+            "txPgObjetivo": "DISMINUIR LA INADECUADA INFRAESTRUCTURA DE SALUD DE PRIMER NIVEL",
+            "txPgIndicador": "CANTIDAD DE ESTABLECIMIENTOS DE SALUD",
+            "txPgMeta": "DISMINUIR A 15% EN E AÑO 2026",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 223260,
+            "txPgProblema": "SERVICIO DE AGUA POTABLE Y SANEAMIENTO EN EL DISTRITO (VALLES Y SECTORES MINEROS), CON UNA COBERTURA DE 25%",
+            "txPgObjetivo": "INCREMENTAR LA COBERTURA DE AGUA POTABLE Y SANEAMIENTO",
+            "txPgIndicador": "COBERTURA",
+            "txPgMeta": "INCREMENTAR AL 95%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 223270,
+            "txPgProblema": "SERVICIO DE ENERGÍA ELÉCTRICA PRIMARIA SE TIENE UNA COBERTURA DEL 85%, SERVICIO TRIFÁSICO 0%",
+            "txPgObjetivo": "INCREMENTAR LA COBERTURA DE SERVICIO DE ENERGÍA ELÉCTRICA",
+            "txPgIndicador": "COBERTURA",
+            "txPgMeta": "INCREMENTAR AL 99% A NIVEL PRIMARIO A NIVEL TRIFÁSICO AL 99%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 223274,
+            "txPgProblema": "SERVICIO DE INTRANSITABILIDAD ENTRE LAS COMUNIDADES Y PARCIALIDADES DEL DISTRITO 5%",
+            "txPgObjetivo": "INCREMENTAR LA COBERTURA DE SERVICIO DE TRANSITABILIDAD EN COMUNIDADES Y CENTROS MINEROS DEL DISTRITO DE LIMBANI",
+            "txPgIndicador": "COBERTURA",
+            "txPgMeta": "INCREMENTAR AL 99%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 223278,
+            "txPgProblema": "INVASIÓN DE DISTRITOS VECINOS",
+            "txPgObjetivo": "ORDENAMIENTO TERRITORIAL",
+            "txPgIndicador": "COBERTURA",
+            "txPgMeta": "100% MICROZONIFICADO EL DISTRITO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 223285,
+            "txPgProblema": "ÁREAS DE FORESTACIÓN SEGÚN EL CUM REGIONAL 20% DE AREA, EL DISTRITO SOLO CUMPLE EL 1%",
+            "txPgObjetivo": "ÁREAS FORESTADAS",
+            "txPgIndicador": "COBERTURA",
+            "txPgMeta": "100% ÁREAS FORESTADAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 223293,
+            "txPgProblema": "INADECUADO MANEJO DE RESIDUOS SÓLIDOS, COBERTURA DE 2%",
+            "txPgObjetivo": "MANEJO DE RESIDUOS SOLIDOS",
+            "txPgIndicador": "COBERTURA",
+            "txPgMeta": "75% DE COBERTURA DE MANEJO DE RS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 223302,
+            "txPgProblema": "DEFICIENTES INSTRUMENTOS DE GESTIÓN PARA EL DESARROLLO SOSTENIBLE 0%",
+            "txPgObjetivo": "INSTRUMENTOS DE GESTIÓN",
+            "txPgIndicador": "DOCUMENTOS",
+            "txPgMeta": "10 DOCUMENTOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 223310,
+            "txPgProblema": "DEFICIENTE DE COBERTURA DE MAQUINARIA PESADA 12%",
+            "txPgObjetivo": "SERVICIO DE ADQUISICIÓN DE MAQUINARIAS PESADAS",
+            "txPgIndicador": "COBERTURA",
+            "txPgMeta": "95% DE COBERTURA DE SERVICIOS EN MAQUINARIAS PESADAS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

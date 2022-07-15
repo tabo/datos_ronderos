@@ -1,0 +1,146 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 224891.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "70752895",
+        "nombres": "JUAN",
+        "apellidoPaterno": "PACHECO",
+        "apellidoMaterno": "CHAVEZ",
+        "sexo": "1",
+        "feNacimiento": "09/03/1997",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "240106",
+        "naciDepartamento": "CALLAO",
+        "naciProvincia": "CALLAO",
+        "naciDistrito": "VENTANILLA",
+        "ubigeoDomicilio": "240107",
+        "domiDepartamento": "CALLAO",
+        "domiProvincia": "CALLAO",
+        "domiDistrito": "MI PERU",
+        "domicilioDirecc": "ASENTAMIENTO HUMANO CONFRATERNIDAD SECTOR 3 MZ C LT 12",
+        "ubigeoPostula": "240107",
+        "postulaDepartamento": "CALLAO",
+        "postulaProvincia": "CALLAO",
+        "postulaDistrito": "MI PERU",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/224891.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2766.0,
+        "organizacionPolitica": "FUERZA CALLAO SEGURO",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 15:10:41",
+        "txGuidFormatoHojaVida": "d1b44b46-66cc-4cd2-b2e5-c901beb19468",
+        "idSolicitudLista": 34553.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 189201,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "LEGNO INDUSTRIAL S.A.C.",
+            "ocupacionProfesion": "OPERARIO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "MZ. D LT. 6 ZONA INDUSTRIAL - PACHACUTEC",
+            "anioTrabajoDesde": "2022",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "240106",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CALLAO",
+            "trabajoProvincia": "CALLAO",
+            "trabajoDistrito": "VENTANILLA",
+            "idHojaVida": 224891,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 166656,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 224891,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 164278,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD NACIONAL DEL CALLAO",
+                "carreraUni": "ADMINISTRACION DE EMPRESAS",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": null,
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "CURSANDO EL VIII CICLO"
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 157824,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 24000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 224891,
+                "idEstado": 1,
+                "totalIngresos": 24000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 168643,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "F8U859 ",
+                "valor": 30000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "TOYOTA HI LUX AÑO 2013",
+                "comentario": null,
+                "idHojaVida": 224891,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

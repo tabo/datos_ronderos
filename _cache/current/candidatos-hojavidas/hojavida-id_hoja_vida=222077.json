@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 222077.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "00242269",
+        "nombres": "MAXIMO FLORENTINO",
+        "apellidoPaterno": "BALLADARES",
+        "apellidoMaterno": "ROMERO",
+        "sexo": "1",
+        "feNacimiento": "20/10/1970",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "230105",
+        "naciDepartamento": "TUMBES",
+        "naciProvincia": "TUMBES",
+        "naciDistrito": "SAN JACINTO",
+        "ubigeoDomicilio": "230105",
+        "domiDepartamento": "TUMBES",
+        "domiProvincia": "TUMBES",
+        "domiDistrito": "SAN JACINTO",
+        "domicilioDirecc": "JR.PLATAFORMA 130 CASERIO LA PEÑA",
+        "ubigeoPostula": "230000",
+        "postulaDepartamento": "TUMBES",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/222077.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2840.0,
+        "organizacionPolitica": "PARTIDO MORADO",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "ACCESITARIO"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 21:19:46",
+        "txGuidFormatoHojaVida": "a139f98a-8f0d-450c-b80c-69c51dd47284",
+        "idSolicitudLista": 34221.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 255521,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "UNIVERSIDAD NACIONAL DE TUMBES",
+            "ocupacionProfesion": "CHOFER",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. UNIVERSITARIA S/N",
+            "anioTrabajoDesde": "2013",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "230101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "TUMBES",
+            "trabajoProvincia": "TUMBES",
+            "trabajoDistrito": "TUMBES",
+            "idHojaVida": 222077,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 228011,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 222077,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 205872,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 18600.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 222077,
+                "idEstado": 1,
+                "totalIngresos": 18600.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 248818,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "#########",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "11008606",
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 222077,
+                "idEstado": 1,
+                "flValor": "80000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 204851,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "3946IP ",
+                "valor": 2000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO SSENDA ROJO PLACA 3946IP",
+                "comentario": null,
+                "idHojaVida": 222077,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

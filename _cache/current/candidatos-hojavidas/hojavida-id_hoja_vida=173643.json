@@ -1,0 +1,166 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 173643.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "09766333",
+        "nombres": "SAUL EDGAR",
+        "apellidoPaterno": "MONTEJO",
+        "apellidoMaterno": "ALCOCER",
+        "sexo": "1",
+        "feNacimiento": "01/05/1970",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140135",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "EL AGUSTINO",
+        "ubigeoDomicilio": "140135",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "EL AGUSTINO",
+        "domicilioDirecc": "AV. JOSE DE LA RIVA AGUERO 1342",
+        "ubigeoPostula": "140135",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "EL AGUSTINO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/173643.jpg",
+        "estado": "INSCRITO",
+        "idOrganizacionPolitica": 1366.0,
+        "organizacionPolitica": "FUERZA POPULAR",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 06:58:57",
+        "txGuidFormatoHojaVida": "17513d3d-38e0-4c28-b661-e73835538576",
+        "idSolicitudLista": 27995.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 184748,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "OPTICA STYLOS",
+            "ocupacionProfesion": "OPTOMETRA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV RIVA AGUERO 1343",
+            "anioTrabajoDesde": "1993",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140135",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "EL AGUSTINO",
+            "idHojaVida": 173643,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 162637,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 173643,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 141278,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "SAN FERNANDO",
+                "carreraTecnico": "NO ESPECIFICA",
+                "concluidoEduTecnico": "2",
+                "idHojaVida": 173643,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "NO ESPECIFICA CARRERA O TÍTULO"
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 145875,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 47,
+            "orgPolRenunciaOp": "UNION POR EL PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 173643,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 154798,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 66000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 173643,
+                "idEstado": 1,
+                "totalIngresos": 66000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 166060,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "LQ2624 ",
+                "valor": 0.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CHATRRA",
+                "comentario": "DECLARA CHATARRA",
+                "idHojaVida": 173643,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 137079,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "00009-2011-0-1805-JP-FC-02",
+            "txOrganoJuridicialObliga": "2 JUZGADO DE PAZ LETRADO LIMA",
+            "txFalloObliga": "SENTENCIA DE VISTA",
+            "idEstado": 1,
+            "idHojaVida": 173643,
+            "txComentario": "RESOLUCIÓN N°20-18-6-2013"
+        }
+    ]
+}

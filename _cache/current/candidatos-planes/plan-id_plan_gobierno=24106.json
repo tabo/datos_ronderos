@@ -1,0 +1,75 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 24106,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1661,
+        "juradoElectoral": "CAÑETE",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/2736e4ed-5636-4030-b0fc-5ef00c642737.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/310283c3-2d34-4b80-831f-b0385fe4753b.pdf",
+        "txCodExpedienteExt": "ERM.2022012470",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 207949,
+            "txPgProblema": "INADECUADO ACCESO DE LA POBLACIÓN A SERVICIOS DE AGUA POTABLE DE CALIDAD, ALCANTARILLADO Y ELECTRICIDAD",
+            "txPgObjetivo": "ADECUADO ACCESO DE LA POBLACIÓN A SERVICIOS DEL SISTEMA DE AGUA POTABLE, ALCANTARILLADO Y ELECTRICIDAD",
+            "txPgIndicador": "% DE POBLACIÓN SIN ACCESO A LOS SERVICIOS BÁSICOS",
+            "txPgMeta": "COBERTURA DE AGUA POTABLE 85%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 207967,
+            "txPgProblema": "DEFICIENTE INADECUADA GESTIÓN DE PROGRAMAS SOCIALES",
+            "txPgObjetivo": "EFICIENTE Y ADECUADA GESTIÓN DE PROGRAMAS SOCIALES",
+            "txPgIndicador": "% DE INVERSIÓN EN GASTOS PÚBLICOS EN PROGRAMAS SOCIALES",
+            "txPgMeta": "EFICIENCIA DEL GASTO PÚBLICO EN PROGRAMAS SOCIALES 98%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 208007,
+            "txPgProblema": "DÉBIL CAPACIDAD DE ORGANIZACIÓN DEL SECTOR  AGRICULTOR, ARTESANAL, PESQUERO, TURISTICO",
+            "txPgObjetivo": "ORGANIZACIONES PRODUCTIVA DIVERSIFICADA, COMPETITIVA, SOSTENIBLE Y CON ALTO VALOR AGREGADO Y PRODUCTIVIDAD",
+            "txPgIndicador": "NUMERO DE ORGANIZACIONES FORMALIZADAS",
+            "txPgMeta": "FORMALIZACIÓN DE LAS ORGANIZACIONES EN CADA SECTOR  (02 ORGANIZACIONES FORMALIZADAS).",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 208037,
+            "txPgProblema": "INADECUADOS SISTEMA DE GESTIÓN DE RESIDUOS SOLIDOS",
+            "txPgObjetivo": "CALIDAD AMBIENTAL MEJORADA Y GESTIONADA CON ENFOQUE INTEGRAL",
+            "txPgIndicador": "% DE POBLACIÓN SENSIBILIZADA EN REUSAR, RECICLAR Y REAPROVECHAR",
+            "txPgMeta": "POBLACIÓN SENSIBILIZADA EN REUSAR, RECICLAR Y REAPROVECHAR EN UN (100%)",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 208054,
+            "txPgProblema": "DEFICIENTE SERVICIO DE ATENCIÓN PUBLICA",
+            "txPgObjetivo": "ADECUADA PRESTACIÓN DE LOS SERVICIOS PÚBLICOS",
+            "txPgIndicador": "% DE SERVIDORES PÚBLICOS ADECUADAMENTE CAPACITADO EN GESTIÓN PÚBLICA",
+            "txPgMeta": "OPTIMIZACIÓN DE LOS SERVICIOS PÚBLICOS EN UN 100%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

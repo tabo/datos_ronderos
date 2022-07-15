@@ -1,0 +1,153 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 233642.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44503763",
+        "nombres": "WALTER",
+        "apellidoPaterno": "CAYAMPI",
+        "apellidoMaterno": "HUAMANI",
+        "sexo": "1",
+        "feNacimiento": "20/01/1982",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050802",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "HUANCA SANCOS",
+        "naciDistrito": "SACSAMARCA",
+        "ubigeoDomicilio": "050802",
+        "domiDepartamento": "AYACUCHO",
+        "domiProvincia": "HUANCA SANCOS",
+        "domiDistrito": "SACSAMARCA",
+        "domicilioDirecc": "JR.VICTOR FAJARDO SN",
+        "ubigeoPostula": "050802",
+        "postulaDepartamento": "AYACUCHO",
+        "postulaProvincia": "HUANCA SANCOS",
+        "postulaDistrito": "SACSAMARCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/233642.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 10:47:37",
+        "txGuidFormatoHojaVida": "01e9e721-50c2-4969-8e80-944dd92a86f0",
+        "idSolicitudLista": 35556.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 248297,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "FONDO MIVIVIENDA",
+            "ocupacionProfesion": "EMPRESA",
+            "rucTrabajo": "20605842276",
+            "direccionTrabajo": "JR. VICTOR FAJARDO S/N",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "050802",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AYACUCHO",
+            "trabajoProvincia": "HUANCA SANCOS",
+            "trabajoDistrito": "SACSAMARCA",
+            "idHojaVida": 233642,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 219902,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 233642,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 156263,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "ESAN PERU",
+                "carreraTecnico": "GOBERNABILIDAD",
+                "concluidoEduTecnico": "2",
+                "idHojaVida": 233642,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 166203,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 1533,
+            "orgPolRenunciaOp": "MOVIMIENTO ETNOCACERISTA AYACUCHO",
+            "anioRenunciaOp": "2015",
+            "idHojaVida": 233642,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 166202,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2861,
+            "orgPolRenunciaOp": "MOVIMIENTO REGIONAL AGUA",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 233642,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 243589,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "EMPRESA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "JR. VICTOR FAJARDO S/N",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "11152844",
+                "fichaTomoSunarp": null,
+                "autovaluo": 280.0,
+                "idHojaVida": 233642,
+                "idEstado": 1,
+                "flValor": "120"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

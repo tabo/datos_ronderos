@@ -1,0 +1,128 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 205600.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "22502086",
+        "nombres": "SANTIAGO",
+        "apellidoPaterno": "MELITON",
+        "apellidoMaterno": "CUSTODIO",
+        "sexo": "1",
+        "feNacimiento": "06/08/1975",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "090108",
+        "naciDepartamento": "HUANUCO",
+        "naciProvincia": "HUANUCO",
+        "naciDistrito": "SANTA MARIA DEL VALLE",
+        "ubigeoDomicilio": "090108",
+        "domiDepartamento": "HUANUCO",
+        "domiProvincia": "HUANUCO",
+        "domiDistrito": "SANTA MARIA DEL VALLE",
+        "domicilioDirecc": "CPM POMACUCHO",
+        "ubigeoPostula": "090100",
+        "postulaDepartamento": "HUANUCO",
+        "postulaProvincia": "HUANUCO",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/205600.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 12.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "08/06/2022 16:17:23",
+        "txGuidFormatoHojaVida": "71fb1740-e238-4ae1-8dc1-5f5448cbaeb6",
+        "idSolicitudLista": 32217.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 161377,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "POMACUCHO",
+            "anioTrabajoDesde": "2017",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "090108",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "HUANUCO",
+            "trabajoProvincia": "HUANUCO",
+            "trabajoDistrito": "SANTA MARIA DEL VALLE",
+            "idHojaVida": 205600,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 141028,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 205600,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 139212,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 12000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 205600,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 151933,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "A6D904 ",
+                "valor": 15000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "NEGRO",
+                "comentario": null,
+                "idHojaVida": 205600,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

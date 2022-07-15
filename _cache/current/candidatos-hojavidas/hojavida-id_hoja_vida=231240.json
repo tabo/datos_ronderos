@@ -1,0 +1,202 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 231240.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "24574491",
+        "nombres": "BERNARDINO",
+        "apellidoPaterno": "SAYCO",
+        "apellidoMaterno": "CJUNO",
+        "sexo": "1",
+        "feNacimiento": "20/05/1965",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "070505",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "CANAS",
+        "naciDistrito": "LAYO",
+        "ubigeoDomicilio": "070505",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "CANAS",
+        "domiDistrito": "LAYO",
+        "domicilioDirecc": "COMUNID.CAMPESINA HANOCCA",
+        "ubigeoPostula": "070505",
+        "postulaDepartamento": "CUSCO",
+        "postulaProvincia": "CANAS",
+        "postulaDistrito": "LAYO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/231240.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 153.0,
+        "organizacionPolitica": "AUTOGOBIERNO AYLLU",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 18:20:25",
+        "txGuidFormatoHojaVida": "18418db7-a9be-40f9-afe8-6694b3d1d093",
+        "idSolicitudLista": 35289.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 187588,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "COLEGIO SIMON BOLIVAR",
+            "ocupacionProfesion": "ADMINISTRATIVO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "PICCHU ALTO S/N",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "070106",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CUSCO",
+            "trabajoProvincia": "CUSCO",
+            "trabajoDistrito": "SANTIAGO",
+            "idHojaVida": 231240,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 165168,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 231240,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 138069,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "INSTITUTO TECNOLOGICO ESTATAL NUÑOA",
+                "carreraNoUni": "EDUCACION",
+                "concluidoNoUni": "1",
+                "idHojaVida": 231240,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 139574,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 33,
+                "orgPolCargoElec": "MOVIMIENTO NUEVA IZQUIERDA",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2003",
+                "anioCargoElecHasta": "2006",
+                "idHojaVida": 231240,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 146820,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1264,
+            "orgPolRenunciaOp": "JUNTOS POR EL PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 231240,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 146819,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 179,
+            "orgPolRenunciaOp": "PARTIDO NACIONALISTA PERUANO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 231240,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 156743,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 21600.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 6000.0,
+                "idHojaVida": 231240,
+                "idEstado": 1,
+                "totalIngresos": 27600.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 197853,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CALLE LAS AMERICAS LOTE A-7-A SAN SEBASTIAN",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 231240,
+                "idEstado": 1,
+                "flValor": "50000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 167755,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "5348DX ",
+                "valor": 3500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "NEGRO PLOMO",
+                "comentario": null,
+                "idHojaVida": 231240,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

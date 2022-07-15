@@ -1,0 +1,146 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 219701.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42867457",
+        "nombres": "MARCO ANTONIO",
+        "apellidoPaterno": "BERDALES",
+        "apellidoMaterno": "SALVADOR",
+        "sexo": "1",
+        "feNacimiento": "10/03/1985",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "190206",
+        "naciDepartamento": "PIURA",
+        "naciProvincia": "AYABACA",
+        "naciDistrito": "SAPILLICA",
+        "ubigeoDomicilio": "190206",
+        "domiDepartamento": "PIURA",
+        "domiProvincia": "AYABACA",
+        "domiDistrito": "SAPILLICA",
+        "domicilioDirecc": "CASERIO TUNAL GRANDE",
+        "ubigeoPostula": "190206",
+        "postulaDepartamento": "PIURA",
+        "postulaProvincia": "AYABACA",
+        "postulaDistrito": "SAPILLICA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/219701.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 1411.0,
+        "organizacionPolitica": "REGION PARA TODOS",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 08:20:48",
+        "txGuidFormatoHojaVida": "2e4bf110-f342-4331-b7f6-ef3da7d967b5",
+        "idSolicitudLista": 33952.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 244408,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "PRODUCTOR AGRICOLA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASERIO TUNAL GRANDE, SAPILLICA",
+            "anioTrabajoDesde": "2005",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "190206",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PIURA",
+            "trabajoProvincia": "AYABACA",
+            "trabajoDistrito": "SAPILLICA",
+            "idHojaVida": 219701,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 216118,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 219701,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 164870,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 179,
+            "orgPolRenunciaOp": "PARTIDO NACIONALISTA PERUANO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 219701,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 195178,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 15000.0,
+                "idHojaVida": 219701,
+                "idEstado": 1,
+                "totalIngresos": 15000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 240152,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "VIVIENDA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CASERIO TUNAL GRANDE",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 219701,
+                "idEstado": 1,
+                "flValor": "15000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

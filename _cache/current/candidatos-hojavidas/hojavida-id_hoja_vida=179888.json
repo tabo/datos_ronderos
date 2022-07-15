@@ -1,0 +1,155 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 179888.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44464510",
+        "nombres": "ROCIO",
+        "apellidoPaterno": "ROCHA",
+        "apellidoMaterno": "HUAMAN",
+        "sexo": "2",
+        "feNacimiento": "10/03/1980",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050108",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "HUAMANGA",
+        "naciDistrito": "SANTIAGO DE PISCHA",
+        "ubigeoDomicilio": "050414",
+        "domiDepartamento": "AYACUCHO",
+        "domiProvincia": "LA MAR",
+        "domiDistrito": "NINABAMBA",
+        "domicilioDirecc": "JR. 16 DE JULIO 120",
+        "ubigeoPostula": "050414",
+        "postulaDepartamento": "AYACUCHO",
+        "postulaProvincia": "LA MAR",
+        "postulaDistrito": "NINABAMBA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/179888.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2861.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL AGUA",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 04:51:28",
+        "txGuidFormatoHojaVida": "17b5e409-d251-43a3-98ba-31cdcaef0abf",
+        "idSolicitudLista": 28812.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 204437,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "PUESTO DE SALUD NINABAMBA",
+            "ocupacionProfesion": "OBSTETRA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. PERU  NINABAMBA",
+            "anioTrabajoDesde": "2017",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "050413",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AYACUCHO",
+            "trabajoProvincia": "LA MAR",
+            "trabajoDistrito": "PATIBAMBA",
+            "idHojaVida": 179888,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 180101,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 179888,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 165166,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL DE SAN CRISTÓBAL DE HUAMANGA",
+                "carreraUni": "OBSTETRA",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2016",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 140935,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "LOS INGRESOS DEL  SECTOR PRIVADO PROVIENEN DE LOS INGRESOS DE FARMACIA.",
+            "idHojaVida": 179888,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 167872,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 24000.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 10000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 179888,
+                "idEstado": 1,
+                "totalIngresos": 34000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 177121,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "D2Z848 ",
+                "valor": 55000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMIONETA L200, MARCA MITSUBISHI COLOR PLOMO.",
+                "comentario": null,
+                "idHojaVida": 179888,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

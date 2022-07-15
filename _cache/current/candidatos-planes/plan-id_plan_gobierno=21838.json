@@ -1,0 +1,85 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 21838,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1709,
+        "juradoElectoral": "MOYOBAMBA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/a92823e0-ccfe-4a2a-80c5-0e4fb26b7ee4.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/cbdf63be-c055-4879-bfc5-a2869aae69e8.pdf",
+        "txCodExpedienteExt": "ERM.2022010428",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 209599,
+            "txPgProblema": "INADECUADAS CONDICIONES DE LA PRESTACIÓN DE SERVICIOS DE SALUD EN EL DISTRITO.",
+            "txPgObjetivo": "CONTRIBUIR CON SERVICIOS DE SALUD DE CALIDAD EN EL DISTRITO.",
+            "txPgIndicador": "% DE LA POBLACIÓN COBERTURADOS CON SERVICIOS DE SALUD.",
+            "txPgMeta": "AL 2026 EL 70.0% DE LA POBLACIÓN COBERTURADOS CON SERVICIOS DE SALUD.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 209611,
+            "txPgProblema": "INADECUADAS CONDICIONES DE LA PRESTACIÓN DEL SERVICIO EDUCATIVO EN EL DISTRITO.",
+            "txPgObjetivo": "CONTRIBUIR CON LA CALIDAD DE LOS SERVICIOS DE EDUCACIÓN EN EL DISTRITO.",
+            "txPgIndicador": "% DE I.E. CON INFRAESTRUCTURA EN BUEN ESTADO.",
+            "txPgMeta": "AL 2026 EL 40.0 % DE I.E. CON INFRAESTRUCTURA EN BUEN ESTADO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 209621,
+            "txPgProblema": "INADECUADAS CONDICIONES DE HABITABILIDAD EN EL DISTRITO.",
+            "txPgObjetivo": "MEJORAR LAS CONDICIONES DE HABITABILIDAD EN EL DISTRITO.",
+            "txPgIndicador": "% DE LOCALIDADES QUE CUENTAN CON LOS SERVICIOS BÁSICOS DE CALIDAD (AGUA POTABLE, SANEAMIENTO, ENERGÍA ELÉCTRICA, ETC.).",
+            "txPgMeta": "AL 2026 EL 60.0% DE LOCALIDADES CUENTAN CON LOS SERVICIOS BÁSICOS DE CALIDAD.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 209659,
+            "txPgProblema": "BAJO NIVEL DE COMPETITIVIDAD ECONÓMICA EN EL DISTRITO.",
+            "txPgObjetivo": "-PROMOVER LA COMPETITIVIDAD ECONÓMICA EN EL DISTRITO.\n-MEJORAR EL SERVICIO DE TRANSPORTE Y TRÁNSITO URBANO Y RURAL EN EL DISTRITO.",
+            "txPgIndicador": "- % DE CADENAS PRODUCTIVAS MEJORADAS EN EL DISTRITO.\n- % DE INFRAESTRUCTURA VIAL URBANA Y RURAL EN BUEN ESTADO.",
+            "txPgMeta": "-AL 2026 EL 14.0% DE CADENAS PRODUCTIVAS MEJORADAS EN EL DISTRITO\n-AL 2026 EL 60.0% DE INFRAESTRUCTURA VIAL URBANA Y RURAL EN BUEN ESTADO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 209690,
+            "txPgProblema": "BAJOS NIVELES DE CALIDAD AMBIENTAL EN EL DISTRITO.",
+            "txPgObjetivo": "-MEJORAR LA CALIDAD AMBIENTAL EN EL DISTRITO.\n-FORTALECER LAS INSTITUCIONES Y ORGANIZACIONES EN CULTURA DE ESTIMACIÓN, PREVENCIÓN Y REDUCCIÓN DE RIESGO.",
+            "txPgIndicador": "-N° ACCIONES PARA LA ADAPTACIÓN AL CAMBIO CLIMÁTICO Y APROVECHAMIENTO SOSTENIBLE DE LOS RECURSOS NATURALES. \n-N° DE ACCIONES PREVENTIVAS PARA REDUCIR LOS RIESGOS DE DESASTRES NATURALES Y PROVOCADOS POR EL HOMBRE.",
+            "txPgMeta": "-AL 2026 EL 15.0% DE LA COMUNIDAD EJECUTA ACCIONES PARA LA ADAPTACIÓN AL CAMBIO CLIMÁTICO Y APROVECHAMIENTO SOSTENIBLE DE LOS RECURSOS NATURALES.   \n- AL 2026 EL 15.0% DE LA COMUNIDAD EJECUTA ACCIONES PREVENTIVAS PARA REDUCIR LOS RIESGOS DE DESASTRES NATURALES Y PROVOCADOS POR EL HOMBRE.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 209729,
+            "txPgProblema": "INEFICIENTE GESTIÓN INSTITUCIONAL EN EL DISTRITO.",
+            "txPgObjetivo": "FORTALECER LA GESTIÓN INSTITUCIONAL.\nREDUCIR LOS ÍNDICES DE INSEGURIDAD CIUDADANA EN EL DISTRITO.\nFORTALECER LOS ESPACIOS DE PARTICIPACIÓN VECINAL DE MANERA FOCALIZADA EN EL DISTRITO.",
+            "txPgIndicador": "% DE EJECUCIÓN PRESUPUESTAL DE CALIDAD\n % DE LAS ACTIVIDADES DEL PLAN DE SEGURIDAD CIUDADANA DEL DISTRITO EJECUTADO.\n% DE JUNTAS VECINALES CONSTITUIDAS Y FORTALECIDAS.",
+            "txPgMeta": "-AL 2026 MAYOR AL 85.0 EJECUCIÓN PRESUPUESTAL DE CALIDAD.\n- AL 2026 EL 94.0% DE LAS ACTIVIDADES DEL PLAN DE SEGURIDAD CIUDADANA DEL DISTRITO EJECUTADO.\n- AL 2026 EL 94.0% DE LAS ACTIVIDADES DEL PLAN DE SEGURIDAD CIUDADANA DEL DISTRITO EJECUTADO.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

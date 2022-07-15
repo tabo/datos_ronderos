@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20172,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1264,
+        "txOrganizacionPolitica": "JUNTOS POR EL PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1736,
+        "juradoElectoral": "URUBAMBA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/09557232-8617-4c7e-8a23-394cbe956820.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/d9c12be7-4159-48e4-8642-c1d09532ecea.pdf",
+        "txCodExpedienteExt": "ERM.2022007438",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 141200,
+            "txPgProblema": "A.\tALTA PREVALENCIA DE DESNUTRICIÓN CRÓNICA INFANTIL (DCI) Y ANEMIA EN GESTANTES Y NIÑ@S MENORES DE 5 AÑOS",
+            "txPgObjetivo": "BAJAR LA PREVALENCIA DE DESNUTRICIÓN CRÓNICA INFANTIL Y ANEMIA EN GESTANTES Y NIÑ@S MENORES DE 5 AÑOS",
+            "txPgIndicador": "PREVALENCIA DE DCI Y ANEMIA EN MENORES DE 5 AÑOS",
+            "txPgMeta": "REDUCIR LA PREVALENCIA DE DCI Y ANEMIA EN NIÑOS MENORES DE 5 AÑOS A MENOS DE 10%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 141556,
+            "txPgProblema": "B.\tELEVADA DESERCIÓN ESCOLAR",
+            "txPgObjetivo": "BAJAR LA DESERCIÓN ESCOLAR",
+            "txPgIndicador": "PORCENTAJE DE ALUMNOS MATRICULADOS QUE CONCLUYE CADA AÑO SATISFACTORIAMENTE EL AÑO ESCOLAR",
+            "txPgMeta": "AL MENOS EL 90% DE ALUMNOS MATRICULADOS CADA AÑO, CONCLUYE SATISFACTORIAMENTE EL AÑO ESCOLAR",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 141588,
+            "txPgProblema": "C.\tAMPLIAS BRECHAS DE SERVICIOS BÁSICOS EN LAS VIVIENDAS.",
+            "txPgObjetivo": "CERRAR LAS BRECHAS EN COBERTURA Y CALIDAD DE LOS SERVICIOS BÁSICOS.",
+            "txPgIndicador": "PORCENTAJE DE VIVIENDAS CON ACCESO A SERVICIOS DE AGUA POTABLE, SANEAMIENTO, ELECTRICIDAD E INTERNET",
+            "txPgMeta": "AL MENOS EL 95% DE VIVIENDAS CUENTAN CON ACCESO A SERVICIOS BÁSICOS DE CALIDAD: AGUA POTABLE, SANEAMIENTO, ELECTRICIDAD E INTERNET",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 141609,
+            "txPgProblema": "A.\tAGRICULTURA POCO RENTABLE",
+            "txPgObjetivo": "MEJORAR LA RENTABILIDAD DE LA AGRICULTURA",
+            "txPgIndicador": "INGRESOS FAMILIARES SUPERIORES AL UMBRAL DE POBREZA.",
+            "txPgMeta": "AL MENOS EL 70% DE LAS FAMILIAS CON INGRESOS SUPERIORES AL UMBRAL DE POBREZA.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 141619,
+            "txPgProblema": "B.\tPREDOMINANCIA DE MONOCULTIVOS EN LAS UNIDADES PRODUCTIVAS AGRARIAS.",
+            "txPgObjetivo": "DIVERSIFICAR LA PRODUCCIÓN AGRARIA EN LAS UNIDADES DE PRODUCCIÓN.",
+            "txPgIndicador": "PORCENTAJE DE UNIDADES PRODUCTIVAS CON TRES O MÁS ACTIVIDADES PRODUCTIVAS: CULTIVOS, CRIANZAS, TRANSFORMACIÓN PRIMARIA, ETC.",
+            "txPgMeta": "AL MENOS EL 80% DE LAS UNIDADES PRODUCTIVAS ESTÁN DIVERSIFICADAS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 141628,
+            "txPgProblema": "C.\tELEVADA EROSIÓN DE LOS SUELOS",
+            "txPgObjetivo": "REDUCIR LA EROSIÓN DE LOS SUELOS",
+            "txPgIndicador": "FAMILIAS QUE MANEJAN SUS PREDIOS AGRARIOS PRESERVANDO SUS SUELOS",
+            "txPgMeta": "AL MENOS EL 60% DE FAMILIAS MANEJAN SUS PREDIOS AGRARIOS PRESERVANDO SUS SUELOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 141653,
+            "txPgProblema": "A.\tELEVADOS NIVELES DE DEFORESTACIÓN",
+            "txPgObjetivo": "BAJAR LOS NIVELES DE DEFORESTACIÓN",
+            "txPgIndicador": "PORCENTAJE DE ÁREAS DE PROTECCIÓN INTERVENIDAS.",
+            "txPgMeta": "AL MENOS EL 50% DE ÁREAS DE PROTECCIÓN INTERVENIDAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 141661,
+            "txPgProblema": "B.\tALTOS NIVELES DE CONTAMINACIÓN DE SUELOS Y AGUAS POR PRÁCTICAS AGRÍCOLAS",
+            "txPgObjetivo": "REDUCIR LOS NIVELES DE CONTAMINACIÓN AMBIENTAL DE PREDIOS RURALES",
+            "txPgIndicador": "PORCENTAJE DE UNIDADES DE PRODUCCIÓN MANEJADOS SIN PRÁCTICAS CONTAMINANTES.",
+            "txPgMeta": "AL MENOS EL 60% DE UNIDADES DE PRODUCCIÓN MANEJADOS SIN PRÁCTICAS CONTAMINANTES.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 141669,
+            "txPgProblema": "C.\tPOBLADOS DESORDENADOS Y ESTABLECIDOS SIN CRITERIO TÉCNICO",
+            "txPgObjetivo": "PLANIFICAR LOS POBLADOS DE ACUERDO A LAS NORMAS",
+            "txPgIndicador": "NÚMERO DE POBLADOS CON ESQUEMAS DE ORDENAMIENTO URBANO (EU) APROBADOS Y EN IMPLEMENTACIÓN",
+            "txPgMeta": "AL MENOS EL 70% DE POBLADOS CUENTAN CON EU APROBADOS Y EN IMPLEMENTACIÓN",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 141689,
+            "txPgProblema": "A.\tMALA ORGANIZACIÓN Y FUNCIONAMIENTO MUNICIPAL",
+            "txPgObjetivo": "MODERNIZAR LA ORGANIZACIÓN MUNICIPAL FORTALECIENDO LA DEMOCRACIA DIRECTA",
+            "txPgIndicador": "PORCENTAJE DE INVOLUCRAMIENTO DE LA POBLACIÓN ORGANIZADA EN EL DESARROLLO LOCAL",
+            "txPgMeta": "AL MENOS EL 80% DE LA POBLACIÓN ORGANIZADA SE ENCUENTRA INVOLUCRADA EN EL DESARROLLO LOCAL.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 141706,
+            "txPgProblema": "B.\tORGANIZACIONES DE LA POBLACIÓN DEBILITADAS",
+            "txPgObjetivo": "IMPULSAR EL ASOCIATIVISMO Y FORTALECIMIENTO DE LAS ORGANIZACIONES DE LA POBLACIÓN",
+            "txPgIndicador": "NÚMERO DE ORGANIZACIONES CON PLANES ESTRATÉGICOS DE FORTALECIMIENTO EN IMPLEMENTACIÓN.",
+            "txPgMeta": "AL MENOS SEIS (6) ORGANIZACIONES DE ALCANCE DISTRITAL CUENTAN CON PLANES ESTRATÉGICOS DE FORTALECIMIENTO EN IMPLEMENTACIÓN.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 141717,
+            "txPgProblema": "C.\tESCASO NIVEL DE PARTICIPACIÓN DE MUJERES Y JÓVENES EN LA VIDA POLÍTICA, ECONÓMICA, SOCIAL Y AMBIENTAL DEL DISTRITO",
+            "txPgObjetivo": "MEJORAR EN CANTIDAD Y CALIDAD EL INVOLUCRAMIENTO DE MUJERES Y JÓVENES EN LA VIDA POLÍTICA, ECONÓMICA, SOCIAL Y AMBIENTAL DEL DISTRITO",
+            "txPgIndicador": "PORCENTAJE DE MUJERES Y JÓVENES INVOLUCRADOS EN LA VIDA POLÍTICA, SOCIAL, ECONÓMICA Y AMBIENTAL DEL DISTRITO",
+            "txPgMeta": "AL MENOS EL 60% DE LÍDERES LOCALES SON MUJERES Y/O JÓVENES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

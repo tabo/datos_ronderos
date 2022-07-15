@@ -1,0 +1,188 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 174465.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40896543",
+        "nombres": "EDY MARISOL",
+        "apellidoPaterno": "HUAMANI",
+        "apellidoMaterno": "SALAS",
+        "sexo": "2",
+        "feNacimiento": "17/03/1981",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040102",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "AREQUIPA",
+        "naciDistrito": "CAYMA",
+        "ubigeoDomicilio": "040102",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "AREQUIPA",
+        "domiDistrito": "CAYMA",
+        "domicilioDirecc": "AV.28 DE JULIO 740 LA TOMILLA",
+        "ubigeoPostula": "040102",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "AREQUIPA",
+        "postulaDistrito": "CAYMA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/174465.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 10:21:22",
+        "txGuidFormatoHojaVida": "72d7db68-c429-4638-8dd3-68025ab808c9",
+        "idSolicitudLista": 28110.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 210788,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "I.E. SAN LUIS GONZAGA - CIRCA",
+            "ocupacionProfesion": "PROFESOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "4 DE OCTUBRE - SOCABAYA",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "040119",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "AREQUIPA",
+            "trabajoDistrito": "SOCABAYA",
+            "idHojaVida": 174465,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 185686,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 174465,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 140081,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "I.E.S.P. A.",
+                "carreraNoUni": "PROFESOR DE FILOSOFIA Y RELIGIÓN",
+                "concluidoNoUni": "1",
+                "idHojaVida": 174465,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            },
+            {
+                "idHvNoUniversitaria": 140080,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "I.E.S.P. A.",
+                "carreraNoUni": "PROFESOR DE FILOSOFIA Y RELIGIÓN",
+                "concluidoNoUni": "1",
+                "idHojaVida": 174465,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 167984,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL DE SAN AGUSTÍN DE AREQUIPA",
+                "carreraUni": "BACHILLER EN EDUCACION",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2006",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [
+            {
+                "idHvPosgrado": 138913,
+                "tengoPosgrado": "SI",
+                "nuItemPosgrado": 1,
+                "txCenEstudioPosgrado": "UNSA",
+                "txEspecialidadPosgrado": "MAESTRIA EN GERENCIA DE SOCIALES Y RECURSOS HUMANOS",
+                "concluidoPosgrado": "NO",
+                "egresadoPosgrado": null,
+                "esMaestro": null,
+                "esDoctor": null,
+                "txAnioPosgrado": null,
+                "idHojaVida": 174465,
+                "idEstado": 1,
+                "txEstado": "ACTIVO (R)",
+                "fgRegistroManual": 1,
+                "txComentario": null,
+                "fgRegistro": null
+            }
+        ],
+        "educacionPosgradoOtro": [
+            {
+                "idHvPosgradoOtro": 1110,
+                "tengoPosgradoOtro": "SI",
+                "nuItemPosgradoOtro": 1,
+                "txCenEstudioPosgradoOtro": "UNIVERSIDAD DE ALCALA",
+                "txEspecialidadPosgradoOtro": "MBA EN ALTA DIRECCIÓN DE EMPRESAS",
+                "concluidoPosgradoOtro": "SI",
+                "egresadoPosgradoOtro": "SI",
+                "txGrado": "MAESTRIAS",
+                "txAnioPosgradoOtro": "2020",
+                "idHojaVida": 174465,
+                "idEstado": 1,
+                "txEstado": "ACTIVO (R)",
+                "txComentario": null,
+                "fgRegistro": null
+            }
+        ]
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 172232,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 15288.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 8000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 174465,
+                "idEstado": 1,
+                "totalIngresos": 23288.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

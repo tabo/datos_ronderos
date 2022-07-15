@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 16880,
+        "idTipoEleccion": 5,
+        "txTipoEleccion": "MUNICIPAL PROVINCIAL",
+        "idOrganizacionPolitica": 2731,
+        "txOrganizacionPolitica": "PODEMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1681,
+        "juradoElectoral": "HUARAL",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/3ce6c828-5bbf-4f9a-abf2-67446651b0b1.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/e2642e94-c761-4038-bbfe-a06ed1662e6d.pdf",
+        "txCodExpedienteExt": "ERM.2022012065",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 185707,
+            "txPgProblema": "INSUFICIENTE ACCESO A LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y DESAGÜE.",
+            "txPgObjetivo": "MEJORAR LA CALIDAD DE LA PRESTACIÓN DE LOS SERVICIOS PÚBLICOS EN BENEFICIO DE LAS PERSONAS",
+            "txPgIndicador": "PORCENTAJE DE HOGARES CON ACCESO A LA RED DE AGUA Y DESAGÜE",
+            "txPgMeta": "ACCESO A LOS SERVICIOS PÚBLICOS, DE AGUA, DESAGÜE, EN UN 100 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 185732,
+            "txPgProblema": "INADECUADOS NIVELES DE CLORO EN LA RED DE AGUA POTABLE (=0.1 MG/L Y <0.5MG/L)",
+            "txPgObjetivo": "MEJORAR LA CALIDAD DE LA PRESTACIÓN DE LOS SERVICIOS PÚBLICOS EN BENEFICIO DE LAS PERSONAS",
+            "txPgIndicador": "PORCENTAJE DE HOGARES CON ACCESO A AGUA POTABLE CON NIVELES INADECUADOS DE CLORO",
+            "txPgMeta": "ACCESO A LOS SERVICIOS PÚBLICOS DE AGUA POTABLE DE CALIDAD",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 185758,
+            "txPgProblema": "ESCASA PROMOCIÓN DE LA SALUD PREVENTIVA.",
+            "txPgObjetivo": "MEJORAR LA CALIDAD DE LA PRESTACIÓN DE LOS SERVICIOS PÚBLICOS EN BENEFICIO DE LAS PERSONAS",
+            "txPgIndicador": "NIVEL DE CONOCIMIENTO DE LOS CIUDADANOS EN SALUD PREVENTIVA\n(BRINDAR TALLERES Y CHARLAS DE SENSIBILIZACIÓN)\nÍNDICE DE MORBILIDAD",
+            "txPgMeta": "AUMENTO DE LA POBLACIÓN INFORMADA EN PREVENCIÓN DE ENFERMEDADES Y DISMINUCIÓN DEL ÍNDICE DE MORBILIDAD EN LA PROVINCIA.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 185812,
+            "txPgProblema": "CAPACIDADES PRODUCTIVAS AGROPECUARIAS ESCASAS, INFLUYEN EN LA COMPETITIVIDAD DE LOS PRODUCTOS, LA CUAL DISMINUYE LA CAPACIDAD ADQUISITIVA DE LOS PRODUCTORES POR FALTA DE INICIATIVAS.",
+            "txPgObjetivo": "FOMENTAR EL NIVEL DE COMPETITIVIDAD Y RENTABILIDAD ECONÓMICA PRODUCTIVA EN LOS HABITANTES DE LA PROVINCIA DE ACUERDO A LOS LINEAMIENTOS DEL PLAN TURÍSTICO PROVINCIAL, GESTIONANDO LA MEJORA PRESUPUESTAL.",
+            "txPgIndicador": "ÍNDICE DE LOS INGRESOS DE LAS ACTIVIDADES PRODUCTIVAS.",
+            "txPgMeta": "INCREMENTO DE LA CAPACIDAD DE GASTO PARA MEJORAR LA CALIDAD DE VIDA DEL PRODUCTOR AGROPECUARIO EN ORIENTACIÓN, CHARLA Y TALLERES.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 185845,
+            "txPgProblema": "LIMITADA PROMOCIÓN DE LAS POTENCIALIDADES NATURALES, GASTRONÓMICAS Y PAISAJÍSTICAS DE LA PROVINCIA, DISMINUYE EL FLUJO TURÍSTICO.",
+            "txPgObjetivo": "FOMENTAR EL NIVEL DE COMPETITIVIDAD Y RENTABILIDAD ECONÓMICA PRODUCTIVA EN LOS HABITANTES DE LA PROVINCIA DE ACUERDO A LOS LINEAMIENTOS DEL PLAN TURÍSTICO PROVINCIAL, GESTIONANDO LA MEJORA PRESUPUESTAL.",
+            "txPgIndicador": "PBI EN ACTIVIDADES AGROPECUARIAS Y DE TURISMO",
+            "txPgMeta": "LOS PRODUCTORES AGROPECUARIOS Y DE SERVICIOS, DEL PROVINCIA COMPITEN EN EL MERCADO LOCAL, REGIONAL Y NACIONAL.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 185889,
+            "txPgProblema": "LIMITADA DIVERSIFICACIÓN DE LOS SERVICIOS TURÍSTICOS LO QUE PROVOCA UN BAJO FLUJO DE TURISTAS.",
+            "txPgObjetivo": "FOMENTAR EL NIVEL DE COMPETITIVIDAD Y RENTABILIDAD ECONÓMICA PRODUCTIVA EN LOS HABITANTES DE LA PROVINCIA DE ACUERDO A LOS LINEAMIENTOS DEL PLAN TURÍSTICO PROVINCIAL, GESTIONANDO LA MEJORA PRESUPUESTAL.",
+            "txPgIndicador": "NÚMERO DE METAS CUMPLIDAS DEL PLAN TURÍSTICO PROVINCIAL.",
+            "txPgMeta": "LOS POBLADORES INCREMENTAN Y MEJORAN SUS SERVICIOS AL TURISTA.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 185930,
+            "txPgProblema": "ESCASA CULTURA AMBIENTAL, Y LIMITADOS CONOCIMIENTOS DE HERRAMIENTAS DE GESTIÓN AMBIENTAL EN LA POBLACIÓN Y FUNCIONARIOS.",
+            "txPgObjetivo": "PROMOVER EL MEJORAMIENTO DEL MEDIO AMBIENTE CON CONCIENCIA ECOLÓGICA DE LA PROVINCIA",
+            "txPgIndicador": "NÚMERO DE TALLERES DE CAPACITACIÓN EN EL GESTIÓN AMBIENTAL LOCAL A LA POBLACIÓN Y FUNCIONARIOS",
+            "txPgMeta": "GESTIÓN AMBIENTAL LOCAL COORDINADA CON LA POBLACIÓN Y FUNCIONARIOS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 185960,
+            "txPgProblema": "DEFICIENTE IDENTIFICACIÓN DE PUNTOS CRÍTICOS EN ZONAS DE RIESGO DE DESASTRES NATURALES.",
+            "txPgObjetivo": "IDENTIFICACIÓN DE PUNTOS CRÍTICOS EN ZONAS DE RIESGO DE DESASTRES NATURALES POR MEDIO DE LA ELABORACIÓN MAPAS DE RIESGOS",
+            "txPgIndicador": "NÚMERO DE PUNTOS CRÍTICOS IDENTIFICADOS EN ZONAS DE RIESGOS DE DESASTRES NATURALES",
+            "txPgMeta": "LA PROVINCIA TIENE IDENTIFICADO SUS TODOS SUS PUNTOS CRÍTICOS EN UN MAPA DE RIESGOS ACTUALIZADO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 185979,
+            "txPgProblema": "LIMITADA GESTIÓN DE LAS AUTORIDADES Y POBLACIÓN CIVIL PARA LA PREVENCIÓN DE RIESGOS Y DESASTRES.",
+            "txPgObjetivo": "REDUCIR LA CONDICIONES DE VULNERABILIDAD DE LA POBLACIÓN ANTE EL RIESGO DE DESASTRES NATURALES",
+            "txPgIndicador": "NÚMERO DE MEDIDAS IMPLEMENTADAS EN PREVENCIÓN DE RIESGOS EN PUNTOS CRÍTICOS.",
+            "txPgMeta": "LA POBLACIÓN CONOCE CAPACIDADES DE DEFENSA PERSONAL Y TERRITORIAL; ANTES, DURANTE Y DESPUÉS DE LOS FENÓMENOS NATURALES, REDUCIENDO LA VULNERABILIDAD DE LA POBLACIÓN ANTE EL RIESGO DE DESASTRES NATURALES.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 186037,
+            "txPgProblema": "EJECUCIÓN DE PROYECTOS, DESLIGADOS DE LOS PROBLEMAS MÁS GRANDES QUE AFECTAN A LA POBLACIÓN DE LA PROVINCIA.",
+            "txPgObjetivo": "PROMOVER UN GOBIERNO LOCAL CONCERTADO, CON PLANIFICACIÓN PARTICIPATIVA.",
+            "txPgIndicador": "CANTIDAD DE TALLERES PARA EL DESARROLLO DE CAPACIDADES DE GESTIÓN ORGANIZACIONAL.",
+            "txPgMeta": "LA GESTIÓN PROVINCIAL SE CONSOLIDA CON EL APOYO DE LA POBLACIÓN CAPACITADA.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 186058,
+            "txPgProblema": "POCA PARTICIPACIÓN DE LA POBLACIÓN EN LOS DIFERENTES NIVELES DE GESTIÓN DE LA PROVINCIA.",
+            "txPgObjetivo": "PROMOVER UNA PARTICIPACIÓN CIUDADANA EN LOS DIFERENTES NIVELES MUNICIPALES, EN LA GESTACIÓN DE LOS DIFERENTES PROYECTOS PROVINCIALES.",
+            "txPgIndicador": "CANTIDAD DE PROYECTOS PROVINCIALES EN LOS CUALES LA POBLACIÓN SE ENCUENTRA INVOLUCRADA.",
+            "txPgMeta": "LA GESTIÓN PROVINCIAL OBTIENE UN 95% DE PARTICIPACIÓN CIUDADANA.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 186077,
+            "txPgProblema": "ACCIONES DELICTIVAS COMO EL ABIGEATO AFECTAN LA ECONOMÍA DE LOS PRODUCTORES DE GANADO.",
+            "txPgObjetivo": "MEJORAR LOS NIVELES DE SEGURIDAD CIUDADANA INTEGRAL EN LA PROVINCIA.\nPROPICIAR LA FORMALIZACIÓN Y REORGANIZACIÓN DE LAS RONDAS CAMPESINAS.",
+            "txPgIndicador": "TALLERES DE SENSIBILIZACIÓN PARA LA PREVENCIÓN FRENTE AL PELIGRO Y OTROS.",
+            "txPgMeta": "DISMINUCIÓN DE LAS ACTIVIDADES DELICTIVAS EN LA PROVINCIA.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

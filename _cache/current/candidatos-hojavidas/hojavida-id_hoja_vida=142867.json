@@ -1,0 +1,147 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 142867.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "29652651",
+        "nombres": "FRANCISCO RODOLFO",
+        "apellidoPaterno": "COSSI",
+        "apellidoMaterno": "CONDORI",
+        "sexo": "1",
+        "feNacimiento": "04/10/1972",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "170207",
+        "naciDepartamento": "MOQUEGUA",
+        "naciProvincia": "GENERAL SANCHEZ CERRO",
+        "naciDistrito": "MATALAQUE",
+        "ubigeoDomicilio": "170207",
+        "domiDepartamento": "MOQUEGUA",
+        "domiProvincia": "GENERAL SANCHEZ CERRO",
+        "domiDistrito": "MATALAQUE",
+        "domicilioDirecc": "CALLE FRANCISCO BOLOGNESI S/N HUARINA",
+        "ubigeoPostula": "170000",
+        "postulaDepartamento": "MOQUEGUA",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/142867.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2497.0,
+        "organizacionPolitica": "NUESTRO ILO - MOQUEGUA - SANCHEZ CERRO",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "ACCESITARIO"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 01:26:29",
+        "txGuidFormatoHojaVida": "2e691148-3737-4bc6-9806-839c4c1084da",
+        "idSolicitudLista": 23821.0,
+        "txComentario": ".NINGUNA"
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 168686,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "TRABAJOS EVENTUALES",
+            "ocupacionProfesion": "CONSTRUCCION CIVIL",
+            "rucTrabajo": null,
+            "direccionTrabajo": "MOQUEGUA",
+            "anioTrabajoDesde": "2008",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "170207",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "MOQUEGUA",
+            "trabajoProvincia": "GENERAL SANCHEZ CERRO",
+            "trabajoDistrito": "MATALAQUE",
+            "idHojaVida": 142867,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 147620,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 142867,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 143986,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 12000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 142867,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 156244,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "CAMIONETA",
+                "marca": null,
+                "placa": "VAA899",
+                "valor": 20000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR BLANCO",
+                "comentario": null,
+                "idHojaVida": 142867,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 134409,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "00027-2018-17-2802-JR-PE-01",
+            "feSentenciaPenal": "22/10/2018",
+            "txOrganoJudiPenal": "MOQUEGUA",
+            "txDelitoPenal": "USURPACION",
+            "txFalloPenal": "EN APELACION",
+            "idParamModalidad": 13,
+            "txModalidad": "OTRO",
+            "txOtraModalidad": "EN APELACION",
+            "idParamCumpleFallo": 21,
+            "txCumpleFallo": "EN CUMPLIMIENTO",
+            "idEstado": 1,
+            "idHojaVida": 142867,
+            "txComentario": "EN APELACION"
+        }
+    ],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 27723,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2738,
+        "txOrganizacionPolitica": "MOVIMIENTO REGIONAL FORTALEZA PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/095a4b43-2cd7-4774-ae7f-68db61e8b169.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/35be79bc-19d6-4503-8096-400224801b92.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 158830,
+            "txPgProblema": "A. BAJO RENDIMIENTO ESCOLAR",
+            "txPgObjetivo": "MEJORAR EL ACCESO DE LAS ESCUELAS Y COLEGIOS A BASES DE INFORMACIÓN BIBLIOGRÁFICA",
+            "txPgIndicador": "= (N° DE INSTITUCIONES CON ACCESO A BASE BIBLIOGRÁFICA/TOTAL DE INSTITUCIONES EDUCATIVAS)*100",
+            "txPgMeta": "LOGRAR AL TÉRMINO DEL PERIODO EL ACCESO DEL 95%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 158852,
+            "txPgProblema": "B. BAJA INVERSION EN EL SISTEMA DE SALUD LOCAL",
+            "txPgObjetivo": "IMPLEMENTAR SISTEMAS DE PREVENCIÓN Y PROMOCIÓN SOBRE ENFERMEDADES CRÓNICAS NO TRANSMISIBLES",
+            "txPgIndicador": "= (RECUPERACIÓN DE PACIENTES CON ENFERMEDADES CRÓNICAS NO TRANSMISIBLES/TOTAL DE PACIENTES CRÓNICOS DE ENFERMEDADES TRANSMISIBLES)*100",
+            "txPgMeta": "LOGRAR LA RECUPERACIÓN DEL 90%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 158866,
+            "txPgProblema": "C. BAJA CAPACIDAD DE COBERTURA DE SEGURIDAD CIUDADANA",
+            "txPgObjetivo": "INCREMENTAR EL NÚMERO DE EFECTIVOS DE SERENAZGO",
+            "txPgIndicador": "= (N° DE PERSONAL SERENAZGO/TOTAL DE POBLACIÓN)*100",
+            "txPgMeta": "LOGRAR EL 90%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 158889,
+            "txPgProblema": "A. FALTA DE APOYO AL TURISMO LOCAL",
+            "txPgObjetivo": "PROMOCIONAR A NIVEL LOCAL Y REGIONAL LA DIVERSIDAD CULTURAL Y GASTRONÓMICA",
+            "txPgIndicador": "= N° TOTAL DE TURISTAS MENSUAL",
+            "txPgMeta": "LOGRAR AL TÉRMINO DEL PERIODO LA VISITA DE 500 000 TURISTAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 158913,
+            "txPgProblema": "B. FALTA DE CAPACITACION EN ALTERNATIVAS DE CULTIVOS AGRICOLAS DIVERSOS",
+            "txPgObjetivo": "IMPLEMENTAR ALTERNATIVAS AGRÍCOLAS DE ESTACIÓN FRENTE A DEMANDAS NACIONALES",
+            "txPgIndicador": "= N° CURSOS DE CAPACITACIÓN AGRÍCOLA",
+            "txPgMeta": "LOGRAR LA PARTICIPACIÓN DEL 95% DE AGRICULTORES EN LAS DIVERSAS CAPACITACIONES",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 158947,
+            "txPgProblema": "C. INFORMALIDAD DEL TRANSPORTE LOCAL",
+            "txPgObjetivo": "FORMALIZAR EL TRANSPORTE LOCAL, ASÍ COMO SU REORDENAMIENTO",
+            "txPgIndicador": "= (N° DE EMPRESAS INFORMALES/ TOTAL DE EMPRESAS FORMALES)* 100",
+            "txPgMeta": "LOGRAR EL 95% DE FORMALIZACIÓN Y CREACIÓN DE EMPRESA",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 158985,
+            "txPgProblema": "A. CONTAMINACION POR QUEMA DE CAÑA",
+            "txPgObjetivo": "DISMINUIR LAS ÁREAS DE QUEMA DE CAÑA CERCANA A CENTROS POBLADOS",
+            "txPgIndicador": "= (N° DE ÁREAS DE QUEMA DE CAÑA CERCANA A CENTROS POBLADOS/TOTAL DE ÁREA DE QUEMA DE CAÑA)*100",
+            "txPgMeta": "LOGRAR EL 100%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159009,
+            "txPgProblema": "B. NO TRATAMIENTO ADECUADO DE RESIDUOS SOLIDOS",
+            "txPgObjetivo": "IMPLEMENTAR UNA PLANTA DE TRATAMIENTO DE RESIDUOS SOLIDOS",
+            "txPgIndicador": "= CONSTRUCCIÓN DE PLANTA DE TRATAMIENTO DE RESIDUO SOLIDO",
+            "txPgMeta": "FUNCIONAMIENTO AL 100% DE LA PLANTA DE TRATAMIENTO DE RESIDUOS SOLIDOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159034,
+            "txPgProblema": "C. BAJO ACCESO DE AGUA POTABLE EN LOS CENTROS POBLADOS",
+            "txPgObjetivo": "MEJORAR LA RED DE SERVICIO DE AGUA POTABLE",
+            "txPgIndicador": "= (N° METROS LINEALES DE CONEXIÓN DE AGUA POTABLE/TOTAL DE RED)*100",
+            "txPgMeta": "LOGRAR EL 100%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 159055,
+            "txPgProblema": "A. BAJO RECORD DE CUMPLIMIENTOS DE METAS",
+            "txPgObjetivo": "CAPACITAR AL PERSONAL ENCARGADO DE IMPLEMENTAR ESTRATEGIAS",
+            "txPgIndicador": "= (N° CAPACITACIONES ASISTIDAS/TOTAL DE CAPACITACIONES) *100",
+            "txPgMeta": "LOGRAR LA PARTICIPACIÓN DEL 95% EN LAS DIVERSAS CAPACITACIONES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159085,
+            "txPgProblema": "B. BAJA ASIGNACION DE RECURSOS ECONOMICOS A ESTRATEGIAS PUBLICAS ESENCIALES",
+            "txPgObjetivo": "MEJORAR LA DISTRIBUCIÓN DE LOS RECURSOS ECONÓMICOS",
+            "txPgIndicador": "= (ASIGNACIÓN DE PRESUPUESTO PARA ESTRATEGIAS PUBLICAS ESENCIALES/TOTAL DEL PRESUPUESTO RECIBIDO)*100",
+            "txPgMeta": "LOGRAR INCREMENTAR AL 100% EL LOGRO DE CADA PRESUPUESTO ASIGNADO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159119,
+            "txPgProblema": "C. BAJA PARTICIPACION CIUDADANA",
+            "txPgObjetivo": "LOGRAR A TRAVÉS DE LAS JUNTAS VECINALES LA PARTICIPACIÓN DE LA POBLACIÓN EN LAS DIVERSAS ACTIVIDADES DEL GOBIERNO LOCAL",
+            "txPgIndicador": "= (N° ASAMBLEAS DE JUNTAS VECINALES/TOTAL DE ASAMBLEAS ANUALES ANUALES)*100",
+            "txPgMeta": "LOGRAR LA PARTICIPACIÓN DEL 95% DE LA POBLACIÓN EN LAS DIVERSAS ASAMBLEAS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

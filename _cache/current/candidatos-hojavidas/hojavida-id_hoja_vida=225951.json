@@ -1,0 +1,158 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 225951.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "41937513",
+        "nombres": "VICTORIANO",
+        "apellidoPaterno": "GOMEZ",
+        "apellidoMaterno": "GOMEZ",
+        "sexo": "1",
+        "feNacimiento": "23/03/1983",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "030405",
+        "naciDepartamento": "APURIMAC",
+        "naciProvincia": "ANTABAMBA",
+        "naciDistrito": "OROPESA",
+        "ubigeoDomicilio": "030405",
+        "domiDepartamento": "APURIMAC",
+        "domiProvincia": "ANTABAMBA",
+        "domiDistrito": "OROPESA",
+        "domicilioDirecc": "SAN MARTIN S/N",
+        "ubigeoPostula": "030405",
+        "postulaDepartamento": "APURIMAC",
+        "postulaProvincia": "ANTABAMBA",
+        "postulaDistrito": "OROPESA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/225951.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2737.0,
+        "organizacionPolitica": "PROGRESISTA DE APURIMAC",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 14:22:47",
+        "txGuidFormatoHojaVida": "937a9949-1679-4f72-8562-29cf2af2fee3",
+        "idSolicitudLista": 34675.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 234538,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "PUESTO DE SALUD KILCASA",
+            "ocupacionProfesion": "TECNICO EN ENFERMERIA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE SAN MARTIN S/N TOTORA",
+            "anioTrabajoDesde": "2008",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "030405",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "APURIMAC",
+            "trabajoProvincia": "ANTABAMBA",
+            "trabajoDistrito": "OROPESA",
+            "idHojaVida": 225951,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 207010,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 225951,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 142124,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "INSTITUTO STPV",
+                "carreraNoUni": "TECNICO EN  ENFERMERIA",
+                "concluidoNoUni": "1",
+                "idHojaVida": 225951,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 161770,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2160,
+            "orgPolRenunciaOp": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 225951,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 187997,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 24000.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 225951,
+                "idEstado": 1,
+                "totalIngresos": 24000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 233033,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "VERONICAYOC-ABANCAY",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 120.0,
+                "idHojaVida": 225951,
+                "idEstado": 1,
+                "flValor": "60000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

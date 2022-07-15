@@ -1,0 +1,156 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 212703.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44150054",
+        "nombres": "NELVER",
+        "apellidoPaterno": "MONSALVE",
+        "apellidoMaterno": "PEDRAZA",
+        "sexo": "1",
+        "feNacimiento": "12/01/1987",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "060801",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "JAEN",
+        "naciDistrito": "JAEN",
+        "ubigeoDomicilio": "210506",
+        "domiDepartamento": "SAN MARTIN",
+        "domiProvincia": "RIOJA",
+        "domiDistrito": "ELIAS SOPLIN VARGAS",
+        "domicilioDirecc": "CASERIO NACIENTE DE RIO NEGRO",
+        "ubigeoPostula": "210000",
+        "postulaDepartamento": "SAN MARTIN",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/212703.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2722.0,
+        "organizacionPolitica": "UNION REGIONAL",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "ACCESITARIO"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 18:10:31",
+        "txGuidFormatoHojaVida": "ad762410-9d4a-4b19-954b-c98de600a2ee",
+        "idSolicitudLista": 33119.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 173007,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CASERÍO NACIENTE DEL RIO NEGRO",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASERÍO NACIENTE DEL RIO NEGRO",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "210506",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "SAN MARTIN",
+            "trabajoProvincia": "RIOJA",
+            "trabajoDistrito": "ELIAS SOPLIN VARGAS",
+            "idHojaVida": 212703,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 151701,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 212703,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 137933,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 131,
+                "orgPolCargoElec": "ACCION REGIONAL",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2015",
+                "anioCargoElecHasta": "2018",
+                "idHojaVida": 212703,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 141690,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 47,
+            "orgPolRenunciaOp": "UNION POR EL PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 212703,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 146986,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 9600.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 212703,
+                "idEstado": 1,
+                "totalIngresos": 9600.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 158950,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "S39777 ",
+                "valor": 5000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA ZONGHEN - COLOR ROJO",
+                "comentario": null,
+                "idHojaVida": 212703,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

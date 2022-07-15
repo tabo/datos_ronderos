@@ -1,0 +1,160 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 222661.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "29663826",
+        "nombres": "MAXIMILIANO",
+        "apellidoPaterno": "QUISPE",
+        "apellidoMaterno": "VELA",
+        "sexo": "1",
+        "feNacimiento": "28/12/1975",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040802",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "LA UNION",
+        "naciDistrito": "ALCA",
+        "ubigeoDomicilio": "040220",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "CAYLLOMA",
+        "domiDistrito": "MAJES",
+        "domicilioDirecc": "CP EL PEDREGAL SEC LAS MALVINAS MZ. L LT. 26",
+        "ubigeoPostula": "040220",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "CAYLLOMA",
+        "postulaDistrito": "MAJES",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/222661.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2719.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL REVALORA",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 23:59:10",
+        "txGuidFormatoHojaVida": "ab23f249-2d2f-4711-9566-f02b18f504e1",
+        "idSolicitudLista": 34296.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 228992,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "MAJES EL PEDREGAL",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "040220",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "CAYLLOMA",
+            "trabajoDistrito": "MAJES",
+            "idHojaVida": 222661,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 202044,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 222661,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 160158,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2218,
+            "orgPolRenunciaOp": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 222661,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 184443,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 18000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 222661,
+                "idEstado": 1,
+                "totalIngresos": 18000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 229360,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CAMANA-JOSE MARIA QUIMPER- MZ C1 LOTE 3    SECTOR EL PUENTE - CENTRO POBLADO EL PUENTE - HUACAPUY",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "55176330",
+                "fichaTomoSunarp": null,
+                "autovaluo": 80.0,
+                "idHojaVida": 222661,
+                "idEstado": 1,
+                "flValor": "20000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 136536,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "04312-2021 JUZGADO DE PAZ LETRADO",
+            "txOrganoJuridicialObliga": "JUZGADO DE PAZ LETRADO EL PEDREGAL MAJES",
+            "txFalloObliga": "SE RESUELVE DECLARAR FUNDADA EN PARTE LA DEMANDA",
+            "idEstado": 1,
+            "idHojaVida": 222661,
+            "txComentario": null
+        }
+    ]
+}

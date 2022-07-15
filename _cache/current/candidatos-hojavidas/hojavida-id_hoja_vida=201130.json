@@ -1,0 +1,168 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 201130.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "31310131",
+        "nombres": "GILBERTO",
+        "apellidoPaterno": "PACCO",
+        "apellidoMaterno": "ZANABRIA",
+        "sexo": "1",
+        "feNacimiento": "05/12/1970",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "030407",
+        "naciDepartamento": "APURIMAC",
+        "naciProvincia": "ANTABAMBA",
+        "naciDistrito": "SABAINO",
+        "ubigeoDomicilio": "030407",
+        "domiDepartamento": "APURIMAC",
+        "domiProvincia": "ANTABAMBA",
+        "domiDistrito": "SABAINO",
+        "domicilioDirecc": "CALLE PRINCIPAL S/N",
+        "ubigeoPostula": "030407",
+        "postulaDepartamento": "APURIMAC",
+        "postulaProvincia": "ANTABAMBA",
+        "postulaDistrito": "SABAINO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/201130.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 12:02:39",
+        "txGuidFormatoHojaVida": "43a8a669-9f06-423b-84dc-9c404669aab2",
+        "idSolicitudLista": 31650.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 187511,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "SABAINO",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE MUNICIPAL S/N",
+            "anioTrabajoDesde": "1988",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "030407",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "APURIMAC",
+            "trabajoProvincia": "ANTABAMBA",
+            "trabajoDistrito": "SABAINO",
+            "idHojaVida": 201130,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 165136,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 201130,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 141959,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "HERMILIGINDO MIRANDA SEGOVIA -ANTABAMBA",
+                "carreraTecnico": "AGROPECUARIO",
+                "concluidoEduTecnico": "2",
+                "idHojaVida": 201130,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 156679,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 1200.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 201130,
+                "idEstado": 1,
+                "totalIngresos": 1200.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 197850,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 2,
+                "tipoBienInmueble": "TERRENO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "20 DE AGOSTA",
+                "comentario": "HERENCIA",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 201130,
+                "idEstado": 1,
+                "flValor": "10000"
+            },
+            {
+                "idHvBienInmueble": 197837,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CALLE MIUNICIPAL",
+                "comentario": "HERENCIA",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 201130,
+                "idEstado": 1,
+                "flValor": "8000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

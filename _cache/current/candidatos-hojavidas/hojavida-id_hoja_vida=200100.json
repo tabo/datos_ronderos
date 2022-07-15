@@ -1,0 +1,134 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 200100.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44489172",
+        "nombres": "YOVANA SONIA",
+        "apellidoPaterno": "FERNANDEZ",
+        "apellidoMaterno": "CARDENAS",
+        "sexo": "2",
+        "feNacimiento": "18/01/1985",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040301",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "CAMANA",
+        "naciDistrito": "CAMANA",
+        "ubigeoDomicilio": "040308",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "CAMANA",
+        "domiDistrito": "SAMUEL PASTOR",
+        "domicilioDirecc": "ASENT.H. TALLER HUACO MZ.B LT.12",
+        "ubigeoPostula": "040308",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "CAMANA",
+        "postulaDistrito": "SAMUEL PASTOR",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/200100.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 22:03:21",
+        "txGuidFormatoHojaVida": "56b2d2e6-c69d-4c56-9a77-a7a3b706f212",
+        "idSolicitudLista": 31515.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 231227,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "OBRERA DE CAMPO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SAMUEL PASTOR",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "040308",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "CAMANA",
+            "trabajoDistrito": "SAMUEL PASTOR",
+            "idHojaVida": 200100,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 204120,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 200100,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 185881,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 12000.0,
+                "idHojaVida": 200100,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 232472,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "AAHH TALLER HUACO B-12",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 50000.0,
+                "idHojaVida": 200100,
+                "idEstado": 1,
+                "flValor": "50000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

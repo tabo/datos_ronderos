@@ -1,0 +1,149 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 231124.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43675764",
+        "nombres": "YENI LUZ",
+        "apellidoPaterno": "PAUCCARA",
+        "apellidoMaterno": "SUCA DE APAZA",
+        "sexo": "2",
+        "feNacimiento": "10/06/1986",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "070204",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "ACOMAYO",
+        "naciDistrito": "POMACANCHI",
+        "ubigeoDomicilio": "070204",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "ACOMAYO",
+        "domiDistrito": "POMACANCHI",
+        "domicilioDirecc": "COMUNIDAD SAN JUAN",
+        "ubigeoPostula": "070204",
+        "postulaDepartamento": "CUSCO",
+        "postulaProvincia": "ACOMAYO",
+        "postulaDistrito": "POMACANCHI",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/231124.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 06:29:56",
+        "txGuidFormatoHojaVida": "28cf4741-ede2-4348-baf5-9c816580f8d2",
+        "idSolicitudLista": 35275.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 195792,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 231124,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 141297,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 2360,
+                "orgPolCargoPartidario": "MOVIMIENTO REGIONAL O DEPARTAMENTAL MOVIMIENTO ETNOCACERISTA REGIONAL DEL CUSCO",
+                "cargoPartidario": "MIEMBRO DEL COMITÉ REGIÓN CUSCO, PROVINCIA ACOMAYO, DISTRITO POMACANCHI",
+                "anioCargoPartiDesde": "2010",
+                "anioCargoPartiHasta": "2011",
+                "idHojaVida": 231124,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 157996,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1415,
+            "orgPolRenunciaOp": "MOVIMIENTO ETNOCACERISTA REGIONAL DEL CUSCO",
+            "anioRenunciaOp": "2011",
+            "idHojaVida": 231124,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 143429,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "- CUENTO CON TERRENOS COMUNALES EN USUFRUCTUO CON EXTENSIÓN DE 5000 METROS CUADRADOS",
+            "idHojaVida": 231124,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 179663,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 12000.0,
+                "idHojaVida": 231124,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 224034,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA DE ADOBE",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "COMUNIDAD CAMPESINA DE SAN JUAN - POMACANCHI",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 231124,
+                "idEstado": 1,
+                "flValor": "30000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

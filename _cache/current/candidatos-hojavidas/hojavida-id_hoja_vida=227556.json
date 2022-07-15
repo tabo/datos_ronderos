@@ -1,0 +1,160 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 227556.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "71204215",
+        "nombres": "MARIA",
+        "apellidoPaterno": "CUSIPAUCAR",
+        "apellidoMaterno": "LAURA",
+        "sexo": "2",
+        "feNacimiento": "06/10/1994",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "071305",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "URUBAMBA",
+        "naciDistrito": "MARAS",
+        "ubigeoDomicilio": "071305",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "URUBAMBA",
+        "domiDistrito": "MARAS",
+        "domicilioDirecc": "KACLLARACAY MARAS",
+        "ubigeoPostula": "071305",
+        "postulaDepartamento": "CUSCO",
+        "postulaProvincia": "URUBAMBA",
+        "postulaDistrito": "MARAS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/227556.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 08:01:21",
+        "txGuidFormatoHojaVida": "aba5e769-0857-4d3e-813e-33c143afdce1",
+        "idSolicitudLista": 34864.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 233349,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "COMUNIDAD KACLLARACAY",
+            "ocupacionProfesion": "AGRICULTORA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "KAJLLARACAY S/N",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "071305",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CUSCO",
+            "trabajoProvincia": "URUBAMBA",
+            "trabajoDistrito": "MARAS",
+            "idHojaVida": 227556,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 205905,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 227556,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 145261,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "TRABAJO LOS TERRENOS DE MI PADRE",
+            "idHojaVida": 227556,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 187295,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 6000.0,
+                "idHojaVida": 227556,
+                "idEstado": 1,
+                "totalIngresos": 6000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 232137,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "SECCION ESPECIAL DE PREDIOS RURALES",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "        POROY - CUSCO - CUSCO",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "02049391",
+                "fichaTomoSunarp": null,
+                "autovaluo": 30.0,
+                "idHojaVida": 227556,
+                "idEstado": 1,
+                "flValor": "20000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 192426,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "56063A ",
+                "valor": 2000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO TAXI DE SEGUNDO USO",
+                "comentario": null,
+                "idHojaVida": 227556,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,140 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 151313.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42581232",
+        "nombres": "ALICIA",
+        "apellidoPaterno": "SALAS",
+        "apellidoMaterno": "CARBAJAL",
+        "sexo": "2",
+        "feNacimiento": "28/08/1984",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "030101",
+        "naciDepartamento": "APURIMAC",
+        "naciProvincia": "ABANCAY",
+        "naciDistrito": "ABANCAY",
+        "ubigeoDomicilio": "030107",
+        "domiDepartamento": "APURIMAC",
+        "domiProvincia": "ABANCAY",
+        "domiDistrito": "PICHIRHUA",
+        "domicilioDirecc": "COMUNIDAD CAMPESINA AUQUIBAMBA",
+        "ubigeoPostula": "030107",
+        "postulaDepartamento": "APURIMAC",
+        "postulaProvincia": "ABANCAY",
+        "postulaDistrito": "PICHIRHUA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/151313.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 4.0,
+        "organizacionPolitica": "ACCION POPULAR",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 15:31:04",
+        "txGuidFormatoHojaVida": "14cd3ae6-61e8-498c-91b1-c4393dfb5b0d",
+        "idSolicitudLista": 24954.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 249873,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AUQUIBAMBA",
+            "anioTrabajoDesde": "2012",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "030107",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "APURIMAC",
+            "trabajoProvincia": "ABANCAY",
+            "trabajoDistrito": "PICHIRHUA",
+            "idHojaVida": 151313,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 221368,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 151313,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 166687,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 14,
+            "orgPolRenunciaOp": "PARTIDO DEMOCRATICO SOMOS PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 151313,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 199228,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 8000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 151313,
+                "idEstado": 1,
+                "totalIngresos": 8000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 201321,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "B7Y846 ",
+                "valor": 150000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "SUSUKI, COLOR ROJO CELESTE",
+                "comentario": null,
+                "idHojaVida": 151313,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,128 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 208593.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "22456286",
+        "nombres": "CLEVER",
+        "apellidoPaterno": "CORNE",
+        "apellidoMaterno": "FIGUEREDO",
+        "sexo": "1",
+        "feNacimiento": "26/05/1965",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "090108",
+        "naciDepartamento": "HUANUCO",
+        "naciProvincia": "HUANUCO",
+        "naciDistrito": "SANTA MARIA DEL VALLE",
+        "ubigeoDomicilio": "090103",
+        "domiDepartamento": "HUANUCO",
+        "domiProvincia": "HUANUCO",
+        "domiDistrito": "CHURUBAMBA",
+        "domicilioDirecc": "ANEXO DE SAN JUAN DE CHOGUECALLA",
+        "ubigeoPostula": "090103",
+        "postulaDepartamento": "HUANUCO",
+        "postulaProvincia": "HUANUCO",
+        "postulaDistrito": "CHURUBAMBA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/208593.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 18:07:40",
+        "txGuidFormatoHojaVida": "218e9243-24f7-4400-8098-3fc0a9f3e5ba",
+        "idSolicitudLista": 32594.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 173060,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SAN JUAN DE CHOGUECALLA",
+            "anioTrabajoDesde": "2016",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "090103",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "HUANUCO",
+            "trabajoProvincia": "HUANUCO",
+            "trabajoDistrito": "CHURUBAMBA",
+            "idHojaVida": 208593,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 151743,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 208593,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 146994,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 8400.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 208593,
+                "idEstado": 1,
+                "totalIngresos": 8400.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 158960,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "76754W ",
+                "valor": 10000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "NEGRO",
+                "comentario": null,
+                "idHojaVida": 208593,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

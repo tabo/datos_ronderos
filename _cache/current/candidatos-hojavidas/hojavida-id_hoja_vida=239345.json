@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 239345.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "25328649",
+        "nombres": "ALFREDO",
+        "apellidoPaterno": "MORMONTOY",
+        "apellidoMaterno": "PINO",
+        "sexo": "1",
+        "feNacimiento": "22/07/1974",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "071307",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "URUBAMBA",
+        "naciDistrito": "YUCAY",
+        "ubigeoDomicilio": "071307",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "URUBAMBA",
+        "domiDistrito": "YUCAY",
+        "domicilioDirecc": "PROLONG.GARCILAZO S/N",
+        "ubigeoPostula": "071307",
+        "postulaDepartamento": "CUSCO",
+        "postulaProvincia": "URUBAMBA",
+        "postulaDistrito": "YUCAY",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/239345.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 153.0,
+        "organizacionPolitica": "AUTOGOBIERNO AYLLU",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 16:23:56",
+        "txGuidFormatoHojaVida": "087e9670-8177-44b0-b4e6-9eaf31ec6944",
+        "idSolicitudLista": 36238.0,
+        "txComentario": "TODO CONFORME"
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 185295,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "EMPRESA PRIVADA INMOBILIARIA DE TURISMO S.A",
+            "ocupacionProfesion": "ADMINISTRADOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "PLAZA MANCO SEDUNDO N°123 YUCAY",
+            "anioTrabajoDesde": "2000",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "071307",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CUSCO",
+            "trabajoProvincia": "URUBAMBA",
+            "trabajoDistrito": "YUCAY",
+            "idHojaVida": 239345,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 163169,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 239345,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 156525,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD NACIONAL SAN ANTONIO ABAD DEL CUSCO",
+                "carreraUni": "LICENCIADO EN ADMINISTRACION DE EMPRESA",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2008",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 155203,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 24000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 239345,
+                "idEstado": 1,
+                "totalIngresos": 24000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 196024,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "SECCION ESPECIAL DE PREDIOS RURALES",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "UBICACION RURAL PREDIO DENOMINADO PUCAPAMPA NUM 03590     YUCAY - URUBAMBA - CUSCO",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "05002578",
+                "fichaTomoSunarp": null,
+                "autovaluo": 65.0,
+                "idHojaVida": 239345,
+                "idEstado": 1,
+                "flValor": "190000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

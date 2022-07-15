@@ -1,0 +1,115 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 17435,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2680,
+        "txOrganizacionPolitica": "MOVIMIENTO REGIONAL SIERRA Y SELVA CONTIGO JUNIN",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/1b41ae1f-6b88-4e59-b9f7-2c6d5c70005d.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/6a31a83e-4b2c-4db9-b2e1-ab99d79eab97.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 173971,
+            "txPgProblema": "DEFICIENTE NIVEL DE APRENDIZAJE EN ESTUDIANTES EL NIVEL PRIMARIA Y SECUNDARIA",
+            "txPgObjetivo": "MEJORAR EL NIVEL DE APRENDIZAJE EN LOS ESTUDIANTES DE\nPRIMARIA Y SECUNDARIA, IMPLEMENTANDO LA TECNOLOGÍA (INTERNET, RETROPROYECTORES), CHARLAS MOTIVACIONALES CON PROFESIONALES",
+            "txPgIndicador": "% DE COMPRENSIÓN LECTORA Y LÓGICO MATEMÁTICO",
+            "txPgMeta": "PORCENTAJE DE COMPRENSIÓN LECTORA SUPERIOR AL 45 % Y LÓGICO MATEMÁTICO SUPERIOR AL 55 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 174007,
+            "txPgProblema": "LAS INFRAESTRUCTURAS EDUCATIVAS DE NUESTRO DISTRITO SE ENCUENTRAN DETERIORADOS POR LOS AÑOS DE VIDA QUE CUENTA",
+            "txPgObjetivo": "REMODELAR O REFACCIONAR LA INFRAESTRUCTURA EDUCATIVA QUE AMERITEN PARA LA COMODIDAD DE LOS ESTUDIANTES.",
+            "txPgIndicador": "% DE INFRAESTRUCTUR A EN BUEN ESTADO",
+            "txPgMeta": "INFRAESTRUCTURA EDUCATIVA EN ESTADO ÓPTIMO MAYOR AL 45 % A NIVEL DEL DISTRITO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 174040,
+            "txPgProblema": "DESNUTRICIÓN INFANTIL EN MENORES DE CINCO AÑOS Y POBLACIÓN VULNERABLE",
+            "txPgObjetivo": "GESTIONAR JORNADAS DE SALUD INTEGRAL EN COORDINACIÓN CON EL MINISTERIO DE SALUD, PARA EL TRATAMIENTO OPORTUNO",
+            "txPgIndicador": "% DE INFRAESTRUCTURA EN BUEN ESTADO",
+            "txPgMeta": "INFRAESTRUCTURA EDUCATIVA EN ESTADO ÓPTIMO MAYOR AL 45 % A NIVEL DEL DISTRITO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 174067,
+            "txPgProblema": "BAJA PRODUCTIVIDAD EN LOS CULTIVOS TEMPORALES Y PERMANENTES COMO CAFÉ, CACO, PLÁTANOS A FALTA DE TECNOLOGÍA\nAGRARIA",
+            "txPgObjetivo": "MEJORA\tEN\tLA PRODUCCIÓN AGRÍCOLA.",
+            "txPgIndicador": "RENDIMIENTO DE LOS CULTIVOS DEL DISTRITO",
+            "txPgMeta": "CULTIVOS AGRÍCOLAS CON RENDIMIENTOS SUPERIORES AL 50 % DE RENDIMIENTO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 174122,
+            "txPgProblema": "DEFICIENCIA EN LA PROMOCIÓN, MEJORAMIENTO Y CONSERVACIÓN DE LOS RECURSOS TURÍSTICOS",
+            "txPgObjetivo": "VÍAS DE COMUNICACIÓN CONSERVADAS ADECUADAMENTE.",
+            "txPgIndicador": "% DE CARRETERAS CONSERVADAS",
+            "txPgMeta": "MÁS DEL 60 % DE CARRETERAS CONSERVADAS ADECUADAMENTE.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 174155,
+            "txPgProblema": "DEFICIENTE PROMOCIÓN Y GENERACIÓN DE EMPLEO.",
+            "txPgObjetivo": "MAYORES POSIBILIDADES DE EMPLEO PARA LA POBLACIÓN DE COVIRIALI.",
+            "txPgIndicador": "CANTIDAD DE RECURSOS TURÍSTICOS CON SERVICIOS",
+            "txPgMeta": "55 % DE LOS RECURSOS TURÍSTICOS CON SERVICIOS Y ACCESOS ADECUADOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 174175,
+            "txPgProblema": "TALA DE ARBOLES",
+            "txPgObjetivo": "RECUPERACIÓN DE LA FLORA Y FAUNA EN EL DISTRITO DE COVIRIALI",
+            "txPgIndicador": "% DE POBLACIÓN CON PRÁCTICAS DE CONSERVACIÓN AMBIENTAL",
+            "txPgMeta": "MÁS DEL 50 % DE LA POBLACIÓN DEL DISTRITO CON PRÁCTICAS DE CONSERVACIÓN AMBIENTAL",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 174202,
+            "txPgProblema": "RECURSOS HUMANOS EN LAS INSTITUCIONES PÚBLICAS CON CAPACIDADES INSUFICIENTES PARA UNA ADECUADA ATENCIÓN A LA CIUDADANÍA.",
+            "txPgObjetivo": "TRABAJADORES MUNICIPALES Y DE OTRAS INSTITUCIONES PÚBLICAS FORTALECIDOS Y CON CAPACIDADES",
+            "txPgIndicador": "% DE PERSONAL CON CAPACIDADES",
+            "txPgMeta": "MÁS DEL 70 % DE LOS TRABAJADORES CON CAPACIDADES FORTALECIDAS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 174222,
+            "txPgProblema": "EQUIPAMIENTO INSUFICIENTE DE MAQUINARIA PARA EL MANTENIMIENTO DE VÍAS DE ACCESO LOCAL DE LOS CENTROS POBLADOS",
+            "txPgObjetivo": "MAQUINARIA ÓPTIMA PARA ATENCIÓN A CENTROS POBLADOS",
+            "txPgIndicador": "CANTIDAD DE EQUIPO PESADO PARA ATENCIÓN DE CARRETERAS",
+            "txPgMeta": "01 POOL DE MAQUINARIA EN ESTADO ÓPTIMO PARA EL MANTENIMIENTO DE CARRETERAS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

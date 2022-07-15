@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 18237,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2857,
+        "txOrganizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1713,
+        "juradoElectoral": "PASCO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/6c5fbbe9-8409-4861-9cf4-9d607995e31a.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/c7298bdb-0781-4ff6-ab4b-a20046b53ba2.pdf",
+        "txCodExpedienteExt": "ERM.2022015565",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 182197,
+            "txPgProblema": "POBREZA EXTREMA",
+            "txPgObjetivo": "REFORZAMIENTO DE ORGANIZACIONES",
+            "txPgIndicador": "INCREMENTO DE ORGANZACIONES",
+            "txPgMeta": "DISMINUCIÓN DE ÍNDICE DE POBREZA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182228,
+            "txPgProblema": "FALTA DE SERVICIOS BÁSICOS",
+            "txPgObjetivo": "IMPULSAR PROYECTOS DE AGUA Y DESAGÜE",
+            "txPgIndicador": "SIN CONEXIONES DOMICILIARIAS",
+            "txPgMeta": "EJECUTAR PROYECTOS DE INVERSIÓN",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182272,
+            "txPgProblema": "CORRUPCIÓN ENDÉMICA",
+            "txPgObjetivo": "CREACIÓN DE CONTROL DE LUCHA",
+            "txPgIndicador": "PÉRDIDA DE CONFIANZA",
+            "txPgMeta": "ELIMINAR LA CORRUPCIÓN",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 182321,
+            "txPgProblema": "INESTABILIDAD ECONÓMICA",
+            "txPgObjetivo": "IMPLEMENTAR MEDIDAS PRESUPUESTALES",
+            "txPgIndicador": "INFLACIÓN",
+            "txPgMeta": "INCREMENTO PRESUPUESTAL",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182345,
+            "txPgProblema": "INEXISTENCIA DE TRABAJO",
+            "txPgObjetivo": "GENERACIÓN DE PUESTOS DE TRABAJO",
+            "txPgIndicador": "INCREMENTO DE POBREZA",
+            "txPgMeta": "IMPULSAR EL TRABAJO DIGNO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182378,
+            "txPgProblema": "DEFICIENTE CONECTIVIDAD",
+            "txPgObjetivo": "GENERAR INTERNET BANDA ANCHA",
+            "txPgIndicador": "INEXISTENCIA DE INTERNET",
+            "txPgMeta": "CONECTIVIDAD DIGITAL EN LA POBLACIÓN",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 182435,
+            "txPgProblema": "DEFICIENTE MANEJO DE RECURSOS HÍDRICOS",
+            "txPgObjetivo": "EVITAR DESECHOS PELIGROSOS Y DESAGÜE DIRECTOS A ESPEJOS DE AGUA",
+            "txPgIndicador": "CONTAMINACIÓN DE AGUAS",
+            "txPgMeta": "EFICIENTE ADMINISTRACIÓN DE RECURSOS HÍDRICOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182479,
+            "txPgProblema": "FALTA DE EDUCACIÓN AMBIENTAL",
+            "txPgObjetivo": "GARANTIZAR ACCESO A LA INFORMACIÓN DE PROTECCIÓN AMBIENTAL",
+            "txPgIndicador": "FALTA DE CONCIENTIZACIÓN",
+            "txPgMeta": "FOMENTAR LA EDUCACION AMBIENTAL",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182513,
+            "txPgProblema": "INCORRECTO MANEJO DE RESIDUOS",
+            "txPgObjetivo": "INCREMENTAR UN CORRECTO MANEJO DE RESIDUOS",
+            "txPgIndicador": "INCREMENTO DE BASURA",
+            "txPgMeta": "CORRECTO DE MANEJO DE RECURSOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 182556,
+            "txPgProblema": "DEFICIENTE MANEJO MUNICIPAL",
+            "txPgObjetivo": "BÚSQUEDA DE PRESUPUESTO ANTE GOBIERNO NACIONAL Y REGIONAL",
+            "txPgIndicador": "DESAPROVECHAMIENTO DE PRESUPUESTO",
+            "txPgMeta": "INCREMENTO DE PRESUPUESTO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182648,
+            "txPgProblema": "FALTA DE TRANSPARENCIA",
+            "txPgObjetivo": "IMPLEMENTAR MEJOR ACCESO A LA INFORMACIÓN",
+            "txPgIndicador": "MANIPULACIÓN DE INFORMACIÓN",
+            "txPgMeta": "FORTALECIMEINTO DEL GOBIERNO DIGITAL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182939,
+            "txPgProblema": "DEFICIENTE ORGANZIACIÓN",
+            "txPgObjetivo": "ELIMINAR BARRERAS BUROCRÁTICAS",
+            "txPgIndicador": "EXCESIVA BUROCRACIA",
+            "txPgMeta": "INDEMNIZACIÓN DEL ENTE LOCAL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

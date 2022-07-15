@@ -1,0 +1,158 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 193231.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "72140022",
+        "nombres": "MARISOL REGINA",
+        "apellidoPaterno": "QUISPE",
+        "apellidoMaterno": "VENTURA",
+        "sexo": "2",
+        "feNacimiento": "07/09/1993",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040101",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "AREQUIPA",
+        "naciDistrito": "AREQUIPA",
+        "ubigeoDomicilio": "040103",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "AREQUIPA",
+        "domiDistrito": "CERRO COLORADO",
+        "domicilioDirecc": "ASC SOR ANA DE LOS ANGELES ZONA II MZ E-4",
+        "ubigeoPostula": "040103",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "AREQUIPA",
+        "postulaDistrito": "CERRO COLORADO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/193231.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2898.0,
+        "organizacionPolitica": "FE EN EL PERU",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "17/06/2022 17:37:05",
+        "txGuidFormatoHojaVida": "3f36e8ab-ac1b-418e-9276-331b3e5b9dad",
+        "idSolicitudLista": 30632.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 258197,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "EXPENDIO DE ALIMENTOS",
+            "rucTrabajo": null,
+            "direccionTrabajo": "APIPA SECTOR 117 MZ 7 B LOTE 04",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "040103",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "AREQUIPA",
+            "trabajoDistrito": "CERRO COLORADO",
+            "idHojaVida": 193231,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 231139,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 193231,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 159199,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "II EPRO CASA CARIDAD",
+                "carreraTecnico": "CONFECCION TEXTIL",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 193231,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 144313,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "INSTITUTO DE FORMACION P",
+                "carreraNoUni": "CAJERO BANCARIO Y COMERCIAL",
+                "concluidoNoUni": "1",
+                "idHojaVida": 193231,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 206537,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 18000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 193231,
+                "idEstado": 1,
+                "totalIngresos": 18000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 250715,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "LOTE",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "APIPA SECTOR X 11 ZN B MZ B",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 40000.0,
+                "idHojaVida": 193231,
+                "idEstado": 1,
+                "flValor": "60000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

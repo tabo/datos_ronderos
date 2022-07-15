@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 17255,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1264,
+        "txOrganizacionPolitica": "JUNTOS POR EL PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1720,
+        "juradoElectoral": "RECUAY",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/2249d26f-f834-40fd-9876-1d71aadf8e7a.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/32f13e10-c1b0-4de5-837b-ca02f5b5cfaf.pdf",
+        "txCodExpedienteExt": "ERM.2022011864",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 135454,
+            "txPgProblema": "CARENCIA\tDE\tPERSONAL ESPECIALIZADO EN EL CENTRO DE SALUD",
+            "txPgObjetivo": "MEJORAR LA ATENCION MEDICA AL CIUDADANO",
+            "txPgIndicador": "NUMERO DE PACIENTES ATENDIDOS",
+            "txPgMeta": "MEJORAR LA ATENCION MEDICA EN EL CENTRO DE SALUD",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135482,
+            "txPgProblema": "DEFICIENTES SERVICIOS BÁSICOS AGUA, DESAGÜE.",
+            "txPgObjetivo": "MEJARAR LAS CONDICIONES DE VIDA DE\tLA POBLACION.",
+            "txPgIndicador": "PORCENTAJE DE HOGARES CON ACCESO A LOS SERVICIOS DE AGUA Y DESAGUE.",
+            "txPgMeta": "CONSTRUCCION Y MEJORAMIENTO\tDE SISTEMAS DE AGUA POTABLE Y ALCANTARILLADO A NIVEL DEL DISTRITO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135535,
+            "txPgProblema": "PRESENCIA DE UNA DESNUTRICIÓN CRÓNICA INFANTIL",
+            "txPgObjetivo": "REDUCIR LOS INDICES\tDE DESNUTRICION EN EL DISTRITO",
+            "txPgIndicador": "NUMERO DE NIÑOS SIN DESNUTRICION",
+            "txPgMeta": "REDUCIR LA DESNUTRICIÓN INFANTIL EN UN 15%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 135564,
+            "txPgProblema": "POCA INTERVENCIÓN DE LAS AUTORIDADES EN LA MEJORA DE LAS ACTIVIDADES COMERCIALES Y SU FORMALIZACION",
+            "txPgObjetivo": "BRINDAR CAPACITACION Y ASISTENCIA TECNICA A LOS PRODUCTORES",
+            "txPgIndicador": "PRODUCTORES CAPACITADOS\tY FORMALIZADOS",
+            "txPgMeta": "PROMOVER LA FORMALIZACION DE AGRICULTORES Y PRODUCTORES DEL DISTRITO E IMPULSAR LA EXPORTACION DE SUS PRODUCTOS AL MERCADO NACIONAL.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135573,
+            "txPgProblema": "LA DETERIORIDAD Y CARENCIA DE LOS MAESTROS ARTESANOS PARA SUBSISTENCIA DE NUESTRAS COSTUMBRES ARTESANALES.",
+            "txPgObjetivo": "BRINDAR EL APOYO Y CAPACITACION CON ASISTENCIA TECNICA A LOS PRODUCTORES.",
+            "txPgIndicador": "ARTESANOS CAPACITADOS Y FORMALIZADOS A NIVEL DISTRITO.",
+            "txPgMeta": "PROMOVER LA FORMALIZACION DE ARTESANOS DEL DISTRITO CON UN LOCAL ADECUADO A LAS DIFERENTES ESPECIALIDADES.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135586,
+            "txPgProblema": "FALTA DE RECURSOS HIDRICOS Y INFRAESTRUCTURA DE RIEGO",
+            "txPgObjetivo": "MEJORARAMIENTO DE INFRAESTRUCTURA DE RIEGO",
+            "txPgIndicador": "NUEMEROS DE CANALES Y\tRESERVORIOS CONSTRUIDOS",
+            "txPgMeta": "-\tCONSTRUCCION DE RERSERVORIO Y CANALES DE RIEGO.\n\n-\tCREACION DE SISTEMAS DE RIEGO TECNIFICADO.\n\n-\tSE HARÁ PRIORIDAD LA CONSTRUCCIÓN DE CANALES Y RESERVORIOS DE ACUERDO A SUS NECESIDADES.\n\n-\tAMPLIACIÓN DE LA FRONTERA AGRÍCOLA PROMOVIENDO EL CULTIVO Y OTROS SEGÚN LAS BONDADES DE LOS PISOS ECOLOGICOS Y CLIMA.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 135612,
+            "txPgProblema": "AUSENCIA DE UN PLAN ESTRETEGICO PARA REDUCIR LA CONTAMINACION AMBIENTAL",
+            "txPgObjetivo": "MEJORAR LA CALIDAD\tDEL AMBIENTE EN EL DISTRITO Y ANEXOS.",
+            "txPgIndicador": "PORCENTAJE\t DE RESIDUOS SOLIDOS PROCESADOS.",
+            "txPgMeta": "80\t%\tDE\tRESIDUOS\tSOLIDOS PROCESADOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135626,
+            "txPgProblema": "LIMITADA\tCULTURA\tDE PREVENCIÓN EN GESTIÓN DE RIESGOS DE DESASTRES",
+            "txPgObjetivo": "PROTECCION DE LA POBLACION Y SUS MEDIOS DE VIDA FRENTA A PELIGROS DE\tORIGINAL NATURAL",
+            "txPgIndicador": "PORCENTAJE\tDE CAPACIDAD INSTALADA BASICA FRENTE A EMERGENCIAS\t\tY DESASTRES",
+            "txPgMeta": "-\tAUTORIDADES Y POBLACIÓN CAPACITADA EN GESTIÓN DE RIESGOS.\n\n-\tGESTIONAR PROYECTOS DE PREVENCION Y MITIGACION DE RIESGOS A NIVEL DEL DISTRITO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135641,
+            "txPgProblema": "CARRETERAS Y VÍAS DE ACCESO EN MAL ESTADO",
+            "txPgObjetivo": "CONTAR\tCON CARRETERAS Y VIAS DE ACCESO",
+            "txPgIndicador": "KILOMETROS\tDE CARRETERAS CONSTRUIDAS.\n\nNUMERO DE CARRETERAS\tCON MANTENIMIENTO.",
+            "txPgMeta": "CONSTRUCCION DE CARRETERAS Y MEJORAMIENTO DE LOS EXISTENTES, PARA INTEGRAR DEL CENTROSPOBLADO Y ANEXOS DEL DISTRITO.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 135660,
+            "txPgProblema": "FALTA DE COORDINACIÓN MULTISECTORIAL ENTRE INSTITUCIONES LOCALES E INTERDISTRITALES EN EL MARCO DE SEGURIDAD CIUDADANA",
+            "txPgObjetivo": "REDUCIR LOS INDICEES DE INSEGUIRAD CIUDADANA",
+            "txPgIndicador": "PORCENTAJE DE AVANCE EN CUMPLIMINETO DEL PPLAN ANUAL DE SEGURIAD CIUDADANA",
+            "txPgMeta": "EJECUTAR AUDIENCIAS PÚBLICAS\n\nFORTALECER LA SEGURIDAD CIUDADANA EN EL AMBITO DISTRITAL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135669,
+            "txPgProblema": "FALTA VOLUNTAD DEL PERSONAL ADMINISTRATIVO Y FUNCIONARIOS\tDE\tLA MUNICIPALIDAD PARA LLEVAR UN TRABAJO COORDINADO Y CUMPLIMIENTO DE METAS Y HORAS EFECTIVAS",
+            "txPgObjetivo": "FORTALECER LA CAPACIDAD DEL SERVIDOR Y TRABAJADOR MUNICIPAL",
+            "txPgIndicador": "PORCENTAJE DE TRABAJDORES CAPACITADOS",
+            "txPgMeta": "ELABORACIÓN DE REGLAMENTOS CLAROS Y PRECISOS Y CAPACITACIÓN DIRIGIDA AL PERSONAL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135683,
+            "txPgProblema": "ESCASA PRÁCTICA DE VALORES, DE\tTRABAJADORES Y FUNCIONARIOS MUNICIPALES",
+            "txPgObjetivo": "CONTAR CON FUNCIONARIOS INTEGROS Y AL SERVICIO DE LA POBLACION",
+            "txPgIndicador": "PORCENTAJE DENUNCIAS REPORTADAS\tCONTRA FUNCIONARIOS DE LA MUNICIPALIDAD",
+            "txPgMeta": "IMPLEMENTAR MODULOS PARA LA SEGURIDAD CIUDADANA EN EL DISTRITO DE TICAPAMPA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

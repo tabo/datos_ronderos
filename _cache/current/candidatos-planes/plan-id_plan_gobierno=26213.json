@@ -1,0 +1,115 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 26213,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1683,
+        "juradoElectoral": "HUARI",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/d8484617-53fc-4e37-b843-1c4208ac1b10.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/5d95d284-4116-4a41-96ec-76fe44737c31.pdf",
+        "txCodExpedienteExt": "ERM.2022009140",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 142315,
+            "txPgProblema": "AÑOS DE EDAD SE ENCUENTRA EN\nSITUACIÓN DE DESNUTRICIÓN\nCRÓNICA",
+            "txPgObjetivo": "REDUCIR EL PORCENTAJE DE\nDESNUTRICIÓN CRÓNICA\nINFANTIL EN NIÑOS\nMENORES DE 5 AÑOS",
+            "txPgIndicador": "PORCENTAJE DE\nNIÑOS EN\nSITUACIÓN DE\nDESNUTRICIÓN\nCRÓNICA",
+            "txPgMeta": "REDUCIR A 10% EL NIVEL DE\nDESNUTRICIÓN CRÓNICA INFANTIL\nEN NIÑOS MENORES DE 5 AÑOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 142381,
+            "txPgProblema": "57.00% DE NIÑOS MENORES DE\n3 AÑOS DE EDAD SE ENCUENTRA\nEN SITUACIÓN DE ANEMIA",
+            "txPgObjetivo": "REDUCIR EL PORCENTAJE DE\nANEMIA INFANTIL EN NIÑOS\nMENORES DE 3 AÑOS",
+            "txPgIndicador": "PORCENTAJE DE\nNIÑOS EN\nSITUACIÓN DE\nANEMIA",
+            "txPgMeta": "REDUCIR A 20 % EL NIVEL DE\nDESNUTRICIÓN ANEMIA EN\nNIÑOS MENORES DE 3 AÑOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 142396,
+            "txPgProblema": "53.9 % DE BRECHA DE SERVICIOS\nHIGIÉNICOS DENTRO DE LA\nVIVIENDA",
+            "txPgObjetivo": "AMPLIAR LA COBERTURA DE\nACCESO A SERVICIOS\nHIGIÉNICOS DENTRO DE LA\nVIVIENDA",
+            "txPgIndicador": "NÚMERO DE\nVIVIENDAS CON\nACCESO A\nSERVICIOS\nHIGIÉNICOS\nDENTRO DE LAS\nVIVIENDAS",
+            "txPgMeta": "80% DE COBERTURA DE ACCESO\nA SERVICIOS HIGIÉNICOS\nDENTRO DE LA VIVIENDA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 142429,
+            "txPgProblema": "ACTIVIDADES ECONÓMICAS\nAGROPECUARIAS CON ESCASA\nCAPACIDAD TÉCNICA Y\nDESARTICULADOS CON EL\nMERCADO COMPETITIVO",
+            "txPgObjetivo": "PROMOVER LA\nCOMPETITIVIDAD\nECONÓMICA EN BASE A LA\nAGRICULTURA Y GANADERÍA",
+            "txPgIndicador": "NÚMERO DE\nAGENTES\nECONÓMICOS\nARTICULADOS AL\nMERCADO\nEXTERNO",
+            "txPgMeta": "2 CADENAS PRODUCTIVAS\nAGROPECUARIAS.\n02 AGENTES ECONÓMICOS\nORGANIZADOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 142513,
+            "txPgProblema": "PRODUCTORES AGROPECUARIOS\nSIN SERVICIO DE ASISTENCIA\nTÉCNICA",
+            "txPgObjetivo": "MEJORAR LAS CAPACIDADES\nTÉCNICAS DE LOS\nPRODUCTORES\nAGROPECUARIOS",
+            "txPgIndicador": "NÚMERO DE\nPRODUCTORES\nAGROPECUARIOS\nCON ACCESO A\nSERVICIO DE\nASISTENCIA\nTÉCNICA",
+            "txPgMeta": "2 CONVENIOS CON EL INSTITUTO\nNACIONAL DE INNOVACIÓN\nAGRARIA (INIA)\n2 CONVENIOS CON LA\nUNIVERSIDAD AGRARIA LA\nMOLINA",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 142449,
+            "txPgProblema": "DÉFICIT DE RECURSOS HÍDRICOS,\nPRINCIPALMENTE PARA LAS\nACTIVIDADES PRODUCTIVAS\nAGROPECUARIAS",
+            "txPgObjetivo": "IMPLEMENTAR PROYECTOS\nDE SIEMBRA Y COSECHA\nDE AGUA, EN LAS\nCABECERAS DE LAS\nMICROCUENCAS, EN EL\nMARCO DEL PROGRAMA\nNACIONAL SIERRA AZUL DEL\nMINISTERIO DE\nAGRICULTURA Y RIEGO",
+            "txPgIndicador": "NÚMERO DE M3\nDE AGUA\nALMACENADAS\nCON FINES DE\nRECARGA HÍDRICA",
+            "txPgMeta": "10 PROYECTOS DE SIEMBRA Y\nCOSECHA DE AGUA EN\nMICROCUENCAS PARA\nALMACENAMIENTO DE\n2, 500,000 M3 DE AGUA.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 142499,
+            "txPgProblema": "CONTAMINACIÓN CON RESIDUOS\nSÓLIDOS, EN EL ÁMBITO URBANO Y\nRURAL.",
+            "txPgObjetivo": "REDUCIR LOS ÍNDICES DE\nCONTAMINACIÓN\nAMBIENTAL POR RESIDUOS\nSOLIDOS",
+            "txPgIndicador": "PORCENTAJE DE\nCOBERTURA DEL\nSERVICIO DE\nRECOLECCIÓN DE\nRESIDUOS SOLIDOS",
+            "txPgMeta": "01 PLAN DE MANEJO DE\nRESIDUOS SÓLIDOS, EN EL\nMARCO DE LA POLÍTICA DEL\nMINISTERIO DEL AMBIENTE",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 142461,
+            "txPgProblema": "IMITADO CONOCIMIENTO EN LA\nADMINISTRACIÓN Y CONTROL DE LA\nGESTIÓN PÚBLICA, TANTO EN LOS\nAPARATOS POLÍTICO,\nADMINISTRATIVO Y TÉCNICO",
+            "txPgObjetivo": "ELEVAR LAS CAPACIDADES\nINSTITUCIONALES DE LA\nMUNICIPALIDAD, CON LA\nFINALIDAD DE POTENCIAR\nSUS CAPACIDADES PARA LA\nGESTIÓN DE PLANES,\nPROGRAMAS Y PROYECTOS.",
+            "txPgIndicador": "NUMERO DE\nCAPACITACIONES\nREALIZADAS\nNÚMERO DE\nPASANTÍAS\nREALIZADAS",
+            "txPgMeta": "3 CURSOS DE CAPACITACIÓN EN\nGESTIÓN PÚBLICA.\n3 PASANTÍAS A MUNICIPIOS\nEMPRENDEDORES Y\nPRODUCTIVOS.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 142474,
+            "txPgProblema": "FALTA DE INSTRUMENTOS Y\nDOCUMENTOS DE GESTIÓN\nMUNICIPAL",
+            "txPgObjetivo": "FORMULAR LOS\nINSTRUMENTOS DE GESTIÓN\nEN EL MARCO DE LA POLÍTICA\nY LINEAMIENTOS DEL\nCENTRO NACIONAL DE\nPLANEAMIENTO\nESTRATÉGICO-CEPLAN",
+            "txPgIndicador": "NUMERO DE\nINSTRUMENTOS DE\nGESTIÓN\nACTUALIZADAS Y/O\nFORMULADAS,",
+            "txPgMeta": "1 PLAN DE DESARROLLO\nCONCERTADO ACTUALIZADO -\nPDC\n1 PLAN ESTRATÉGICO\nINSTITUCIONAL\n1 PLAN OPERATIVO\nINSTITUCIONAL\n1 ESTRUCTURA ORGÁNICA\nMUNICIPAL REESTRUCTURADA.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

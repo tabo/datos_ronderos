@@ -1,0 +1,155 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 218901.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "21136734",
+        "nombres": "BERTHA HAYDEE",
+        "apellidoPaterno": "CHAGUA",
+        "apellidoMaterno": "PAREDES",
+        "sexo": "2",
+        "feNacimiento": "10/04/1974",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110504",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "TARMA",
+        "naciDistrito": "HUASAHUASI",
+        "ubigeoDomicilio": "110504",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "TARMA",
+        "domiDistrito": "HUASAHUASI",
+        "domicilioDirecc": "JR.24 DE JUNIO S/N",
+        "ubigeoPostula": "110504",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "TARMA",
+        "postulaDistrito": "HUASAHUASI",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/218901.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 20:10:07",
+        "txGuidFormatoHojaVida": "60b9fb1f-24e3-409a-b883-b609a71e0160",
+        "idSolicitudLista": 33868.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 230226,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "COMERCIANTE",
+            "rucTrabajo": "10211367348",
+            "direccionTrabajo": "JR SAN JUAN",
+            "anioTrabajoDesde": "2016",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "110504",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "TARMA",
+            "trabajoDistrito": "HUASAHUASI",
+            "idHojaVida": 218901,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 203157,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 218901,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 141881,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 4,
+                "orgPolCargoPartidario": "PARTIDO POLÍTICO ACCION POPULAR",
+                "cargoPartidario": "AFILIADA",
+                "anioCargoPartiDesde": "2009",
+                "anioCargoPartiHasta": "2021",
+                "idHojaVida": 218901,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 160547,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 4,
+            "orgPolRenunciaOp": "ACCION POPULAR",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 218901,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 185239,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 50000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 218901,
+                "idEstado": 1,
+                "totalIngresos": 50000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 190858,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "V6I918 ",
+                "valor": 25000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMIONETA 4X4 NISSAN PLATA METALICO",
+                "comentario": null,
+                "idHojaVida": 218901,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

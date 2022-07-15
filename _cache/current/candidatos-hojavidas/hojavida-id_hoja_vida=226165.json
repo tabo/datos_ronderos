@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 226165.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43116217",
+        "nombres": "RAYDA",
+        "apellidoPaterno": "DIAZ",
+        "apellidoMaterno": "ARIAS",
+        "sexo": "2",
+        "feNacimiento": "11/08/1985",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "030705",
+        "naciDepartamento": "APURIMAC",
+        "naciProvincia": "CHINCHEROS",
+        "naciDistrito": "ANCO HUALLO",
+        "ubigeoDomicilio": "030101",
+        "domiDepartamento": "APURIMAC",
+        "domiProvincia": "ABANCAY",
+        "domiDistrito": "ABANCAY",
+        "domicilioDirecc": "PACHACHACA ALTA KM 08",
+        "ubigeoPostula": "030000",
+        "postulaDepartamento": "APURIMAC",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/226165.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2737.0,
+        "organizacionPolitica": "PROGRESISTA DE APURIMAC",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "VICEGOBERNADOR REGIONAL"
+        ],
+        "txFeTerminoRegistro": "08/06/2022 09:46:48",
+        "txGuidFormatoHojaVida": "0f9afa16-8792-4824-86a7-f1c06074127f",
+        "idSolicitudLista": 34705.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 157914,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "COMERCIO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR. CHALHUANCA S/N",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "030101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "APURIMAC",
+            "trabajoProvincia": "ABANCAY",
+            "trabajoDistrito": "ABANCAY",
+            "idHojaVida": 226165,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 137922,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 226165,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 135404,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "LA SALLE",
+                "carreraNoUni": "INFORMATICA",
+                "concluidoNoUni": "1",
+                "idHojaVida": 226165,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 136140,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 2737,
+                "orgPolCargoPartidario": "PROGRESISTA DE APURIMAC",
+                "cargoPartidario": "TESORERO TITULAR",
+                "anioCargoPartiDesde": "2017",
+                "anioCargoPartiHasta": "HASTA LA ACTUALIDAD",
+                "idHojaVida": 226165,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 137066,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 21600.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 226165,
+                "idEstado": 1,
+                "totalIngresos": 21600.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 134528,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 18,
+            "txMateriaSentencia": "VIOLENCIA FAMILIAR",
+            "txExpedienteObliga": "00637-2015-FC",
+            "txOrganoJuridicialObliga": "PODER JUDICIAL DE APURIM",
+            "txFalloObliga": "REPARACION CIVIL",
+            "idEstado": 1,
+            "idHojaVida": 226165,
+            "txComentario": null
+        }
+    ]
+}

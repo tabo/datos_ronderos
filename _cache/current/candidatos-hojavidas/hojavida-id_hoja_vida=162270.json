@@ -1,0 +1,158 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 162270.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43352015",
+        "nombres": "ABELARDO",
+        "apellidoPaterno": "TOLENTINO",
+        "apellidoMaterno": "LIBERATO",
+        "sexo": "1",
+        "feNacimiento": "02/01/1986",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "091106",
+        "naciDepartamento": "HUANUCO",
+        "naciProvincia": "YAROWILCA",
+        "naciDistrito": "OBAS",
+        "ubigeoDomicilio": "091106",
+        "domiDepartamento": "HUANUCO",
+        "domiProvincia": "YAROWILCA",
+        "domiDistrito": "OBAS",
+        "domicilioDirecc": "CENTRO POBLADO MENOR DE HUALPAYUNCA",
+        "ubigeoPostula": "091106",
+        "postulaDepartamento": "HUANUCO",
+        "postulaProvincia": "YAROWILCA",
+        "postulaDistrito": "OBAS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/162270.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 13:32:01",
+        "txGuidFormatoHojaVida": "e852a4e9-3f6d-45d5-b3db-eb2959775ce7",
+        "idSolicitudLista": 26459.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 191137,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INSTITUCION EDUCATIVA GOMEZ ARIAS DÁVILA",
+            "ocupacionProfesion": "DOCENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. ENRIQUE PIMENTEL",
+            "anioTrabajoDesde": "2018",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "090601",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "HUANUCO",
+            "trabajoProvincia": "LEONCIO PRADO",
+            "trabajoDistrito": "RUPA-RUPA",
+            "idHojaVida": 162270,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 168375,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 162270,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 159215,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD NACIONAL HERMILIO VALDIZAN",
+                "carreraUni": "EGRESADO DE EDUCACIÓN PRIMARIA",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2008",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 148051,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 14,
+            "orgPolRenunciaOp": "PARTIDO DEMOCRATICO SOMOS PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 162270,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 163948,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 17182.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 162270,
+                "idEstado": 1,
+                "totalIngresos": 17182.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 169918,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "79081W ",
+                "valor": 2700.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": null,
+                "idHojaVida": 162270,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

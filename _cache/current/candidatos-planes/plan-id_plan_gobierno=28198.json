@@ -1,0 +1,125 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 28198,
+        "idTipoEleccion": 4,
+        "txTipoEleccion": "REGIONAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1733,
+        "juradoElectoral": "TRUJILLO",
+        "txRutaCompleto": null,
+        "txRutaResumen": null,
+        "txCodExpedienteExt": "ERM.2022018098",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 236693,
+            "txPgProblema": "DEFICIENTES SERVICIOS DE \nSALUD EN LA REGIÓN",
+            "txPgObjetivo": "MEJORAR LA CALIDAD DE LOS \nSERVICIOS DE SALUD",
+            "txPgIndicador": "CANTIDAD DE PACIENTES \nATENDIDOS ANUALMENTE",
+            "txPgMeta": "AUMENTAR EN UN 30% LA ATENCIÓN \nEN HOSPITALES.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 236710,
+            "txPgProblema": "FALTA DE PROGRAMAS DE \nSALUD MENTAL Y ESCASES DE \nPERSONAL ESPECIALIZADO",
+            "txPgObjetivo": "MEJORAMIENTO DE CENTROS DE \nSALUD MENTAL Y CONTRATACIÓN \nDE PERSONAL ESPECIALIZADO",
+            "txPgIndicador": "CANTIDAD DE PSICÓLOGOS \nLABORANDO EN LA REGIÓN",
+            "txPgMeta": "DUPLICAR LA CANTIDAD DE \nINSTITUCIONES PÚBLICAS CON \nPSICÓLOGOS PROFESIONALES",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 236716,
+            "txPgProblema": "FALTA DE INFRAESTRUCTURA EN \nLOS COLEGIOS DE LA REGIÓN.",
+            "txPgObjetivo": "MEJORAR LA CALIDAD DE LOS \nSERVICIOS DE EDUCACIÓN",
+            "txPgIndicador": "PRESUPUESTO DE LA REGIÓN \nUTILIZADO EN \nINFRAESTRUCTURA DE \nCOLEGIOS",
+            "txPgMeta": "AUMENTAR UN 20% EL \nPRESUPUESTO DE LA REGIÓN EN \nMATERIA DE EDUCACIÓN, DÁNDOLE \nEL USO CORRECTO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 236720,
+            "txPgProblema": "DESEMPLEO EN LA REGIÓN",
+            "txPgObjetivo": "GENERACIÓN DE EMPLEO",
+            "txPgIndicador": "CANTIDAD DE PERSONAS \nATENDIDAS EN LAS AGENCIAS \nDE EMPLEO REGIONAL",
+            "txPgMeta": "AUMENTO DE UN 30% LA \nCONTRATACIÓN LOCAL PARA OBRAS \nPUBLICAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 236730,
+            "txPgProblema": "FALTA DE APOYO A LAS \nMYPES",
+            "txPgObjetivo": "APOYAR EL DESARROLLO \nEMPRESARIAL",
+            "txPgIndicador": "TASA DE DESEMPLEO POR \nPROVINCIA Y DISTRITOS",
+            "txPgMeta": "REDUCCIÓN DE UN 30% LA TASA \nDE DESEMPLEO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 236734,
+            "txPgProblema": "FALTA DE ATENCIÓN EN TEMAS \nDE TURISMO Y CULTURA",
+            "txPgObjetivo": "APOSTAR POR LA CULTURA Y EL \nTURISMO DE LA REGIÓN",
+            "txPgIndicador": "INGRESO POR TURISMO EN LA \nREGIÓN",
+            "txPgMeta": "DUPLICAR LOS INGRESOS POR \nTURISMO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 236767,
+            "txPgProblema": "AUMENTO DE MINERÍA \nINFORMAL",
+            "txPgObjetivo": "AUMENTO DE MINERÍA \nINFORMAL",
+            "txPgIndicador": "CANTIDAD DE MINEROS \nFORMALIZADOS",
+            "txPgMeta": "DISMINUCIÓN DE UN 30% DE \nMINEROS INFORMALES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 236769,
+            "txPgProblema": "MAL MANEJO DE LOS RESIDUOS \nSÓLIDOS",
+            "txPgObjetivo": "MANTENIMIENTO DE SISTEMAS",
+            "txPgIndicador": "PORCENTAJE DE PPM EN EL \nAGUA RESIDUAL",
+            "txPgMeta": "REDUCCIÓN DE UN 30% DE \nRESIDUOS SÓLIDOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 236774,
+            "txPgProblema": "MALA ATENCIÓN AL USUARIO \nEN INSTITUCIONES PUBLICAS",
+            "txPgObjetivo": "ATENCIÓN AL USUARIO BAJO UN ENFOQUE DE \n“EXCELENCIA DEL SERVICIO PÚBLICO”. EL \nCIUDADANO COMO CLIENTE",
+            "txPgIndicador": "CANTIDAD DE \nRECLAMOS \nATENDIDOS",
+            "txPgMeta": "DISMINUCIÓN DE UN 50% LOS \nRECLAMOS CIUDADANOS EN INSTITUCIONES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 236781,
+            "txPgProblema": "FALTA DE TRANSPARENCIA Y SEGUIMIENTO DE RECLAMOS",
+            "txPgObjetivo": "TRANSPARENCIA, ACCESO Y FORMACIÓN DE \nVECTORES DE LA INFORMACIÓN PÚBLICA DE \nINTERÉS POPULAR",
+            "txPgIndicador": "CANTIDAD DE \nRECLAMOS \nATENDIDOS",
+            "txPgMeta": "DISMINUCIÓN DE UN 50% LOS \nRECLAMOS CIUDADANOS EN INSTITUCIONES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

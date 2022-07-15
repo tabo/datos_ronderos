@@ -1,0 +1,158 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 200334.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "28211866",
+        "nombres": "WALTER",
+        "apellidoPaterno": "CALLE",
+        "apellidoMaterno": "VENEGAS",
+        "sexo": "1",
+        "feNacimiento": "02/06/1951",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050401",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "LA MAR",
+        "naciDistrito": "SAN MIGUEL",
+        "ubigeoDomicilio": "050414",
+        "domiDepartamento": "AYACUCHO",
+        "domiProvincia": "LA MAR",
+        "domiDistrito": "NINABAMBA",
+        "domicilioDirecc": "AV. PERÚ S/N",
+        "ubigeoPostula": "050414",
+        "postulaDepartamento": "AYACUCHO",
+        "postulaProvincia": "LA MAR",
+        "postulaDistrito": "NINABAMBA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/200334.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "17/06/2022 17:15:40",
+        "txGuidFormatoHojaVida": "f083fcfc-6df2-4084-bb99-24bfd76149c8",
+        "idSolicitudLista": 31547.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 242238,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "I.E.I. H: 419/MX. NINABAMBA",
+            "ocupacionProfesion": "AUXILIAR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "NINABAMBA",
+            "anioTrabajoDesde": "2022",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "050414",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AYACUCHO",
+            "trabajoProvincia": "LA MAR",
+            "trabajoDistrito": "NINABAMBA",
+            "idHojaVida": 200334,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 214048,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 200334,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 154730,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "ISTSMA",
+                "carreraTecnico": "AGROPECUARIA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 200334,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 164182,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 46,
+            "orgPolRenunciaOp": "PERU POSIBLE",
+            "anioRenunciaOp": "2017",
+            "idHojaVida": 200334,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 193595,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 18000.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 200334,
+                "idEstado": 1,
+                "totalIngresos": 18000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 238501,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CALLE SAN FERNANDO MZ C LOTE 1  , BENJAMIN DOIG LOSSIO SANTA ANITA - LIMA - LIMA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "44399121",
+                "fichaTomoSunarp": null,
+                "autovaluo": 5000.0,
+                "idHojaVida": 200334,
+                "idEstado": 1,
+                "flValor": "10000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

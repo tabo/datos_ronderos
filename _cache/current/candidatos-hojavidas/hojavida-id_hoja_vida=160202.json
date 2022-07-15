@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 160202.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "22297137",
+        "nombres": "JOSE ALFREDO",
+        "apellidoPaterno": "PEREZ",
+        "apellidoMaterno": "PADILLA",
+        "sexo": "1",
+        "feNacimiento": "18/09/1971",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "100401",
+        "naciDepartamento": "ICA",
+        "naciProvincia": "PISCO",
+        "naciDistrito": "PISCO",
+        "ubigeoDomicilio": "100408",
+        "domiDepartamento": "ICA",
+        "domiProvincia": "PISCO",
+        "domiDistrito": "TUPAC AMARU INCA",
+        "domicilioDirecc": "CALLE MIRAMAR MZ.2 LT 19 CASALLA",
+        "ubigeoPostula": "100408",
+        "postulaDepartamento": "ICA",
+        "postulaProvincia": "PISCO",
+        "postulaDistrito": "TUPAC AMARU INCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/160202.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 4.0,
+        "organizacionPolitica": "ACCION POPULAR",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 11:12:04",
+        "txGuidFormatoHojaVida": "507cd2b9-38fc-4f1f-9349-aa5914e6dca3",
+        "idSolicitudLista": 26184.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 240744,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "SENATI",
+            "ocupacionProfesion": "INSTRUCTOR DE ELECTRICIDAD INDUSTRIAL",
+            "rucTrabajo": null,
+            "direccionTrabajo": "URB RESIDENCIAL PARACAS CALLE S/N PISCO",
+            "anioTrabajoDesde": "2000",
+            "anioTrabajoHasta": "2018",
+            "ubigeoTrabajo": "100401",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ICA",
+            "trabajoProvincia": "PISCO",
+            "trabajoDistrito": "PISCO",
+            "idHojaVida": 160202,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 212561,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 160202,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 154361,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "SENATI",
+                "carreraTecnico": "TECNICO ELECTRICISTA INDUSTRIAL",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 160202,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 192497,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 35000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 160202,
+                "idEstado": 1,
+                "totalIngresos": 35000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 237423,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "AVENIDA PRIMAVERA MZ I LOTE 27 FUNDO SAN ILDEFONSO LA TINGUIÑA - ICA - ICA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "11122611",
+                "fichaTomoSunarp": null,
+                "autovaluo": 140000.0,
+                "idHojaVida": 160202,
+                "idEstado": 1,
+                "flValor": "140000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 196353,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "C4H418 ",
+                "valor": 19000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "VEHICULO MARCA JAC COLOR PLATA",
+                "comentario": null,
+                "idHojaVida": 160202,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

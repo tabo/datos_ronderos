@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 222616.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "15216244",
+        "nombres": "HECTOR MIGUEL",
+        "apellidoPaterno": "FACUNDO",
+        "apellidoMaterno": "DAMAZO",
+        "sexo": "1",
+        "feNacimiento": "07/01/1970",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "141001",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "OYON",
+        "naciDistrito": "OYON",
+        "ubigeoDomicilio": "141001",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "OYON",
+        "domiDistrito": "OYON",
+        "domicilioDirecc": "JR. ARICA 220-230",
+        "ubigeoPostula": "141000",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "OYON",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/222616.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 14:56:23",
+        "txGuidFormatoHojaVida": "a1b5a9fd-2fd1-4e3e-a212-e59eb3176eb0",
+        "idSolicitudLista": 34290.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 195041,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "NEGOCIO",
+            "ocupacionProfesion": "CONDUCTOR",
+            "rucTrabajo": "10152162443",
+            "direccionTrabajo": "JR. ARICA 220",
+            "anioTrabajoDesde": "2014",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "141001",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "OYON",
+            "trabajoDistrito": "OYON",
+            "idHojaVida": 222616,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 171887,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 222616,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 188236,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 36000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 7200.0,
+                "idHojaVida": 222616,
+                "idEstado": 1,
+                "totalIngresos": 43200.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 203943,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "OYON-OYON- MZ 3 LOTE 6    BARRIO CAPILLAPATA - CENTRO POBLADO VILLA DE OYON",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "50107633",
+                "fichaTomoSunarp": null,
+                "autovaluo": 35933.32,
+                "idHojaVida": 222616,
+                "idEstado": 1,
+                "flValor": "150000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 175383,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "DAEWOO",
+                "marca": null,
+                "placa": "AZR-140",
+                "valor": 80000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTOMOVIL",
+                "comentario": null,
+                "idHojaVida": 222616,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

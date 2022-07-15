@@ -1,0 +1,85 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 24259,
+        "idTipoEleccion": 4,
+        "txTipoEleccion": "REGIONAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1729,
+        "juradoElectoral": "TACNA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/00bfdfca-26c4-4454-a91f-ea638e0cdf47.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/bd42ecfd-7535-44c7-a0ce-e35d67870e7a.pdf",
+        "txCodExpedienteExt": "ERM.2022011285",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 198575,
+            "txPgProblema": "LIMITADOS SERVICIOS DE CALIDAD EN EDUCACIÓN, SALUD Y AGUA",
+            "txPgObjetivo": "BRINDAR SERVICIOS DE CALIDAD EN CONDICIONES EQUITATIVAS Y SOSTENIBLES",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN QUE ACCEDEN A LA EDUCACIÓN BÁSICA Y SUPERIOR.\nPORCENTAJE DE LA POBLACIÓN QUE ACCEDE A SERVICIOS DE SALUD.\nPORCENTAJE DE HOGARES QUE CUENTAN CON VIVIENDA PROPIA\nPORCENTAJE DE HOGARES QUE CUENTAN CON SERVICIOS BÁSICOS",
+            "txPgMeta": "100%\n\n100%\n\n90%\n\n100%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 198601,
+            "txPgProblema": "PREVALENCIA DE CARIES DENTAL EN ESCOLARES DE EDUCACIÓN",
+            "txPgObjetivo": "BRINDAR SERVICIOS DE CALIDAD EN CONDICIONES EQUITATIVAS Y SOSTENIBLES",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN MATRICULADA QUE CON BUENA SALUD BUCAL",
+            "txPgMeta": "90 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 198615,
+            "txPgProblema": "POBLACIÓN ESCOLAR CON PROBLEMAS EMOCIONALES Y MENTALES QUE AFECTAN EL APRENDIZAJE",
+            "txPgObjetivo": "BRINDAR SERVICIOS DE CALIDAD EN CONDICIONES EQUITATIVAS Y SOSTENIBLES",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN ESCOLAR CON BUENA SALUD EMOCIONAL Y MENTAL",
+            "txPgMeta": "95 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 198638,
+            "txPgProblema": "BAJA ACTIVIDAD ECONÓMICA DE LA ZOFRATACNA",
+            "txPgObjetivo": "MEJORAR LOS NIVELES DE COMPETITIVIDAD TERRITORIAL",
+            "txPgIndicador": "PORCENTAJE DE INCREMENTO DE LAS VENTAS POR COMERCIO ELECTRÓNICO",
+            "txPgMeta": "50 %",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 199116,
+            "txPgProblema": "SUPERFICIE DE ÁREAS DE LA REGIÓN QUE NO CUENTAN CON ACCIONES DE CONSERVACIÓN",
+            "txPgObjetivo": "MEJORAR LA CALIDAD AMBIENTAL",
+            "txPgIndicador": "PORCENTAJE DE INCREMENTO DE LA SUPERFICIE BAJO ALGUNA MODALIDAD DE CONSERVACIÓN",
+            "txPgMeta": "50 %",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 199147,
+            "txPgProblema": "GESTIÓN PÚBLICA INEFICAZ Y POCO EFECTIVA",
+            "txPgObjetivo": "DESARROLLAR UNA GESTIÓN PÚBLICA DE CALIDAD ORIENTADA AL CIUDADANO",
+            "txPgIndicador": "PORCENTAJE DE EJECUCIÓN DEL PRESUPUESTO",
+            "txPgMeta": "100 %",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

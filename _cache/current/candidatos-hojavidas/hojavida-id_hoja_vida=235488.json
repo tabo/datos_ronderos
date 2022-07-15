@@ -1,0 +1,185 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 235488.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "72434835",
+        "nombres": "THAYLUNI CLAUDIA",
+        "apellidoPaterno": "RAMOS",
+        "apellidoMaterno": "VERA",
+        "sexo": "2",
+        "feNacimiento": "21/08/1992",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040101",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "AREQUIPA",
+        "naciDistrito": "AREQUIPA",
+        "ubigeoDomicilio": "040107",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "AREQUIPA",
+        "domiDistrito": "MIRAFLORES",
+        "domicilioDirecc": "CALLE PUNO 404",
+        "ubigeoPostula": "040107",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "AREQUIPA",
+        "postulaDistrito": "MIRAFLORES",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/235488.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2261.0,
+        "organizacionPolitica": "AREQUIPA - UNIDOS POR EL GRAN CAMBIO",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 00:45:29",
+        "txGuidFormatoHojaVida": "14fc0932-98a0-4db9-92b7-db0e46dbc6ac",
+        "idSolicitudLista": 35783.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 242968,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "SERVICIOS PRIVADOS",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE PUNO N° 404",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "040107",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "AREQUIPA",
+            "trabajoDistrito": "MIRAFLORES",
+            "idHojaVida": 235488,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 214763,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 235488,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 183113,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL DE SAN AGUSTIN",
+                "carreraUni": "ESTUDIANTE",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "ESTUDIOS DE INGENIERIA ELECTRONICA"
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 194171,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 5000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 235488,
+                "idEstado": 1,
+                "totalIngresos": 5000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 239094,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "LOTE",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "PEDREGAL",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 40000.0,
+                "idHojaVida": 235488,
+                "idEstado": 1,
+                "flValor": "40000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 197716,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "AUTO",
+                "marca": null,
+                "placa": "V1U533",
+                "valor": 8000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTO MAZDA SINIESTRADO",
+                "comentario": "TRANSFERENCIA EN TRAMITE",
+                "idHojaVida": 235488,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 197653,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "A9D935 ",
+                "valor": 20000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMIONETA FORD RANGER PICK UP",
+                "comentario": null,
+                "idHojaVida": 235488,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

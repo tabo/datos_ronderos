@@ -1,0 +1,157 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 229292.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43783239",
+        "nombres": "JUAN GERMAN",
+        "apellidoPaterno": "GARAY",
+        "apellidoMaterno": "APARICIO",
+        "sexo": "1",
+        "feNacimiento": "27/01/1986",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140101",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "LIMA",
+        "ubigeoDomicilio": "140801",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "HUARAL",
+        "domiDistrito": "HUARAL",
+        "domicilioDirecc": "PSJ. BUSTOS 158",
+        "ubigeoPostula": "140800",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "HUARAL",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/229292.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 22.0,
+        "organizacionPolitica": "RENOVACION POPULAR",
+        "numeroCandidato": 8.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "17/06/2022 17:54:54",
+        "txGuidFormatoHojaVida": "15fceee1-13f7-49cf-b6ff-f10796f2ae38",
+        "idSolicitudLista": 35058.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 258574,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CRECE CAPITAL SAC",
+            "ocupacionProfesion": "GERENTE",
+            "rucTrabajo": "20601610664",
+            "direccionTrabajo": "AV JOSE PARDO 434 INT 1402",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140115",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "MIRAFLORES",
+            "idHojaVida": 229292,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 231762,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 229292,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 159326,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "CEPEBAN",
+                "carreraTecnico": "TECNICO EN ADMINISTRACION",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 229292,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 206896,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 25000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 229292,
+                "idEstado": 1,
+                "totalIngresos": 25000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 206790,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "BWK270 ",
+                "valor": 77000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "HYUNDAI ELECTRA",
+                "comentario": null,
+                "idHojaVida": 229292,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 7857,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "AGRO SERVICIOS CRECER",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 400.0,
+                "flValor": 400.0,
+                "idHojaVida": 229292,
+                "idEstado": 1,
+                "txUsuario": "09542561",
+                "txFechaRegistro": null,
+                "txComentario": "VALOR DE CADA ACCION S/1.00",
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

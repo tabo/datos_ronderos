@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20072,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2680,
+        "txOrganizacionPolitica": "MOVIMIENTO REGIONAL SIERRA Y SELVA CONTIGO JUNIN",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/2cbc65c9-2a5e-4d9e-8136-b4316ace04f9.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/a20d7a01-ae73-4391-80ed-5ad15f36befa.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 136009,
+            "txPgProblema": "LOCALES DE PUESTOS DE SALUD DE  PRIMER NIVEL DE ATENCIÓN CON PÉSIMA INFRAESTRUCTURA.",
+            "txPgObjetivo": "LOCALES DE PUESTOS DE SALUD  DE PRIMER NIVEL DE ATENCIÓN CON ÓPTIMA INFRAESTRUCTURA.",
+            "txPgIndicador": "PORCENTAJE DE LOCALES DE PRIMER NIVEL DE ATENCIÓN QUE REQUIEREN INTERVENCIÓN TOTAL.",
+            "txPgMeta": "0% DE LOCALES LOCALES DE PRIMER NIVEL DE ATENCIÓN QUE REQUIEREN INTERVENCIÓN TOTAL.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136317,
+            "txPgProblema": "LOCALES ESCOLARES PÚBLICOS QUE REQUIEREN REPARACIÓN TOTAL EN ED. BÁSICA.",
+            "txPgObjetivo": "LOCALES ESCOLARES PÚBLICOS CON ÓPTIMA INFRAESTRUCTURA EDUCATIVA.",
+            "txPgIndicador": "PORCENTAJE DE LOCALES ESCOLARES PÚBLICOS QUE REQUIEREN REPARACIÓN TOTAL EN ED. BÁSICA.",
+            "txPgMeta": "0% DE LOCALES ESCOLARES PÚBLICOS QUE REQUIEREN REPARACIÓN TOTAL EN ED. BÁSICA.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136331,
+            "txPgProblema": "POBLACIÓN RURAL SIN ACCESO AGUA POR RED PÚBLICA.",
+            "txPgObjetivo": "DOTAR A LA POBLACIÓN RURAL DE AGUA POTABLE POR RED PÚBLICA.",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN RURAL SIN ACCESO AGUA POR RED PÚBLICA.",
+            "txPgMeta": "0% DE POBLACIÓN RURAL SIN ACCESO AGUA POR RED PÚBLICA.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 136108,
+            "txPgProblema": "HECTÁREAS DE TIERRAS SIN RIEGO.",
+            "txPgObjetivo": "DOTAR DE SISTEMAS DE RIEGO TECNIFICADO A TIERRAS AGRÍCOLAS EN TODO EL DISTRITO.",
+            "txPgIndicador": "PORCENTAJE DE HECTÁREAS SIN RIEGO.",
+            "txPgMeta": "40% DE HECTÁREAS SIN RIEGO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136348,
+            "txPgProblema": "EXPANSIÓN URBANA Y RURAL DESORDENADA.",
+            "txPgObjetivo": "PROMOVER EL CRECIMIENTO URBANO Y RURAL DE MANERA ORDENADA.",
+            "txPgIndicador": "PORCENTAJE DE PLANES DE DESARROLLO URBANO Y RURAL ACTUALIZADO.",
+            "txPgMeta": "100% DE PLANES DE DESARROLLO URBANO Y RURAL ACTUALIZADO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136360,
+            "txPgProblema": "INFRAESTRUCTURA VIAL URBANA EN PÉSIMAS CONDICIONES.",
+            "txPgObjetivo": "EJECUTAR PROYECTOS DE INFRAESTRUCTURA VIAL URBANA.",
+            "txPgIndicador": "PORCENTAJE DE INFRAESTRUCTURA VIAL URBANA EN ÓPTIMAS CONDICIONES.",
+            "txPgMeta": "80% DE INFRAESTRUCTURA VIAL URBANA EN ÓPTIMAS CONDICIONES.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 136174,
+            "txPgProblema": "1. CONTAMINACIÓN AMBIENTAL POR RESIDUOS SÓLIDOS GENERADOS POR LA POBLACIÓN.",
+            "txPgObjetivo": "VIVIENDAS CON COBERTURA DEL SERVICIO DE RECOLECCIÓN DE RESIDUOS SÓLIDOS.",
+            "txPgIndicador": "PORCENTAJE DE VIVIENDAS CON COBERTURA DEL SERVICIO DE RECOLECCIÓN DE RESIDUO SÓLIDOS EN PREDIOS.",
+            "txPgMeta": "95% DE VIVIENDAS CON COBERTURA DEL SERVICIO DE RECOLECCIÓN DE RESIDUO SÓLIDOS EN PREDIOS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136387,
+            "txPgProblema": "CONTAMINACIÓN POR INADECUADA DISPOSICIÓN FINAL DE DESECHOS SOLIDOS.",
+            "txPgObjetivo": "REDUCIR LA CONTAMINACIÓN SIGNIFICATIVAMENTE POR INADECUADO MANEJO Y DISPOSICIÓN FINAL DE LOS DESECHOS SOLIDOS.",
+            "txPgIndicador": "PORCENTAJE DE IMPLEMENTACIÓN DEBOTADEROS CONTROLADOS PARA EL MANEJO ADECUADO DE RESIDUOS SOLIDOS.",
+            "txPgMeta": "100% DE IMPLEMENTACIÓN DE BOTADEROS Y PLANTA DE TRATAMIENTO DE RESIDUOS SOLIDOS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136397,
+            "txPgProblema": "DEFORESTACIÓN DE ESPACIOS TERRITORIALES POR LA CONTINUA TALA INDISCRIMINADA.",
+            "txPgObjetivo": "FORESTACIÓN Y REFORESTACIÓN DE TODAS LAS ÁREAS DISPONIBLES EN EL DISTRITO ANEXOS Y BARRIOS.",
+            "txPgIndicador": "PORCENTAJE DE IMPLEMENTACIÓN DEBOTADEROS CONTROLADOS PARA EL MANEJO ADECUADO DE RESIDUOS SOLIDOS.",
+            "txPgMeta": "70 % DE ÁREAS DE TERRITORIOS DISTRITALES FORESTADOS Y REFORESTADOS, A TRAVÉS DE CAMPAÑAS INTENSAS DE TRABAJO MANCOMUNADO.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 136261,
+            "txPgProblema": "GOBIERNO LOCAL SIN RUMBO NI DIRECCIÓN.",
+            "txPgObjetivo": "PERCEPCIÓN DE INSEGURIDAD CIUDADANA EN LA POBLACIÓN.",
+            "txPgIndicador": "PORCENTAJE DE CUMPLIMIENTO DEL PLAN ESTRATÉGICO INSTITUCIONAL.",
+            "txPgMeta": "98% DE CUMPLIMIENTO DEL 98% DE CUMPLIMIENTO DEL PLAN ESTRATÉGICO INSTITUCIONAL.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136430,
+            "txPgProblema": "GOBIERNO LOCAL BUROCRÁTICO, OBSOLETO Y POCO TRANSPARENTE.",
+            "txPgObjetivo": "IMPLEMENTAR LA SIMPLIFICACIÓN ADMINISTRATIVA, LA GESTIÓN POR PROCESOS, MODERNIZACIÓN INSTITUCIONAL E IMPLEMENTAR UN GOBIERNO TRANSPARENTE AL SERVICIO DEL CIUDADANO.",
+            "txPgIndicador": "PORCENTAJE DE AVANCE DE LA IMPLEMENTACIÓN PLAN DE SIMPLIFICACIÓN ADMINISTRATIVA, GESTIÓN POR PROCESOS, MODERNIZACIÓN INSTITUCIONAL Y TRANSPARENTE.",
+            "txPgMeta": "98% DE AVANCE DE LA IMPLEMENTACIÓN PLAN DE SIMPLIFICACIÓN ADMINISTRATIVA, GESTIÓN POR PROCESOS, MODERNIZACIÓN INSTITUCIONAL Y TRANSPARENTE.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136451,
+            "txPgProblema": "TRABAJADORES MUNICIPALES CON ESCASA ESPECIALIZACIÓN",
+            "txPgObjetivo": "CAPACITAR A LOS TRABAJADORES DE LA MUNICIPALIDAD PARA BRINDAR SERVICIOS PÚBLICOS DE EFICIENTES Y TRANSPARENTES.",
+            "txPgIndicador": "PORCENTAJE DE TRABAJADORES DE LA MUNICIPALIDAD CON CAPACITACIÓN.",
+            "txPgMeta": "98% DE TRABAJADORES DE LA MUNICIPALIDAD CON CAPACITACIÓN.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

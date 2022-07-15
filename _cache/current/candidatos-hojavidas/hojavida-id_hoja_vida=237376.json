@@ -1,0 +1,191 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 237376.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "20030040",
+        "nombres": "NORMA",
+        "apellidoPaterno": "VEGA",
+        "apellidoMaterno": "QUISPE",
+        "sexo": "2",
+        "feNacimiento": "26/02/1970",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110101",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "HUANCAYO",
+        "naciDistrito": "HUANCAYO",
+        "ubigeoDomicilio": "110108",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "HUANCAYO",
+        "domiDistrito": "CHILCA",
+        "domicilioDirecc": "JR. CIRO ALEGRIA 221 PBLO. AZAPAMPA",
+        "ubigeoPostula": "110108",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "HUANCAYO",
+        "postulaDistrito": "CHILCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/237376.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2729.0,
+        "organizacionPolitica": "CORAZON PATRIOTA",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 21:50:34",
+        "txGuidFormatoHojaVida": "cfb7e17f-9982-4fe8-b437-67f4e8fbf71a",
+        "idSolicitudLista": 36012.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 245662,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "COMERCIANTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR. SANIA ROSA S/N",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "110108",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "HUANCAYO",
+            "trabajoDistrito": "CHILCA",
+            "idHojaVida": 237376,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 217414,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 237376,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 184599,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL DEL CENTRO DEL PERÚ",
+                "carreraUni": "BACHILLER EN ECONOMIA",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "1997",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 144760,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 804,
+                "orgPolCargoElec": "CONVERGENCIA REGIONAL DESCENTRALISTA - CONREDES",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2007",
+                "anioCargoElecHasta": "2010",
+                "idHojaVida": 237376,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 165281,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 174,
+            "orgPolRenunciaOp": "FRENTE REGIONAL INDEPENDIENTE",
+            "anioRenunciaOp": "2009",
+            "idHojaVida": 237376,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 165280,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 55,
+            "orgPolRenunciaOp": "PERU PATRIA SEGURA",
+            "anioRenunciaOp": "2020",
+            "idHojaVida": 237376,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 196152,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 29000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 237376,
+                "idEstado": 1,
+                "totalIngresos": 29000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 241413,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "HUANCAYO-CHILCA- MZ I LOTE 5 - CENTRO POBLADO CHILCA SECTOR AZAPAMPA OESTE 1",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "11143693",
+                "fichaTomoSunarp": null,
+                "autovaluo": 500.0,
+                "idHojaVida": 237376,
+                "idEstado": 1,
+                "flValor": "50000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

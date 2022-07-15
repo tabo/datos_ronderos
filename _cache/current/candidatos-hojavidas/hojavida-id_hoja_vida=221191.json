@@ -1,0 +1,147 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 221191.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "48119459",
+        "nombres": "KINE KATHERIN",
+        "apellidoPaterno": "RODRIGUEZ",
+        "apellidoMaterno": "PALOMINO DE RAMOS",
+        "sexo": "2",
+        "feNacimiento": "20/11/1992",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140135",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "EL AGUSTINO",
+        "ubigeoDomicilio": "140143",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "SANTA ANITA",
+        "domicilioDirecc": "AV. LOS RUISEÑORES 920",
+        "ubigeoPostula": "140143",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "SANTA ANITA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/221191.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2173.0,
+        "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL",
+            " REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "17/06/2022 10:41:00",
+        "txGuidFormatoHojaVida": "c37e4ab1-f471-401f-b3db-ca26fbbfbab5",
+        "idSolicitudLista": 34116.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 257191,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MUNICIPALIDAD SANTA ANITA",
+            "ocupacionProfesion": "ASISTENTE ADMINISTRATIVO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. LOS EUCALIPTOS CDRA. 12 SANTA ANITA;",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140143",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "SANTA ANITA",
+            "idHojaVida": 221191,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 229987,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 221191,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 190881,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD CESAR VALLEJO",
+                "carreraUni": "DERECHO",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 205677,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 15200.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 221191,
+                "idEstado": 1,
+                "totalIngresos": 15200.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 205922,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "NISSAN",
+                "marca": null,
+                "placa": "39923C",
+                "valor": 30000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR NEGRO",
+                "comentario": null,
+                "idHojaVida": 221191,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

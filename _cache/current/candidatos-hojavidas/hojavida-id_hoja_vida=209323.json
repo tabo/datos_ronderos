@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 209323.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "41205026",
+        "nombres": "JOSE ANTONIO",
+        "apellidoPaterno": "MACO",
+        "apellidoMaterno": "AGUILAR",
+        "sexo": "1",
+        "feNacimiento": "23/08/1981",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "130302",
+        "naciDepartamento": "LAMBAYEQUE",
+        "naciProvincia": "LAMBAYEQUE",
+        "naciDistrito": "CHOCHOPE",
+        "ubigeoDomicilio": "130302",
+        "domiDepartamento": "LAMBAYEQUE",
+        "domiProvincia": "LAMBAYEQUE",
+        "domiDistrito": "CHOCHOPE",
+        "domicilioDirecc": "FUNDO CAIGUA",
+        "ubigeoPostula": "130302",
+        "postulaDepartamento": "LAMBAYEQUE",
+        "postulaProvincia": "LAMBAYEQUE",
+        "postulaDistrito": "CHOCHOPE",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/209323.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 4.0,
+        "organizacionPolitica": "ACCION POPULAR",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 16:58:39",
+        "txGuidFormatoHojaVida": "d89e868e-79d6-48d4-8ee4-9586c22c4a85",
+        "idSolicitudLista": 32691.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 205113,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "FUNDO CAIGUA CHOCHOPE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "FUNDO CAIGUA - CHOCHOPE",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "130302",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LAMBAYEQUE",
+            "trabajoProvincia": "LAMBAYEQUE",
+            "trabajoDistrito": "CHOCHOPE",
+            "idHojaVida": 209323,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "DESARROLLA DE MANERA TEMPORAL ACTIVIDADES RELACIONADAS CON LA AGRICULTURA Y PRODUCCIÓN DE DIVERSOS CULTIVOS, DESDE EL AÑO 2010 HASTA LA ACTUALIDAD."
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 180511,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 209323,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 140008,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 4,
+                "orgPolCargoPartidario": "PARTIDO POLÍTICO ACCION POPULAR",
+                "cargoPartidario": "MILITANTE",
+                "anioCargoPartiDesde": "2022",
+                "anioCargoPartiHasta": "HASTA LA ACTUALIDAD",
+                "idHojaVida": 209323,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 152551,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 46,
+            "orgPolRenunciaOp": "PERU POSIBLE",
+            "anioRenunciaOp": "2016",
+            "idHojaVida": 209323,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 211534,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "INMUEBLE",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "FUNDO CAIUGUA - CHOCHOPE",
+                "comentario": "EL INMUEBLE SE ENCUENTRA UBICADO EN EL PREDIO PROPIEDAD DE SUS PADRES; SIN EMBARGO ESTE NO SE ENCUENTRA INSCRITO EN REGISTROS, POR LO TANTO NO ES POSIBLE GENERAR UN VALOR DE AUTOVALUO.",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 209323,
+                "idEstado": 1,
+                "flValor": "15000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

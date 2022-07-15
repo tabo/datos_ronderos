@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 153868.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42583190",
+        "nombres": "MICHAEL JOHN",
+        "apellidoPaterno": "MANTARI",
+        "apellidoMaterno": "MALPICA",
+        "sexo": "1",
+        "feNacimiento": "01/08/1984",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110125",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "HUANCAYO",
+        "naciDistrito": "QUICHUAY",
+        "ubigeoDomicilio": "110125",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "HUANCAYO",
+        "domiDistrito": "QUICHUAY",
+        "domicilioDirecc": "JR.JUNIN S/N",
+        "ubigeoPostula": "110125",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "HUANCAYO",
+        "postulaDistrito": "QUICHUAY",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/153868.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2680.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL SIERRA Y SELVA CONTIGO JUNIN",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 18:20:19",
+        "txGuidFormatoHojaVida": "48ee36a8-c0e9-46e4-9615-b2a426013e53",
+        "idSolicitudLista": 25296.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 206501,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "CONDUCTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR JUNIN S/N QUICHUAY",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "110125",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "HUANCAYO",
+            "trabajoDistrito": "QUICHUAY",
+            "idHojaVida": 153868,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 181726,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 153868,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 169179,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 21600.0,
+                "idHojaVida": 153868,
+                "idEstado": 1,
+                "totalIngresos": 21600.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 212377,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "HUANCAYO-QUICHUAY- MZ S LOTE 7 - CENTRO POBLADO QUICHUAY",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "11105264",
+                "fichaTomoSunarp": null,
+                "autovaluo": 85.0,
+                "idHojaVida": 153868,
+                "idEstado": 1,
+                "flValor": "80000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 178079,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "ACC262 ",
+                "valor": 56000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR GRIS METALICO",
+                "comentario": null,
+                "idHojaVida": 153868,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

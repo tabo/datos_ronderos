@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 19927,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2680,
+        "txOrganizacionPolitica": "MOVIMIENTO REGIONAL SIERRA Y SELVA CONTIGO JUNIN",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1669,
+        "juradoElectoral": "CONCEPCION",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/64ad8afb-631b-41f5-8efd-d40c4e2c989d.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/52db7e0d-afc5-4c6b-91d0-96307887c014.pdf",
+        "txCodExpedienteExt": "ERM.2022006433",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 159722,
+            "txPgProblema": "ESTABLECIMIENTOS DE SALUD DEL PRIMER NIVEL DE ATENCIÓN CON DEFICIENTE INFRAESTRUCTURA.",
+            "txPgObjetivo": "ESTABLECIMIENTOS DE SALUD DEL PRIMER NIVEL DE ATENCIÓN CON ÓPTIMA INFRAESTRUCTURA.",
+            "txPgIndicador": "PORCENTAJE DE LOCALES DE PRIMER NIVEL DE ATENCIÓN QUE REQUIEREN INTERVENCIÓN TOTAL",
+            "txPgMeta": "0% DE ESTABLECIMIENTOS DE PRIMER NIVEL DE ATENCIÓN QUE REQUIEREN INTERVENCIÓN TOTAL.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159752,
+            "txPgProblema": "INSTITUCIONES EDUCATIVAS PÚBLICAS QUE REQUIEREN REPARACIÓN TOTAL O PARCIAL DE LA INFRAESTRUCTURA EN ED. BÁSICA",
+            "txPgObjetivo": "INFRAESTRUCTURA DE INSTITUCIONES EDUCATIVAS PÚBLICAS CON ÓPTIMA INFRAESTRUCTURA EDUCATIVA.",
+            "txPgIndicador": "PORCENTAJE DE LOCALES ESCOLARES PÚBLICOS QUE REQUIEREN REPARACIÓN TOTAL EN ED. BÁSICA",
+            "txPgMeta": "0% DE LOCALES ESCOLARES PÚBLICOS QUE REQUIEREN REPARACIÓN TOTAL EN ED. BÁSICA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159782,
+            "txPgProblema": "POBLACIÓN DEL ÁMBITO RURAL SIN ACCESO AGUA POTABLE POR RED PÚBLICA",
+            "txPgObjetivo": "DOTAR A LA POBLACIÓN RURAL DE AGUA POTABLE POR RED PÚBLICA",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN RURAL SIN ACCESO AGUA POR RED PÚBLICA",
+            "txPgMeta": "0% DE POBLACIÓN RURAL SIN ACCESO AGUA POR RED PÚBLICA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 160091,
+            "txPgProblema": "HECTÁREAS DE TIERRAS CON RIEGO DEFICIENTE.",
+            "txPgObjetivo": "DOTAR DE SISTEMAS DE RIEGO EFICIENTES A TIERRAS AGRÍCOLAS.",
+            "txPgIndicador": "PORCENTAJE DE HECTÁREAS SIN RIEGO EFICIENTE.",
+            "txPgMeta": "20% DE HECTÁREAS SIN RIEGO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 160143,
+            "txPgProblema": "EXPANSIÓN URBANA Y RURAL DESORDENADA.",
+            "txPgObjetivo": "PROMOVER EL CRECIMIENTO URBANO Y RURAL DE MANERA ORDENADA.",
+            "txPgIndicador": "PORCENTAJE DE PLANES DE DESARROLLO URBANO Y RURAL ACTUALIZADO.",
+            "txPgMeta": "100% DEPLANES DE DESARROLLO URBANO Y RURAL ACTUALIZADO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 160167,
+            "txPgProblema": "INFRAESTRUCTURA DE RIEGO INSUFICIENTE Y EN MALAS CONDICIONES.",
+            "txPgObjetivo": "CREACIÓN Y MEJORAMIENTO DE LA INFRAESTRUCTURA DE RIEGO.",
+            "txPgIndicador": "PORCENTAJE DE COBERTURA DE INFRAESTRUCTURA DE RIEGO ADECUADO",
+            "txPgMeta": "95% DE COBERTURA DE INFRAESTRUCTURA DE RIEGO EN ÓPTIMAS CONDICIONES.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 160197,
+            "txPgProblema": "CONTAMINACIÓN AMBIENTAL POR RESIDUOS SÓLIDOS GENERADOS POR LA POBLACIÓN",
+            "txPgObjetivo": "VIVIENDAS CON COBERTURA DEL SERVICIO DE RECOLECCIÓN DE RESIDUOS SÓLIDOS.",
+            "txPgIndicador": "PORCENTAJE DE VIVIENDAS CON COBERTURA DEL SERVICIO DE RECOLECCIÓN DE RESIDUO SÓLIDOS EN PREDIOS",
+            "txPgMeta": "95% DE VIVIENDAS CON COBERTURA DEL SERVICIO DE RECOLECCIÓN DE RESIDUO SÓLIDOS EN PREDIOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 160213,
+            "txPgProblema": "CONTAMINACIÓN POR BOTADEROS DE RESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "CONTAMINACIÓN POR BOTADEROS DE RESIDUOS SÓLIDOS.",
+            "txPgIndicador": "PORCENTAJE DE IMPLEMENTACIÓN DE PLANTA DE TRATAMIENTO DE RESIDUOS SOLIDOS",
+            "txPgMeta": "100% DE IMPLEMENTACIÓN DE PLANTA DE TRATAMIENTO DE RESIDUOS SOLIDOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 160235,
+            "txPgProblema": "RIESGO DE DESBORDE DE RÍOS, CUNETAS Y DRENAJES.",
+            "txPgObjetivo": "CAUCES DE RÍOS, CUNETAS, DRENAJES Y ESTRUCTURAS DE SEGURIDAD FÍSICA EN PÉSIMAS CONDICIONES",
+            "txPgIndicador": "PORCENTAJE DE CAUCES DE RÍOS, CUNETAS, DRENAJES Y ESTRUCTURAS DE SEGURIDAD FÍSICA EN ÓPTIMAS CONDICIONES",
+            "txPgMeta": "90% DE CAUCES DE RÍOS, CUNETAS, DRENAJES Y ESTRUCTURAS DE SEGURIDAD FÍSICA EN ÓPTIMACONDICIONES.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 160254,
+            "txPgProblema": "GOBIERNO LOCAL SIN RUMBO NI DIRECCIÓN",
+            "txPgObjetivo": "ELABORAR UN INSTRUMENTO DE PLANEAMIENTO ESTRATÉGICO PARA EL DESARROLLO LOCAL",
+            "txPgIndicador": "PORCENTAJE DE CUMPLIMIENTO DEL PLAN ESTRATÉGICO INSTITUCIONAL",
+            "txPgMeta": "98% DE CUMPLIMIENTO DEL PLAN ESTRATÉGICO INSTITUCIONAL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 160282,
+            "txPgProblema": "GOBIERNO LOCAL BUROCRÁTICO, OBSOLETO Y POCO TRANSPARENTE.",
+            "txPgObjetivo": "IMPLEMENTAR LA SIMPLIFICACIÓN ADMINISTRATIVA, LA GESTIÓN POR PROCESOS, MODERNIZACIÓN INSTITUCIONAL E IMPLEMENTAR UN GOBIERNO TRANSPARENTE AL SERVICIO DEL CIUDADANO.",
+            "txPgIndicador": "PORCENTAJE DE AVANCE DE LA IMPLEMENTACIÓN PLAN DE SIMPLIFICACIÓN ADMINISTRATIVA, GESTIÓN POR PROCESOS, MODERNIZACIÓN INSTITUCIONAL Y TRANSPARENTE.",
+            "txPgMeta": "98% DE AVANCE DE LA IMPLEMENTACIÓN PLAN DE SIMPLIFICACIÓN ADMINISTRATIVA, GESTIÓN POR PROCESOS, MODERNIZACIÓN INSTITUCIONAL Y TRANSPARENTE.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 160306,
+            "txPgProblema": "TRABAJADORES MUNICIPALES CON ESCASA ESPECIALIZACIÓN.",
+            "txPgObjetivo": "CAPACITAR A LOS TRABAJADORES DE LA MUNICIPALIDAD PARA BRINDAR SERVICIOS PÚBLICOS DE EFICIENTES Y TRANSPARENTES.",
+            "txPgIndicador": "PORCENTAJE DE TRABAJADORES DE LA MUNICIPALIDAD CON CAPACITACIÓN",
+            "txPgMeta": "98% DE TRABAJADORES DE LA MUNICIPALIDAD CON CAPACITACIÓN",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

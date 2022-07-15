@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 163528.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "21542603",
+        "nombres": "DANIEL ALFREDO",
+        "apellidoPaterno": "PASACHE",
+        "apellidoMaterno": "HERNANDEZ",
+        "sexo": "1",
+        "feNacimiento": "05/08/1973",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "100101",
+        "naciDepartamento": "ICA",
+        "naciProvincia": "ICA",
+        "naciDistrito": "ICA",
+        "ubigeoDomicilio": "100112",
+        "domiDepartamento": "ICA",
+        "domiProvincia": "ICA",
+        "domiDistrito": "TATE",
+        "domicilioDirecc": "TATE S/N",
+        "ubigeoPostula": "100112",
+        "postulaDepartamento": "ICA",
+        "postulaProvincia": "ICA",
+        "postulaDistrito": "TATE",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/163528.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2701.0,
+        "organizacionPolitica": "UNO POR ICA",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 03:12:33",
+        "txGuidFormatoHojaVida": "9541f6d8-49e2-4ad1-9534-a5d0670e7a80",
+        "idSolicitudLista": 26632.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 214679,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "COEXA S.A.",
+            "ocupacionProfesion": "AREA DE SANIDAD",
+            "rucTrabajo": null,
+            "direccionTrabajo": "PACHACUTEC",
+            "anioTrabajoDesde": "2001",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "100113",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ICA",
+            "trabajoProvincia": "ICA",
+            "trabajoDistrito": "PACHACUTEC",
+            "idHojaVida": 163528,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 189195,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 163528,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 140411,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "SERVULO GUTIERREZ",
+                "carreraNoUni": "DOCENTE",
+                "concluidoNoUni": "1",
+                "idHojaVida": 163528,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 155694,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 163528,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 174704,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 20000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 163528,
+                "idEstado": 1,
+                "totalIngresos": 20000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 182631,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "B33548 ",
+                "valor": 2500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA YAMAHA MODELO YB125 COLOR AZUL",
+                "comentario": null,
+                "idHojaVida": 163528,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

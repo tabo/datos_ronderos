@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 192187.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "21877942",
+        "nombres": "EMILIA NIEVES",
+        "apellidoPaterno": "TAPIA",
+        "apellidoMaterno": "DE GONZALES",
+        "sexo": "2",
+        "feNacimiento": "26/05/1965",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "100201",
+        "naciDepartamento": "ICA",
+        "naciProvincia": "CHINCHA",
+        "naciDistrito": "CHINCHA ALTA",
+        "ubigeoDomicilio": "100203",
+        "domiDepartamento": "ICA",
+        "domiProvincia": "CHINCHA",
+        "domiDistrito": "CHINCHA BAJA",
+        "domicilioDirecc": "COOP.HUASCAR 233 FDO.POZUELO NORTE S/N",
+        "ubigeoPostula": "100203",
+        "postulaDepartamento": "ICA",
+        "postulaProvincia": "CHINCHA",
+        "postulaDistrito": "CHINCHA BAJA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/192187.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 2857.0,
+        "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "08/06/2022 20:09:30",
+        "txGuidFormatoHojaVida": "6e238f59-9054-4b9c-8e96-acc5301e019f",
+        "idSolicitudLista": 30486.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 161641,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MUNICIPALIDAD DISTRITAL DE CHINCHA BAJA",
+            "ocupacionProfesion": "OBRERA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "PLAZA DE ARMAS #148",
+            "anioTrabajoDesde": "2014",
+            "anioTrabajoHasta": "2019",
+            "ubigeoTrabajo": "100203",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ICA",
+            "trabajoProvincia": "CHINCHA",
+            "trabajoDistrito": "CHINCHA BAJA",
+            "idHojaVida": 192187,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 141276,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 192187,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 137510,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 179,
+            "orgPolRenunciaOp": "PARTIDO NACIONALISTA PERUANO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 192187,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 139413,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 14000.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 192187,
+                "idEstado": 1,
+                "totalIngresos": 14000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 174682,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CHINCHA-CHINCHA BAJA- MZ D LOTE 8 - CENTRO POBLADO POZUELO NORTE",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "11023849",
+                "fichaTomoSunarp": null,
+                "autovaluo": 300.0,
+                "idHojaVida": 192187,
+                "idEstado": 1,
+                "flValor": "45000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 152112,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "2384WA ",
+                "valor": 10000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "ITALIKA NEGRO AZUL",
+                "comentario": null,
+                "idHojaVida": 192187,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

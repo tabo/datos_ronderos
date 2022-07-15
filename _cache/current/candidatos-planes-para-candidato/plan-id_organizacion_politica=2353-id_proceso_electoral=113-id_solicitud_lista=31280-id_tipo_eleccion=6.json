@@ -1,0 +1,125 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 24606,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2353,
+        "txOrganizacionPolitica": "PASCO VERDE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/54386953-3204-4cd1-a38f-ff52deba76e9.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/45cac717-b34b-4963-aa99-1b11f762ab5c.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 148545,
+            "txPgProblema": "DEFICIENTE SERVICIOS DE SANEAMIENTO BÁSICO EN EL ÁMBITO DISTRITAL (AGUA, DESAGÜE, ELECTRIFICACIÓN)",
+            "txPgObjetivo": "MEJORAR EL ACCESO DE LA POBLACIÓN A VIVIENDAS CON SERVICIOS BÁSICOS ADECUADOS (AGUA, DESAGÜE Y ENERGÍA ELÉCTRICA)",
+            "txPgIndicador": "ÍNDICE DE VIVIENDAS.",
+            "txPgMeta": "INCREMENTO DE SERVICIO DE AGUA EN VIVIENDAS EN 50%.\nINCREMENTO DE SERVICIO DE DESAGÜE EN VIVIENDAS EN 60%.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 148554,
+            "txPgProblema": "DEFICIENTE CALIDAD EN LOS SERVICIOS DE EDUCACIÓN (LOGROS DE APRENDIZAJE, INFRAESTRUCTURAS EDUCATIVAS INADECUADAS, EQUIPAMIENTO, RECURSOS HUMANOS).",
+            "txPgObjetivo": "ADECUADA INFRAESTRUCTURA, IMPLEMENTACIÓN DE MÓDULOS, EQUIPAMIENTO CON TECNOLOGÍA.",
+            "txPgIndicador": "NUMERO DE INSTITUCIONES EDUCATIVAS",
+            "txPgMeta": "IMPLEMENTACIÓN DE MÓDULOS A 10 INSTITUCIONES EDUCATIVAS.\nIMPLEMENTACIÓN CON EQUIPOS TECNOLOGÍA A 10 INSTITUCIONES EDUCATIVAS.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 148566,
+            "txPgProblema": "DEFICIENTE CALIDAD EN LOS SERVICIOS DE SALUD (INFRAESTRUCTURAS DE SALUD INADECUADAS, EQUIPAMIENTO, RECURSOS HUMANOS).",
+            "txPgObjetivo": "ADECUADA INFRAESTRUCTURA, IMPLEMENTACIÓN DE MÓDULOS, EQUIPAMIENTO CON TECNOLOGÍA.",
+            "txPgIndicador": "NUMERO DE ESTABLECIMIENTOS DE SALUD",
+            "txPgMeta": "IMPLEMENTACIÓN CON EQUIPOS TECNOLÓGICOS A 3 ESTABLECIMIENTOS DE SALUD.\nIMPLEMENTACIÓN DE MÓDULOS A 3 ESTABLECIMIENTOS DE SALUD.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 148579,
+            "txPgProblema": "ESCASA ACTIVIDAD AGROPECUARIA, CADENAS PRODUCTIVAS, TURISMO E INDUSTRIA.",
+            "txPgObjetivo": "MEJORAR EL NIVEL COMPETITIVO DE LA ACTIVIDAD AGROPECUARIA, CADENA PRODUCTIVA, TURISMO E INDUSTRIA.",
+            "txPgIndicador": "ÍNDICE DE SECTORES DE ACTIVIDADES EN EL DISTRITO",
+            "txPgMeta": "INCREMENTO EN LA ACTIVIDAD DE SECTORES EN 20%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 148588,
+            "txPgProblema": "DEFICIENTE INFRAESTRUCTURA VIAL DE ACCESO A LOS CENTROS POBLADOS, CASERÍOS DEL DISTRITO.",
+            "txPgObjetivo": "MEJORAMIENTO VIAL DE ACCESOS EN COORDINACIÓN CON LOS ENTES RESPONSABLES DEL GOBIERNO CENTRAL.",
+            "txPgIndicador": "NÚMEROS DE VÍAS DE COMUNICACIÓN EN EL DISTRITO",
+            "txPgMeta": "9 VÍAS DE COMUNICACIÓN DE ACCESO DENTRO DEL DISTRITO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 148600,
+            "txPgProblema": "DEFICIENTE CAPACIDAD DE GESTIÓN DE RELLENO SANITARIO.",
+            "txPgObjetivo": "IMPLEMENTAR UN RELLENO SANITARIO PARA LA DISPOSICIÓN FINAL DE LOS RESIDUOS SÓLIDOS.",
+            "txPgIndicador": "PORCENTAJE DE RESIDUOS SÓLIDOS.",
+            "txPgMeta": "REDUCIR EL PORCENTAJE DE RESIDUOS SOLIDOS EN BOTADEROS NO AUTORIZADOS EN 40%.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 148624,
+            "txPgProblema": "ALTO NIVEL DE CONTAMINACIÓN DE CUENCA Y RIVERAS A CONSECUENTE DE ARROJO DE RESIDUOS SÓLIDOS POR LA POBLACIÓN Y METALES PESADOS DE LAS EMPRESAS MINERAS.",
+            "txPgObjetivo": "REDUCIR LOS NIVELES DE CONTAMINACIÓN CON LOS ENTES CORRESPONDIENTES DEL GOBIERNO CENTRAL.",
+            "txPgIndicador": "PORCENTAJE DE CONTAMINACIÓN",
+            "txPgMeta": "REDUCIR EL PORCENTAJE DE CONTAMINACIÓN EN 10%.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 148636,
+            "txPgProblema": "DEFICIENTES INSTRUMENTOS DE GESTIÓN LOCAL E INSTRUMENTOS DE GESTIÓN MUNICIPAL (PDC, PEI, POI, TUPA, TUSNE, MAPRO, RASA, CUIS, ROF, MPP, CAP Y PAP",
+            "txPgObjetivo": "ELABORAR, ACTUALIZAR LOS INSTRUMENTOS DE GESTIÓN LOCAL Y MUNICIPAL PARA UNA EFICIENTE ADMINISTRACIÓN.",
+            "txPgIndicador": "NUMERO DE INSTRUMENTOS ELABORADOS Y ACTUALIZADOS.",
+            "txPgMeta": "02 INSTRUMENTOS DE GESTIÓN LOCAL Y 10 INSTRUMENTOS DE GESTIÓN MUNICIPAL.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 148646,
+            "txPgProblema": "ESCASA PARTICIPACIÓN CIUDADANA Y DE ORGANIZACIONES SOCIALES DE BASE EN LOS ESPACIOS DE TOMA DE DECISIONES.",
+            "txPgObjetivo": "FORTALECIMIENTO DE CAPACIDADES A ORGANIZACIONES SOCIALES.",
+            "txPgIndicador": "NUMERO DE ORGANIZACIONES",
+            "txPgMeta": "18 ORGANIZACIONES SOCIALES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 148664,
+            "txPgProblema": "ESCASA ARTICULACIÓN PRESUPUESTAL Y DE INVERSIONES, INTERINSTITUCIONAL ENTRE LOS DIVERSOS NIVELES DE GOBIERNO, PROGRAMAS SOCIALES, INVERSIÓN PRIVADA, ENTRE OTROS.",
+            "txPgObjetivo": "PROMOVER ALIANZAS ESTRATÉGICAS, CONVENIOS, MANCOMUNIDADES A FIN DE ARTICULAR Y CONCERTAR PROYECTOS Y PROGRAMAS DE INTERVENCIÓN COMÚN EN BENEFICIO DE LA POBLACIÓN.",
+            "txPgIndicador": "NUMERO DE ALIANZAS ESTRATÉGICAS.\nNUMERO DE CONVENIOS\nNUMERO DE MANCOMUNIDADES",
+            "txPgMeta": "2 ALIANZAS ESTRATÉGICAS\n4 CONVENIOS\n2 MANCOMUNIDADES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

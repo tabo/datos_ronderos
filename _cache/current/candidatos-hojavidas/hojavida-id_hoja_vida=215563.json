@@ -1,0 +1,155 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 215563.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "19809153",
+        "nombres": "BELISARIO MOISES",
+        "apellidoPaterno": "MENDOZA",
+        "apellidoMaterno": "COLONIO",
+        "sexo": "1",
+        "feNacimiento": "27/02/1965",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110108",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "HUANCAYO",
+        "naciDistrito": "CHILCA",
+        "ubigeoDomicilio": "110108",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "HUANCAYO",
+        "domiDistrito": "CHILCA",
+        "domicilioDirecc": "AV. LAS PALMAS 467 BARR. AUQUIMARCA",
+        "ubigeoPostula": "110108",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "HUANCAYO",
+        "postulaDistrito": "CHILCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/215563.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 14:37:59",
+        "txGuidFormatoHojaVida": "87f9c9c2-9b82-4484-aa55-71d1bab0e1e3",
+        "idSolicitudLista": 33496.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 194357,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 215563,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 149545,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "IST SANTIAGO ANTUNEZ DE MAYOLO",
+                "carreraTecnico": "TECNOLOGIA AGROPECUARIO",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 215563,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 141214,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 122,
+                "orgPolCargoPartidario": "CAMINEMOS JUNTOS POR JUNIN",
+                "cargoPartidario": "FUNDADOR",
+                "anioCargoPartiDesde": "2005",
+                "anioCargoPartiHasta": "2021",
+                "idHojaVida": 215563,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 157571,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 122,
+            "orgPolRenunciaOp": "CAMINEMOS JUNTOS POR JUNIN",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 215563,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 143215,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "TRABAJO COMO AGRICULTOR EN EL DISTRITO DE CHILCA, PROVINCIA DE HU ANCAYODESDE EL AÑO 1980 HASTA LA ACTUALIDAD",
+            "idHojaVida": 215563,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 178788,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 2400.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 215563,
+                "idEstado": 1,
+                "totalIngresos": 2400.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 185855,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "MP3991 ",
+                "valor": 5000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA HONDA CBX125 CUSTOM III COLOR NEGRA",
+                "comentario": null,
+                "idHojaVida": 215563,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

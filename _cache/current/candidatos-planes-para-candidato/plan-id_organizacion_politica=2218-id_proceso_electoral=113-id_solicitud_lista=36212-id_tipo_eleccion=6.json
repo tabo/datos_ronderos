@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 29538,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/a600b952-dcc5-44ec-9ee5-a4c102526452.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/d64fe2de-e5e3-4aa2-a635-b48703ff5d12.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 236351,
+            "txPgProblema": "DIFICULTADES PARA UNA \nBUENA EDUCACIÓN \nBÁSICA REGULAR DE \nCALIDAD.",
+            "txPgObjetivo": "EFICIENTE LOGRO DE \nAPRENDIZAJE EN \nEDUCACIÓN BÁSICA \nREGULAR",
+            "txPgIndicador": "LOGROS DE \nAPRENDIZAJE EN \nEDUCACIÓN BÁSICA \nREGULAR",
+            "txPgMeta": "ALTO LOGROS DE \nAPRENDIZAJE EN \nEDUCACIÓN BÁSICA \nREGULAR AL 100%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 236354,
+            "txPgProblema": "DEFICIENTE ATENCIÓN DE \nSERVICIOS BÁSICOS \n(AGUA, DESAGÜE Y \nENERGÍA ELÉCTRICA).",
+            "txPgObjetivo": "ADECUADO ACCESO DE \nLA POBLACIÓN AL \nSERVICIO DE AGUA, \nDESAGÜE Y \nELECTRICIDAD.",
+            "txPgIndicador": "%DE POBLACIÓN \nSIN ACCESO A LOS \nSERVICIOS BÁSICOS",
+            "txPgMeta": "EFICIENTES SERVICIOS \nBÁSICOS DE AGUA, \nDESAGÜE Y ENERGÍA \nELÉCTRICA,100 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 236356,
+            "txPgProblema": "INADECUADA ATENCIÓN \nBÁSICA DE SALUD",
+            "txPgObjetivo": "ADECUADO ACCESO A \nLOS SERVICIOS DE SALUD \nINTEGRAL",
+            "txPgIndicador": "PERSONAS QUE \nCUENTAN CON \nSEGURO INTEGRAL \nDE SALUD",
+            "txPgMeta": "OPTIMA ATENCIÓN \nBÁSICA DE SALUD AL \n100%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 236358,
+            "txPgProblema": "DEFICIENTE \nPRODUCCIÓN \nAGRÍCOLA.",
+            "txPgObjetivo": "GESTIONAR ASISTENCIA \nTÉCNICA PARA LOS \nAGRICULTORES.",
+            "txPgIndicador": "NUMERO DE \nASOCIACIONES \nCREADAS .",
+            "txPgMeta": "ASISTENCIA TÉCNICA \nPARA LOS \nAGRICULTORES,70%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 236362,
+            "txPgProblema": "DEFICIENTE \nPROMOCIÓN \nTURÍSTICA.",
+            "txPgObjetivo": "ORGANIZAR EL SECTOR \nTURISMO Y PROMOCIONAR \nZONAS TURÍSTICAS.",
+            "txPgIndicador": "NUMERO DE \nORGANIZACIONES \nFORMALIZADAS",
+            "txPgMeta": "FORMALIZACIÓN DE LAS \nORGANIZACIONES DEL \nSECTOR TURISMO Y\nPROMOCIONAR ZONAS \nTURÍSTICAS,75%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 236365,
+            "txPgProblema": "ESCAZAS \nOPORTUNIDADES DE \nACCESO AL \nEMPLEO.",
+            "txPgObjetivo": "PROMOCIONAR CURSOS DE \nCAPACITACIÓN DE CARÁCTER \nOCUPACIONAL.",
+            "txPgIndicador": "NUMERO DE \nORGANIZACIONES \nFORMALIZADAS",
+            "txPgMeta": "CREACIÓN DE PUESTOS \nDE TRABAJO, EN \nDIFERENTES SECTORES AL \n100%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 236367,
+            "txPgProblema": "FALTA DE \nPROTECCIÓN Y \nCUIDADO DEL \nMEDO AMBIENTE.",
+            "txPgObjetivo": "ORGANIZAR \nCAPACITACIONES PARA EL \nCUIDADO DEL MEDIO \nAMBIENTE",
+            "txPgIndicador": "% RESIDUOS \nSÓLIDOS \nDISPUESTOS \nADECUADAMENTE",
+            "txPgMeta": "RESIDUOS SÓLIDOS \nDISPUESTOS \nADECUADAMENTE \n(100%) (RELLENO \nSANITARIO)",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 236370,
+            "txPgProblema": "INADECUADO \nMANEJO DE \nRESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "ADECUADO MANEJO \nINTEGRAL DE LOS RESIDUOS \nSÓLIDOS.",
+            "txPgIndicador": "% DE POBLACIÓN \nSENSIBILIZADA EN \nREUSAR, RECICLAR Y \nREAPROVECHA",
+            "txPgMeta": "POBLACIÓN \nSENSIBILIZADA EN \nREUSAR, RECICLAR Y \nREAPROVECHAR EN UN \n(100%)",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 236372,
+            "txPgProblema": "DAÑOS AL MEDIO \nAMBIENTE DE LA \nZONA.",
+            "txPgObjetivo": "GESTIONAR EL ESTUDIO DE \nIMPACTO AMBIENTAL.",
+            "txPgIndicador": "% \nIMPLEMENTACIÓN \nSISTEMA LOCAL DE \nGESTIÓN \nAMBIENTAL",
+            "txPgMeta": "IMPLEMENTACIÓN \nSISTEMA LOCAL DE \nGESTIÓN AMBIENTAL \n(100%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 236374,
+            "txPgProblema": "IMPLEMENTACIÓN \nSISTEMA LOCAL DE \nGESTIÓN AMBIENTAL \n(100%",
+            "txPgObjetivo": "CONFIANZA EN LOS \nSISTEMAS DE SEGURIDAD \nCIUDADANA.",
+            "txPgIndicador": "CONFIANZA EN LOS \nSISTEMAS DE SEGURIDAD \nCIUDADANA.",
+            "txPgMeta": "INCREMENTAR LOS \nNIVELES DE SEGURIDAD \nCIUDADANA EN 75%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 236378,
+            "txPgProblema": "DEFICIENTE \nSISTEMA DE \nCONTROL INTERNO.",
+            "txPgObjetivo": "EFICIENCIA Y EFICACIA DE \nLOS RECURSOS PÚBLICOS.",
+            "txPgIndicador": "% IMPLEMENTACIÓN \nAL DE UN ADECUADO \nSISTEMA DE \nCONTROL INTERNO",
+            "txPgMeta": "IMPLEMENTACIÓN AL \n70% DE UN ADECUADO \nSISTEMA DE CONTROL \nINTERNO PREVENTIVO, \nSIMULTÁNEO Y \nPOSTERIOR",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 236381,
+            "txPgProblema": "INADECUADA \nPRESTACIÓN DE LOS \nSERVICIOS PÚBLICOS \nAL CIUDADANO.",
+            "txPgObjetivo": "GESTIÓN PÚBLICA \nEFICIENTE, EFICAZ Y \nTRANSPARENTE EN LA \nCALIDAD DE LOS SERVICIOS PÚBLICOS Y EL BUEN \nDESEMPEÑO DE LA \nENTIDAD",
+            "txPgIndicador": "% DE POBLACIÓN \nSENSIBILIZADA EN \nGESTIÓN DE RIESGO \nDE DESASTRE",
+            "txPgMeta": "ADECUADO SERVICIO AL \nCIUDADANO (75% DEL \nPERSONAL \nADECUADAMENTE CAPACITADO EN \nGESTIÓN PÚBLICA POR \nRESULTADOS)",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

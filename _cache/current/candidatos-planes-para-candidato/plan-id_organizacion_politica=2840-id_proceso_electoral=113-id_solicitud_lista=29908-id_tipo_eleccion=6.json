@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23234,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2840,
+        "txOrganizacionPolitica": "PARTIDO MORADO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/8b051a56-4bf9-4a49-8b2d-82e756d19ad8.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/6445991b-443b-48cf-a693-94fb89f92c7c.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 173129,
+            "txPgProblema": "1.\tINSEGURIDAD CIUDADANA",
+            "txPgObjetivo": "EL OBJETIVO DEBE BASARSE EN LA ACCIÓN DE REGISTRO, DISUASIÓN Y APORTE A LAS AUTORIDADES COMPETENTES EN MATERIAS DE SEGURIDAD.",
+            "txPgIndicador": "PORCENTAJE DE SECTORES DEL DISTRITO QUE NO CUENTAN CON ADECUADOS CON MEDIOS DE VIGILANCIA ADECUADOS.\nCADA PROGRAMA IRÁ ADECUADO A LOS INDICADORES IDENTIFICADOS.",
+            "txPgMeta": "REDUCIR LA BRECHA POR DEBAJO DEL 20% DEL INDICADOR PRINCIPAL.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 173195,
+            "txPgProblema": "2.\tFALTA DE SISTEMAS DE VIGILANCIA",
+            "txPgObjetivo": "REDUCIR SIGNIFICATIVAMENTE LAS INCIDENCIAS DELICTIVAS",
+            "txPgIndicador": "NUMERO DE INCIDENTES DELICTIVOS EVITADOS POR VIGILANCIA CONTINUA",
+            "txPgMeta": "HACER LÍNEA BASE EN LOS PUNTOS NEURÁLGICOS DURANTE LA IMPLEMENTACIÓN Y REDUCIRLA AL 30% AL TÉRMINO DE LA GESTIÓN.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 173212,
+            "txPgProblema": "3. INADECUADO SERVICIO DE LIMPIEZA PÚBLICA",
+            "txPgObjetivo": "MEJORAR EL SERVICIO DE LIMPIEZA PÚBLICA",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN NO ATENDIDA POR UN ADECUADO SERVICIO DE LIMPIEZA PÚBLICA",
+            "txPgMeta": "REDUCIR A MENOS DE 15% EL PORCENTAJE DE POBLACIÓN NO ATENDIDA POR UN ADECUADO SERVICIO DE LIMPIEZA PÚBLICA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 173297,
+            "txPgProblema": "1. \tPREDIOS INFORMALES EN EL DISTRITO",
+            "txPgObjetivo": "FORMALIZAR LOS PREDIOS EN EL DISTRITO",
+            "txPgIndicador": "BRECHA DE RECAUDACIÓN TRIBUTARIA POR LA FALTA DE PREDIOS FORMALES",
+            "txPgMeta": "REDUCIR A 0 EL PORCENTAJE DE PREDIOS URBANOS SIN CATASTRO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 173324,
+            "txPgProblema": "2.NEGOCIOS INFORMALES EN EL DISTRITO",
+            "txPgObjetivo": "INCENTIVAR LA FORMALIZACIÓN DE NEGOCIOS Y REDUCIR EL RIESGO DE LOS EMPRENDEDORES AL SER AMBULANTES.\nOPTIMIZAR LOS PROCESOS ADMINISTRATIVOS EN UN 50%",
+            "txPgIndicador": "PORCENTAJE DE NEGOCIOS INFORMALES EN EL DISTRITO",
+            "txPgMeta": "MAPEAR Y REDUCIR EN MENOS DEL 5% LOS NEGOCIOS INFORMALES EN EL DISTRITO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 173361,
+            "txPgProblema": "3. NEGOCIOS ILÍCITOS EN EL DISTRITO, MEDIANTE PROGRAMAS MUNICIPALES DE RESOCIALIZACIÓN Y PROGRAMAS DE DEPORTE/ CULTURALES",
+            "txPgObjetivo": "BRINDAR OPORTUNIDADES DE DESARROLLO A VECINOS DE ESCASOS RECURSOS Y CON ANTECEDENTES PENALES POR DELITOS MENORES.",
+            "txPgIndicador": "NÚMERO DE NEGOCIOS ILÍCITOS EN EL DISTRITO",
+            "txPgMeta": "MINIMIZACIÓN DE NEGOCIOS ILÍCITOS EN EL DISTRITO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 173378,
+            "txPgProblema": "1.\tTUGURIZACIÓN DEL DISTRITO Y CONTAMINACIÓN AMBIENTAL (AIRE, SUELO)",
+            "txPgObjetivo": "MEJORAR LA ORGANIZACIÓN DEL ESPACIO FÍSICO Y USO DE SUELO DEL DISTRITO.",
+            "txPgIndicador": "PORCENTAJE DE ECOSISTEMAS DEGRADADOR QUE BRINDAN SERVICIOS ECOSISTÉMICOS QUE REQUIEREN DE RECUPERACIÓN",
+            "txPgMeta": "MEJORAR LA TRANSITABILIDAD EN EL DISTRITO Y REGULAR ADECUADAMENTE LA CONSTRUCCIÓN DE CONJUNTOS HABITACIONALES.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 173390,
+            "txPgProblema": "2\tDISTRITO CON MENOS ESPACIO PÚBLICO POR HABITANTE",
+            "txPgObjetivo": "MEJORAR LA ORGANIZACIÓN DEL ESPACIO FÍSICO Y USO DE SUELO DEL DISTRITO.",
+            "txPgIndicador": "DISTRITO CON MENOR ESPACIO PÚBLICO POR HABITANTE EN LIMA METROPOLITANA",
+            "txPgMeta": "GENERAR ESPACIOS PÚBLICOS PARA LAS FAMILIAS A TRAVÉS DE LA ORGANIZACIÓN DEL DISTRITO, MEDIANTE ACTIVIDADES, MEJORAMIENTO DE PARQUES Y JARDINES, RECUPERACIÓN DEL ESPACIO.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 173402,
+            "txPgProblema": "3\tFALTA DE INFRAESTRUCTURA DE GESTIÓN DE RESIDUOS SÓLIDOS MUNICIPALES Y NO MUNICIPALES",
+            "txPgObjetivo": "MEJORAR LA GESTIÓN DE LOS RESIDUOS SÓLIDOS",
+            "txPgIndicador": "NÚMERO DE CALLES CONTAMINADAS CON BASURA SIN CLASIFICACIÓN.",
+            "txPgMeta": "IMPLEMENTAR UNA GESTIÓN ADECUADA DE RESIDUOS SÓLIDOS MUNICIPALES Y NO MUNICIPALES, QUE INCLUYAN LA VALORIZACIÓN, RECICLAJE, REUSO Y REDUCCIÓN DE LOS RESIDUOS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 173414,
+            "txPgProblema": "1.\tBAJA TASA DE RECAUDACIÓN POR INFORMALIDAD EN EL DISTRITO",
+            "txPgObjetivo": "IMPULSAR LA FORMALIDAD DE LOS NEGOCIOS, DEBILITANDO A LAS MAFIAS Y DESARROLLANDO CIUDADANOS DE MANERA SOSTENIBLE EN EL TIEMPO",
+            "txPgIndicador": "BRECHA DE RECAUDACIÓN TRIBUTARIA POR INFORMALIDAD DE NEGOCIOS",
+            "txPgMeta": "IDENTIFICAR Y REDUCIR LA INFORMALIDAD HASTA EN UN 70% DE LO QUE SE MAPEE",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 173427,
+            "txPgProblema": "2.\tGRAN CANTIDAD DE PREDIOS SIN CATASTRO",
+            "txPgObjetivo": "IDENTIFICAR Y PONER EN LA FORMALIDAD A LOS PREDIOS SIN CATASTRO DEL DISTRITO",
+            "txPgIndicador": "PORCENTAJE DE PREDIOS URBANOS SIN CATASTRO",
+            "txPgMeta": "REDUCIR A MENOS DEL 20% EL PORCENTAJE DE PREDIOS URBANOS SIN CATASTRO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 173440,
+            "txPgProblema": "3.\tBUROCRACIA Y SERVICIOS ADMINISTRATIVOS MUNICIPALES DE MALA CALIDAD",
+            "txPgObjetivo": "CONVERTIR A BREÑA EN UN DISTRITO MODELO EN TRÁMITES Y RECAUDACIÓN",
+            "txPgIndicador": "BRECHA EN LA MODERNIZACIÓN Y EFICIENCIA EN LOS TRÁMITES MUNICIPALES",
+            "txPgMeta": "MODERNIZAR EN UN 100% LOS SERVICIOS ADMINISTRATIVOS MUNICIPALES Y SER LA GESTIÓN MODELO A NIVEL METROPOLITANO AL TÉRMINO DEL MANDATO.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

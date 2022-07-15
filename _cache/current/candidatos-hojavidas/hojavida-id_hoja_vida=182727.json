@@ -1,0 +1,157 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 182727.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "77377155",
+        "nombres": "MIRIAM",
+        "apellidoPaterno": "CASTILLO",
+        "apellidoMaterno": "AGUILAR",
+        "sexo": "2",
+        "feNacimiento": "01/07/1997",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "070907",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "LA CONVENCION",
+        "naciDistrito": "VILCABAMBA",
+        "ubigeoDomicilio": "070913",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "LA CONVENCION",
+        "domiDistrito": "VILLA KINTIARINA",
+        "domicilioDirecc": "RAUL MINDIVIL",
+        "ubigeoPostula": "070913",
+        "postulaDepartamento": "CUSCO",
+        "postulaProvincia": "LA CONVENCION",
+        "postulaDistrito": "VILLA KINTIARINA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/182727.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2857.0,
+        "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 13:39:07",
+        "txGuidFormatoHojaVida": "d207f853-bec9-43a5-a0d1-caa2ac5dfa69",
+        "idSolicitudLista": 29186.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 169213,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "VILLA KINTIARINA",
+            "ocupacionProfesion": "EMPRENDEDORA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "RAUL MINDIVIL",
+            "anioTrabajoDesde": "2018",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "070913",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CUSCO",
+            "trabajoProvincia": "LA CONVENCION",
+            "trabajoDistrito": "VILLA KINTIARINA",
+            "idHojaVida": 182727,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 148120,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 182727,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 140378,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 2191,
+            "orgPolRenunciaOp": "DEMOCRACIA DIRECTA",
+            "anioRenunciaOp": "2020",
+            "idHojaVida": 182727,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 140377,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2173,
+            "orgPolRenunciaOp": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+            "anioRenunciaOp": "2022",
+            "idHojaVida": 182727,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 144406,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 12000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 12000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 182727,
+                "idEstado": 1,
+                "totalIngresos": 24000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 181441,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "RAUL M INDIV IL",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 20000.0,
+                "idHojaVida": 182727,
+                "idEstado": 1,
+                "flValor": "35000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

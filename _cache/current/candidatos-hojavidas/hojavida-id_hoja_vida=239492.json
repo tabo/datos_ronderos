@@ -1,0 +1,130 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 239492.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43009028",
+        "nombres": "JUAN CARLOS",
+        "apellidoPaterno": "SANCHEZ",
+        "apellidoMaterno": "RUIZ",
+        "sexo": "1",
+        "feNacimiento": "22/04/1985",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "021302",
+        "naciDepartamento": "ANCASH",
+        "naciProvincia": "SANTA",
+        "naciDistrito": "CACERES DEL PERU",
+        "ubigeoDomicilio": "021302",
+        "domiDepartamento": "ANCASH",
+        "domiProvincia": "SANTA",
+        "domiDistrito": "CACERES DEL PERU",
+        "domicilioDirecc": "JR.ESPINAR MZ.P LT.7 JIMBE",
+        "ubigeoPostula": "021302",
+        "postulaDepartamento": "ANCASH",
+        "postulaProvincia": "SANTA",
+        "postulaDistrito": "CACERES DEL PERU",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/239492.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 360.0,
+        "organizacionPolitica": "MOVIMIENTO ACCION NACIONALISTA PERUANO",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 14:10:38",
+        "txGuidFormatoHojaVida": "f5f3b465-7ef9-4562-9981-ca73472f9a3c",
+        "idSolicitudLista": 36257.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 244354,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CACERES DEL PERU",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "021302",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ANCASH",
+            "trabajoProvincia": "SANTA",
+            "trabajoDistrito": "CACERES DEL PERU",
+            "idHojaVida": 239492,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 210703,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 239492,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 191550,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 13000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 239492,
+                "idEstado": 1,
+                "totalIngresos": 13000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 135486,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "00905-2006-0-2501-SR-PE-02",
+            "feSentenciaPenal": "22/03/2011",
+            "txOrganoJudiPenal": "JUZGADO PENAL LIQUIDADOR",
+            "txDelitoPenal": "LESIONES GRAVES",
+            "txFalloPenal": "DOS AÑOS",
+            "idParamModalidad": 11,
+            "txModalidad": "SUSPENDIDA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 239492,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": []
+}

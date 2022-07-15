@@ -1,0 +1,223 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 234615.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42568336",
+        "nombres": "ANDY GLENM",
+        "apellidoPaterno": "CASTELO",
+        "apellidoMaterno": "CARBAJAL",
+        "sexo": "1",
+        "feNacimiento": "06/08/1984",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040101",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "AREQUIPA",
+        "naciDistrito": "AREQUIPA",
+        "ubigeoDomicilio": "040126",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "AREQUIPA",
+        "domiDistrito": "MARIANO MELGAR",
+        "domicilioDirecc": "CALLE ARIAS ARAGÜEZ 829",
+        "ubigeoPostula": "040126",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "AREQUIPA",
+        "postulaDistrito": "MARIANO MELGAR",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/234615.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2719.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL REVALORA",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 18:12:02",
+        "txGuidFormatoHojaVida": "65305dda-82db-4ee2-9e3a-af6b7ce952b6",
+        "idSolicitudLista": 35678.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 238132,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CENTRO VETERINARIO SCRAPPY DOO",
+            "ocupacionProfesion": "MEDICO VETERINARIO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AVENIDA JESUS N° 2005",
+            "anioTrabajoDesde": "2012",
+            "anioTrabajoHasta": "2016",
+            "ubigeoTrabajo": "040109",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "AREQUIPA",
+            "trabajoDistrito": "PAUCARPATA",
+            "idHojaVida": 234615,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        },
+        {
+            "idHvExpeLaboral": 238151,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 2,
+            "centroTrabajo": "CLINICAS VETERINARIAS CASTELO E.I.R.L",
+            "ocupacionProfesion": "MEDICO VETERINARIO",
+            "rucTrabajo": "20601580773",
+            "direccionTrabajo": "AV. JESUS 2510 - PAUCARPATA",
+            "anioTrabajoDesde": "2016",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "040109",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "AREQUIPA",
+            "trabajoDistrito": "PAUCARPATA",
+            "idHojaVida": 234615,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 210248,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 234615,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 153657,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "INSTITUTO AGRARIO DEL SUR",
+                "carreraTecnico": "EGRESADO",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 234615,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "ZOOTECNIA Y VETERINARIA"
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 180745,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "2",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD CATÓLICA DE SANTA MARÍA",
+                "carreraUni": "BACHILLER EN MEDICINA VETERINARIA Y ZOOTECNIA",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2014",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            },
+            {
+                "idHvEduUniversitaria": 180744,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD CATÓLICA DE SANTA MARÍA",
+                "carreraUni": "MEDICO VETERINARIO Y ZOOTECNISTA",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2015",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 162913,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 3,
+            "orgPolRenunciaOp": "TODOS POR EL PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 234615,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 190700,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 30000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 234615,
+                "idEstado": 1,
+                "totalIngresos": 30000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 194909,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "V7X281 ",
+                "valor": 60000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA SUZUKI MODELO APV",
+                "comentario": null,
+                "idHojaVida": 234615,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 194908,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "A4P853 ",
+                "valor": 17000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA NISSAN , MODELO USLGD211SF",
+                "comentario": "EL VALOR ES UN MONTO APROXIMADO YA QUE EL BIEN SE ADQUIRIÓ PRODUCTO DE LA SUCESION INTESTADA DE MI PADRE ENRIQUE CASTELO CHARALLA",
+                "idHojaVida": 234615,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

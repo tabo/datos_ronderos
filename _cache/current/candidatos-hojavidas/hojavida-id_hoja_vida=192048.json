@@ -1,0 +1,146 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 192048.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "06809792",
+        "nombres": "MARGOT",
+        "apellidoPaterno": "ALARCON",
+        "apellidoMaterno": "FAUSTINO",
+        "sexo": "2",
+        "feNacimiento": "10/04/1974",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140112",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "LURIGANCHO",
+        "ubigeoDomicilio": "140630",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "HUAROCHIRI",
+        "domiDistrito": "HUACHUPAMPA",
+        "domicilioDirecc": "LA CANTUTA MZ.E LT.9 COM. QUILCAMACHAY VICAS",
+        "ubigeoPostula": "140630",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "HUAROCHIRI",
+        "postulaDistrito": "HUACHUPAMPA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/192048.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 4.0,
+        "organizacionPolitica": "ACCION POPULAR",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 00:42:03",
+        "txGuidFormatoHojaVida": "8d50783c-1a4d-43a8-a201-746e3215dcce",
+        "idSolicitudLista": 30466.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 213603,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "COMERCIANTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CHOSICA",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140112",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "LURIGANCHO",
+            "idHojaVida": 192048,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 188185,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 192048,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 155323,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 47,
+            "orgPolRenunciaOp": "UNION POR EL PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 192048,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 174013,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 30000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 192048,
+                "idEstado": 1,
+                "totalIngresos": 30000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 217753,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "PUESTO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "MERCADO SEÑOR DE LOS MILAGROS",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 30000.0,
+                "idHojaVida": 192048,
+                "idEstado": 1,
+                "flValor": "30000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,158 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 208569.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "17948096",
+        "nombres": "CARLOS TIMOTEO",
+        "apellidoPaterno": "FLORES",
+        "apellidoMaterno": "VARGAS",
+        "sexo": "1",
+        "feNacimiento": "24/01/1966",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "120101",
+        "naciDepartamento": "LA LIBERTAD",
+        "naciProvincia": "TRUJILLO",
+        "naciDistrito": "TRUJILLO",
+        "ubigeoDomicilio": "120110",
+        "domiDepartamento": "LA LIBERTAD",
+        "domiProvincia": "TRUJILLO",
+        "domiDistrito": "EL PORVENIR",
+        "domicilioDirecc": "CALLE SANTA CLARA 793 GRAN CHIMU",
+        "ubigeoPostula": "120110",
+        "postulaDepartamento": "LA LIBERTAD",
+        "postulaProvincia": "TRUJILLO",
+        "postulaDistrito": "EL PORVENIR",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/208569.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2840.0,
+        "organizacionPolitica": "PARTIDO MORADO",
+        "numeroCandidato": 7.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 20:50:43",
+        "txGuidFormatoHojaVida": "7423e518-a999-4fd0-aba9-3e203cdcb25e",
+        "idSolicitudLista": 32591.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 185240,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "ACADEMIA PRE UNIVERSITARIA ENGELS",
+            "ocupacionProfesion": "PROFESOR",
+            "rucTrabajo": "20481550069",
+            "direccionTrabajo": "AV PUMACAHUA 1232",
+            "anioTrabajoDesde": "2001",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "120110",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LA LIBERTAD",
+            "trabajoProvincia": "TRUJILLO",
+            "trabajoDistrito": "EL PORVENIR",
+            "idHojaVida": 208569,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 163083,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 208569,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 156503,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD NACIONAL DE TRUJILLO",
+                "carreraUni": "MATEMATICA",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 146056,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2218,
+            "orgPolRenunciaOp": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 208569,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 155131,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 30000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 208569,
+                "idEstado": 1,
+                "totalIngresos": 30000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 166336,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "MD22317",
+                "valor": 3800.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO COLOR ROJO Y NEGRO, MOTOR 150",
+                "comentario": null,
+                "idHojaVida": 208569,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

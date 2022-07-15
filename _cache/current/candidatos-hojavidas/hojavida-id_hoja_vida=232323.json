@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 232323.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "41505872",
+        "nombres": "EMILIANO ARCADIO",
+        "apellidoPaterno": "CASTILLO",
+        "apellidoMaterno": "MORENO",
+        "sexo": "1",
+        "feNacimiento": "13/10/1982",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "021101",
+        "naciDepartamento": "ANCASH",
+        "naciProvincia": "POMABAMBA",
+        "naciDistrito": "POMABAMBA",
+        "ubigeoDomicilio": "021101",
+        "domiDepartamento": "ANCASH",
+        "domiProvincia": "POMABAMBA",
+        "domiDistrito": "POMABAMBA",
+        "domicilioDirecc": "CP CONOPA S/N",
+        "ubigeoPostula": "021100",
+        "postulaDepartamento": "ANCASH",
+        "postulaProvincia": "POMABAMBA",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/232323.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 11:06:34",
+        "txGuidFormatoHojaVida": "67b9fd41-64e8-4a23-a284-05f7d2c72b80",
+        "idSolicitudLista": 35406.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 216202,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "SERVICIO DE TRASPORTE DE PASAJEROS",
+            "ocupacionProfesion": "CHOFER",
+            "rucTrabajo": "20569106118",
+            "direccionTrabajo": "CONOPA",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "021101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ANCASH",
+            "trabajoProvincia": "POMABAMBA",
+            "trabajoDistrito": "POMABAMBA",
+            "idHojaVida": 232323,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 190527,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 232323,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 140560,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "IESPP-POMABAMBA",
+                "carreraNoUni": "PROFESORA DE EDUCACIÓN PRIMARIA",
+                "concluidoNoUni": "2",
+                "idHojaVida": 232323,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 156214,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 14,
+            "orgPolRenunciaOp": "PARTIDO DEMOCRATICO SOMOS PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 232323,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 183437,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "A9A768 ",
+                "valor": 25000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COMBI NISSAN",
+                "comentario": null,
+                "idHojaVida": 232323,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 183436,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "B1N736 ",
+                "valor": 150000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "TOYOTA",
+                "comentario": null,
+                "idHojaVida": 232323,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

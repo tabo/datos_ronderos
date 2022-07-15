@@ -1,0 +1,162 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 142100.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43777390",
+        "nombres": "JESUS",
+        "apellidoPaterno": "QUISPE",
+        "apellidoMaterno": "PEREZ",
+        "sexo": "1",
+        "feNacimiento": "15/10/1981",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "070902",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "LA CONVENCION",
+        "naciDistrito": "ECHARATE",
+        "ubigeoDomicilio": "070902",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "LA CONVENCION",
+        "domiDistrito": "ECHARATE",
+        "domicilioDirecc": "POBLADO PALMA REAL",
+        "ubigeoPostula": "070902",
+        "postulaDepartamento": "CUSCO",
+        "postulaProvincia": "LA CONVENCION",
+        "postulaDistrito": "ECHARATE",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/142100.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2857.0,
+        "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 19:36:29",
+        "txGuidFormatoHojaVida": "b7e5bc60-dbde-4ad9-8e98-4cf111683a3b",
+        "idSolicitudLista": 23722.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 209345,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MUNICIPALIDAD DISTRITAL DE QUELLOUNO",
+            "ocupacionProfesion": "ASISTENTE TECNICO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "PLAZA DE ARMAS SN QUELLOUNO",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "070908",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CUSCO",
+            "trabajoProvincia": "LA CONVENCION",
+            "trabajoDistrito": "QUELLOUNO",
+            "idHojaVida": 142100,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 184271,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 142100,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 167288,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD ANDINA DEL CUSCO",
+                "carreraUni": "BACHILLER EN CONTABILIDAD",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2019",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 171190,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 36000.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 142100,
+                "idEstado": 1,
+                "totalIngresos": 36000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 179736,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "X43000 ",
+                "valor": 7000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR",
+                "comentario": null,
+                "idHojaVida": 142100,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 179735,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "B4W341 ",
+                "valor": 20000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "TOYOTA",
+                "comentario": null,
+                "idHojaVida": 142100,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 25075,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1654,
+        "juradoElectoral": "BOLOGNESI",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/2fb44447-09dc-4f81-be3b-05cf8257ab0b.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/006a8db2-cb11-4d3b-981f-f8ded14a6c96.pdf",
+        "txCodExpedienteExt": "ERM.2022008935",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 186791,
+            "txPgProblema": "INCREMENTO DE ENFERMEDADES INFECCIOSAS GASTROINTESTINALES E INFECTOCONTAGIOSAS",
+            "txPgObjetivo": "DISMINUIR LAS ENFERMEDADES INFECCIOSAS GASTROINTESTINALES E INFECTOCONTAGIOSAS",
+            "txPgIndicador": "PORCENTAJE DE LAS VIVIENDAS CON ACCESO AL SERVICIO DE AGUA Y ALCANTARILLADO",
+            "txPgMeta": "60%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 186832,
+            "txPgProblema": "PREVALENCIA DE LA DESNUTRICIÓN CRÓNICA INFANTIL DE NIÑOS MENORES DE 5 AÑOS",
+            "txPgObjetivo": "DISMINUIR DE LA TASA DE DESNUTRICIÓN INFANTIL DE NIÑOS MENORES DE 5 AÑOS",
+            "txPgIndicador": "TASA DE DESNUTRICIÓN INFANTIL DE NIÑOS MENORES DE 5 AÑOS",
+            "txPgMeta": "6%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 186901,
+            "txPgProblema": "ALTOS ÍNDICES DE VIOLENCIA FÍSICA Y PSICOLÓGICA DE LA MUJER",
+            "txPgObjetivo": "ERRADICAR LA VIOLENCIA FÍSICA Y PSICOLÓGICA DE LA MUJER",
+            "txPgIndicador": "PORCENTAJE DE MUJERES EMPRENDEDORAS",
+            "txPgMeta": "35%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 187029,
+            "txPgProblema": "DEFICIENCIA DEL SISTEMA DEL DE RIEGO",
+            "txPgObjetivo": "INCREMENTAR LA EFICIENCIA DEL SISTEMA DE RIEGO",
+            "txPgIndicador": "PORCENTAJE DE CANALES DE RIEGO REVESTIDOS",
+            "txPgMeta": "40%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 187069,
+            "txPgProblema": "INEFICIENTE E INADECUADA INFRAESTRUCTURA ECONÓMICA Y PRODUCTIVA DE USO PÚBLICO",
+            "txPgObjetivo": "SUFICIENTE Y ADECUADA INFRAESTRUCTURA ECONÓMICA Y PRODUCTIVA  DE USO PÚBLICO",
+            "txPgIndicador": "PORCENTAJE DE LONGITUD DE LA RED VIAL VECINAL ADECUADA",
+            "txPgMeta": "70%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 187078,
+            "txPgProblema": "ESCASAS CAPACIDADES PRODUCTIVAS PARA GENERACIÓN DE INGRESOS",
+            "txPgObjetivo": "FORTALECER LAS CAPACIDADES PRODUCTIVAS",
+            "txPgIndicador": "N° DE PRODUCTORES QUE SI RECIBIERON ASISTENCIA TÉCNICA",
+            "txPgMeta": "72",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 187733,
+            "txPgProblema": "INADECUADA OPERATIVIDAD DE LA INFRAESTRUCTURA DE MANEJO DE RESIDUOS SÓLIDOS",
+            "txPgObjetivo": "CERTIFICACIÓN AMBIENTAL DE LA INFRAESTRUCTURA DE MANEJO DE RESIDUOS SÓLIDOS",
+            "txPgIndicador": "PORCENTAJE DE VALORIZACIÓN DE RESIDUOS SÓLIDOS ORGÁNICOS",
+            "txPgMeta": "8 T/AÑO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 187751,
+            "txPgProblema": "ESCASES DE AGUA PARA CONSUMO HUMANO Y RIEGO",
+            "txPgObjetivo": "DESARROLLAR ALTERNATIVA AMBIENTAL PARA AUMENTO DE RECURSOS HÍDRICOS",
+            "txPgIndicador": "NÚMERO DE PROYECTOS EJECUTADOS DE SIEMBRA Y COSECHA DE AGUA",
+            "txPgMeta": "2",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 187814,
+            "txPgProblema": "BAJA PARTICIPACIÓN DE LA MUJER EN LAS REUNIONES DE PRESUPUESTO PARTICIPATIVO",
+            "txPgObjetivo": "FORTALECER LA PARTICIPACIÓN DE LA MUJER EN LAS REUNIONES DE PRESUPUESTO PARTICIPATIVO",
+            "txPgIndicador": "PORCENTAJE DE MUJERES QUE PARTICIPAN EN LAS JUNTAS DIRECTIVAS DE LAS ORGANIZACIONES SOCIALES DE BASE",
+            "txPgMeta": "50%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 187833,
+            "txPgProblema": "DÉBIL RELACIÓN ESTADO - SOCIEDAD",
+            "txPgObjetivo": "FORTALECER SISTEMA DE TRANSPARENCIA Y RENDICIÓN DE CUENTAS",
+            "txPgIndicador": "CREACIÓN DE UNA PÁGINA INSTITUCIONAL",
+            "txPgMeta": "1",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 187846,
+            "txPgProblema": "DÉBIL PLANIFICACIÓN EN LA GESTIÓN MUNICIPAL",
+            "txPgObjetivo": "FORTALECIMIENTO DE LA PLANIFICACIÓN EN LA GESTIÓN MUNICIPAL",
+            "txPgIndicador": "N° DE INSTRUMENTOS DE GESTIÓN DE PLANIFICACIÓN",
+            "txPgMeta": "22",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

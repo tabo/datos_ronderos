@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20035,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 303,
+        "txOrganizacionPolitica": "JUNIN SOSTENIBLE CON SU GENTE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1669,
+        "juradoElectoral": "CONCEPCION",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/ed586299-4be9-4e03-bd40-c586796bbead.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/b7704fd1-9183-4041-96be-429268e9d2f8.pdf",
+        "txCodExpedienteExt": "ERM.2022006163",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 134212,
+            "txPgProblema": "1.LOCALIDADES SIN RED DE AGUA Y DESAGÜE - PROGRAMA",
+            "txPgObjetivo": "MEJOR CONDICIÓN DE VIDA, BIENESTAR SOCIAL",
+            "txPgIndicador": "CANTIDAD DE LOCALIDADES CON RED DE AGUA Y DESAGÜE",
+            "txPgMeta": "100%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134271,
+            "txPgProblema": "2.LOCALIDADES SIN VEREDAS Y CALLES ASFALTADAS - PROGRAMA",
+            "txPgObjetivo": "MEJOR CONDICIÓN DE VIDA, BIENESTAR SOCIAL",
+            "txPgIndicador": "CANTIDAD DE LOCALIDADES CON PISTAS Y VEREDAS",
+            "txPgMeta": "85%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134288,
+            "txPgProblema": "3.  POCOS SERVICIOS HOSPITALARIOS",
+            "txPgObjetivo": "MEJOR CONDICIÓN DE VIDA, BIENESTAR SOCIAL",
+            "txPgIndicador": "CANTIDAD DE NUEVOS SERVICIOS HOSPITALARIOS",
+            "txPgMeta": "85%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 134317,
+            "txPgProblema": "1.LOCALIDADES EN POBREZA",
+            "txPgObjetivo": "REDUCCIÓN DE LA POBREZA",
+            "txPgIndicador": "CANTIDAD PROGRAMAS DE EMPRENDEDORES",
+            "txPgMeta": "100%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134325,
+            "txPgProblema": "2.LOCALIDADES EN EXTREMA POBREZA",
+            "txPgObjetivo": "REDUCCIÓN DE LA EXTREMA POBREZA",
+            "txPgIndicador": "CANTIDAD DE PROYECTOS PRODUCTIVOS SOSTENIBLES",
+            "txPgMeta": "90%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134348,
+            "txPgProblema": "3.CARENCIA DE TURISMO EN NUESTRA LOCALIDAD",
+            "txPgObjetivo": "REDUCCIÓN DEL DESEMPLEO",
+            "txPgIndicador": "CANTIDAD DE PROYECTOS PARA SER UN DISTRITO TURÍSTICO",
+            "txPgMeta": "90%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 134374,
+            "txPgProblema": "1.NOTORIA Y SIGNIFICATIVA DEFORESTACIÓN",
+            "txPgObjetivo": "REDUCIR CONTAMINACIÓN AMBIENTAL Y PROTEGER EL MEDIO AMBIENTE",
+            "txPgIndicador": "CANTIDAD DE NUEVOS PROYECTOS DE REFORESTACIÓN",
+            "txPgMeta": "100%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134408,
+            "txPgProblema": "2.DEFICIENTE RECOLECCIÓN Y TRATAMIENTO DE RESIDUOS SÓLIDOS",
+            "txPgObjetivo": "REDUCIR LA CONTAMINACIÓN Y ENFERMEDADES",
+            "txPgIndicador": "CANTIDAD DE NUEVOS PROYECTOS DE TRATAMIENTO DE RESIDUOS SÓLIDOS",
+            "txPgMeta": "90%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134429,
+            "txPgProblema": "3.DEFICIENTE ESTADO DE POZO DE OXIDACIÓN",
+            "txPgObjetivo": "MEJORAR LA SALUD DE LOS POBLADORES",
+            "txPgIndicador": "CANTIDAD DE NUEVOS PROYECTOS PARA MEJORAR O UN NUEVO POZO DE OXIDACIÓN",
+            "txPgMeta": "90%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 134450,
+            "txPgProblema": "1.DEFICIENTE ATENCIÓN AL PÚBLICO DE LOS TRABAJADORES DE LA ENTIDADES PÚBLICAS",
+            "txPgObjetivo": "MEJORAR LOS PROCESOS DE ATENCIÓN A LOS POBLADORES",
+            "txPgIndicador": "CANTIDAD DE CAPACITACIÓN A LOS TRABAJADORES",
+            "txPgMeta": "100%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134464,
+            "txPgProblema": "2.DEFICIENTE APOYO A LA CULTURA",
+            "txPgObjetivo": "MEJORAR LA PRÁCTICA E IDENTIFICACIÓN DE LAS COSTUMBRES",
+            "txPgIndicador": "CANTIDAD DE COSTUMBRES Y FESTIVIDADES PERDIDAS",
+            "txPgMeta": "100%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134483,
+            "txPgProblema": "3.DEFICIENTE SEGURIDAD CIUDADANA",
+            "txPgObjetivo": "MEJORAR EL SERVICIO DE VIGILANCIA",
+            "txPgIndicador": "CANTIDAD DE PROYECTOS PARA MEJORAR EL SERVICIO DE VIGILANCIA",
+            "txPgMeta": "90%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

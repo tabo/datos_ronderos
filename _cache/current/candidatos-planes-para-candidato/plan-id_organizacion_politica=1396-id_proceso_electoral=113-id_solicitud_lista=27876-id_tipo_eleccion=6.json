@@ -1,0 +1,115 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 21202,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1396,
+        "txOrganizacionPolitica": "TODOS SOMOS UCAYALI",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/75d552d6-5261-46ee-b047-fbdcc658e769.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/cd0cdb12-d602-4e13-97ed-8d446b77fc54.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 134655,
+            "txPgProblema": "NIÑOS, NIÑAS Y ADOLESCENTES ENTRE 3 A 16 AÑOS CON LIMITADAS OPORTUNIDADES PARA ACCEDER A SERVICIOS DE EDUCACIÓN BÁSICA REGULAR PERTINENTES Y DE CALIDAD.",
+            "txPgObjetivo": "INSTITUCIONES EDUCATIVAS GESTIONADAS CON CONDICIONES SUFICIENTES PARA LA ATENCIÓN.",
+            "txPgIndicador": "PORCENTAJE DE ALUMNOS DE NIVEL INICIAL, PRIMARIO Y NIVEL SECUNDARIO EN COMPRENSIÓN LECTORA Y RAZONAMIENTO MATEMÁTICO.",
+            "txPgMeta": "5% DE SERVICIOS EDUCATIVOS INTERVENIDOS POR EL PROGRAMA FUNCIONANDO, SEGÚN NIVEL EDUCATIVO CON CONDICIONES BÁSICAS.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134665,
+            "txPgProblema": "INSUFICIENTE ACCESO DE LA POBLACIÓN A LOS SERVICIOS DE SANEAMIENTO DE CALIDAD Y SOSTENIBLES.",
+            "txPgObjetivo": "POBLACIÓN URBANA CON ACCESO A LOS SERVICIOS DE SANEAMIENTO DE CALIDAD Y SOSTENIBLES.",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN SIN COBERTURA DE AGUA Y DESAGUE",
+            "txPgMeta": "9% HOGARES URBANOS CON ACCESO A AGUA POTABLE POR RED PÚBLICA.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134918,
+            "txPgProblema": "LIMITADO ACCESO DE LA POBLACIÓN RURAL A SERVICIOS DE AGUA Y SANEAMIENTO DE CALIDAD Y SOSTENIBLES.",
+            "txPgObjetivo": "SUFICIENTE ACCESO DE LA POBLACIÓN RURAL A SERVICIOS DE AGUA Y SANEAMIENTO DE CALIDAD Y SOSTENIBLES.",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN SIN COBERTURA DE AGUA Y DESAGUE",
+            "txPgMeta": "9% HOGARES URBANOS CON ACCESO A SERVICIO DE ALCANTARILLADO POR RED PÚBLICA.\n9% COBERTURA DE AGUA POR RED PÚBLICA – RURAL",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134929,
+            "txPgProblema": "INSUFICIENTE COBERTURA (ACCESO Y USO) DEL SERVICIO ELÉCTRICO EN POBLACIONES RURALES.",
+            "txPgObjetivo": "POBLACIÓN RURAL, AISLADA Y DE FRONTERA CON COBERTURA DE SERVICIO ELÉCTRICO.",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN SIN COBERTURA  DE ELECTRICIDAD",
+            "txPgMeta": "9% DE HOGARES EN EL ÁMBITO RURAL QUE CUENTAN CON SERVICIO ELÉCTRICO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 134681,
+            "txPgProblema": "LIMITADO ACCESO DE LOS PEQUEÑOS PRODUCTORES AGROPECUARIOS AL MERCADO",
+            "txPgObjetivo": "MEJORA DEL ACCESO DE LOS PEQUEÑOS PRODUCTORES AGROPECUARIOS AL MERCADO.",
+            "txPgIndicador": "PORCENTAJE DE PRODUCTORES AGROPECUARIOS SIN ACCESO A LOS MERCADOS DE CONSUMO",
+            "txPgMeta": "9% DE PRODUCTORES AGROPECUARIOS QUE VENDEN LA MAYOR PARTE (> 70%) DE SU PRODUCCIÓN.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134696,
+            "txPgProblema": "DIFÍCIL DESPLAZAMIENTO INTERURBANO DE PERSONAS Y/O MERCANCÍAS ANTE SU ELEVADO COSTO, TIEMPOS O INSEGURIDAD EN LOS DISTINTOS MODOS DEL SISTEMA DE TRANSPORTE.",
+            "txPgObjetivo": "CONTRIBUIR A LA REDUCCIÓN DEL COSTO, TIEMPO E INSEGURIDAD VIAL EN EL DESPLAZAMIENTO DE PERSONAS Y MERCANCÍAS EN EL SISTEMA DE TRANSPORTE.",
+            "txPgIndicador": "PORCENTAJE DEL VALOR BRUTO SIN ACCESO A LOS MERCADOS DE CONSUMO",
+            "txPgMeta": "15% PROMEDIO DEL VALOR BRUTO DE LA PRODUCCIÓN DE LOS PRODUCTORES AGROPECUARIOS CUYO DESTINO ES LA VENTA.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 134934,
+            "txPgProblema": "DISTRITO CON INADECUADA DISPOSICIÓN DE RESIDUOS SÓLIDOS",
+            "txPgObjetivo": "DISPOSICIÓN DE UN RELLENO SANITARIO ADECUADO PARA LA DISPOSICIÓN FINAL DE LOS RESIDUOS SÓLIDOS Y CLAUSURA",
+            "txPgIndicador": "PORCENTAJE DE RESIDUOS SÓLIDOS RECOGIDOS DIARIAMENTE",
+            "txPgMeta": "60% DE TONELADAS DE RESIDUOS SÓLIDOS DISPUESTOS ADECUADAMENTE.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 134942,
+            "txPgProblema": "BAJO DESEMPEÑO DEL ESTADO, LO QUE GENERA DESCONFIANZA E INSATISFACCIÓN CIUDADANA",
+            "txPgObjetivo": "ESTADO MODERNO ORIENTADO AL CIUDADANO, UNITARIO, DESCENTRALIZADO, EFICIENTE, ABIERTO E INCLUSIVO.",
+            "txPgIndicador": "PORCENTAJE DE EVENTOS EJECUTADOS",
+            "txPgMeta": "EVENTOS DE TRANSPARENCIA, RENDICIÓN DE CUENTAS Y ÉTICA PÚBLICA.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134951,
+            "txPgProblema": "DEFICIENTE CRECIMIENTO URBANO SOSTENIBLE",
+            "txPgObjetivo": "CREAR LA OFICINA DE CONFLICTOS SOCIALES PARA AGILIZAR LOS PROCESOS DE FORMALIZACIÓN DE PREDIOS.",
+            "txPgIndicador": "NUMERO DE PREDIOS SIN TÍTULOS.",
+            "txPgMeta": "SANEAR EL 35% DE LA PROPIEDAD EN LOS ASENTAMIENTOS HUMANOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

@@ -1,0 +1,157 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 160253.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "76234308",
+        "nombres": "FREDDY AURELIO JUNIORS",
+        "apellidoPaterno": "PACHECO",
+        "apellidoMaterno": "COLAN",
+        "sexo": "1",
+        "feNacimiento": "18/06/1997",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140101",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "LIMA",
+        "ubigeoDomicilio": "140109",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "LA VICTORIA",
+        "domicilioDirecc": "JR. OBREROS 668",
+        "ubigeoPostula": "140109",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "LA VICTORIA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/160253.jpg",
+        "estado": "APELACIÓN",
+        "idOrganizacionPolitica": 2898.0,
+        "organizacionPolitica": "FE EN EL PERU",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 07:07:32",
+        "txGuidFormatoHojaVida": "500e062f-70eb-4cde-8bd4-4fe113fd8378",
+        "idSolicitudLista": 26192.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 158835,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "FAR FORWARDER S.A.C",
+            "ocupacionProfesion": "GERENTE GENERAL",
+            "rucTrabajo": "20607084948",
+            "direccionTrabajo": "JR OBREROS 661",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140109",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "LA VICTORIA",
+            "idHojaVida": 160253,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 138731,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 160253,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 135011,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "ADEX",
+                "carreraTecnico": "NEGOCIOS INTERNACIONALES",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 160253,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 137594,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 307307.0,
+                "idHojaVida": 160253,
+                "idEstado": 1,
+                "totalIngresos": 307307.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 150332,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "BEE861 ",
+                "valor": 92500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "DODGE RAM",
+                "comentario": null,
+                "idHojaVida": 160253,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 206,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "FAR FORWARDER SAC",
+                "idParamTipoTitularidad": 88,
+                "txTipoTitularidad": "PARTICIPACIONES",
+                "flCantidad": 98.14,
+                "flValor": 222000.0,
+                "idHojaVida": 160253,
+                "idEstado": 1,
+                "txUsuario": "76036508",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

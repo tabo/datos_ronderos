@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 17208,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2862,
+        "txOrganizacionPolitica": "CONTIGO REGION",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1728,
+        "juradoElectoral": "SULLANA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/b72f6aca-78af-476d-85ce-ec1af3982f83.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/eca8430f-af90-408f-bf50-f7681b341fa3.pdf",
+        "txCodExpedienteExt": "ERM.2022007068",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 127891,
+            "txPgProblema": "SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DEFICIENTE.",
+            "txPgObjetivo": "MEJORAMIENTO DE LOS SERVICIOS PÚBLICOS BÁSICOS (AGUA Y DESAGÜE) EN LOS CASERÍOS DEL DISTRITO.\nESTUDIOS DEFINITIVOS DE PLANTA DE TRATAMIENTO DE AGUAS SERVIDAS.",
+            "txPgIndicador": "PORCENTAJE DE PACIENTES CON ENFERMEDADES GASTROINTESTINALES",
+            "txPgMeta": "0.8",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 127894,
+            "txPgProblema": "FALTA DE EQUIPOS Y MATERIALES MÉDICOS.",
+            "txPgObjetivo": "IMPLEMENTACIÓN DE EQUIPOS Y MATERIALES MÉDICOS A LOS CENTROS DE SALUD Y POSTAS MÉDICAS.",
+            "txPgIndicador": "NÚMERO DE PACIENTES ATENDIDOS.",
+            "txPgMeta": "0.9",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 127904,
+            "txPgProblema": "FALTA DE MANTENIMIENTO DE LA INFRAESTRUCTURA DE LAS INSTITUCIONES EDUCATIVAS.",
+            "txPgObjetivo": "GESTIONAR LA CONSTRUCCIÓN, EQUIPAMIENTO Y MANTENIMIENTO DE LA INFRAESTRUCTURA DE LAS INSTITUCIONES EDUCATIVAS.",
+            "txPgIndicador": "NÚMERO DE INSTITUCIONES EDUCATIVAS EN BUEN ESTADO.",
+            "txPgMeta": "0.8",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 127918,
+            "txPgProblema": "POCA ASISTENCIA TÉCNICA A LOS PRINCIPALES PRODUCTOS CULTIVADOS.",
+            "txPgObjetivo": "TALLERES DE CAPACITACIÓN, ASISTENCIA TÉCNICA A LOS PRODUCTORES Y ORGANIZACIONES",
+            "txPgIndicador": "NÚMERO DE PRODUCTOS MEJORADOS",
+            "txPgMeta": "0.9",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 127919,
+            "txPgProblema": "SISTEMA DE RIEGO DEFICIENTE.",
+            "txPgObjetivo": "PROYECTO INTEGRAL DE CONSTRUCCIÓN Y MEJORAMIENTO DE LOS SISTEMAS DE RIEGO TECNIFICADO.",
+            "txPgIndicador": "NÚMERO DE HECTÁREAS IRRIGADAS.",
+            "txPgMeta": "0.8",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 127922,
+            "txPgProblema": "NO SE CUENTA CON FERIAS AGRÍCOLAS.",
+            "txPgObjetivo": "PROMOVER Y FACILITAR LA INSTALACIÓN DE FERIAS AGRÍCOLAS CON PRODUCTOS DE LA ZONA.",
+            "txPgIndicador": "PORCENTAJE DE PRODUCTOS VENDIDOS.",
+            "txPgMeta": "0.9",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 127923,
+            "txPgProblema": "NO SE CUENTA CON VIVERO FORESTAL.",
+            "txPgObjetivo": "CONSTRUCCIÓN DE VIVERO FORESTAL",
+            "txPgIndicador": "NÚMERO DE PLANTONES.",
+            "txPgMeta": "0.7",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 127925,
+            "txPgProblema": "POCA CONSERVACIÓN DE FUENTES HÍDRICAS.",
+            "txPgObjetivo": "POLÍTICAS LOCALES PARA LA PROTECCIÓN DE FUENTES HÍDRICAS",
+            "txPgIndicador": "PORCENTAJE DE FUENTES HÍDRICAS PROTEGIDAS.",
+            "txPgMeta": "0.9",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 127926,
+            "txPgProblema": "NO HAY REFORESTACIÓN DE ÁREAS DESÉRTICAS.",
+            "txPgObjetivo": "IDENTIFICAR ÁREAS DESÉRTICAS PARA SU REFORESTACIÓN.",
+            "txPgIndicador": "NÚMERO DE HECTÁREAS REFORESTADAS",
+            "txPgMeta": "0.9",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 127930,
+            "txPgProblema": "POCA IMPLEMENTACIÓN LOGÍSTICA DE LAS INSTITUCIONES PUBLICAS",
+            "txPgObjetivo": "EQUIPAMIENTO LOGÍSTICO PARA EL NORMAL FUNCIONAMIENTO DE LAS INSTITUCIONES PÚBLICAS",
+            "txPgIndicador": "PORCENTAJE DE INSTITUCIONES IMPLEMENTADAS",
+            "txPgMeta": "0.8",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 127932,
+            "txPgProblema": "FALTA DE COORDINACIÓN ENTRE INSTITUCIONES PÚBLICAS.",
+            "txPgObjetivo": "REUNIONES DE COORDINACIÓN PARA LA TOMA DE DECISIONES.",
+            "txPgIndicador": "NÚMERO DE REUNIONES.",
+            "txPgMeta": "0.9",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 127934,
+            "txPgProblema": "FALTA DE MANTENIMIENTO DE LA INFRAESTRUCTURA DE LAS INSTITUCIONES PÚBLICAS",
+            "txPgObjetivo": "CONSTRUCCIÓN Y MANTENIMIENTO DE LA INFRAESTRUCTURA DE LAS INSTITUCIONES PÚBLICAS.",
+            "txPgIndicador": "PORCENTAJE DE INSTITUCIONES PÚBLICAS CON INFRAESTRUCTURA EN BUEN ESTADO.",
+            "txPgMeta": "0.9",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

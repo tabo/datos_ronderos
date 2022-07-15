@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 233855.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "45889002",
+        "nombres": "GUILLERMO",
+        "apellidoPaterno": "OSCCO",
+        "apellidoMaterno": "LIMAYPUMA",
+        "sexo": "1",
+        "feNacimiento": "08/09/1984",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "030501",
+        "naciDepartamento": "APURIMAC",
+        "naciProvincia": "COTABAMBAS",
+        "naciDistrito": "TAMBOBAMBA",
+        "ubigeoDomicilio": "030501",
+        "domiDepartamento": "APURIMAC",
+        "domiProvincia": "COTABAMBAS",
+        "domiDistrito": "TAMBOBAMBA",
+        "domicilioDirecc": "COMUNIDAD CAMPESINA ASACCASI S/N",
+        "ubigeoPostula": "030500",
+        "postulaDepartamento": "APURIMAC",
+        "postulaProvincia": "COTABAMBAS",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/233855.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 22:03:50",
+        "txGuidFormatoHojaVida": "299c7263-cd26-49d1-99f6-ba1dc2b99e0c",
+        "idSolicitudLista": 35583.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 219288,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "COMUNIDAD CAMPESINA DE ASACCASI",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "COMUNIDAD CAMPESINA DE ASACCASI S/N - TAMBOBAMBA",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "030501",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "APURIMAC",
+            "trabajoProvincia": "COTABAMBAS",
+            "trabajoDistrito": "TAMBOBAMBA",
+            "idHojaVida": 233855,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 193246,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 233855,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 178111,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 31200.0,
+                "idHojaVida": 233855,
+                "idEstado": 1,
+                "totalIngresos": 31200.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 222255,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "BIEN INMUEBLE CASA VIVIENDA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "COMUNIDAD CAMPESINA DE ASACCASI S/N",
+                "comentario": "EL BIEN INMUEBLE MENCIONADA ES PARTE DE LA COMUNIDAD CAMPESINA DE ASACCASI POR ELLO NO CONTAMOS CON REGISTROS PÚBLICOS INDEPENDIENTES Y PAGAMOS EL AUTOVALUO DE TODA LA COMUNIDAD.",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 250.0,
+                "idHojaVida": 233855,
+                "idEstado": 1,
+                "flValor": "30000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 185099,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "C9B876 ",
+                "valor": 20000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "VEHICULO MITSUBISHI COLOR BLANCO ROJO- CANTER TURBO",
+                "comentario": null,
+                "idHojaVida": 233855,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

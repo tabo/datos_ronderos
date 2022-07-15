@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 158149.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "10314581",
+        "nombres": "GERMAN AUGUSTO",
+        "apellidoPaterno": "RAMIREZ",
+        "apellidoMaterno": "LOPEZ",
+        "sexo": "1",
+        "feNacimiento": "18/10/1976",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140115",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "MIRAFLORES",
+        "ubigeoDomicilio": "140125",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "BARRANCO",
+        "domicilioDirecc": "AV. GRAU 701 - B",
+        "ubigeoPostula": "140125",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "BARRANCO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/158149.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2898.0,
+        "organizacionPolitica": "FE EN EL PERU",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 23:56:50",
+        "txGuidFormatoHojaVida": "c2e414cb-393e-4c3c-8c16-8b5d23ea9184",
+        "idSolicitudLista": 25881.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 166104,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "GM ARTES ESCENICAS SAC",
+            "ocupacionProfesion": "DIRECTOR ARTÍSTICO",
+            "rucTrabajo": "20605889108",
+            "direccionTrabajo": "AV. DIAGONAL 550 DPTO. A-1 MIRAFLORES",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140125",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "BARRANCO",
+            "idHojaVida": 158149,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "TEATRO BARRANCO"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 145245,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 158149,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 142240,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 96000.0,
+                "idHojaVida": 158149,
+                "idEstado": 1,
+                "totalIngresos": 96000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 179181,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CALLE SAENZ PEÑA NUM 119-125     BARRANCO - LIMA - LIMA",
+                "comentario": "PORCENTAJE DE PROPIEDAD 11.12%",
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "07021714",
+                "fichaTomoSunarp": null,
+                "autovaluo": 64799.9,
+                "idHojaVida": 158149,
+                "idEstado": 1,
+                "flValor": "582733.67"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 869,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "GM ARTES ESCENICAS SAC",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 250.0,
+                "flValor": 250.0,
+                "idHojaVida": 158149,
+                "idEstado": 1,
+                "txUsuario": "73657371",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

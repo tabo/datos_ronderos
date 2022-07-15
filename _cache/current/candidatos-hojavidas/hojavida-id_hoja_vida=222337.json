@@ -1,0 +1,188 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 222337.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "20711559",
+        "nombres": "JUAN JESUS",
+        "apellidoPaterno": "CASTILLO",
+        "apellidoMaterno": "AQUINO",
+        "sexo": "1",
+        "feNacimiento": "16/05/1952",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110328",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "JAUJA",
+        "naciDistrito": "SINCOS",
+        "ubigeoDomicilio": "110328",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "JAUJA",
+        "domiDistrito": "SINCOS",
+        "domicilioDirecc": "JR. MANTARO 155",
+        "ubigeoPostula": "110328",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "JAUJA",
+        "postulaDistrito": "SINCOS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/222337.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2680.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL SIERRA Y SELVA CONTIGO JUNIN",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 09:08:05",
+        "txGuidFormatoHojaVida": "5d82fd5c-79db-4cd9-8cf6-3be89958f3d4",
+        "idSolicitudLista": 34252.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 241400,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MICRO EMPRESARIO",
+            "ocupacionProfesion": "CERRAJERO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR. MANTARO 155 SINCOS",
+            "anioTrabajoDesde": "2012",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "110328",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "JAUJA",
+            "trabajoDistrito": "SINCOS",
+            "idHojaVida": 222337,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 213226,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 222337,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 163894,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 13,
+            "orgPolRenunciaOp": "PARTIDO POR LA DEMOCRACIA SOCIAL - COMPROMISO PERU",
+            "anioRenunciaOp": "2007",
+            "idHojaVida": 222337,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 146488,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "CUENTO CON UN NEGOCIO HERRAMIENTAS DE ALBAÑILERIA CON UN PROMEDIO DE INVERSION DE S/ 60,000,00 (SESENTA MIL SOLES)",
+            "idHojaVida": 222337,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 193167,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 10000.0,
+                "idHojaVida": 222337,
+                "idEstado": 1,
+                "totalIngresos": 10000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 237930,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "JAUJA-SINCOS- MZ E LOTE 1 - CENTRO POBLADO SINCOS",
+                "comentario": "VALOR ESTIMADO.",
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "55032477",
+                "fichaTomoSunarp": null,
+                "autovaluo": 80000.0,
+                "idHojaVida": 222337,
+                "idEstado": 1,
+                "flValor": "80000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 196707,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "B5F827 ",
+                "valor": 45000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR BLANCO",
+                "comentario": "CAMION KINKE",
+                "idHojaVida": 222337,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 196706,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "JI8867 ",
+                "valor": 9500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR ROJO",
+                "comentario": "AUTOMOVIL",
+                "idHojaVida": 222337,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

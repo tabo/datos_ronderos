@@ -1,0 +1,131 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 234545.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44218794",
+        "nombres": "RUBEN DARIO",
+        "apellidoPaterno": "FERRER",
+        "apellidoMaterno": "DIONICIO",
+        "sexo": "1",
+        "feNacimiento": "18/03/1987",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140108",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "CHORRILLOS",
+        "ubigeoDomicilio": "140136",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "SAN JUAN DE MIRAFLORES",
+        "domicilioDirecc": "CALLE CA. MANUEL PAZOS 421",
+        "ubigeoPostula": "140904",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "BARRANCA",
+        "postulaDistrito": "SUPE",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/234545.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2173.0,
+        "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL",
+            " REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 10:44:13",
+        "txGuidFormatoHojaVida": "500759f6-a7c1-41e0-afac-698b537b568d",
+        "idSolicitudLista": 35669.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 213001,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "GRUPO FERRER",
+            "ocupacionProfesion": "GERENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE MANUEL PAZOS #421",
+            "anioTrabajoDesde": "2017",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140904",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "BARRANCA",
+            "trabajoDistrito": "SUPE",
+            "idHojaVida": 234545,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 187638,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 234545,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 169062,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL JOSÉ FAUSTINO SÁNCHEZ CARRIÓN",
+                "carreraUni": "BACHILLER EN INGENIERIA INFORMATICA, ESPECIALIDAD: -",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2014",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 181667,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "7516YB ",
+                "valor": 6500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "7516YB",
+                "comentario": null,
+                "idHojaVida": 234545,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

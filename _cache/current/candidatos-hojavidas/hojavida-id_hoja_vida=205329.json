@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 205329.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "72293181",
+        "nombres": "GUILLERMO ALBERTO",
+        "apellidoPaterno": "MORAN",
+        "apellidoMaterno": "PAJUELO",
+        "sexo": "1",
+        "feNacimiento": "30/10/1994",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040101",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "AREQUIPA",
+        "naciDistrito": "AREQUIPA",
+        "ubigeoDomicilio": "040107",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "AREQUIPA",
+        "domiDistrito": "MIRAFLORES",
+        "domicilioDirecc": "SANCHEZ TRUJILLO 420",
+        "ubigeoPostula": "040107",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "AREQUIPA",
+        "postulaDistrito": "MIRAFLORES",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/205329.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2173.0,
+        "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+        "numeroCandidato": 9.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 17:43:47",
+        "txGuidFormatoHojaVida": "5ceeec7f-9a5c-4b01-b506-8c2dff0889fe",
+        "idSolicitudLista": 32181.0,
+        "txComentario": "NO"
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 206111,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "PHONKEY TECH",
+            "ocupacionProfesion": "TECNICO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. JUAN DE LA TORRE 116 A",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "040101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "AREQUIPA",
+            "trabajoDistrito": "AREQUIPA",
+            "idHojaVida": 205329,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 181603,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 205329,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 146280,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "CESCA",
+                "carreraTecnico": "INFORMATICA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 205329,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 139725,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "INSTITUTO CULTURAL PERUANO NORTEAMERICANO",
+                "carreraNoUni": "IDIOMA INGLES",
+                "concluidoNoUni": "1",
+                "idHojaVida": 205329,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 169323,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 1200.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 205329,
+                "idEstado": 1,
+                "totalIngresos": 1200.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 178132,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "14505P ",
+                "valor": 5000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": null,
+                "idHojaVida": 205329,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

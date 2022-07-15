@@ -1,0 +1,146 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 162166.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "48575902",
+        "nombres": "JOSE LUIS",
+        "apellidoPaterno": "CABALLERO",
+        "apellidoMaterno": "AQUINO",
+        "sexo": "1",
+        "feNacimiento": "12/06/1995",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "090314",
+        "naciDepartamento": "HUANUCO",
+        "naciProvincia": "DOS DE MAYO",
+        "naciDistrito": "PACHAS",
+        "ubigeoDomicilio": "090609",
+        "domiDepartamento": "HUANUCO",
+        "domiProvincia": "LEONCIO PRADO",
+        "domiDistrito": "PUEBLO NUEVO",
+        "domicilioDirecc": "LA ROCA",
+        "ubigeoPostula": "090609",
+        "postulaDepartamento": "HUANUCO",
+        "postulaProvincia": "LEONCIO PRADO",
+        "postulaDistrito": "PUEBLO NUEVO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/162166.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 17:03:57",
+        "txGuidFormatoHojaVida": "055a0102-1d02-4400-97d2-98ac86a3b7de",
+        "idSolicitudLista": 26444.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 192725,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "TECHNOSERVE",
+            "ocupacionProfesion": "TECNICO DE CAMPO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR UCHIZA 170",
+            "anioTrabajoDesde": "2018",
+            "anioTrabajoHasta": "2019",
+            "ubigeoTrabajo": "090601",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "HUANUCO",
+            "trabajoProvincia": "LEONCIO PRADO",
+            "trabajoDistrito": "RUPA-RUPA",
+            "idHojaVida": 162166,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 169811,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 162166,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 159902,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL AGRARIA DE LA SELVA",
+                "carreraUni": "BACHILLER EN CIENCIAS AGRARIAS",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2020",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 160243,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 24000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 162166,
+                "idEstado": 1,
+                "totalIngresos": 24000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 170732,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "5650EW ",
+                "valor": 9500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL COLOR ROJO",
+                "comentario": null,
+                "idHojaVida": 162166,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

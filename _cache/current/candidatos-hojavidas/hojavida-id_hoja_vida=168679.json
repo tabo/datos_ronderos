@@ -1,0 +1,150 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 168679.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "07000419",
+        "nombres": "VICTORIA",
+        "apellidoPaterno": "ARROYO",
+        "apellidoMaterno": "NOLASCO",
+        "sexo": "2",
+        "feNacimiento": "24/12/1960",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050105",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "HUAMANGA",
+        "naciDistrito": "QUINUA",
+        "ubigeoDomicilio": "140108",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "CHORRILLOS",
+        "domicilioDirecc": "A.H. SAN JUAN DE LA LIBERTAD COMITE 21 MZ. N' LT. 6",
+        "ubigeoPostula": "140108",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "CHORRILLOS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/168679.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2731.0,
+        "organizacionPolitica": "PODEMOS PERU",
+        "numeroCandidato": 9.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 17:21:21",
+        "txGuidFormatoHojaVida": "9e4516fe-ecb9-4d82-a91e-ed05fef6f9f3",
+        "idSolicitudLista": 27319.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 171672,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "NO",
+            "eduSecundaria": null,
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 168679,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 140349,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 22,
+                "orgPolCargoElec": "SOLIDARIDAD NACIONAL",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2019",
+                "anioCargoElecHasta": "2022",
+                "idHojaVida": 168679,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 149279,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 22,
+            "orgPolRenunciaOp": "RENOVACION POPULAR",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 168679,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 139558,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "CONCEPTO DE DIETAS POR REGIDORA DEL DISTRITO DE CHORRILLOS POR 12 MESES (ANUAL) MONTO MENSUAL 2535.00 SOLES",
+            "idHojaVida": 168679,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 161594,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 30420.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 168679,
+                "idEstado": 1,
+                "totalIngresos": 30420.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 203798,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "VIVIENDA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "MZ.N PRIMA LT6 COMITE 21 , AAHH SAN JUAN DE LA LIBERTAD",
+                "comentario": "VALOR ESTIMADO",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 29736.6,
+                "idHojaVida": 168679,
+                "idEstado": 1,
+                "flValor": "35000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

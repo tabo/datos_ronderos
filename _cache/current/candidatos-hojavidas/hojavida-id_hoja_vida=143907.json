@@ -1,0 +1,156 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 143907.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "41875759",
+        "nombres": "JORGE ANTONIO",
+        "apellidoPaterno": "PAREDES",
+        "apellidoMaterno": "CUENCA",
+        "sexo": "1",
+        "feNacimiento": "28/09/1981",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140116",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "PACHACAMAC",
+        "ubigeoDomicilio": "140132",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "VILLA MARIA DEL TRIUNFO",
+        "domicilioDirecc": "AV MIGUEL GRAU 2158 JOSE GALVEZ",
+        "ubigeoPostula": "140132",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "VILLA MARIA DEL TRIUNFO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/143907.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 22.0,
+        "organizacionPolitica": "RENOVACION POPULAR",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 17:17:44",
+        "txGuidFormatoHojaVida": "f6ca863c-f4b0-4dc8-8e62-faf36e675f28",
+        "idSolicitudLista": 23954.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 205493,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "TALLER DE CARPINTERÍA PAREDES",
+            "ocupacionProfesion": "MAESTRO CARPINTERO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. MIGUEL GRAU 2158 PARADERO 12 JOSE GÁLVEZ",
+            "anioTrabajoDesde": "2000",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "LIMA",
+            "idHojaVida": 143907,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "TALLER DE NEGOCIO FAMILIAR"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 180855,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 143907,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 146088,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "I.S.T.. IDAT",
+                "carreraTecnico": "SIN TÍTULO",
+                "concluidoEduTecnico": "2",
+                "idHojaVida": 143907,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "CARRERA DE INFORMÁTICA Y SISTEMAS SIN CONCLUIR"
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 168696,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 36000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 143907,
+                "idEstado": 1,
+                "totalIngresos": 36000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 177778,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "H100 HYUNDAI",
+                "marca": null,
+                "placa": "ATS707",
+                "valor": 70000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "FURGONETA",
+                "comentario": null,
+                "idHojaVida": 143907,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 177763,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "H1 HYUNDAI",
+                "marca": null,
+                "placa": "AYX659",
+                "valor": 95000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MINIVAN",
+                "comentario": null,
+                "idHojaVida": 143907,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

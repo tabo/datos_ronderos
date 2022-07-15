@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20526,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 4,
+        "txOrganizacionPolitica": "ACCION POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/4e1040ce-d2dc-4565-b6e4-f2a1946b9e84.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/99cec839-e9b1-4dc4-be8e-578dd6c456b1.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 170403,
+            "txPgProblema": "INADECUADO SERVICIO DE ATENCIÓN EN SALUD PUBLICA",
+            "txPgObjetivo": "CONVENIOS CON EL MINISTERIO DE SALUD PARA REALIZAR CAMPAÑAS",
+            "txPgIndicador": "% PORCENTAJE DE NO ATENCIÓN EN SALUD PÚBLICA A PERSONAS",
+            "txPgMeta": "REALIZAR 8 CAMPAÑAS MÉDICAS EN EL DISTRITO DE QUILCA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 170406,
+            "txPgProblema": "INADECUADO DESARROLLO DE LA ACTIVIDAD PESQUERA",
+            "txPgObjetivo": "ADECUADO DESARROLLO DE LA ACTIVIDAD PESQUERA",
+            "txPgIndicador": "% PORCENTAJE DE ACTIVIDADES PESQUERA NO PROGRAMADA",
+            "txPgMeta": "4 CAPACITACIONES EN ACTIVIDADES PRODUCTIVAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 170411,
+            "txPgProblema": "AUMENTO DE LOS NIVELES DE CONTAMINACIÓN AMBIENTAL",
+            "txPgObjetivo": "DISMINUCIÓN DE LOS NIVELES DE CONTAMINACIÓN AMBIENTAL",
+            "txPgIndicador": "% PORCENTAJE DE RECOJO DE RESIDUOS SÓLIDOS NO RECOGIDOS",
+            "txPgMeta": "RECOJO DE BASURA 3 VECES LA SEMANA Y HORARIO ADECUADO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 170419,
+            "txPgProblema": "LIMITADOS CONOCIMIENTOS DE LAS NORMALES LEGALES DE GESTIÓN PUBLICA",
+            "txPgObjetivo": "EFICIENTE CONOCIMIENTO DE LAS NORMALES LEGALES DE GESTIÓN PUBLICA",
+            "txPgIndicador": "% PORCENTAJE DE ATENCIONES PÚBLICAS NO ATENDIDAS A POBLADORES",
+            "txPgMeta": "1 CAPACITACIÓN AL AÑO A LOS TRABAJADORES DE LA GESTIÓN EDIL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

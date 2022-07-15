@@ -1,0 +1,158 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 235031.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "21507082",
+        "nombres": "SERGIO",
+        "apellidoPaterno": "ESPEJO",
+        "apellidoMaterno": "ROJAS",
+        "sexo": "1",
+        "feNacimiento": "01/02/1956",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050501",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "LUCANAS",
+        "naciDistrito": "PUQUIO",
+        "ubigeoDomicilio": "100109",
+        "domiDepartamento": "ICA",
+        "domiProvincia": "ICA",
+        "domiDistrito": "SANTIAGO",
+        "domicilioDirecc": "URB. SEBASTIAN BARRANCA II ETAPA L- 19",
+        "ubigeoPostula": "100109",
+        "postulaDepartamento": "ICA",
+        "postulaProvincia": "ICA",
+        "postulaDistrito": "SANTIAGO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/235031.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2731.0,
+        "organizacionPolitica": "PODEMOS PERU",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 12:48:28",
+        "txGuidFormatoHojaVida": "3e627ee8-17f6-44ad-87cf-5c41c0dee67d",
+        "idSolicitudLista": 35730.0,
+        "txComentario": "NINGUNA"
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 229127,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 235031,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 169115,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 36,
+            "orgPolRenunciaOp": "PERU AHORA",
+            "anioRenunciaOp": "2007",
+            "idHojaVida": 235031,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 205030,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 6600.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 235031,
+                "idEstado": 1,
+                "totalIngresos": 6600.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 249440,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "ICA-SANTIAGO- MZ L LOTE 19 - URBANIZACION POPULAR SEBASTIAN BARRANCA",
+                "comentario": "NINGUNA",
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "55032738",
+                "fichaTomoSunarp": null,
+                "autovaluo": 540.0,
+                "idHojaVida": 235031,
+                "idEstado": 1,
+                "flValor": "56000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 205432,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "D1V572 ",
+                "valor": 45000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTOMOVIL",
+                "comentario": "NINGUNA",
+                "idHojaVida": 235031,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 205431,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "MF4407 ",
+                "valor": 35000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTOMOVIL",
+                "comentario": "NINGUNA",
+                "idHojaVida": 235031,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

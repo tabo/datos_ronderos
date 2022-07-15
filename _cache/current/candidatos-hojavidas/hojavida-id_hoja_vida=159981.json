@@ -1,0 +1,182 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 159981.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "74471817",
+        "nombres": "CARLOS DAVID",
+        "apellidoPaterno": "MEDINA",
+        "apellidoMaterno": "CONSTANTINO",
+        "sexo": "1",
+        "feNacimiento": "03/12/1994",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040101",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "AREQUIPA",
+        "naciDistrito": "AREQUIPA",
+        "ubigeoDomicilio": "040123",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "AREQUIPA",
+        "domiDistrito": "YANAHUARA",
+        "domicilioDirecc": "CALLE CESAR VALLEJO 200 UMACOLLO DEPARTAMENTO 601",
+        "ubigeoPostula": "040123",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "AREQUIPA",
+        "postulaDistrito": "YANAHUARA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/159981.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2313.0,
+        "organizacionPolitica": "AREQUIPA TRANSFORMACION",
+        "numeroCandidato": 7.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 17:06:00",
+        "txGuidFormatoHojaVida": "344ee9b2-7b19-4454-b77f-2d953be07bc4",
+        "idSolicitudLista": 26152.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 189966,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "UNIVERSIDAD NACIONAL SAN AGUSTIN",
+            "ocupacionProfesion": "ESPECIALISTA DE ACREDITACION",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SANTA CATALINA N° 117",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "040101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "AREQUIPA",
+            "trabajoDistrito": "AREQUIPA",
+            "idHojaVida": 159981,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 167383,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 159981,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 158642,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD CATÓLICA DE SANTA MARÍA",
+                "carreraUni": "BACHILLER EN INGENIERÍA INDUSTRIAL",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2017",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [
+            {
+                "idHvPosgrado": 137165,
+                "tengoPosgrado": "SI",
+                "nuItemPosgrado": 1,
+                "txCenEstudioPosgrado": "UNIVERSIDAD NACIONAL DE SAN AGUSTIN",
+                "txEspecialidadPosgrado": "MEDIO AMBIENTE Y SISTEMAS INTEGRADOS DE GESTION",
+                "concluidoPosgrado": "NO",
+                "egresadoPosgrado": null,
+                "esMaestro": null,
+                "esDoctor": null,
+                "txAnioPosgrado": null,
+                "idHojaVida": 159981,
+                "idEstado": 1,
+                "txEstado": "ACTIVO (R)",
+                "fgRegistroManual": 1,
+                "txComentario": null,
+                "fgRegistro": null
+            }
+        ],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 158414,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 33000.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 159981,
+                "idEstado": 1,
+                "totalIngresos": 33000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 161555,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "V9R242 ",
+                "valor": 68000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "DEL 2019",
+                "comentario": null,
+                "idHojaVida": 159981,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 2702,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "XIOLDA CONSULTORA SAC",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 1500.0,
+                "flValor": 1.0,
+                "idHojaVida": 159981,
+                "idEstado": 1,
+                "txUsuario": "71569294",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

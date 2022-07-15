@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 22180,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1366,
+        "txOrganizacionPolitica": "FUERZA POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/de08dc7e-f4af-4b7d-a730-e5ccc72d7ff7.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/bc33e7b1-1284-4c22-af78-f104c61ad022.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 214348,
+            "txPgProblema": "ALTO INDICE DE DESNUTRICION",
+            "txPgObjetivo": "CREAR PROGRAMAS SOCIALES CON LAS ZONAS MAS ALEHADAS Y HUMILDES DEL DISTRITO",
+            "txPgIndicador": "INDICE DE DESMUTRICION INFANTIL",
+            "txPgMeta": "20%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 214428,
+            "txPgProblema": "FALTA DE CAPACITACION AL PERSONAL MUNICIPAL",
+            "txPgObjetivo": "DESARROLLAR ACTIVIDADES Y CAPACITACIONES PARA EL PERSONAL",
+            "txPgIndicador": "INDICE DE CAPACIDAD ORGANIZACIONAL",
+            "txPgMeta": "70%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 214512,
+            "txPgProblema": "FALTA DE INTEGRACION MUNICIPIO POBLACION",
+            "txPgObjetivo": "CREAR ACRIVIDADES INCENTIVANDO LA INTEGRACION MUNICIPALIDAD POBLACION",
+            "txPgIndicador": "CONFIANZA ENTRE EL ESTADO Y LA POBLACION",
+            "txPgMeta": "70%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 220027,
+            "txPgProblema": "FALTA DE CARRETERAS Y ACCEBILIDAD AL TRANSPORTE",
+            "txPgObjetivo": "CREACION Y MANTENIMIENTO DE MAS CARRETERAS CAMINOS DE HERRADURA Y ACCESO A LAS COMUNIDADES DE NUESTRO DISTRITO",
+            "txPgIndicador": "NUMERO DE VIAS DE ACCESO",
+            "txPgMeta": "300",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 226388,
+            "txPgProblema": "FALTA DE COORDINACION Y APOYO A LA AGRICULTURA",
+            "txPgObjetivo": "ACTIVIDADES DE INCLUSION A LOS AGRICULTORES QUE IMCEMTIVEM LA INDUSTRIALIZACION",
+            "txPgIndicador": "NUMERO DE ACTIVIDADES INCLUSIVAS",
+            "txPgMeta": "250",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 226403,
+            "txPgProblema": "FALTA DE APOYO A LOS JOVENES E INCENTOVAR A LA EDUCACION ESCOLAR",
+            "txPgObjetivo": "DESARROLLAR ACITVIDADES Y CHARLAS DE EDUCACION Y ESCOLARIDAD",
+            "txPgIndicador": "INDICE DE DESERCION ESCOLAR",
+            "txPgMeta": "15%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 219726,
+            "txPgProblema": "ALROS PORCENTAJE DE SUELOS DEGRADADOS",
+            "txPgObjetivo": "LA RECUPERACION DE SUELOS DEGRADADOS",
+            "txPgIndicador": "RECUPERACION DE SUELOS EN LA ZONA",
+            "txPgMeta": "20 HA",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 226436,
+            "txPgProblema": "LA DEFORESTACION INDISCRIMINADA",
+            "txPgObjetivo": "FISCALIZACION DE LA TALA INDISCRIMIDA",
+            "txPgIndicador": "DEFORESTACION EN LA ZONA",
+            "txPgMeta": "30%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 226444,
+            "txPgProblema": "EL DESAPROVECHAMIENTO DEL CARBONO",
+            "txPgObjetivo": "APROVECHAR Y GENERAR NAS CARBONO",
+            "txPgIndicador": "PORCENTAJE DE CARBONO",
+            "txPgMeta": "10000 TM",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 219804,
+            "txPgProblema": "POBLACION POCO ESCUCHADAS EN SUS NECESIDADES",
+            "txPgObjetivo": "DESARROLLAR REUNIONES CON LOS CENTROS POBLADOS DEL DISTRITO PARA DISCUTIR SUS PROBLEMATICAS LOCALES",
+            "txPgIndicador": "PRIORIZACION DE LA POBLACION",
+            "txPgMeta": "70%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 226466,
+            "txPgProblema": "NO ALCANZAN LAS METAS PUESTAS",
+            "txPgObjetivo": "PROMOVER LA RESPONSABILIDAD Y FIDELIDAD EB SUS ACTIVIDADES",
+            "txPgIndicador": "NIVEL DE ORGANIZACIÓN",
+            "txPgMeta": "70%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 226484,
+            "txPgProblema": "FALTA DE IDENTIDAD INSTITUCIONAL",
+            "txPgObjetivo": "TRABAJO CON INCENTIVOS",
+            "txPgIndicador": "IDENTIDAD INTITUCIONAL",
+            "txPgMeta": "80%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

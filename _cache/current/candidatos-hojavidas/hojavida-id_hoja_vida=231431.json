@@ -1,0 +1,149 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 231431.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "16680524",
+        "nombres": "CESAR",
+        "apellidoPaterno": "VALLEJOS",
+        "apellidoMaterno": "CALDERON",
+        "sexo": "1",
+        "feNacimiento": "17/02/1969",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "130101",
+        "naciDepartamento": "LAMBAYEQUE",
+        "naciProvincia": "CHICLAYO",
+        "naciDistrito": "CHICLAYO",
+        "ubigeoDomicilio": "130204",
+        "domiDepartamento": "LAMBAYEQUE",
+        "domiProvincia": "FERREÑAFE",
+        "domiDistrito": "PITIPO",
+        "domicilioDirecc": "C.POBLADO MOTUPILLO",
+        "ubigeoPostula": "130204",
+        "postulaDepartamento": "LAMBAYEQUE",
+        "postulaProvincia": "FERREÑAFE",
+        "postulaDistrito": "PITIPO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/231431.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2869.0,
+        "organizacionPolitica": "PARTIDO PATRIOTICO DEL PERU",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 17:11:07",
+        "txGuidFormatoHojaVida": "ad4e8d06-83d9-496a-b6fd-82f56211e262",
+        "idSolicitudLista": 35311.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 204763,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASERIO MOTUPILLO",
+            "anioTrabajoDesde": "2012",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "130204",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LAMBAYEQUE",
+            "trabajoProvincia": "FERREÑAFE",
+            "trabajoDistrito": "PITIPO",
+            "idHojaVida": 231431,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 180252,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 231431,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 139995,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": -1,
+                "orgPolCargoPartidario": "RESTAURACION NACIONAL",
+                "cargoPartidario": "COORDINADOR",
+                "anioCargoPartiDesde": "2010",
+                "anioCargoPartiHasta": "2016",
+                "idHojaVida": 231431,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 152565,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 21,
+            "orgPolRenunciaOp": "VICTORIA NACIONAL",
+            "anioRenunciaOp": "2015",
+            "idHojaVida": 231431,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 152564,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1366,
+            "orgPolRenunciaOp": "FUERZA POPULAR",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 231431,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 168660,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 24000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 231431,
+                "idEstado": 1,
+                "totalIngresos": 24000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

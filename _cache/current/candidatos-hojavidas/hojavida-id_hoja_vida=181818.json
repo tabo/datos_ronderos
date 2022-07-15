@@ -1,0 +1,157 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 181818.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "71099971",
+        "nombres": "DAVID",
+        "apellidoPaterno": "FLORES",
+        "apellidoMaterno": "POICON",
+        "sexo": "1",
+        "feNacimiento": "13/04/1991",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "190506",
+        "naciDepartamento": "PIURA",
+        "naciProvincia": "PAITA",
+        "naciDistrito": "TAMARINDO",
+        "ubigeoDomicilio": "190506",
+        "domiDepartamento": "PIURA",
+        "domiProvincia": "PAITA",
+        "domiDistrito": "TAMARINDO",
+        "domicilioDirecc": "BARRIO SECHURITA 024",
+        "ubigeoPostula": "190506",
+        "postulaDepartamento": "PIURA",
+        "postulaProvincia": "PAITA",
+        "postulaDistrito": "TAMARINDO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/181818.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2876.0,
+        "organizacionPolitica": "PIURA RENACE",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL",
+            " REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 10:09:39",
+        "txGuidFormatoHojaVida": "c407b39d-1a58-4679-beb8-e4e5a3a74a12",
+        "idSolicitudLista": 29073.0,
+        "txComentario": "CANDIDATO A REGIDOR PARA EL DISTRITO DE TAMARINDO - PAITA"
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 195153,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "TALLER METAL MECÁNICO NPJ",
+            "ocupacionProfesion": "MECÁNICO SOLDADOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE 9 MANZANA 9 LOTE 01 CP SAN JACINTO - PIURA - SULLANA - IGNACIO ESCUDERO",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "190608",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PIURA",
+            "trabajoProvincia": "SULLANA",
+            "trabajoDistrito": "IGNACIO ESCUDERO",
+            "idHojaVida": 181818,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 171998,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 181818,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 143744,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "ALIZONE",
+                "carreraTecnico": "SOLDADURA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 181818,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 161846,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 24000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 181818,
+                "idEstado": 1,
+                "totalIngresos": 24000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 172112,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "35474K ",
+                "valor": 2500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOTAXI COLOR AZUL",
+                "comentario": null,
+                "idHojaVida": 181818,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 172111,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "22396F ",
+                "valor": 1200.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA COLOR NEGRO CON VERDE",
+                "comentario": null,
+                "idHojaVida": 181818,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

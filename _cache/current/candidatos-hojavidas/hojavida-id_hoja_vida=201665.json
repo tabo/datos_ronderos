@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 201665.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43645357",
+        "nombres": "ISAIAS",
+        "apellidoPaterno": "QUISPE",
+        "apellidoMaterno": "ANCO",
+        "sexo": "1",
+        "feNacimiento": "25/07/1986",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "170208",
+        "naciDepartamento": "MOQUEGUA",
+        "naciProvincia": "GENERAL SANCHEZ CERRO",
+        "naciDistrito": "PUQUINA",
+        "ubigeoDomicilio": "040110",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "AREQUIPA",
+        "domiDistrito": "POCSI",
+        "domicilioDirecc": "CALLE PRINCIPAL ANEXO HUICCHUNA",
+        "ubigeoPostula": "040110",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "AREQUIPA",
+        "postulaDistrito": "POCSI",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/201665.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 1393.0,
+        "organizacionPolitica": "FUERZA AREQUIPEÑA",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 10:01:38",
+        "txGuidFormatoHojaVida": "8d973a73-14ad-4275-bfbe-6b295ce0780e",
+        "idSolicitudLista": 31720.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 232264,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AGRICULTOR",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ANEXO DE HUICAHUINA",
+            "anioTrabajoDesde": "2005",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "040110",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "AREQUIPA",
+            "trabajoDistrito": "POCSI",
+            "idHojaVida": 201665,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 204986,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 201665,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 186531,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 15600.0,
+                "idHojaVida": 201665,
+                "idEstado": 1,
+                "totalIngresos": 15600.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 231390,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "AREQUIPA-POCSI- MZ H LOTE 1 - CENTRO POBLADO HUICCHUNA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "11132115",
+                "fichaTomoSunarp": null,
+                "autovaluo": 1200.0,
+                "idHojaVida": 201665,
+                "idEstado": 1,
+                "flValor": "20000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 191902,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "05085Z ",
+                "valor": 2000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO",
+                "comentario": null,
+                "idHojaVida": 201665,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

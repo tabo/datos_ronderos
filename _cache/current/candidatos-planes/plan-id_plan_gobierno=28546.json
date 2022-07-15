@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 28546,
+        "idTipoEleccion": 5,
+        "txTipoEleccion": "MUNICIPAL PROVINCIAL",
+        "idOrganizacionPolitica": 1411,
+        "txOrganizacionPolitica": "REGION PARA TODOS",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1715,
+        "juradoElectoral": "PIURA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/93ab9224-a3a2-4e1d-87aa-1ea746c97e33.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/6d47df4a-cd37-4305-b87d-ed71ab1e14d1.pdf",
+        "txCodExpedienteExt": "ERM.2022015063",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 217775,
+            "txPgProblema": "AUMENTO DE ÍNDICE DE DELINCUENCIA",
+            "txPgObjetivo": "DESARROLLO HUMANO SOSTENIBLE BASADO EN DERECHOS",
+            "txPgIndicador": "ÍNDICE DE DELINCUENCIA",
+            "txPgMeta": "BAJAR EL ÍNDICE DE DELINCUENCIA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 217805,
+            "txPgProblema": "EXPLOTACIÓN INFANTIL",
+            "txPgObjetivo": "DESARROLLO HUMANO SOSTENIBLE BASADO EN DERECHOS",
+            "txPgIndicador": "ÍNDICE DE NIÑOS TRABAJADORES",
+            "txPgMeta": "ELIMINAR LA EXPLOTACIÓN INFANTIL",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 217827,
+            "txPgProblema": "BAJA PORCENTAJE ATENCIÓN DE SALUD PARA BINOMIO MADRE - HIJO",
+            "txPgObjetivo": "ACCESO A LA SALUD CON CALIDAD",
+            "txPgIndicador": "PORCENTAJE DE ATENCIONES MATERNO INFANTIL",
+            "txPgMeta": "AUMENTO INMEDIATO DE ATENCIONES.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 217871,
+            "txPgProblema": "TUGURIZACIÓN DE CENTROS DE ABASTOS",
+            "txPgObjetivo": "ELIMINACIÓN DE POBREZA EXTREMA",
+            "txPgIndicador": "ÍNDICE DE POBREZA",
+            "txPgMeta": "MODERNIZACIÓN DE CENTROS DE ABASTOS AL 2026",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 217904,
+            "txPgProblema": "FALTA DE EMPLEO",
+            "txPgObjetivo": "ELIMINACIÓN DE POBREZA EXTREMA",
+            "txPgIndicador": "ÍNDICE DE EMPLEO",
+            "txPgMeta": "REDUCIR LA TASA DE DESEMPLEO AL 1.5% AL 2026",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 217938,
+            "txPgProblema": "TURISMO PROVINCIAL DESCUIDADO",
+            "txPgObjetivo": "INCLUSIÓN EFECTIVA Y REDUCCIÓN DE DESIGUALDADES",
+            "txPgIndicador": "% DE EMPRESAS DEDICADAS AL RUBRO",
+            "txPgMeta": "DUPLICAR LAS EMPRESAS DEDICADAS AL RUBRO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 218028,
+            "txPgProblema": "ALTA CONTAMINACIÓN EN LAS CIUDAD",
+            "txPgObjetivo": "MEJORA DE LA CALIDAD AMBIENTAL",
+            "txPgIndicador": "PORCENTAJE DE CONTAMINACIÓN",
+            "txPgMeta": "MODERADO AL 2026",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 218067,
+            "txPgProblema": "BAJO PORCENTAJE DE ÁREAS VERDES",
+            "txPgObjetivo": "GESTIÓN AMBIENTAL",
+            "txPgIndicador": "PORCENTAJE DE ÁREA VERDES",
+            "txPgMeta": "75% AL TÉRMINO DE LA GESTIÓN",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 218095,
+            "txPgProblema": "ALTO ÍNDICE DE ANIMALES CALLEJEROS",
+            "txPgObjetivo": "MEJORA DE LA CALIDAD AMBIENTAL",
+            "txPgIndicador": "NÚMERO DE ANIMALES CALLEJEROS POR KM2",
+            "txPgMeta": "CERO AL TÉRMINO DE LA GESTIÓN.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 218124,
+            "txPgProblema": "POCA TRANSPARENCIA EN PROCESOS DE LICITACIONES",
+            "txPgObjetivo": "ESTADO HONESTO AL SERVICIO DE LA CIUDADANÍA",
+            "txPgIndicador": "PORCENTAJE DE DENUNCIAS EN PROCESOS",
+            "txPgMeta": "CERO DENUNCIAS AL 2026",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 218152,
+            "txPgProblema": "POCO INCENTIVO PARA RECAUDACIÓN TRIBUTARIA",
+            "txPgObjetivo": "PARTICIPACIÓN CIUDADANA Y RECUPERACIÓN DE CONFIANZA EN SU INSTITUCIÓN.",
+            "txPgIndicador": "PORCENTAJE DE RECAUDACIÓN",
+            "txPgMeta": "SUPERAR LA META EN UN 15 % RESPECTO AL AÑO ANTERIOR",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 218182,
+            "txPgProblema": "PROBLEMAS CONTINUOS EN ÁREAS DE FISCALIZACIÓN",
+            "txPgObjetivo": "ERRADICACIÓN DE LA CORRUPCIÓN",
+            "txPgIndicador": "PORCENTAJE DE DENUNCIAS",
+            "txPgMeta": "CERO DENUNCIAS AL 2026",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

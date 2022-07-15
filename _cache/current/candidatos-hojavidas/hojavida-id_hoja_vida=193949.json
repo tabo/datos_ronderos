@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 193949.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "41470914",
+        "nombres": "RAUL",
+        "apellidoPaterno": "ESPINOZA",
+        "apellidoMaterno": "MORI",
+        "sexo": "1",
+        "feNacimiento": "29/07/1982",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110101",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "HUANCAYO",
+        "naciDistrito": "HUANCAYO",
+        "ubigeoDomicilio": "110802",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "CHANCHAMAYO",
+        "domiDistrito": "SAN RAMON",
+        "domicilioDirecc": "JR.JUNIN 389",
+        "ubigeoPostula": "110802",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "CHANCHAMAYO",
+        "postulaDistrito": "SAN RAMON",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/193949.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 2729.0,
+        "organizacionPolitica": "CORAZON PATRIOTA",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 12:55:24",
+        "txGuidFormatoHojaVida": "73a63878-85f0-4260-aa1b-d61c1e43c330",
+        "idSolicitudLista": 30725.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 220107,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "SELVA INDUSTRIAL S.A.",
+            "ocupacionProfesion": "SUPERVISOR DE ALMACENES",
+            "rucTrabajo": "20504524176",
+            "direccionTrabajo": "AV PERU 564 - 568",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "110801",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "CHANCHAMAYO",
+            "trabajoDistrito": "CHANCHAMAYO",
+            "idHojaVida": 193949,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 193920,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 193949,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 172298,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL DANIEL ALCÍDES CARRIÓN",
+                "carreraUni": "BACHILLER EN CIENCIAS INGENIERIA INDUSTRIAS ALIMENTARIAS",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2007",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 178353,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 18000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 193949,
+                "idEstado": 1,
+                "totalIngresos": 18000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 185529,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "W30130 ",
+                "valor": 3500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA",
+                "comentario": null,
+                "idHojaVida": 193949,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 4975,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "SERVICIOS APICOLAS E.I.R.L.",
+                "idParamTipoTitularidad": 88,
+                "txTipoTitularidad": "PARTICIPACIONES",
+                "flCantidad": 100.0,
+                "flValor": 3500.0,
+                "idHojaVida": 193949,
+                "idEstado": 1,
+                "txUsuario": "20741432",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

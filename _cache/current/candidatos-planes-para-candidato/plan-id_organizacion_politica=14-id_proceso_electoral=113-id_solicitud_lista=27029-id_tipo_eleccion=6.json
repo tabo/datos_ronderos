@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20355,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/456c1310-4a44-4e51-b447-a28fda3fa2df.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/0ef2b03f-c543-4dca-8c6a-a967aa083000.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 135542,
+            "txPgProblema": "DEFICIENTE SERVICIO\nDE SALUD",
+            "txPgObjetivo": "MEJORAR LA CALIDAD DE VIDA DE LA\nPOBLACIÓN",
+            "txPgIndicador": "ATENCIONES INSATISFECHAS",
+            "txPgMeta": "POBLACIÓN\nBENEFICIARIA CON\nMEJOR CALIDAD DE VIDA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135581,
+            "txPgProblema": "DESNUTRICIÓN\nCRÓNICA INFANTIL",
+            "txPgObjetivo": "REDUCCIÓN DE LA DESNUTRICIÓN\nCRÓNICA EN NIÑOS MENORES DE 5\nAÑOS",
+            "txPgIndicador": "NIÑOS CON DESNUTRICIÓN\nCRÓNICA",
+            "txPgMeta": "NIÑOS MENORES DE 5\nAÑOS SIN ANEMIA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135603,
+            "txPgProblema": "DEFICIENTE SERVICIO\nDE AGUA POTABLE",
+            "txPgObjetivo": "INCREMENTAR LA COBERTURA DE\nLOS SERVICIOS DE AGUA POTABLE\nEN LOS SECTORES",
+            "txPgIndicador": "MALA CALIDAD DEL SERVICIO",
+            "txPgMeta": "LOS SECTORES CON\nSERVICIO DE AGUA\nPOTABLE",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 135627,
+            "txPgProblema": "AUSENCIA DE\nTECNOLOGÍAS\nAPROPIADAS PARA LA\nAGRICULTURA",
+            "txPgObjetivo": "USO DE TECNOLOGÍAS APROPIADAS\nPARA EL CULTIVO DE PRODUCTOS\nAGRÍCOLAS",
+            "txPgIndicador": "MANEJO EMPÍRICO DE LAS\nTECNOLOGÍAS",
+            "txPgMeta": "AGRICULTORES\nUTILIZANDO\nTECNOLOGÍAS\nAPROPIADAS EN LOS\nDIFERENTES CULTIVOS\nAGRÍCOLAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135659,
+            "txPgProblema": "ACTIVIDAD TURÍSTICA\nNULA",
+            "txPgObjetivo": "PUESTA EN VALOR LOS ATRACTIVOS\nTURÍSTICOS DEL DISTRITO",
+            "txPgIndicador": "ACTIVIDAD CARENTE Y\nOLVIDADA",
+            "txPgMeta": "PRESENCIA DE TURISTAS\nNACIONALES Y\nINTERNACIONALES",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135678,
+            "txPgProblema": "FORTALECIMIENTO DE\nLAS DIFERENTES\nASOCIACIONES DEL\nDISTRITO",
+            "txPgObjetivo": "CAPACITACIÓN Y FORTALECIMIENTO\nDE LAS ASOCIACIONES DE\nGANADEROS, ACUICULTURA,\nAGRÍCOLA Y FORESTAL",
+            "txPgIndicador": "ASOCIACIONES DESATENDIDAS",
+            "txPgMeta": "ASOCIACIONES\nFORMALIZADAS Y\nFORTALECIDAS EN\nGANADERÍA,\nACUICULTURA, AGRÍCOLA\nY FORESTAL",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 135731,
+            "txPgProblema": "DEFORESTACIÓN DE\nLOS BOSQUES",
+            "txPgObjetivo": "RECUPERACIÓN DE ÁREAS\nDEGRADADAS DE ZONAS DE\nPROTECCIÓN",
+            "txPgIndicador": "DISMINUCIÓN DE BOSQUES\nMASIVAMENTE",
+            "txPgMeta": "REFORESTACIÓN MASIVA\nCON ESPECIES DE\nRÁPIDO CRECIMIENTO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135776,
+            "txPgProblema": "INEFICIENTE\nDISPOSICIÓN DE\nRESIDUOS SÓLIDOS\nMUNICIPALES Y OTROS",
+            "txPgObjetivo": "CONSTRUCCIÓN DEL RELLENO\nSANITARIO PARA LA DISPOSICIÓN DE\nRESIDUOS SÓLIDOS MUNICIPALES",
+            "txPgIndicador": "FALENCIA EN LA RECOLECCIÓN\nDE LOS RR SS",
+            "txPgMeta": "ADECUADO MANEJO DE\nRESIDUOS SÓLIDOS\nMUNICIPALES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135792,
+            "txPgProblema": "CONTAMINACIÓN DE\nCURSOS DE AGUA EN LA\nCAPITAL DEL DISTRITO",
+            "txPgObjetivo": "MANEJO Y RECUPERACIÓN DE\nAGUAS RESIDUALES DE LAS ZONA\nURBANA",
+            "txPgIndicador": "CONTAMINACIÓN DE LOS\nCURSOS DE AGUA",
+            "txPgMeta": "RECUPERACIÓN DE\nAGUAS RESIDUALES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 135825,
+            "txPgProblema": "INEFICIENTE DIALOGO\nCON LA CIUDADANÍA",
+            "txPgObjetivo": "PROMOVER UN GOBIERNO\nTRANSPARENTE CON PARTICIPACIÓN\nCIUDADANA",
+            "txPgIndicador": "CIUDADANOS DESCONFORMES\nPOR LA GESTIÓN MUNICIPAL",
+            "txPgMeta": "GOBERNABILIDAD CON\nTRANSPARENCIA Y\nEQUIDAD",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135842,
+            "txPgProblema": "INSEGURIDAD\nCIUDADANA",
+            "txPgObjetivo": "FORTALECER LA FISCALIZACIÓN,\nVIGILANCIA Y CONTROL CIUDADANO",
+            "txPgIndicador": "FALTA DE VIGILANCIA",
+            "txPgMeta": "VELAR POR LA\nTRANQUILIDAD\nCIUDADANA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135960,
+            "txPgProblema": "INEFICIENTE SERVICIO\nDEL GOBIERNO LOCAL A\nLOS CIUDADANOS",
+            "txPgObjetivo": "MODERNIZACIÓN Y SIMPLIFICACIÓN\nDE LA ATENCIÓN AL CIUDADANO",
+            "txPgIndicador": "SERVICIOS INSATISFECHOS POR\nLOS CIUDADANOS",
+            "txPgMeta": "SERVICIO DE CALIDAD AL\nCIUDADANO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

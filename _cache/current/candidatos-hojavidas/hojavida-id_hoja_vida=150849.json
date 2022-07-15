@@ -1,0 +1,160 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 150849.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "23709656",
+        "nombres": "MIGUEL",
+        "apellidoPaterno": "RUIZ",
+        "apellidoMaterno": "FERNANDEZ",
+        "sexo": "1",
+        "feNacimiento": "29/09/1968",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "080506",
+        "naciDepartamento": "HUANCAVELICA",
+        "naciProvincia": "TAYACAJA",
+        "naciDistrito": "COLCABAMBA",
+        "ubigeoDomicilio": "080528",
+        "domiDepartamento": "HUANCAVELICA",
+        "domiProvincia": "TAYACAJA",
+        "domiDistrito": "QUICHUAS",
+        "domicilioDirecc": "ANEXO BUENOS AIRES",
+        "ubigeoPostula": "080528",
+        "postulaDepartamento": "HUANCAVELICA",
+        "postulaProvincia": "TAYACAJA",
+        "postulaDistrito": "QUICHUAS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/150849.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 136.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL AYNI",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 04:05:59",
+        "txGuidFormatoHojaVida": "c04a6fd8-7545-4b1f-9e31-7c1f5a5f4046",
+        "idSolicitudLista": 24890.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 239805,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ANEXO BUENOS AIRES",
+            "anioTrabajoDesde": "2012",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "080528",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "HUANCAVELICA",
+            "trabajoProvincia": "TAYACAJA",
+            "trabajoDistrito": "QUICHUAS",
+            "idHojaVida": 150849,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 211730,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 150849,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 144380,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": -1,
+                "orgPolCargoElec": "PARTIDO POLITICO",
+                "idCargoEleccion": 17,
+                "cargoEleccion": "ALCADE(SA) DE CENTRO POBLADO",
+                "anioCargoElecDesde": "2018",
+                "anioCargoElecHasta": "2022",
+                "idHojaVida": 150849,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 146326,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "ALCALDE DEL CENTRO POBLADO RECIBE EL MONTO DE S/ 624 NUEVO SOLES MENSUALES",
+            "idHojaVida": 150849,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 236673,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "#########",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "11199644",
+                "fichaTomoSunarp": null,
+                "autovaluo": 22.0,
+                "idHojaVida": 150849,
+                "idEstado": 1,
+                "flValor": "4800"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 195797,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "7912EW ",
+                "valor": 4500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA RONCO",
+                "comentario": null,
+                "idHojaVida": 150849,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

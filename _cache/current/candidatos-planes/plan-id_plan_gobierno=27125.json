@@ -1,0 +1,115 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 27125,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2710,
+        "txOrganizacionPolitica": "ALIANZA POR NUESTRO DESARROLLO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1676,
+        "juradoElectoral": "HUAMANGA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/db832ff6-802e-4494-a738-77cdde20e40e.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/995b515a-af0b-4921-b03d-ecac0fe49158.pdf",
+        "txCodExpedienteExt": "ERM.2022017060",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 236257,
+            "txPgProblema": "ALTOS ÍNDICES DE \nANEMIA Y DESNUTRICIÓN \nCRÓNICA.",
+            "txPgObjetivo": "DISMINUIR LA \nDESNUTRICIÓN CRÓNICA \nY ANEMIA EN NIÑOS \nMENORES DE 5 AÑOS.",
+            "txPgIndicador": "% DE ATENCIÓN.",
+            "txPgMeta": "DISMINUCIÓN DE LA DESNUTRICIÓN A 10% \nY ANEMIA A 20%.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 236263,
+            "txPgProblema": "-INCREMENTO ALARMANTE \nDE EMBARAZOS EN \nADOLESCENTES DE 15 A 19 \nAÑOS.",
+            "txPgObjetivo": "REDUCIR \nSUSTANCIALMENTE \nEL EMBARAZO DE \nLOS ADOLESCENTES.",
+            "txPgIndicador": "% DE EMBARAZOS",
+            "txPgMeta": "DISMINUIR EN 50% LA SITUACIÓN ACTUAL \nDE LOS CASOS DE EMBARAZO EN \nADOLESCENTE",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 236267,
+            "txPgProblema": "ALTO ÍNDICE DE\nANALFABETISMO.",
+            "txPgObjetivo": "- MEJORAR LOS \nSERVICIOS \nEDUCATIVOS EN \nTODOS SUS NIVELES.",
+            "txPgIndicador": "% DE COBERTURA.",
+            "txPgMeta": "REDUCIR LA TASA ANALFABETISMO EN \n50%.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 236277,
+            "txPgProblema": "PÉSIMAS CONDICIONES \nDE SALUBRIDAD Y \nATENCIÓN AL \nCONSUMIDOR.",
+            "txPgObjetivo": "MEJORAR LOS SERVICIOS \nDE COMERCIALIZACIÓN \n(VÍA MERCADOS Y \nCENTROS DE ACOPIO). \nPARA ELLO CREAREMOS \nLOS MERCADOS \nSATELITALES Y LOS \nCENTROS DE ACOPI.",
+            "txPgIndicador": "% DE COBERTURA DE \nSERVICIOS ADECUADOS.",
+            "txPgMeta": "MEJORAR EN UN 80% LA COBERTURA DE \nSERVICIOS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 236291,
+            "txPgProblema": "ESCASA COBERTURA DE ATENCIÓN EN CRÉDITOS AGROPECUARIOS, MYPES Y OTROS SECTORES CON BAJA CULTURA DE GESTIÓN CREDITICIA.",
+            "txPgObjetivo": "MEJORAR LOS SERVICIOS Y COBERTURA CREDITICIA Y NIVELES DE COMPETITIVIDAD DEL PRODUCTOR AGRARIO, MYPES Y OTROS SECTORES.",
+            "txPgIndicador": "COBERTURA DE CRÉDITOS.\nÍNDICES DE MOROSIDAD",
+            "txPgMeta": "MEJORAR LAS COBERTURAS DE CRÉDITO EN \nUN 50%, VÍA GESTIÓN ANTE EL SECTOR \nCORRESPONDIENTE.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 236300,
+            "txPgProblema": "5-DESORDEN Y ARBITRARIA \nOCUPACIÓN TERRITORIAL \nPROVINCIAL.",
+            "txPgObjetivo": "ORDENAMIENTO \nTERRITORIAL Y GESTIÓN \nDEL USO ADECUADO \nDE LOS SUELOS.",
+            "txPgIndicador": "MANEJO DE HERRAMIENTAS DE \nGESTIÓN.",
+            "txPgMeta": "GESTIÓN ORDENADA Y \nCUMPLIMIENTO DE LAS NORMAS Y \nHERRAMIENTAS DE GESTIÓN \nTERRITORIAL AL 100%.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 236306,
+            "txPgProblema": "ÁREAS NATURALES \nPROTEGIDAS EN RIESGO DE \nEXTINCIÓN.",
+            "txPgObjetivo": "CONSERVAR Y \nPROTEGER LAS ÁREAS \nNATURALES.",
+            "txPgIndicador": "HECTÁREAS DE ÁREAS \nNATURALES PROTEGIDAS.",
+            "txPgMeta": "GARANTIZAR EL 100% DE PROTECCIÓN \nDE ÁREAS NATURALES PROTEGIDAS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 236318,
+            "txPgProblema": "DÉBIL IDENTIDAD \nINSTITUCIONAL Y VOCACIÓN \nDE SERVICIO EN LA GESTIÓN \nMUNICIPAL.",
+            "txPgObjetivo": "SERVICIO \nEFICIENTE A LA \nPOBLACIÓN EN \nLOS OBJETIVOS DEL \nDESARROLLO LOCAL.",
+            "txPgIndicador": "% DE IDENTIDAD INSTITUCIONAL \nY COMPROMISO POR EL \nDESARROLLO LOCA.",
+            "txPgMeta": "GESTIÓN EFICIENTE Y EFECTIVA, \nSERVIDORES MUNICIPALES \nIDENTIFICADOS CON LA POBLACIÓN Y EL \nPUEBLO.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 236333,
+            "txPgProblema": "LIMITADA \nPARTICIPACIÓN DE\nLA MUJER EN LOS\nESPACIOS DE \nPARTICIPACIÓN Y\nDECISIÓN, 23% DE \nPARTICIPACIÓN EN \nEL PPT.",
+            "txPgObjetivo": "MEJORAR EL ACCESO A LA\nINFORMACIÓN E INSTITUCIONES\nPROTECTORAS.",
+            "txPgIndicador": "TASA DE \nPARTICIPACIÓN EN \nEL ACCESO A LAS \nINSTITUCIONES.",
+            "txPgMeta": "INCREMENTAR LA \nPARTICIPACIÓN ACTIVA\nDE LA MUJER EN LOS\nDIFERENTES ESPACIOS \nPARTICIPATIVOS Y DE \nDECISIÓN EN 10 %.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

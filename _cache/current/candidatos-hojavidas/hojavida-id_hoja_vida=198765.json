@@ -1,0 +1,128 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 198765.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "02702715",
+        "nombres": "JOSE SEBASTIAN",
+        "apellidoPaterno": "MECHATO",
+        "apellidoMaterno": "SILVA",
+        "sexo": "1",
+        "feNacimiento": "20/01/1955",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "190104",
+        "naciDepartamento": "PIURA",
+        "naciProvincia": "PIURA",
+        "naciDistrito": "CATACAOS",
+        "ubigeoDomicilio": "190104",
+        "domiDepartamento": "PIURA",
+        "domiProvincia": "PIURA",
+        "domiDistrito": "CATACAOS",
+        "domicilioDirecc": "CALLE 07 LT. 37 AA.HH. JUAN DE MORI",
+        "ubigeoPostula": "190104",
+        "postulaDepartamento": "PIURA",
+        "postulaProvincia": "PIURA",
+        "postulaDistrito": "CATACAOS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/198765.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2869.0,
+        "organizacionPolitica": "PARTIDO PATRIOTICO DEL PERU",
+        "numeroCandidato": 9.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 15:32:10",
+        "txGuidFormatoHojaVida": "bcf5941d-1312-48bc-8b42-6dc476caf31b",
+        "idSolicitudLista": 31344.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 235387,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CATACAOS",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "190104",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PIURA",
+            "trabajoProvincia": "PIURA",
+            "trabajoDistrito": "CATACAOS",
+            "idHojaVida": 198765,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 207802,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 198765,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 188555,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 24000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 198765,
+                "idEstado": 1,
+                "totalIngresos": 24000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 193469,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "NB1386 ",
+                "valor": 4000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "HONDA",
+                "comentario": "COLOR VERDE",
+                "idHojaVida": 198765,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

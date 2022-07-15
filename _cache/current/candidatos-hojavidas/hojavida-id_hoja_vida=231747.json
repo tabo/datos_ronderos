@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 231747.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43534566",
+        "nombres": "YESSICA",
+        "apellidoPaterno": "VILLANUEVA",
+        "apellidoMaterno": "AGUILAR",
+        "sexo": "2",
+        "feNacimiento": "17/03/1986",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "090207",
+        "naciDepartamento": "HUANUCO",
+        "naciProvincia": "AMBO",
+        "naciDistrito": "SAN RAFAEL",
+        "ubigeoDomicilio": "090207",
+        "domiDepartamento": "HUANUCO",
+        "domiProvincia": "AMBO",
+        "domiDistrito": "SAN RAFAEL",
+        "domicilioDirecc": "CASERIO DE ISCORRUME",
+        "ubigeoPostula": "090207",
+        "postulaDepartamento": "HUANUCO",
+        "postulaProvincia": "AMBO",
+        "postulaDistrito": "SAN RAFAEL",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/231747.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2733.0,
+        "organizacionPolitica": "MOVIMIENTO POLITICO CAMBIEMOS X HCO",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 18:19:42",
+        "txGuidFormatoHojaVida": "a9e20203-cf9f-49f0-8d52-4df6e5db6df7",
+        "idSolicitudLista": 35347.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 238578,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "NOTARIA GUTIEREZ MIRABAL",
+            "ocupacionProfesion": "ATENCION AL CLIENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "NINGUNO",
+            "anioTrabajoDesde": "2018",
+            "anioTrabajoHasta": "2019",
+            "ubigeoTrabajo": "140101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "LIMA",
+            "idHojaVida": 231747,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 210640,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 231747,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 153807,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "TELESUP",
+                "carreraTecnico": "CONTABILIDAD",
+                "concluidoEduTecnico": "2",
+                "idHojaVida": 231747,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 163091,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 47,
+            "orgPolRenunciaOp": "UNION POR EL PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 231747,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 191002,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 12000.0,
+                "idHojaVida": 231747,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

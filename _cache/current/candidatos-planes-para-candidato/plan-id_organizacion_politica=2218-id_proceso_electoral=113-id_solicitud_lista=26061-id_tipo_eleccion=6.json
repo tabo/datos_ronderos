@@ -1,0 +1,85 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 19387,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/884623cd-722a-4735-9c7b-a758318954f2.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/21fda768-8cb3-40c9-8f2e-d0f0eacc97da.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 217861,
+            "txPgProblema": "1.PROBLEMAS SOCIALES DE LA DELINCUENCIA",
+            "txPgObjetivo": "IMPLEMENTACIÓN DE UN PLAN DE SEGURIDAD CIUDADANA",
+            "txPgIndicador": "INCREMENTO DE LA DELINCUENCIA EN UN 20% POR AÑO",
+            "txPgMeta": "REDUCCIÓN DE PROBLEMAS DE DELINCUENCIA EN 40 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 217879,
+            "txPgProblema": "2.ALTA INCIDENCIA DE LA DESNUTRICIÓN INFANTIL",
+            "txPgObjetivo": "PROMOVER PROGRAMAS PARA MEJORAR LA ALIMENTACIÓN DE LOS NIÑOS",
+            "txPgIndicador": "21 %",
+            "txPgMeta": "MEJORA DE LA ALIMENTACIÓN EN 10%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 217895,
+            "txPgProblema": "1.PRODUCCIÓN AGROPECUARIA DEFICIENTE",
+            "txPgObjetivo": "PROGRAMAS DE FORTALECIMIENTO AL PRODUCTOR AGROPECUARIO CON LA METODOLOGÍA ESCUELAS DE CAMPO.",
+            "txPgIndicador": "DISMINUCIÓN DE LA PRODUCTIVIDAD EN UN 20%",
+            "txPgMeta": "MEJORA DE LA PRODUCCIÓN 10%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 217914,
+            "txPgProblema": "2.ALTO COSTO DE INSUMOS AGROPECUARIOS",
+            "txPgObjetivo": "APERTURA DE LA CASA DEL AGRO",
+            "txPgIndicador": "INCREMENTO DE PRECIOS DE INSUMOS AGROPECUARIOS EN UN 70%",
+            "txPgMeta": "REDUCCIÓN DE COSTOS EN 10%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 217944,
+            "txPgProblema": "1.CALENTAMIENTO GLOBAL Y OTROS PROBLEMAS AMBIENTALES",
+            "txPgObjetivo": "INSTALACIÓN DE VIVEROS AGROFORESTALES",
+            "txPgIndicador": "REPOSICIÓN FORESTAL ES 0%",
+            "txPgMeta": "PLANTACIÓN DE 100,000 PLANTONES AGROFORESTALES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 217960,
+            "txPgProblema": "1.SISTEMA ADMINISTRATIVO DESACTUALIZADO",
+            "txPgObjetivo": "ACTUALIZACIÓN DE SISTEMAS ADMINISTRATIVOS",
+            "txPgIndicador": "SISTEMA ADMINISTRATIVO CON MEJORAS DE ACTUALIZACIÓN EN 10% ANUALES",
+            "txPgMeta": "MEJORA EN LA GESTIÓN ADMINISTRATIVA EN 50 %",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 27252,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2744,
+        "txOrganizacionPolitica": "YO AREQUIPA",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/4c896cda-624e-4a59-8de3-bfd57d294f8f.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/cc6cc5a4-5a69-49ab-b047-33bfcd0cd37e.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 131942,
+            "txPgProblema": "DEFICIENCIA EN EL ACCESO A LOS SERVICIOS DE AGUA Y SANEAMIENTO.",
+            "txPgObjetivo": "INCREMENTAR Y MEJORAR EL ACCESO Y COBERTURA DE LOS SERVICIOS DE SANEAMIENTO, CON CALIDAD Y SOSTENIBILIDAD",
+            "txPgIndicador": "PORCENTAJE DE CENTROS POBLADOS CON ACCESO A AGUA POTABLE MEDIANTE RED PÚBLICA.\nPORCENTAJE DE CENTROS POBLADOS CON ACCESO A SERVICIOS DE SANEAMIENTO.\nPORCENTAJE DE RESIDUOS SÓLIDOS DISPUESTOS ADECUADAMENTE.",
+            "txPgMeta": "80% DE CENTROS POBLADOS\n60% DE CENTROS POBLADOS.\n80% DE CENTROS POBLADOS.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 131953,
+            "txPgProblema": "CARENCIA A UNA EDUCACIÓN CON CALIDAD Y EQUIDAD",
+            "txPgObjetivo": "MEJORAR EL ACCESO Y COBERTURA EN LOS SERVICIOS DE EDUCACIÓN E INFRAESTRUCTURA CON CALIDAD Y SOSTENIBILIDAD.",
+            "txPgIndicador": "PORCENTAJE DE INSTITUCIONES EDUCATIVAS (EBR) CON CONEXIÓN DE INTERNET E INFRAESTRUCTURA",
+            "txPgMeta": "80% DE IES.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 131959,
+            "txPgProblema": "DEFICIENTE ACCESO A SERVICIOS DE SALUD CON CALIDAD Y EQUIDAD",
+            "txPgObjetivo": "MEJORAR EL ACCESO Y COBERTURA EN LOS SERVICIOS DE SALUD CON CALIDAD Y SOSTENIBILIDAD.",
+            "txPgIndicador": "PORCENTAJE DE NIÑOS MENORES DE 7 AÑOS PRESENTAN DESNUTRICIÓN CRÓNICA\nCOBERTURA ANUAL DE VACUNAS A NIÑOS MENORES DE 2 AÑO",
+            "txPgMeta": "REDUCIDO AL10%\n\n100% COBERTURA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 132046,
+            "txPgProblema": "DEFICIENTE INFRAESTRUCTURA AGRÍCOLA, CARENCIA DE RECURSOS HÍDRICOS Y PRODUCCIÓN AGRÍCOLA DE MALA CALIDAD.",
+            "txPgObjetivo": "PROMOVER Y FORTALECER UNA AGRICULTURA COMPETITIVA Y PRODUCTIVA.\nPROMOVER Y FORTALECER UNA ADECUADA DISTRIBUCIÓN Y USO DE AGUA.",
+            "txPgIndicador": "PORCENTAJE DE AGRICULTORES CON RIEGO TECNIFICADO\nPORCENTAJE DE PRODUCTORES AGROPECUARIOS ORGANIZADOS Y GESTIONANDO EMPRESARIALMENTE SUS ORGANIZACIONES\nPORCENTAJE DE AGRICULTORES CON BUENAS PRÁCTICAS DE USO ADECUADO Y DISTRIBUCIÓN DE LOS RECURSOS HÍDRICOS.",
+            "txPgMeta": "20% DE AGRICULTORES\n30% DE PRODUCTORES\n50% DE AGRICULTORES",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132053,
+            "txPgProblema": "AUSENCIA DE CRIANZA DE GANADO DE CALIDAD Y SOSTENIBLE.",
+            "txPgObjetivo": "PROMOVER LAS BUENAS PRÁCTICAS DE CRIANZA DE GANADO VACUNO DE CALIDAD Y SOSTENIBLE.",
+            "txPgIndicador": "PORCENTAJE DE PRODUCTORES AGROPECUARIOS CON BUENAS PRÁCTICAS DE CRIANZA DE VACUNO DE CALIDAD.",
+            "txPgMeta": "30% DE PRODUCTORES",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132057,
+            "txPgProblema": "AUSENCIA DE BUENAS VÍAS DE COMUNICACIÓN E INTERCONEXIÓN VIAL",
+            "txPgObjetivo": "MEJORAR Y AMPLIAR LAS VÍAS DE COMUNICACIÓN Y NUEVAS VÍAS DE ACCESO CON CONEXIÓN A VÍAS ALTERNAS.",
+            "txPgIndicador": "PORCENTAJE DE VÍAS DE ACCESO DEL DISTRITO BIEN MANTENIDAS Y DE FÁCIL ACCESO.",
+            "txPgMeta": "80% DE VIAS DE ACCESO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 132070,
+            "txPgProblema": "DEFICIENTE LIMPIEZA PÚBLICA Y RESIDUOS SOLIDOS",
+            "txPgObjetivo": "PROMOVER UNA CULTURA AMBIENTAL Y RECICLAJE EN LA POBLACIÓN.\n\nCREAR UN RELLENO SANITARIO PARA LA DISPOSICIÓN FINAL DE LOS RESIDUOS SÓLIDOS",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN CON UNA BUENA CULTURA AMBIENTAL DE SEGREGACIÓN DE RESIDUOS SOLIDOS\nPORCENTAJE DE LA POBLACIÓN CON UNA BUENA DISPOSICIÓN FINAL DE RESIDUOS SÓLIDOS.",
+            "txPgMeta": "80% DE POBLACIÓN CAPACITADA.\n\n80% DE POBLACIÓN CAPACITADA.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132080,
+            "txPgProblema": "DEFICIENTE CONSERVACIÓN DE AREAS NATURALES Y MEDIO AMBIENTE",
+            "txPgObjetivo": "PROMOVER LA CONSERVACIÓN DE ÁREAS NATURALES Y MEDIO AMBIENTE DE FLORA Y FAUNA",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN CON UNA BUENA CULTURAL DE CONSERVACIÓN DE ÁREAS NATURALES.",
+            "txPgMeta": "30% POBLACIÓN ORGANIZADA EN GESTIÓN DE ECOSISTEMAS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132087,
+            "txPgProblema": "CONTROVERSIA Y PROBLEMAS DE DELIMITACIÓN TERRITORIAL.",
+            "txPgObjetivo": "GESTIONAR EN LA RESOLUCIÓN DE CONFLICTOS Y COMPETENCIA TERRITORIAL VISTAS DESDE LA GESTIÓN PÚBLICA.",
+            "txPgIndicador": "MESAS DE TRABAJO EN FAVOR DE LA RESOLUCIÓN DE CONFLICTOS EN COMPETENCIA DE DELIMITACIÓN TERRITORIAL.",
+            "txPgMeta": "5 MESAS DE TRABAJO CON ORGANISMOS CORRESPONDIENTES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 132112,
+            "txPgProblema": "INADECUADA INFRAESTRUCTURA PARA EL DESARROLLO DEL LABOR INSTITUCIONAL",
+            "txPgObjetivo": "MEJORAR LA INFRAESTRUCTURA PÚBLICA LA PARA LA BUENA ATENCIÓN DE LOS CIUDADANOS",
+            "txPgIndicador": "01 INFRAESTRUCTURA ADECUADA Y BUENA ATENCIÓN A LA CIUDADANÍA",
+            "txPgMeta": "100% POBLACIÓN CON BUENA ATENCIÓN EN LAS OFICINAS DE LA MUNICIPALIDAD",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132118,
+            "txPgProblema": "INSTRUMENTOS DE GESTIÓN NO IMPLEMENTADAS Y ACTUALIZADAS PARA EJERCER UNA BUENA ADMINISTRACIÓN PÚBLICA",
+            "txPgObjetivo": "FORTALECER UNA ADMINISTRACIÓN PÚBLICA EFICIENTE CON PARTICIPACIÓN DE LA CIUDADANÍA DE MANERA OPORTUNA.",
+            "txPgIndicador": "PORCENTAJE DE INSTRUMENTOS DE GESTIÓN IMPLEMENTADAS Y APROBADAS.",
+            "txPgMeta": "100% DE INSTRUMENTOS DE GESTIÓN IMPLEMENTADAS Y APROBADAS.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132129,
+            "txPgProblema": "ACCESO A LA INFORMACIÓN PÚBLICA NO TRASPARENTE E INADECUADO",
+            "txPgObjetivo": "MEJORAR LOS CANALES DE ATENCIÓN CON INFORMACIÓN PÚBLICA TRANSPARENCIA A LA CIUDADANÍA.",
+            "txPgIndicador": "PORCENTAJE DE ATENCIONES Y CONSULTAS REALIZADOS A LA CIUDADANÍA EN BRINDAR INFORMACIÓN PÚBLICA.",
+            "txPgMeta": "80% DE LA POBLACIÓN CON ACCESO A LA INFORMACIÓN PÚBLICA UTILIZANDO TECNOLOGÍA DIGITAL.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

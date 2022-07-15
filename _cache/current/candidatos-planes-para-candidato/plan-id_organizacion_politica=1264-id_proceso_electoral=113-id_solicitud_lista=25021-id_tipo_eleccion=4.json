@@ -1,0 +1,95 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 18347,
+        "idTipoEleccion": 4,
+        "txTipoEleccion": "REGIONAL",
+        "idOrganizacionPolitica": 1264,
+        "txOrganizacionPolitica": "JUNTOS POR EL PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/805c923f-f6a7-46c0-ba7b-6776dc7a9c31.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/b6fb3a6b-ed46-46fc-91dd-796444864d68.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 231312,
+            "txPgProblema": "INADECUADA CALIDAD E INSUFICIENTE COBERTURA DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO.",
+            "txPgObjetivo": "MEJORAR Y AMPLIAR EL SERVICIO DE AGUA POTABLE Y ALCANTARILLADO.",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN URBANA Y RURAL SIN ACCESO ADECUADO AL SERVICIO DE AGUA POTABLE Y ALCANTARILLADO",
+            "txPgMeta": "100% DE LA POBLACIÓN DISTRITAL ACCEDEN AL SERVICIO DE AGUA POTABLE Y ALCANTARILLADO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 231318,
+            "txPgProblema": "INADECUADA TRANSITABILIDAD VIAL INTERURBANA.",
+            "txPgObjetivo": "MEJORAR EL SERVICIO DE TRANSITABILIDAD VIAL INTERURBANO",
+            "txPgIndicador": "PORCENTAJE DE LA RED VIAL VECINAL NO PAVIMENTADA CON INADECUADOS NIVELES DE SERVICIO.",
+            "txPgMeta": "100% DE RED VIAL VECINAL CON ADECUADOS NIVELES DE SERVICIOS.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 231327,
+            "txPgProblema": "DÉFICIT EN INFRAESTRUCTURA DE RIEGO, CANALES SIN REVESTIMIENTO, FALTA DE REPRESAS PARA ALMACENAR Y TRASLADAR MÁS VOLUMEN DE AGUA.",
+            "txPgObjetivo": "CREAR EL SERVICIO DE PROVISIÓN DE AGUA PARA RIEGO MEDIANTE LA CONSTRUCCIÓN DE LA RED DISTRITAL RURAL DE CANALES DE RIEGO.",
+            "txPgIndicador": "PORCENTAJE DE SUPERFICIE AGRÍCOLA SIN RIEGO Y SISTEMAS DE RIEGO EN MAL ESTADO.",
+            "txPgMeta": "100% DE LA SUPERFICIE AGRÍCOLA ACCEDEN A SISTEMA DE RIEGO ADECUADO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 231334,
+            "txPgProblema": "DEFICIENTE SERVICIO DE TRANSITABILIDAD VIAL DE CARRETERAS VECINALES Y TROCHAS CARROZABLES.",
+            "txPgObjetivo": "MEJORAR EL SERVICIO DE TRANSITABILIDAD VIAL DE CARRETERAS VECINALES Y TROCHAS CARROZABLES.",
+            "txPgIndicador": "PORCENTAJE DE LA RED VIAL VECINAL NO PAVIMENTADA CON INADECUADOS NIVELES DE SERVICIO.",
+            "txPgMeta": "100% DE CARRETERAS VECINALES Y TROCHAS CARROZABLES EN BUEN ESTADO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 231363,
+            "txPgProblema": "DEFICIENTE TRATAMIENTO DE AGUAS RESIDUALES.",
+            "txPgObjetivo": "MEJORAR EL SERVICIO DE TRATAMIENTO DE AGUAS RESIDUALES.",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN ACCEDE AL SERVICIO ADECUADO DE TRATAMIENTO DE AGUAS RESIDUALES.",
+            "txPgMeta": "100% DE LA POBLACIÓN DISTRITAL ACCEDE AGUA SERVIDA VAYA DIRECTAMENTE AL RIO, SIN ANTES HABER SIDO TRATADA.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 231371,
+            "txPgProblema": "INADECUADO SERVICIO DE LIMPIEZA PÚBLICA.",
+            "txPgObjetivo": "MEJORAR EL SERVICIO DE TRATAMIENTO DE AGUAS RESIDUALES.",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN ACCEDE AL SERVICIO ADECUADO DE TRATAMIENTO DE AGUAS RESIDUALES.",
+            "txPgMeta": "100% DE LA POBLACIÓN DISTRITAL ACCEDE AGUA SERVIDA VAYA DIRECTAMENTE AL RIO, SIN ANTES HABER SIDO TRATADA.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 231376,
+            "txPgProblema": "PRECARIO DESARROLLO TECNOLÓGICO EN EL PROCESAMIENTO DE LA INFORMACIÓN DE LA GESTIÓN REGIONAL.",
+            "txPgObjetivo": "MEJORAR LOS SERVICIOS DE PROCESAMIENTO DE LA INFORMACIÓN DE LA GESTIÓN REGIONAL.",
+            "txPgIndicador": "PORCENTAJE DE CALIDAD DE SERVICIO ADECUADO DE PROCESAMIENTO DE LA INFORMACIÓN DE LA GESTIÓN REGIONAL.",
+            "txPgMeta": "100% DE PROCESAMIENTO DE LA INFORMACIÓN DE LA GESTIÓN REGIONAL DE MANERA ADECUADA.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

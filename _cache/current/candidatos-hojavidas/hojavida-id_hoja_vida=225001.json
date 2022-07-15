@@ -1,0 +1,158 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 225001.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "23266429",
+        "nombres": "RAUL",
+        "apellidoPaterno": "BOZA",
+        "apellidoMaterno": "GOMEZ",
+        "sexo": "1",
+        "feNacimiento": "20/03/1970",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "080101",
+        "naciDepartamento": "HUANCAVELICA",
+        "naciProvincia": "HUANCAVELICA",
+        "naciDistrito": "HUANCAVELICA",
+        "ubigeoDomicilio": "110707",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "SATIPO",
+        "domiDistrito": "RIO NEGRO",
+        "domicilioDirecc": "SECTOR LA PAZ MZ. B LT. 7",
+        "ubigeoPostula": "110700",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "SATIPO",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/225001.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 16:24:00",
+        "txGuidFormatoHojaVida": "4309e027-2b49-409f-a675-b9e638fc2aba",
+        "idSolicitudLista": 34564.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 170531,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "SERVIMEDIC  ESPERANZA",
+            "ocupacionProfesion": "EJECUTIVO DE VENTAS",
+            "rucTrabajo": null,
+            "direccionTrabajo": "PJ ARTURO BLONDET 336",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "110701",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "SATIPO",
+            "trabajoDistrito": "SATIPO",
+            "idHojaVida": 225001,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 149340,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 225001,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 137815,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "PROCEDAT  PERU",
+                "carreraTecnico": "TECNICO EN COMPUTACION",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 225001,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 149300,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD NACIONAL DEL CENTRO DEL PERU",
+                "carreraUni": "EGRESADO",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2020",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 145724,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 225001,
+                "idEstado": 1,
+                "totalIngresos": 0.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 1233,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "BOZA_CARNES SAC",
+                "idParamTipoTitularidad": 88,
+                "txTipoTitularidad": "PARTICIPACIONES",
+                "flCantidad": 90.0,
+                "flValor": 22500.0,
+                "idHojaVida": 225001,
+                "idEstado": 1,
+                "txUsuario": "42576229",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

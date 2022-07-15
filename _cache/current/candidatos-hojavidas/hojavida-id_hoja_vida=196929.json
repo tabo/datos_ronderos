@@ -1,0 +1,138 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 196929.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "03365968",
+        "nombres": "VICTOR RAMON",
+        "apellidoPaterno": "CORDOVA",
+        "apellidoMaterno": "RAMIREZ",
+        "sexo": "1",
+        "feNacimiento": "31/08/1976",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "190406",
+        "naciDepartamento": "PIURA",
+        "naciProvincia": "MORROPON",
+        "naciDistrito": "SANTA CATALINA DE MOSSA",
+        "ubigeoDomicilio": "190403",
+        "domiDepartamento": "PIURA",
+        "domiProvincia": "MORROPON",
+        "domiDistrito": "CHALACO",
+        "domicilioDirecc": "CALLE PIURA 168",
+        "ubigeoPostula": "190403",
+        "postulaDepartamento": "PIURA",
+        "postulaProvincia": "MORROPON",
+        "postulaDistrito": "CHALACO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/196929.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 1388.0,
+        "organizacionPolitica": "MOVIMIENTO INDEPENDIENTE FUERZA REGIONAL",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL",
+            " REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 11:43:11",
+        "txGuidFormatoHojaVida": "16f50ad9-fe1a-46db-863c-ddc9aba6ec70",
+        "idSolicitudLista": 31111.0,
+        "txComentario": "NO"
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 230962,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "TRANSPORTES ALBACO SCRL",
+            "ocupacionProfesion": "CHOFER",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR COMERCIO N 173",
+            "anioTrabajoDesde": "2004",
+            "anioTrabajoHasta": "2020",
+            "ubigeoTrabajo": "190407",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PIURA",
+            "trabajoProvincia": "MORROPON",
+            "trabajoDistrito": "SANTO DOMINGO",
+            "idHojaVida": 196929,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 203826,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 196929,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 230679,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "ZONA: ZONA REGISTRAL I - SEDE PIURA; OFICINA: PIURA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "55171110",
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 196929,
+                "idEstado": 1,
+                "flValor": "33000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 135695,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "00235-1997-2-2004JR-PE-01",
+            "feSentenciaPenal": "08/05/1998",
+            "txOrganoJudiPenal": "PRIMER JUZGADO PENAL DE MORROPON CHULUCANAS",
+            "txDelitoPenal": "HOMIDIO SIMPLE - CULPOSO",
+            "txFalloPenal": "LIBERTAD CONDICIONAL",
+            "idParamModalidad": 11,
+            "txModalidad": "SUSPENDIDA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 196929,
+            "txComentario": "NUMERO DE EXPEDIENTE ACTIVO 235-1996"
+        }
+    ],
+    "sentenciaObliga": []
+}

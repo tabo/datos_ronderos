@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 17429,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2719,
+        "txOrganizacionPolitica": "MOVIMIENTO REGIONAL REVALORA",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/60916cc7-c004-4833-828b-6f8fcd93b069.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/dcca2285-8706-4f31-9ac1-56730ac4b577.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 161468,
+            "txPgProblema": "NO HAY AGUA POTABLE LAS 24 HORAS DEL DÍA",
+            "txPgObjetivo": "INCREMENTAR EL ABASTECIMIENTO DE AGUA EN TODO EL DISTRITO.",
+            "txPgIndicador": "NIVEL DE IMPLEMENTACIÓN  DEL SERVICIO",
+            "txPgMeta": "100% DE POBLACIÓN CON SERVICIOS DE AGUA.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 161504,
+            "txPgProblema": "BAJO RENDIMIENTO EN EL ÁREA DE COMPUTACIÓN, INGLÉS Y QUECHUA.",
+            "txPgObjetivo": "INCREMENTAR EL APRENDIZAJE DE TODOS LOS ALUMNOS.",
+            "txPgIndicador": "% DE APRENDIZAJE",
+            "txPgMeta": "LOGRO DE APRENDIZAJE SATISFACTORIO SUPERA EL 80% AL\n2026.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 161510,
+            "txPgProblema": "FALTA DE EMPLEO LABORAL",
+            "txPgObjetivo": "REALIZAR OBRAS DE INFRAESTRUCTURA",
+            "txPgIndicador": "% DE POBLACIÓN EMPLEADA",
+            "txPgMeta": "80% DE LA POBLACIÓN CON EMPLEO AL 2026.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 161480,
+            "txPgProblema": "PÉRDIDA DE AGUA POR EL RIEGO A GRAVEDAD.",
+            "txPgObjetivo": "OPTIMIZAR EL USO DE RECURSO HÍDRICO.",
+            "txPgIndicador": "% DE MEJORA DEL RECURSO HÍDRICO",
+            "txPgMeta": "OPTIMIZAR AL 50%.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 161516,
+            "txPgProblema": "PRODUCCIÓN NO PLANIFICADA.",
+            "txPgObjetivo": "FORTALECER LA PRODUCCIÓN AGRÍCOLA Y GANADERA.",
+            "txPgIndicador": "% DE IMPLEMENTACIÓN DEL PROYECTO",
+            "txPgMeta": "PROYECTAR AL 90%.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 161524,
+            "txPgProblema": "ACCESO DE VÍAS PARA SACAR LAS COSECHAS.",
+            "txPgObjetivo": "MEJORAR INFRAESTRUCTURA VIAL DE LA ZONA AGRÍCOLA",
+            "txPgIndicador": "NIVEL DE MEJORA DE VÍAS",
+            "txPgMeta": "PROYECTAR AL 95%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 161490,
+            "txPgProblema": "VÍAS EN MAL ESTADO, TROCHAS CARROZABLES Y CAMINOS",
+            "txPgObjetivo": "MEJORAR EL ACCESO EN LOS DIFERENTES ANEXOS Y DISTRITOS.",
+            "txPgIndicador": "NIVEL DE MEJORA DE CARROZABLES",
+            "txPgMeta": "AL 100%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 161536,
+            "txPgProblema": "INADECUADO TRATAMIENTO DE RESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "MEJORAR EL TRATAMIENTO DE RESIDUOS SÓLIDOS.",
+            "txPgIndicador": "NIVEL DE MEJORA DEL TRATAMIENTO",
+            "txPgMeta": "AL 80%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 161543,
+            "txPgProblema": "INCITAR A LA POBLACIÓN PARA EL CUIDADO DEL MEDIO AMBIENTE.",
+            "txPgObjetivo": "FORTALECER LA ENSEÑANZA EN LAS INSTITUCIONES EDUCATIVAS.",
+            "txPgIndicador": "% DE FORTALECIMIENTO DEL CUIDADO DEL MEDIO AMBIENTE",
+            "txPgMeta": "AL 100%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 161551,
+            "txPgProblema": "INSEGURIDAD CIUDADANA: ROBOS, HURTOS, VIOLENCIA",
+            "txPgObjetivo": "PROGRAMA DE IMPLEMENTACIÓN DEL SISTEMA DE SEGURIDAD CIUDADANA DEL DISTRITO DE IRAY",
+            "txPgIndicador": "NIVEL DE IMPLEMENTACIÓN DEL PROGRAMA",
+            "txPgMeta": "MEJORAR ÍNDICE DE SENSACIÓN DE SEGURIDAD CIUDADANA AL\n100%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 161559,
+            "txPgProblema": "DÉBIL ASOCIATIVIDAD Y\nFUNCIONAMIENTO DE ORGANIZACIONES DE BASE",
+            "txPgObjetivo": "MEJORAR Y FORTALECER LAS\nCAPACIDADES DE LAS ORGANIZACIONES DE BASE",
+            "txPgIndicador": "NIVEL DE MEJORA DE LAS ORGANIZACIONES DE BASE",
+            "txPgMeta": "100% DE ORGANIZACIONES DE BASE FORTALECIDAS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 161566,
+            "txPgProblema": "DÉBIL PARTICIPACIÓN DE LA CIUDADANÍA EN TOMA DE DECISIONES",
+            "txPgObjetivo": "PROMOVER EL SURGIMIENTO DE NUEVOS LÍDERES JÓVENES Y MUJERES",
+            "txPgIndicador": "% DE PARTICIPACIÓN DE JÓVENES",
+            "txPgMeta": "AL 100%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

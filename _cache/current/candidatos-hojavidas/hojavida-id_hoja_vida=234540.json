@@ -1,0 +1,329 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 234540.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "18981684",
+        "nombres": "EDILES FRANCISCO",
+        "apellidoPaterno": "MARIÑAS",
+        "apellidoMaterno": "VERGARAY",
+        "sexo": "1",
+        "feNacimiento": "22/01/1969",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "120201",
+        "naciDepartamento": "LA LIBERTAD",
+        "naciProvincia": "BOLIVAR",
+        "naciDistrito": "BOLIVAR",
+        "ubigeoDomicilio": "120201",
+        "domiDepartamento": "LA LIBERTAD",
+        "domiProvincia": "BOLIVAR",
+        "domiDistrito": "BOLIVAR",
+        "domicilioDirecc": "MZ.L 00S/N PBLO.BOLIVAR",
+        "ubigeoPostula": "120000",
+        "postulaDepartamento": "LA LIBERTAD",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/234540.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "CONSEJERO REGIONAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 11:15:42",
+        "txGuidFormatoHojaVida": "a86616e2-eeae-4b8a-ad78-df42878a4a80",
+        "idSolicitudLista": 35668.0,
+        "txComentario": "CONSEJERO REGIONAL POR LA PROVINCIA DE BOLIVAR- REGIÓN LA LIBERTAD"
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 183934,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "COMPAÑIA MINERA ANTAMINA S.A",
+            "ocupacionProfesion": "OPERADOR MAQUINARIA PESADA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "YANACANCHA",
+            "anioTrabajoDesde": "2001",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "020813",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ANCASH",
+            "trabajoProvincia": "HUARI",
+            "trabajoDistrito": "SAN MARCOS",
+            "idHojaVida": 234540,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 161942,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 234540,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 155854,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "2",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD ALAS PERUANAS S.A.",
+                "carreraUni": "BACHILLER EN DERECHO",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2009",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            },
+            {
+                "idHvEduUniversitaria": 155853,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD ALAS PERUANAS S.A.",
+                "carreraUni": "ABOGADO",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2010",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 138374,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 1257,
+                "orgPolCargoPartidario": "PARTIDO POLÍTICO ALIANZA PARA EL PROGRESO",
+                "cargoPartidario": "AFILIADO",
+                "anioCargoPartiDesde": "2011",
+                "anioCargoPartiHasta": "2015",
+                "idHojaVida": 234540,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 139132,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 1257,
+                "orgPolCargoElec": "ALIANZA PARA EL PROGRESO",
+                "idCargoEleccion": 8,
+                "cargoEleccion": "ALCALDE PROVINCIAL",
+                "anioCargoElecDesde": "2011",
+                "anioCargoElecHasta": "2014",
+                "idHojaVida": 234540,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 145671,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2016",
+            "idHojaVida": 234540,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 138044,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "-TERRENO URBANO EN LA PROVINCIA DE BOLIVAR - NO REGISTRADO\n- TERRENO URBANO EN CENTRO POBLADO SAN VICENTE- DISTRITO DE LONGOTEA- SIN REGISTRO",
+            "idHojaVida": 234540,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 154438,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 582792.9,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 234540,
+                "idEstado": 1,
+                "totalIngresos": 582792.9
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 204943,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 3,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "AV. SAN VICENTE DE PAUL",
+                "comentario": "CASA",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 250.0,
+                "idHojaVida": 234540,
+                "idEstado": 1,
+                "flValor": "110000"
+            },
+            {
+                "idHvBienInmueble": 204918,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 2,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CALLE APURIMAC #1355 - CENTRO DE PIURA",
+                "comentario": "CASA",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 210000.0,
+                "idHojaVida": 234540,
+                "idEstado": 1,
+                "flValor": "120000"
+            },
+            {
+                "idHvBienInmueble": 195121,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CALLE TIAHUANACO NUM 130 LOTE 22 DE LA MANZANA FS URB ANIZACION MARANGA - CUARTA ETAPA SAN MIGUEL - LIMA - LIMA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "41101504",
+                "fichaTomoSunarp": null,
+                "autovaluo": 350000.0,
+                "idHojaVida": 234540,
+                "idEstado": 1,
+                "flValor": "150000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 166143,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "P3K-040",
+                "valor": 85000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTOMOVIL HYUNDAI",
+                "comentario": "COLOR AZUL",
+                "idHojaVida": 234540,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 165725,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "P3V630 ",
+                "valor": 98000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMIONETA TOYOTA",
+                "comentario": null,
+                "idHojaVida": 234540,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 2247,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "EMPRESA DE RADIO Y TELEVISION MI SEÑOR CAUTIVO S.R.L",
+                "idParamTipoTitularidad": 88,
+                "txTipoTitularidad": "PARTICIPACIONES",
+                "flCantidad": 25.0,
+                "flValor": 5000.0,
+                "idHojaVida": 234540,
+                "idEstado": 1,
+                "txUsuario": "19322467",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 135287,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "306-2005",
+            "txOrganoJuridicialObliga": "2DO JUZGADO DE FAMILIA",
+            "txFalloObliga": "RETENCIÓN DEL 25% DE MI REMUNERACIÓN",
+            "idEstado": 1,
+            "idHojaVida": 234540,
+            "txComentario": null
+        }
+    ]
+}

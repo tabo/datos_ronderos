@@ -1,0 +1,164 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 189104.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43993601",
+        "nombres": "ALFREDO",
+        "apellidoPaterno": "HUAMAN",
+        "apellidoMaterno": "TICLLA",
+        "sexo": "1",
+        "feNacimiento": "15/09/1984",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "080309",
+        "naciDepartamento": "HUANCAVELICA",
+        "naciProvincia": "ANGARAES",
+        "naciDistrito": "SAN ANTONIO DE ANTAPARCO",
+        "ubigeoDomicilio": "080309",
+        "domiDepartamento": "HUANCAVELICA",
+        "domiProvincia": "ANGARAES",
+        "domiDistrito": "SAN ANTONIO DE ANTAPARCO",
+        "domicilioDirecc": "PAMPAHUASI",
+        "ubigeoPostula": "080309",
+        "postulaDepartamento": "HUANCAVELICA",
+        "postulaProvincia": "ANGARAES",
+        "postulaDistrito": "SAN ANTONIO DE ANTAPARCO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/189104.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 136.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL AYNI",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 16:57:50",
+        "txGuidFormatoHojaVida": "ef6b99fb-e5ec-4d4f-9e01-49e8eca1bbfd",
+        "idSolicitudLista": 30065.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 165501,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 189104,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 139739,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": -1,
+                "orgPolCargoElec": "QUINUA",
+                "idCargoEleccion": 14,
+                "cargoEleccion": "REGIDOR DE CENTRO POBLADO",
+                "anioCargoElecDesde": "2018",
+                "anioCargoElecHasta": "HASTA LA ACTUALIDAD",
+                "idHojaVida": 189104,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 147046,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2649,
+            "orgPolRenunciaOp": "PERU NACION",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 189104,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 198707,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 2,
+                "tipoBienInmueble": "INMUEBLE - TERRENO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "SAMINCA - PAMPAHUASI",
+                "comentario": "TERRENO AGRICOLA 1/2 HECTAREA",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 189104,
+                "idEstado": 1,
+                "flValor": "6000"
+            },
+            {
+                "idHvBienInmueble": 198653,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "INMUEBLE",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "SAMINCA - PAMPAHUASI",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 189104,
+                "idEstado": 1,
+                "flValor": "15000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 168111,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "Y19715 ",
+                "valor": 3000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": "USO PERSONAL",
+                "idHojaVida": 189104,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

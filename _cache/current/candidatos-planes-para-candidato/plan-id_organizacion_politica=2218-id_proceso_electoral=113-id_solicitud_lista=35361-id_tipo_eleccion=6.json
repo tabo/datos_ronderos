@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 28687,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/2b5f723a-e244-4f86-a1bd-642599043777.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/f91b56bd-c35b-4763-abfc-f9bf9ca0c6a7.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 214967,
+            "txPgProblema": "PROBLEMAS SOCIALES",
+            "txPgObjetivo": "PROGRAMA DE DESARROLLO Y\nCAPACITACIÓN SOCIO ECONÓMICO",
+            "txPgIndicador": "INCREMENTO DE LA\nPROBLEMAS\nSOCIALES 10% POR\nAÑO",
+            "txPgMeta": "REDUCCIÓN DE PROBLEMAS\nSOCIALES EN 20 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 214996,
+            "txPgProblema": "PRESENCIA DE DESNUTRICIÓN\nCRÓNICA INFANTIL",
+            "txPgObjetivo": "PROMOVER PROGRAMAS ALIMENTARIOS\nPARA LOS NIÑOS",
+            "txPgIndicador": "DESNUTRICIÓN\nCRÓNICA INFANTIL\n48.2 %",
+            "txPgMeta": "MEJORA DE LA ALIMENTACIÓN EN\n10%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 215019,
+            "txPgProblema": ".PÉRDIDA DE VALORES E\nIDENTIDAD CULTURAL",
+            "txPgObjetivo": "IMPLEMENTAR PROGRAMAS DE\nRECUPERACIÓN DE LOS VALORES Y LA\nIDENTIDAD CULTURAL",
+            "txPgIndicador": "DESINTERÉS DE LA\nPOBLACIÓN EN\nVALORES EN 30%",
+            "txPgMeta": "FORTALECIMIENTO A LA\nPOBLACIÓN EN 10 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 215097,
+            "txPgProblema": "BAJA PRODUCCIÓN\nAGROPECUARIA",
+            "txPgObjetivo": "FORTALECIMIENTO AL PRODUCTOR\nAGROPECUARIO",
+            "txPgIndicador": "DISMINUCIÓN DE LA\nPRODUCTIVIDAD EN UN\n20%",
+            "txPgMeta": "MEJORA DE LA PRODUCCIÓN 20%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 215189,
+            "txPgProblema": ".INCREMENTO DEL COSTO DE\nINSUMOS AGROPECUARIOS",
+            "txPgObjetivo": "APERTURA DE LA CASA AGROPECUARIA",
+            "txPgIndicador": "INCREMENTO DE\nPRECIOS DE INSUMOS\nAGROPECUARIOS EN UN\n70%",
+            "txPgMeta": "REDUCCIÓN DE COSTOS EN 10%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 215205,
+            "txPgProblema": "PRODUCTOS AGROPECUARIOS\nSIN TRANSFORMACIÓN",
+            "txPgObjetivo": "PROCESAMIENTO DE PRODUCTOS DEL\nAGRO",
+            "txPgIndicador": "PROCESAMIENTO\nARTESANAL EN 10%",
+            "txPgMeta": "PROCESAMIENTO EN 10 PRODUCTOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 215239,
+            "txPgProblema": "DEFORESTACIÓN Y OTROS\nPROBLEMAS AMBIENTALES",
+            "txPgObjetivo": "PRODUCCIÓN DE PLANTONES\nAGROFORESTALES",
+            "txPgIndicador": "REPOSICIÓN A\nEXTRACCIÓN EN 10%",
+            "txPgMeta": "PLANTACIÓN DE 1,000,000 PLANTONES\nAGROFORESTALES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 215290,
+            "txPgProblema": ".FALTA DE CONCIENCIA\nAMBIENTAL RESIDUOS SOLIDOS",
+            "txPgObjetivo": "MEJORA EN LA SENSIBILIZACIÓN, RECOJO\nY TRATAMIENTO DE LOS RESIDUOS\nSOLIDOS",
+            "txPgIndicador": "INCREMENTO DE LA\nCANTIDAD DE\nRESIDUOS SÓLIDOS EN\n30%",
+            "txPgMeta": "MEJORA EN EL TRATAMIENTO EN 50 %",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 215311,
+            "txPgProblema": "PÈRDIDA DE ESPECIES\nFORESTALES NATIVAS",
+            "txPgObjetivo": "IMPLEMENTACIÓN DE VIVEROS CON\nESPECIES NATIVAS DE LA ZONA",
+            "txPgIndicador": "PERDIDA DE ESPECIES\nFORESTALES EN 15%\nANUALES",
+            "txPgMeta": "INSTALACIÓN DE 200,000 PLANTONES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 215333,
+            "txPgProblema": "SISTEMA ADMINISTRATIVO\nDESACTUALIZADA",
+            "txPgObjetivo": "ACTUALIZACIÓN DE SISTEMAS\nADMINISTRATIVOS",
+            "txPgIndicador": "SISTEMA\nADMINISTRATIVO CON\nMEJORAS DE\nACTUALIZACIÓN EN\n10% ANUALES",
+            "txPgMeta": "MEJORA EN LA GESTIÓN ADMINISTRATIVA EN\n50 %",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 215352,
+            "txPgProblema": "FALTA DE EQUIPAMIENTO EN\nÁREAS SENSIBLES DE LA\nMUNICIPALIDAD",
+            "txPgObjetivo": "EQUIPAMIENTO INSTITUCIONAL EN ÁREAS\nPRIORITARIAS DE ATENCIÓN AL\nCIUDADANO",
+            "txPgIndicador": "FALTA DE\nEQUIPAMIENTO EN UN\n60%",
+            "txPgMeta": "MEJORA EN LA ATENCIÓN EN 50%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 215363,
+            "txPgProblema": "ORGANIZACIONES DE BASE EN\nDESORDEN Y DESINFORMADAS",
+            "txPgObjetivo": "FORTALECIMIENTO DE LAS\nORGANIZACIONES SOCIALES DE BASE",
+            "txPgIndicador": "DESORGANIZACIÓN EN\nINSTITUCIONES DE\nBASE EN 50%",
+            "txPgMeta": "MEJORA DE 10 ORGANIZACIONES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

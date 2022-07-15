@@ -1,0 +1,105 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20703,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2857,
+        "txOrganizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1656,
+        "juradoElectoral": "CAJAMARCA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/39bdb24e-8ba5-427e-8249-89359b27f461.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/cb02a7c9-1092-4cde-819e-be93e31018e9.pdf",
+        "txCodExpedienteExt": "ERM.2022006253",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 126937,
+            "txPgProblema": "DEFICIENCIA DE AGUA\nEN DISPONIBILIDAD Y\nCALIDAD",
+            "txPgObjetivo": "GARANTIZAR A LA\nPOBLACIÓN DE\nLLACANORA AGUA DISPONIBLE Y DE\nCALIDAD APTA PARA EL\nCONSUMO HUMANO Y\nAGROFORESTERÍA",
+            "txPgIndicador": "% DE INCREMENTO DE\nAGUA POTABLE Y\nSISTEMAS DE RIEGO",
+            "txPgMeta": "100%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126939,
+            "txPgProblema": "DEFICIENTE\nABASTECIMIENTO DE\nAGUA POTABLE PARA\nCONSUMO HUMANO Y\nAGRICULTURA \nCARRETERAS",
+            "txPgObjetivo": "REPRESAR EL AGUA EN\nZONAS APTAS\nGEOLÓGICAS Y FÍSICAS",
+            "txPgIndicador": "% DE INCREMENTO DE\nHECTÁREAS\nSEMBRADAS",
+            "txPgMeta": "100%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126940,
+            "txPgProblema": "CARRETERAS\nANGOSTAS Y EN MAL\nESTADO",
+            "txPgObjetivo": "ENSANCHAMIENTOS DE\nCARTERAS Y\nMEJORAMIENTO A NIVEL\nDE AFIRMADO",
+            "txPgIndicador": "% DE INCREMENTO DE\nCARRETERAS\nAFIRMADAS",
+            "txPgMeta": "100%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 126943,
+            "txPgProblema": "DEFICIENCIA DE\nTECNOLOGÍA EN LA\nAGRICULTURA",
+            "txPgObjetivo": "IMPLEMENTACIÓN CON\nTECNOLOGÍA MANUAL\nPARA A LA\nAGROFORESTERÍA.\n.",
+            "txPgIndicador": "% DE INCREMENTO DE\nHECTÁREAS\nSEMBRADAS.",
+            "txPgMeta": "100%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126944,
+            "txPgProblema": "DEFICIENCIA DE\nTECNOLOGÍA EN LA\nINDUSTRIA",
+            "txPgObjetivo": "IMPLEMENTACIÓN CON\nTECNOLOGÍA DE\nAVANZADA PARA LA\nINDUSTRIA",
+            "txPgIndicador": "% DE INCREMENTO DE\nPRODUCCIÓN.",
+            "txPgMeta": "100%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 126945,
+            "txPgProblema": "VERTIMIENTO DE\nAGUAS RESIDUALES AL\nMEDIO AMBIENTE",
+            "txPgObjetivo": "CONSTRUCCIÓN DE\nPLANTAS DE\nTRATAMIENTO DE\nAGUAS RESIDUALES.",
+            "txPgIndicador": "% DE METROS\nCÚBICOS VERTIDOS DE\nAGUA TRATADA",
+            "txPgMeta": "100%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126947,
+            "txPgProblema": "DESECHOS DE\nRESIDUOS SÓLIDOS\nURBANOS EN LAS VÍAS\nDE CIRCULACIÓN",
+            "txPgObjetivo": "TRATAMIENTO DE\nRESIDUOS SÓLIDOS\nURBANOS.\nIMPLEMENTACIÓN DE\nECONOMÍA CIRCULAR ATRAVÉS DE LAS 5RS\nECOLÓGICAS. CON LA\nFINALIDAD DE MITIGAR\nEN EL IMPACTO\nECOLÓGICO.",
+            "txPgIndicador": "% DE METROS\nCÚBICOS DE\nTRATAMIENTO DE\nRESIDUOS SÓLIDOS\nURBANOS.\n% DE INCREMENTO DE\nMANO DE OBRA\nOCUPADA",
+            "txPgMeta": "100%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 126951,
+            "txPgProblema": "CORRUPCIÓN EN LOS\nPROCESOS\nADMINISTRATIVOS DE\nLA MUNICIPALIDAD",
+            "txPgObjetivo": "REINGENIERÍA EN EL\nCONTROL INTERNO PARA\nELIMINAR LOS MALOS\nELEMENTOS. DE LA\nADMINISTRACIÓN\nPUBLICA",
+            "txPgIndicador": "% DE INDICADOR DE\nSATISFACCIÓN LABORAL \nALTA SATISFACCIÓN\nCERO CORRUPCION.",
+            "txPgMeta": "100%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

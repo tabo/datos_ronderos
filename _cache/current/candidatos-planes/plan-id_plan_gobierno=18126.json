@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 18126,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2680,
+        "txOrganizacionPolitica": "MOVIMIENTO REGIONAL SIERRA Y SELVA CONTIGO JUNIN",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1690,
+        "juradoElectoral": "JAUJA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/0ef06e13-7ee4-4b7a-880f-ca4779f1168a.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/ade9c784-e47d-4207-97a1-1768e4a8d9eb.pdf",
+        "txCodExpedienteExt": "ERM.2022009772",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 173945,
+            "txPgProblema": "LOCALES DE CENTROS DE\nSALUD DE PRIMER NIVEL DE\nATENCIÓN CON PÉSIMA\nINFRAESTRUCTURA",
+            "txPgObjetivo": "LOCALES DE CENTROS DE SALUD DE\nPRIMER NIVEL DE ATENCIÓN CON ÓPTIMA\nINFRAESTRUCTURA.",
+            "txPgIndicador": "PORCENTAJE DE LOCALES\nDE PRIMER NIVEL DE\nATENCIÓN QUE REQUIEREN\nINTERVENCIÓN TOTAL",
+            "txPgMeta": "0% DE LOCALES\nCON PÉSIMA\nINFRAESTRUCTURA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 173986,
+            "txPgProblema": "POBLACIÓN RURAL SIN ACCESO AGUA\nPOR RED PÚBLICA",
+            "txPgObjetivo": "DOTAR A LA POBLACIÓN RURAL DE AGUA POTABLE\nPOR RED PÚBLICA",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN\nRURAL SIN ACCESO AGUA POR\nRED PÚBLICA",
+            "txPgMeta": "0% DE POBLACIÓN\nRURAL SIN ACCESO\nAGUA POR RED\nPÚBLICA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 174000,
+            "txPgProblema": "POBLACIÓN URBANA CON AGUA\nPOTABLE QUE NO CUMPLE CON\nESTÁNDARES SECTORIALES NI DE\nCALIDAD",
+            "txPgObjetivo": "DOTAR A LA POBLACIÓN URBANA CON AGUA POTABLE\nQUE CUMPLEN CON ESTÁNDARES SECTORIALES Y DE\nCALIDAD",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN\nURBANA CON AGUA POTABLE\nQUE CUMPLEN CON ESTÁNDARES\nSECTORIALES Y DE CALIDAD\n(CONTINUIDAD, CALIDAD,\nCOBERTURA)",
+            "txPgMeta": "97% POBLACIÓN\nURBANA CON AGUA\nPOTABLE QUE\nCUMPLEN CON\nESTÁNDARES\nSECTORIALES Y DE\nCALIDAD",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 174018,
+            "txPgProblema": "HECTÁREAS DE TIERRAS SIN\nRIEGO.",
+            "txPgObjetivo": "DOTAR DE SISTEMAS DE RIEGO A TIERRAS\nAGRÍCOLAS.",
+            "txPgIndicador": "PORCENTAJE DE HECTÁREAS\nSIN RIEGO",
+            "txPgMeta": "40% DE\nHECTÁREAS SIN\nRIEGO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 174029,
+            "txPgProblema": "INFRAESTRUCTURA VIAL URBANA\nEN PÉSIMAS CONDICIONES.",
+            "txPgObjetivo": "EJECUTAR PROYECTOS DE INFRAESTRUCTURA\nVIAL URBANA Y RURAL.",
+            "txPgIndicador": "PORCENTAJE DE\nINFRAESTRUCTURA VIAL\nURBANA Y RURAL EN ÓPTIMAS\nCONDICIONES.",
+            "txPgMeta": "80% DE\nINFRAESTRUCTURA\nVIAL URBANA Y\nRURAL EN ÓPTIMAS\nCONDICIONES",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 174046,
+            "txPgProblema": "AGRICULTORES Y GANADEROS\nINCREMENTAN SUS GASTOS DE\nPRODUCCIÓN PORQUE\nCARECEN DE ACCESO VIAL A\nLOS TERRENOS PRODUCTIVOS.",
+            "txPgObjetivo": "MEJORAMIENTO VIAL DE LAS\nCARRETERAS DE PENETRACIÓN Y\nCAMINOS VECINALES QUE\nCONDUCEN A LOS TERRENOS DE\nCULTIVO",
+            "txPgIndicador": "PORCENTAJE DE\nINFRAESTRUCTURA VIAL RURAL Y\nVECINAL EN ÓPTIMAS\nCONDICIONES",
+            "txPgMeta": "80% DE\nINFRAESTRUCTURA\nVIAL RURAL Y\nVECINAL EN\nÓPTIMAS\nCONDICIONES",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 174063,
+            "txPgProblema": "CONTAMINACIÓN AMBIENTAL POR\nRESIDUOS SÓLIDOS GENERADOS\nPOR LA POBLACIÓN",
+            "txPgObjetivo": "VIVIENDAS CON COBERTURA DEL SERVICIO DE\nRECOLECCIÓN DE RESIDUOS SÓLIDOS",
+            "txPgIndicador": "PORCENTAJE DE VIVIENDAS CON\nCOBERTURA DEL SERVICIO DE\nRECOLECCIÓN DE RESIDUO\nSÓLIDOS EN PREDIOS",
+            "txPgMeta": "95% DE\nVIVIENDAS CON\nCOBERTURA DEL\nSERVICIO DE\nRECOLECCIÓN DE\nRESIDUO SÓLIDOS EN\nPREDIOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 174081,
+            "txPgProblema": "CONTAMINACIÓN POR\nBOTADEROS DE RESIDUOS\nSÓLIDOS.",
+            "txPgObjetivo": "REDUCIR LA CONTAMINACIÓN\nSIGNIFICATIVAMENTE DE BOTADEROS DE\nRESIDUOS SÓLIDOS.",
+            "txPgIndicador": "PORCENTAJE DE\nIMPLEMENTACIÓN DE PLANTA DE\nTRATAMIENTO DE RESIDUOS\nSOLIDOS",
+            "txPgMeta": "100% DE\nIMPLEMENTACIÓN\nDE PLANTA DE\nTRATAMIENTO DE\nRESIDUOS SOLIDOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 174097,
+            "txPgProblema": "FALTA DE PROYECTOS PARA\nPROTEGER EL ECOSISTEMA\nY BIODIVERSIDAD",
+            "txPgObjetivo": "FORTALECER LOS MECANISMOS DE\nCONTROL Y PROTECCIÓN DE LA\nBIODIVERSIDAD, PARA REDUCIR LOS\nÍNDICES DE DEPREDACIÓN Y\nDESTRUCCIÓN AMBIENTAL, MITIGAR LOS\nEFECTOS DEL CAMBIOCLIMÁTICO",
+            "txPgIndicador": "PORCENTAJE DE LA\nSUPERFICIE TOTAL\nDEFORESTADA",
+            "txPgMeta": "80 % DEL\nECOSISTEMA SE\nENCUENTRA\nPROTEGIDA",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 174119,
+            "txPgProblema": "GOBIERNO LOCAL SIN RUMBO NI\nDIRECCIÓN",
+            "txPgObjetivo": "ELABORAR UN INSTRUMENTO DE PLANEAMIENTO\nESTRATÉGICO PARA EL DESARROLLO LOCAL.",
+            "txPgIndicador": "PORCENTAJE DE CUMPLIMIENTO\nDEL PLAN ESTRATÉGICO\nINSTITUCIONAL",
+            "txPgMeta": "98% DE\nCUMPLIMIENTO DEL\nPLAN ESTRATÉGICO\nINSTITUCIONAL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 174131,
+            "txPgProblema": "GOBIERNO LOCAL BUROCRÁTICO,\nOBSOLETO Y POCO TRANSPARENTE",
+            "txPgObjetivo": "IMPLEMENTAR LA SIMPLIFICACIÓN ADMINISTRATIVA,\nLA GESTIÓN POR PROCESOS, MODERNIZACIÓN\nINSTITUCIONAL E IMPLEMENTAR UN GOBIERNO\nTRANSPARENTE AL SERVICIO DEL CIUDADANO",
+            "txPgIndicador": "PORCENTAJE DE AVANCE DE LA\nIMPLEMENTACIÓN PLAN DE\nSIMPLIFICACIÓN ADMINISTRATIVA,\nGESTIÓN POR PROCESOS,\nMODERNIZACIÓN INSTITUCIONAL Y\nTRANSPARENTE.",
+            "txPgMeta": "98% DE AVANCE\nDE LA\nIMPLEMENTACIÓN\nPLAN DE\nSIMPLIFICACIÓN\nADMINISTRATIVA,\nGESTIÓN POR",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 174156,
+            "txPgProblema": "TRABAJADORES MUNICIPALES CON\nESCASA ESPECIALIZACIÓN.",
+            "txPgObjetivo": "CAPACITAR A LOS TRABAJADORES DE LA\nMUNICIPALIDAD PARA BRINDAR SERVICIOS PÚBLICOS\nDE EFICIENTES Y TRANSPARENTES.",
+            "txPgIndicador": "PORCENTAJE DE TRABAJADORES\nDE LA MUNICIPALIDAD CON\nCAPACITACIÓN",
+            "txPgMeta": "98% DE\nTRABAJADORES DE LA\nMUNICIPALIDAD CON\nCAPACITACIÓN",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

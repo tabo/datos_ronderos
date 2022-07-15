@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 19460,
+        "idTipoEleccion": 5,
+        "txTipoEleccion": "MUNICIPAL PROVINCIAL",
+        "idOrganizacionPolitica": 2694,
+        "txOrganizacionPolitica": "MOVIMIENTO REGIONAL GANA AYACUCHO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1660,
+        "juradoElectoral": "CANGALLO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/a7ec84eb-73b3-4cc1-98f9-86b9aa6e0108.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/353b6887-23f7-4ae6-bc96-332bc73b573c.pdf",
+        "txCodExpedienteExt": "ERM.2022007836",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 164873,
+            "txPgProblema": "ALTA TASA DE ANEMIA Y DESNUTRICIÓN CRÓNICA INFANTIL CON MAYOR ÍNDICE EN LA ZONA RURAL.",
+            "txPgObjetivo": "DISMINUIR LA DESNUTRICIÓN CRÓNICA Y ANEMIA EN NIÑOS Y NIÑAS MENORES DE CINCO AÑOS",
+            "txPgIndicador": "PORCENTAJE DE NIÑOS Y NIÑAS MENORES DE 05 AÑOS CON ANEMIA Y DESNUTRICIÓN CRÓNICA INFANTIL.",
+            "txPgMeta": "REDUCIR EN 10% EL PORCENTAJE DE ANEMIA Y DESNUTRICIÓN CRÓNICA INFANTIL.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 164907,
+            "txPgProblema": "INADECUADA INFRAESTRUCTURA EDUCATIVA EN LA PROVINCIA.",
+            "txPgObjetivo": "MEJORAR LA INFRAESTRUCTURA EDUCATIVA EN LA PROVINCIA.",
+            "txPgIndicador": "CANTIDAD DE INSTITUCIONES EDUCATIVAS CONSTRUIDAS O REFACCIONADAS.",
+            "txPgMeta": "06 INSTITUCIONES EDUCATIVAS CONSTRUIDAS.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 164915,
+            "txPgProblema": "LIMITADA CAPACIDAD RESOLUTIVA E INADECUADO ACCESO DE LA POBLACIÓN A SERVICIOS DE SALUD PREVENTIVO Y PROMOCIONAL.",
+            "txPgObjetivo": "MEJORAR Y MODERNIZAR LA INFRAESTRUCTURA Y EQUIPAMIENTO DE LOS PUESTOS DE SALUD.",
+            "txPgIndicador": "CANTIDAD DE PUESTOS DE SALUD MEJORADOS O IMPLEMENTADOS",
+            "txPgMeta": "08 PUESTOS DE SALUD MEJORADOS E IMPLEMENTADOS.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 164927,
+            "txPgProblema": "DEFICIENTE MANTENIMIENTO DE LOS CAMINOS VECINAL, TROCHAS CARROZABLES Y CARRETERAS.",
+            "txPgObjetivo": "MEJORAR EL MANTENIMIENTO DE LAS VÍAS DE ACCESO A LOS DISTRITOS Y COMUNIDADES DE LA PROVINCIA.",
+            "txPgIndicador": "PORCENTAJE DE VÍAS DE ACCESO MEJORAS O CREADAS.",
+            "txPgMeta": "60% DE VÍAS DE ACCESO CORRECTAMENTE EN MANTENIMIENTO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 164937,
+            "txPgProblema": "POCO IMPULSO AL DESARROLLO COMPETITIVO DE LAS ACTIVIDADES AGROPECUARIA.",
+            "txPgObjetivo": "MEJORAR LAS CAPACIDADES COMPETITIVAS DE LOS PRODUCTORES AGROPECUARIOS.",
+            "txPgIndicador": "PORCENTAJE DE PRODUCTORES QUE MEJORAN SUS CAPACIDADES PRODUCTIVAS Y DE COMERCIALIZACIÓN.",
+            "txPgMeta": "20 % DE PRODUCTORES MEJORAN SUS CAPACIDADES PRODUCTIVAS.\n30% DE PRODUCTORES ACCEDEN A PLAZAS RENTABLES PARA LA VENTA DE SUS PRODUCTOS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 164943,
+            "txPgProblema": "DEFICIENTE IMPLEMENTACIÓN DE SISTEMAS DE RIEGO TECNIFICADO.",
+            "txPgObjetivo": "MEJORAR LA IMPLEMENTACIÓN DE SISTEMAS DE RIEGO TECNIFICADO.",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN QUE ACCEDE A RIEGO TECNIFICADO.",
+            "txPgMeta": "20% DE LA POBLACIÓN ACCEDE A RIEGO TECNIFICADO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 164952,
+            "txPgProblema": "DEFICIENTE EDUCACIÓN AMBIENTAL DE LA PROVINCIA SUCRE.",
+            "txPgObjetivo": "MEJORAR LA EDUCACIÓN AMBIENTAL DE LA PROVINCIA SUCRE.",
+            "txPgIndicador": "PORCENTAJE DE POBLADORES QUE MEJORAN SU EDUCACIÓN AMBIENTAL.",
+            "txPgMeta": "40% DE POBLADORES QUE MEJORAN SU EDUCACIÓN AMBIENTAL.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 164962,
+            "txPgProblema": "INADECUADA GESTIÓN DE LOS RESIDUOS SÓLIDOS MUNICIPALES.",
+            "txPgObjetivo": "MEJORAR LA GESTIÓN DE LOS RESIDUOS SÓLIDOS DE LA PROVINCIA SUCRE.",
+            "txPgIndicador": "PORCENTAJE DE POBLADORES QUE MEJORAN LA GESTIÓN DE RESIDUOS SÓLIDOS.\nIMPLEMENTACIÓN DE UN RELLENO SANITARIO.",
+            "txPgMeta": "30% DE POBLADORES MEJORAN LA GESTIÓN DE RESIDUOS SÓLIDOS.\n01 RELLENO SANITARIO IMPLEMENTADO.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 164976,
+            "txPgProblema": "REDUCIDA DOTACIÓN DE RECURSOS HÍDRICOS.",
+            "txPgObjetivo": "MEJORAR LA DOTACIÓN DE RECURSOS HÍDRICO EN LA PROVINCIA DE SUCRE.",
+            "txPgIndicador": "CANTIDAD DE PROYECTOS IMPLEMENTADOS.",
+            "txPgMeta": "03 PROYECTOS DE SIEMBRA Y COSECHA DE AGUA-EN LAGUNAS.\n01 PROYECTO DE REPRESA.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 164985,
+            "txPgProblema": "DEFICIENTE PARTICIPACIÓN DE LA SOCIEDAD CIVIL ORGANIZADA EN LA PROVINCIA PARA LA TOMA DE DECISIONES.",
+            "txPgObjetivo": "INCREMENTAR Y MEJORAR LA PARTICIPACIÓN DE LA SOCIEDAD CIVIL ORGANIZADA EN LA GESTIÓN MUNICIPAL.",
+            "txPgIndicador": "PORCENTAJE DE PARTICIPACIÓN DE SOCIEDAD CIVIL ORGANIZADA QUE INCREMENTA Y MEJORA SU PARTICIPACIÓN.",
+            "txPgMeta": "60% DE INCREMENTO DE LA PARTICIPACIÓN.\n40% DE MEJORA DE LA PARTICIPACIÓN.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 164995,
+            "txPgProblema": "DEFICIENTES CANALES DE COMUNICACIÓN Y ATENCIÓN EN LA PROVINCIA DE SUCRE.",
+            "txPgObjetivo": "MEJORAR LOS CANALES DE COMUNICACIÓN Y ATENCIÓN.",
+            "txPgIndicador": "PORCENTAJE DE MEJORA EN LOS CANALES DE COMUNICACIÓN.",
+            "txPgMeta": "70% DE MEJORA DE LOS CANALES DE COMUNICACIÓN.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 165004,
+            "txPgProblema": "LIMITADA CAPACIDAD DE PLANIFICACIÓN MUNICIPAL EN EL CORTO, MEDIANO Y LARGO PLAZO QUE ORIENTE A UNA GESTIÓN POR RESULTADOS.",
+            "txPgObjetivo": "MEJORAR LA CAPACIDAD DE PLANIFICACIÓN MUNICIPAL A CORTO, MEDIANO Y LARGO PLAZO ORIENTADO A UNA GESTIÓN POR RESULTADOS.",
+            "txPgIndicador": "PORCENTAJE DE MEJORA DE CAPACIDADES.",
+            "txPgMeta": "40% DE MEJORA DE CAPACIDADES PARA LA PLANIFICACIÓN MUNICIPAL.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

@@ -1,0 +1,105 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 26961,
+        "idTipoEleccion": 5,
+        "txTipoEleccion": "MUNICIPAL PROVINCIAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/9bf8c440-ee50-4083-90ec-3e2e701ca7cd.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/928ed9c7-fa78-4749-8175-1753542aa8fc.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 200713,
+            "txPgProblema": "32.8% DE POBLACIÓN QUE NO ACCEDE AL SEGURO INTEGRAL DE SALUD",
+            "txPgObjetivo": "REDUCIR EL PORCENTAJE DE POBLACIÓN SIN ACCESO AL SEGURO INTEGRAL DE SALUD",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN SIN ACCESO AL SEGURO INTEGRAL DE SALUD",
+            "txPgMeta": "REDUCIR AL 5% DE POBLACIÓN SIN ACCESO AL SEGURO INTEGRAL DE SALUD",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 200737,
+            "txPgProblema": "43.8% DE DESNUTRICIÓN CRÓNICA EN NIÑOS MENORES DE 5 AÑOS",
+            "txPgObjetivo": "REDUCIR EL PORCENTAJE DE DESNUTRICIÓN CRÓNICA EN NIÑOS MENORES DE 5 AÑOS",
+            "txPgIndicador": "PORCENTAJE DE NIÑOS MENORES DE 5 AÑOS CON DESNUTRICIÓN CRÓNICA",
+            "txPgMeta": "REDUCIR AL 5% DE NIÑOS MENORES DE 5 AÑOS CON DESNUTRICIÓN CRÓNICA EN",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 200750,
+            "txPgProblema": "93.21% DE LOCALES EDUCATIVOS CON EL SERVICIO DE EDUCACIÓN INICIAL, PRIMARIA Y SECUNDARIA CON CAPACIDAD INSTALADA INADECUADA",
+            "txPgObjetivo": "REDUCIR EL PORCENTAJE DE LOCALES EDUCATIVOS CON CAPACIDAD INSTALADA INADECUADA",
+            "txPgIndicador": "PORCENTAJE DE LOCALES EDUCATIVOS CON CAPACIDAD INSTALADA INADECUADA",
+            "txPgMeta": "REDUCIR AL 25% DE LOCALES EDUCATIVOS CON CAPACIDAD INSTALADA INADECUADA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 200771,
+            "txPgProblema": "62.7% DE HECTÁREAS QUE NECESITAN SER REGADAS",
+            "txPgObjetivo": "AUMENTAR EL PORCENTAJE DE ÁREA CON RIEGO",
+            "txPgIndicador": "PORCENTAJE DE ÁREA CON RIEGO",
+            "txPgMeta": "REDUCIR AL 25% DE HECTÁREAS QUE NECESITAN SER REGADAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 200779,
+            "txPgProblema": "90.5% DE HECTÁREAS DE TERRENO SIN RIEGO TECNIFICADO",
+            "txPgObjetivo": "AUMENTAR EL PORCENTAJE DE ÁREA CON RIEGO TECNIFICADO",
+            "txPgIndicador": "PORCENTAJE DE ÁREA CON RIEGO TECNIFICADO",
+            "txPgMeta": "REDUCIR AL 30% DE HECTÁREAS DE TERRENO SIN RIEGO TECNIFICADO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 200794,
+            "txPgProblema": "100% DE RECURSOS TURÍSTICOS INVENTARIADOS PRIORIZADOS QUE NO BRINDAN ADECUADOS SERVICIOS TURÍSTICOS PÚBLICOS",
+            "txPgObjetivo": "AUMENTAR EL PORCENTAJE DE RECURSOS TURÍSTICOS INVENTARIADOS PRIORIZADOS QUE BRINDAN ADECUADOS SERVICIOS TURÍSTICOS PÚBLICOS",
+            "txPgIndicador": "PORCENTAJE DE RECURSOS TURÍSTICOS INVENTARIADOS PRIORIZADOS QUE BRINDAN ADECUADOS SERVICIOS TURÍSTICOS PÚBLICOS",
+            "txPgMeta": "DISMINUIR AL 50% DE RECURSOS TURÍSTICOS INVENTARIADOS PRIORIZADOS QUE NO BRINDAN ADECUADOS SERVICIOS TURÍSTICOS PÚBLICOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 200818,
+            "txPgProblema": "53.77% DE LA POBLACIÓN QUE NO ACCEDE AL SERVICIO DE LIMPIEZA PÚBLICA",
+            "txPgObjetivo": "REDUCIR EL PORCENTAJE DE LA POBLACIÓN QUE NO ACCEDE AL SERVICIO DE LIMPIEZA PÚBLICA",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN QUE NO ACCEDE AL SERVICIO DE LIMPIEZA PÚBLICA",
+            "txPgMeta": "REDUCIR AL 10% DE LA POBLACIÓN QUE NO ACCEDE AL SERVICIO DE LIMPIEZA PÚBLICA",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 200838,
+            "txPgProblema": "POCA PARTICIPACIÓN CIUDADANA EN LA GESTIÓN PÚBLICA",
+            "txPgObjetivo": "MEJORAR LA CAPACIDAD DE PARTICIPACIÓN CIUDADANA EN LA GESTIÓN PÚBLICA",
+            "txPgIndicador": "PORCENTAJE DE REPRESENTANTES DE ORGANIZACIONES DE BASE CON PARTICIPACIÓN CIUDADANA",
+            "txPgMeta": "100% DE REPRESENTANTES DE ORGANIZACIONES DE BASE CON PARTICIPACIÓN CIUDADANA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

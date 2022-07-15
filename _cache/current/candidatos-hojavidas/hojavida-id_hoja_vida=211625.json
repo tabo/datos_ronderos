@@ -1,0 +1,209 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 211625.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "45994566",
+        "nombres": "ROGGER MARTIN",
+        "apellidoPaterno": "PEREZ",
+        "apellidoMaterno": "GARCES",
+        "sexo": "1",
+        "feNacimiento": "03/11/1989",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "240102",
+        "naciDepartamento": "CALLAO",
+        "naciProvincia": "CALLAO",
+        "naciDistrito": "BELLAVISTA",
+        "ubigeoDomicilio": "140119",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "PUENTE PIEDRA",
+        "domicilioDirecc": "URB. LOS JARDINES DE SHANGRILA MZ. N-1 LT. 9",
+        "ubigeoPostula": "140119",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "PUENTE PIEDRA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/211625.jpg",
+        "estado": "INSCRITO",
+        "idOrganizacionPolitica": 2869.0,
+        "organizacionPolitica": "PARTIDO PATRIOTICO DEL PERU",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 15:35:04",
+        "txGuidFormatoHojaVida": "edb9c30d-95b1-429a-920f-020bbd03d43c",
+        "idSolicitudLista": 32991.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 202016,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "ESTUDIO JURIDICO PEREZ GARCES Y ASOCIADOS E.I.R.L",
+            "ocupacionProfesion": "ABOGADOS",
+            "rucTrabajo": "20606928212",
+            "direccionTrabajo": "URB. LOS JARDINES DE SHANGRILA MZ N1 LT 9",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140119",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "PUENTE PIEDRA",
+            "idHojaVida": 211625,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 177870,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 211625,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 164128,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "2",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD DE SAN MARTÍN DE PORRES",
+                "carreraUni": "BACHILLER EN DERECHO",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2014",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            },
+            {
+                "idHvEduUniversitaria": 164127,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD DE SAN MARTÍN DE PORRES",
+                "carreraUni": "ABOGADO",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2016",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [
+            {
+                "idHvPosgrado": 138178,
+                "tengoPosgrado": "SI",
+                "nuItemPosgrado": 1,
+                "txCenEstudioPosgrado": "ESCUELA DE POST GRADO DE LA UNIVERSIDAD DE SAN MARTIN DE PORRES",
+                "txEspecialidadPosgrado": "ESPECIALIDAD EN DERECHO DE FAMILIA",
+                "concluidoPosgrado": "SI",
+                "egresadoPosgrado": "SI",
+                "esMaestro": "NO",
+                "esDoctor": null,
+                "txAnioPosgrado": "2016",
+                "idHojaVida": 211625,
+                "idEstado": 1,
+                "txEstado": "ACTIVO (R)",
+                "fgRegistroManual": 1,
+                "txComentario": "NO TENIENDO EL GRADO DE MAGISTER-SOLO EGRESADO DE LA ESCUELA DE POST GRADO",
+                "fgRegistro": null
+            }
+        ],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 139786,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 21,
+                "orgPolCargoPartidario": "PARTIDO POLÍTICO VICTORIA NACIONAL",
+                "cargoPartidario": "MILITANTE",
+                "anioCargoPartiDesde": "2017",
+                "anioCargoPartiHasta": "2019",
+                "idHojaVida": 211625,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "RENUNCIA DEL 2019"
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 151673,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 21,
+            "orgPolRenunciaOp": "VICTORIA NACIONAL",
+            "anioRenunciaOp": "2019",
+            "idHojaVida": 211625,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 166783,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 6000.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 31000.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 211625,
+                "idEstado": 1,
+                "totalIngresos": 37000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 3654,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "ESTUDIO JURIDICO PEREZ GARCES Y ASOCIADOS E.I.R.L",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 100.0,
+                "flValor": 1000.0,
+                "idHojaVida": 211625,
+                "idEstado": 1,
+                "txUsuario": "45994566",
+                "txFechaRegistro": null,
+                "txComentario": "QUE ES UNA EMPRESA INJDIVIDUAL DE RESPONSABILIDAD LIMITADA- TENIENDO COMO TITULAR GERENTE A ROGGER MARTIN PEREZ GARCES",
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

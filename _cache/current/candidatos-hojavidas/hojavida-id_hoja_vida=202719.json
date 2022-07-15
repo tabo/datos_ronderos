@@ -1,0 +1,181 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 202719.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42656722",
+        "nombres": "LISBETH MARIA",
+        "apellidoPaterno": "LABAN",
+        "apellidoMaterno": "CHINCHAY",
+        "sexo": "2",
+        "feNacimiento": "04/03/1984",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "061104",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "SAN IGNACIO",
+        "naciDistrito": "NAMBALLE",
+        "ubigeoDomicilio": "061104",
+        "domiDepartamento": "CAJAMARCA",
+        "domiProvincia": "SAN IGNACIO",
+        "domiDistrito": "NAMBALLE",
+        "domicilioDirecc": "AVENIDA NAMBALLE S/N",
+        "ubigeoPostula": "061104",
+        "postulaDepartamento": "CAJAMARCA",
+        "postulaProvincia": "SAN IGNACIO",
+        "postulaDistrito": "NAMBALLE",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/202719.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 12:35:37",
+        "txGuidFormatoHojaVida": "1c423d68-1c8f-4ea1-826b-e433f3af59c8",
+        "idSolicitudLista": 31857.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 181259,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CORPORACION LA DESPENSA S.A.C",
+            "ocupacionProfesion": "ASISTENTE CONTABLE",
+            "rucTrabajo": "20536550764",
+            "direccionTrabajo": "CALLE MONTE ROSA N° 233",
+            "anioTrabajoDesde": "2013",
+            "anioTrabajoHasta": "2017",
+            "ubigeoTrabajo": "140130",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "SANTIAGO DE SURCO",
+            "idHojaVida": 202719,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 159330,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 202719,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 154530,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "2",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL PEDRO RUÍZ GALLO",
+                "carreraUni": "BACHILLER EN CONTABILIDAD",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2014",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            },
+            {
+                "idHvEduUniversitaria": 154529,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL PEDRO RUÍZ GALLO",
+                "carreraUni": "CONTADORA PUBLICA",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2015",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 144681,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 179,
+            "orgPolRenunciaOp": "PARTIDO NACIONALISTA PERUANO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 202719,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 152490,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 10000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 24000.0,
+                "idHojaVida": 202719,
+                "idEstado": 1,
+                "totalIngresos": 34000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 192758,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "SOLAR",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "AVENIDA NAMBALLE S/N",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 202719,
+                "idEstado": 1,
+                "flValor": "18000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

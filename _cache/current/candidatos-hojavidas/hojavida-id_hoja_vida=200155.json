@@ -1,0 +1,128 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 200155.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "75230677",
+        "nombres": "MILTON EDGARDO",
+        "apellidoPaterno": "PRADO",
+        "apellidoMaterno": "ZAPATA",
+        "sexo": "1",
+        "feNacimiento": "11/02/1996",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140106",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "COMAS",
+        "ubigeoDomicilio": "140106",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "COMAS",
+        "domicilioDirecc": "CALLE 1 URB. LOS VIÑEDOS MZ. E LT. 10",
+        "ubigeoPostula": "140106",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "COMAS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/200155.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2869.0,
+        "organizacionPolitica": "PARTIDO PATRIOTICO DEL PERU",
+        "numeroCandidato": 15.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 18:55:58",
+        "txGuidFormatoHojaVida": "c3bbf902-9a15-4946-8a0a-0582a0ab9b0a",
+        "idSolicitudLista": 31521.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 247797,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "EMPRESA DE TRANSPORTE MENOR MAKARDI EIRL",
+            "ocupacionProfesion": "MOTOTAXISTA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "COMAS",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140106",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "COMAS",
+            "idHojaVida": 200155,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 219438,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 200155,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 198375,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 18000.0,
+                "idHojaVida": 200155,
+                "idEstado": 1,
+                "totalIngresos": 18000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 200143,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "8437FA ",
+                "valor": 20000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTO COLOR NEGRO",
+                "comentario": null,
+                "idHojaVida": 200155,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

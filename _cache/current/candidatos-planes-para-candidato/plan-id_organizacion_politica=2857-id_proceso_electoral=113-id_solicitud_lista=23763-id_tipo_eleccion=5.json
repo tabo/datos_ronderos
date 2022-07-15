@@ -1,0 +1,115 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 17089,
+        "idTipoEleccion": 5,
+        "txTipoEleccion": "MUNICIPAL PROVINCIAL",
+        "idOrganizacionPolitica": 2857,
+        "txOrganizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/8eb9ce4a-44f1-468c-beed-5da270471cd2.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/eed0145b-daaa-43cf-aa45-c1f16ea0ce79.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 128089,
+            "txPgProblema": "DESNUTRICIÓN CRÓNICA",
+            "txPgObjetivo": "MEJORA DE LA SALUD",
+            "txPgIndicador": "%",
+            "txPgMeta": "REDUCIR 6.5 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128095,
+            "txPgProblema": "ANEMIA",
+            "txPgObjetivo": "MEJORA DE LA SALUD",
+            "txPgIndicador": "%",
+            "txPgMeta": "REDUCIR 15 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128127,
+            "txPgProblema": "BAJA COMPRESIÓN LECTORA",
+            "txPgObjetivo": "MEJORA A LA EDUCACIÓN",
+            "txPgIndicador": "%",
+            "txPgMeta": "INCREMENTAR EN EL 20 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 128137,
+            "txPgProblema": "AGRICULTURA",
+            "txPgObjetivo": "MEJORA DE LA AGRICULTURA",
+            "txPgIndicador": "GESTIÓN",
+            "txPgMeta": "MEJORA DE LA PRODUCCIÓN",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128140,
+            "txPgProblema": "LUZ ELÉCTRICA",
+            "txPgObjetivo": "MEJORA EN LA COBERTURA DE ENERGGÍA",
+            "txPgIndicador": "%",
+            "txPgMeta": "20 %",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 128143,
+            "txPgProblema": "RIESGOS AMBIENTALES",
+            "txPgObjetivo": "MEJORA DEL MEDIO AMBIENTE",
+            "txPgIndicador": "SISTEMA DE MONITOREO",
+            "txPgMeta": "SISTEMA IMPLEMENTADO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128149,
+            "txPgProblema": "DEFENSA DEL MEDIO AMBIENTE",
+            "txPgObjetivo": "CONSERVACIÓN DEL MEDIO AMBIENTE",
+            "txPgIndicador": "CAMPAÑAS DE EDUACIÓN AMBIENTAL",
+            "txPgMeta": "5 CAMPAÑAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 128168,
+            "txPgProblema": "SEGURIDAD CIUDADANA",
+            "txPgObjetivo": "MEJORA E IMPLEMENTACIÓN",
+            "txPgIndicador": "EQUIPAMIENTO",
+            "txPgMeta": "100 % EQUIPADOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128172,
+            "txPgProblema": "PERSONAL CAPACITADO",
+            "txPgObjetivo": "MEJORA DE LA GESTIÓN",
+            "txPgIndicador": "CAPACITACIÓN",
+            "txPgMeta": "100 % CAPACITADOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

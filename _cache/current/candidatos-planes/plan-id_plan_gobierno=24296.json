@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 24296,
+        "idTipoEleccion": 5,
+        "txTipoEleccion": "MUNICIPAL PROVINCIAL",
+        "idOrganizacionPolitica": 1264,
+        "txOrganizacionPolitica": "JUNTOS POR EL PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1683,
+        "juradoElectoral": "HUARI",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/db4a8f02-16e1-4b77-8b73-7b0c2be18333.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/829f4995-d057-43ac-b8c8-858d5c9cf809.pdf",
+        "txCodExpedienteExt": "ERM.2022017576",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 204467,
+            "txPgProblema": "LIMITADO ACCESO DE LAS VIVIENDAS A LOS\nSERVICIOS DE AGUA",
+            "txPgObjetivo": "MEJORAR LA\nHABITABILIDAD EN LOS\nDISTRITOS DE LA\nPROVINCIA DE HUARI",
+            "txPgIndicador": "% DE VIVIENDAS QUE\nACCEDEN AL SERVICIO\nDE AGUA POTABLE",
+            "txPgMeta": "90% DE VIVIENDAS\nACCEDEN AL\nSERVICIO DE AGUA\nPOTABLE",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 204483,
+            "txPgProblema": "LIMITADO ACCESO DE LAS VIVIENDAS A LOS\nSERVICIOS DE SANEAMIENTO",
+            "txPgObjetivo": "MEJORAR LA\nHABITABILIDAD EN LOS\nDISTRITOS DE LA\nPROVINCIA DE HUARI",
+            "txPgIndicador": "% DE VIVIENDAS QUE\nACCEDEN AL SERVICIO\nDE SANEAMIENTO",
+            "txPgMeta": "90% DE VIVIENDAS\nACCEDEN AL\nSERVICIO DE\nSANEAMIENTO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 204499,
+            "txPgProblema": "LIMITADO ACCESO DE LAS VIVIENDAS A LOS\nSERVICIOS DE ENERGÍA ELÉCTRICA",
+            "txPgObjetivo": "MEJORAR LA\nHABITABILIDAD EN LOS\nDISTRITOS DE LA\nPROVINCIA DE HUARI",
+            "txPgIndicador": "% DE VIVIENDAS QUE\nACCEDEN AL SERVICIO\nDE ENERGÍA ELÉCTRICA",
+            "txPgMeta": "100 % DE\nVIVIENDAS\nACCEDEN AL\nSERVICIO DE\nENERGÍA ELÉCTRICA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 204525,
+            "txPgProblema": "NSUFICIENTE GESTIÓN INTEGRAL DEL AGUA, SOBRE\nTODO PARA USO AGRARIO",
+            "txPgObjetivo": "MEJORAR LA\nCOMPETITIVIDAD DE LOS\nAGENTES ECONÓMICOS\nAGRÍCOLAS",
+            "txPgIndicador": "N° DE PLANES DE\nGESTIÓN DEL AGUA\nELABORADOS",
+            "txPgMeta": "12 PLANES DE\nGESTIÓN DEL AGUA\nELABORADOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 204547,
+            "txPgProblema": "ESCASA INVERSIÓN PARA EL APROVECHAMIENTO\nDE LOS RECURSOS Y ATRACTIVOS TURÍSTICOS EN LA\nPROVINCIA DE HUARI",
+            "txPgObjetivo": "MEJORAR LA\nCOMPETITIVIDAD DE LOS\nRECURSOS Y SERVICIOS\nTURÍSTICO",
+            "txPgIndicador": "% DE VISITANTES\nNACIONALES Y\nEXTRANJEROS",
+            "txPgMeta": "INCREMENTAR EN\nUN 10 % LAS\nVISITANTES\nNACIONALES Y\nEXTRANJEROS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 204567,
+            "txPgProblema": "ESCASAS OPORTUNIDADES DE EMPLEO",
+            "txPgObjetivo": "FOMENTAR LA CREACIÓN\nDE EMPLEOS\nTEMPORALES",
+            "txPgIndicador": "% PERSONAS EN\nEDAD DE TRABAJAR\nSIM EMPLEO",
+            "txPgMeta": "10% PERSONAS EN\nEDAD DE TRABAJAR\nCUENTAN CON\nEMPLEO TEMPORAL",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 204587,
+            "txPgProblema": "DEFICIENTE MANEJO DE RESIDUOS SÓLIDOS\n(GENERACIÓN, RECOLECCIÓN, TRANSPORTE,\nDISPOSICIÓN FINAL, BARRIDO DE CALLES,\nEDUCACIÓN A LA POBLACIÓN).",
+            "txPgObjetivo": "MEJORAR LA CALIDAD DEL\nAMBIENTE EN LA\nPROVINCIA",
+            "txPgIndicador": "% DE RESIDUOS\nSÓLIDOS PROCESADOS",
+            "txPgMeta": "100 % DE\nRESIDUOS SÓLIDOS\nPROCESADOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 204605,
+            "txPgProblema": "COLAPSO DEL BOTADERO DE RESIDUOS SÓLIDOS\nDE HUANCHAC",
+            "txPgObjetivo": "MEJORAR LA CALIDAD DEL\nAMBIENTE EN LA\nPROVINCIA",
+            "txPgIndicador": "NÚMERO DE\nPROYECTOS DE\nINVERSIÓN DE\nGESTIÓN DE RESIDUOS\nSÓLIDOS\nIMPLEMENTADOS",
+            "txPgMeta": "02 PROYECTOS DE\nINVERSIÓN DE\nGESTIÓN DE\nRESIDUOS SÓLIDOS\nIMPLEMENTADOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 204623,
+            "txPgProblema": "ESCASOS INSTRUMENTOS DE GESTIÓN AMBIENTAL\n(RESIDUOS SÓLIDOS, RUIDOS, POLVOS Y HUMOS,\nETC.) PARA EL CUMPLIMIENTO DE LAS\nCOMPETENCIAS EXCLUSIVAS DE LA\nMUNICIPALIDAD EN TEMAS AMBIENTALES.",
+            "txPgObjetivo": "MEJORAR LA CALIDAD DEL\nAMBIENTE EN LA\nPROVINCIA",
+            "txPgIndicador": "NÚMERO DE\nHERRAMIENTAS DE\nGESTIÓN AMBIENTAL\nIMPLEMENTADAS",
+            "txPgMeta": "05 DE\nHERRAMIENTAS DE\nGESTIÓN\nAMBIENTAL\nIMPLEMENTADAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 204639,
+            "txPgProblema": "ESCASOS MECANISMOS DE PARTICIPACIÓN\nVECINAL",
+            "txPgObjetivo": "FORTALECER LOS\nESPACIOS DE\nPARTICIPACIÓN VECINA",
+            "txPgIndicador": "N° DE PERSONAS\nPARTICIPANTES",
+            "txPgMeta": "4000 PERSONAS\nPARTICIPANTES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 204662,
+            "txPgProblema": "ESCASOS ESPACIOS DE GESTIÓN CONCERTADA DEL\nTERRITORIO",
+            "txPgObjetivo": "IMPLEMENTAR UN\nESPACIO\nMULTISECTORIAL PARA LA\nGESTIÓN INTEGRAL DEL\nTERRITORIO",
+            "txPgIndicador": "% DE ESPACIOS\nIMPLEMENTADOS",
+            "txPgMeta": "01 ESPACIO\nMULTISECTORIAL\nPARA LA GESTIÓN\nINTEGRAL DEL\nTERRITORIO IMPLEM\nENTADO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

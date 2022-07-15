@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 19621,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1366,
+        "txOrganizacionPolitica": "FUERZA POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1707,
+        "juradoElectoral": "MAYNAS",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/42685cf3-1d2b-41f6-a00d-b5ad7ccc462e.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/842c3407-7f91-4dc5-92ea-f566baa30361.pdf",
+        "txCodExpedienteExt": "ERM.2022011937",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 144132,
+            "txPgProblema": "1. SERVICIOS DE SALUD",
+            "txPgObjetivo": "1. AMPLIACION DE SERVICIO DE SALUD\n2. MEJORAMIENTO DEL SISTEMA DEL AGUA",
+            "txPgIndicador": "1. FALTA DE PUESTOS DE SALUD\n2. FALTA DE POZOS ARTESANOS DE AGUA",
+            "txPgMeta": "EQUIPAMIENTO DEL SERVICIO DE SALUD\nEQUIPAMIENTO DEL SERVICIO DE AGUA POTABLE",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 144142,
+            "txPgProblema": "1. DESEMPLEO",
+            "txPgObjetivo": "1. GENERAR TRABAJO",
+            "txPgIndicador": "FALTA DE EMPRESAS",
+            "txPgMeta": "GENERAR PUESTOS DE TRABAJO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 144154,
+            "txPgProblema": "1. FALTA DE DESAGUE",
+            "txPgObjetivo": "1. MEJORAMIENTO DEL SISTEMA DE DESAGUE",
+            "txPgIndicador": "FALTA DE TUBERIAS PARA DESAGUE",
+            "txPgMeta": "1. EQUIPAMIENTO DEL SISTEMA DE DEAGUE",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 144608,
+            "txPgProblema": "1. LA ATENCION AL SERVICIO CIUDADANO\n2. LA MALA ADMINISTRACION PUBLICA",
+            "txPgObjetivo": "2. LOGRAR MODERNIZAR LA GESTION MUNICIPAL",
+            "txPgIndicador": "CUANTITATIVO",
+            "txPgMeta": "LOGRAR UTILIZAR LOS RECURSOS EN INFRAESTRUCTURA Y SALUD",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

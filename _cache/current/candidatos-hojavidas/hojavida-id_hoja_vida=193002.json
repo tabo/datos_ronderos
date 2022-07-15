@@ -1,0 +1,139 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 193002.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "28310925",
+        "nombres": "VITALIANO",
+        "apellidoPaterno": "CORONADO",
+        "apellidoMaterno": "LOPE",
+        "sexo": "1",
+        "feNacimiento": "27/01/1976",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050114",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "HUAMANGA",
+        "naciDistrito": "PACAYCASA",
+        "ubigeoDomicilio": "050114",
+        "domiDepartamento": "AYACUCHO",
+        "domiProvincia": "HUAMANGA",
+        "domiDistrito": "PACAYCASA",
+        "domicilioDirecc": "ANEXO HUAYLLAPAMPA S/N",
+        "ubigeoPostula": "050114",
+        "postulaDepartamento": "AYACUCHO",
+        "postulaProvincia": "HUAMANGA",
+        "postulaDistrito": "PACAYCASA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/193002.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2861.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL AGUA",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 11:17:42",
+        "txGuidFormatoHojaVida": "8cec2aa7-a1e7-4dbb-a255-fa5680c5d052",
+        "idSolicitudLista": 30597.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 224742,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 193002,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 167811,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1366,
+            "orgPolRenunciaOp": "FUERZA POPULAR",
+            "anioRenunciaOp": "2010",
+            "idHojaVida": 193002,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 201907,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 7200.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 193002,
+                "idEstado": 1,
+                "totalIngresos": 7200.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 135863,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 2,
+            "txExpedientePenal": "981-2014",
+            "feSentenciaPenal": "06/05/2015",
+            "txOrganoJudiPenal": "TERCER JUZGADO PENAL DE HUAMANGA",
+            "txDelitoPenal": "COACCION",
+            "txFalloPenal": "LIBERTAD CONDICIONAL",
+            "idParamModalidad": 11,
+            "txModalidad": "SUSPENDIDA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 193002,
+            "txComentario": null
+        },
+        {
+            "idHvSentenciaPenal": 135862,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "1097-2005",
+            "feSentenciaPenal": "03/08/2006",
+            "txOrganoJudiPenal": "TERCER JUZGADO PENAL DE HUAMANGA",
+            "txDelitoPenal": "USURPACION AGRAVADA",
+            "txFalloPenal": "03 AÑOS CON EJECUCION SUSPENDIDA",
+            "idParamModalidad": 11,
+            "txModalidad": "SUSPENDIDA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 193002,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": []
+}

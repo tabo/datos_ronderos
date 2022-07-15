@@ -1,0 +1,134 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 223345.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "48636960",
+        "nombres": "EDUAR LICHO",
+        "apellidoPaterno": "SANCHEZ",
+        "apellidoMaterno": "PUENTE",
+        "sexo": "1",
+        "feNacimiento": "18/08/1991",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "061202",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "SAN MARCOS",
+        "naciDistrito": "ICHOCAN",
+        "ubigeoDomicilio": "061201",
+        "domiDepartamento": "CAJAMARCA",
+        "domiProvincia": "SAN MARCOS",
+        "domiDistrito": "PEDRO GALVEZ",
+        "domicilioDirecc": "CENTRO POBLADO SAPARCON",
+        "ubigeoPostula": "061207",
+        "postulaDepartamento": "CAJAMARCA",
+        "postulaProvincia": "SAN MARCOS",
+        "postulaDistrito": "CHANCAY",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/223345.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 12:28:03",
+        "txGuidFormatoHojaVida": "51349b45-4fa4-4fd1-9bcd-5d49d48dca4b",
+        "idSolicitudLista": 34371.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 203522,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "OBRERO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASERIO LA MASMA",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "061207",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CAJAMARCA",
+            "trabajoProvincia": "SAN MARCOS",
+            "trabajoDistrito": "CHANCAY",
+            "idHojaVida": 223345,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 179212,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 223345,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 167294,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 11160.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 223345,
+                "idEstado": 1,
+                "totalIngresos": 11160.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 210227,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "TERRENO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CASERIO LAS CAUTIVAS",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 223345,
+                "idEstado": 1,
+                "flValor": "15000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

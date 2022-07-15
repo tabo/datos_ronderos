@@ -1,0 +1,156 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 234956.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "03118070",
+        "nombres": "LUIS ASDRUBAL",
+        "apellidoPaterno": "OROZCO",
+        "apellidoMaterno": "CORDOVA",
+        "sexo": "1",
+        "feNacimiento": "13/02/1965",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "190202",
+        "naciDepartamento": "PIURA",
+        "naciProvincia": "AYABACA",
+        "naciDistrito": "FRIAS",
+        "ubigeoDomicilio": "190202",
+        "domiDepartamento": "PIURA",
+        "domiProvincia": "AYABACA",
+        "domiDistrito": "FRIAS",
+        "domicilioDirecc": "AV. HUAMINGAS 103",
+        "ubigeoPostula": "190200",
+        "postulaDepartamento": "PIURA",
+        "postulaProvincia": "AYABACA",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/234956.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 8.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 20:14:55",
+        "txGuidFormatoHojaVida": "36e19627-f429-4952-bdd0-def82a8ce00d",
+        "idSolicitudLista": 35720.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 254215,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INST. EDUC. SEC. TUPAC AMARU",
+            "ocupacionProfesion": "PROFESOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV HUAMINGAS",
+            "anioTrabajoDesde": "1990",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "190202",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PIURA",
+            "trabajoProvincia": "AYABACA",
+            "trabajoDistrito": "FRIAS",
+            "idHojaVida": 234956,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 226431,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 234956,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 143910,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "I.S.P.P. PIURA",
+                "carreraNoUni": "EDUCACION FISICA",
+                "concluidoNoUni": "1",
+                "idHojaVida": 234956,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 203096,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 16800.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 234956,
+                "idEstado": 1,
+                "totalIngresos": 16800.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 204017,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "5926FP ",
+                "valor": 6000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MAVILA COLOR ROJO",
+                "comentario": null,
+                "idHojaVida": 234956,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 204016,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "03995P ",
+                "valor": 0.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "RONCO COLOR AZUL",
+                "comentario": "ESTE VEHICULO SE HA VENDIDO, SE ADJUNTA DOCUMENTO DE COMPRA VENTA",
+                "idHojaVida": 234956,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

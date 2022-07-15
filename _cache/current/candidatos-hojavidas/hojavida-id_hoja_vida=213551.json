@@ -1,0 +1,140 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 213551.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "29284390",
+        "nombres": "MIRIAN MANUEL",
+        "apellidoPaterno": "TEJADA",
+        "apellidoMaterno": "GARCIA",
+        "sexo": "1",
+        "feNacimiento": "10/04/1963",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040101",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "AREQUIPA",
+        "naciDistrito": "AREQUIPA",
+        "ubigeoDomicilio": "040220",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "CAYLLOMA",
+        "domiDistrito": "MAJES",
+        "domicilioDirecc": "CPM. E-2 MZ.J LT.4",
+        "ubigeoPostula": "040220",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "CAYLLOMA",
+        "postulaDistrito": "MAJES",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/213551.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 7.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 08:20:29",
+        "txGuidFormatoHojaVida": "ee47c2ca-ff94-4fe9-a614-202d522739db",
+        "idSolicitudLista": 33232.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 242336,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "COMERCIANTE INDEPENDIENTE",
+            "ocupacionProfesion": "COMPRA Y VENTA DE CARROS DE SEGUNDA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CPM. E-2 MZ.J LT.4",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "040220",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "CAYLLOMA",
+            "trabajoDistrito": "MAJES",
+            "idHojaVida": 213551,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 214163,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 213551,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 164198,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 179,
+            "orgPolRenunciaOp": "PARTIDO NACIONALISTA PERUANO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 213551,
+            "idEstado": 1,
+            "txComentario": "AFILIACION CANCELADA"
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 193655,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 24000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 213551,
+                "idEstado": 1,
+                "totalIngresos": 24000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 197271,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "AF5423 ",
+                "valor": 10000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "DATSUN COLOR AZUL ANDINO METALICO",
+                "comentario": "MOTOR PJ23219",
+                "idHojaVida": 213551,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

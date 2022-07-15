@@ -1,0 +1,157 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 141209.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "46174597",
+        "nombres": "MARTIN JUNIOR",
+        "apellidoPaterno": "NEYRA",
+        "apellidoMaterno": "DE LA TORRE",
+        "sexo": "1",
+        "feNacimiento": "09/02/1990",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040407",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "CARAVELI",
+        "naciDistrito": "CHALA",
+        "ubigeoDomicilio": "040404",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "CARAVELI",
+        "domiDistrito": "ATIQUIPA",
+        "domicilioDirecc": "ATIQUIPA MZ. A LT. 13",
+        "ubigeoPostula": "040404",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "CARAVELI",
+        "postulaDistrito": "ATIQUIPA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/141209.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 142.0,
+        "organizacionPolitica": "AREQUIPA, TRADICION Y FUTURO",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL",
+            " REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 16:42:58",
+        "txGuidFormatoHojaVida": "f2fb2063-3a62-4eb3-8206-d3cfa91e1d66",
+        "idSolicitudLista": 23606.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 236342,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MINERA COLIBRÍ S.AC.",
+            "ocupacionProfesion": "OPERADOR DE MAQUINARIA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR. GIOVANNI B. LORENZO BERNINI NRO. 279",
+            "anioTrabajoDesde": "2012",
+            "anioTrabajoHasta": "2018",
+            "ubigeoTrabajo": "140140",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "SAN BORJA",
+            "idHojaVida": 141209,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 208671,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 141209,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 153228,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "GRUPO MAKRO",
+                "carreraTecnico": "OPERADOR DE MAQUINARIA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 141209,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 189340,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 25000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 141209,
+                "idEstado": 1,
+                "totalIngresos": 25000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 193956,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "AFM848 ",
+                "valor": 50000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR BLANCO",
+                "comentario": null,
+                "idHojaVida": 141209,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 193955,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "F1Y938 ",
+                "valor": 25000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR BLANCO",
+                "comentario": null,
+                "idHojaVida": 141209,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,183 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 213356.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "29481242",
+        "nombres": "JOSE RENE",
+        "apellidoPaterno": "LLOSA",
+        "apellidoMaterno": "LLERENA",
+        "sexo": "1",
+        "feNacimiento": "05/10/1962",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040301",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "CAMANA",
+        "naciDistrito": "CAMANA",
+        "ubigeoDomicilio": "040115",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "AREQUIPA",
+        "domiDistrito": "SAN JUAN DE SIGUAS",
+        "domicilioDirecc": "PANAMERICANA SUR KM. 918 S/N TAMBILLO",
+        "ubigeoPostula": "040115",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "AREQUIPA",
+        "postulaDistrito": "SAN JUAN DE SIGUAS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/213356.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2307.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL AREQUIPA AVANCEMOS",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 12:42:46",
+        "txGuidFormatoHojaVida": "47a5ec2c-805d-45ba-ac8a-81b3a3b94d9a",
+        "idSolicitudLista": 33204.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 242923,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "-",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SAN JUAN DE SIGUAS",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "040115",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "AREQUIPA",
+            "trabajoDistrito": "SAN JUAN DE SIGUAS",
+            "idHojaVida": 213356,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 214737,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 213356,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 144555,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 1393,
+                "orgPolCargoElec": "FUERZA AREQUIPEÑA",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2015",
+                "anioCargoElecHasta": "2018",
+                "idHojaVida": 213356,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 197387,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 213356,
+                "idEstado": 1,
+                "totalIngresos": 0.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 239037,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "TERRENO-AGRICOLA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "SAN JUAN DE SIGUAS",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "911838",
+                "fichaTomoSunarp": null,
+                "autovaluo": 20.0,
+                "idHojaVida": 213356,
+                "idEstado": 1,
+                "flValor": "21042.29"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 197604,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "35782V ",
+                "valor": 5000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCLICETA TRITON CROSS NEGRO",
+                "comentario": "VEHICULO SE VENDIÓ EN EL 2016",
+                "idHojaVida": 213356,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 197603,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "B8F444 ",
+                "valor": 4500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "VOLKSWAGEN COLOR NARANJA DEL AÑO 1987",
+                "comentario": null,
+                "idHojaVida": 213356,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,153 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 223660.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "46391068",
+        "nombres": "RUDY",
+        "apellidoPaterno": "SAMANIEGO",
+        "apellidoMaterno": "CANCHUMANYA",
+        "sexo": "1",
+        "feNacimiento": "25/06/1990",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110215",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "CONCEPCION",
+        "naciDistrito": "SAN JOSE DE QUERO",
+        "ubigeoDomicilio": "110215",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "CONCEPCION",
+        "domiDistrito": "SAN JOSE DE QUERO",
+        "domicilioDirecc": "CARR.A YAUYOS S/N ANEXO CHAQUICOCHA",
+        "ubigeoPostula": "110215",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "CONCEPCION",
+        "postulaDistrito": "SAN JOSE DE QUERO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/223660.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 14:50:07",
+        "txGuidFormatoHojaVida": "6daca573-493f-40ba-b410-d37f61af2bc4",
+        "idSolicitudLista": 34406.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 234851,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "COORPORACIÓN ERDIN SAC",
+            "ocupacionProfesion": "GERENTE GENERAL",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. 28 DE JULIO S/N CHAQUICOCHA",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "110215",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "CONCEPCION",
+            "trabajoDistrito": "SAN JOSE DE QUERO",
+            "idHojaVida": 223660,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 207280,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 223660,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 152918,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "MINISTERIO DE TRABAJO Y PROMOCIÓN DEL EMPLEO",
+                "carreraTecnico": "MECÁNICA AUTOMOTRIZ",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 223660,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 161866,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2680,
+            "orgPolRenunciaOp": "MOVIMIENTO REGIONAL SIERRA Y SELVA CONTIGO JUNIN",
+            "anioRenunciaOp": "2022",
+            "idHojaVida": 223660,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 193251,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "TRACTOR",
+                "marca": null,
+                "placa": "SONALIKA",
+                "valor": 122100.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "WORLTRANK 90RX",
+                "comentario": null,
+                "idHojaVida": 223660,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 6030,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "COORPORACIÓN ERDIN SAC",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 1.0,
+                "flValor": 90000.0,
+                "idHojaVida": 223660,
+                "idEstado": 1,
+                "txUsuario": "46284956",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

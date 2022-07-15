@@ -1,0 +1,75 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20071,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2898,
+        "txOrganizacionPolitica": "FE EN EL PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1733,
+        "juradoElectoral": "TRUJILLO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/b6b277b8-2fec-4569-a885-99299194b192.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/c58b7bf8-323f-445a-a046-1a51f952c961.pdf",
+        "txCodExpedienteExt": "ERM.2022017831",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 224822,
+            "txPgProblema": "AGUA POTABLE Y SANEAMIENTO",
+            "txPgObjetivo": "INCREMENTAR LA COBERTURA DE SERVICIOS BÁSICOS EN LAS VIVIENDAS DEL DISTRITO (AGUA Y DESAGÜE, ENERGÍA ELÉCTRICA Y RECOLECCIÓN DE RESIDUOS SÓLIDOS).",
+            "txPgIndicador": "- N° DE FAMILIAS QUE SE BENEFICIAN CON EL SERVICIO DE AGUA POTABLE.\n- N° DE SISTEMAS DE TRATAMIENTO DE AGUAS RESIDUALES",
+            "txPgMeta": "DOS SISTEMAS DE TRATAMIENTO DE AGUAS RESIDUALES, EN ZONA URBANA Y EN ZONA RURAL",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 234963,
+            "txPgProblema": "DESNUTRICIÓN CRÓNICA Y ANEMIA",
+            "txPgObjetivo": "PROMOVER Y PREVENIR CONDICIONES SALUDABLES EN LA POBLACIÓN DEL DISTRITO.",
+            "txPgIndicador": "% DE DESNUTRICIÓN ANUAL",
+            "txPgMeta": "DISMINUCIÓN DE HASTA UN 10% DE LA TASA DE DESNUTRICIÓN INFANTIL.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 234967,
+            "txPgProblema": "MALAS CONDICIONES DE LA VÍAS DE COMUNICACIÓN",
+            "txPgObjetivo": "MEJORAR LAS CONDICIONES DE VIALIDAD EN EL DISTRITO DE LA ESPERANZA Y SUS CENTROS POBLADOS QUE FACILITE EL TRANSPORTE DE PASAJEROS Y DE CARGAS.",
+            "txPgIndicador": "N° DE KM PAVIMENTADOS CON PIEDRA, SEGÚN EXPEDIENTE TÉCNICO.",
+            "txPgMeta": "PAVIMENTACIÓN DE LAS VÍAS CON PIEDRA LABRADA Y MAMPOSTERÍA DE PIEDRA.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 234971,
+            "txPgProblema": "CRECIMIENTO DESORDENADO Y DESORGANIZADO DE LA POBLACIÓN DISTRITAL, EN ZONAS PROTEGIDAS, DE RIESGO, ARQUEOLÓGICAS E INVASIÓN DE NUESTRAS FRONTERAS.",
+            "txPgObjetivo": "PROMOVER EL ORDENAMIENTO TERRITORIAL FUNCIONAL Y DESARROLLO DE PLANES DE ZONIFICACIÓN, CATASTRALES Y OTROS.",
+            "txPgIndicador": "% DE AVANCES DEL CATASTRO DISTRITAL, N° DE SECTORES Y ÁREAS PROTEGIDOS SEGÚN CATASTRO.",
+            "txPgMeta": "CONTAR CON EL CATASTRO DISTRITAL, DEMARCADO DE LOS LÍMITES Y DEBIDAMENTE ZONIFICADO EL USO DE LA TIERRA Y OTROS RECURSOS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 234976,
+            "txPgProblema": "INADECUADO E INEFICIENTE MANEJO DE LOS INSTRUMENTOS Y HERRAMIENTAS DE GESTIÓN Y PLANIFICACIÓN MUNICIPAL",
+            "txPgObjetivo": "REESTRUCTURACIÓN DE LA ORGANIZACIÓN INTERNA DE LA MUNICIPALIDAD DE LA ESPERANZA COMO UN ENTE PROMOTOR DE SU PROPIO DESARROLLO, ADECUANDO LA GESTIÓN MUNICIPAL A LAS HERRAMIENTAS MODERNAS DE LA ADMINISTRACIÓN PÚBLICA.",
+            "txPgIndicador": "% DE AVANCE ANUAL DE LA IMPLEMENTACIÓN DEL PLAN MUNICIPAL.",
+            "txPgMeta": "UN PLAN MUNICIPAL MODERNO CON UNA ESTRUCTURA ORGÁNICA ADAPTADA A LA REALIDAD DEL DISTRITO.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

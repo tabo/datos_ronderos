@@ -1,0 +1,141 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 234155.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "76219777",
+        "nombres": "GIACOMO PAOLO",
+        "apellidoPaterno": "CELADITA",
+        "apellidoMaterno": "TEZEN",
+        "sexo": "1",
+        "feNacimiento": "17/12/2001",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140101",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "LIMA",
+        "ubigeoDomicilio": "140106",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "COMAS",
+        "domicilioDirecc": "CALLE LOS FICUS 172 URB. REPARTICION",
+        "ubigeoPostula": "140106",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "COMAS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/234155.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 1366.0,
+        "organizacionPolitica": "FUERZA POPULAR",
+        "numeroCandidato": 9.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 20:36:16",
+        "txGuidFormatoHojaVida": "ba4de60d-b194-474f-8a37-27febd2b110b",
+        "idSolicitudLista": 35622.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 193868,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CLINICA LA LUZ",
+            "ocupacionProfesion": "TECNICO EN COMPUTACIÓN",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV AREQUIPA 1148 LINCE",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140111",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "LINCE",
+            "idHojaVida": 234155,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 170825,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 234155,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 160422,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD SAN IGNACIO DE LOYOLA",
+                "carreraUni": "ADMINISTRACION DE REDES",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 148976,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1366,
+            "orgPolRenunciaOp": "FUERZA POPULAR",
+            "anioRenunciaOp": "2022",
+            "idHojaVida": 234155,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 160996,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 14400.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 234155,
+                "idEstado": 1,
+                "totalIngresos": 14400.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

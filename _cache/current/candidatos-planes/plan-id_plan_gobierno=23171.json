@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23171,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1700,
+        "juradoElectoral": "LIMA OESTE 3",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/a0b3d746-ed9f-4e47-b673-afe09b886d68.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/3616bbe0-04bc-4ee3-95c0-09f5721f97b3.pdf",
+        "txCodExpedienteExt": "ERM.2022016905",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 176116,
+            "txPgProblema": "1.SALUD\n2.VIVIENDA\n3.EDUCACION",
+            "txPgObjetivo": "DE 1. CREACIÓN - INFRAESTRUCTURA.\nDE 2. CREACIÓN – SANEAMIENTO BÁSICO.\nDE 3. CREACIÓN MEJORAMIENTO INST. CETPROS",
+            "txPgIndicador": "PROYECTO\nPROYECTO\nPROYECTO",
+            "txPgMeta": "00%      - 100%\n00%      - 100%\n10%     - 80%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 176239,
+            "txPgProblema": "1.\tPESCA.\n2.TURISMO.\n3.TURISMO.",
+            "txPgObjetivo": "DE 1. MEJORAMIENTO INFRAESTRUCTURA PUERTO LA CHIRA\nDE 2. CREACIÓN CIRCUITO PLAYA – TURISMO MARÍTIMO.\nDE 3. CREACIÓN CIRCUITO MORRO SOLAR.",
+            "txPgIndicador": "DE 1. PROYECTO.\nDE 2. PLAN\nDE 3. PROYECTO",
+            "txPgMeta": "DE 1. 20%       - 80 %\nDE 2. 10%      -  90%\nDE 3. 20 %     - 70%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 176302,
+            "txPgProblema": "1.PANTANOS VILLA\n2.AGUAS RESIDUALES\n3.AGUAS SERVIDAS",
+            "txPgObjetivo": "DE 1. PRESERVACIÓN - CONSERVACIÓN\nDE 2. MEJORAMIENTO PLANTA DE TRATAMIENTO\nDE 3. CANALIZAR RIO SURCO –PLANTA DE TRATAMIENTO DE AGUAS SERVIDAS PARA EL RIEGO DE  PARQUES, JARDINES ETC.",
+            "txPgIndicador": "DE 1. PROYECTO\nDE 2. PROYECTO\nDE 3. PROYECTO",
+            "txPgMeta": "DE 1. 20 %       - 80 %\nDE 2. 20 %       - 80 %\nDE 3. 10%       - 70 %",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 176374,
+            "txPgProblema": "1.EDUCACION.\n2.DEPORTE.\n3.SALUD.",
+            "txPgObjetivo": "DE 1- IMPLEMENTACIÓN SALAS DE COMPUTO.\nDE 2- MEJORAMIENTO CAMPO DEPORTIVO, GRASS, SS.HH Y ALUMBRADO NOCTURNO.\nDE 3- CREACIÓN HOSPITAL MÓVIL.",
+            "txPgIndicador": "DE 1- PROYECTO\nDE 2- PROYECTO\nDE 3- PROYECTO",
+            "txPgMeta": "DE 1-( 20 %       - 70 %)\nDE 2- (10%       - 80%)\nDE 3- (10%       - 70 %)",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

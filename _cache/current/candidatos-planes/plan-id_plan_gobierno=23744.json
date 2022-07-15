@@ -1,0 +1,85 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23744,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1732,
+        "juradoElectoral": "TAYACAJA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/ccbb18d5-9a49-4b5f-b2b6-a5d0491dbf67.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/9bea643f-0086-4963-8b86-cdb92829c5a4.pdf",
+        "txCodExpedienteExt": "ERM.2022013305",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 132772,
+            "txPgProblema": "1.\tELEVADOS NIVELES DE POBREZA Y DESIGUALDAD EN EL DISTRITO DE SAN PEDRO DE CORIS",
+            "txPgObjetivo": "REDUCIR LA POBREZA DE LA POBLACIÓN EN EL DISTRITO DE SAN PEDRO DE CORIS",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN EN POBREZA EXTREMA",
+            "txPgMeta": "REDUCIR DEL 59.6% AL 50.6",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132778,
+            "txPgProblema": "2.\tELEVADAS CIFRAS DE ANEMIA EN LOS MENORES DE 05",
+            "txPgObjetivo": "ELEVAR LOS NIVELES DE NUTRICIÓN EN MENORES DE 05 AÑOS",
+            "txPgIndicador": "PROPORCIÓN DE ANEMIA EN MENORES DE 05 AÑOS",
+            "txPgMeta": "REDUCIR DEL 51.6 AL 40.5",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132786,
+            "txPgProblema": "3.\tINADECUADO ACCESO DE LOS SERVICIOS DE AGUA Y ALCANTARILLADO",
+            "txPgObjetivo": "INCREMENTAR EN LOS HOGARES EL ABASTECIMIENTO DE ALCANTARILLADO",
+            "txPgIndicador": "PORCENTAJES DE HOGARES ABASTECIDOS CON ALCANTARILLADO",
+            "txPgMeta": "INCREMENTAR DEL 41.6 AL 60.5",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 132798,
+            "txPgProblema": "1.\tBAJOS NIVELES DE COMPETITIVIDAD EN EL DEPARTAMENTO",
+            "txPgObjetivo": "ÍNDICE DE COMPETITIVIDAD DISTRITAL",
+            "txPgIndicador": "ÍNDICE DE COMPETITIVIDAD DISTRITAL",
+            "txPgMeta": "INCREMENTAR EL INDICE DEL 3.2 AL 4.2",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 132815,
+            "txPgProblema": "1.\tBAJOS NIVELES DE SOSTENIBILIDAD AMBIENTAL EN EL DISTRITO DE SAN PEDRO DE CORIS",
+            "txPgObjetivo": "MEJORA LA GESTIÓN Y MANEJO DE LOS RESIDUOS SÓLIDOS EN EL DISTRITO DE SAN PEDRO DE CORIS.",
+            "txPgIndicador": "ÍNDICE GESTIÓN Y MANEJO DE RESIDUOS SÓLIDOS EN EL DISTRITO DE SAN PEDRO DE CORIS",
+            "txPgMeta": "MEJORAR LOS INDICE DE GESTION Y MANEJO DE RESIDUOS SOLIDOS DE 15.6 AL 30.5",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 132828,
+            "txPgProblema": "1.\tDÉBIL ESTADO DE DERECHO Y GOBERNABILIDAD",
+            "txPgObjetivo": "INCREMENTAR EL PORCENTAJE DE EJECUCIÓN DEL PRESUPUESTO PÚBLICO\n\nPORCENTAJE DE PERSONAS QUE CONSIDERAN LA CORRUPCIÓN COMO UN PROBLEMA CENTRAL.",
+            "txPgIndicador": "PORCENTAJE DE EJECUCIÓN DEL PRESUPUESTO PÚBLICO\n\nPORCENTAJE DE PERSONAS QUE CONSIDERAN LA CORRUPCIÓN COMO UN PROBLEMA CENTRAL.",
+            "txPgMeta": "INCREMENTAR EL PORCENTAJE DE EJECUCION DE PRESUPUESTO DEL 43.7 AL 75.6\nREDUCIR EL PORCENTAJE DE PERSONAS QUE CONSIDERAN LA CORRUPCION COMO UN PROBLEMA DE 5.6 AL 3.4",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

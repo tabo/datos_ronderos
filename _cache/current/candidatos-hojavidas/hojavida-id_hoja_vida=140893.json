@@ -1,0 +1,153 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 140893.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "75985466",
+        "nombres": "CLARA VICTORIA",
+        "apellidoPaterno": "GUTIERREZ",
+        "apellidoMaterno": "SANCHEZ",
+        "sexo": "2",
+        "feNacimiento": "22/02/1999",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140101",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "LIMA",
+        "ubigeoDomicilio": "140129",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "SANTA ROSA",
+        "domicilioDirecc": "CALLE LOS ALAMOS ASENT.H. EL GOLF DE SANTA ROSA MZ. C LT. 10",
+        "ubigeoPostula": "140129",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "SANTA ROSA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/140893.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 7.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 11:59:30",
+        "txGuidFormatoHojaVida": "31aed33e-ec5b-4361-8db5-5c8da95f4f15",
+        "idSolicitudLista": 23568.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 179056,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MUNICIPALIDAD DISTRITAL DE SANTA ROSA",
+            "ocupacionProfesion": "SECRETARIA DE ALCALDIA",
+            "rucTrabajo": "20135890112",
+            "direccionTrabajo": "AVENIDA BERTELLO 344 SANTA ROSA",
+            "anioTrabajoDesde": "2017",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140129",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "SANTA ROSA",
+            "idHojaVida": 140893,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "SERVICIO TERCERIZADO"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 157395,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 140893,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 139868,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "S.I.S.E",
+                "carreraTecnico": "SECRETARIA EJECUTIVA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 140893,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 153510,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "CESAR VALLEJO",
+                "carreraUni": "ESTUDIANTE",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "ESTUDIANTE PSICOLOGIA 2DO CICLO"
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 143925,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 22,
+            "orgPolRenunciaOp": "RENOVACION POPULAR",
+            "anioRenunciaOp": "2020",
+            "idHojaVida": 140893,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 150976,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 18000.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 140893,
+                "idEstado": 1,
+                "totalIngresos": 18000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

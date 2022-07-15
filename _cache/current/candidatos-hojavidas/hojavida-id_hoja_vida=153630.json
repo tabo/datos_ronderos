@@ -1,0 +1,191 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 153630.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42487174",
+        "nombres": "JOSE LUIS",
+        "apellidoPaterno": "FERNANDEZ",
+        "apellidoMaterno": "TAPIA",
+        "sexo": "1",
+        "feNacimiento": "11/07/1984",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "130101",
+        "naciDepartamento": "LAMBAYEQUE",
+        "naciProvincia": "CHICLAYO",
+        "naciDistrito": "CHICLAYO",
+        "ubigeoDomicilio": "060507",
+        "domiDepartamento": "CAJAMARCA",
+        "domiProvincia": "CUTERVO",
+        "domiDistrito": "QUEROCOTILLO",
+        "domicilioDirecc": "JR. CAJAMARCA SN",
+        "ubigeoPostula": "060507",
+        "postulaDepartamento": "CAJAMARCA",
+        "postulaProvincia": "CUTERVO",
+        "postulaDistrito": "QUEROCOTILLO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/153630.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 1464.0,
+        "organizacionPolitica": "CAJAMARCA SIEMPRE VERDE",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 10:20:00",
+        "txGuidFormatoHojaVida": "9ef2eed4-8e11-41d0-a45e-2f2a05975fcb",
+        "idSolicitudLista": 25266.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 159758,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "COMERCIANTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE CAJAMARCA S/N",
+            "anioTrabajoDesde": "2018",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "060507",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CAJAMARCA",
+            "trabajoProvincia": "CUTERVO",
+            "trabajoDistrito": "QUEROCOTILLO",
+            "idHojaVida": 153630,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        },
+        {
+            "idHvExpeLaboral": 166359,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 2,
+            "centroTrabajo": "HOSPITAL DOCENTE LAS MERCEDES CHICLAYO",
+            "ocupacionProfesion": "ASISTENTE ADMINISTRATIVO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. LUIS GONZALES S/N",
+            "anioTrabajoDesde": "2005",
+            "anioTrabajoHasta": "2013",
+            "ubigeoTrabajo": "130101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LAMBAYEQUE",
+            "trabajoProvincia": "CHICLAYO",
+            "trabajoDistrito": "CHICLAYO",
+            "idHojaVida": 153630,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 139584,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 153630,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 135249,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "INSTITUTO SUPERIOR ABACO",
+                "carreraTecnico": "COMPUTACIÓN E INFORMÁTICA",
+                "concluidoEduTecnico": "2",
+                "idHojaVida": 153630,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "INSTITUTO DE EDUCACIÓN SUPERIOR TECNOLÓGICO PÚBLICO QUEROCOTO, EN LA CARRERA DE PRODUCCIÓN AGROPECUARIA -ESTUDIOS ACTUALES."
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 136356,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 2731,
+                "orgPolCargoPartidario": "PARTIDO POLÍTICO PODEMOS PERU",
+                "cargoPartidario": "CANDIDATO  ALCALDE DISTRITAL",
+                "anioCargoPartiDesde": "2018",
+                "anioCargoPartiHasta": "2018",
+                "idHojaVida": 153630,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 136445,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 160,
+                "orgPolCargoElec": "FRENTE REGIONAL DE CAJAMARCA",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2015",
+                "anioCargoElecHasta": "2018",
+                "idHojaVida": 153630,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 138238,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 36000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 153630,
+                "idEstado": 1,
+                "totalIngresos": 36000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 152396,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "CAMIONETA",
+                "marca": null,
+                "placa": "A1U-875",
+                "valor": 60000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA HILUX 4X4 C/D 3.0 -COLOR NEGRO METÁLICO- MARCA TOYOTA",
+                "comentario": "EN TRAMITE DE TRANSFERENCIA",
+                "idHojaVida": 153630,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

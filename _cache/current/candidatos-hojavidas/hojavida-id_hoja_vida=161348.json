@@ -1,0 +1,168 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 161348.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44502209",
+        "nombres": "VICTOR ABIMAEL",
+        "apellidoPaterno": "CUBA",
+        "apellidoMaterno": "CHAGUA",
+        "sexo": "1",
+        "feNacimiento": "29/04/1987",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110806",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "CHANCHAMAYO",
+        "naciDistrito": "PERENE",
+        "ubigeoDomicilio": "040407",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "CARAVELI",
+        "domiDistrito": "CHALA",
+        "domicilioDirecc": "AA.HH. BELLAVISTA CALLE FLOR DEL DESIERTO MZ. E LT. 15",
+        "ubigeoPostula": "040407",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "CARAVELI",
+        "postulaDistrito": "CHALA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/161348.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2257.0,
+        "organizacionPolitica": "JUNTOS POR EL DESARROLLO DE AREQUIPA",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 20:16:28",
+        "txGuidFormatoHojaVida": "e0a2047d-33aa-4def-8188-ff71b69c55e6",
+        "idSolicitudLista": 26333.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 189880,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "NOVA ADVENTURE",
+            "ocupacionProfesion": "CONDUCTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. EMANCIPACION SUB LOTE 1 MZ80",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "040407",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "CARAVELI",
+            "trabajoDistrito": "CHALA",
+            "idHojaVida": 161348,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 167297,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 161348,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 158306,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 36000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 161348,
+                "idEstado": 1,
+                "totalIngresos": 36000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 199851,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "AAHH BELLAVISTA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 54.0,
+                "idHojaVida": 161348,
+                "idEstado": 1,
+                "flValor": "30000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 169145,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "C9C615 ",
+                "valor": 35000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "TOYOTA YARIS",
+                "comentario": null,
+                "idHojaVida": 161348,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 2688,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "NOVA ADVENTURE S.A",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 10.0,
+                "flValor": 10.0,
+                "idHojaVida": 161348,
+                "idEstado": 1,
+                "txUsuario": "43313284",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

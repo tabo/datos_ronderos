@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20616,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1257,
+        "txOrganizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/d8a9e0e7-c952-410b-b99b-77177b4730a8.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/0b672291-6ef0-4bb3-99f1-4868c9109d85.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 156487,
+            "txPgProblema": "INCREMENTO DE ENFERMEDADES DE INFECCIONES PARASITARIAS POR CONSUMO DE AGUA DE BAJA CALIDAD",
+            "txPgObjetivo": "MEJORAR LA CALIDAD DEL AGUA MEDIANTE LA REALIZACIÓN DE OBRAS COMPLEMENTARIAS Y GESTIONES DE INVERSIÓN",
+            "txPgIndicador": "ANÁLISIS DE CALIDAD PERIÓDICOS DEL AGUA",
+            "txPgMeta": "80%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156509,
+            "txPgProblema": "PARADEROS NO ESTABLECIDOS PARA LOS TRANSPORTISTAS",
+            "txPgObjetivo": "MEJORAR EL ORDENAMIENTO DEL SERVICIO DE TRANSPORTE",
+            "txPgIndicador": "DISMINUCIÓN DE ACCIDENTES",
+            "txPgMeta": "80%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156521,
+            "txPgProblema": "NIVELES BAJOS DE EDUCACIÓN",
+            "txPgObjetivo": "DISMINUIR LA BRECHA DE INFRAESTRUCTURA EDUCATIVA",
+            "txPgIndicador": "CANTIDAD DE INSTITUCIONES POR CANTIDAD DE ESTUDIANTES",
+            "txPgMeta": "80%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 156544,
+            "txPgProblema": "AISLAMIENTO Y LIMITACIONES TÉCNICO-PRODUCTIVOS EN TRABAJADORES DEL CAMPO",
+            "txPgObjetivo": "BRINDAR ASISTENCIA TÉCNICO-PRODUCTIVO Y MANTENIMIENTO DE VÍAS",
+            "txPgIndicador": "PORCENTAJE DE ASISTENCIA TÉCNICO-PRODUCTIVO BRINDADO A FAMILIAR PRODUCTORAS",
+            "txPgMeta": "50%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156564,
+            "txPgProblema": "POCA ATENCIÓN A PRODUCTOS Y SERVICIOS LOCALES",
+            "txPgObjetivo": "IMPULSAR EL EMPRENDIMIENTO",
+            "txPgIndicador": "PORCENTAJE DE PERSONAS INSCRITAS",
+            "txPgMeta": "50%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156580,
+            "txPgProblema": "PRODUCCIÓN AGROPECUARIA CON DEFICIENCIAS TECNOLÓGICAS",
+            "txPgObjetivo": "IMPLEMENTAR TECNOLOGÍAS DURANTE LA ETAPA DE SEMBRÍO, COSECHA Y DISTRIBUCIÓN",
+            "txPgIndicador": "HECTÁREAS DE CULTIVOS CON ACCESO A RIEGO TECNIFICADO",
+            "txPgMeta": "50 HA",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 156593,
+            "txPgProblema": "DEFICIENTE CIRCULACIÓN DE VEHÍCULOS RECOLECTORES DE RESIDUOS SÓLIDOS",
+            "txPgObjetivo": "EVITAR QUE LOS RESIDUOS SÓLIDOS SEAN ARROGADOS A CALLES Y RÍOS CIRCUNDANTES DE NUESTRO DISTRITO",
+            "txPgIndicador": "PORCENTAJE DE CANTIDAD DE RESIDUOS RECOGIDOS POR EL SERVICIO DE LIMPIEZA DIARIO SOBRE LA CANTIDAD DE RESIDUOS SÓLIDOS RECOGIDOS POR LOS VEHÍCULOS RECOLECTORES",
+            "txPgMeta": "50%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156607,
+            "txPgProblema": "DEFICIENTE GESTIÓN PARA LA PROTECCIÓN Y MANTENIMIENTO DE ÁREAS NATURALES",
+            "txPgObjetivo": "MEJORAR LA GESTIÓN PARA LA PROTECCIÓN Y MANTENIMIENTO DE ÁREAS NATURALES",
+            "txPgIndicador": "PORCENTAJE DE PROTECCIÓN DE ÁREAS NATURALES",
+            "txPgMeta": "90%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156685,
+            "txPgProblema": "DEFICIENCIA EN REFORESTACIÓN",
+            "txPgObjetivo": "MEJORAR LA GESTIÓN PARA LA REFORESTACIÓN Y MANTENIMIENTO DE ÁREAS NATURALES",
+            "txPgIndicador": "PORCENTAJE DE MANTENIMIENTO DE ÁREAS NATURALES",
+            "txPgMeta": "90%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 156628,
+            "txPgProblema": "INSTRUMENTOS DE GESTIÓN QUE NO APORTAN VALOR A LA FUNCIONALIDAD DE LA INSTITUCIÓN",
+            "txPgObjetivo": "MEJORAR LOS INSTRUMENTOS DE GESTIÓN PARA GENERAR UN FLUJO CONTINUO PARA LA ATENCIÓN PÚBLICA",
+            "txPgIndicador": "PORCENTAJE DE DEPURACIÓN DE INSTRUMENTOS DE GESTIÓN",
+            "txPgMeta": "10%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156640,
+            "txPgProblema": "INSUFICIENTE GESTIÓN Y MONITOREO DE LA SEGURIDAD CIUDADANA",
+            "txPgObjetivo": "MEJORAR LA GESTIÓN Y MONITOREO DE LA SEGURIDAD CIUDADANA",
+            "txPgIndicador": "PORCENTAJE DE PARTICIPACIÓN DE LA SEGURIDAD CIUDADANA DENTRO DE NUESTRO DISTRITO",
+            "txPgMeta": "90%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156723,
+            "txPgProblema": "INSUFICIENTE GESTIÓN Y MONITOREO DE LA SEGURIDAD CIUDADANA",
+            "txPgObjetivo": "MEJORAR LOS INSTRUMENTOS DE GESTIÓN PARA GENERAR UN FLUJO CONTINUO PARA LA  SEGURIDAD CIUDADANA",
+            "txPgIndicador": "PORCENTAJE DE DEPURACIÓN DE INSTRUMENTOS DE GESTIÓN",
+            "txPgMeta": "12%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

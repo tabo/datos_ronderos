@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 200955.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "20068393",
+        "nombres": "WILBER",
+        "apellidoPaterno": "CRISTOBAL",
+        "apellidoMaterno": "ROJAS",
+        "sexo": "1",
+        "feNacimiento": "03/12/1974",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110133",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "HUANCAYO",
+        "naciDistrito": "SAPALLANGA",
+        "ubigeoDomicilio": "110133",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "HUANCAYO",
+        "domiDistrito": "SAPALLANGA",
+        "domicilioDirecc": "AV. 15 DE SETIEMBRE 887 COCHARCAS",
+        "ubigeoPostula": "110133",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "HUANCAYO",
+        "postulaDistrito": "SAPALLANGA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/200955.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2716.0,
+        "organizacionPolitica": "JUNIN RENACE",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 16:54:57",
+        "txGuidFormatoHojaVida": "4fc10869-8739-4fff-8fde-2750b941efb3",
+        "idSolicitudLista": 31631.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 222205,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INGENIERIA Y CONSTRUCCION KRISCON SAC",
+            "ocupacionProfesion": "GERENTE GENERAL",
+            "rucTrabajo": "20604776717",
+            "direccionTrabajo": "PASAJE ANCALA N°936 CHILCA HUANCAYO",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "110108",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "HUANCAYO",
+            "trabajoDistrito": "CHILCA",
+            "idHojaVida": 200955,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 195847,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 200955,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 173265,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL DEL CENTRO DEL PERU",
+                "carreraUni": "ARQUITECTURA",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2010",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "EGRESADO - X CICLO"
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 179844,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 60000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 20000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 200955,
+                "idEstado": 1,
+                "totalIngresos": 80000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 186719,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "CAMIONETA",
+                "marca": null,
+                "placa": "W4B270",
+                "valor": 78000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "TOYOTA COLOR BLANCO",
+                "comentario": null,
+                "idHojaVida": 200955,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 5089,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "KRISCON SAC",
+                "idParamTipoTitularidad": 88,
+                "txTipoTitularidad": "PARTICIPACIONES",
+                "flCantidad": 50.0,
+                "flValor": 7500.0,
+                "idHojaVida": 200955,
+                "idEstado": 1,
+                "txUsuario": "44394680",
+                "txFechaRegistro": null,
+                "txComentario": "50% DE PARTICIPACIONES",
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

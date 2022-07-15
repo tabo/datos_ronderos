@@ -1,0 +1,130 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 163983.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "47116284",
+        "nombres": "CIRO ANICETO",
+        "apellidoPaterno": "BALTAZAR",
+        "apellidoMaterno": "FLORES",
+        "sexo": "1",
+        "feNacimiento": "01/09/1991",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "020408",
+        "naciDepartamento": "ANCASH",
+        "naciProvincia": "CARHUAZ",
+        "naciDistrito": "SAN MIGUEL DE ACO",
+        "ubigeoDomicilio": "020408",
+        "domiDepartamento": "ANCASH",
+        "domiProvincia": "CARHUAZ",
+        "domiDistrito": "SAN MIGUEL DE ACO",
+        "domicilioDirecc": "CASERIO HUAPRA",
+        "ubigeoPostula": "020408",
+        "postulaDepartamento": "ANCASH",
+        "postulaProvincia": "CARHUAZ",
+        "postulaDistrito": "SAN MIGUEL DE ACO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/163983.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 2245.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL EL MAICITO",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 18:04:03",
+        "txGuidFormatoHojaVida": "e8cf7e49-962a-450a-bda5-0c365c35c882",
+        "idSolicitudLista": 26690.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 205913,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASERIO HUAPRA",
+            "anioTrabajoDesde": "2014",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "020408",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ANCASH",
+            "trabajoProvincia": "CARHUAZ",
+            "trabajoDistrito": "SAN MIGUEL DE ACO",
+            "idHojaVida": 163983,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 181203,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 163983,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 168860,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 9600.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 163983,
+                "idEstado": 1,
+                "totalIngresos": 9600.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 135013,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "00-258-2017-0-0205-JR-PE-01",
+            "feSentenciaPenal": "15/06/2018",
+            "txOrganoJudiPenal": "JUZGADO PREPARATORIA - CARHUAZ",
+            "txDelitoPenal": "VIOLENCIA FAMILIAR LESIONES LEVES",
+            "txFalloPenal": "44 FORNADAS DE PRESTACION DE SERVICIOS A LA COMUNIDAD",
+            "idParamModalidad": 11,
+            "txModalidad": "SUSPENDIDA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 163983,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": []
+}

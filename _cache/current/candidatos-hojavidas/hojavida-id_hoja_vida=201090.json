@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 201090.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "73670211",
+        "nombres": "MARIELA",
+        "apellidoPaterno": "PAREDES",
+        "apellidoMaterno": "SANCHEZ",
+        "sexo": "2",
+        "feNacimiento": "06/06/1997",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "061011",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "SAN MIGUEL",
+        "naciDistrito": "TONGOD",
+        "ubigeoDomicilio": "061011",
+        "domiDepartamento": "CAJAMARCA",
+        "domiProvincia": "SAN MIGUEL",
+        "domiDistrito": "TONGOD",
+        "domicilioDirecc": "CPM PISIT",
+        "ubigeoPostula": "061011",
+        "postulaDepartamento": "CAJAMARCA",
+        "postulaProvincia": "SAN MIGUEL",
+        "postulaDistrito": "TONGOD",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/201090.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 18:58:12",
+        "txGuidFormatoHojaVida": "fad9a217-f608-4b1a-8448-dea887830dfe",
+        "idSolicitudLista": 31646.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 188442,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CENTRO POBLADO MENOR DE PISIT",
+            "ocupacionProfesion": "GANADERO AGROPECUARIO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "C.P.M. PISIT",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "061011",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CAJAMARCA",
+            "trabajoProvincia": "SAN MIGUEL",
+            "trabajoDistrito": "TONGOD",
+            "idHojaVida": 201090,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "VENTA DE GANADO, VENTA DE LECHE"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 165920,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 201090,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 158003,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD PRIVADA ANTONIO GUILLERMO URRELO",
+                "carreraUni": "BACHILLER  INGENIERÍA AMBIENTAL Y PREVENCIÓN DE RIESGOS",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2021",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 157362,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 15600.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 201090,
+                "idEstado": 1,
+                "totalIngresos": 15600.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 168186,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "8741XM ",
+                "valor": 4800.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA COLOR NEGRO MARCA CROS",
+                "comentario": null,
+                "idHojaVida": 201090,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 2573,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "MIRAMAR E.I.R.L.",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 100.0,
+                "flValor": 132000.0,
+                "idHojaVida": 201090,
+                "idEstado": 1,
+                "txUsuario": "74483216",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,85 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20574,
+        "idTipoEleccion": 4,
+        "txTipoEleccion": "REGIONAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1730,
+        "juradoElectoral": "TAMBOPATA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/6ac6767b-34d9-4fa8-bf39-92cbe6349f42.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/3a5924ce-d0d8-43ce-8676-6a4b48e6cc4d.pdf",
+        "txCodExpedienteExt": "ERM.2022007771",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 205500,
+            "txPgProblema": "DEFICIENTE CALIDAD DE LA EDUCACIÓN",
+            "txPgObjetivo": "MEJORAR LA CALIDAD EDUCATIVA DE LA POBLACIÓN",
+            "txPgIndicador": "PORCENTAJE DE UNIDADES PRODUCTORAS CON EL SERVICIO DE EDUCACIÓN SECUNDARIA QUE CUENTAN CON ACCESO A INTERNET  INSTALADA Y ADECUADA",
+            "txPgMeta": "20%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 205548,
+            "txPgProblema": "INSUFICIENTE ACCESO A SERVICIOS DE SALUD Y PREVENCIÓN DE LA ENFERMEDAD",
+            "txPgObjetivo": "MEJORAR Y AMPLIAR LOS SERVICIOS DE SALUD: POSTAS MÉDICAS, CENTROS DE SALUD, HOSPITALES CON PRIORIDAD EN ZONAS URBANAS, RURALES EN TODA LA REGION",
+            "txPgIndicador": "POCOS CENTROS DE SALUD A NIVEL REGIONAL",
+            "txPgMeta": "CONSTRUIR Y EQUIPAR EL 90% LOS CENTROS DE SALUD.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 205582,
+            "txPgProblema": "LIMITADO DESARROLLO DE LA ACTIVIDAD MINERA Y PRODUCTIVIDAD AGROPECUARIA, PECUARIA, PISCICULTURA,FORESTAL Y COMPETITIVIDAD",
+            "txPgObjetivo": "MEJORAMIENTO IMPLEMENTACION DE PROGRAMA DE INVERSIONES PARA GENERAR CAPACIDAD PRODUCTIVA ECONOMICAMENTE SOSTENIBLE",
+            "txPgIndicador": "PORCENTAJE DE PRODUCTORES MINEROS, AGROPECUARIOS, PECUARIOS PISCICULTURA, FORESTAL SIN SERVICIO DE ASISTENCIA TÉCNICA",
+            "txPgMeta": "20%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 205620,
+            "txPgProblema": "DEFICIENTE SERVICIO DE LIMPIEZA PÚBLICA",
+            "txPgObjetivo": "MEJORAR EL SERVICIO DE LIMPIEZA PÚBLICA EN TODA LA REGION",
+            "txPgIndicador": "CREAR PROGRAMA DE SEGREGACION \"LA BASURA NO ES BASURA\"",
+            "txPgMeta": "60%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 205775,
+            "txPgProblema": "DEFICIENTE MANEJO DE LOS RESIDUOS SÓLIDOS",
+            "txPgObjetivo": "IMPLEMENTAR UN MANEJO SOSTENIBLE DE LOS RESIDUOS SÓLIDOS EN LA REGIÓN",
+            "txPgIndicador": "CREACION Y IMPLEMENTACION DE PLANTA DE RECICLAJE",
+            "txPgMeta": "90%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 205820,
+            "txPgProblema": "DÉBIL INSTITUCIONALIDAD, ORGANIZACIÓN Y ESCASA CULTURA DE CONCERTACIÓN ENTRE AUTORIDADES",
+            "txPgObjetivo": "FORTALECER E INSTITUCIONALIZAR ESPACIOS DE TRABAJO CONJUNTO PARA EL DESARROLLO TERRITORIAL",
+            "txPgIndicador": "IMPLEMENTACION DE NORMATIVAS DE GESTION PARA MEJORAR LA ATENCION AL CIUDADANO",
+            "txPgMeta": "100%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

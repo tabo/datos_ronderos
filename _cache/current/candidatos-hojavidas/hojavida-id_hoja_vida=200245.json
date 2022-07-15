@@ -1,0 +1,144 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 200245.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "73235100",
+        "nombres": "HERMOGENES",
+        "apellidoPaterno": "RONDON",
+        "apellidoMaterno": "GONZALES",
+        "sexo": "1",
+        "feNacimiento": "27/10/1996",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "080111",
+        "naciDepartamento": "HUANCAVELICA",
+        "naciProvincia": "HUANCAVELICA",
+        "naciDistrito": "MANTA",
+        "ubigeoDomicilio": "080111",
+        "domiDepartamento": "HUANCAVELICA",
+        "domiProvincia": "HUANCAVELICA",
+        "domiDistrito": "MANTA",
+        "domicilioDirecc": "C.POBLADO SANTA ROSA S/N",
+        "ubigeoPostula": "080111",
+        "postulaDepartamento": "HUANCAVELICA",
+        "postulaProvincia": "HUANCAVELICA",
+        "postulaDistrito": "MANTA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/200245.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 08:40:21",
+        "txGuidFormatoHojaVida": "d2f2a1c4-6f69-4a7e-b158-614f5acd8fa3",
+        "idSolicitudLista": 31534.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 175053,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MINISTERIO DE EDUCACION",
+            "ocupacionProfesion": "PROFESOR DE MUSICA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ACOBAMBILLA",
+            "anioTrabajoDesde": "2022",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "080102",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "HUANCAVELICA",
+            "trabajoProvincia": "HUANCAVELICA",
+            "trabajoDistrito": "ACOBAMBILLA",
+            "idHojaVida": 200245,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "PROFESOR DE MUSICA"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 153553,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 200245,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 148323,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 14400.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 200245,
+                "idEstado": 1,
+                "totalIngresos": 14400.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 160245,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "2555EW ",
+                "valor": 12000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "BLANCO",
+                "comentario": null,
+                "idHojaVida": 200245,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 160244,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "8200BW ",
+                "valor": 10000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "PLOMO",
+                "comentario": null,
+                "idHojaVida": 200245,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 166037.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "73235153",
+        "nombres": "LUIS MIGUEL",
+        "apellidoPaterno": "MAMANI",
+        "apellidoMaterno": "CONDORI",
+        "sexo": "1",
+        "feNacimiento": "02/08/1992",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "070104",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "CUSCO",
+        "naciDistrito": "SAN JERONIMO",
+        "ubigeoDomicilio": "070107",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "CUSCO",
+        "domiDistrito": "SAYLLA",
+        "domicilioDirecc": "ASOC. VIV. ANGOSTURA MZ. B LT. 15-1",
+        "ubigeoPostula": "070107",
+        "postulaDepartamento": "CUSCO",
+        "postulaProvincia": "CUSCO",
+        "postulaDistrito": "SAYLLA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/166037.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 16:00:20",
+        "txGuidFormatoHojaVida": "b6fcfabd-e2fc-4643-8405-eb23ac2ef6bb",
+        "idSolicitudLista": 26960.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 203468,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MUNICIPALIDAD DISTRITAL DE SAYLLA",
+            "ocupacionProfesion": "DESARRO SOCIAL",
+            "rucTrabajo": "20194695226",
+            "direccionTrabajo": "PLAZA DE ARMAS S/N",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "070107",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CUSCO",
+            "trabajoProvincia": "CUSCO",
+            "trabajoDistrito": "SAYLLA",
+            "idHojaVida": 166037,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "CONTRATADO"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 179179,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 166037,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 164775,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL DE SAN ANTONIO ABAD DEL CUSCO",
+                "carreraUni": "BACHILLER EN CIENCIAS DE LA COMUNICACIÓN",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2017",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 167279,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 19200.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 166037,
+                "idEstado": 1,
+                "totalIngresos": 19200.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 210236,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "INMUEBLE",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "A.V. NUEVO MIRADOR CALLAMPATA - SAYLLA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 60.0,
+                "idHojaVida": 166037,
+                "idEstado": 1,
+                "flValor": "43800"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

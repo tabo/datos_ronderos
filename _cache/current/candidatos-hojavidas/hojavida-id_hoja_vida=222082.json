@@ -1,0 +1,146 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 222082.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42623363",
+        "nombres": "HECTOR",
+        "apellidoPaterno": "MARQUEZ",
+        "apellidoMaterno": "CHACCHI",
+        "sexo": "1",
+        "feNacimiento": "08/10/1982",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050108",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "HUAMANGA",
+        "naciDistrito": "SANTIAGO DE PISCHA",
+        "ubigeoDomicilio": "050108",
+        "domiDepartamento": "AYACUCHO",
+        "domiProvincia": "HUAMANGA",
+        "domiDistrito": "SANTIAGO DE PISCHA",
+        "domicilioDirecc": "ANEXO TITI MINA",
+        "ubigeoPostula": "050108",
+        "postulaDepartamento": "AYACUCHO",
+        "postulaProvincia": "HUAMANGA",
+        "postulaDistrito": "SANTIAGO DE PISCHA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/222082.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2710.0,
+        "organizacionPolitica": "ALIANZA POR NUESTRO DESARROLLO",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 17:55:19",
+        "txGuidFormatoHojaVida": "af8600a2-6090-42b1-a49d-f25d0d9a6af8",
+        "idSolicitudLista": 34222.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 206935,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "C.H.V. INGENIEROS SAC",
+            "ocupacionProfesion": "SEGURIDAD",
+            "rucTrabajo": "20452840775",
+            "direccionTrabajo": "COOPERATIVA QUIJANO MENDIVIL M2 D LT 01",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "050101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AYACUCHO",
+            "trabajoProvincia": "HUAMANGA",
+            "trabajoDistrito": "AYACUCHO",
+            "idHojaVida": 222082,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 182121,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 222082,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 153145,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2861,
+            "orgPolRenunciaOp": "MOVIMIENTO REGIONAL AGUA",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 222082,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 169551,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 11160.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 6000.0,
+                "idHojaVida": 222082,
+                "idEstado": 1,
+                "totalIngresos": 17160.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 212739,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "VIVIENDA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "AHH. LOS PINOS - AYACUCHO",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 222082,
+                "idEstado": 1,
+                "flValor": "50000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

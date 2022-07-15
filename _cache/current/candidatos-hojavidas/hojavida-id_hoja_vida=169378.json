@@ -1,0 +1,160 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 169378.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40271512",
+        "nombres": "MARITA",
+        "apellidoPaterno": "BENDEZU",
+        "apellidoMaterno": "RIOS",
+        "sexo": "2",
+        "feNacimiento": "10/08/1979",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140103",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "ATE",
+        "ubigeoDomicilio": "140128",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "SANTA MARIA DEL MAR",
+        "domicilioDirecc": "ASOC.VILLA MERCEDES MZ.G LT.16",
+        "ubigeoPostula": "140128",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "SANTA MARIA DEL MAR",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/169378.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 4.0,
+        "organizacionPolitica": "ACCION POPULAR",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 19:46:14",
+        "txGuidFormatoHojaVida": "0efa636d-7b4b-45b9-bd95-2c9ee1eb6f6a",
+        "idSolicitudLista": 27419.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 184001,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "D' ANTONIO",
+            "ocupacionProfesion": "COCINERA",
+            "rucTrabajo": "10772245381",
+            "direccionTrabajo": "URB VILLA MERCEDES MZ 6 LT 16",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140128",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "SANTA MARIA DEL MAR",
+            "idHojaVida": 169378,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 161999,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 169378,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 139137,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 21,
+                "orgPolCargoElec": "RESTAURACION NACIONAL",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2019",
+                "anioCargoElecHasta": "2022",
+                "idHojaVida": 169378,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 154315,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 8556.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 169378,
+                "idEstado": 1,
+                "totalIngresos": 8556.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 165630,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "25544A ",
+                "valor": 2500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR BLANCO HONDA",
+                "comentario": "MOTO ROBADA - DENUNCIA POLICIAL",
+                "idHojaVida": 169378,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 165629,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "NG51999",
+                "valor": 1000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR NEGRO",
+                "comentario": null,
+                "idHojaVida": 169378,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

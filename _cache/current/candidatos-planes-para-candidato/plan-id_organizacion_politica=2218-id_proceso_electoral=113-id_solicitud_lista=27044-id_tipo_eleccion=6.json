@@ -1,0 +1,125 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20370,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/3cb2de08-4868-4e11-b48e-921a2954a34c.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/0829d8a5-4963-4eb3-bfed-7523f65a9918.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 188071,
+            "txPgProblema": "EL 72.8% DE LA POBLACIÓN DEL DISTRITO CONSIDERA QUE EL PRINCIPAL PROBLEMA QUE AFECTA LA CALIDAD DE VIDA ES LA INSEGURIDAD CIUDADANA",
+            "txPgObjetivo": "1. REDUCIR EL NIVEL DE PERCEPCIÓN DE INSEGURIDAD CIUDADANA EN EL DISTRITO.",
+            "txPgIndicador": "PORCENTAJE DE VICTIMIZACIÓN",
+            "txPgMeta": "REDUCCIÓN DEL ÍNDICE DE CRIMINALIDAD Y SENSACIÓN DE INSEGURIDAD CIUDADANA EN EL DISTRITO 42% AL 2026.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 188082,
+            "txPgProblema": "INCREMENTO DE LA POBLACIÓN EN SITUACIÓN DE POBREZA EN EL DISTRITO.\n2018 16.9% SON POBRES Y 1.6% EXTREMA POBREZA",
+            "txPgObjetivo": "DISMINUIR LOS NIVELES DE POBREZA.",
+            "txPgIndicador": "PORCENTAJE DE POBLADORES EN SITUACIÓN DE POBREZA.",
+            "txPgMeta": "REDUCCIÓN DE LA POBREZA EN 5% Y ELIMINAR LA EXTREMA POBREZA.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 188092,
+            "txPgProblema": "INCREMENTO DE DESERCIÓN ESCOLAR DE ALUMNOS DE LOS CENTROS EDUCATIVOS EN EL DISTRITO.",
+            "txPgObjetivo": "DISMINUCIÓN DE LA DESERCIÓN ESCOLAR DE ALUMNOS DE LOS CENTROS EDUCATIVOS DEL DISTRITO.",
+            "txPgIndicador": "NÚMERO DE ALUMNOS QUE DESERTAN EN ETAPA ESCOLAR DE LOS CENTROS EDUCATIVOS DEL DISTRITO.",
+            "txPgMeta": "REDUCCIÓN DEL NÚMERO DE ALUMNOS EN 20% QUE DESERTAN DEL COLEGIO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 188118,
+            "txPgProblema": "ACTIVIDADES ECONÓMICAS INFORMALES EN EL DISTRITO.",
+            "txPgObjetivo": "FORMALIZACIÓN DE LAS ACTIVIDADES ECONÓMICAS EN EL DISTRITO",
+            "txPgIndicador": "PORCENTAJE DE NEGOCIOS FORMALIZADOS.",
+            "txPgMeta": "NEGOCIOS FORMALIZADOS CON ASISTENCIA TÉCNICA INSTITUCIONAL AL 50%.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 188130,
+            "txPgProblema": "FALTA DE OPORTUNIDADES LABORALES PARA LOS JÓVENES.",
+            "txPgObjetivo": "GENERAR OPORTUNIDADES LABORALES PARA LOS JÓVENES DE BAJOS RECURSOS ECONÓMICOS.",
+            "txPgIndicador": "PORCENTAJE DE JÓVENES DE BAJOS RECURSOS ECONÓMICOS CON EMPLEO ADECUADO.",
+            "txPgMeta": "INCREMENTO DEL 10% DE JÓVENES DE BAJOS RECURSOS ECONÓMICOS CON EMPLEO DIGNO AL 2026.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 188169,
+            "txPgProblema": "EL SERVICIO MUNICIPAL DE LIMPIEZA PÚBLICA: RECOJO DE RESIDUOS SÓLIDOS Y BARRIDO DE CALLES INEFICIENTES",
+            "txPgObjetivo": "MEJORAR EL NIVEL DE CALIDAD AMBIENTAL EN EL DISTRITO.",
+            "txPgIndicador": "PORCENTAJE DE EFICIENCIA DE RECOJO DE RESIDUOS SÓLIDOS.",
+            "txPgMeta": "SISTEMA EFICIENTE DE RECOJO Y TRATAMIENTO DE LOS RESIDUOS SÓLIDOS EN LAS 7 ZONAS DEL DISTRITO AL 85%.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 188179,
+            "txPgProblema": "FALTA DE ÁREAS VERDES NECESARIAS EN EL DISTRITO",
+            "txPgObjetivo": "MEJORAR LA CALIDAD DE AIRE EN EL DISTRITO",
+            "txPgIndicador": "PORCENTAJE DE EXTENSIÓN DE ÁREAS VERDES EN EL DISTRITO",
+            "txPgMeta": "INCREMENTAR EL PORCENTAJE DE EXTENSIÓN DE ÁREAS VERDES EN 30%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 188200,
+            "txPgProblema": "FALTA DE TRANSPARENCIA DE ACTOS ADMINISTRATIVOS QUE GENERAN CORRUPCIÓN EN LA GESTIÓN.",
+            "txPgObjetivo": "MEJORAR LOS SISTEMAS DE GESTIÓN ADMINISTRATIVA CON ACCESO A LA POBLACIÓN.",
+            "txPgIndicador": "PORCENTAJE DE EFICIENCIA EN LO SISTEMAS ADMINISTRATIVOS CON ACCESO A LA POBLACIÓN",
+            "txPgMeta": "IMPLEMENTACIÓN DEL SISTEMA DE GESTIÓN ADMINISTRATIVO CON ACCESO A LA POBLACIÓN EN TIEMPO REAL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 188211,
+            "txPgProblema": "ACCESO DEFICIENTE A LA VIGILANCIA CIUDADANA DE LA GESTIÓN MUNICIPAL",
+            "txPgObjetivo": "MEJORAR EL NIVEL DE GOBERNABILIDAD",
+            "txPgIndicador": "INDICE DE RENDICIÓN DE CUENTAS",
+            "txPgMeta": "RENDICIÓN DE CUENTAS TRIMESTRAL.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 188258,
+            "txPgProblema": "ELEVADA MOROSIDAD EN EL PAGO DE ARBITRIOS MUNICIPALES",
+            "txPgObjetivo": "MEJORAR LA RECAUDACIÓN DE LOS SERVICIOS PRESTADOS POR LA MUNICIPALIDAD.",
+            "txPgIndicador": "PORCENTAJE DE MOROSIDAD ANUAL EN EL PAGO DE LOS SERVICIOS MUNICIPALES",
+            "txPgMeta": "REDUCIR LA MOROSIDAD A 30% ANUAL.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

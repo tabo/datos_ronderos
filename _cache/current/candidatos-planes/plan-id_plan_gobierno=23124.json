@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23124,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2353,
+        "txOrganizacionPolitica": "PASCO VERDE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1710,
+        "juradoElectoral": "OXAPAMPA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/b5b0c555-b920-4b93-a6a4-7a0c17955214.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/94696a19-525d-4e8d-a939-e87925dc3fbc.pdf",
+        "txCodExpedienteExt": "ERM.2022010832",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 159202,
+            "txPgProblema": "LIMITADA OFERTA DE SERVICIOS BÁSICOS A NIVEL URBANO",
+            "txPgObjetivo": "REDUCIR LA BRECHA DE COBERTURA DE SERVICIO BÁSICOS DE AGUA POTABLE Y ALCANTARILLADO URBANO",
+            "txPgIndicador": "POBLACIÓN URBANA CUENTA CON SERVICIO DE AGUA POTABLE Y ALCANTARILLADO",
+            "txPgMeta": "90% DE LA POBLACIÓN URBANA ATENDIDA MEDIANTE SM DE AGUA POTABLE",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159207,
+            "txPgProblema": "LIMITADA OFERTA DE SERVICIOS BÁSICOS A NIVEL RURAL",
+            "txPgObjetivo": "REDUCIR LA BRECHA DE COBERTURA DE SERVICIO BÁSICOS DE AGUA POTABLE Y DISPOSICIÓN DE EXCRETAS EN EL ÁREA RURAL.",
+            "txPgIndicador": "POBLACIÓN RURAL CON SERVICIOS BÁSICOS DE SANEAMIENTO",
+            "txPgMeta": "85% DE LA POBLACIÓN RURAL DEBIDAMENTE ATENDIDA MEDIANTE LAS JASS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159219,
+            "txPgProblema": "POBLACIÓN VULNERABLE SIN ACCESO A LOS PROGRAMAS SOCIALES",
+            "txPgObjetivo": "MEJORAR LA OFERTA DE PROGRAMAS DE ATENCIÓN A PERSONAS CON DISCAPACIDAD, ADULTOS MAYORES, NIÑOS Y ADOLESCENTES",
+            "txPgIndicador": "NUMERO DE PROGRAMAS SOCIALES DE ATENCIÓN A LA POBLACIÓN VULNERABLE",
+            "txPgMeta": "PROGRAMAS SOCIALES DE ATENCIÓN INTEGRAL A PERSONAS CON DISCAPACIDAD",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 159235,
+            "txPgProblema": "DEFICIENTE INTEGRACIÓN VIAL HACIA LAS UNIDADES PRODUCTORAS EN EL DISTRITO",
+            "txPgObjetivo": "MEJORAMIENTO Y MANTENIMIENTO DE LAS VÍAS DE COMUNICACIÓN TERRESTRE",
+            "txPgIndicador": "•\tKM/AÑO DE CARRETERA MEJORADA\n•\tKM/AÑO DE CARRETERAS MANTENIDAS",
+            "txPgMeta": "15\n\n50",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159241,
+            "txPgProblema": "ESCASO ACTIVIDAD DEL SECTOR PRODUCTIVO AGROPECUARIO",
+            "txPgObjetivo": "MEJORA DE LA PRODUCTIVIDAD AGROPECUARIA",
+            "txPgIndicador": "ÍNDICE DE COMPETITIVIDAD, CADENAS ECONÓMICAS Y PRODUCTIVAS",
+            "txPgMeta": "MEJORA DE LA COMPETITIVIDAD DE LAS PRINCIPALES ACTIVIDADES PRODUCTIVAS AGROPECUARIAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159248,
+            "txPgProblema": "INCIPIENTE DESARROLLO TURÍSTICO",
+            "txPgObjetivo": "MEJORA DE LA CAPACIDAD TURÍSTICA Y HOTELERA",
+            "txPgIndicador": "NUMERO DE PROGRAMAS Y PROYECTOS A FAVOR DE LA ARTESANÍA, TURISMO Y MICROEMPRENDIMIENTOS",
+            "txPgMeta": "01 INVENTARIO TURÍSTICO\n01 PLAN DE DESARROLLO TURÍSTICO\n01 PROYECTO DE APOYO A LOS ARTESANOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 159258,
+            "txPgProblema": "INCREMENTO DE LOS SUELOS DEGRADADOS Y PERDIDA DE LA CAPACIDAD PRODUCTIVA X INCENDIOS FORESTALES, HUAYCOS Y MONO CULTIVOS",
+            "txPgObjetivo": "RECUPERACIÓN DE LA CAPACIDAD PRODUCTIVA DE SUELOS DEGRADADOS",
+            "txPgIndicador": "REFORESTACIÓN Y FORESTACIÓN DE ÁREAS DEGRADADAS",
+            "txPgMeta": "100 HAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159263,
+            "txPgProblema": "DESBALANCE AMBIENTAL EN LA ZONA DE RESERVA DE BIOSFERA CHONTABAMBA",
+            "txPgObjetivo": "ESTUDIO QUE PERMITA IDENTIFICAR Y MEDIR LA PERDIDA ECOLÓGICA DE LA ZONA DE RESERVA EN CHONTABAMBA",
+            "txPgIndicador": "ELABORACIÓN DE ESTUDIO TÉCNICO",
+            "txPgMeta": "01 ESTUDIO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159273,
+            "txPgProblema": "MANEJO INADECUADO DE LA RECOLECCIÓN DE RRSS Y DISPOSICIÓN FINAL.",
+            "txPgObjetivo": "REPOSICIÓN DE ACTIVOS ESTRATÉGICOS DE RECOLECCIÓN DE RRSS (RECOLECTOR, CONTENEDORES) Y DISPOSICIÓN FINAL",
+            "txPgIndicador": "PROYECTO DE INVERSIÓN PÚBLICA (IOARR)",
+            "txPgMeta": "01PROYECTO IOARR",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 159281,
+            "txPgProblema": "INADECUADA ATENCIÓN EN LOS SERVICIOS PÚBLICOS QUE BRINDA LA MUNICIPALIDAD",
+            "txPgObjetivo": "RECLUTAMIENTO Y CAPACITACIÓN A LOS SERVIDORES PÚBLICOS",
+            "txPgIndicador": "PERSONAL CAPACITADO",
+            "txPgMeta": "100% DEL PERSONAL CAPACITADO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159286,
+            "txPgProblema": "DESARTICULACIÓN DE LAS INSTITUCIONES PÚBLICAS EN EL CUMPLIMIENTO DE LAS POLÍTICAS DE ESTADO",
+            "txPgObjetivo": "IMPLEMENTACIÓN DE LAS MESAS DE DIALOGO",
+            "txPgIndicador": "MESAS DE DIALOGO IMPLEMENTADAS",
+            "txPgMeta": "4 MESAS/AÑO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159297,
+            "txPgProblema": "EXCESIVAS TRABAS BUROCRÁTICAS",
+            "txPgObjetivo": "MODERNIZACIÓN DE LA GESTIÓN MUNICIPAL",
+            "txPgIndicador": "ELIMINACIÓN DE TRABAS BUROCRÁTICAS",
+            "txPgMeta": "100% DE TRABAS BUROCRÁTICAS ELIMINADAS Y MODERNIZADAS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

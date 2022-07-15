@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 25740,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2702,
+        "txOrganizacionPolitica": "MOVIMIENTO DE INTEGRACION Y REVOLUCION ANDINA",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/7895a9d3-1788-49bb-84e8-85e3f4dc57ed.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/5529368d-f2bd-4541-8c12-c4931ab8d5b7.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 211838,
+            "txPgProblema": "DESNUTRICION DE NIÑOS Y NIÑAS EN PERIODO ESCOLAR",
+            "txPgObjetivo": "MONITOREAR Y INCREMENTAR EL PROGRAMA DE ALIMENTACION A LOS NIÑOS Y NIÑAS EN PERIODO ESCOLAR",
+            "txPgIndicador": "BAJAR NIVEL DE DESNUTRICION",
+            "txPgMeta": "REDUCIR EL 15% DE LA DESNUTRICION DE LOS NIÑOS Y NIÑAS EN PERIODO ESCOLAR",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211853,
+            "txPgProblema": "SERVICIOS BASICOS EN EL AREA URBANA DE CHUCUITO",
+            "txPgObjetivo": "INCREMENTAR Y GESTIONAR SERVICIOS BASICOS EN LA AREA URBANA DE CHUCUITO",
+            "txPgIndicador": "POBLACION URBANA DE CHUCUITO",
+            "txPgMeta": "CERRAR BRECHAS EN SERVICIOS BASICOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211961,
+            "txPgProblema": "INCREMENTO DE LA TASA DE MORTALIDAD EN LOS POBLADORES DE LA ZONA POR EL FRIAGE",
+            "txPgObjetivo": "DISMINUIR LA TASA DE MORTALIDAD POR EL FRIAGE EN LAS ZONAS ALTAS",
+            "txPgIndicador": "MORTALIDAD SUPERIOR AL PROMEDIO EN LOS POBLADORES DE BAJOS RECURSOS ECONOMICOS",
+            "txPgMeta": "DESMINUIR LA TASA DE MORTALIDAD SUPERIOR AL PROMEDIO EN LA ZONAS ALTAS Y LAS FAMILIAS DE BAJOS RECURSOS ECONOMICOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 211974,
+            "txPgProblema": "CALIDAD DE VIDA EN EL AREA RURAL DE CHUCUITO",
+            "txPgObjetivo": "MEJORAR EL INGRESO  ECONOMIA DE LAS FAMILIAS EN EL AREA RURAL DEL DISTRITO DE CHUCUITO",
+            "txPgIndicador": "ATENCION DE PRODUCTORES",
+            "txPgMeta": "ELEVAR LOS NIVELES  DE PRODUCCION AGRICOLA",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211995,
+            "txPgProblema": "CRIANZA DE TRUCHA",
+            "txPgObjetivo": "MEJORAMIENTO DE LOS EMBARCADEROS, PLANTAS DE PROCESAMIENTO DE ALIMENTOS BALANCEADO PARA LA TRUCHA",
+            "txPgIndicador": "ATENCION DE PRODUCCION",
+            "txPgMeta": "INCREMENTAR LA PRODUCCION DE LA TRUCHA",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 212009,
+            "txPgProblema": "BAJA PRESENCIA DEL TURISMO",
+            "txPgObjetivo": "REVALOR EL TURISMO VIVENCIAL",
+            "txPgIndicador": "CAPTAR AL TURISMO",
+            "txPgMeta": "PROMOCIONAR EL TURISMO VIVENCIAL",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 212026,
+            "txPgProblema": "COTAMIENTA DEL LAGO TITICACA",
+            "txPgObjetivo": "MONITORIAR A LOS HOTELES QUE ESTAN PROXIMOS AL LAGO TITICACA",
+            "txPgIndicador": "CONTAMINACION",
+            "txPgMeta": "REDUCIR LA CONTAMINACION DEL LAGO TITICACA",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 212036,
+            "txPgProblema": "RESIDUOS SOLIDOS",
+            "txPgObjetivo": "PROGRAMA INTEGRAL DE GESTION DE RECIDUOS SOLIDOS",
+            "txPgIndicador": "CONTAMINACION",
+            "txPgMeta": "BUEN TRATAMIENTO DE RECIDUOS SOLIDOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 212087,
+            "txPgProblema": "DESFORESTACION DE ARBOLES Y ARBUSTOS",
+            "txPgObjetivo": "MONITOREAR Y CONTROLAR LA DESFORESTACION DE ARBOLES Y ARBUSTO",
+            "txPgIndicador": "PLAN DE MONITOREO",
+            "txPgMeta": "PLAN DE MONITOREO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 212107,
+            "txPgProblema": "INFRAESTRUCTURA MUNICIPAL",
+            "txPgObjetivo": "MEJORAR LA INFRAESTRUTURA PARA SU BUENA ATENCION A LA POBLACION",
+            "txPgIndicador": "SERVICIOS MUNICIPAL",
+            "txPgMeta": "CONTAR CON UNNUEVO LOCAL MUNICIPAL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 212125,
+            "txPgProblema": "ORGANIGRAMA MUNICIPAL",
+            "txPgObjetivo": "DEFINIR LA ESTRUCTURA ORGANICA DE LA MUNICIPALIDAD PARA UNA BUEN AGESTION",
+            "txPgIndicador": "ESTRUCTURA ORGANICA",
+            "txPgMeta": "REDUCIR LA BUROCRACIA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 212195,
+            "txPgProblema": "BARRERAS BUROCRATICAS",
+            "txPgObjetivo": "AGILIZAR LA GESTION Y DISMINUIR LAS BARRERAS BUROCRATICAS",
+            "txPgIndicador": "DISMINUCION DE LAS BARRERAS BUROCRATICAS",
+            "txPgMeta": "DINAMIZAR LA GESTION Y LAS BARRERAS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

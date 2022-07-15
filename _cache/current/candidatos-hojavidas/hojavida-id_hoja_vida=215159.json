@@ -1,0 +1,146 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 215159.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "76833971",
+        "nombres": "DARIEL",
+        "apellidoPaterno": "ATANACIO",
+        "apellidoMaterno": "MOINA",
+        "sexo": "1",
+        "feNacimiento": "10/01/1999",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "030606",
+        "naciDepartamento": "APURIMAC",
+        "naciProvincia": "GRAU",
+        "naciDistrito": "MICAELA BASTIDAS",
+        "ubigeoDomicilio": "030606",
+        "domiDepartamento": "APURIMAC",
+        "domiProvincia": "GRAU",
+        "domiDistrito": "MICAELA BASTIDAS",
+        "domicilioDirecc": "AV. MARTINELLY S/N",
+        "ubigeoPostula": "030606",
+        "postulaDepartamento": "APURIMAC",
+        "postulaProvincia": "GRAU",
+        "postulaDistrito": "MICAELA BASTIDAS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/215159.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2857.0,
+        "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 12:38:01",
+        "txGuidFormatoHojaVida": "11b4bc01-17c7-43c3-b619-16ebf0513d50",
+        "idSolicitudLista": 33441.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 248972,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "ASESORIA EN ECONOMIA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ANEXO DE MISCA",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "030606",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "APURIMAC",
+            "trabajoProvincia": "GRAU",
+            "trabajoDistrito": "MICAELA BASTIDAS",
+            "idHojaVida": 215159,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 220558,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 215159,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 186188,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD ANDINA DEL CUSCO",
+                "carreraUni": "BACHILLER EN ECONOMIA",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2021",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 198673,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 5000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 215159,
+                "idEstado": 1,
+                "totalIngresos": 5000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 200843,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "MOTOCICLETA",
+                "marca": null,
+                "placa": "7277-CX",
+                "valor": 4700.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA MARCA ARTSUN COLOR NEGRO",
+                "comentario": null,
+                "idHojaVida": 215159,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

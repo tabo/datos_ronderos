@@ -1,0 +1,158 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 177132.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "77021218",
+        "nombres": "BIANCA ISABEL",
+        "apellidoPaterno": "MORALES",
+        "apellidoMaterno": "TRUJILLO",
+        "sexo": "2",
+        "feNacimiento": "24/01/1997",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140801",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "HUARAL",
+        "naciDistrito": "HUARAL",
+        "ubigeoDomicilio": "140801",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "HUARAL",
+        "domiDistrito": "HUARAL",
+        "domicilioDirecc": "URB. LINO CAHUAS CALLE TACNA MZ.H LT.11",
+        "ubigeoPostula": "140800",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "HUARAL",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/177132.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 553.0,
+        "organizacionPolitica": "PATRIA JOVEN",
+        "numeroCandidato": 10.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "08/06/2022 20:05:01",
+        "txGuidFormatoHojaVida": "99f5f712-0623-4a1f-bd3f-2db318f11a52",
+        "idSolicitudLista": 28454.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 163867,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MOVIL BUS SAC",
+            "ocupacionProfesion": "ASISTENTE DE BIENESTAR SOCIAL",
+            "rucTrabajo": "20555901179",
+            "direccionTrabajo": "AV. MATERIALES 2215",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "LIMA",
+            "idHojaVida": 177132,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 143209,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 177132,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 146037,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL FEDERICO VILLARREAL",
+                "carreraUni": "BACHILLER EN TRABAJO SOCIAL",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2019",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 138361,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 332,
+            "orgPolRenunciaOp": "CONCERTACION PARA EL DESARROLLO REGIONAL - LIMA",
+            "anioRenunciaOp": "2020",
+            "idHojaVida": 177132,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 140824,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 1500.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 177132,
+                "idEstado": 1,
+                "totalIngresos": 1500.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 153560,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "BLX046 ",
+                "valor": 29500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMIONETA SUV MG",
+                "comentario": null,
+                "idHojaVida": 177132,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

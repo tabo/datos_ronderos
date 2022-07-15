@@ -1,0 +1,140 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 177233.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42963006",
+        "nombres": "POLACO",
+        "apellidoPaterno": "DIAZ",
+        "apellidoMaterno": "DIAZ",
+        "sexo": "1",
+        "feNacimiento": "19/04/1985",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "210101",
+        "naciDepartamento": "SAN MARTIN",
+        "naciProvincia": "MOYOBAMBA",
+        "naciDistrito": "MOYOBAMBA",
+        "ubigeoDomicilio": "210301",
+        "domiDepartamento": "SAN MARTIN",
+        "domiProvincia": "LAMAS",
+        "domiDistrito": "LAMAS",
+        "domicilioDirecc": "JR.GARCILAZO DE LA VEGA S/N",
+        "ubigeoPostula": "210300",
+        "postulaDepartamento": "SAN MARTIN",
+        "postulaProvincia": "LAMAS",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/177233.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2173.0,
+        "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+        "numeroCandidato": 7.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 15:54:07",
+        "txGuidFormatoHojaVida": "dca0ddd2-f543-4e28-9f04-e30c25c55802",
+        "idSolicitudLista": 28466.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 203379,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR. GARCILAZO DE LA VEGA S/N",
+            "anioTrabajoDesde": "2005",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "210301",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "SAN MARTIN",
+            "trabajoProvincia": "LAMAS",
+            "trabajoDistrito": "LAMAS",
+            "idHojaVida": 177233,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 179091,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 177233,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 152056,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 131,
+            "orgPolRenunciaOp": "ACCION REGIONAL",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 177233,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 167207,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 14000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 177233,
+                "idEstado": 1,
+                "totalIngresos": 14000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 176611,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "MX31655",
+                "valor": 2500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOTAXI",
+                "comentario": null,
+                "idHojaVida": 177233,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

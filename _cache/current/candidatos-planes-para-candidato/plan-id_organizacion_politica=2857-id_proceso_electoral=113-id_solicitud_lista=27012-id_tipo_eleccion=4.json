@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20338,
+        "idTipoEleccion": 4,
+        "txTipoEleccion": "REGIONAL",
+        "idOrganizacionPolitica": 2857,
+        "txOrganizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/8378ead1-60eb-4270-a374-389e973da447.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/d1ee7182-a1ca-41ee-b485-02a3275a37b1.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 200009,
+            "txPgProblema": "DESNUTRICIÓN INFANTIL",
+            "txPgObjetivo": "MEJORA EN LA SALUD",
+            "txPgIndicador": "%",
+            "txPgMeta": "REDUDIR EL 20 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 200030,
+            "txPgProblema": "INFRAESTRUCTURA EDUCATIVA",
+            "txPgObjetivo": "MEJORA DE LA EDUCACIÓN",
+            "txPgIndicador": "%",
+            "txPgMeta": "REDUCIR EL 15 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 200063,
+            "txPgProblema": "DEBIL ACCESO AL SERVICIO DE SALUD",
+            "txPgObjetivo": "MEJROAM DE LA SALUD",
+            "txPgIndicador": "%",
+            "txPgMeta": "INCREMEMENTO DEL 30 % DE EQUIPAMIENTO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 200085,
+            "txPgProblema": "FALTA DE INFRAESTRUCTURA AGRÍCOLA",
+            "txPgObjetivo": "MEJORA DE LA INFRAESTRUCTURA AGRICOLA",
+            "txPgIndicador": "PROYECTOS",
+            "txPgMeta": "EJECUCION DE PROYECTOS AGRICOLAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 200111,
+            "txPgProblema": "FALTA DE APOYO A LA PESCA",
+            "txPgObjetivo": "MEJORA DE LA INFRAESTRUCTURA PESQUERA",
+            "txPgIndicador": "INFRAESTRUCTURA",
+            "txPgMeta": "INFRAESTRUCTURA OPTIMA DE LA REGION",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 200164,
+            "txPgProblema": "FALTA DE INVERSIÓN PARA INNOVACIÓN Y DESARROLLO TECNOLOGICO",
+            "txPgObjetivo": "PROMOCION DE LA INDUSTRIALIZACION",
+            "txPgIndicador": "INVESTIGACIÓN",
+            "txPgMeta": "REGIÓN CON INVERSION EN INVESTIGACIÓN",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 200197,
+            "txPgProblema": "CARENCIA DE CUIDADO AMBIENTAL",
+            "txPgObjetivo": "CUMPLIMIENTO DE NORMAS",
+            "txPgIndicador": "NORMATIVIDAD",
+            "txPgMeta": "REGIÓN CON NORMAS ACTTUALIZADAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 200224,
+            "txPgProblema": "FALTA DE GESTION EN EL TEMA AMBIENTAL",
+            "txPgObjetivo": "GESTION DE POLITICAS PUBLICAS",
+            "txPgIndicador": "ATENCION DE DESASTRES",
+            "txPgMeta": "GESTION EFICIENTE EN EL MANEJO DE DESASTRES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 200280,
+            "txPgProblema": "FALTA DE ORDENAMIENTO TERRITORIAL",
+            "txPgObjetivo": "TERRITORIO ORDENADO",
+            "txPgIndicador": "ORDENAMIENTO TERRITORIAL",
+            "txPgMeta": "REGION CON SU TERRITORIO ORDENADO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 200298,
+            "txPgProblema": "ALTO INDICE DE CORRUPCION",
+            "txPgObjetivo": "RESTRUCTURACION ADMINISTRATIVA",
+            "txPgIndicador": "REDUCCION DE LA CORRUPCION",
+            "txPgMeta": "REGION LIBRE DE CORRUPCION",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 200317,
+            "txPgProblema": "FALTA DE CAPACITACION DEL PERSONAL",
+            "txPgObjetivo": "PERSONAL CAPACITADO",
+            "txPgIndicador": "CAPACITACION",
+            "txPgMeta": "REGION CON SU PERSONAL TECNICO CAPACITADO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 200385,
+            "txPgProblema": "INEFICIENTE ORGANIZACION Y ADMINISTRACION",
+            "txPgObjetivo": "GETSION ADMINISTRATIVA EFICIENTE",
+            "txPgIndicador": "GESTION",
+            "txPgMeta": "REION CON UNA GESTION EFICIENTE",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

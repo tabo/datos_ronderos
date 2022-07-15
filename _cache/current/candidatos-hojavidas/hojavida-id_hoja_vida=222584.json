@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 222584.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "71666454",
+        "nombres": "CANDELARIA",
+        "apellidoPaterno": "CALCINA",
+        "apellidoMaterno": "SONCCO",
+        "sexo": "2",
+        "feNacimiento": "04/01/2002",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "200201",
+        "naciDepartamento": "PUNO",
+        "naciProvincia": "AZANGARO",
+        "naciDistrito": "AZANGARO",
+        "ubigeoDomicilio": "200215",
+        "domiDepartamento": "PUNO",
+        "domiProvincia": "AZANGARO",
+        "domiDistrito": "SAN JUAN DE SALINAS",
+        "domicilioDirecc": "COMUNIDAD PUCARA",
+        "ubigeoPostula": "200215",
+        "postulaDepartamento": "PUNO",
+        "postulaProvincia": "AZANGARO",
+        "postulaDistrito": "SAN JUAN DE SALINAS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/222584.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 21:00:50",
+        "txGuidFormatoHojaVida": "93a78954-a971-437c-8c10-2df6c100e893",
+        "idSolicitudLista": 34284.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 239465,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MEDIO RURAL",
+            "ocupacionProfesion": "TRABAJADOR INDEPENDIENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "DISTRITO DE SALINAS",
+            "anioTrabajoDesde": "2016",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "200215",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PUNO",
+            "trabajoProvincia": "AZANGARO",
+            "trabajoDistrito": "SAN JUAN DE SALINAS",
+            "idHojaVida": 222584,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 211393,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 222584,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 142644,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 2,
+                "idOrgPolCargoPartidario": 2866,
+                "orgPolCargoPartidario": "MOVIMIENTO REGIONAL O DEPARTAMENTAL MOVIMIENTO ACCION REGIONAL",
+                "cargoPartidario": "AFILIADO",
+                "anioCargoPartiDesde": "2021",
+                "anioCargoPartiHasta": "2021",
+                "idHojaVida": 222584,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            },
+            {
+                "idHvCargoPartidario": 142641,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 292,
+                "orgPolCargoPartidario": "MOVIMIENTO REGIONAL O DEPARTAMENTAL MORAL Y DESARROLLO",
+                "cargoPartidario": "AFILIADA",
+                "anioCargoPartiDesde": "2006",
+                "anioCargoPartiHasta": "2020",
+                "idHojaVida": 222584,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 163570,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2866,
+            "orgPolRenunciaOp": "MOVIMIENTO ACCION REGIONAL",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 222584,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 192200,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 1000.0,
+                "idHojaVida": 222584,
+                "idEstado": 1,
+                "totalIngresos": 1000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

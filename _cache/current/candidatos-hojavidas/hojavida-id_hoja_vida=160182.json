@@ -1,0 +1,168 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 160182.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "06318762",
+        "nombres": "FREDDY ROLANDO",
+        "apellidoPaterno": "LEON",
+        "apellidoMaterno": "MONTES",
+        "sexo": "1",
+        "feNacimiento": "22/11/1971",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110508",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "TARMA",
+        "naciDistrito": "SAN PEDRO DE CAJAS",
+        "ubigeoDomicilio": "110508",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "TARMA",
+        "domiDistrito": "SAN PEDRO DE CAJAS",
+        "domicilioDirecc": "CALLE SAN PEDRO 660",
+        "ubigeoPostula": "110508",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "TARMA",
+        "postulaDistrito": "SAN PEDRO DE CAJAS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/160182.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 13:14:58",
+        "txGuidFormatoHojaVida": "7cd8508e-33ff-4f31-94fb-55172aa3e523",
+        "idSolicitudLista": 26181.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 254109,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "ARTESANO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE SAN PEDRO 660",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "110508",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "TARMA",
+            "trabajoDistrito": "SAN PEDRO DE CAJAS",
+            "idHojaVida": 160182,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 226289,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 160182,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 158015,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "INSTITUTO ANDRES AVELINO CACERES - HUANCAYO",
+                "carreraTecnico": "ELECTRONICA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 160182,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 189304,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNCP",
+                "carreraUni": "BACHILLER EN PEDAGOGIA MATEMATICA Y FISICA",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2016",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 143689,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 2218,
+                "orgPolCargoPartidario": "PARTIDO POLÍTICO PARTIDO POLITICO NACIONAL PERU LIBRE",
+                "cargoPartidario": "AFILIADO",
+                "anioCargoPartiDesde": "2022",
+                "anioCargoPartiHasta": "2022",
+                "idHojaVida": 160182,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 168277,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2218,
+            "orgPolRenunciaOp": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "anioRenunciaOp": "2022",
+            "idHojaVida": 160182,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 202995,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 21600.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 160182,
+                "idEstado": 1,
+                "totalIngresos": 21600.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

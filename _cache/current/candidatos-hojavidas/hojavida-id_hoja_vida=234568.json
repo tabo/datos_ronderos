@@ -1,0 +1,130 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 234568.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "41087522",
+        "nombres": "OBEL",
+        "apellidoPaterno": "SOTO",
+        "apellidoMaterno": "TORIBIO",
+        "sexo": "1",
+        "feNacimiento": "28/03/1981",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "091101",
+        "naciDepartamento": "HUANUCO",
+        "naciProvincia": "YAROWILCA",
+        "naciDistrito": "CHAVINILLO",
+        "ubigeoDomicilio": "091108",
+        "domiDepartamento": "HUANUCO",
+        "domiProvincia": "YAROWILCA",
+        "domiDistrito": "CHORAS",
+        "domicilioDirecc": "C.P.M.SAN LUCAS DE MESAPAMPA",
+        "ubigeoPostula": "091108",
+        "postulaDepartamento": "HUANUCO",
+        "postulaProvincia": "YAROWILCA",
+        "postulaDistrito": "CHORAS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/234568.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 11:20:19",
+        "txGuidFormatoHojaVida": "c66bb63e-1478-4edf-bd73-587f5790a4f5",
+        "idSolicitudLista": 35672.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 220296,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 234568,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 166339,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2019",
+            "idHojaVida": 234568,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 166338,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2730,
+            "orgPolRenunciaOp": "MOVIMIENTO INDEPENDIENTE REGIONAL MI BUEN VECINO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 234568,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 198356,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 12000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 234568,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 200640,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "F7N435 ",
+                "valor": 20000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "VEHICULO",
+                "comentario": null,
+                "idHojaVida": 234568,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

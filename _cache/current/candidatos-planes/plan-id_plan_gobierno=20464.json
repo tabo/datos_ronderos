@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20464,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2722,
+        "txOrganizacionPolitica": "UNION REGIONAL",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1704,
+        "juradoElectoral": "MARISCAL CACERES",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/9901c934-b203-49d8-9609-e414ee45d14e.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/2d6ed401-3075-4d0b-9d88-0a4d076123d3.pdf",
+        "txCodExpedienteExt": "ERM.2022006698",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 171075,
+            "txPgProblema": "POBLACIÓN DEL DISTRITO DE NUEVO PROGRESO    CON INSUFICIENTES SERVICIOS DE AGUA POTABLE Y SANEAMIENTO.",
+            "txPgObjetivo": "GESTIONAR PROYECTOS DE AGUA Y DESAGÜE DE LOS SITIOS QUE CARECEN DE DICHO SERVICIO Y MEJORAR EN LOS QUE YA EXISTEN.",
+            "txPgIndicador": "POBLACIÓN COBERTURADA CON SISTEMA DE AGUA POTABLE Y SANEAMIENTO / POBLACIÓN TOTAL",
+            "txPgMeta": "AL 2026 EL 100% DE LA POBLACIÓN TENDRÁ AGUA POTABLE Y SANEAMIENTO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 171079,
+            "txPgProblema": "SERVICIOS EDUCATIVOS CON INFRAESTRUCTURA INADECUADA",
+            "txPgObjetivo": "AMPLIACIÓN Y MEJORAMIENTO DE LOS SERVICIOS EDUCATIVOS EN LOS DIFERENTES NIVELES",
+            "txPgIndicador": "IE CON INFRAESTRUCTURA ADECUADA / TOTAL DE IE",
+            "txPgMeta": "AL 2026 SE CONTARÁ CON EL 100% DE IE CON ADECUADA INFRAESTRUCTURA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 171080,
+            "txPgProblema": "POBLACIÓN DEL DISTRITO DE NUEVO PROGRESO NO CUENTA CON ADECUADO NIVEL DE ATENCIÓN EN EL ESTABLECIMIENTO DE SALUD",
+            "txPgObjetivo": "AMPLIACIÓN Y MEJORAMIENTO DEL CENTRO DE   SALUD EN LA CIUDAD CAPITAL TIPO I CON CAPACIDAD RESOLUTIVA E IMPLEMENTACIÓN DE LOS PUESTOS DE AUXILIO RÁPIDO EN LOS CASERÍOS Y MEJORAMIENTO DEL PUESTO DE SALUD EN PALMERAS, SAN PEDRO, RIO BLANCO, NUEVO SAN MARTIN Y RIO UCHIZA.",
+            "txPgIndicador": "EE.SS MEJORADOS / TOTAL EE.SS",
+            "txPgMeta": "AL 2026 SE MEJORA E IMPLEMENTARA EL 80% DE LOS EE.SS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 171082,
+            "txPgProblema": "AGRICULTORES DEL DISTRITO NO CUENTAN CON ASISTENCIA TÉCNICA PARA EL MANEJO DE SUS CULTIVOS",
+            "txPgObjetivo": "AMPLIACIÓN DE NUEVAS ÁREAS, MANTENIMIENTO Y ASISTENCIA TÉCNICA EN CULTIVOS DE CAFÉ, CACAO, ARROZ, PALMA ACEITERA Y OTROS.",
+            "txPgIndicador": "PRODUCTORES CAPACITADOS / TOTAL DE PRODUCTORES AGRÍCOLAS",
+            "txPgMeta": "AL 2026 SE CAPACITARA Y ASISTIRÁ AL 100% DE LOS AGRICULTORES DEL DISTRITO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 171085,
+            "txPgProblema": "AGRICULTORES CON ALTOS COSTOS EN SU PRODUCCIÓN POR TROCHAS CARROZABLES EN INADECUADAS CONDICIONES DE ACCESIBILIDAD",
+            "txPgObjetivo": "CONSTRUCCIÓN Y MEJORAMIENTO DE TROCHAS CARROZABLES HACIA LOS CENTROS DE PRODUCCIÓN AGROPECUARIO",
+            "txPgIndicador": "KM DE TOCHAS CARROZABLES MEJORADAS / TOTAL KM DE TROCHAS CARROZABLES",
+            "txPgMeta": "AL 2026 SE MEJORARA EL 100% DE LAS TROCHAS CARROZABLES",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 171090,
+            "txPgProblema": "ESCASO CONOCIMIENTO DE LOS SUELOS AGRÍCOLAS APROPIADOS PARA REALIZAR SEMBRÍOS CON ÉXITO",
+            "txPgObjetivo": "GESTIONAR LA CREACIÓN E INSTALACIÓN DE UN LABORATORIO DE SUELOS CON PROPÓSITOS AGRÍCOLAS",
+            "txPgIndicador": "% DE LABORATORIO DE SUELOS BIEN IMPLEMENTADO",
+            "txPgMeta": "AL 2026 SE CREARA E IMPLEMENTARA EL 100% DE LABORATIO DE SUELOS CON FINES AGRÍCOLAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 171093,
+            "txPgProblema": "LA POBLACIÓN DEL DISTRITO NO CUENTA CON UNA PLANTA DE TRATAMIENTO DE RESIDUOS SÓLIDOS OCASIONANDO QUE BOTEN SUS DESPERDICIOS AL AIRE LIBRE",
+            "txPgObjetivo": "CONSTRUCCIÓN DEL RELLENO SANITARIO Y TRATAMIENTO DE LOS RESIDUOS SÓLIDOS EN EL DISTRITO",
+            "txPgIndicador": "Nº DE PLANTAS DE TRATAMIENTO DE RESIDUOS SOLIDOS",
+            "txPgMeta": "AL 2026 SE CONTARÁ CON LA CONSTRUCCIÓN AL 100% DE LA PLANTA DE TRATAMIENTO DE RESIDUOS SOLIDOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 171094,
+            "txPgProblema": "TALA INDISCRIMINADA DE ARBOLES",
+            "txPgObjetivo": "COORDINAR CON EL ARA  (AUTORIDAD REGIONAL AMBIENTAL )",
+            "txPgIndicador": "DISMINUCIÓN DE DEFORESTACIÓN",
+            "txPgMeta": "LOGRAR LA REFORESTACIÓN DE MÁS DE 1,000 HAS EN TODO EL DISTRITO ASÍ COMO CONCIENTIZAR A LAS PERSONAS  EN EL CUIDADO Y PROTECCIÓN DEL MEDIO AMBIENTE.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 171097,
+            "txPgProblema": "POBLACIÓN DEL DISTRITO CUENTA CON INSUFICIENTES ÁREAS VERDES CON FINES DE RECREACIÓN Y CONSERVACIÓN",
+            "txPgObjetivo": "CONSTRUCCIÓN DE PLAZAS, PARQUES Y JARDINES",
+            "txPgIndicador": "Nº DE PLAZAS, PARQUES Y JARDINES MEJORADAS / Nº DE COMUNIDADES DEL DISTRITO",
+            "txPgMeta": "AL 2026 SE MEJORAR EL 70% DE LAS PLAZAS, PARQUES Y JARDINES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 171100,
+            "txPgProblema": "AUMENTO DE LA INSEGURIDAD CIUDADANA POR LOS DELITOS COMUNES",
+            "txPgObjetivo": "FORTALECIMIENTO A LAS RONDAS CAMPESINAS Y LA CREACIÓN DEL ÁREA DE SEGURIDAD CIUDADANA EN LA CIUDAD CAPITAL  (SERENASGO )",
+            "txPgIndicador": "Nº ORGANIZACIONES RONDERILES CAPACITADAS / TOTAL DE ORGANIZACIONES RONDERILES",
+            "txPgMeta": "AL 2026 SE CAPACITARÁ AL 100% DE LAS ORGANIZACIONES RONDERILES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 171104,
+            "txPgProblema": "ESTADIO MUNICIPAL EN PÉSIMAS CONDICIONES PARA EL DEPORTE",
+            "txPgObjetivo": "CONSTRUCCIÓN DEL ESTADIO MUNICIPAL",
+            "txPgIndicador": "INCENTIVAR AL DEPORTE",
+            "txPgMeta": "MEJORAR LA INFRAESTRUCTURA DEL ESTADIO MUNICIPAL.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 171121,
+            "txPgProblema": "CARENCIA DE UN LOCAL PARA ATENCIÓN AL ADULTO MAYOR.",
+            "txPgObjetivo": "GESTIONAR LA ADQUISICIÓN DE UN TERRENO PARA LA CONSTRUCCIÓN DE UN LOCAL PARA EL ADULTO MAYOR.",
+            "txPgIndicador": "MEJORA  EN ATENCIÓN AL ADULTO MAYOR.",
+            "txPgMeta": "LOGRAR LA ATENCIÓN A LOS ADULTOS MAYORES DEL DISTRITO.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

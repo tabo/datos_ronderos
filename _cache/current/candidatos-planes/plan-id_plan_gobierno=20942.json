@@ -1,0 +1,105 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20942,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2257,
+        "txOrganizacionPolitica": "JUNTOS POR EL DESARROLLO DE AREQUIPA",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1691,
+        "juradoElectoral": "LA UNION",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/c4336a8e-ed06-4d5b-939e-f24f21ca7bec.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/730f070e-00b1-4b21-ae1a-64272270b416.pdf",
+        "txCodExpedienteExt": "ERM.2022009106",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 173206,
+            "txPgProblema": "¿\tLIMITADO ACCESO DE LA POBLACIÓN A LOS SERVICIOS DE SANEAMIENTO DE CALIDAD EN EL DISTRITO DE ALCA.",
+            "txPgObjetivo": "¿\tMEJORAR EL ACCESO DE LA POBLACIÓN A LOS SERVICIOS DE SANEAMIENTO DE CALIDAD EN EL DISTRITO DE ALCA.",
+            "txPgIndicador": "¿\tPORCENTAJE DE LA POBLACIÓN CON MAYOR ACCESO A LOS SERVICIOS DE SANEAMIENTO DE CALIDAD.",
+            "txPgMeta": "8%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 173218,
+            "txPgProblema": "¿\tINFRAESTRUCTURA Y EQUIPAMIENTO INSUFICIENTE EN EL CENTRO DE SALUD DE ALCA",
+            "txPgObjetivo": "¿\tINCREMENTAR MEJORES CONDICIONES DE INFRAESTRUCTURA Y EQUIPAMIENTO EN EL CENTRO DE SALUD DE ALCA.",
+            "txPgIndicador": "¿\tPORCENTAJE DE ESTABLECIMIENTOS DE SALUD CON MEJOR INFRAESTRUCTURA Y EQUIPAMIENTO.",
+            "txPgMeta": "60%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 173908,
+            "txPgProblema": "INADECUADAS CONDICIONES DE LA INFRAESTRUCTURA EDUCATIVA EN LAS INSTITUCIONES EDUCATIVAS DEL DISTRITO DE ALCA",
+            "txPgObjetivo": "INCREMENTAR MEJORES CONDICIONES ADECUADAS DE LA INFRAESTRUCTURA EDUCATIVA EN EL DISTRITO DE ALCA",
+            "txPgIndicador": "PORCENTAJE DE INFRAESTRUCTURA EDUCATIVA EN BUEN ESTADO Y CON CONECTIVIDAD.",
+            "txPgMeta": "30%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 173936,
+            "txPgProblema": "INADECUADAS CONDICIONES DE INFRAESTRUCTURA VIAL DE LA RED DE VÍAS DEL DISTRITO DE ALCA.",
+            "txPgObjetivo": "MEJORAR E INCREMENTAR MEJORES CONDICIONES DE LA INFRAESTRUCTURA VIAL DE LA RED DE VÍAS DEL DISTRITO DE ALCA",
+            "txPgIndicador": "PORCENTAJE DE RED VIAL DISTRITAL PAVIMENTADA Y CON FICHAS DE MANTENIMIENTO.",
+            "txPgMeta": "30%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 173953,
+            "txPgProblema": "BAJOS NIVELES DE PRODUCCIÓN AGRÍCOLA.",
+            "txPgObjetivo": "MEJORAR Y AMPLIAR LA FRONTERA AGRÍCOLA OPTIMIZANDO LOS RECURSOS HÍDRICOS DELO DISTRITO DE ALCA.",
+            "txPgIndicador": "PORCENTAJE DE FRONTERA AGRÍCOLA OPTIMIZADA Y SUELOS CON RIEGO TECNIFICADO.",
+            "txPgMeta": "50%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 173970,
+            "txPgProblema": "DECRECIMIENTO DEL FLUJO DE TURISTAS NACIONAL E INTERNACIONAL CON RESPECTO A AÑOS ANTERIORES.",
+            "txPgObjetivo": "INCREMENTAR EL FLUJO TURÍSTICO NACIONAL Y EXTRANJERA AL DISTRITO DE ALCA.",
+            "txPgIndicador": "¿\tPORCENTAJE DE OFERTA TURÍSTICA DIVERSIFICADA.",
+            "txPgMeta": "60%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 173993,
+            "txPgProblema": "DEFICIENTE MANEJO DE DESECHOS SÓLIDOS EN EL DISTRITO DE ALCA",
+            "txPgObjetivo": "PROMOVER EL MANEJO INTEGRAL DE RESIDUOS SÓLIDOS EN EL DISTRITO.",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN CON SERVICIO MEJORADO DE RECOJO Y TRATAMIENTO DE RESIDUOS SÓLIDOS.",
+            "txPgMeta": "40%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 174010,
+            "txPgProblema": "DEFICIENTE SERVICIO DE ATENCIÓN AL CIUDADANO",
+            "txPgObjetivo": "SISTEMATIZACIÓN Y AUTOMATIZACIÓN DE LOS PROCEDIMIENTOS ADMINISTRATIVOS DE LA MUNICIPALIDAD DISTRITAL DE ALCA.",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN QUE SE SIENTE SATISFECHA CON LOS SERVICIOS BRINDADOS.",
+            "txPgMeta": "45%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

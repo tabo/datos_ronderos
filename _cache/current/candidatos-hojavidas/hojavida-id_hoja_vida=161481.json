@@ -1,0 +1,157 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 161481.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "33789710",
+        "nombres": "VICTOR ARMANDO",
+        "apellidoPaterno": "AREVALO",
+        "apellidoMaterno": "SERVAN",
+        "sexo": "1",
+        "feNacimiento": "23/01/1957",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "010407",
+        "naciDepartamento": "AMAZONAS",
+        "naciProvincia": "LUYA",
+        "naciDistrito": "LONGUITA",
+        "ubigeoDomicilio": "010407",
+        "domiDepartamento": "AMAZONAS",
+        "domiProvincia": "LUYA",
+        "domiDistrito": "LONGUITA",
+        "domicilioDirecc": "CHOCTAMAL",
+        "ubigeoPostula": "010407",
+        "postulaDepartamento": "AMAZONAS",
+        "postulaProvincia": "LUYA",
+        "postulaDistrito": "LONGUITA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/161481.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL",
+            " REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 16:01:31",
+        "txGuidFormatoHojaVida": "5246f6a5-a560-4bfe-bd39-7f57660bc93d",
+        "idSolicitudLista": 26350.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 254567,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CHOCTA MAL",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "010407",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AMAZONAS",
+            "trabajoProvincia": "LUYA",
+            "trabajoDistrito": "LONGUITA",
+            "idHojaVida": 161481,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 226829,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 161481,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 145460,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 1258,
+                "orgPolCargoElec": "MOVIMIENTO REGIONAL FUERZA AMAZONENSE",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2011",
+                "anioCargoElecHasta": "2014",
+                "idHojaVida": 161481,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 168426,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 161481,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 203394,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 6000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 161481,
+                "idEstado": 1,
+                "totalIngresos": 6000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 204273,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "50683K ",
+                "valor": 10000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEA",
+                "comentario": null,
+                "idHojaVida": 161481,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

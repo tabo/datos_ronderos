@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 156806.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "45602202",
+        "nombres": "JOSE LUIS",
+        "apellidoPaterno": "AMABLE",
+        "apellidoMaterno": "MARCA",
+        "sexo": "1",
+        "feNacimiento": "27/02/1986",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140101",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "LIMA",
+        "ubigeoDomicilio": "030211",
+        "domiDepartamento": "APURIMAC",
+        "domiProvincia": "AYMARAES",
+        "domiDistrito": "SORAYA",
+        "domicilioDirecc": "HUARANCCO PATA CCARHUATANI",
+        "ubigeoPostula": "030211",
+        "postulaDepartamento": "APURIMAC",
+        "postulaProvincia": "AYMARAES",
+        "postulaDistrito": "SORAYA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/156806.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 21:13:07",
+        "txGuidFormatoHojaVida": "7eff801c-1460-4f61-8962-6845822cd58d",
+        "idSolicitudLista": 25704.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 185501,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "VICI S.R.L",
+            "ocupacionProfesion": "GERENTE GENERAL",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR, LA LIBERTAD PARQUE OCAMPO - ABANCAY",
+            "anioTrabajoDesde": "2014",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "030211",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "APURIMAC",
+            "trabajoProvincia": "AYMARAES",
+            "trabajoDistrito": "SORAYA",
+            "idHojaVida": 156806,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 163338,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 156806,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 155513,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 36000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 12988.0,
+                "idHojaVida": 156806,
+                "idEstado": 1,
+                "totalIngresos": 48988.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 196456,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "VIVIENDA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "ANEXO CCARAHUATANI - SORAYA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 156806,
+                "idEstado": 1,
+                "flValor": "15000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 2338,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "VICI S.R.L",
+                "idParamTipoTitularidad": 88,
+                "txTipoTitularidad": "PARTICIPACIONES",
+                "flCantidad": 70.0,
+                "flValor": 70000.0,
+                "idHojaVida": 156806,
+                "idEstado": 1,
+                "txUsuario": "41160471",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

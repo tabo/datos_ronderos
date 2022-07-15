@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 26899,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2173,
+        "txOrganizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/52c7b29f-2b97-4a28-b6a4-1991a9408183.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/249011c2-145d-468c-bfa4-a7b9dcf9f908.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 229625,
+            "txPgProblema": "BAJO INDICE DE INVERSION EN SALUD",
+            "txPgObjetivo": "INCREMENTAR PROGRESIVAMENTE EL PRESUPUESTO EN SALU",
+            "txPgIndicador": "PORCENTAGE DEL PBI DE GASTO EN SALUD",
+            "txPgMeta": "EL PRESUPUESTO EN SALUD SE INCREMENTA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 229639,
+            "txPgProblema": "LA PRODUCCION NACIONAL HA DECRECIDO",
+            "txPgObjetivo": "PRESERVAR LA FORTALEZA MACROECONOMICA",
+            "txPgIndicador": "MACROECONOMICOS MEF",
+            "txPgMeta": "CONSOLIDAR LA REACTIVACION",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 229652,
+            "txPgProblema": "PERJUICIO AL MEDIO AMBIENTE",
+            "txPgObjetivo": "FOMENTAR EL MANEJO SOSTENIBLE DEL MEDIO AMBIENTE",
+            "txPgIndicador": "GOBIERNOS REGIONALES Y MUNICIPALES",
+            "txPgMeta": "PLAN DE MANEJO AMBIENTAL",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 229670,
+            "txPgProblema": "INSUFICIENTE CAPACIDAD DEL SISTEMA ANTICORRUPCION",
+            "txPgObjetivo": "REFORMAR EL MODELO ACTUAL",
+            "txPgIndicador": "PRESENCIA DE PROCURADURIA PUBLICA",
+            "txPgMeta": "PROCURADURIA ESPECIALIZADA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

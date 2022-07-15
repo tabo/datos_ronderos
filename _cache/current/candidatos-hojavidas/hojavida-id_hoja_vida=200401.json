@@ -1,0 +1,141 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 200401.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "23964654",
+        "nombres": "RENZO GUILLERMO",
+        "apellidoPaterno": "ROSAS",
+        "apellidoMaterno": "GOMEZ",
+        "sexo": "1",
+        "feNacimiento": "29/10/1966",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "220101",
+        "naciDepartamento": "TACNA",
+        "naciProvincia": "TACNA",
+        "naciDistrito": "TACNA",
+        "ubigeoDomicilio": "070108",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "CUSCO",
+        "domiDistrito": "WANCHAQ",
+        "domicilioDirecc": "URB. PROGRESO MZ. E LT. 1",
+        "ubigeoPostula": "070108",
+        "postulaDepartamento": "CUSCO",
+        "postulaProvincia": "CUSCO",
+        "postulaDistrito": "WANCHAQ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/200401.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2731.0,
+        "organizacionPolitica": "PODEMOS PERU",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 20:47:20",
+        "txGuidFormatoHojaVida": "06344b0f-4ba6-46ea-9deb-5fd4d40955f0",
+        "idSolicitudLista": 31556.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 202688,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "ACADEMIA DE FUTBOL RENZO SPORT",
+            "ocupacionProfesion": "PROMOTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "URB PROGRESO E-1",
+            "anioTrabajoDesde": "2007",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "070108",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CUSCO",
+            "trabajoProvincia": "CUSCO",
+            "trabajoDistrito": "WANCHAQ",
+            "idHojaVida": 200401,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 176069,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 200401,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 163192,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL DE SAN ANTONIO ABAD DEL CUSCO",
+                "carreraUni": "BACHILLER EN EDUCACIÓN",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2017",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 150988,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 17,
+            "orgPolRenunciaOp": "RENOVACION NACIONAL",
+            "anioRenunciaOp": "2012",
+            "idHojaVida": 200401,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 164847,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 24000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 200401,
+                "idEstado": 1,
+                "totalIngresos": 24000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

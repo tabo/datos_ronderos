@@ -1,0 +1,155 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 140177.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "45117347",
+        "nombres": "JAIME ALBERTO",
+        "apellidoPaterno": "ECHE",
+        "apellidoMaterno": "QUEREVALU",
+        "sexo": "1",
+        "feNacimiento": "27/08/1982",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "190704",
+        "naciDepartamento": "PIURA",
+        "naciProvincia": "TALARA",
+        "naciDistrito": "LOBITOS",
+        "ubigeoDomicilio": "190704",
+        "domiDepartamento": "PIURA",
+        "domiProvincia": "TALARA",
+        "domiDistrito": "LOBITOS",
+        "domicilioDirecc": "BARRIO PRIMAVERA MZ T 02 INT. 08",
+        "ubigeoPostula": "190704",
+        "postulaDepartamento": "PIURA",
+        "postulaProvincia": "TALARA",
+        "postulaDistrito": "LOBITOS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/140177.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2731.0,
+        "organizacionPolitica": "PODEMOS PERU",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 08:00:40",
+        "txGuidFormatoHojaVida": "dc13f626-95e5-4919-909e-ad9f7b7b65af",
+        "idSolicitudLista": 23487.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 256090,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MUNICIPALIDAD DISTRITAL DE LOBITOS",
+            "ocupacionProfesion": "SEGURIDAD CIUDADANA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "NUEVA CIUDAD LOBITOS SIN NÚMERO",
+            "anioTrabajoDesde": "2014",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "190704",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PIURA",
+            "trabajoProvincia": "TALARA",
+            "trabajoDistrito": "LOBITOS",
+            "idHojaVida": 140177,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 228673,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 140177,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 143815,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 1389,
+                "orgPolCargoPartidario": "CONTINUEMOS CON EL PROGRESO",
+                "cargoPartidario": "FUNDADOR",
+                "anioCargoPartiDesde": "2009",
+                "anioCargoPartiHasta": "2011",
+                "idHojaVida": 140177,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 168983,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1389,
+            "orgPolRenunciaOp": "CONTINUEMOS CON EL PROGRESO",
+            "anioRenunciaOp": "2011",
+            "idHojaVida": 140177,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 204724,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 4650.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 140177,
+                "idEstado": 1,
+                "totalIngresos": 4650.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 205179,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "A19828 ",
+                "valor": 5000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA FLORES, MODELO STILOS, COLOR ROJO",
+                "comentario": null,
+                "idHojaVida": 140177,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 182233.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42430477",
+        "nombres": "JULIO CESAR",
+        "apellidoPaterno": "QUISPE",
+        "apellidoMaterno": "HUANCA",
+        "sexo": "1",
+        "feNacimiento": "18/04/1984",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "071104",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "PAUCARTAMBO",
+        "naciDistrito": "CHALLABAMBA",
+        "ubigeoDomicilio": "071104",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "PAUCARTAMBO",
+        "domiDistrito": "CHALLABAMBA",
+        "domicilioDirecc": "COMUNID.MAJOPATA",
+        "ubigeoPostula": "071104",
+        "postulaDepartamento": "CUSCO",
+        "postulaProvincia": "PAUCARTAMBO",
+        "postulaDistrito": "CHALLABAMBA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/182233.jpg",
+        "estado": "APELACIÓN",
+        "idOrganizacionPolitica": 2368.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL INKA PACHAKUTEQ",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 18:25:00",
+        "txGuidFormatoHojaVida": "99139655-34df-4711-9814-31ac36ba58bc",
+        "idSolicitudLista": 29122.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 239051,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INSTITUCION EDUCATIVA - COMUNIDAD JAPU",
+            "ocupacionProfesion": "DOCENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "COMUNIDAD JAPU S/N",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "071104",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CUSCO",
+            "trabajoProvincia": "PAUCARTAMBO",
+            "trabajoDistrito": "CHALLABAMBA",
+            "idHojaVida": 182233,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "DOCENTE CONTRATADO"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 211020,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 182233,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 142525,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "I.S.P..P. VIRGEN DEL CARMEN",
+                "carreraNoUni": "PROFESOR",
+                "concluidoNoUni": "1",
+                "idHojaVida": 182233,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 163194,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 77,
+            "orgPolRenunciaOp": "ALIANZA REGIONAL DE INDEPENDIENTES",
+            "anioRenunciaOp": "2011",
+            "idHojaVida": 182233,
+            "idEstado": 1,
+            "txComentario": "AFILIACION CANCELADA"
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 191142,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 20300.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 182233,
+                "idEstado": 1,
+                "totalIngresos": 20300.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 195411,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "5324DX ",
+                "valor": 3200.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": null,
+                "idHojaVida": 182233,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

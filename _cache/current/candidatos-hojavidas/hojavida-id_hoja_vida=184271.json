@@ -1,0 +1,164 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 184271.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "28315622",
+        "nombres": "VILMA LEONOR",
+        "apellidoPaterno": "GALLARDO",
+        "apellidoMaterno": "AQUINO DE LEON",
+        "sexo": "2",
+        "feNacimiento": "17/01/1978",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050101",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "HUAMANGA",
+        "naciDistrito": "AYACUCHO",
+        "ubigeoDomicilio": "140139",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "CIENEGUILLA",
+        "domicilioDirecc": "AV LAS PALMERAS MZ. C1 LT. 27",
+        "ubigeoPostula": "140139",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "CIENEGUILLA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/184271.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL",
+            " REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 16:42:06",
+        "txGuidFormatoHojaVida": "5a731ac8-a1b7-4377-aa2c-925b80868b3b",
+        "idSolicitudLista": 29403.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 250179,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "VL INDUSTRIALES EIRL",
+            "ocupacionProfesion": "VENTAS",
+            "rucTrabajo": "20603720441",
+            "direccionTrabajo": "AV MANUEL SHOARD MANZANA R1 LOTE 3",
+            "anioTrabajoDesde": "2012",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140139",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "CIENEGUILLA",
+            "idHojaVida": 184271,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 221650,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 184271,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 156787,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "INSTITUTO SUPERIOR PEDAGOGICO PUBLICO NUESTRA SENORA DE LOURDES",
+                "carreraTecnico": "PROFESORA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 184271,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 199435,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 12000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 184271,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 245037,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "MZ C1 LOTE 27 - CIENEGUILLA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 10000.0,
+                "idHojaVida": 184271,
+                "idEstado": 1,
+                "flValor": "250000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 201598,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "C6M019 ",
+                "valor": 5000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CHEVROLET AVEO",
+                "comentario": null,
+                "idHojaVida": 184271,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

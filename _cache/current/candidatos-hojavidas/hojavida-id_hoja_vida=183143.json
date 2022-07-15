@@ -1,0 +1,150 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 183143.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40159678",
+        "nombres": "PIO MARCOS",
+        "apellidoPaterno": "ADRIANO",
+        "apellidoMaterno": "MORENO",
+        "sexo": "1",
+        "feNacimiento": "27/04/1977",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "020709",
+        "naciDepartamento": "ANCASH",
+        "naciProvincia": "HUAYLAS",
+        "naciDistrito": "YURACMARCA",
+        "ubigeoDomicilio": "020709",
+        "domiDepartamento": "ANCASH",
+        "domiProvincia": "HUAYLAS",
+        "domiDistrito": "YURACMARCA",
+        "domicilioDirecc": "CASERIOA SANTA ROSA",
+        "ubigeoPostula": "020709",
+        "postulaDepartamento": "ANCASH",
+        "postulaProvincia": "HUAYLAS",
+        "postulaDistrito": "YURACMARCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/183143.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 18:46:35",
+        "txGuidFormatoHojaVida": "64b8fab6-3c8a-4be6-b70f-94972d11f9ee",
+        "idSolicitudLista": 29244.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 208357,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASERIO DE SANTA ROSA",
+            "anioTrabajoDesde": "1990",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "020709",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ANCASH",
+            "trabajoProvincia": "HUAYLAS",
+            "trabajoDistrito": "YURACMARCA",
+            "idHojaVida": 183143,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 183409,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 183143,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 141639,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 108,
+                "orgPolCargoElec": "MOVIMIENTO INDEPENDIENTE NUEVO DESTINO",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2011",
+                "anioCargoElecHasta": "2014",
+                "idHojaVida": 183143,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 170447,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 9600.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 183143,
+                "idEstado": 1,
+                "totalIngresos": 9600.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 213718,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CASERIO DE SANTA ROSA",
+                "comentario": "CONSTANCIA DE POSECION",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 183143,
+                "idEstado": 1,
+                "flValor": "20000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

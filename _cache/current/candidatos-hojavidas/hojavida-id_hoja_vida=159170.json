@@ -1,0 +1,150 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 159170.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "09709608",
+        "nombres": "RODRIGO",
+        "apellidoPaterno": "VILLA",
+        "apellidoMaterno": "CALDERON",
+        "sexo": "1",
+        "feNacimiento": "13/03/1969",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "030305",
+        "naciDepartamento": "APURIMAC",
+        "naciProvincia": "ANDAHUAYLAS",
+        "naciDistrito": "HUANCARAY",
+        "ubigeoDomicilio": "030305",
+        "domiDepartamento": "APURIMAC",
+        "domiProvincia": "ANDAHUAYLAS",
+        "domiDistrito": "HUANCARAY",
+        "domicilioDirecc": "BARRIO OCCOCHO",
+        "ubigeoPostula": "030305",
+        "postulaDepartamento": "APURIMAC",
+        "postulaProvincia": "ANDAHUAYLAS",
+        "postulaDistrito": "HUANCARAY",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/159170.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 15:02:54",
+        "txGuidFormatoHojaVida": "d4bdfbe2-0f54-4367-bb5e-80b5687dd2e7",
+        "idSolicitudLista": 26033.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 202059,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CAMPO AGRICOLA",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ANEXO OCCOCHO - HUANCARAY",
+            "anioTrabajoDesde": "1979",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "030305",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "APURIMAC",
+            "trabajoProvincia": "ANDAHUAYLAS",
+            "trabajoDistrito": "HUANCARAY",
+            "idHojaVida": 159170,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 177900,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 159170,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 141091,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": -1,
+                "orgPolCargoElec": "LA PELOTA",
+                "idCargoEleccion": 14,
+                "cargoEleccion": "REGIDOR DE CENTRO POBLADO",
+                "anioCargoElecDesde": "2018",
+                "anioCargoElecHasta": "2022",
+                "idHojaVida": 159170,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 166316,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 2000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 159170,
+                "idEstado": 1,
+                "totalIngresos": 2000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 209091,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "VIVIENDA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "ANEXO OCCCHO - HUANCARAY",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 15.0,
+                "idHojaVida": 159170,
+                "idEstado": 1,
+                "flValor": "15000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

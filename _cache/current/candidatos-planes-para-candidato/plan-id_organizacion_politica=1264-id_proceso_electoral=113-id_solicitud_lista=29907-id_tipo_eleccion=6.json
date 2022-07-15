@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23233,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1264,
+        "txOrganizacionPolitica": "JUNTOS POR EL PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/9a8cf6a4-307e-435f-ab31-4054837d79f1.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/6b284dc2-f011-4612-b872-fa81803a824a.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 210161,
+            "txPgProblema": "LIMITADO ACCESO DE LAS VIVIENDAS AL SERVICIO DE AGUA Y SANEAMIENTO",
+            "txPgObjetivo": "MEJORAR LA HABITABILIDAD EN EL DISTRITO",
+            "txPgIndicador": "% DE VIVIENDAS CON ACCESO A AGUA Y DESAGÜE",
+            "txPgMeta": "90% DE LA VIVIENDAS CUENTAN CON ACCESO A AGUA Y DESAGÜE",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210208,
+            "txPgProblema": "LIMITADO ACCESO DE LAS VIVIENDAS AL SERVICIO DE ENERGÍA ELÉCTRICA",
+            "txPgObjetivo": "MEJORAR LA HABITABILIDAD EN EL DISTRITO",
+            "txPgIndicador": "% DE COBERTURA ELÉCTRICA",
+            "txPgMeta": "90% DE LA POBLACIÓN CUENTA CON COBERTURA ELÉCTRICA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210230,
+            "txPgProblema": "ENFERMEDADES EN LA PRIMERA INFANCIA",
+            "txPgObjetivo": "MEJORAR LAS CONDICIONES DE SALUD EN LA POBLACIÓN",
+            "txPgIndicador": "% DE ANEMIA EN NIÑOS MEMORES DE 5 AÑOS",
+            "txPgMeta": "REDUCIR AL 10% DE ANEMIA EN NIÑOS MENORES DE 5 AÑOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 210256,
+            "txPgProblema": "BAJA PRODUCTIVIDAD DE LA AGRICULTURA FAMILIAR",
+            "txPgObjetivo": "INCREMENTAR LA PRODUCTIVIDAD DE LA AGRICULTURA FAMILIAR",
+            "txPgIndicador": "INCREMENTO DE LA PRODUCCIÓN Y PRODUCTIVIDAD DE LA CEDULA DE CULTIVOS ANDINOS",
+            "txPgMeta": "UN 20% DE LA POBLACIÓN QUE SE DEDICA A LA ACTIVIDAD AGRÍCOLA INCREMENTA LA PRODUCTIVIDAD DE SUS CULTIVOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210273,
+            "txPgProblema": "DESAPROVECHAMIENTO DE RECURSOS TURÍSTICOS",
+            "txPgObjetivo": "FORTALECER LA OFERTA TURÍSTICA",
+            "txPgIndicador": "N° DE OFERTA TURÍSTICA FORTALECIDA",
+            "txPgMeta": "01 DESTINOS TURÍSTICOS FORTALECIDOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210289,
+            "txPgProblema": "ESCASO DESARROLLO PECUARIO",
+            "txPgObjetivo": "FORTALECER LA ACTIVIDAD PECUARIA",
+            "txPgIndicador": "% DE ANIMALES CRIADOS TÉCNICAMENTE",
+            "txPgMeta": "20 DE LAS FAMILIAS HAN IMPLEMENTADO PROCESOS DE CRIANZA TÉCNICA EN SUS ANIMALES",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 210313,
+            "txPgProblema": "INADECUADO MANEJO DE LOS RESIDUOS SOLIDOS",
+            "txPgObjetivo": "FORTALECER EL MANEJO DE LOS RESIDUOS SOLIDOS",
+            "txPgIndicador": "CANTIDAD DE RESIDUOS SÓLIDOS DEBIDAMENTE MANEJADOS",
+            "txPgMeta": "01 SISTEMA DE GESTIÓN DE RESIDUOS SÓLIDOS IMPLEMENTADOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210342,
+            "txPgProblema": "DÉBIL GOBERNANZA AMBIENTAL",
+            "txPgObjetivo": "MEJORAR LA CALIDAD DEL AMBIENTE EN EL DISTRITO",
+            "txPgIndicador": "N° DE PROMOTORES AMBIENTALES",
+            "txPgMeta": "10 PROMOTORES AMBIENTALES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 210375,
+            "txPgProblema": "ESCASOS ESPACIOS DE GESTIÓN CONCERTADA DEL TERRITORIO",
+            "txPgObjetivo": "PROMOVER LA CREACIÓN DE ESPACIOS DE DIÁLOGO",
+            "txPgIndicador": "N° DE ESPACIOS DE DIALOGO IMPLEMENTADOS",
+            "txPgMeta": "01 ESPACIO DE DIALOGO IMPLEMENTADO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210389,
+            "txPgProblema": "ESCASAS HERRAMIENTAS DE GESTIÓN MUNICIPAL",
+            "txPgObjetivo": "FORMULACIÓN DE HERRAMIENTAS DE GESTIÓN MUNICIPAL",
+            "txPgIndicador": "% DE HERRAMIENTAS DE GESTIÓN MUNICIPAL IMPLEMENTADAS",
+            "txPgMeta": "100% DE LAS HERRAMIENTAS DE GESTIÓN IMPLEMENTADAS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210405,
+            "txPgProblema": "DEFICIENTE ESTRUCTURA ORGANIZACIONAL DE LA MUNICIPALIDAD",
+            "txPgObjetivo": "RESTRUCTURACIÓN MUNICIPAL",
+            "txPgIndicador": "N° DE ESTRUCTURAS MUNICIPALES RESTRUCTURADAS",
+            "txPgMeta": "01 RESTRUCTURACIÓN MUNICIPAL IMPLEMENTADA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

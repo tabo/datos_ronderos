@@ -1,0 +1,178 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 139645.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "70443885",
+        "nombres": "JORGE ENRIQUE JESUS",
+        "apellidoPaterno": "LESCANO",
+        "apellidoMaterno": "CHAVEZ",
+        "sexo": "1",
+        "feNacimiento": "18/10/1996",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140135",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "EL AGUSTINO",
+        "ubigeoDomicilio": "140121",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "PUNTA NEGRA",
+        "domicilioDirecc": "MZ. W LT. 20 URB. LA MERCED",
+        "ubigeoPostula": "140121",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "PUNTA NEGRA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/139645.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2857.0,
+        "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "07/06/2022 21:21:55",
+        "txGuidFormatoHojaVida": "cad316bd-30d7-454d-85c9-379d43fb178a",
+        "idSolicitudLista": 23416.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 157827,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "TRANSPORTE HNOS LESCANO",
+            "ocupacionProfesion": "GERENTE",
+            "rucTrabajo": "10704438856",
+            "direccionTrabajo": "MZ W LT 20 URB LA MERCED PUNTA NEGRA",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140121",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "PUNTA NEGRA",
+            "idHojaVida": 139645,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 137836,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 139645,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 142990,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS S.A.C.",
+                "carreraUni": "BACHILLER EN ADMINISTRACIÓN Y NEGOCIOS INTERNACIONALES",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2021",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 136979,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 700000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 139645,
+                "idEstado": 1,
+                "totalIngresos": 700000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 149628,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 3,
+                "vehiculo": "CAMION",
+                "marca": null,
+                "placa": "F7B-745",
+                "valor": 45000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMION REMOLCADOR",
+                "comentario": null,
+                "idHojaVida": 139645,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 149625,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "CAMION CISTERNA",
+                "marca": null,
+                "placa": "D2O-940",
+                "valor": 30000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMION CISTERNA",
+                "comentario": "HERENCIA POR PARTE DE MADRE",
+                "idHojaVida": 139645,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 149623,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "CAMION CISTERNA",
+                "marca": null,
+                "placa": "BLD-708",
+                "valor": 10000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMION CISTERNA",
+                "comentario": null,
+                "idHojaVida": 139645,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

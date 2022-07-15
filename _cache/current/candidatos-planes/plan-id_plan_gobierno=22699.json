@@ -1,0 +1,85 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 22699,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1661,
+        "juradoElectoral": "CAÑETE",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/b81e0913-b6f2-431a-a515-97be31063922.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/99804dfb-57b5-405b-a2ae-39df62db0ead.pdf",
+        "txCodExpedienteExt": "ERM.2022011507",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 220244,
+            "txPgProblema": "ALTA INCIDENCIA DELICTIVA Y DE VIOLENCIA SOCIAL EN EL DISTRITO",
+            "txPgObjetivo": "REDUCIR LAS INCIDENCIAS DELICTIVAS Y DE VIOLENCIA SOCIAL EN EL DISTRITO.",
+            "txPgIndicador": "% DE DISMINUCION",
+            "txPgMeta": "DISMINUIR EN 50% LAS DENUNCIAS VINCULADOS A LA DELINCUENCIA Y VIOLENCIA SOCIAL",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 220781,
+            "txPgProblema": "LIMITADA CAPACIDAD DE SERVICIOS PARA LA ATENCIÓN DE LAS PERSONAS ADULTAS MAYORES DEL DISTRITO.",
+            "txPgObjetivo": "INCREMENTAR LA CAPACIDAD DE SERVICIOS PARA LA ATENCIÓN ADECUADA DE LOS ADULTOS MAYORES Y LA CREACION DE UN CENTRO GERONTOLOGICO MUNICIPAL PARA LOS ADULTOS MAYORES.",
+            "txPgIndicador": "% DE POBLACION DE ADULTO MAYOR",
+            "txPgMeta": "INCREMENTAR EN UN 100% LA PARTICIPACIÓN DE ADULTOS MAYORES EN EL CENTRO DE ATENCIÓN DEL ADULTO MAYOR (CIAM) DE MALA CON RESPECTO AL AÑO 2026.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 220338,
+            "txPgProblema": "DÉBIL CAPACIDAD DE ORGANIZACIÓN DEL SECTOR COMERCIO",
+            "txPgObjetivo": "ORGANIZACIONES PRODUCTIVA DIVERSIFICADA, COMPETITIVA, SOSTENIBLE Y CON ALTO VALOR AGREGADO Y PRODUCTIVIDAD",
+            "txPgIndicador": "NUMERO DE ORGANIZACIONES FORMALIZADAS",
+            "txPgMeta": "FORMALIZACIÓN DE LAS ORGANIZACIONES DEL SECTOR COMERCIO (02 ORGANIZACIONES FORMALIZADAS).",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 220651,
+            "txPgProblema": "FALTA DE CAPACITACION A LOS EMPRENDEDORES",
+            "txPgObjetivo": "BRINDAR CAPACITACIONES, TALLER, FACILIDADES A LOS EMPRENDEDORES",
+            "txPgIndicador": "% POBLACIONAL",
+            "txPgMeta": "SE PROPONE A LOGRAR EL 50%  DEL CUMPLIMIENTO DEL OBJETIVO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 220555,
+            "txPgProblema": "INADECUADOS SISTEMA DE GESTIÓN DE RESIDUOS SOLIDOS",
+            "txPgObjetivo": "CALIDAD AMBIENTAL MEJORADA Y GESTIONADA CON ENFOQUE INTEGRAL",
+            "txPgIndicador": "% DE POBLACIÓN SENSIBILIZADA EN REUSAR, RECICLAR Y REAPROVECHAR",
+            "txPgMeta": "POBLACIÓN SENSIBILIZADA EN REUSAR, RECICLAR Y REAPROVECHAR EN UN (100%)",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 220708,
+            "txPgProblema": "DEFICIENTE SERVICIO DE ATENCIÓN PUBLICA",
+            "txPgObjetivo": "ADECUADA PRESTACIÓN DE LOS SERVICIOS PÚBLICOS",
+            "txPgIndicador": "% DE SERVIDORES PÚBLICOS ADECUADAMENTE CAPACITADO EN GESTIÓN PÚBLICA",
+            "txPgMeta": "ADECUADO SERVICIO AL CIUDADANO (100% DE DEL PERSONAL ADECUADAMENTE CAPACITADO EN GESTIÓN PÚBLICA POR RESULTADOS)",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

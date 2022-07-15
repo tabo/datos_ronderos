@@ -1,0 +1,128 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 235123.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43311322",
+        "nombres": "JOSUE",
+        "apellidoPaterno": "MENDOZA",
+        "apellidoMaterno": "SALAS",
+        "sexo": "1",
+        "feNacimiento": "28/08/1985",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "210505",
+        "naciDepartamento": "SAN MARTIN",
+        "naciProvincia": "RIOJA",
+        "naciDistrito": "NUEVA CAJAMARCA",
+        "ubigeoDomicilio": "210910",
+        "domiDepartamento": "SAN MARTIN",
+        "domiProvincia": "PICOTA",
+        "domiDistrito": "SHAMBOYACU",
+        "domicilioDirecc": "SECTOR SHAMBOYAQUILLO",
+        "ubigeoPostula": "210910",
+        "postulaDepartamento": "SAN MARTIN",
+        "postulaProvincia": "PICOTA",
+        "postulaDistrito": "SHAMBOYACU",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/235123.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 22.0,
+        "organizacionPolitica": "RENOVACION POPULAR",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 00:26:55",
+        "txGuidFormatoHojaVida": "00a39051-f251-4e29-b1c6-f32609679f36",
+        "idSolicitudLista": 35745.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 230293,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CONTABILIDAD",
+            "ocupacionProfesion": "JEFE DE AREA DE CONTABILIDAD",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR. PICOTA S/N - SHAMBOYACU",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "210910",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "SAN MARTIN",
+            "trabajoProvincia": "PICOTA",
+            "trabajoDistrito": "SHAMBOYACU",
+            "idHojaVida": 235123,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 203253,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 235123,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 185292,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 20000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 235123,
+                "idEstado": 1,
+                "totalIngresos": 20000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 190901,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "1434JS ",
+                "valor": 2500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": null,
+                "idHojaVida": 235123,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

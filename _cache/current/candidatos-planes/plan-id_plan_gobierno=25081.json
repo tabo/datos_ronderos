@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 25081,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1257,
+        "txOrganizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1693,
+        "juradoElectoral": "LIMA CENTRO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/02f43534-7762-46d5-9a57-6e6d5d244cc9.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/19b83c90-d565-464a-8925-36c88f77104c.pdf",
+        "txCodExpedienteExt": "ERM.2022018060",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 210739,
+            "txPgProblema": "TRÁNSITO, CIRCULACIÓN Y TRANSPORTE PÚBLICO",
+            "txPgObjetivo": "DISMINUIR LA CONTAMINACIÓN VISUAL DE AUTOS ABANDONADOS EN LAS CALLES Y DESCONGESTIONAR LAS MISMAS MEDIANTE UNA FISCALIZACIÓN DE AUTOS.",
+            "txPgIndicador": "% DE AUTOS ABANDONADOS",
+            "txPgMeta": "0% DE AUTOS ABANDONADOS EN EL DISTRITO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210806,
+            "txPgProblema": "CALIDAD Y COBERTURA DE LOS SERVICIOS DE AGUA Y DESAGÜE",
+            "txPgObjetivo": "FOMENTAR UNA CAMPAÑA SOBRE EL BUEN USO DEL AGUA POTABLE",
+            "txPgIndicador": "% DE CIUDADANOS CONCIENTIZADOS",
+            "txPgMeta": "INCREMENTAR EN UN 80% LA CONCIENTIZACIÓN POR EL USO DEL AGUA POTABLE.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210834,
+            "txPgProblema": "INSEGURIDAD CIUDADANA",
+            "txPgObjetivo": "MEJORAMIENTO DE ALUMBRADO PÚBLICO DE LAS ZONAS COMERCIALES Y ZONAS DE RECREACIÓN.",
+            "txPgIndicador": "% DE COBERTURA DEL DISTRITO CON ALUMBRADO PÚBLICO",
+            "txPgMeta": "100% DE COBERTURA EN ALUMBRADO PÚBLICO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 210864,
+            "txPgProblema": "PROGRAMAS DE APOYO",
+            "txPgObjetivo": "PROGRAMAS DE CAPACITACIÓN PARA EL AUTOEMPLEO DE LAS PERSONAS DE LA TERCERA EDAD.",
+            "txPgIndicador": "% DE CIUDADANOS BENEFICIARIOS",
+            "txPgMeta": "INCREMENTAR EN UN 60% EL NÚMERO DE BENEFICIARIOS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210880,
+            "txPgProblema": "VECINOS CON DISCAPACIDAD Y HABILIDADES DIFERENTES.",
+            "txPgObjetivo": "CAPACITACIONES EMPRENDEDORAS Y LABORALES PARA VECINOS CON DISCAPACIDAD Y HABILIDADES DIFERENTES.",
+            "txPgIndicador": "% DE CIUDADANOS BENEFICIARIOS",
+            "txPgMeta": "INCREMENTAR EN UN 60% EL NÚMERO DE BENEFICIARIOS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210903,
+            "txPgProblema": "JÓVENES, MADRES SOLTERAS Y ADULTOS MAYORES",
+            "txPgObjetivo": "DESARROLLO DE CAPACIDADES LABORALES, ADMINISTRATIVAS Y EMPRENDEDORAS",
+            "txPgIndicador": "% DE CIUDADANOS BENEFICIARIOS",
+            "txPgMeta": "INCREMENTAR EN UN 60% EL NÚMERO DE BENEFICIARIOS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 210914,
+            "txPgProblema": "RESIDUOS SÓLIDOS",
+            "txPgObjetivo": "REFORZAR LAS CAMPAÑAS EDUCACIONALES SOBRE LAS VENTAJAS ECONÓMICAS Y AMBIENTALES QUE SE CONSIGUEN AL RECICLAR LOS RESIDUOS SÓLIDOS.",
+            "txPgIndicador": "% DE CIUDADANOS CAPACITADOS",
+            "txPgMeta": "EL 100% DE NUESTROS VECINOS DEBE SER EDUCADO EN LA GESTIÓN DE RESIDUOS SÓLIDOS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210922,
+            "txPgProblema": "MEDIO AMBIENTE",
+            "txPgObjetivo": "IMPLEMENTARÁ UN PROGRAMA QUE FORME VECINOS RESPONSABLES CON EL MEDIO AMBIENTE DIRIGIDO A LÍDERES VECINALES, BRIGADISTAS AMBIENTALES ESCOLARES, ALCALDÍAS ESCOLARES Y VOLUNTARIOS AMBIENTALES JUVENILES.",
+            "txPgIndicador": "% DE VECINOS REGISTRADOS",
+            "txPgMeta": "500 VECINOS REGISTRADOS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210933,
+            "txPgProblema": "ÁREAS VERDES",
+            "txPgObjetivo": "PRIORIZAR LA SIEMBRA EN LAS ÁREAS VERDES QUE ESTÉN MALTRATADAS.",
+            "txPgIndicador": "% DE ÁREAS VERDES SEMBRADAS",
+            "txPgMeta": "EL 100% DE NUESTRAS ÁREAS VERDES DEBEN ESTAR EN CONDICIONES OPTIMAS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 210949,
+            "txPgProblema": "PRESUPUESTO PARTICIPATIVO",
+            "txPgObjetivo": "INCENTIVAR LA PARTICIPACIÓN DE VECINOS Y VECINAS PARA EL PRESUPUESTO PARTICIPATIVO.",
+            "txPgIndicador": "% DE PARTICIPACIÓN DE VECINOS Y VECINAS.",
+            "txPgMeta": "ALCANZAR AL 90% DE PARTICIPACIÓN DE VECINOS Y VECINAS.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210959,
+            "txPgProblema": "SERVIDORES PÚBLICOS",
+            "txPgObjetivo": "FORTALECER LAS COMPETENCIAS DE LOS SERVIDORES PÚBLICOS DE LA MDJM",
+            "txPgIndicador": "% DE FUNCIONARIOS CAPACITADOS",
+            "txPgMeta": "EL 80% DE FUNCIONARIOS SE ENCUENTREN CAPACITADOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210978,
+            "txPgProblema": "AUDIENCIAS PÚBLICAS",
+            "txPgObjetivo": "IMPLEMENTAR MECANISMOS TECNOLÓGICOS PARA CUMPLIR CON LAS AUDIENCIA PÚBLICAS",
+            "txPgIndicador": "% DE PARTICIPACIÓN EN AUDIENCIAS PÚBLICAS",
+            "txPgMeta": "INCREMENTAR EN UN 50% LA PARTICIPACIÓN DE AUDIENCIAS PÚBLICAS.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

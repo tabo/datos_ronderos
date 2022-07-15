@@ -1,0 +1,125 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23218,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2680,
+        "txOrganizacionPolitica": "MOVIMIENTO REGIONAL SIERRA Y SELVA CONTIGO JUNIN",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1669,
+        "juradoElectoral": "CONCEPCION",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/a25d3adf-20a2-496d-9c1e-f0750f81249c.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/457ed632-6de8-44ac-bac4-e232afc1419b.pdf",
+        "txCodExpedienteExt": "ERM.2022006414",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 159142,
+            "txPgProblema": "CENTRO DE SALUD CON PÉSIMA INFRAESTRUCTURA Y SIN EQUIPAMIENTO.",
+            "txPgObjetivo": "CENTRO DE SALUD CON BUENA INFRAESTRUCTURA Y EQUIPAMIENTO.",
+            "txPgIndicador": "PORCENTAJE DE CENTROS DE SALUD CON BUENA INFRAESTRUCTURA Y EQUIPAMIENTO.",
+            "txPgMeta": "0% CENTRO DE SALUD QUE AMERITAN MEJORAS EN INFRAESTRUCTURA Y EQUIPAMIENTO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159154,
+            "txPgProblema": "INFRAESTRUCTURA EDUCATIVA PÚBLICA QUE REQUIEREN REPARACIÓN Y EQUIPAMIENTO.",
+            "txPgObjetivo": "INFRAESTRUCTURA EDUCATIVA PÚBLICA CON ÓPTIMAS CONDICIONES Y EQUIPAMIENTO",
+            "txPgIndicador": "PORCENTAJE DE INFRAESTRUCTURA EDUCATIVA PÚBLICA CON ÓPTIMAS CONDICIONES Y EQUIPAMIENTO.",
+            "txPgMeta": "0%  DE INSTITUCIONES EDUCATIVAS PÚBLICAS QUE REQUIEREN REPARACIÓN Y EQUIPAMIENTO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159163,
+            "txPgProblema": "POBLACIÓN SIN ACCESIBILIDAD DE AGUA POR RED PÚBLICA",
+            "txPgObjetivo": "PROPORCIONAR LA ACCESIBILIDAD DE AGUA POR RED PÚBLICA.",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN SIN ACCESO AGUA POR RED PÚBLICA",
+            "txPgMeta": "0% DE POBLACIÓN SIN ACCESO AGUA POR RED PÚBLICA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 159173,
+            "txPgProblema": "HECTÁREAS DE TIERRAS QUE NO CUENTAN CON RIEGO",
+            "txPgObjetivo": "ABASTECER DE SISTEMAS DE RIEGO A TIERRAS AGRÍCOLAS.",
+            "txPgIndicador": "PORCENTAJE DE HECTÁREAS SIN RIEGO",
+            "txPgMeta": "50% DE HECTÁREAS SIN RIEGO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159183,
+            "txPgProblema": "INFRAESTRUCTURA VIAL RURAL Y VECINAL EN PÉSIMAS CONDICIONES.",
+            "txPgObjetivo": "PROMOVER PROYECTOS DE INFRAESTRUCTURA VIAL RURAL Y VECINAL.",
+            "txPgIndicador": "PORCENTAJE DE INFRAESTRUCTURA VIAL RURAL Y VECINAL EN ÓPTIMAS CONDICIONES.",
+            "txPgMeta": "70% DE INFRAESTRUCTURA VIAL RURAL Y VECINAL EN ÓPTIMAS CONDICIONES",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 159206,
+            "txPgProblema": "CONTAMINACIÓN AMBIENTAL POR RESIDUOS SÓLIDOS GENERADOS POR LA POBLACIÓN",
+            "txPgObjetivo": "VIVIENDAS CON COBERTURA DEL SERVICIO DE RECOLECCIÓN DE RESIDUOS SÓLIDOS.",
+            "txPgIndicador": "PORCENTAJE DE VIVIENDAS CON COBERTURA DEL SERVICIO DE RECOLECCIÓN DE RESIDUO SÓLIDOS EN PREDIOS,",
+            "txPgMeta": "80% DE VIVIENDAS CON COBERTURA DEL SERVICIO DE RECOLECCIÓN DE RESIDUO SÓLIDOS EN PREDIOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159214,
+            "txPgProblema": "RIESGO DE DESBORDE DE RÍOS, CUNETAS Y DRENAJES.",
+            "txPgObjetivo": "CAUCES DE RÍOS, CUNETAS, DRENAJES Y ESTRUCTURAS DE SEGURIDAD FÍSICA EN ÓPTIMAS CONDICIONES",
+            "txPgIndicador": "PORCENTAJE DE CAUCES DE RÍOS, CUNETAS, DRENAJES Y ESTRUCTURAS DE SEGURIDAD FÍSICA EN ÓPTIMAS CONDICIONES",
+            "txPgMeta": "70% DE CAUCES DE RÍOS, CUNETAS, DRENAJES Y ESTRUCTURAS DE SEGURIDAD FÍSICA EN ÓPTIMAS CONDICIONES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 159233,
+            "txPgProblema": "GOBIERNO LOCAL SIN HERRAMIENTAS DE GESTIÓN",
+            "txPgObjetivo": "DISEÑO E IMPLEMENTACIÓN DE DEL PLANEAMIENTO ESTRATÉGICO INSTITUCIONAL PARA EL DESARROLLO LOCAL.",
+            "txPgIndicador": "PORCENTAJE DE CUMPLIMIENTO DEL PLAN ESTRATÉGICO INSTITUCIONAL",
+            "txPgMeta": "90% DE CUMPLIMIENTO DEL PLAN ESTRATÉGICO INSTITUCIONAL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159249,
+            "txPgProblema": "GOBIERNO LOCAL BUROCRÁTICO Y SIN TRANSPARENCIA.",
+            "txPgObjetivo": "IMPLEMENTACIÓN DE UN GOBIERNO DIGITAL, CON MECANISMOS DE TRANSPARENCIA Y PARTICIPACIÓN ACTIVA DE LA POBLACIÓN",
+            "txPgIndicador": "PORCENTAJE DE IMPLEMENTACIÓN DE UN GOBIERNO DIGITAL, CON MECANISMOS DE TRANSPARENCIA Y PARTICIPACIÓN ACTIVA DE LA POBLACIÓN",
+            "txPgMeta": "90%  DE AVANCE DE LA IMPLEMENTACIÓN DE UN GOBIERNO DIGITAL, CON MECANISMOS DE TRANSPARENCIA Y PARTICIPACIÓN ACTIVA DE LA POBLACIÓN",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159261,
+            "txPgProblema": "COLABORADORES MUNICIPALES CON ESCASA ESPECIALIZACIÓN.",
+            "txPgObjetivo": "CAPACITACIÓN AL COLABORADOR MUNICIPAL PARA BRINDAR UN SERVICIO EFICIENTE.",
+            "txPgIndicador": "PORCENTAJE DE TRABAJADORES MUNICIPALES CAPACITADOS",
+            "txPgMeta": "95% DE TRABAJADORES MUNICIPALES CAPACITADOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

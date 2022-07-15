@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 161731.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42859908",
+        "nombres": "VICTOR HUGO",
+        "apellidoPaterno": "YATACO",
+        "apellidoMaterno": "ANTON",
+        "sexo": "1",
+        "feNacimiento": "13/02/1983",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "100201",
+        "naciDepartamento": "ICA",
+        "naciProvincia": "CHINCHA",
+        "naciDistrito": "CHINCHA ALTA",
+        "ubigeoDomicilio": "100205",
+        "domiDepartamento": "ICA",
+        "domiProvincia": "CHINCHA",
+        "domiDistrito": "GROCIO PRADO",
+        "domicilioDirecc": "PSJ.JOSE MARIA 112 BARRIO SARAVIA",
+        "ubigeoPostula": "100205",
+        "postulaDepartamento": "ICA",
+        "postulaProvincia": "CHINCHA",
+        "postulaDistrito": "GROCIO PRADO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/161731.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 16:09:28",
+        "txGuidFormatoHojaVida": "8e8c2069-e5d6-4e58-b44e-d51964a8f9ef",
+        "idSolicitudLista": 26385.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 213222,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDUSTRIAS RENDA SAC",
+            "ocupacionProfesion": "ELECTRICISTA INDRUSTRIAL",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CARRETERA PANAMERICANA SUR KM 201",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "100201",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ICA",
+            "trabajoProvincia": "CHINCHA",
+            "trabajoDistrito": "CHINCHA ALTA",
+            "idHojaVida": 161731,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 187851,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 161731,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 147879,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "SENATI",
+                "carreraTecnico": "TECNICO ELECTRICISTA INDUSTRIAL",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 161731,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 155201,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2244,
+            "orgPolRenunciaOp": "MOVIMIENTO REGIONAL OBRAS POR LA MODERNIDAD",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 161731,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 173760,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 22920.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 161731,
+                "idEstado": 1,
+                "totalIngresos": 22920.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 181840,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "Y12513 ",
+                "valor": 2500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": null,
+                "idHojaVida": 161731,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

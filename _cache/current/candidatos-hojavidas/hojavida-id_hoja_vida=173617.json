@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 173617.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43222266",
+        "nombres": "FRANK JERLY",
+        "apellidoPaterno": "ACOSTA",
+        "apellidoMaterno": "MENDOZA",
+        "sexo": "1",
+        "feNacimiento": "16/07/1985",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040413",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "CARAVELI",
+        "naciDistrito": "YAUCA",
+        "ubigeoDomicilio": "040407",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "CARAVELI",
+        "domiDistrito": "CHALA",
+        "domicilioDirecc": "AV. 8 DE DICIEMBRE 36 ASENT.H. LA AGUADITA MZ. 36 LT. 03",
+        "ubigeoPostula": "040407",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "CARAVELI",
+        "postulaDistrito": "CHALA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/173617.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 18:06:00",
+        "txGuidFormatoHojaVida": "d9104511-9348-4c65-9846-0bf480cba200",
+        "idSolicitudLista": 27991.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 215320,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "I.E. MARIANO MELGAR",
+            "ocupacionProfesion": "DOCENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE HUANUCO S/N",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "040408",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "CARAVELI",
+            "trabajoDistrito": "CHAPARRA",
+            "idHojaVida": 173617,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 189755,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 173617,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 140489,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "I.E.P.",
+                "carreraNoUni": "PROFESOR DE EDUCACIÓN FÍSICA",
+                "concluidoNoUni": "1",
+                "idHojaVida": 173617,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 155939,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2731,
+            "orgPolRenunciaOp": "PODEMOS PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 173617,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 175294,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 2400.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 173617,
+                "idEstado": 1,
+                "totalIngresos": 2400.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 183042,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "6352PB ",
+                "valor": 2600.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO SCOOTER 6352-PB",
+                "comentario": null,
+                "idHojaVida": 173617,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

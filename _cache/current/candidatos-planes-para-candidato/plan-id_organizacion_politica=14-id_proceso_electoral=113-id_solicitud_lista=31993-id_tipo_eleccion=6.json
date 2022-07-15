@@ -1,0 +1,95 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 25319,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/a36f3fab-f54f-41e2-92e3-22e257ffe33d.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/e843abdd-36f4-404b-86a6-c4f5c606ce15.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 226310,
+            "txPgProblema": "DEFICIENTE CALIDAD EDUCATIVA EN EL DISTRITO DE ANGASMARCA",
+            "txPgObjetivo": "MEJORAR LA COBERTURA Y CALIDAD DE LA EDUCACIÓN BÁSICA REGULAR DEL ANGASMARCA",
+            "txPgIndicador": "% DE ESTUDIANTES MATRICULADOS \n% DE ESTUDIANTES QUE LOGRAN INGRESAR A LA UNIVERSIDAD",
+            "txPgMeta": "INCREMENTAR LA COBERTURA EN UN 25%\nINCREMENTAR LOS INGRESOS A LA UNIVERSIDAD DE ESTUDIANTES ANGASMARQUINOS EN UN 50%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 226401,
+            "txPgProblema": "DEFICIENTE COBERTURA DE LOS SERVICIOS DE SALUD EN EL DISTRITO DE ANGASMARCA",
+            "txPgObjetivo": "MEJORAR LA COBERTURA Y CALIDAD DEL SERVICIO DE SALUD DEL DISTRITO DE ANGASMARCA",
+            "txPgIndicador": "% DE ATENCIONES MEDICAS PRIMARIAS EN LA ZONA RURAL Y URBANA\n% DE  DISMINUCION DE LA ANEMIA Y DESNUTRICION EN EL DISTRITO \n% DE INFRAESTRUCTURA HOSPITALARIA  CONSTRUIDA A NVEL DISTRITAL\n% DE ATENCIONES EN LAS CAMPAÑAS DE SALUD  PREVENTIVA",
+            "txPgMeta": "COBERTURA DEL 100% DE LA POBLACION \nINCREMETAR EN UN 25% LA  INFRAESTRUCTURA MEDICA  A NIVEL DISTRITAL\nREDUCIR EN UN 25% LA DESNUTRICION CRONICA EN EL DISTRITO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 226767,
+            "txPgProblema": "DEFICIENTE COBERTURA DE UNIDADES BÁSICAS DE SANEAMIENTO EN EL DISTRITO DE ANGASMARCA",
+            "txPgObjetivo": "MEJORAR LA COBERTURA Y CALIDAD DE SANEAMIENTO DEL DISTRITO DE ANGASMARCA",
+            "txPgIndicador": "% DE VIVIENDAS CON AGUA POTABLE\n% DE VIVIENDAS CON DESAGUE\n% DE  VIVIENDAS DE ELECTRIFICADAS",
+            "txPgMeta": "25% DE VIVIENDAS CON SERVICO DE AGUA Y DESAGUE\n25% DE VIVIENDAS ELECTRFICADAS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 226895,
+            "txPgProblema": "BAJOS INGRESOS ECONÓMICOS POR LA POCA PRODUCTIVIDAD AGROPECUARIA Y FORESTAL",
+            "txPgObjetivo": "MEJORAR LOS NIVELES DE COMPETITIVIDAD AGROPECUARIA SOSTENIBLE",
+            "txPgIndicador": "% DE AGRICULTORES CAPACITADOS\n% DE CADENAS PRODUCTIVAS CREADAS Y FORTALECIDAS\n% DE CANALES DE RIEGO MEJORADOS",
+            "txPgMeta": "INCREMENTAR  EN UN 50% LOS AGRICULTORES CAPACITADOS EN ASUNTOS AGROPECUARIOS Y PECUARIOS\nINCREMENTAR EL % DE CADENAS PRODUCTIVAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 226967,
+            "txPgProblema": "DEFICIENTE ACCESO CARROZABLE AL DISTRITO Y CASERÍOS DE ANGASMARCA",
+            "txPgObjetivo": "IMPLEMENTAR LA ARTICULACIÓN TERRITORIAL DEL DISTRITO DE ANGASMARCA",
+            "txPgIndicador": "% DE CARRETERAS, Y CAMINOS MEJORADOS",
+            "txPgMeta": "INCREMENTAR EN UN 50% EL MEJORAMIENTO Y MANTENIMIENTO DE CARRETERAS Y CAMINOS A NIVEL DISTRITAL",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 227066,
+            "txPgProblema": "ESCASO MANEJO DE LOS RECURSOS HÍDRICOS EN EL DISTRITO DE ANGASMARCA",
+            "txPgObjetivo": "IMPULSAR LA CONSERVACIÓN, PROTECCIÓN Y BUEN USO DE RECURSOS NATURALES",
+            "txPgIndicador": "% DE AREAS FORESTALES RECUPERADAS\n% ZONAS DE FLORESTACION DE CABECERAS DE CUENCA CREADAS",
+            "txPgMeta": "RECUPERAR EN UN 30% LAS AREAS FORESTALES\nINCREMENTAR EN UN 100% LAS AREAS NUEVAS DE FORESTACION",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 227125,
+            "txPgProblema": "DEFICIENCIA EN LA GESTIÓN MUNICIPAL DEL DISTRITO DE ANGASMARCA",
+            "txPgObjetivo": "MEJORAR LA CALIDAD Y EFICIENCIA DE LA GESTIÓN PÚBLICA",
+            "txPgIndicador": "% DE INSTRUMENTOS DE GESTION  ELABORADOS Y EN USO",
+            "txPgMeta": "USO AL 100% DE LOS INSTRUMENTOS DE GESTION",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

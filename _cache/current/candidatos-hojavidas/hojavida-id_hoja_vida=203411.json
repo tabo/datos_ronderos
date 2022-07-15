@@ -1,0 +1,146 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 203411.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "71462199",
+        "nombres": "GERALD HUGO",
+        "apellidoPaterno": "DELGADO",
+        "apellidoMaterno": "CAHUA",
+        "sexo": "1",
+        "feNacimiento": "26/09/1995",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "100101",
+        "naciDepartamento": "ICA",
+        "naciProvincia": "ICA",
+        "naciDistrito": "ICA",
+        "ubigeoDomicilio": "100113",
+        "domiDepartamento": "ICA",
+        "domiProvincia": "ICA",
+        "domiDistrito": "PACHACUTEC",
+        "domicilioDirecc": "AV.PACHACUTEC 08",
+        "ubigeoPostula": "100113",
+        "postulaDepartamento": "ICA",
+        "postulaProvincia": "ICA",
+        "postulaDistrito": "PACHACUTEC",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/203411.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 22.0,
+        "organizacionPolitica": "RENOVACION POPULAR",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 03:56:40",
+        "txGuidFormatoHojaVida": "4dd77518-4990-4b9f-82e7-1d64f7f3a8d4",
+        "idSolicitudLista": 31943.0,
+        "txComentario": "DIRECCION EXACTA  AV. PACHACUTEC N-08"
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 173580,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "HOTEL LAS DUNAS",
+            "ocupacionProfesion": "HOUSE RIPPING",
+            "rucTrabajo": null,
+            "direccionTrabajo": "RESIDENCIAL LA ANGOSTURA",
+            "anioTrabajoDesde": "2014",
+            "anioTrabajoHasta": "2015",
+            "ubigeoTrabajo": "100101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ICA",
+            "trabajoProvincia": "ICA",
+            "trabajoDistrito": "ICA",
+            "idHojaVida": 203411,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 152243,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 203411,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 150741,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD SAN JUAN BAUTISTA",
+                "carreraUni": "ADMINISTRACION DE EMPESA",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "CURSE HASTA EL 3ER CICLO"
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 147576,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 15000.0,
+                "idHojaVida": 203411,
+                "idEstado": 1,
+                "totalIngresos": 15000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 159533,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "3414LA ",
+                "valor": 10000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOTAXI BAJAJ",
+                "comentario": null,
+                "idHojaVida": 203411,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

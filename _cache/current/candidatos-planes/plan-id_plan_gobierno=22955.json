@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 22955,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2869,
+        "txOrganizacionPolitica": "PARTIDO PATRIOTICO DEL PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1696,
+        "juradoElectoral": "LIMA NORTE 1",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/b4cbe5f5-93e4-4225-b812-d0b311e0abbd.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/59018273-3635-46f5-bb40-cb3dac27fcc5.pdf",
+        "txCodExpedienteExt": "ERM.2022015097",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 210720,
+            "txPgProblema": "EXCESO DE DELINCUENCIA EN LA ACTUALIDAD.",
+            "txPgObjetivo": "ELIMINAR LA DELINCUENCIA QUE VIENE AZOTANDO A LA POBLACIÓN.",
+            "txPgIndicador": "CERO DELINCUENCIA.",
+            "txPgMeta": "HACER DE LOS OLIVOS UN DISTRITO SEGURO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 210786,
+            "txPgProblema": "DEMASIADA INFORMALIDAD Y DESEMPLEO.",
+            "txPgObjetivo": "REDUCIR LA INFORMALIDAD Y CREAR PUESTOS DE TRABAJO",
+            "txPgIndicador": "INCREMENTO DEL EMPLEO EN 60% Y REDUCCIÓN DE LA INFORMALIDAD EN UN 80%.",
+            "txPgMeta": "AL 2026, SER UN DISTRITO PRÓSPERO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 210865,
+            "txPgProblema": "CONTAMINANCIÓN AMBIENTAL POR LA ACUMULACIÓN DE BASURA EN LA CIUDAD.",
+            "txPgObjetivo": "ELIMINAR EL ERROJO DE BASURA EN LAS CALLES DEL DISTRITO.",
+            "txPgIndicador": "CERO% DE BASURA EN LAS CALLES DE LA CIUDAD.",
+            "txPgMeta": "DISTRITO ECOLOGICO EN EL AÑO 2026.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 210889,
+            "txPgProblema": "DESCONFIANZA DE LA POBLACIÓN POR LAS AUTORIDADES MUNICIPALES",
+            "txPgObjetivo": "TRABAJAR CON LOS ACTORES SOCIALES DE LA PROVINCIA Y FORTALECER LA CONFIANZA ENTRE LAS AUTORIDADES Y LOS VECINOS",
+            "txPgIndicador": "TRABAJO COORDINADO ENTRE ADMINISTRADORES Y ADMINISTRADOS.",
+            "txPgMeta": "FORTALECIMIENTO INSTITUCIONAL Y CONFIANZA DE LA POBLACIÓN EN GENERAL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

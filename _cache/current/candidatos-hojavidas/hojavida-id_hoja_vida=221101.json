@@ -1,0 +1,153 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 221101.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "15587672",
+        "nombres": "OMAR ALFREDO",
+        "apellidoPaterno": "MARTINEZ",
+        "apellidoMaterno": "TREVEJO",
+        "sexo": "1",
+        "feNacimiento": "30/10/1956",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140507",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "HUAURA",
+        "naciDistrito": "HUAURA",
+        "ubigeoDomicilio": "140501",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "HUAURA",
+        "domiDistrito": "HUACHO",
+        "domicilioDirecc": "AV. LIBERTAD 408",
+        "ubigeoPostula": "140500",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "HUAURA",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/221101.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 11:46:59",
+        "txGuidFormatoHojaVida": "d821720e-4fef-4a4b-ae4b-0c0db99fc42b",
+        "idSolicitudLista": 34104.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 197108,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 221101,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 150272,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "COLEGIO PRE VOCACIONAL",
+                "carreraTecnico": "CARPINTERIA",
+                "concluidoEduTecnico": "2",
+                "idHojaVida": 221101,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 173872,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL JOSÉ FAUSTINO SÁNCHEZ CARRIÓN",
+                "carreraUni": "LICENCIADO EN SOCIOLOGIA",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2010",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 145340,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "TENGO UNA PROPIEDAD QUE SE VENDIO CON UN VALOR DE 35000 SOLES APROX.\nTENGO UNA PROPIEDAD JR. LA LIBERTAD Nª 408 - AMAY QUE NO SE ENCUENTRA REGISTRADA EN REGISTROS PUBLICOS 80000\nSOY UNA PERSONA QUE TENGO UN INGRESO ANUAL DE 11160 APROX",
+            "idHojaVida": 221101,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 225130,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "  MZ B LOTE 18 AA.HH SEÑOR DE LOS MILAGROS HUACHO - HUAURA - LIMA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "50091328",
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 221101,
+                "idEstado": 1,
+                "flValor": "35000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 187424,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "B1R044 ",
+                "valor": 30000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMIONETA",
+                "comentario": null,
+                "idHojaVida": 221101,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

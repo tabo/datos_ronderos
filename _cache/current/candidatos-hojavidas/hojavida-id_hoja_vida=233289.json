@@ -1,0 +1,168 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 233289.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "29617436",
+        "nombres": "ROLANDO BERARDO",
+        "apellidoPaterno": "YAURI",
+        "apellidoMaterno": "LAZARO",
+        "sexo": "1",
+        "feNacimiento": "08/06/1959",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040602",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "CONDESUYOS",
+        "naciDistrito": "ANDARAY",
+        "ubigeoDomicilio": "040602",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "CONDESUYOS",
+        "domiDistrito": "ANDARAY",
+        "domicilioDirecc": "OCHURO S/N",
+        "ubigeoPostula": "040602",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "CONDESUYOS",
+        "postulaDistrito": "ANDARAY",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/233289.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2744.0,
+        "organizacionPolitica": "YO AREQUIPA",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 10:54:15",
+        "txGuidFormatoHojaVida": "d174cb93-9157-457e-848f-0dcba1afe4a2",
+        "idSolicitudLista": 35508.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 165011,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "TALLER PARTICULAR",
+            "ocupacionProfesion": "TECNICO ELECTROMECANICO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "OCHURO S/N",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "040602",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "CONDESUYOS",
+            "trabajoDistrito": "ANDARAY",
+            "idHojaVida": 233289,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 144194,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 233289,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 136487,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "SENATI",
+                "carreraTecnico": "TECNICO ELECTROMECANICO",
+                "concluidoEduTecnico": "2",
+                "idHojaVida": 233289,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 138754,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2257,
+            "orgPolRenunciaOp": "JUNTOS POR EL DESARROLLO DE AREQUIPA",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 233289,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 141510,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 10000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 233289,
+                "idEstado": 1,
+                "totalIngresos": 10000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 154254,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "V3I267 ",
+                "valor": 16000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "RENAULT",
+                "comentario": null,
+                "idHojaVida": 233289,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 154253,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "V5D537 ",
+                "valor": 12000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "SUZUKI ALTO",
+                "comentario": null,
+                "idHojaVida": 233289,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,156 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 193473.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "41309320",
+        "nombres": "HERWIN ARMANDO",
+        "apellidoPaterno": "SAMPERTEGUI",
+        "apellidoMaterno": "SARANGO",
+        "sexo": "1",
+        "feNacimiento": "16/09/1980",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "230101",
+        "naciDepartamento": "TUMBES",
+        "naciProvincia": "TUMBES",
+        "naciDistrito": "TUMBES",
+        "ubigeoDomicilio": "230102",
+        "domiDepartamento": "TUMBES",
+        "domiProvincia": "TUMBES",
+        "domiDistrito": "CORRALES",
+        "domicilioDirecc": "JR.NUEVA ESPERANZA 209",
+        "ubigeoPostula": "230102",
+        "postulaDepartamento": "TUMBES",
+        "postulaProvincia": "TUMBES",
+        "postulaDistrito": "CORRALES",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/193473.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 11:39:31",
+        "txGuidFormatoHojaVida": "00c4fbec-69e3-48f0-aa6d-9bc2650dde44",
+        "idSolicitudLista": 30667.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 175590,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "EL TACNEÑO",
+            "ocupacionProfesion": "COCINERO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE ATAHUALPA CORRALES",
+            "anioTrabajoDesde": "2009",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "230101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "TUMBES",
+            "trabajoProvincia": "TUMBES",
+            "trabajoDistrito": "TUMBES",
+            "idHojaVida": 193473,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 154026,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 193473,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 142611,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1232,
+            "orgPolRenunciaOp": "FRENTE ACTIVO DE INTEGRACION COMUNAL",
+            "anioRenunciaOp": "2007",
+            "idHojaVida": 193473,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 151823,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 10200.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 193473,
+                "idEstado": 1,
+                "totalIngresos": 10200.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 160591,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "1298WM ",
+                "valor": 4600.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL, COLOR NEGRO ANARANJADO, WANXIN, COBRA",
+                "comentario": null,
+                "idHojaVida": 193473,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 160590,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "3707EP ",
+                "valor": 2500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTONETA, COLOR ROJO. NEXUS110",
+                "comentario": null,
+                "idHojaVida": 193473,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

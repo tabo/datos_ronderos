@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 201881.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42474258",
+        "nombres": "ELEUTERIO",
+        "apellidoPaterno": "ACHO",
+        "apellidoMaterno": "CHOQUECOTA",
+        "sexo": "1",
+        "feNacimiento": "18/10/1981",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "200410",
+        "naciDepartamento": "PUNO",
+        "naciProvincia": "CHUCUITO",
+        "naciDistrito": "ZEPITA",
+        "ubigeoDomicilio": "201004",
+        "domiDepartamento": "PUNO",
+        "domiProvincia": "YUNGUYO",
+        "domiDistrito": "COPANI",
+        "domicilioDirecc": "COM.CHALLAPAMPA",
+        "ubigeoPostula": "201004",
+        "postulaDepartamento": "PUNO",
+        "postulaProvincia": "YUNGUYO",
+        "postulaDistrito": "COPANI",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/201881.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 1670.0,
+        "organizacionPolitica": "FRENTE AMPLIO PARA EL DESARROLLO DEL PUEBLO",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 22:22:00",
+        "txGuidFormatoHojaVida": "2231f1b3-c44a-4345-acd4-c377bb19d04f",
+        "idSolicitudLista": 31752.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 211293,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AGRICULTOR",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "COMUNIDAD CHALLAPAMPA",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "201004",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PUNO",
+            "trabajoProvincia": "YUNGUYO",
+            "trabajoDistrito": "COPANI",
+            "idHojaVida": 201881,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 186081,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 201881,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 172505,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 14400.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 201881,
+                "idEstado": 1,
+                "totalIngresos": 14400.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 216032,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "COM. CHALLAPAMPA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 10000.0,
+                "idHojaVida": 201881,
+                "idEstado": 1,
+                "flValor": "10000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 180702,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "86466Z ",
+                "valor": 4000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "SUNLYY",
+                "comentario": null,
+                "idHojaVida": 201881,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

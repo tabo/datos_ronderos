@@ -1,0 +1,216 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 190089.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "25834542",
+        "nombres": "WILBER",
+        "apellidoPaterno": "CRISTOBAL",
+        "apellidoMaterno": "SOTO",
+        "sexo": "1",
+        "feNacimiento": "31/08/1977",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110101",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "HUANCAYO",
+        "naciDistrito": "HUANCAYO",
+        "ubigeoDomicilio": "240104",
+        "domiDepartamento": "CALLAO",
+        "domiProvincia": "CALLAO",
+        "domiDistrito": "CARMEN DE LA LEGUA-REYNOSO",
+        "domicilioDirecc": "AV.MANCO CAPAC 116-118",
+        "ubigeoPostula": "240104",
+        "postulaDepartamento": "CALLAO",
+        "postulaProvincia": "CALLAO",
+        "postulaDistrito": "CARMEN DE LA LEGUA-REYNOSO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/190089.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2869.0,
+        "organizacionPolitica": "PARTIDO PATRIOTICO DEL PERU",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 18:42:33",
+        "txGuidFormatoHojaVida": "6a0558a0-08ca-4c25-b3a8-4bb173e469af",
+        "idSolicitudLista": 30202.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 239275,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AUTORIDAD DE TRANSPORTE LIMA Y CALLAO",
+            "ocupacionProfesion": "CONDUCTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "LIMA",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "LIMA",
+            "idHojaVida": 190089,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 211233,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 190089,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 153952,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "I.T FREDERICK WISLOW TAYLER",
+                "carreraTecnico": "ADMINSITRACION DE EMPRESA",
+                "concluidoEduTecnico": "2",
+                "idHojaVida": 190089,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 163278,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2649,
+            "orgPolRenunciaOp": "PERU NACION",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 190089,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 191350,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 42000.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 190089,
+                "idEstado": 1,
+                "totalIngresos": 42000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 195568,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 5,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "T4D037 ",
+                "valor": 15000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMIONETA RURAL",
+                "comentario": null,
+                "idHojaVida": 190089,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 195567,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 4,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "F7J694 ",
+                "valor": 21000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTOMOVIL",
+                "comentario": null,
+                "idHojaVida": 190089,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 195566,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 3,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "D9H176 ",
+                "valor": 25000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MINIVAN",
+                "comentario": null,
+                "idHojaVida": 190089,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 195565,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "F6B243 ",
+                "valor": 16000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "KIA BLANCO",
+                "comentario": null,
+                "idHojaVida": 190089,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 195564,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "A7G797 ",
+                "valor": 15000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "NISSAN",
+                "comentario": null,
+                "idHojaVida": 190089,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

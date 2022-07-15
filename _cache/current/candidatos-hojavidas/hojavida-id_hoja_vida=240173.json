@@ -1,0 +1,148 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 240173.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "07484007",
+        "nombres": "TEOFILO",
+        "apellidoPaterno": "PIJO",
+        "apellidoMaterno": "PEREZ",
+        "sexo": "1",
+        "feNacimiento": "03/11/1968",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "141005",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "OYON",
+        "naciDistrito": "PACHANGARA",
+        "ubigeoDomicilio": "140134",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "INDEPENDENCIA",
+        "domicilioDirecc": "PSJ. SAN ALBINO MZ F LT 10",
+        "ubigeoPostula": "140134",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "INDEPENDENCIA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/240173.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2731.0,
+        "organizacionPolitica": "PODEMOS PERU",
+        "numeroCandidato": 7.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 19:31:25",
+        "txGuidFormatoHojaVida": "540bce47-f430-4376-8250-718cc0d17d2e",
+        "idSolicitudLista": 24805.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 154401,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 240173,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 137707,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 14,
+                "orgPolCargoPartidario": "PARTIDO POLÍTICO PARTIDO DEMOCRATICO SOMOS PERU",
+                "cargoPartidario": "SECRETARIO DE COMUNICACION",
+                "anioCargoPartiDesde": "2019",
+                "anioCargoPartiHasta": "2021",
+                "idHojaVida": 240173,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 142748,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 15,
+            "orgPolRenunciaOp": "PARTIDO POPULAR CRISTIANO - PPC",
+            "anioRenunciaOp": "2014",
+            "idHojaVida": 240173,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 142747,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 14,
+            "orgPolRenunciaOp": "PARTIDO DEMOCRATICO SOMOS PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 240173,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 160825,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "BAK582 ",
+                "valor": 45105.5,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "TOYOTA YARIS - GRISS OSCURO METALICO",
+                "comentario": "VALOR ESTIMADO",
+                "idHojaVida": 240173,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 135299,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "05178-2012-0-0901-JR-PE-10",
+            "feSentenciaPenal": "21/06/2016",
+            "txOrganoJudiPenal": "14 JUZGADO DE LIMA NORTE",
+            "txDelitoPenal": "LESIONES CULPOSAS",
+            "txFalloPenal": "02 AÑOS SUSPENDIDA",
+            "idParamModalidad": 11,
+            "txModalidad": "SUSPENDIDA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 240173,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": []
+}

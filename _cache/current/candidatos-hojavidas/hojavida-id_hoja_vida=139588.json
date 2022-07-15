@@ -1,0 +1,130 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 139588.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "07643616",
+        "nombres": "CHRISTIAN ERNESTO",
+        "apellidoPaterno": "OYOLA",
+        "apellidoMaterno": "NUÑEZ",
+        "sexo": "1",
+        "feNacimiento": "20/04/1977",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140111",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "LINCE",
+        "ubigeoDomicilio": "140111",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "LINCE",
+        "domicilioDirecc": "CALLE BARTOLOME HERRERA 713",
+        "ubigeoPostula": "140111",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "LINCE",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/139588.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 6.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "08/06/2022 21:51:00",
+        "txGuidFormatoHojaVida": "51f6f603-8b3c-4d04-adc2-8a57dd9850a2",
+        "idSolicitudLista": 23409.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 157105,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "ARTE Y DETALLES EVENTOS",
+            "ocupacionProfesion": "GERENTE",
+            "rucTrabajo": "10076436164",
+            "direccionTrabajo": "BARTOLOME HERRERA 713 - LINCE",
+            "anioTrabajoDesde": "2002",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140111",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "LINCE",
+            "idHojaVida": 139588,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 137214,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 139588,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 136558,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 2990.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 139588,
+                "idEstado": 1,
+                "totalIngresos": 2990.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 134221,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "01034-2013",
+            "feSentenciaPenal": "18/03/2013",
+            "txOrganoJudiPenal": "SEXTO GUZGADO PENAL",
+            "txDelitoPenal": "PELIGRO COMUN",
+            "txFalloPenal": "2013 AL 2015",
+            "idParamModalidad": 11,
+            "txModalidad": "SUSPENDIDA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 139588,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": []
+}

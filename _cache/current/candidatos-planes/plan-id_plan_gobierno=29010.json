@@ -1,0 +1,105 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 29010,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2857,
+        "txOrganizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1727,
+        "juradoElectoral": "SANTA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/7a3f1bd2-419c-4652-a7e8-8c8c1f0d6f05.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/e4b56a73-fb97-4209-bc10-2895d8882698.pdf",
+        "txCodExpedienteExt": "ERM.2022007279",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 153358,
+            "txPgProblema": "DESNUTRICIÓN CRÓNICA",
+            "txPgObjetivo": "MEJORA DE LA SALUD",
+            "txPgIndicador": "%",
+            "txPgMeta": "REDUCIR 8 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 153361,
+            "txPgProblema": "MEJORAR LA POSTA DE SALUD (CAMBIAR A CENTRO DE SALUD Y ASÍ MEJORAR EL NIVEL ATENCIÓN)",
+            "txPgObjetivo": "MEJORA DE LA SALUD",
+            "txPgIndicador": "NIVEL",
+            "txPgMeta": "POSTA A CENTRO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 153365,
+            "txPgProblema": "BAJA COMPRESIÓN LECTORA",
+            "txPgObjetivo": "MEJORA DE LA EDUCACIÓN",
+            "txPgIndicador": "%",
+            "txPgMeta": "INCREMENTAR 40 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 153369,
+            "txPgProblema": "AGRICULTURA",
+            "txPgObjetivo": "MEJORA DE LA AGRICULTURA",
+            "txPgIndicador": "REPRESA",
+            "txPgMeta": "UNA REPRESA",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 153372,
+            "txPgProblema": "TRANSPORTES Y COMUNICACIONES",
+            "txPgObjetivo": "VIAS DE ACCESO",
+            "txPgIndicador": "VÍAS",
+            "txPgMeta": "2 VÍAS MEJORADAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 153388,
+            "txPgProblema": "RIESGO AMBIENTAL",
+            "txPgObjetivo": "CONSERVACIÓN DEL MEDIO AMBIENTE",
+            "txPgIndicador": "CAMPAÑAS DE EDUACIÓN AMBIENTAL",
+            "txPgMeta": "3 CAMPAÑAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 153404,
+            "txPgProblema": "DEFENSA DE LOS RECURSOS NATURALES",
+            "txPgObjetivo": "CONSERVACIÓN DEL MEDIO AMBIENTE",
+            "txPgIndicador": "RECURSOS RENOVABLES",
+            "txPgMeta": "RECURSOS PROTEGIDOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 153405,
+            "txPgProblema": "PERSONAL CAPACITADO",
+            "txPgObjetivo": "MEJORA DE LA GESTIÓN",
+            "txPgIndicador": "CAPACITACIÓN",
+            "txPgMeta": "100 % CAPACITADOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 173843.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43655351",
+        "nombres": "MARIO ELEODORO",
+        "apellidoPaterno": "CIRIACO",
+        "apellidoMaterno": "ADRIANO",
+        "sexo": "1",
+        "feNacimiento": "18/07/1986",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "090307",
+        "naciDepartamento": "HUANUCO",
+        "naciProvincia": "DOS DE MAYO",
+        "naciDistrito": "CHUQUIS",
+        "ubigeoDomicilio": "090307",
+        "domiDepartamento": "HUANUCO",
+        "domiProvincia": "DOS DE MAYO",
+        "domiDistrito": "CHUQUIS",
+        "domicilioDirecc": "CASERIO HUARIPAMPA",
+        "ubigeoPostula": "090307",
+        "postulaDepartamento": "HUANUCO",
+        "postulaProvincia": "DOS DE MAYO",
+        "postulaDistrito": "CHUQUIS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/173843.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2173.0,
+        "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 03:24:38",
+        "txGuidFormatoHojaVida": "8015067b-a27d-45ae-bb6b-1ca711d38a9b",
+        "idSolicitudLista": 28023.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 161399,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "OBRERO",
+            "ocupacionProfesion": "OBRERO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CHUQUIS",
+            "anioTrabajoDesde": "2016",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "090307",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "HUANUCO",
+            "trabajoProvincia": "DOS DE MAYO",
+            "trabajoDistrito": "CHUQUIS",
+            "idHojaVida": 173843,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 141051,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 173843,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 137406,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 14,
+            "orgPolRenunciaOp": "PARTIDO DEMOCRATICO SOMOS PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 173843,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 139236,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 9000.0,
+                "idHojaVida": 173843,
+                "idEstado": 1,
+                "totalIngresos": 9000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 174485,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CASERIO HUARIPAMPA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 173843,
+                "idEstado": 1,
+                "flValor": "15000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 151960,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "8395EW ",
+                "valor": 4500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": null,
+                "idHojaVida": 173843,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,147 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 161469.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "48001783",
+        "nombres": "ALEXANDER",
+        "apellidoPaterno": "GUERRERO",
+        "apellidoMaterno": "CHUQUILIN",
+        "sexo": "1",
+        "feNacimiento": "17/09/1993",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "061012",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "SAN MIGUEL",
+        "naciDistrito": "CATILLUC",
+        "ubigeoDomicilio": "061012",
+        "domiDepartamento": "CAJAMARCA",
+        "domiProvincia": "SAN MIGUEL",
+        "domiDistrito": "CATILLUC",
+        "domicilioDirecc": "CASERIO BAÑOS DE QUILCATE",
+        "ubigeoPostula": "061012",
+        "postulaDepartamento": "CAJAMARCA",
+        "postulaProvincia": "SAN MIGUEL",
+        "postulaDistrito": "CATILLUC",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/161469.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 160.0,
+        "organizacionPolitica": "FRENTE REGIONAL DE CAJAMARCA",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 20:49:47",
+        "txGuidFormatoHojaVida": "9ce37a3f-7692-4062-9692-62b0c332ad2a",
+        "idSolicitudLista": 26348.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 189496,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "VEHICULO DE TRANSPORTE",
+            "ocupacionProfesion": "CONDUCTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASRIO BAÑOS QUILCATE",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "061012",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CAJAMARCA",
+            "trabajoProvincia": "SAN MIGUEL",
+            "trabajoDistrito": "CATILLUC",
+            "idHojaVida": 161469,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "CONDUCTOR INDEPENDIENTE"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 166968,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 161469,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 138824,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "OMISION A LA ASISTENCIA FAMILIAR",
+            "idHojaVida": 161469,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 158117,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 8000.0,
+                "idHojaVida": 161469,
+                "idEstado": 1,
+                "totalIngresos": 8000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 135481,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 2,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "00141-2017-0-0607-JP-FC-01",
+            "txOrganoJuridicialObliga": "JUZGADO DE PAZ LETRADO - SAN MIGUEL",
+            "txFalloObliga": "DEMANDADO",
+            "idEstado": 1,
+            "idHojaVida": 161469,
+            "txComentario": "ARCHIVADO"
+        },
+        {
+            "idHvSentenciaObliga": 135479,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "00033-2017-0-0607-JP-FC-01",
+            "txOrganoJuridicialObliga": "JUZGADO DE PAZ LETRADO - SAN MIGUEL",
+            "txFalloObliga": "DEMANDADO",
+            "idEstado": 1,
+            "idHojaVida": 161469,
+            "txComentario": "ARCHIVADO"
+        }
+    ]
+}

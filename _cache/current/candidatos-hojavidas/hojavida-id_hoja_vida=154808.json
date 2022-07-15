@@ -1,0 +1,179 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 154808.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "47447547",
+        "nombres": "DIONICIO",
+        "apellidoPaterno": "HUANCA",
+        "apellidoMaterno": "HUAYTA",
+        "sexo": "1",
+        "feNacimiento": "16/08/1992",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "200401",
+        "naciDepartamento": "PUNO",
+        "naciProvincia": "CHUCUITO",
+        "naciDistrito": "JULI",
+        "ubigeoDomicilio": "040108",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "AREQUIPA",
+        "domiDistrito": "MOLLEBAYA",
+        "domicilioDirecc": "ASOC. DE VIV. \"UNIFICADA SANTA ANA\" MZ.N LOTE 7",
+        "ubigeoPostula": "040108",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "AREQUIPA",
+        "postulaDistrito": "MOLLEBAYA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/154808.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2257.0,
+        "organizacionPolitica": "JUNTOS POR EL DESARROLLO DE AREQUIPA",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "08/06/2022 21:19:02",
+        "txGuidFormatoHojaVida": "1764ff9f-c601-4a1c-94de-8ab6b5a9fc0e",
+        "idSolicitudLista": 25425.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 164472,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "EVANISTA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ASICIANCION DE VIVIENDA UNIFICADA SANTA ANA MZ N LOTE 7",
+            "anioTrabajoDesde": "2017",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "040108",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "AREQUIPA",
+            "trabajoDistrito": "MOLLEBAYA",
+            "idHojaVida": 154808,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 143774,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 154808,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 136351,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "PEDRO P DIAZ",
+                "carreraTecnico": "MECANICA AUTOMOTRIZ",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 154808,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 141174,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 15000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 154808,
+                "idEstado": 1,
+                "totalIngresos": 15000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 178100,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "TERRENO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "ASOCIACIÓN DE VIVIENDA UNIFICADA SANTA ANA MZ N LOTE 7",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 30.0,
+                "idHojaVida": 154808,
+                "idEstado": 1,
+                "flValor": "60000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 153907,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "V5C344 ",
+                "valor": 9000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTO BLANCO STATION BAGON",
+                "comentario": null,
+                "idHojaVida": 154808,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 153906,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "V7B010 ",
+                "valor": 5000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTO ROJO",
+                "comentario": null,
+                "idHojaVida": 154808,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

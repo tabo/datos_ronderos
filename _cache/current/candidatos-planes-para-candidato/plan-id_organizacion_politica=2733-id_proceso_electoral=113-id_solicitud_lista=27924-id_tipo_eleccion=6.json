@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 21250,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2733,
+        "txOrganizacionPolitica": "MOVIMIENTO POLITICO CAMBIEMOS X HCO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/eabac525-130c-42b7-811e-4827348e7013.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/07727182-27a0-4d78-b476-1ec2d2b69ba6.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 194401,
+            "txPgProblema": "EDUCACION\nDOCENTES CON INADECUADA CAPACITACIÓN. INADECUADA ASIGNACIÓN DE DOCENTES EN LA ZONA RURAL",
+            "txPgObjetivo": "FORTALECIMIENTO DE CAPACIDADES EN LOS TRES NIVELES",
+            "txPgIndicador": "BAJA NIVEL DE EDUCACION PORCENTAJE DE LA  POBLACIÓN ESCOLAR DE LOS 3 NIVELES DE EDUCACIÓN QUE ASISTEN Y CULMINAN SUS LABORES ACADÉMICAS EN LAS INSTITUCIONES",
+            "txPgMeta": "REDUCIR EL BAJO NIVEL DE EDUCACION EN LOS TRES NIVELES AL 85%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 194409,
+            "txPgProblema": "SALUD\nALTA TASA DE MORBILIDAD MATERNO-INFANTIL ALTA TASA DE DESNUTRICIÓN INFANTIL. EXISTENCIA DE PROFESIONALES MAL DISTRIBUIDOS, POCO MOTIVADOS, POCO SENSIBILIZADOS CON LAS NECESIDADES DE BÁSICAS",
+            "txPgObjetivo": "MEJORAR LA CALIDAD DE ATENCION EN LOS SERVICIOS DE SALUD",
+            "txPgIndicador": "NIVEL DE  ATENCION MUY LIMITADO",
+            "txPgMeta": "ATENCION LAS 24 HORAS CON AMBULANCIA OPERATIVO AL 100%, INCREMENTO DE INFRAESTRUCTURAS Y EQUIPAMIENTO EN SALUD EN 90%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 194416,
+            "txPgProblema": ". PROTECCION FAMILIAR",
+            "txPgObjetivo": "IMPLEMENTACION DE LA OFICINA DE DEMUNA Y OMAPED",
+            "txPgIndicador": "OFICINA IMPLEMENTADA",
+            "txPgMeta": "IMPLEMENTACION DEMUNA Y OMAPED 100%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 194433,
+            "txPgProblema": "AGRICULTURA",
+            "txPgObjetivo": "PRIORIZACION EN AGRICULTURA CON ASISTENCIA TECNICA CON ESPECIALISTAS",
+            "txPgIndicador": "FAMILIAS PRIORIZADAS",
+            "txPgMeta": "CUBRIR LAS NESECIDADES BASICAS AL 100 %",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 194448,
+            "txPgProblema": ". TURISMO",
+            "txPgObjetivo": "ACCESO CON VIAS A LOS CENTROS TURISTICOS",
+            "txPgIndicador": "PORCENTAJE DE SERVICIOS TURISTICOS APTOS PARA EL SERVICIO",
+            "txPgMeta": "CUBRIR CON VIAS ACCESO AL 85 %",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 194454,
+            "txPgProblema": "DESARROLLO     AGROINDUSTRIAL",
+            "txPgObjetivo": "ESTUDIO TECNICO PARA INDUSTRIALIZACION DE LOS PRODUCTOS",
+            "txPgIndicador": "FALTA DE APOYO TECNICO",
+            "txPgMeta": "APOYO PARA ESTUDIO TECNICO AL 80 %",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 194462,
+            "txPgProblema": "MEDIO AMBIENTE",
+            "txPgObjetivo": "CONFORMACION DE EQUIPOS PARA CUIDADO DEL MEDIO AMBIENTE",
+            "txPgIndicador": "NO EXISTE UN PLAN",
+            "txPgMeta": "APOYO AL CUIDADO DEL MEDIO AMBIENTE AL 80%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 194474,
+            "txPgProblema": "AFECTACION DE SUELOS",
+            "txPgObjetivo": "FOMENTAR EL USO DE ABONOS ORGANICOS",
+            "txPgIndicador": "DEPREDACION DE LOS SUELOS",
+            "txPgMeta": "LOGRAR EL DETERIORO AL 75%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 194486,
+            "txPgProblema": "LIMITACIONES Y FENOMENOS",
+            "txPgObjetivo": "MEJORAMIENTO Y AMPLIACION DE VIAS",
+            "txPgIndicador": "NIVEL DE APOYO MUY BAJO",
+            "txPgMeta": "CUBRIR AL 90 %",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 194497,
+            "txPgProblema": "SITUACION INSTITUCIONAL",
+            "txPgObjetivo": "PERSONAL EN LAS AREAS IDONEOS Y CAPACITADOS",
+            "txPgIndicador": "SERVIDORES CAPACITADOS",
+            "txPgMeta": "CUMPLIMIENTO AL 100 %",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 194510,
+            "txPgProblema": "POLITICA FISCAL",
+            "txPgObjetivo": "DISTRIBUCION PRESUPUESTAL",
+            "txPgIndicador": "DISTRIBUCION PRESUPUESTAL",
+            "txPgMeta": "CUMPLIMIENTO AL 100 %",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 194518,
+            "txPgProblema": "MANEJO PRESUPUESTAL",
+            "txPgObjetivo": "ASIGNACION DE PRESUPUESTO ACORDE A LA NESECIDAD",
+            "txPgIndicador": "DISTRIBUCION PRESUPUESTAL",
+            "txPgMeta": "EJECUCION PRESUPUESTAL AL 100 %",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

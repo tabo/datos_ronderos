@@ -1,0 +1,246 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 182595.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "10441683",
+        "nombres": "MARIA CLARA",
+        "apellidoPaterno": "RODRIGUEZ",
+        "apellidoMaterno": "RODRIGUEZ",
+        "sexo": "2",
+        "feNacimiento": "19/09/1966",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "060301",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "CELENDIN",
+        "naciDistrito": "CELENDIN",
+        "ubigeoDomicilio": "140132",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "VILLA MARIA DEL TRIUNFO",
+        "domicilioDirecc": "MZ.D LT.09 A.H.7 DE JUNIO",
+        "ubigeoPostula": "140141",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "VILLA EL SALVADOR",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/182595.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2895.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATA VERDE",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 10:07:44",
+        "txGuidFormatoHojaVida": "5cf20dff-2a6f-4a7f-bc0c-0960d0cb54e6",
+        "idSolicitudLista": 29169.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 160345,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CETPRO MARIA AUXILIADORA",
+            "ocupacionProfesion": "DOCENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SECTOR 6 GRUPO 7H MZ B LOTE 1",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140141",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "VILLA EL SALVADOR",
+            "idHojaVida": 182595,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 145672,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 182595,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 135389,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "SUPERIOR TECNOLÓGICO - VILLA MARIA",
+                "carreraTecnico": "PROFESIONAL TÉCNICO EN COSMÉTICA DERMATOLÓGICA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 182595,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 135646,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": null,
+                "carreraNoUni": null,
+                "concluidoNoUni": "0",
+                "idHojaVida": 182595,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            },
+            {
+                "idHvNoUniversitaria": 135645,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "UNVIVERSIDAD  ENRIQUE GUZMAN Y VALLE CANTUTA",
+                "carreraNoUni": "LENGUA Y LITERATURA",
+                "concluidoNoUni": "1",
+                "idHojaVida": 182595,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 147319,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "2",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD ENRIQUE GUZMAN Y VALLE LA CANTUTA",
+                "carreraUni": "LENGUA Y LITERATURA",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2007",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            },
+            {
+                "idHvEduUniversitaria": 144331,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL DE EDUCACIÓN ENRIQUE GUZMÁN Y VALLE",
+                "carreraUni": "BACHILLER EN CIENCIAS DE LA EDUCACION",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2014",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [
+            {
+                "idHvPosgrado": 134719,
+                "tengoPosgrado": "SI",
+                "nuItemPosgrado": 1,
+                "txCenEstudioPosgrado": "UNIVERSIDAD ENRIQUE GUZMAN Y VALLE LA CANTUTA",
+                "txEspecialidadPosgrado": "DOCENCA UNIVERSITARIA",
+                "concluidoPosgrado": "SI",
+                "egresadoPosgrado": "SI",
+                "esMaestro": "SI",
+                "esDoctor": null,
+                "txAnioPosgrado": "2014",
+                "idHojaVida": 182595,
+                "idEstado": 1,
+                "txEstado": "ACTIVO (R)",
+                "fgRegistroManual": 1,
+                "txComentario": null,
+                "fgRegistro": null
+            }
+        ],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 173781,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 2,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "MZ B LOTE 1    SECTOR SEXTO GRUP.RESI 7A - PUEBLO JOVEN VILLA EL SALVADOR - DPTO: LIMA PROV: LIMA DIST: VILLA EL SALVADOR",
+                "comentario": "EN CONSTRUCCION",
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "55191982",
+                "fichaTomoSunarp": null,
+                "autovaluo": 17000.0,
+                "idHojaVida": 182595,
+                "idEstado": 1,
+                "flValor": "20000"
+            },
+            {
+                "idHvBienInmueble": 173780,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "MZ P LOTE 14    GRUPO II - ASENTAMIENTO HUMANO LA ENCANTADA - DPTO: LIMA PROV: LIMA DIST: VILLA EL SALVADOR",
+                "comentario": "TERRENO SIN CONSTRUCION",
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "55193995",
+                "fichaTomoSunarp": null,
+                "autovaluo": 25830.0,
+                "idHojaVida": 182595,
+                "idEstado": 1,
+                "flValor": "50000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 151396,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "BBY228 ",
+                "valor": 49000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR ROJO INTERIOR NEGRO",
+                "comentario": "AÑO 2018",
+                "idHojaVida": 182595,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

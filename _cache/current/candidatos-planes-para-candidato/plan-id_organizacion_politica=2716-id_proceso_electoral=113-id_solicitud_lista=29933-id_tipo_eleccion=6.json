@@ -1,0 +1,125 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23259,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2716,
+        "txOrganizacionPolitica": "JUNIN RENACE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/a919ac5e-71c1-4469-ae9b-b5728e13f179.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/2e575854-0b94-4d7e-9a71-5fac306f3835.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 223350,
+            "txPgProblema": "POBLACIÓN RURAL SIN ACCESO\nAGUA POTABLE POR RED\nPÚBLICA",
+            "txPgObjetivo": "DOTAR A LA POBLACIÓN RURAL\nDE AGUA POTABLE POR RED\nPÚBLICA",
+            "txPgIndicador": "PORCENTAJE DE\nPOBLACIÓN RURAL SIN\nACCESO AGUA POR RED\nPÚBLICA",
+            "txPgMeta": "10% DE POBLACIÓN\nRURAL SIN ACCESO\nAGUA POR RED\nPÚBLICA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 223375,
+            "txPgProblema": "POBLACIÓN RURAL SIN ACCESO\nA SANEAMIENTO VÍA RED\nPÚBLICA O POZO SÉPTICO",
+            "txPgObjetivo": "DOTAR A LA POBLACIÓN RURAL\nDE SANEAMIENTO VÍA RED\nPÚBLICA O POZO SÉPTICO",
+            "txPgIndicador": "PORCENTAJE DE\nPOBLACIÓN RURAL SIN\nSANEAMIENTO VÍA RED\nPÚBLICA O POZO SÉPTICO",
+            "txPgMeta": "10% DE POBLACIÓN\nRURAL SIN\nSANEAMIENTO VÍA\nRED PÚBLICA O POZO\nSÉPTICO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 223389,
+            "txPgProblema": "POBLACIÓN URBANA Y RURAL\nSIN SERVICIOS HIGIÉNICOS\nPÚBLICOS",
+            "txPgObjetivo": "DOTAR A LA POBLACIÓN\nURBANA Y RURAL DE SERVICIOS\nHIGIÉNICOS PÚBLICOS",
+            "txPgIndicador": "PORCENTAJE DE\nPOBLACIÓN SIN SERVICIOS\nHIGIÉNICOS PÚBLICOS",
+            "txPgMeta": "5% DE POBLACIÓN SIN\nSERVICIOS HIGIÉNICOS\nPÚBLICOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 223402,
+            "txPgProblema": "INEXISTENCIA DE PROGRAMAS\nDE CONSERVACIÓN Y RECARGA\nHÍDRICA EN LAS CABECERAS DE\nLAS CUENCAS",
+            "txPgObjetivo": "CONSERVACIÓN DE FUENTES\nHÍDRICAS Y PROGRAMA DE\nSIEMBRA Y COSECHA DE\nAGUA",
+            "txPgIndicador": "PORCENTAJE DE\nCABECERAS DE CUENCAS\nSIN CONSERVACIÓN",
+            "txPgMeta": "30% DE CABECERAS\nDE CUENCAS SIN\nCONSERVACIÓN",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 223406,
+            "txPgProblema": "HECTÁREAS DE TIERRAS SIN\nINFRAESTRUCTURA DE RIEGO.",
+            "txPgObjetivo": "DOTAR DE INFRAESTRUCTURA\nDE RIEGO A TIERRAS\nAGRÍCOLAS.",
+            "txPgIndicador": "PORCENTAJE DE\nHECTÁREAS SIN RIEGO",
+            "txPgMeta": "30% DE HECTÁREAS\nSIN RIEGO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 223423,
+            "txPgProblema": "INEXISTENCIA DE PROGRAMAS\nDE CAPACITACIONES EN\nMANEJO DE CULTIVO,\nAGRICULTURA FAMILIAR\nORGÁNICA Y PROMOCIÓN DE\nCADENAS PRODUCTIVAS",
+            "txPgObjetivo": "DESARROLLAR PROGRAMAS DE\nCAPACITACIONES EN MANEJO\nDE CULTIVO, AGRICULTURA\nFAMILIAR ORGÁNICA Y\nPROMOCIÓN DE CADENAS\nPRODUCTIVAS",
+            "txPgIndicador": "PORCENTAJE DE\nPROGRAMAS DE\nCAPACITACIONES SIN\nDESARROLLAR",
+            "txPgMeta": "30% DE PROGRAMAS\nDE CAPACITACIONES\nSIN DESARROLLAR",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 223445,
+            "txPgProblema": "CONTAMINACIÓN AMBIENTAL\nPOR RESIDUOS SÓLIDOS\nGENERADOS POR LA POBLACIÓN",
+            "txPgObjetivo": "VIVIENDAS CON COBERTURA\nDEL SERVICIO DE RECOLECCIÓN\nDE RESIDUOS SÓLIDOS.",
+            "txPgIndicador": "PORCENTAJE DE\nVIVIENDAS CON\nCOBERTURA DEL SERVICIO\nDE RECOLECCIÓN DE\nRESIDUO SÓLIDOS EN\nPREDIOS",
+            "txPgMeta": "95% DE VIVIENDAS\nCON COBERTURA DEL\nSERVICIO DE\nRECOLECCIÓN DE\nRESIDUO SÓLIDOS EN\nPREDIOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 223461,
+            "txPgProblema": "CONTAMINACIÓN POR\nBOTADEROS DE RESIDUOS\nSÓLIDOS.",
+            "txPgObjetivo": "REDUCIR LA CONTAMINACIÓN\nSIGNIFICATIVAMENTE DE\nBOTADEROS DE RESIDUOS\nSÓLIDOS.",
+            "txPgIndicador": "PORCENTAJE DE\nIMPLEMENTACIÓN DE\nPLANTA DE TRATAMIENTO\nDE RESIDUOS SOLIDOS",
+            "txPgMeta": "100% DE\nIMPLEMENTACIÓN DE\nPLANTA DE\nTRATAMIENTO DE\nRESIDUOS SOLIDOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 223469,
+            "txPgProblema": "INADECUADA PROGRAMA DE\nFORESTACIÓN Y REFORESTACIÓN",
+            "txPgObjetivo": "REALIZAR UN ADECUADO\nPROGRAMA DE FORESTACIÓN Y\nREFORESTACIÓN",
+            "txPgIndicador": "PORCENTAJE DE ÁREAS\nFORESTADAS Y\nREFORESTADAS",
+            "txPgMeta": "90% DE ÁREAS\nFORESTADAS Y\nREFORESTADAS EN\nZONAS DE\nCONTAMINACIÓN",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 223472,
+            "txPgProblema": "PERCEPCIÓN DE INSEGURIDAD CIUDADANA EN LA POBLACIÓN. \nTRABAJADORES MUNICIPALES Y FUNCIONARIOS SIN MÉRITOS NI CAPACIDADES.\nGOBIERNO LOCAL BUROCRÁTICO, OBSOLETO Y POCO TRANSPARENTE. \nINEXISTENCIA DE FORTALECIMIENTOS DE CAPACIDADES A RECURSOS HUMANOS. GOBIERNO LOCAL SIN PLAN DE DESARROLLO CONCERTADO.",
+            "txPgObjetivo": "ELABORAR UN INSTRUMENTO DE PLANEAMIENTO ESTRATÉGICO PARA EL DESARROLLO LOCAL Y COMUNAL.\nPLAN DE FORTALECIMIENTO DE CAPACIDADES A LOS RECURSOS HUMANOS.\nIMPLEMENTAR LA SIMPLIFICACIÓN ADMINISTRATIVA, LA GESTIÓN POR PROCESOS, MODERNIZACIÓN INSTITUCIONAL E IMPLEMENTAR UN GOBIERNO TRANSPARENTE AL SERVICIO DEL CIUDADANO.\nPLAN DE SELECCIÓN DE PERSONAL MUNICIPAL Y FUNCIONARIOS DE ACUERDO A LA MERITOCRACIA.\n\n.",
+            "txPgIndicador": "PORCENTAJE DE COMITÉS DE SEGURIDAD CIUDADANA IMPLEMENTADOS.\nPORCENTAJE DE TRABAJADORES DE LA MUNICIPALIDAD CON CAPACIDAD.\nPORCENTAJE DE AVANCE DE LA IMPLEMENTACIÓN PLAN DE SIMPLIFICACIÓN ADMINISTRATIVA, GESTIÓN POR PROCESOS, MODERNIZACIÓN INSTITUCIONAL Y TRANSPARENTE.\nPORCENTAJE DE CUMPLIMIENTO DE METAS.\nPORCENTAJE DE CUMPLIMIENTO DEL PLAN ESTRATÉGICO INSTITUCIONAL.",
+            "txPgMeta": "90% DE COMITÉS DE SEGURIDAD CIUDADANA IMPLEMENTADOS.\n98% DE TRABAJADORES DE LA MUNICIPALIDAD SELECCIONADOS DE ACUERDO A LA MERITOCRACIA.\n98% DE AVANCE DE LA IMPLEMENTACIÓN PLAN DE SIMPLIFICACIÓN ADMINISTRATIVA, GESTIÓN POR PROCESOS,MODERNIZACIÓN INSTITUCIONAL Y TRANSPARENTE.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

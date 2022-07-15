@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 21527,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1257,
+        "txOrganizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/4517359a-3abd-443c-856b-04983244698a.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/b4adf679-8b1a-4a33-afb4-fc062d63fe1c.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 169431,
+            "txPgProblema": "DEMANDA INSATISFECHA EN SALUD",
+            "txPgObjetivo": "INSTALAR UN HOSPITAL MUNICIPAL EN VENTANILLA",
+            "txPgIndicador": "ATENCIONES NUEVAS DE PACIENTES",
+            "txPgMeta": "MEJORAR EL ACCESO LA ATENCIÓN EN SALUD EN EL DISTRITO EN UN 30%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 169434,
+            "txPgProblema": "DEMANDA INSATISFECHA EN EDUCACIÓN",
+            "txPgObjetivo": "INSTALAR EN DISTRITO CENTROS DE EDUCACIÓN SUPERIOR, COMO EL INSTITUTO MUNICIPAL DE ADUANAS, SENCICO, ACADEMIA PREUNIVERSITARIA",
+            "txPgIndicador": "ALUMNOS MATRICULADOS Y ESTUDIANDO",
+            "txPgMeta": "MEJORAR EN UN 20% EL ACCESO A LA MASA ESTUDIANTIL JOVEN (ENTRE 17 Y 30 AÑOS) A LA EDUCACIÓN SUPERIOR",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 169437,
+            "txPgProblema": "FALTA DE ACCESO A LA VIVIENDA EN SECTORES VULNERABLES",
+            "txPgObjetivo": "CREAR PROGRAMAS MUNICIPALES DE VIVIENDA EN LOS 4 CONOS DE VENTANILLA (PACHACÚTEC, VENTANILLA NORTE, VENTANILLA ALTA Y VENTANILLA SUR), Y ASÍ EVITAR LAS INVASIONES",
+            "txPgIndicador": "VIVIENDAS MUNICIPALES CONSTRUIDAS",
+            "txPgMeta": "100% DE VIVIENDAS MUNICIPALES ASIGNADAS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 169441,
+            "txPgProblema": "ESCASOS PUESTOS DE TRABAJO",
+            "txPgObjetivo": "CREAR BOLSAS DE TRABAJO CON LAS EMPRESAS PRIVADAS Y MEDIANTE EL PROGRAMA DE ACCESO AL INGRESO TEMPORAL (PAIT) MUNICIPAL",
+            "txPgIndicador": "AUMENTO DE LA PEA DISTRITAL",
+            "txPgMeta": "DISMINUIR EN 30% LA TASA DE DESEMPLEO EN EL DISTRITO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 169446,
+            "txPgProblema": "INVERSIÓN PRIVADA INSUFICIENTE",
+            "txPgObjetivo": "BRINDAR FACILIDADES A LA INVERSIÓN PRIVADA PARA LA EJECUCIÓN DE PROYECTOS QUE GENEREN EMPLEO",
+            "txPgIndicador": "EMPRESAS PRIVADAS NUEVAS ASENTADAS EN EL DISTRITO",
+            "txPgMeta": "AUMENTAR EN UN 30% EL REGISTRO DE EMPRESAS PRIVADAS OPERANDO EN EL DISTRITO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 169448,
+            "txPgProblema": "SEGURIDAD CIUDADANA NO ÓPTIMA",
+            "txPgObjetivo": "MEJORAR LA SEGURIDAD CIUDADANA DISTRITAL (DISMINUYENDO EL ROBO, COBRO DE CUPOS Y SICARIATO), PARA GENERAR CONDICIONES ÓPTIMAS PARA LA INVERSIÓN PRIVADA",
+            "txPgIndicador": "OCURRENCIA DE DELITOS, REFERIDOS A ROBOS, COBRO DE CUPOS O SICARIATO EN EL DISTRITO",
+            "txPgMeta": "DISMINUIR EN UN 30% LA OCURRENCIA DE ROBOS, COBRO DE CUPOS Y SICARIATO EN EL DISTRITO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 169451,
+            "txPgProblema": "SISTEMA DE RECOJO Y MANEJO DE RESIDUOS SÓLIDOS INCOMPLETO",
+            "txPgObjetivo": "EJECUTAR, MEDIANTE CONVENIO CON UNA EMPRESA PRIVADA, UN COMPLETO SISTEMA DE RECOJO Y MANEJO DE RESIDUOS SÓLIDOS, QUE INCLUYA EL RECICLAJE Y LA DISPOSICIÓN FINAL",
+            "txPgIndicador": "SISTEMA DE RECOJO Y MANEJO DE RESIDUOS COMPLETO",
+            "txPgMeta": "MEJORAR EN 100% EL RECOJO Y MANEJO INTEGRAL DE RESIDUOS SÓLIDOS EN EL DISTRITO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 169453,
+            "txPgProblema": "ECOSISTEMAS DEL DISTRITO EN COMPLETO ABANDONO",
+            "txPgObjetivo": "QUE LOS HUMEDALES DE VENTANILLA SEAN ELEVADOS A LA CATEGORÍA DE PANTANOS DE VENTANILLA, Y SEAN PROTEGIDOS MEDIANTE ORDENANZAS",
+            "txPgIndicador": "HUMEDALES Y SUS ZONAS DE AMORTIGUAMIENTO INTANGIBLES",
+            "txPgMeta": "QUE EL 100% DE LOS ECOSISTEMAS DEL DISTRITO, SEAN ÁREAS INTANGIBLES PROTEGIDAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 169456,
+            "txPgProblema": "DÉFICIT DE FORESTACIÓN Y REFORESTACIÓN DISTRITAL",
+            "txPgObjetivo": "A TRAVÉS DEL PROGRAMA ‘VENTANILLA VERDE’, FORESTAR LOS CERROS Y LOMAS DE VENTANILLA, ASÍ COMO REFORESTAR AQUELLOS PARQUES QUE NO HAYAN RECIBIDO EL CUIDADO ADECUADO",
+            "txPgIndicador": "CERROS FORESTADOS, Y PARQUES Y ÁREAS VERDES REFORESTADAS",
+            "txPgMeta": "LOGRAR QUE EL 30% DE CERROS DEL DISTRITO ESTÉN FORESTADOS Y EL 100% DE PARQUES ESTÉN REFORESTADOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 169462,
+            "txPgProblema": "AUTONOMÍA INSTITUCIONAL NO FORTALECIDA",
+            "txPgObjetivo": "CUMPLIR EFICIENTEMENTE LA LOM, EN CUANTO A LA AUTONOMÍA POLÍTICA, ECONÓMICA Y ADMINISTRATIVA QUE DEBE TENER LA MUNICIPALIDAD DE VENTANILLA",
+            "txPgIndicador": "MUNICIPIO LIBRE Y AUTÓNOMO EN EL MARCO DE SUS ATRIBUCIONES Y COMPETENCIAS",
+            "txPgMeta": "MEJORAR AL 100% LA AUTONOMÍA DE GOBIERNO DE LA MUNICIPALIDAD DE VENTANILLA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 169463,
+            "txPgProblema": "CONVENIOS INOPERANTES Y ESCASOS CON LA MUNICIPALIDAD PROVINCIAL DEL CALLAO",
+            "txPgObjetivo": "DEROGAR LAS ORDENANZAS REFERENTES A CONVENIOS ENTRE LA MUNICIPALIDAD DE VENTANILLA Y LA MUNICIPALIDAD DEL CALLAO QUE NO ESTÉN VIGENTES O QUE ESTÉN INOPERANTES; Y CREAR NUEVAS ORDENANZAS EFICIENTES Y ADECUADAS",
+            "txPgIndicador": "CONVENIOS ENTRE GOBIERNOS LOCALES EFICACES, DIRIGIDOS A MEJORAR LA CALIDAD DE VIDA",
+            "txPgMeta": "INCREMENTAR EN UN 30% LOS CONVENIOS CON LA MUNICIPALIDAD DISTRITAL DE VENTANILLA, BASADOS EN LA EFICACIA Y LA OPERATIVIDAD",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 169464,
+            "txPgProblema": "CONVENIOS INOPERANTES Y ESCASOS CON EL GOBIERNO REGIONAL DEL CALLAO",
+            "txPgObjetivo": "DEROGAR LAS ORDENANZAS REFERENTES A CONVENIOS ENTRE LA MUNICIPALIDAD DE VENTANILLA Y EL GOBIERNO REGIONAL CALLAO QUE NO ESTÉN VIGENTES O QUE ESTÉN INOPERANTES; Y CREAR NUEVAS ORDENANZAS",
+            "txPgIndicador": "CONVENIOS ENTRE GOBIERNOS LOCAL Y REGIONAL, DIRIGIDOS A MEJORAR LA CALIDAD DE VIDA",
+            "txPgMeta": "INCREMENTAR EN UN 30% LOS CONVENIOS CON EL GOBIERNO REGIONAL DEL CALLAO, BASADOS EN LA EFICACIA Y LA OPERATIVIDAD",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

@@ -1,0 +1,155 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 179659.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "32394147",
+        "nombres": "GUILLERMO NAZARIO",
+        "apellidoPaterno": "CADENAS",
+        "apellidoMaterno": "PARIACHI",
+        "sexo": "1",
+        "feNacimiento": "28/07/1969",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "020705",
+        "naciDepartamento": "ANCASH",
+        "naciProvincia": "HUAYLAS",
+        "naciDistrito": "MATO",
+        "ubigeoDomicilio": "020705",
+        "domiDepartamento": "ANCASH",
+        "domiProvincia": "HUAYLAS",
+        "domiDistrito": "MATO",
+        "domicilioDirecc": "CASERIO ANCORACA",
+        "ubigeoPostula": "020705",
+        "postulaDepartamento": "ANCASH",
+        "postulaProvincia": "HUAYLAS",
+        "postulaDistrito": "MATO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/179659.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 360.0,
+        "organizacionPolitica": "MOVIMIENTO ACCION NACIONALISTA PERUANO",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 06:48:58",
+        "txGuidFormatoHojaVida": "e7adc185-8a92-43b9-b9b7-d9d7483d2514",
+        "idSolicitudLista": 28781.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 241113,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTIOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ANCORACA",
+            "anioTrabajoDesde": "2007",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "020705",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ANCASH",
+            "trabajoProvincia": "HUAYLAS",
+            "trabajoDistrito": "MATO",
+            "idHojaVida": 179659,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 212883,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 179659,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 163771,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 46,
+            "orgPolRenunciaOp": "PERU POSIBLE",
+            "anioRenunciaOp": "2017",
+            "idHojaVida": 179659,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 146375,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "CARPINTERIA Y ALBAÑILERIA",
+            "idHojaVida": 179659,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 192690,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 24000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 179659,
+                "idEstado": 1,
+                "totalIngresos": 24000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 237641,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "HUAYLAS-MATO- MZ K LOTE 4    CENTRO POBL. ANCORACA - ",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "11099338",
+                "fichaTomoSunarp": null,
+                "autovaluo": 25.0,
+                "idHojaVida": 179659,
+                "idEstado": 1,
+                "flValor": "36000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

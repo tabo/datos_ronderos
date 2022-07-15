@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 147950.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "73466270",
+        "nombres": "JUAN MIGUEL",
+        "apellidoPaterno": "CENTENO",
+        "apellidoMaterno": "OBREGON",
+        "sexo": "1",
+        "feNacimiento": "30/06/1993",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110501",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "TARMA",
+        "naciDistrito": "TARMA",
+        "ubigeoDomicilio": "140116",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "PACHACAMAC",
+        "domicilioDirecc": "CP HUERTOS DE MANCHAY MZ. D LT. 04",
+        "ubigeoPostula": "110504",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "TARMA",
+        "postulaDistrito": "HUASAHUASI",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/147950.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 22.0,
+        "organizacionPolitica": "RENOVACION POPULAR",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 10:45:00",
+        "txGuidFormatoHojaVida": "90e54fee-b8e5-4894-949c-ef60a07d21ff",
+        "idSolicitudLista": 24501.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 158612,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR/ COMERCIANTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "HUASAHUASI",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "110504",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "TARMA",
+            "trabajoDistrito": "HUASAHUASI",
+            "idHojaVida": 147950,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 138562,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 147950,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 136350,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 1259,
+            "orgPolRenunciaOp": "MOVIMIENTO POLITICO REGIONAL PERU LIBRE",
+            "anioRenunciaOp": "2019",
+            "idHojaVida": 147950,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 136349,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2218,
+            "orgPolRenunciaOp": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 147950,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 137493,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 30000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 147950,
+                "idEstado": 1,
+                "totalIngresos": 30000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 150180,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "CAMIONETA",
+                "marca": null,
+                "placa": "AXX - 742",
+                "valor": 0.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR",
+                "comentario": null,
+                "idHojaVida": 147950,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

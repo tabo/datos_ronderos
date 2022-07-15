@@ -1,0 +1,196 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 191725.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "23712575",
+        "nombres": "FRANCISCO",
+        "apellidoPaterno": "MEZA",
+        "apellidoMaterno": "HUACHACA",
+        "sexo": "1",
+        "feNacimiento": "04/10/1965",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "080701",
+        "naciDepartamento": "HUANCAVELICA",
+        "naciProvincia": "CHURCAMPA",
+        "naciDistrito": "CHURCAMPA",
+        "ubigeoDomicilio": "110101",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "HUANCAYO",
+        "domiDistrito": "HUANCAYO",
+        "domicilioDirecc": "AV. PALIAN 1325",
+        "ubigeoPostula": "080709",
+        "postulaDepartamento": "HUANCAVELICA",
+        "postulaProvincia": "CHURCAMPA",
+        "postulaDistrito": "SAN PEDRO DE CORIS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/191725.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 13:31:20",
+        "txGuidFormatoHojaVida": "8c2c6094-fae5-4dc2-995e-8fa9f592f172",
+        "idSolicitudLista": 30418.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 181047,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INVERSIONES Y REPRESENTACIONES FELICIANA S.A.C.",
+            "ocupacionProfesion": "GERENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "EXPANSION COBRIZA SECTOR 1",
+            "anioTrabajoDesde": "2012",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "080709",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "HUANCAVELICA",
+            "trabajoProvincia": "CHURCAMPA",
+            "trabajoDistrito": "SAN PEDRO DE CORIS",
+            "idHojaVida": 191725,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 154185,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 191725,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 142674,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 4,
+            "orgPolRenunciaOp": "ACCION POPULAR",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 191725,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 148797,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 25000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 191725,
+                "idEstado": 1,
+                "totalIngresos": 25000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 192684,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "EXPANSION COBRIZA SECTOR 1 , SAN PEDRO DE CORIS",
+                "comentario": "CASA RUSTICA",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 191725,
+                "idEstado": 1,
+                "flValor": "8000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 160663,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "C9C702 ",
+                "valor": 65000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "HILUX 4X4",
+                "comentario": null,
+                "idHojaVida": 191725,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 160662,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "BWU697 ",
+                "valor": 23000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "NISSAN FIERA 4X2",
+                "comentario": null,
+                "idHojaVida": 191725,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 1972,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "INVERSIONES Y REPRESENTACIONES FELICIANA S.A.C.",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 10.0,
+                "flValor": 10.0,
+                "idHojaVida": 191725,
+                "idEstado": 1,
+                "txUsuario": "72839754",
+                "txFechaRegistro": null,
+                "txComentario": "PARTICIPACION DEL 10%",
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

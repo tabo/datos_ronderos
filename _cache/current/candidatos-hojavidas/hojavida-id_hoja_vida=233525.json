@@ -1,0 +1,126 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 233525.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "25203739",
+        "nombres": "BLAS GUIDO",
+        "apellidoPaterno": "ANTEZANA",
+        "apellidoMaterno": "TAPARA",
+        "sexo": "1",
+        "feNacimiento": "03/02/1970",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "071209",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "QUISPICANCHI",
+        "naciDistrito": "MARCAPATA",
+        "ubigeoDomicilio": "071209",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "QUISPICANCHI",
+        "domiDistrito": "MARCAPATA",
+        "domicilioDirecc": "COM.HUARACONI",
+        "ubigeoPostula": "071209",
+        "postulaDepartamento": "CUSCO",
+        "postulaProvincia": "QUISPICANCHI",
+        "postulaDistrito": "MARCAPATA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/233525.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2857.0,
+        "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 22:35:32",
+        "txGuidFormatoHojaVida": "590b1c27-8989-4ee2-949e-b2dffa4a83bd",
+        "idSolicitudLista": 35539.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 154205,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 233525,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 148800,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 11160.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 233525,
+                "idEstado": 1,
+                "totalIngresos": 11160.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 159522,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "A33069 ",
+                "valor": 4000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA",
+                "comentario": null,
+                "idHojaVida": 233525,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 134550,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "105-2016-PE",
+            "feSentenciaPenal": "16/08/2018",
+            "txOrganoJudiPenal": "JUZGADO PENAL UNIPERSONAL - Q",
+            "txDelitoPenal": "COACCION",
+            "txFalloPenal": "FALLO",
+            "idParamModalidad": 12,
+            "txModalidad": "RESERVA DE FALLO",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 233525,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": []
+}

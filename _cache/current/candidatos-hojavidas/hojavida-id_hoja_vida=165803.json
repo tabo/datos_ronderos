@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 165803.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "00328693",
+        "nombres": "MICHAEL",
+        "apellidoPaterno": "GARCIA",
+        "apellidoMaterno": "DEL AGUILA",
+        "sexo": "1",
+        "feNacimiento": "03/04/1975",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "150101",
+        "naciDepartamento": "LORETO",
+        "naciProvincia": "MAYNAS",
+        "naciDistrito": "IQUITOS",
+        "ubigeoDomicilio": "230201",
+        "domiDepartamento": "TUMBES",
+        "domiProvincia": "CONTRALMIRANTE VILLAR",
+        "domiDistrito": "ZORRITOS",
+        "domicilioDirecc": "AV.FAUSTINO PIAGGIO 164",
+        "ubigeoPostula": "230000",
+        "postulaDepartamento": "TUMBES",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/165803.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "ACCESITARIO"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 19:07:33",
+        "txGuidFormatoHojaVida": "6a5b2cf2-6701-4be3-b883-cfe9731efde4",
+        "idSolicitudLista": 26927.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 255146,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "RESTAURANT",
+            "ocupacionProfesion": "ADMINISTRADOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. FAUSTO PIAGGIO N° 164",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "230201",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "TUMBES",
+            "trabajoProvincia": "CONTRALMIRANTE VILLAR",
+            "trabajoDistrito": "ZORRITOS",
+            "idHojaVida": 165803,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 227608,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 165803,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 158350,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "INSTITUTO DEL NORTE",
+                "carreraTecnico": "COMPUTACIÓN E INFORMATICA",
+                "concluidoEduTecnico": "2",
+                "idHojaVida": 165803,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 168649,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 3,
+            "orgPolRenunciaOp": "TODOS POR EL PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 165803,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 203987,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 14400.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 165803,
+                "idEstado": 1,
+                "totalIngresos": 14400.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 204639,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "P2R526 ",
+                "valor": 20000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA CHEVROLET",
+                "comentario": null,
+                "idHojaVida": 165803,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

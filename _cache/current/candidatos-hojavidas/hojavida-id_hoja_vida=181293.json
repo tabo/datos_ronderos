@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 181293.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "46237598",
+        "nombres": "MARIA ALEJANDRA",
+        "apellidoPaterno": "MAMANI",
+        "apellidoMaterno": "GUTIERREZ",
+        "sexo": "2",
+        "feNacimiento": "07/02/1990",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040122",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "AREQUIPA",
+        "naciDistrito": "VITOR",
+        "ubigeoDomicilio": "040122",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "AREQUIPA",
+        "domiDistrito": "VITOR",
+        "domicilioDirecc": "PUEBLO VIEJO MZ. M LT. 7",
+        "ubigeoPostula": "040122",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "AREQUIPA",
+        "postulaDistrito": "VITOR",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/181293.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2744.0,
+        "organizacionPolitica": "YO AREQUIPA",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 15:41:39",
+        "txGuidFormatoHojaVida": "5d1d45f2-bc94-4ed6-aa0e-9cd9235ebce5",
+        "idSolicitudLista": 29006.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 157014,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "A Y R-THILU",
+            "ocupacionProfesion": "COLABORADORA",
+            "rucTrabajo": "10462375986",
+            "direccionTrabajo": "ANEXO PUEBLO VIEJO",
+            "anioTrabajoDesde": "2017",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "040122",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "AREQUIPA",
+            "trabajoDistrito": "VITOR",
+            "idHojaVida": 181293,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 137141,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 181293,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 135712,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1264,
+            "orgPolRenunciaOp": "JUNTOS POR EL PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 181293,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 135711,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 181293,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 136492,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 4800.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 181293,
+                "idEstado": 1,
+                "totalIngresos": 4800.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 149266,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "AUTOMOVIL",
+                "marca": null,
+                "placa": "VAK-058",
+                "valor": 56000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA KIA",
+                "comentario": "KIA",
+                "idHojaVida": 181293,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

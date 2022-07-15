@@ -1,0 +1,142 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 231110.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "41963981",
+        "nombres": "CRISTIAN ERICK",
+        "apellidoPaterno": "PACHECO",
+        "apellidoMaterno": "LASTRA",
+        "sexo": "1",
+        "feNacimiento": "12/02/1981",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110801",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "CHANCHAMAYO",
+        "naciDistrito": "CHANCHAMAYO",
+        "ubigeoDomicilio": "110804",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "CHANCHAMAYO",
+        "domiDistrito": "SAN LUIS DE SHUARO",
+        "domicilioDirecc": "BQ PUENTE CAPELO 19 CPME. PUENTE CAPELO",
+        "ubigeoPostula": "110804",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "CHANCHAMAYO",
+        "postulaDistrito": "SAN LUIS DE SHUARO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/231110.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 12:41:14",
+        "txGuidFormatoHojaVida": "0b818d80-7bec-4699-acb0-d63d208a86c2",
+        "idSolicitudLista": 35273.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 249088,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MUNICIPALIDAD DISTRITAL DE SAN LUIS DE SHUARO",
+            "ocupacionProfesion": "ENCARGADO DE ATM",
+            "rucTrabajo": "20204460648",
+            "direccionTrabajo": "SAN LUIS DE SHUARO",
+            "anioTrabajoDesde": "2022",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "110804",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "CHANCHAMAYO",
+            "trabajoDistrito": "SAN LUIS DE SHUARO",
+            "idHojaVida": 231110,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 217158,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 231110,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 198499,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 24000.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 231110,
+                "idEstado": 1,
+                "totalIngresos": 24000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 198948,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "7183GW ",
+                "valor": 7545.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLORNEGRO,MARCASUNSHINE,MODELOTORQUE",
+                "comentario": null,
+                "idHojaVida": 231110,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 136735,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "00028.2021-0-3401-JP-FC-02",
+            "txOrganoJuridicialObliga": "JUZGADO DE PAZ LETRADO LA MERCED",
+            "txFalloObliga": "ACTA DE CONCILIACIÓN",
+            "idEstado": 1,
+            "idHojaVida": 231110,
+            "txComentario": null
+        }
+    ]
+}

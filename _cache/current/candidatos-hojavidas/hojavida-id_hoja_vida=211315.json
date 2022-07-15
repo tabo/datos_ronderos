@@ -1,0 +1,158 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 211315.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "73479955",
+        "nombres": "NOEL EDGAR",
+        "apellidoPaterno": "HUAMAN",
+        "apellidoMaterno": "GAMARRA",
+        "sexo": "1",
+        "feNacimiento": "12/10/1993",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "071304",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "URUBAMBA",
+        "naciDistrito": "MACHUPICCHU",
+        "ubigeoDomicilio": "071304",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "URUBAMBA",
+        "domiDistrito": "MACHUPICCHU",
+        "domicilioDirecc": "JR. ANTISUYO 149",
+        "ubigeoPostula": "071304",
+        "postulaDepartamento": "CUSCO",
+        "postulaProvincia": "URUBAMBA",
+        "postulaDistrito": "MACHUPICCHU",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/211315.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2173.0,
+        "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 15:01:43",
+        "txGuidFormatoHojaVida": "9998fc77-8740-4319-a07a-79747f5f8f8a",
+        "idSolicitudLista": 32952.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 256659,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INVERSIONES EL TUNQUI",
+            "ocupacionProfesion": "DIRECTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE CRUZ VERDE",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "070101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CUSCO",
+            "trabajoProvincia": "CUSCO",
+            "trabajoDistrito": "CUSCO",
+            "idHojaVida": 211315,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 229376,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 211315,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 158787,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "SUPERIOR TECNOLÓGICO - ANTONIO LORENA",
+                "carreraTecnico": "PROFESIONAL TÉCNICO EN GUÍA OFICIAL DE TURISMO",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 211315,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 190626,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD ANDINA DEL CUSCO",
+                "carreraUni": "BACHILLER EN MARKETING",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2022",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 205221,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 25000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 211315,
+                "idEstado": 1,
+                "totalIngresos": 25000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 205545,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "X3W119 ",
+                "valor": 50000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMIONETA",
+                "comentario": "DONACION",
+                "idHojaVida": 211315,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

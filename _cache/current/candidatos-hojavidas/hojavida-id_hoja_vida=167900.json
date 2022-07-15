@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 167900.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40778115",
+        "nombres": "WILBER ALFREDO",
+        "apellidoPaterno": "CANCHARI",
+        "apellidoMaterno": "QUISPE",
+        "sexo": "1",
+        "feNacimiento": "09/10/1980",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "100201",
+        "naciDepartamento": "ICA",
+        "naciProvincia": "CHINCHA",
+        "naciDistrito": "CHINCHA ALTA",
+        "ubigeoDomicilio": "140705",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "YAUYOS",
+        "domiDistrito": "AZANGARO",
+        "domicilioDirecc": "CALLE CHINCHA LT 43",
+        "ubigeoPostula": "140705",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "YAUYOS",
+        "postulaDistrito": "AZANGARO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/167900.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 332.0,
+        "organizacionPolitica": "CONCERTACION PARA EL DESARROLLO REGIONAL - LIMA",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 10:33:07",
+        "txGuidFormatoHojaVida": "aac82481-c8b8-42f8-87a3-de98e93a5a56",
+        "idSolicitudLista": 27218.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 204263,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "UGEL CHINCHA",
+            "ocupacionProfesion": "DOCENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE BENAVIDES",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140705",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "YAUYOS",
+            "trabajoDistrito": "AZANGARO",
+            "idHojaVida": 167900,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 179819,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 167900,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 139551,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "I.S.P. MARIA REICHE",
+                "carreraNoUni": "PROFESOR DE MATEMATICA",
+                "concluidoNoUni": "1",
+                "idHojaVida": 167900,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 141283,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 553,
+                "orgPolCargoElec": "PATRIA JOVEN",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2015",
+                "anioCargoElecHasta": "2018",
+                "idHojaVida": 167900,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 152298,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 553,
+            "orgPolRenunciaOp": "PATRIA JOVEN",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 167900,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 167830,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 30000.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 167900,
+                "idEstado": 1,
+                "totalIngresos": 30000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,105 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20441,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2257,
+        "txOrganizacionPolitica": "JUNTOS POR EL DESARROLLO DE AREQUIPA",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/8f8b32a2-6914-4a7f-9802-5a555d96f20e.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/f11c5ad6-4ecf-4e74-b652-dc5a9f5e031c.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 190471,
+            "txPgProblema": "LIMITADO ACCESO DE LA POBLACIÓN A LOS SERVICIOS DE SANEAMIENTO DE CALIDAD EN EL DISTRITO DE TOMEPAMPA",
+            "txPgObjetivo": "ELEVAR EL ACCESO DE LA POBLACIÓN A LOS SERVICIOS DE SANEAMIENTO DE CALIDAD EN EL DISTRITO DE TOMEPAMPA.",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN CON ACCESO A SERVICIOS DE SANEAMIENTO",
+            "txPgMeta": "10%\n(MANTENER OPERATIVO EL SISTEMA DE AGUA Y DESAGÜE LAS 24 HORAS EN EL DISTRITO DE TOMEPAMPA Y SUS ANEXOS ACHAMBI, LOCRAHUANCA, Y LOS CASERIOS DE SAN JUAN, HUAYAHUANCA).",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 190503,
+            "txPgProblema": "ALTOS NIVELES DE DESNUTRICIÓN Y ANEMIA TOTAL EN POBLACIÓN DE NIÑOS MENORES DE 5 AÑOS",
+            "txPgObjetivo": "DISMINUIR LA DESNUTRICIÓN Y LA ANEMIA TOTAL EN POBLACIÓN DE NIÑOS MENORES DE 5 AÑOS",
+            "txPgIndicador": "PORCENTAJE DE DESNUTRICIÓN Y ANEMIA EN NIÑOS MENORES DE 5 AÑOS.",
+            "txPgMeta": "20%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 190527,
+            "txPgProblema": "AUSENCIA DE SERVICIO DE INTERNET EN LOS CENTROS EDUCATIVOS DEL DISTRITO DE TOMEPAMPA",
+            "txPgObjetivo": "IMPLEMENTAR CON SERVICIO DE INTERNET EN LAS INSTITUCIONES EDUCATIVAS DEL DISTRITO DE TOMEPAMPA",
+            "txPgIndicador": "PORCENTAJE DE I.E. CON SERVICIOS DE INTERNET.",
+            "txPgMeta": "50%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 190552,
+            "txPgProblema": "INADECUADAS CONDICIONES DE INFRAESTRUCTURA DE LAS REDES VIALES DEL DISTRITO DE TOMEPAMPA.",
+            "txPgObjetivo": "MEJORAR E INCREMENTAR MEJORES CONDICIONES DE LA INFRAESTRUCTURA DE RED VIAL DEL DISTRITO DE TOMEPAMPA",
+            "txPgIndicador": "PORCENTAJE DE RED VIAL MEJORADA.",
+            "txPgMeta": "30%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 190583,
+            "txPgProblema": "BAJOS NIVELES DE PRODUCCIÓN AGRÍCOLA",
+            "txPgObjetivo": "MEJORAR Y AMPLIAR LA FRONTERA AGRÍCOLA OPTIMIZANDO LOS RECURSOS HÍDRICOS EN EL DISTRITO DE TOMEPAMPA",
+            "txPgIndicador": "PORCENTAJE DE PRODUCTORES AGRÍCOLAS CON INFRAESTRUCTURA MEJORADA CON TECNOLOGÍAS DE RIEGO.",
+            "txPgMeta": "30%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 190623,
+            "txPgProblema": "AUSENCIA DE DESARROLLO TURÍSTICO EN EL DISTRITO DE TOMEPAMPA",
+            "txPgObjetivo": "PROMOVER EL DESARROLLO TURÍSTICO CON UNA OFERTA DIVERSIFICADA.\nARTICULAR LOS ATRACTIVOS TURÍSTICOS DEL DISTRITO AL FLUJO TURÍSTICO DE LA PROVINCIA DE LA UNIÓN.",
+            "txPgIndicador": "PORCENTAJE DE OFERTA TURÍSTICA DIVERSIFICADA",
+            "txPgMeta": "30%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 190660,
+            "txPgProblema": "DEFICIENTE MANEJO DE RESIDUOS SÓLIDOS ALTAMENTE CONTAMINANTES EN EL DISTRITO DE TOMEPAMPA",
+            "txPgObjetivo": "PROMOVER Y MEJORAR EL SISTEMA DE RECOJO DE RESIDUOS SÓLIDOS EN EL DISTRITO DE  TOMEPAMPA",
+            "txPgIndicador": "NÚMERO DE UNIDADES DE RECOJO DE RESIDUOS SÓLIDOS",
+            "txPgMeta": "02",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 190683,
+            "txPgProblema": "DEFICIENTE SERVICIO DE ATENCIÓN AL CIUDADANO\n\nDEFICIENTE SISTEMAS ADMINISTRATIVOS EN LA MUNICIPALIDAD.",
+            "txPgObjetivo": "SISTEMATIZACIÓN Y AUTOMATIZACIÓN DE LOS PROCEDIMIENTOS ADMINISTRATIVOS DE LA MUNICIPALIDAD DE TOMEPAMPA.",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN ATENDIDA CON SERVICIOS SISTEMATIZADOS.",
+            "txPgMeta": "50%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

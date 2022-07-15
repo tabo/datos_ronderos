@@ -1,0 +1,155 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 237092.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "73104745",
+        "nombres": "VICTOR HUGO",
+        "apellidoPaterno": "BARDALES",
+        "apellidoMaterno": "GARCIA",
+        "sexo": "1",
+        "feNacimiento": "03/05/2002",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "150401",
+        "naciDepartamento": "LORETO",
+        "naciProvincia": "REQUENA",
+        "naciDistrito": "REQUENA",
+        "ubigeoDomicilio": "140135",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "EL AGUSTINO",
+        "domicilioDirecc": "CALLE SANTA ROSA 122 PISO 2",
+        "ubigeoPostula": "140135",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "EL AGUSTINO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/237092.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 4.0,
+        "organizacionPolitica": "ACCION POPULAR",
+        "numeroCandidato": 8.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 17:31:36",
+        "txGuidFormatoHojaVida": "854324f1-2b9c-4d2a-891a-8db6026fe309",
+        "idSolicitudLista": 35976.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 242504,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "WINNAAR MV SRL",
+            "ocupacionProfesion": "AUXILIAR CONTABLE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE SANTA ROSA 122",
+            "anioTrabajoDesde": "2022",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140135",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "EL AGUSTINO",
+            "idHojaVida": 237092,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 214310,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 237092,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 182875,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD PRIVADA DEL NORTE",
+                "carreraUni": "ESTUDIANTE",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "ESTUDIANTE DEL TERCER SIGLO - CONTABILIDAD"
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 146712,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "QUE EN EL AÑO 2021, NO PERCIBÍ NINGÚN INGRESO ECONÓMICO.\nLA EMPRESA WINAAR MV SRL FUE CONSTITUIDA A PARTIR DE ENERO DEL AÑO 2022",
+            "idHojaVida": 237092,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 197841,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 237092,
+                "idEstado": 1,
+                "totalIngresos": 0.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 7090,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "WINNAAR MV SRL",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 60.0,
+                "flValor": 100.0,
+                "idHojaVida": 237092,
+                "idEstado": 1,
+                "txUsuario": "09562215",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

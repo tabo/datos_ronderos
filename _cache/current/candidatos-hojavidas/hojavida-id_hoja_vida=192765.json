@@ -1,0 +1,157 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 192765.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40577002",
+        "nombres": "JAVIER",
+        "apellidoPaterno": "APAZA",
+        "apellidoMaterno": "MAMANI",
+        "sexo": "1",
+        "feNacimiento": "22/05/1980",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "200603",
+        "naciDepartamento": "PUNO",
+        "naciProvincia": "LAMPA",
+        "naciDistrito": "CALAPUJA",
+        "ubigeoDomicilio": "200603",
+        "domiDepartamento": "PUNO",
+        "domiProvincia": "LAMPA",
+        "domiDistrito": "CALAPUJA",
+        "domicilioDirecc": "PARCIALIDAD MARIA OCCHILE",
+        "ubigeoPostula": "200603",
+        "postulaDepartamento": "PUNO",
+        "postulaProvincia": "LAMPA",
+        "postulaDistrito": "CALAPUJA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/192765.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2657.0,
+        "organizacionPolitica": "SOMOS PUEBLO",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 13:01:16",
+        "txGuidFormatoHojaVida": "4ee63317-d69e-44c1-9b9b-845f2b454fc4",
+        "idSolicitudLista": 30565.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 228884,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "OFICIAL DE CONSTRUCCION",
+            "rucTrabajo": null,
+            "direccionTrabajo": "PARCIALIDAD MARIA AUXILIADORA",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "200603",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PUNO",
+            "trabajoProvincia": "LAMPA",
+            "trabajoDistrito": "CALAPUJA",
+            "idHojaVida": 192765,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "TRABAJO DE MANERA INDEPENDIENTE EN DIFERENTES LUGARES DE CALAPUJA Y JULIACA"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 201908,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 192765,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 160115,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 371,
+            "orgPolRenunciaOp": "MOVIMIENTO REGIONAL DE INTEGRACION ANDINA",
+            "anioRenunciaOp": "2011",
+            "idHojaVida": 192765,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 160114,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 292,
+            "orgPolRenunciaOp": "MORAL Y DESARROLLO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 192765,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 184347,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 16800.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 192765,
+                "idEstado": 1,
+                "totalIngresos": 16800.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 229307,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "INMUEBLE - TERRENO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CALLE NUEVA S/N - CERCADO CALAPUJA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 4000.0,
+                "idHojaVida": 192765,
+                "idEstado": 1,
+                "flValor": "4000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

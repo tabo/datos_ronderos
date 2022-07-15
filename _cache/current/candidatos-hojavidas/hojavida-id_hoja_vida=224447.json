@@ -1,0 +1,128 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 224447.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "73637697",
+        "nombres": "FELIX JOEL",
+        "apellidoPaterno": "MARTINEZ",
+        "apellidoMaterno": "URRUTIA",
+        "sexo": "1",
+        "feNacimiento": "14/01/2001",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140720",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "YAUYOS",
+        "naciDistrito": "QUINCHES",
+        "ubigeoDomicilio": "140720",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "YAUYOS",
+        "domiDistrito": "QUINCHES",
+        "domicilioDirecc": "CP SAN JUAN DE MALLEURAN",
+        "ubigeoPostula": "140720",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "YAUYOS",
+        "postulaDistrito": "QUINCHES",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/224447.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 07:07:45",
+        "txGuidFormatoHojaVida": "3e4257ee-a68e-417a-a90f-a5194abdc2bb",
+        "idSolicitudLista": 34498.0,
+        "txComentario": "REGIDOR N°5"
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 197315,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AGRICULTOR",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "QUINCHES",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140720",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "YAUYOS",
+            "trabajoDistrito": "QUINCHES",
+            "idHojaVida": 224447,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 173803,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 224447,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 163138,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 10800.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 224447,
+                "idEstado": 1,
+                "totalIngresos": 10800.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 173336,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "3265PA ",
+                "valor": 4000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": null,
+                "idHojaVida": 224447,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,140 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 209969.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "80367901",
+        "nombres": "JOHN RICHARD",
+        "apellidoPaterno": "VEGA",
+        "apellidoMaterno": "MONTERO",
+        "sexo": "1",
+        "feNacimiento": "11/11/1977",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "130112",
+        "naciDepartamento": "LAMBAYEQUE",
+        "naciProvincia": "CHICLAYO",
+        "naciDistrito": "JOSE LEONARDO ORTIZ",
+        "ubigeoDomicilio": "130112",
+        "domiDepartamento": "LAMBAYEQUE",
+        "domiProvincia": "CHICLAYO",
+        "domiDistrito": "JOSE LEONARDO ORTIZ",
+        "domicilioDirecc": "P.JOVEN JAVIER CASTRO MZ. C LT. 21",
+        "ubigeoPostula": "130112",
+        "postulaDepartamento": "LAMBAYEQUE",
+        "postulaProvincia": "CHICLAYO",
+        "postulaDistrito": "JOSE LEONARDO ORTIZ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/209969.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2869.0,
+        "organizacionPolitica": "PARTIDO PATRIOTICO DEL PERU",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 16:05:08",
+        "txGuidFormatoHojaVida": "e276bc46-68b6-411a-8630-7358028e2350",
+        "idSolicitudLista": 32775.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 235753,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "CONDUCTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JOSE LEONARDO ORTIZ",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "130112",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LAMBAYEQUE",
+            "trabajoProvincia": "CHICLAYO",
+            "trabajoDistrito": "JOSE LEONARDO ORTIZ",
+            "idHojaVida": 209969,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 208129,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 209969,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 162127,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 179,
+            "orgPolRenunciaOp": "PARTIDO NACIONALISTA PERUANO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 209969,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 188806,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 30000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 209969,
+                "idEstado": 1,
+                "totalIngresos": 30000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 193628,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "MG54370",
+                "valor": 4000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOKAR",
+                "comentario": "COLOR ROJO",
+                "idHojaVida": 209969,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

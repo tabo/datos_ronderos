@@ -1,0 +1,168 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 155872.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42059315",
+        "nombres": "JOSE LUIS",
+        "apellidoPaterno": "VILLALOBOS",
+        "apellidoMaterno": "BADURELES",
+        "sexo": "1",
+        "feNacimiento": "28/10/1983",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "150101",
+        "naciDepartamento": "LORETO",
+        "naciProvincia": "MAYNAS",
+        "naciDistrito": "IQUITOS",
+        "ubigeoDomicilio": "140140",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "SAN BORJA",
+        "domicilioDirecc": "CALLE JOSE ALVAREZ CALDERON 355 DPTO.402 URB.T.DE LIMATAMBO",
+        "ubigeoPostula": "140140",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "SAN BORJA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/155872.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 4.0,
+        "organizacionPolitica": "ACCION POPULAR",
+        "numeroCandidato": 8.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 18:32:10",
+        "txGuidFormatoHojaVida": "47290e15-fe64-4536-a749-3d7765efeb4e",
+        "idSolicitudLista": 25573.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 254959,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "ACADEMIA JOSE LEONARDO",
+            "ocupacionProfesion": "DOCENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV ROBERTO YAÑEZ 113",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140401",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "CAÑETE",
+            "trabajoDistrito": "SAN VICENTE DE CAÑETE",
+            "idHojaVida": 155872,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 227216,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 155872,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 158279,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "INSTITUTO INTERNACIONAL",
+                "carreraTecnico": "COMPUTACION E INFORMATICA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 155872,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 168557,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 15,
+            "orgPolRenunciaOp": "PARTIDO POPULAR CRISTIANO - PPC",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 155872,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 203744,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 20000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 155872,
+                "idEstado": 1,
+                "totalIngresos": 20000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 204483,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "BFW160 ",
+                "valor": 40000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "RENAULT LOGAN",
+                "comentario": null,
+                "idHojaVida": 155872,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 204482,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "F1P302 ",
+                "valor": 8000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTOMOVIL NISSAN SUNNY",
+                "comentario": null,
+                "idHojaVida": 155872,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

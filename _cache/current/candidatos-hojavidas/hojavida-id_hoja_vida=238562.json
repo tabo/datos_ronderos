@@ -1,0 +1,150 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 238562.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "16296195",
+        "nombres": "EUSTACIA",
+        "apellidoPaterno": "QUIROZ",
+        "apellidoMaterno": "DE REYES",
+        "sexo": "2",
+        "feNacimiento": "18/01/1953",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140715",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "YAUYOS",
+        "naciDistrito": "HUAÑEC",
+        "ubigeoDomicilio": "140715",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "YAUYOS",
+        "domiDistrito": "HUAÑEC",
+        "domicilioDirecc": "JR. BALTA S/N",
+        "ubigeoPostula": "140715",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "YAUYOS",
+        "postulaDistrito": "HUAÑEC",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/238562.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 07:49:51",
+        "txGuidFormatoHojaVida": "67b6cf79-8224-4a4f-8d89-2c8631e38901",
+        "idSolicitudLista": 36156.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 195207,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "GANADERIA",
+            "ocupacionProfesion": "GANADERA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "HUAÑEC",
+            "anioTrabajoDesde": "2000",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140715",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "YAUYOS",
+            "trabajoDistrito": "HUAÑEC",
+            "idHojaVida": 238562,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 172024,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 238562,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 140399,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 46,
+                "orgPolCargoElec": "PERU POSIBLE",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2011",
+                "anioCargoElecHasta": "2014",
+                "idHojaVida": 238562,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 161855,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 7200.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 238562,
+                "idEstado": 1,
+                "totalIngresos": 7200.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 204346,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "SECTOR 1 GRUPO 4 MZ L LOTE 14 DISTRITO VILLA SALVADOR",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 90000.0,
+                "idHojaVida": 238562,
+                "idEstado": 1,
+                "flValor": "90000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

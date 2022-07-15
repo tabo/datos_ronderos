@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 22047,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2856,
+        "txOrganizacionPolitica": "ALIANZA GOBIERNO UNIDAD Y ACCION",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/0b78ea8a-d7dc-42f8-b436-b261cc24e0c8.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/a8fbe530-1f47-49c1-aa56-3d14c45a172b.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 126711,
+            "txPgProblema": "BAJA CALIDAD DE SERVICIOS BÁSICOS: AGUA Y DESAGÜE",
+            "txPgObjetivo": "INCREMENTAR LOS SERVICIOS BÁSICOS DE SANEAMIENTO",
+            "txPgIndicador": "% DE PROYECTOS DE SANEAMIENTO BÁSICO",
+            "txPgMeta": "CONSTRUCCIÓN Y/O MEJORAMIENTO DE LOS SERVICIOS BÁSICOS EN EL ÁMBITO DISTRITAL",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126713,
+            "txPgProblema": "BAJA CALIDAD EDUCATIVA POR INADECUADA INFRAESTRUCTURA Y EQUIPAMIENTO",
+            "txPgObjetivo": "MEJORAR LAS INFRAESTRUCTURAS EDUCATIVAS Y SU EQUIPAMIENTO",
+            "txPgIndicador": "% DE INFRAESTRUCTURAS MEJORADAS",
+            "txPgMeta": "CONSTRUCCIÓN Y/O MEJORAMIENTO DE INFRAESTRUCTURAS EDUCATIVAS Y EQUIPAMIENTO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126715,
+            "txPgProblema": "INADECUADA INFRAESTRUCTURA Y PRESTACIÓN DE SERVICIOS DE SALUD",
+            "txPgObjetivo": "MEJORAR LA PRESTACIÓN DE SERVICIOS DE SALUD",
+            "txPgIndicador": "% DE POBLACIÓN SATISFECHA",
+            "txPgMeta": "CONSTRUCCIÓN Y/O MEJORAMIENTO DE INFRAESTRUCTURAS DE SALUD",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 126717,
+            "txPgProblema": "BAJOS RENDIMIENTOS DE LA PRODUCCIÓN AGRÍCOLA Y PECUARIA",
+            "txPgObjetivo": "INCREMENTAR LOS RENDIMIENTOS DE LA PRODUCCIÓN AGRÍCOLA Y PECUARIA",
+            "txPgIndicador": "% DE PROYECTOS DE SISTEMAS DE RIESGO IMPLEMENTADOS",
+            "txPgMeta": "CONSTRUCCIÓN DE INFRAESTRUCTURAS Y SISTEMAS DE RIEGO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126719,
+            "txPgProblema": "INADECUADA INFRAESTRUCTURA VIAL EN EL ÁMBITO DISTRITAL",
+            "txPgObjetivo": "MEJORAR LAS INFRAESTRUCTURAS VIALES EN EL ÁMBITO DISTRITAL",
+            "txPgIndicador": "% DE INFRAESTRUCTURAS MEJORADAS",
+            "txPgMeta": "ASFALTADO DE LA VÍA PRINCIPAL DESDE EL CRUCE DE TARICÁ HASTA LA INTERSECCIÓN CON LA VÍA HUARAZ CARAZ EN EL DISTRITO DE MARCARÁ.\nASFALTADO DE LA VÍA AL CENTRO POBLADO DE PASHPA Y COLLÓN",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126721,
+            "txPgProblema": "ESCASA PROMOCIÓN DE LOS ATRACTIVOS TURÍSTICOS",
+            "txPgObjetivo": "PROPICIAR Y PROMOCIONAR LOS ATRACTIVOS TURÍSTICOS COMO EL NEVADO ISHINCA, LAGUNAS Y OTROS",
+            "txPgIndicador": "% DE VISITANTES A LOS ATRACTIVOS TURÍSTICOS",
+            "txPgMeta": "PROMOCIÓN DE LA ACTIVIDAD TURÍSTICA EN EL NEVADO ISHINCA Y LAS DIFERENTES LAGUNAS.\nPROMOCIÓN DE LA ACTIVIDAD TURÍSTICA EN EL CENTRO ARTESANAL DE TARICÁ.\nPROMOCIÓN DE LA ACTIVIDAD TURÍSTICA EN EL CIRCUITO TURÍSTICO TARICÁ – HONCOPAMPA.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 126725,
+            "txPgProblema": "CRECIMIENTO URBANO Y RURAL DESORDENADO",
+            "txPgObjetivo": "FORMULAR EL PLANEAMIENTO TERRITORIAL",
+            "txPgIndicador": "% DE CATASTRO URBANO Y RURAL",
+            "txPgMeta": "CATASTRO DE LA ZONA Y EXPANSIÓN URBANA.\nCATASTRO DE LA ZONA RURAL.\nFORMULAR PLANES TERRITORIALES.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126727,
+            "txPgProblema": "MANEJO INADECUADO DE LOS RESIDUOS SÓLIDOS Y AGUAS RESIDUALES",
+            "txPgObjetivo": "MANEJAR ADECUADAMENTE LOS RESIDUOS SÓLIDOS Y AGUAS RESIDUALES",
+            "txPgIndicador": "% DE ÁREAS DESCONTAMINADAS",
+            "txPgMeta": "CONSTRUCCIÓN DE UN RELLENO SANITARIO.\nCONSTRUCCIÓN Y/O MEJORAMIENTO DE PLANTAS DE TRATAMIENTO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126730,
+            "txPgProblema": "ZONAS CRÍTICAS Y ZONA DE RIESGO EN EL ÁMBITO DEL DISTRITO DE TARICÁ",
+            "txPgObjetivo": "FORMULAR PROYECTOS DE PREVENCIÓN ANTE RIESGOS DE DESASTRES",
+            "txPgIndicador": "% DE ZONAS IDENTIFICADAS CON NIVELES DE RIESGO",
+            "txPgMeta": "PLAN DE PREVENCIÓN DE RIESGOS DE DESASTRES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 126731,
+            "txPgProblema": "BAJA CALIDAD DE SERVICIOS MUNICIPALES",
+            "txPgObjetivo": "MODERNIZAR LA ADMINISTRACIÓN MUNICIPAL",
+            "txPgIndicador": "% DE VECINOS SATISFECHOS",
+            "txPgMeta": "IMPLEMENTACIÓN DEL GOBIERNO DIGITAL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126733,
+            "txPgProblema": "NULA PARTICIPACIÓN VECINAL EN LA GESTIÓN MUNICIPAL",
+            "txPgObjetivo": "PROMOVER LA PARTICIPACIÓN VECINAL EN LA GESTIÓN MUNICIPAL",
+            "txPgIndicador": "% DE VECINOS IDENTIFICADOS CON LA GESTIÓN MUNICIPAL",
+            "txPgMeta": "FORMULACIÓN DE PLANES DE PARTICIPACIÓN CIUDADANA.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126736,
+            "txPgProblema": "BAJO CONOCIMIENTO DE LA GESTIÓN MUNICIPAL",
+            "txPgObjetivo": "FORTALECER LAS CAPACIDADES INSTITUCIONALES",
+            "txPgIndicador": "% DE SERVIDORES PÚBLICOS CAPACITADOS",
+            "txPgMeta": "TALLERES ANUALES SOBRE GESTIÓN MUNICIPAL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

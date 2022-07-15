@@ -1,0 +1,150 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 207080.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42209878",
+        "nombres": "BEDER LIRROY",
+        "apellidoPaterno": "VALLES",
+        "apellidoMaterno": "DIAZ",
+        "sexo": "1",
+        "feNacimiento": "27/09/1979",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "060402",
+        "naciDepartamento": null,
+        "naciProvincia": null,
+        "naciDistrito": null,
+        "ubigeoDomicilio": "121103",
+        "domiDepartamento": "LA LIBERTAD",
+        "domiProvincia": "GRAN CHIMU",
+        "domiDistrito": "MARMOT",
+        "domicilioDirecc": "CASERIO HUANCAY 2 S/N",
+        "ubigeoPostula": "121103",
+        "postulaDepartamento": "LA LIBERTAD",
+        "postulaProvincia": "GRAN CHIMU",
+        "postulaDistrito": "MARMOT",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/207080.jpg",
+        "estado": "INSCRITO",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 12:32:23",
+        "txGuidFormatoHojaVida": "303a1ee7-e30d-4985-8c0e-1b5718644c3a",
+        "idSolicitudLista": 32406.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 188354,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MUNICIPALIDAD DISTRITAL DE MARMOT",
+            "ocupacionProfesion": "REDIGOR",
+            "rucTrabajo": "20217925194",
+            "direccionTrabajo": "JR MELEVO N 414",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "121103",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LA LIBERTAD",
+            "trabajoProvincia": "GRAN CHIMU",
+            "trabajoDistrito": "MARMOT",
+            "idHojaVida": 207080,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 165875,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 207080,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 139666,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 1257,
+                "orgPolCargoElec": "ALIANZA PARA EL PROGRESO",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2019",
+                "anioCargoElecHasta": "2022",
+                "idHojaVida": 207080,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 143470,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "SOY  AGRICULTOR DESDE EL AÑO  HASTA LA ACTUALIDAD  DONDE GENERO 2083 SOLES",
+            "idHojaVida": 207080,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 157231,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 6480.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 207080,
+                "idEstado": 1,
+                "totalIngresos": 6480.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 137091,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "6308-2011",
+            "txOrganoJuridicialObliga": "2DO JUZGADO UNIPERSONAL",
+            "txFalloObliga": "CANCELAR DEUDA Y ARCHIVAR",
+            "idEstado": 1,
+            "idHojaVida": 207080,
+            "txComentario": null
+        }
+    ]
+}

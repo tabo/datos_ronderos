@@ -1,0 +1,150 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 169038.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "06850472",
+        "nombres": "YOOGNER GENARO",
+        "apellidoPaterno": "BELTRAN",
+        "apellidoMaterno": "BELTRAN",
+        "sexo": "1",
+        "feNacimiento": "19/09/1963",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140716",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "YAUYOS",
+        "naciDistrito": "LARAOS",
+        "ubigeoDomicilio": "110113",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "HUANCAYO",
+        "domiDistrito": "EL TAMBO",
+        "domicilioDirecc": "CALLE CAMANA 345",
+        "ubigeoPostula": "140716",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "YAUYOS",
+        "postulaDistrito": "LARAOS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/169038.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2173.0,
+        "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 09:29:26",
+        "txGuidFormatoHojaVida": "f634c8bf-9499-4713-a58f-7b81bf90edc0",
+        "idSolicitudLista": 27370.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 204673,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 169038,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 152284,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "IST HEROES DE SIERRA LUME",
+                "carreraTecnico": "EGRESADO",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 169038,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 161043,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 47,
+            "orgPolRenunciaOp": "UNION POR EL PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 169038,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 186279,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 10000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 169038,
+                "idEstado": 1,
+                "totalIngresos": 10000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 191738,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "FH5306 ",
+                "valor": 6000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "VERDE PETROLEO",
+                "comentario": null,
+                "idHojaVida": 169038,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 135361,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "3134",
+            "feSentenciaPenal": "19/08/2013",
+            "txOrganoJudiPenal": "CORTE SUPERIOR DE JUSTICIA JUNIN",
+            "txDelitoPenal": "COHECHO PASIVO",
+            "txFalloPenal": "COHECHO PASIVO",
+            "idParamModalidad": 11,
+            "txModalidad": "SUSPENDIDA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 169038,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": []
+}

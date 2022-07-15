@@ -1,0 +1,153 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 231774.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "21086223",
+        "nombres": "JOHNSON",
+        "apellidoPaterno": "SALVADOR",
+        "apellidoMaterno": "TEJEDA",
+        "sexo": "1",
+        "feNacimiento": "29/05/1966",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110325",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "JAUJA",
+        "naciDistrito": "RICRAN",
+        "ubigeoDomicilio": "110503",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "TARMA",
+        "domiDistrito": "HUARICOLCA",
+        "domicilioDirecc": "AV. JOSE GALVEZ MORENO 203",
+        "ubigeoPostula": "110503",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "TARMA",
+        "postulaDistrito": "HUARICOLCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/231774.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 21:15:10",
+        "txGuidFormatoHojaVida": "c9897252-1eec-43b5-bd68-388fe505c40a",
+        "idSolicitudLista": 35352.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 247542,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "IE 30708 ROSA DE SANTA MARIA",
+            "ocupacionProfesion": "PROFESOR DE AULA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR FRANCISCO DE MARINI",
+            "anioTrabajoDesde": "2000",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "110501",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "TARMA",
+            "trabajoDistrito": "TARMA",
+            "idHojaVida": 231774,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 219181,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 231774,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 143293,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "ISP GUSTAVO ALLENDE",
+                "carreraNoUni": "EDUCACION PRIMARIA",
+                "concluidoNoUni": "1",
+                "idHojaVida": 231774,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 185496,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL FEDERICO VILLARREAL",
+                "carreraUni": "BACHILLER EN EDUCACION",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2000",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 165910,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1259,
+            "orgPolRenunciaOp": "MOVIMIENTO POLITICO REGIONAL PERU LIBRE",
+            "anioRenunciaOp": "2019",
+            "idHojaVida": 231774,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 197446,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 30361.32,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 231774,
+                "idEstado": 1,
+                "totalIngresos": 30361.32
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

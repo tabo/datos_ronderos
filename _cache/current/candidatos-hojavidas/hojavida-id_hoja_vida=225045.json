@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 225045.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "17625365",
+        "nombres": "JUSTINIANO",
+        "apellidoPaterno": "CUMPEN",
+        "apellidoMaterno": "CISNEROS",
+        "sexo": "1",
+        "feNacimiento": "03/11/1955",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "130304",
+        "naciDepartamento": "LAMBAYEQUE",
+        "naciProvincia": "LAMBAYEQUE",
+        "naciDistrito": "JAYANCA",
+        "ubigeoDomicilio": "130304",
+        "domiDepartamento": "LAMBAYEQUE",
+        "domiProvincia": "LAMBAYEQUE",
+        "domiDistrito": "JAYANCA",
+        "domicilioDirecc": "CALLE ELIAS AGUIRRE 633",
+        "ubigeoPostula": "130304",
+        "postulaDepartamento": "LAMBAYEQUE",
+        "postulaProvincia": "LAMBAYEQUE",
+        "postulaDistrito": "JAYANCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/225045.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2343.0,
+        "organizacionPolitica": "MOVIMIENTO VERDE UNIDO",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 18:40:50",
+        "txGuidFormatoHojaVida": "82c75949-29b5-4f71-ab5e-4aaaa590d126",
+        "idSolicitudLista": 34570.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 255102,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "TECNICO AGROPECUARIO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JAYANCA",
+            "anioTrabajoDesde": "1982",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "130304",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LAMBAYEQUE",
+            "trabajoProvincia": "LAMBAYEQUE",
+            "trabajoDistrito": "JAYANCA",
+            "idHojaVida": 225045,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 227516,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 225045,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 158330,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "INEA 17",
+                "carreraTecnico": "TECNICO AGROPECUARIO",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 225045,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 168629,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 46,
+            "orgPolRenunciaOp": "PERU POSIBLE",
+            "anioRenunciaOp": "2017",
+            "idHojaVida": 225045,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 203907,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 16800.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 225045,
+                "idEstado": 1,
+                "totalIngresos": 16800.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

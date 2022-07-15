@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 26291,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/66512a67-12a5-4af3-85a0-845a45256c83.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/e8ec67a9-605c-45d6-99e1-22dd53b5fe77.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 211034,
+            "txPgProblema": "INCREMENTO DE LA INCIDENCIA DE POBREZA MONETARIA.",
+            "txPgObjetivo": "REDUCIR EL NIVEL DE POBREZA MONETARIA EN EL DISTRITO DE COTARUSE.",
+            "txPgIndicador": "% DE LA POBLACIÓN CON INGRESOS ECONÓMICOS MENORES A LA LÍNEA DE POBREZA.",
+            "txPgMeta": "20% ANUAL DE REDUCCION DE LA POBREZA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211054,
+            "txPgProblema": "ALTO ÍNDICE DE DESEMPLEO Y SUBEMPLEO",
+            "txPgObjetivo": "GENERACIÓN DE EMPLEO TEMPORAL PARA MADRES, ESTUDIANTES Y DESEMPLEADOS EN GENERAL.",
+            "txPgIndicador": "Nº DE EMPLEOS TEMPORALES GENERADOS POR LA MUNICIPALIDAD.",
+            "txPgMeta": "2000",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211081,
+            "txPgProblema": "VIVIENDAS SIN ACCESO AL SERVICIO DE SANEAMIENTO(DESAGÜE)",
+            "txPgObjetivo": "CERRAR LA BRECHA DE COBERTURA DEL SERVICIO DE SANEAMIENTO EN COTARUSE.",
+            "txPgIndicador": "% DE VIVIENDAS CON ACCESO A SERVICIOS DE SANEAMIENTO (DESAGÜE)",
+            "txPgMeta": "100%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 211098,
+            "txPgProblema": "LIMITADA DISPONIBILIDAD DE AGUA PARA RIEGO Y PRODUCCIÓN AGROPECUARIA.",
+            "txPgObjetivo": "CONSTRUIR INFRAESTRUCTURA DE RIEGO EN FORMA ÓPTIMA Y OPORTUNA.",
+            "txPgIndicador": "% DE SUPERFICIE AGRÍCOLA CON RIEGO TECNIFICADO.",
+            "txPgMeta": "30%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211135,
+            "txPgProblema": "LIMITADA ASISTENCIA TÉCNICA A LOS PRODUCTORES DE CAMÉLIDOS.",
+            "txPgObjetivo": "MEJORAR LA CADENA DE PRODUCCIÓN, ACOPIO Y COMERCIALIZACIÓN DE FIBRA DE CAMÉLIDOS.",
+            "txPgIndicador": "% DE PRODUCTORES DE CAMÉLIDOS CON ASISTENCIA TÉCNICA",
+            "txPgMeta": "100%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211146,
+            "txPgProblema": "BAJA PRODUCCIÓN DE ANIMALES MENORES.",
+            "txPgObjetivo": "PROMOVER LA PRODUCCIÓN Y COMERCIALIZACIÓN DE ANIMALES MENORES.",
+            "txPgIndicador": "Nª DE MÓDULOS DE ANIMALES MENORES INSTALADOS.",
+            "txPgMeta": "100 \nCADA AÑO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 211160,
+            "txPgProblema": "DEFICIENTE MANEJO Y DISPOSICIÓN FINAL DE LOS RESIDUOS SÓLIDOS DEL DISTRITO.",
+            "txPgObjetivo": "MEJORAR EL SERVICIO DE RECOJO, MANEJO Y DISPOSICIÓN FINAL DE LOS RESIDUOS SÓLIDOS A NIVEL DISTRITAL.",
+            "txPgIndicador": "UN BOTADERO DE RESIDUOS SÓLIDOS OPERATIVO.",
+            "txPgMeta": "1 AREA DE BOTADERO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211167,
+            "txPgProblema": "BAJA COBERTURA DEL SERVICIO DE RECOJO DOMICILIARIO DE RESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "AMPLIAR LA COBERTURA DEL SERVICIO DE RECOJO DOMICILIARIO DE RESIDUOS SÓLIDOS.",
+            "txPgIndicador": "% DE VIVIENDAS CON SERVICIO DOMICILIARIO DE RECOJO DE BASURA.",
+            "txPgMeta": "80%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211178,
+            "txPgProblema": "DEGRADACIÓN DEL SUELO POR LA DEFORESTACIÓN E INCENDIOS FORESTALES.",
+            "txPgObjetivo": "MEJORAMIENTO DEL SISTEMA DE PROTECCIÓN Y VIGILANCIA.",
+            "txPgIndicador": "Nº DE ACCIONES DE CONTROL MENSUAL.",
+            "txPgMeta": "3",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 211231,
+            "txPgProblema": "DEFICIENTES PROCESOS INTERNOS DE LA GESTIÓN MUNICIPAL.",
+            "txPgObjetivo": "MODERNIZAR LA GESTIÓN PÚBLICA MUNICIPAL IMPLEMENTANDO INSTRUMENTOS DE GESTIÓN ADECUADOS Y CAPACITANDO EN FORMA PERMANENTE AL PERSONAL Y AUTORIDADES.",
+            "txPgIndicador": "IMPLEMENTACIÓN DEL MANUAL DE PROCEDIMIENTOS ESTANDARIZADOS.",
+            "txPgMeta": "1 DOCUMENTO ADMINISTRATIVO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211255,
+            "txPgProblema": "DÉBIL IMPLEMENTACIÓN DEL SISTEMA DE PLANEAMIENTO ESTRATÉGICO EN LA GESTIÓN MUNICIPAL.",
+            "txPgObjetivo": "IMPLEMENTAR Y FORTALECER EL SISTEMA DE PLANEAMIENTO ESTRATÉGICO MUNICIPAL.",
+            "txPgIndicador": "Nº DE INSTRUMENTOS DEL SISTEMA DE PLANIFICACIÓN.",
+            "txPgMeta": "8",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211269,
+            "txPgProblema": "INFRAESTRUCTURA, EQUIPAMIENTO Y GESTIÓN LOGÍSTICA INSUFICIENTE",
+            "txPgObjetivo": "MEJORAR LA INFRAESTRUCTURA, EQUIPAMIENTO Y GESTIÓN LOGÍSTICA MUNICIPAL.",
+            "txPgIndicador": "% DE TRABAJADORES CON AMBIENTES, MUEBLES Y EQUIPOS, MODERNOS Y SUFICIENTES.",
+            "txPgMeta": "100%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

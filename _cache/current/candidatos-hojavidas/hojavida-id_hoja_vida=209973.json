@@ -1,0 +1,140 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 209973.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44381589",
+        "nombres": "ALEX OMAR",
+        "apellidoPaterno": "TINEO",
+        "apellidoMaterno": "SALVADOR",
+        "sexo": "1",
+        "feNacimiento": "10/01/1984",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "190405",
+        "naciDepartamento": "PIURA",
+        "naciProvincia": "MORROPON",
+        "naciDistrito": "SALITRAL",
+        "ubigeoDomicilio": "130112",
+        "domiDepartamento": "LAMBAYEQUE",
+        "domiProvincia": "CHICLAYO",
+        "domiDistrito": "JOSE LEONARDO ORTIZ",
+        "domicilioDirecc": "CALLE LOS PINOS ASENT.H. LOS CLAVELES MZ. E LT. 10",
+        "ubigeoPostula": "130112",
+        "postulaDepartamento": "LAMBAYEQUE",
+        "postulaProvincia": "CHICLAYO",
+        "postulaDistrito": "JOSE LEONARDO ORTIZ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/209973.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2869.0,
+        "organizacionPolitica": "PARTIDO PATRIOTICO DEL PERU",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 16:29:05",
+        "txGuidFormatoHojaVida": "5049a838-707d-462b-b71d-af9f10a12c18",
+        "idSolicitudLista": 32775.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 236200,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "CONDUCTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JOSE LEONARDO ORTIZ",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "130112",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LAMBAYEQUE",
+            "trabajoProvincia": "CHICLAYO",
+            "trabajoDistrito": "JOSE LEONARDO ORTIZ",
+            "idHojaVida": 209973,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 208535,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 209973,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 162283,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 179,
+            "orgPolRenunciaOp": "PARTIDO NACIONALISTA PERUANO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 209973,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 189118,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 14400.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 209973,
+                "idEstado": 1,
+                "totalIngresos": 14400.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 193861,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "NC74071",
+                "valor": 5000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "NC 074",
+                "comentario": null,
+                "idHojaVida": 209973,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,144 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 198801.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43072352",
+        "nombres": "BLANCA MARUJA",
+        "apellidoPaterno": "ESTELA",
+        "apellidoMaterno": "FANANTE",
+        "sexo": "2",
+        "feNacimiento": "13/07/1985",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "090603",
+        "naciDepartamento": "HUANUCO",
+        "naciProvincia": "LEONCIO PRADO",
+        "naciDistrito": "HERMILIO VALDIZAN",
+        "ubigeoDomicilio": "090603",
+        "domiDepartamento": "HUANUCO",
+        "domiProvincia": "LEONCIO PRADO",
+        "domiDistrito": "HERMILIO VALDIZAN",
+        "domicilioDirecc": "CASERIO SAN ISIDRO",
+        "ubigeoPostula": "090603",
+        "postulaDepartamento": "HUANUCO",
+        "postulaProvincia": "LEONCIO PRADO",
+        "postulaDistrito": "HERMILIO VALDIZAN",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/198801.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 11:42:44",
+        "txGuidFormatoHojaVida": "bdd10de6-1cef-40ab-aadc-7c560397161e",
+        "idSolicitudLista": 31349.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 234129,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CONSORCIO GLOBAL ENERGY",
+            "ocupacionProfesion": "LECTURADOR- REPARTIDOR DE RECIBOS",
+            "rucTrabajo": "20605619453",
+            "direccionTrabajo": "JR. LORETO 1063",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "090601",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "HUANUCO",
+            "trabajoProvincia": "LEONCIO PRADO",
+            "trabajoDistrito": "RUPA-RUPA",
+            "idHojaVida": 198801,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "NINGUNA"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 206606,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 198801,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 187722,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 1330.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 198801,
+                "idEstado": 1,
+                "totalIngresos": 1330.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 192851,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "3131KW ",
+                "valor": 6150.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "HONDA",
+                "comentario": "COLOR ROJO",
+                "idHojaVida": 198801,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 192850,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "69609W ",
+                "valor": 2900.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA VELOREX",
+                "comentario": "COLOR ROJO",
+                "idHojaVida": 198801,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23199,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2869,
+        "txOrganizacionPolitica": "PARTIDO PATRIOTICO DEL PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/740af4ad-c132-464e-952c-88a840b0d6a2.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/f9476d60-b752-4d2b-b5f5-926ff211df0f.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 211312,
+            "txPgProblema": "MUCHA DELINCUENCIA EN LA ACTUALIDAD.",
+            "txPgObjetivo": "ELIMINAR LA DELINCUENCIA.",
+            "txPgIndicador": "TENER UN DISTRITO SEGURO",
+            "txPgMeta": "DISTRITO SEGURO Y ECOLÓGICO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 211344,
+            "txPgProblema": "INCREMENTO DE LA CONTAMINACIÓN POR AUMENTO DE BASURA EN LA CIUDAD",
+            "txPgObjetivo": "MANTENER UNA CIUDAD LIMPIA CON MAYOR CANTIDAD DE AREAS VERDES QUE NOS PERMITAN TENER UNA CIUDAD AMIGABLE CON EL AMBIENTE.",
+            "txPgIndicador": "CALLES LIMPIAS CON MAS ÁREAS VERDES EN TODA LA CIUDAD.",
+            "txPgMeta": "REDUCIR LA CONTAMINACIÓN AMBIENTAL DE LA CIUDAD EN UN 100%.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 211373,
+            "txPgProblema": "CONTAMINANCIÓN AMBIENTAL POR LA ACUMULACIÓN DE BASURA EN LA CIUDAD.",
+            "txPgObjetivo": "ELIMINAR EL ERROJO DE BASURA EN LAS CALLES DEL DISTRITO.",
+            "txPgIndicador": "CERO% DE BASURA EN LAS CALLES DE LA CIUDAD.",
+            "txPgMeta": "DISTRITO ECOLOGICO EN EL AÑO 2026.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 211398,
+            "txPgProblema": "DESCONFIANZA DE LA POBLACIÓN POR LAS AUTORIDADES MUNICIPALES",
+            "txPgObjetivo": "TRABAJAR CON LOS ACTORES SOCIALES DE LA PROVINCIA Y FORTALECER LA CONFIANZA ENTRE LAS AUTORIDADES Y LOS VECINOS",
+            "txPgIndicador": "TRABAJO COORDINADO ENTRE ADMINISTRADORES Y ADMINISTRADOS.",
+            "txPgMeta": "FORTALECIMIENTO INSTITUCIONAL Y CONFIANZA DE LA POBLACIÓN EN GENERAL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

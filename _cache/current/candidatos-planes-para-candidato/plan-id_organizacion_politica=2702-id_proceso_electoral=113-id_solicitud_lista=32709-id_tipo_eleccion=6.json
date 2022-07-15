@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 26035,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2702,
+        "txOrganizacionPolitica": "MOVIMIENTO DE INTEGRACION Y REVOLUCION ANDINA",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/875e30c9-c0f7-4b3d-afe5-2970369b7f67.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/4f128e5b-747c-41a7-8282-b12e9c489627.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 193311,
+            "txPgProblema": "ESTABLECIMIENTOS EDUCATIVOS EN MAL ESTADO",
+            "txPgObjetivo": "ESTABLECIMIENTOS EDUCATIVOS ADECUADOS ACORDE A NORMAS DEL SECTOR",
+            "txPgIndicador": "NUMERO DE INSTITUCIONES EDUCATIVAS QUE EN MAL ESTADO",
+            "txPgMeta": "0%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 193341,
+            "txPgProblema": "ESTABLECIMIENTOS DE SALUD INADECUADOS SEGÚN NORMAS SECTORIALES",
+            "txPgObjetivo": "ESTABLECIMIENTOS DE SALUD ADECUADOS",
+            "txPgIndicador": "EL % DE ESTABLECIMIENTOS DE SALUD ADECUADOS",
+            "txPgMeta": "100%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 193352,
+            "txPgProblema": "POBLACIÓN SIN ACCESO A AGUA POR RED PUBLICA",
+            "txPgObjetivo": "POBLACIÓN CON ACCESO A AGUA POR RED PUBLICA",
+            "txPgIndicador": "NUMERO DE FAMILIAS CON\nACCESOS A SERVICIOS DE ABASTECIMIENTO DE AGUA",
+            "txPgMeta": "100%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 193368,
+            "txPgProblema": "POBLACIÓN EN SITUACIÓN DE POBREZA MONETARIA",
+            "txPgObjetivo": "REDUCIR LA POBLACIÓN EN SITUACIÓN DE POBREZA MONETARIA",
+            "txPgIndicador": "PERSONAS CUENTAN CON TRABAJOS",
+            "txPgMeta": "HASTA MÁS DEL 80%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 193381,
+            "txPgProblema": "INADECUADAS CONDICIONES\tDE TRANSITABILIDAD A NIVEL DEL DISTRITO",
+            "txPgObjetivo": "MEJORAR LAS CONDICIONES DE TRANSITABILIDAD A NIVEL DEL DISTRITO",
+            "txPgIndicador": "EL MAYOR % DE INFRAESTRUCTURA VIAL ESTÁN EN BUENAS CONDICIONES",
+            "txPgMeta": "LAS CARRETERAS DE ORDEN DISTRITAL, VECINAL CUENTAN CON UN MANTENIMIENTO OPORTUNO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 193416,
+            "txPgProblema": "LIMITADO APOYO\tAL SECTOR AGROPECUARIO.",
+            "txPgObjetivo": "DESARROLLAR LAS CADENAS PRODUCTIVAS CON LA IMPLEMENTACIÓN DE NUEVAS TECNOLOGÍAS QUE GARANTICEN DAR VALOR AGREGADO A LAS\nMATERIAS PRIMAS.",
+            "txPgIndicador": "EL % DE PRODUCCIÓN CON VALOR AGREGADO HA MEJORA",
+            "txPgMeta": "LA\tPRODUCCIÓN AGROPECUARIA ES TECNIFICADA CON VALOR AGREGADO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 193430,
+            "txPgProblema": "ALTOS ÍNDICES DE CONTAMINACIÓN AMBIENTAL",
+            "txPgObjetivo": "RECUPERAR, CONSERVAR EL MANEJO DE LA FAUNA Y FLORA.",
+            "txPgIndicador": "EL % DE CONTAMINACIÓN AMBIENTAL SE HA REDUCIDO",
+            "txPgMeta": "100%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 193455,
+            "txPgProblema": "INADECUADO TRATAMIENTO DE LOS RESIDUOS SÓLIDOS Y LÍQUIDOS QUE CONTAMINAN EL MEDIO AMBIENTE.",
+            "txPgObjetivo": "MEJORAR LOS SISTEMAS DE TRATAMIENTO DE RESIDUOS SÓLIDOS Y LÍQUIDOS A NIVEL DEL DISTRITO.",
+            "txPgIndicador": "EL % DE CONTAMINACIÓN AMBIENTAL SE HA REDUCIDO MEDIANTE EL MANEJO ADECUADO DE RESIDUOS SÓLIDOS Y LÍQUIDOS",
+            "txPgMeta": "EL 100% DE LOS RESIDUOS SÓLIDOS Y LÍQUIDOS TIENEN UN ADECUADO TRATAMIENTO.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 193538,
+            "txPgProblema": "INADECUADO MANEJO DE LOS RECURSOS HÍDRICOS",
+            "txPgObjetivo": "IMPLEMENTAR LA SIEMBRA Y COSECHA DEL AGUA A NIVEL DE CUENTAS DEL DISTRITO",
+            "txPgIndicador": "EL % DE MANEJO DE RECURSOS HÍDRICOS SE HA INCREMENTADO",
+            "txPgMeta": "LA POBLACIÓN TIENE ACCESO AL AGUA PARA EL DESARROLLO DE SUS ACTIVIDADES.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 193623,
+            "txPgProblema": "EXCESIVA BUROCRACIA E INCREMENTO DE LOS ÍNDICES DE CORRUPCIÓN EN LA\tADMINISTRACIÓN MUNICIPAL PARA LA\nPRESTACIÓN DE SERVICIOS PÚBLICOS.",
+            "txPgObjetivo": "IMPLEMENTAR LA GESTIÓN POR RESULTADOS Y EL GOBIERNO ELECTRÓNICO A NIVEL DE LA MUNICIPALIDAD",
+            "txPgIndicador": "EL % DE ACTOS DE CORRUPCIÓN\tHA DISMINUIDO MEDIANTE LA IMPLEMENTACIÓN DE GOBIERNO ELECTRÓNICO",
+            "txPgMeta": "LA POBLACIÓN TIENE ACCESO A UN SERVICIO OPORTUNO Y DE CALIDAD.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 193659,
+            "txPgProblema": "INADECUADA DISTRIBUCIÓN DE LOS RECURSOS PRESUPUESTARIOS DE LA MUNICIPALIDAD",
+            "txPgObjetivo": "IMPLEMENTAR EL PRESUPUESTO POR RESULTADOS A FIN DE TENER RENTABILIDAD SOCIAL.",
+            "txPgIndicador": "LA ADMINISTRACIÓN DE RECURSOS\tES PARTICIPATIVO\tEN SU MAYORÍA",
+            "txPgMeta": "LOS RECURSOS DE LA MUNICIPALIDAD  SE ASIGNAN  A  LAS PRIORIDADES QUE GARANTICEN EL DESARROLLO DE LA PROVINCIA.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 193677,
+            "txPgProblema": "LIMITADA PARTICIPACIÓN DE LA POBLACIÓN EN LA TOMA DE DECISIONES PARA EL DESARROLLO DE LA PROVINCIA.",
+            "txPgObjetivo": "FORTALECER LOS ESPACIOS DE CONCERTACIÓN A NIVEL INTERINSTITUCIONAL Y CON LA SOCIEDAD CIVIL ORGANIZADA",
+            "txPgIndicador": "EL % DE ACTORES SOCIALES EN LA TOMAS DE DECISIONES SE HA INCREMENTADO",
+            "txPgMeta": "EXISTE UN ADECUADO CONTROL CIUDADANO A LAS ACCIONES DE LA MUNICIPALIDAD",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

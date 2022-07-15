@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 152825.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "29088389",
+        "nombres": "JUSTO",
+        "apellidoPaterno": "RAYMUNDO",
+        "apellidoMaterno": "CRUZ",
+        "sexo": "1",
+        "feNacimiento": "02/07/1972",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050704",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "VICTOR FAJARDO",
+        "naciDistrito": "CANARIA",
+        "ubigeoDomicilio": "050704",
+        "domiDepartamento": "AYACUCHO",
+        "domiProvincia": "VICTOR FAJARDO",
+        "domiDistrito": "CANARIA",
+        "domicilioDirecc": "CASERIO HUANCAPAMPA S/N",
+        "ubigeoPostula": "050704",
+        "postulaDepartamento": "AYACUCHO",
+        "postulaProvincia": "VICTOR FAJARDO",
+        "postulaDistrito": "CANARIA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/152825.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2706.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL WARI LLAQTA",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 05:09:45",
+        "txGuidFormatoHojaVida": "650067fc-3d7e-4da1-81ae-396291855eca",
+        "idSolicitudLista": 25159.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 186064,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "SECTOR CONSTRUCCION",
+            "ocupacionProfesion": "MAESTRO ALABAÑIL",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CENTRO POBLADO DE TACA",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "050704",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AYACUCHO",
+            "trabajoProvincia": "VICTOR FAJARDO",
+            "trabajoDistrito": "CANARIA",
+            "idHojaVida": 152825,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 163826,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 152825,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 146341,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 152825,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 155718,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 18000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 152825,
+                "idEstado": 1,
+                "totalIngresos": 18000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 185409,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": " LOS JARDINES DE CASABLANCA MZ G LOTE 3 ETAP PRIMERA ETAPA SECTOR CASABLANCA SANTIAGO - ICA - ICA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "11086892",
+                "fichaTomoSunarp": null,
+                "autovaluo": 200.0,
+                "idHojaVida": 152825,
+                "idEstado": 1,
+                "flValor": "80000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 158467,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "BNA615 ",
+                "valor": 40000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "VEHICULO DE MARCA CHANGHE COLOR BLANCO",
+                "comentario": null,
+                "idHojaVida": 152825,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,140 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 222673.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43887295",
+        "nombres": "ALCIDES",
+        "apellidoPaterno": "CENTURION",
+        "apellidoMaterno": "BAUTISTA",
+        "sexo": "1",
+        "feNacimiento": "02/08/1980",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "060608",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "CHOTA",
+        "naciDistrito": "HUAMBOS",
+        "ubigeoDomicilio": "121202",
+        "domiDepartamento": "LA LIBERTAD",
+        "domiProvincia": "VIRU",
+        "domiDistrito": "CHAO",
+        "domicilioDirecc": "NUEVO CHAO MZ. S LT. 25",
+        "ubigeoPostula": "121202",
+        "postulaDepartamento": "LA LIBERTAD",
+        "postulaProvincia": "VIRU",
+        "postulaDistrito": "CHAO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/222673.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 7.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 22:34:17",
+        "txGuidFormatoHojaVida": "7877c63a-9cf0-4839-b7b1-7be90f4c5a9a",
+        "idSolicitudLista": 34297.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 212516,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CAMPOSOL SAC",
+            "ocupacionProfesion": "OBRERO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CHAO",
+            "anioTrabajoDesde": "2007",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "121202",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LA LIBERTAD",
+            "trabajoProvincia": "VIRU",
+            "trabajoDistrito": "CHAO",
+            "idHojaVida": 222673,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 187130,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 222673,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 154941,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 4,
+            "orgPolRenunciaOp": "ACCION POPULAR",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 222673,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 173207,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 13056.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 222673,
+                "idEstado": 1,
+                "totalIngresos": 13056.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 181353,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "M90811 ",
+                "valor": 6000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOTAXI",
+                "comentario": null,
+                "idHojaVida": 222673,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

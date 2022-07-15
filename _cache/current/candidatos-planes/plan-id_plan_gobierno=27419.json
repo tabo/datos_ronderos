@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 27419,
+        "idTipoEleccion": 5,
+        "txTipoEleccion": "MUNICIPAL PROVINCIAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1738,
+        "juradoElectoral": "YAUYOS",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/08f69259-a81f-43bf-9cd9-9418007ad207.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/978559a9-ca61-4458-9460-8800539e7abb.pdf",
+        "txCodExpedienteExt": "ERM.2022014341",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 211262,
+            "txPgProblema": "BAJO NIVEL EDU\u0002CATIVO DE EDUCA\u0002CIÓN BÁSICA REGULAR \nPOR LAS LIMITACIO\u0002NES LOGÍSTICAS Y \nFALTA DE OPORTUNI\u0002DADES DE CAPACITACIÓN DE LOS DOCENTES Y ESTUDIANTES",
+            "txPgObjetivo": "MEJORAR LA INFRAESTRUCTURA Y EQUIPA\u0002MIENTO DE LOS LOCALES EDUCATIVOS DE \nLOS TRES NIVELES DE \nEDUCACIÓN.",
+            "txPgIndicador": "PORCENTAJE DE LOCALES EDUCATIVOS \nCON CAPACIDAD \nINSTALADA ADECUADA",
+            "txPgMeta": "70% DE LOCALES \nEDUCATIVOS CON \nCAPACIDAD INSTALADA ADECUADA.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211280,
+            "txPgProblema": "DEFICIENTE E \nINEXISTENTE ESPACIO PARA LA PRÁCTICA \nDEPORTIVA.",
+            "txPgObjetivo": "MEJORAR LA INFRAESTRUCTURA CULTURAL Y \nDEPORTIVA",
+            "txPgIndicador": "NÚMERO DE LOCALES \nCULTURALES Y DEPORTIVOS, CON MATERIA\u0002LES Y UTENSILIOS \nADECUADOS",
+            "txPgMeta": "5 AMBIENTES CULTURALES Y DEPORTIVOS, \nCON MATERIALES Y \nUTENSILIOS ADECUADOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211293,
+            "txPgProblema": "INADECUADA \nAPLICACIÓN DE LOS \nPROGRAMAS SOCIALES DE COMPLE\u0002MENTACIÓN ALIMEN\u0002TARIA.",
+            "txPgObjetivo": "MEJORAR LOS PROGRAMAS DE ATEN\u0002CIÓN A LA NIÑEZ, \nGESTANTES, ADULTO \nMAYOR Y PERSONAS \nVULNERABLES",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN VULNERABLE\nBENEFICIARIA DE LOS \nPROGRAMAS SOCIALES.",
+            "txPgMeta": "70% DE LA POBLACIÓN VULNERABLE \nBENEFICIADA, CON \nLOS PROGRAMAS \nSOCIALES.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 211320,
+            "txPgProblema": "FALTA DE OPORTU\u0002NIDADES DE DESARROLLO ECONÓMICO \nEN LA POBLACIÓN DE \nLA PROVINCIA, QUE PROMUEVEN LA MIGRACION Y EL DESPOBLAMIENTO",
+            "txPgObjetivo": "PROMOVER EL ACCESO A UN EMPLEO \nDIGNO",
+            "txPgIndicador": "INGRESO FAMILIAR \nPER - CÁPITA.",
+            "txPgMeta": "AUMENTAR LOS INGRESOS DE LA PO\u0002BLACIÓN HASTA LOS \nS/. 2,591 PROMEDIO ANUAL",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211332,
+            "txPgProblema": "FALTA DE SERVICIOS BÁSICOS DE \nATENCIÓN AL TURISTA.",
+            "txPgObjetivo": "INCREMENTAR LA \nOFERTA TURÍSTICA CON \nENFOQUE CULTURAL \nEN LA PROVINCIA.",
+            "txPgIndicador": "NÚMERO DE PERSONAS QUE TRABAJAN \nEN EL SECTOR TURISMO",
+            "txPgMeta": "PORCENTAJE DE PERSONAS \nQUE TRABAJAN EN EL \nSECTOR TURISMO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211351,
+            "txPgProblema": "DEFICIENTE PRODUCCIÓN AGRÍCOLA Y \nGANADERA. POR \nFALTA DE ACOMPAÑAMIENTO Y ASESO\u0002RAMIENTO ADECUA\u0002DO",
+            "txPgObjetivo": "PROMOVER LA PRODUCCIÓN MEJORADA \nDE LOS CULTIVOS Y LA \nGANADERÍA, CON \nASISTENCIA TÉCNICA.",
+            "txPgIndicador": "PORCENTAJE DE \nPRODUCTORES AGRÍCOLAS BENEFICIADOS \nCON PROGRAMAS DE \nLA MUNICIPALIDAD",
+            "txPgMeta": "50% DE PRODUCTORES \nAGRÍCOLAS Y GANADEROS BENEFICIADOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 211367,
+            "txPgProblema": "INADECUADO USO \nDE LOS RECURSOS \nNATURALES Y FALTA \nDE CONCIENCIA EN \nLA PROTECCIÓN Y \nCUIDADO DEL MEDIO \nAMBIENTE",
+            "txPgObjetivo": "PROMOVER LA GESTIÓN AMBIENTAL \nORIENTADA AL MANEJO DE RESIDUOS \nSÓLIDOS EN LA PROVINCIA",
+            "txPgIndicador": "PROMOVER LA GESTIÓN AMBIENTAL \nORIENTADA AL MANEJO DE RESIDUOS \nSÓLIDOS EN LA PROVINCIA",
+            "txPgMeta": "60% DE RESIDUOS \nSÓLIDOS DISPUESTOS \nADECUADAMENTE",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211374,
+            "txPgProblema": "DEFICIENTE SERVICIO Y SUMINISTRO DE \nAGUA POTABLE EN LA \nPROVINCIA E INADECUADO ALCANTARILLADO EN LAS CALLES",
+            "txPgObjetivo": "DEFICIENTE SERVICIO Y SUMINISTRO DE \nAGUA POTABLE EN LA \nPROVINCIA E INADECUADO ALCANTARILLADO EN LAS CALLES",
+            "txPgIndicador": "NÚMERO DE VIVIENDAS QUE CUENTAN CON CONEXIÓN \nDE AGUA POTABLE \nEN LA PROVINCIA",
+            "txPgMeta": "500 VIVIENDAS QUE \nCUENTAN CON CONEXIONES DE AGUA \nPOTABLE Y ALCANTARILLADO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211388,
+            "txPgProblema": "INEXISTENTE PLA\u0002NIFICACIÓN TERRITORIAL DE LA PROVINCIA",
+            "txPgObjetivo": "INEXISTENTE PLANIFICACIÓN TERRITORIAL DE LA PROVINCIA",
+            "txPgIndicador": "NÚMERO DE DISTRITOS CON SANEA\u0002MIENTO FÍSICO TERRITORIAL ORDENADO.",
+            "txPgMeta": "70% DE DISTRITOS CON \nSANEAMIENTO FÍSICO \nTERRITORIAL ORDENADO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 211396,
+            "txPgProblema": "PÉSIMA GESTIÓN \nADMINISTRATIVA EN \nLA PRESTACIÓN DE \nLOS SERVICIOS PÚBLICOS",
+            "txPgObjetivo": "PÉSIMA GESTIÓN \nADMINISTRATIVA EN \nLA PRESTACIÓN DE \nLOS SERVICIOS PÚBLICOS",
+            "txPgIndicador": "PÉSIMA GESTIÓN \nADMINISTRATIVA EN \nLA PRESTACIÓN DE \nLOS SERVICIOS PÚBLICOS",
+            "txPgMeta": "PÉSIMA GESTIÓN \nADMINISTRATIVA EN \nLA PRESTACIÓN DE \nLOS SERVICIOS PÚBLICOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211425,
+            "txPgProblema": "INADECUADA \nPARTICIPACIÓN DE LA \nCIUDADANÍA EN LA \nGESTIÓN MUNICIPAL.",
+            "txPgObjetivo": "LOGRAR QUE LA MAYOR PARTE DE LA \nPOBLACIÓN SE IDENTIFIQUE Y PARTICIPE \nCON LA GESTIÓN MUNICIPAL",
+            "txPgIndicador": "PORCENTAJE DE LA \nPOBLACIÓN QUE \nPARTICIPA CON LA \nMUNICIPALIDAD.",
+            "txPgMeta": "65% DE PERSONAS \nQUE PARTICIPAN EN \nLAS CONVOCATORIAS \nREALIZADAS POR LA \nMUNICIPALIDAD.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211437,
+            "txPgProblema": "ESCASA TRANSPARENCIA DE LA GESTIÓN MUNICIPAL.",
+            "txPgObjetivo": "MEJORAR LA ÉTICA Y \nMORAL DE LOS TRABAJADORES MEDIANTE \nCHARLAS Y CAPACITACIONES.",
+            "txPgIndicador": "PORCENTAJE DE TRABAJADORES QUE \nASISTEN A CHARLAS Y\nCAPACITACIÓN",
+            "txPgMeta": "PORCENTAJE DE TRABAJADORES QUE \nASISTEN A CHARLAS Y\nCAPACITACIÓN",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

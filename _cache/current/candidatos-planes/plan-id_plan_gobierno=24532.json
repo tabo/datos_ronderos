@@ -1,0 +1,115 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 24532,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1670,
+        "txOrganizacionPolitica": "FRENTE AMPLIO PARA EL DESARROLLO DEL PUEBLO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1718,
+        "juradoElectoral": "PUNO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/93f902e5-8949-4c7b-af80-3351155d849e.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/78e5132e-a634-4655-96a8-8aa21c89c099.pdf",
+        "txCodExpedienteExt": "ERM.2022016914",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 181887,
+            "txPgProblema": "DESIGUALDAD Y LIMITADO ACCESO A LOS SERVICIOS BÁSICOS EN LA PROVINCIA.",
+            "txPgObjetivo": "ASEGURAR LA COBERTURA Y CALIDAD DE LOS SERVICIOS BÁSICOS (VIVIENDA).",
+            "txPgIndicador": "PORCENTAJE DE VIVIENDAS SIN SERVICIO DE AGUA POTABLE\nPORCENTAJE DE VIVIENDAS SIN SERVICIO DE DESAGÜE\nPORCENTAJE DE VIVIENDAS SIN SERVICIO DE ENERGÍA ELÉCTRICA",
+            "txPgMeta": "30.00%\n 50.00%\n 10.00%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 181909,
+            "txPgProblema": "DESIGUALDAD Y LIMITADO ACCESO A LOS SERVICIOS BÁSICOS EN LA PROVINCIA.",
+            "txPgObjetivo": "ASEGURAR LA COBERTURA Y CALIDAD DE LOS SERVICIOS BÁSICOS (SALUD).",
+            "txPgIndicador": "PORCENTAJE DE NIÑOS MENORES DE 5 AÑOS CON DESNUTRICIÓN\nPORCENTAJE DE NIÑOS MENORES DE 5 AÑOS CON ANEMIA",
+            "txPgMeta": "10.00%\n   8.00%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 181938,
+            "txPgProblema": "DESIGUALDAD Y LIMITADO ACCESO A LOS SERVICIOS BÁSICOS EN LA PROVINCIA.",
+            "txPgObjetivo": "ASEGURAR LA COBERTURA Y CALIDAD DE LOS SERVICIOS BÁSICOS (POBREZA).",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN EN SITUACIÓN DE POBREZA\nPORCENTAJE DE LA POBLACIÓN EN SITUACIÓN DE POBREZA EXTREMA",
+            "txPgMeta": "25.00%\n    8.0%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 181962,
+            "txPgProblema": "ECONOMÍA POCO COMPETITIVA, INCIPIENTE NIVEL DE ACUMULACIÓN INTERNA, POCO GENERADORA DE EMPLEO Y BAJA PRODUCTIVIDAD",
+            "txPgObjetivo": "PROMOVER LA COMPETITIVIDAD, LA ACUMULACIÓN INTERNA Y EL CRECIMIENTO ECONÓMICO (POLÍTICAS PÚBLICAS LOCALES)",
+            "txPgIndicador": "POLÍTICAS PÚBLICAS QUE PROMUEVAN LA ACUMULACIÓN INTERNA Y EL CRECIMIENTO ECONÓMICO",
+            "txPgMeta": "100.0%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 181983,
+            "txPgProblema": "ECONOMÍA POCO COMPETITIVA, INCIPIENTE NIVEL DE ACUMULACIÓN INTERNA, POCO GENERADORA DE EMPLEO Y BAJA PRODUCTIVIDAD",
+            "txPgObjetivo": "PROMOVER LA COMPETITIVIDAD, LA ACUMULACIÓN INTERNA Y EL CRECIMIENTO ECONÓMICO (EMPLEO)",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN ECONÓMICAMENTE ACTIVA DESOCUPADA",
+            "txPgMeta": "100%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182009,
+            "txPgProblema": "ECONOMÍA POCO COMPETITIVA, INCIPIENTE NIVEL DE ACUMULACIÓN INTERNA, POCO GENERADORA DE EMPLEO Y BAJA PRODUCTIVIDAD",
+            "txPgObjetivo": "PROMOVER LA COMPETITIVIDAD, LA ACUMULACIÓN INTERNA Y EL CRECIMIENTO ECONÓMICO (INNOVACIÓN Y DESARROLLO TECNOLÓGICO)",
+            "txPgIndicador": "PORCENTAJE DE INDUSTRIALES Y PRODUCTORES QUE ACCEDEN A INNOVACIÓN Y DESARROLLO TECNOLÓGICO",
+            "txPgMeta": "60.00%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 182035,
+            "txPgProblema": "CALIDAD AMBIENTAL POCO SALUDABLE",
+            "txPgObjetivo": "MEJORAR LA CALIDAD AMBIENTAL (CONTAMINACIÓN DEL AIRE Y RESIDUOS SÓLIDOS)",
+            "txPgIndicador": "PORCENTAJE RESIDUOS SÓLIDOS RECOLECTADO POR RELLENO SANITARIO\nPORCENTAJE DE RESIDUOS SÓLIDOS RECICLADOS",
+            "txPgMeta": "50.00%\n 50.00%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 182053,
+            "txPgProblema": "LIMITADA INSTITUCIONALIZACIÓN DE LA TRANSPARENCIA Y PARTICIPACIÓN CIUDADANA EN LA GESTIÓN PUBLICA",
+            "txPgObjetivo": "ASEGURAR LA GOBERNANZA DEL GOBIERNO LOCAL, MEJORANDO LA TRANSPARENCIA Y LA PARTICIPACIÓN CIUDADANA (EJECUCIÓN PRESUPUESTAL)",
+            "txPgIndicador": "PORCENTAJE DE CIUDADANÍA INFORMADA",
+            "txPgMeta": "80%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182069,
+            "txPgProblema": "LIMITADA INSTITUCIONALIZACIÓN DE LA TRANSPARENCIA Y PARTICIPACIÓN CIUDADANA EN LA GESTIÓN PUBLICA",
+            "txPgObjetivo": "ASEGURAR LA GOBERNANZA DEL GOBIERNO LOCAL, MEJORANDO LA TRANSPARENCIA Y LA PARTICIPACIÓN CIUDADANA (PROCESOS DE ADQUISICIONES)",
+            "txPgIndicador": "PORCENTAJE DE CIUDADANÍA INFORMADA",
+            "txPgMeta": "80%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

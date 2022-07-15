@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 209923.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "30841124",
+        "nombres": "GRIMALDA MIGUELINA",
+        "apellidoPaterno": "CHAVEZ",
+        "apellidoMaterno": "CARCASI",
+        "sexo": "2",
+        "feNacimiento": "29/09/1954",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040702",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "ISLAY",
+        "naciDistrito": "COCACHACRA",
+        "ubigeoDomicilio": "040702",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "ISLAY",
+        "domiDistrito": "COCACHACRA",
+        "domicilioDirecc": "CAL PROGRESO",
+        "ubigeoPostula": "040000",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/209923.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "ACCESITARIO"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 07:10:24",
+        "txGuidFormatoHojaVida": "da7e3c04-db16-4cd7-8f5c-8cc8fde52a37",
+        "idSolicitudLista": 32767.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 246715,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTURA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE PROGRESO DON BOSC",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "040702",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "ISLAY",
+            "trabajoDistrito": "COCACHACRA",
+            "idHojaVida": 209923,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 216914,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 209923,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 195840,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 12000.0,
+                "idHojaVida": 209923,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 241111,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "ISLAY-COCACHACRA- MZ A9 LOTE 17 - CENTRO POBLADO CENTRO POBLADO COCACHACRA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "55167481",
+                "fichaTomoSunarp": null,
+                "autovaluo": 50000.0,
+                "idHojaVida": 209923,
+                "idEstado": 1,
+                "flValor": "50000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 198847,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "84034V ",
+                "valor": 12000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCARGA",
+                "comentario": null,
+                "idHojaVida": 209923,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

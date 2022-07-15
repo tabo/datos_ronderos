@@ -1,0 +1,156 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 163377.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44510790",
+        "nombres": "MARTHA",
+        "apellidoPaterno": "AGÜERO",
+        "apellidoMaterno": "NIETO",
+        "sexo": "2",
+        "feNacimiento": "14/12/1985",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "090601",
+        "naciDepartamento": "HUANUCO",
+        "naciProvincia": "LEONCIO PRADO",
+        "naciDistrito": "RUPA-RUPA",
+        "ubigeoDomicilio": "090604",
+        "domiDepartamento": "HUANUCO",
+        "domiProvincia": "LEONCIO PRADO",
+        "domiDistrito": "LUYANDO",
+        "domicilioDirecc": "MZ. - S/N CPME. MAPRESA",
+        "ubigeoPostula": "090604",
+        "postulaDepartamento": "HUANUCO",
+        "postulaProvincia": "LEONCIO PRADO",
+        "postulaDistrito": "LUYANDO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/163377.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 4.0,
+        "organizacionPolitica": "ACCION POPULAR",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 20:46:44",
+        "txGuidFormatoHojaVida": "887b3422-3cd0-4ff6-a9af-0c157046c048",
+        "idSolicitudLista": 26615.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 171148,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "RESTAURANT YAZMIN KM 4",
+            "ocupacionProfesion": "CHEF",
+            "rucTrabajo": "10445107901",
+            "direccionTrabajo": "CPME MAPRESA S/N",
+            "anioTrabajoDesde": "2014",
+            "anioTrabajoHasta": "2020",
+            "ubigeoTrabajo": "090604",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "HUANUCO",
+            "trabajoProvincia": "LEONCIO PRADO",
+            "trabajoDistrito": "LUYANDO",
+            "idHojaVida": 163377,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "EL RESTAURANT FUE NEGOCIO PROPIO Y DEJO DE FUNCIONAR POR LA PANDEMIA."
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 149602,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 163377,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 137694,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 2201,
+                "orgPolCargoElec": "AVANZADA REGIONAL INDEPENDIENTE UNIDOS POR HUANUCO",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2019",
+                "anioCargoElecHasta": "2022",
+                "idHojaVida": 163377,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 140964,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 22,
+            "orgPolRenunciaOp": "RENOVACION POPULAR",
+            "anioRenunciaOp": "2022",
+            "idHojaVida": 163377,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 145545,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 9360.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 163377,
+                "idEstado": 1,
+                "totalIngresos": 9360.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 157566,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "TRIMOTO CARGA",
+                "marca": null,
+                "placa": "88865W",
+                "valor": 500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA RONCO, MODELO TRAKTOR, 250 AÑO 2014",
+                "comentario": null,
+                "idHojaVida": 163377,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

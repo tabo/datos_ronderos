@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 26733,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 4,
+        "txOrganizacionPolitica": "ACCION POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1706,
+        "juradoElectoral": "MARISCAL RAMON CASTILLA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/efab00e0-11db-4dd7-bf67-e0dfd37bc5c1.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/38371634-916e-40f9-b6f2-a4b281d96ae3.pdf",
+        "txCodExpedienteExt": "ERM.2022013939",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 163008,
+            "txPgProblema": "FALTA DE ATENCIÓN, INFRAESTRUCTURA Y EQUIPAMIENTO EN SALUD",
+            "txPgObjetivo": "IMPLEMENTAR POSTAS MÉDICAS, BOTIQUINES COMUNALES; FORTALECER Y EQUIPAR EL CENTRO DE SALUD. REALIZAR CAMPAÑAS MÉDICAS EN COORDINACIÓN CON EL SECTOR SALUD",
+            "txPgIndicador": "PORCENTAJE DE ESTABLECIMIENTOS DE SALUD DE ATENCIÓN INTEGRAL CON CAPACIDAD INSTALA INADECUADA",
+            "txPgMeta": "QUE LA POBLACIÓN DEL DISTRITO DE SAN PABLO TENGA ACCESO A LOS SERVICIOS DE SALUD Y TENGA INSTITUCIONES DE SALUD MODERNAS, EQUIPADAS Y LLEGAR A LAS DIFERENTES COMUNIDADES CON LAS CAMPAÑAS MEDICAS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 163041,
+            "txPgProblema": "CARENCIA DEL SERVICIO DE AGUA POTABLE Y SANEAMIENTO BÁSICO",
+            "txPgObjetivo": "REALIZAR PROYECTOS INTEGRALES DE SISTEMA, SANEAMIENTO BÁSICO Y DESAGÜE.",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN URBANA Y RURAL SIN ACCESO AL SERVICIO DE AGUA POTABLE Y ALCANTARILLADO",
+            "txPgMeta": "QUE LA POBLACIÓN DEL DISTRITO DE SAN PABLO TENGA ACCESO A AGUA POTABLE Y SANEAMIENTO BÁSICO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 163064,
+            "txPgProblema": "FALTA DE INFRAESTRUCTURA Y EQUIPAMIENTO EN EDUCACIÓN",
+            "txPgObjetivo": "CONSTRUIR E IMPLEMENTAR LAS INSTITUCIONES EDUCATIVAS",
+            "txPgIndicador": "PORCENTAJE DE LOCALES EDUCATIVOS CON EL SERVICIO DE EDUCACIÓN INICIAL. PRIMARIA Y SECUNDARIA CON CAPACIDAD INSTALA INADECUADA",
+            "txPgMeta": "CUBRIR AL 100% EN INFRAESTRUCTURA E IMPLEMENTACIÓN DE LAS INSTITUCIONES EDUCATIVAS DEL DISTRITO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 163092,
+            "txPgProblema": "LIMITADO ACCESO A LOS SERVICIOS DE ENERGÍA ELÉCTRICA",
+            "txPgObjetivo": "MEJORAR EL SERVICIO DE ENERGÍA ELÉCTRICA EN CONVENIO CON LA EMPRESA DE ELECTRO ORIENTE. EJECUTAR PROYECTOS DE SISTEMA DE ELECTRIFICACIÓN CON PANELES SOLARES",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN CON ACCESO A ENERGÍA ELÉCTRICA MEDIANTE RED PÚBICA",
+            "txPgMeta": "QUE EL DISTRITO DE SAN PABLO TENGA UN SERVICIO DE ELECTRICIDAD DE CALIDAD Y QUE TODAS LAS COMUNIDADES TENGAN ACCESO A ESTE SERVICIO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 163111,
+            "txPgProblema": "ESCASA PRODUCCIÓN Y DE INFRAESTRUCTURA EN EL SECTOR AGROPECUARIO",
+            "txPgObjetivo": "DESARROLLAR PROYECTOS PRODUCTIVOS EN CONVENIO CON LAS DIFERENTES INSTITUCIONES CON DVIDA, EL MINISTERIO DE LA PRODUCCIÓN, ETC. CONSTRUCCIÓN DE CARRETERAS DE PENETRACIÓN PARA SACAR LOS PRODUCTOS",
+            "txPgIndicador": "PORCENTAJE DE PRODUCTORES AGROPECUARIOS SIN SERVICIO DE ASISTENCIA TÉCNICA",
+            "txPgMeta": "QUE NUESTRO DISTRITO SEA UNA FUERZA PRODUCTIVA EN EL SECTOR AGROPECUARIO, GANADERO Y PISCÍCOLA.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 163134,
+            "txPgProblema": "FALTA DE MERCADO Y DE INVERSIÓN PRIVADA",
+            "txPgObjetivo": "BUSCAR MERCADO PARA LA VENTA DE LOS PRODUCTOS AGROPECUARIOS. CONSTRUCCIÓN DE MERCADO MUNICIPAL.",
+            "txPgIndicador": "PORCENTAJE DE PRODUCTORES AGROPECUARIOS CON ACCESO AL MERCADO.",
+            "txPgMeta": "QUE EL DISTRITO DE SAN PABLO TENGA UNA ECONOMÍA SÓLIDA CON LA INVERSIÓN PÚBLICA Y PRIVADA",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 163160,
+            "txPgProblema": "DEFICIENTE SERVICIO DE LIMPIEZA PUBLICA",
+            "txPgObjetivo": "CONSTRUIR RELLENOS SANITARIOS. FORTALECER Y EQUIPAR LAS POLÍTICAS DE CONSERVACIÓN DEL MEDIO AMBIENTE",
+            "txPgIndicador": "PORCENTAJE DE RELLENOS SANITARIOS CON INADECUADAS CONDICIONES DE OPERATIVIDAD",
+            "txPgMeta": "QUE EL DISTRITO DE SAN PABLO SEA LIMPIO Y LIBRE DE CONTAMINACIÓN",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 163175,
+            "txPgProblema": "DEFORESTACION",
+            "txPgObjetivo": "DESARROLLAR PROYECTOS DE REFORESTACIÓN",
+            "txPgIndicador": "CANTIDAD DE SUPERFICIE CON INADECUADA CONDICIONES PARA LA REFORESTACIÓN",
+            "txPgMeta": "LLEGAR A LA SIEMBRA DE 100 MIL ÁRBOLES MADERABLE Y OTROS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 163199,
+            "txPgProblema": "FALTA DE PLAN DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO",
+            "txPgObjetivo": "DESARROLLAR Y PROMOVER EL PLAN DE ORDENAMIENTO TERRITORIAL SOBRE LA BASE DE LA ZONIFICACIÓN ECOLÓGICA Y ECONÓMICA (ZEE) Y OTROS INSTRUMENTOS DEL ORDENAMIENTO TERRITORIAL VIGENTE. PROMOVER UN ADECUADO ORDENAMIENTO URBANO",
+            "txPgIndicador": "PORCENTAJE DE PREDIOS URBANOS SIN CATASTRO",
+            "txPgMeta": "ELABORAR UN NUEVO CATASTRO Y UN PLAN EFICIENTE DE ORDENAMIENTO TERRITORIAL. MEJORAR LA RECAUDACIÓN, FOMENTAR LA ARBORIZACIÓN Y FORESTACIÓN CON PARQUES, CALLES Y ÁREAS PÚBLICAS Y PRIVADAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 163219,
+            "txPgProblema": "FALTA DE GESTIÓN MUNICIPAL CON PARTICIPACIÓN DE LA SOCIEDAD CIVIL ORGANIZADA",
+            "txPgObjetivo": "REALIZAR UNA GESTIÓN DE GOBIERNO LOCAL PARTICIPATIVO Y TRANSPARENTE CON UNA EFECTIVA PARTICIPACIÓN DE LA SOCIEDAD CIVIL ORGANIZADA, INSTITUCIONES Y OTROS",
+            "txPgIndicador": "PORCENTAJE DE DEFICIENTE GESTIÓN  DE LA UNIDADES ORGÁNICAS DE LA NUPCIALIDAD Y LA SOCIEDAD CIVIL",
+            "txPgMeta": "RENDICIÓN DE CUENTAS, PRESUPUESTO PARTICIPATIVO , LICITACIONES DE LAS OBRAS PUBLICAS DE FORMA TRANSPARENTE",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 163235,
+            "txPgProblema": "FALTA DE CAPACITACIÓN DEL SERVIDOR PÚBLICO Y FUNCIONARIOS CON CAPACIDAD DE GESTIÓN Y GERENCIA PUBLICA",
+            "txPgObjetivo": "FORTALECER Y MODERNIZAR EL APARATO MUNICIPAL. CAPACITACIÓN CONSTANTE AL SERVIDOR PÚBLICO Y FUNCIONARIOS",
+            "txPgIndicador": "PORCENTAJE DE SERVIDORES Y FUNCIONARIOS CON INADECUADO PERFIL TÉCNICO",
+            "txPgMeta": "BRINDAR UNA ATENCIÓN EFICIENTE AL CONTRIBUYENTE Y CIUDADANO MEDIANTE SERVIDORES PÚBLICOS CAPACITADOS, CON CONOCIMIENTOS DE LAS NORMAS TRIBUTARIAS Y DE GESTIÓN DE LA ADMINISTRACIÓN MUNICIPAL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 163253,
+            "txPgProblema": "FALTA DE INFRAESTRUCTURA MUNICIPAL",
+            "txPgObjetivo": "CONSTRUCCIÓN Y EQUIPAMIENTO DE NUEVAS OFICINAS",
+            "txPgIndicador": "PORCENTAJE DE INFRAESTRUCTURA MUNICIPAL INADECUADOS",
+            "txPgMeta": "CONTAR CON OFICINAS MODERNAS Y EQUIPADAS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

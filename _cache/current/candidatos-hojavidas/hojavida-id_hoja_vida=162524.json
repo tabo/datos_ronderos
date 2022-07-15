@@ -1,0 +1,167 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 162524.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "10151192",
+        "nombres": "DARIO",
+        "apellidoPaterno": "RAMOS",
+        "apellidoMaterno": "DIAZ",
+        "sexo": "1",
+        "feNacimiento": "20/12/1975",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "051109",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "SUCRE",
+        "naciDistrito": "HUACAÑA",
+        "ubigeoDomicilio": "051109",
+        "domiDepartamento": "AYACUCHO",
+        "domiProvincia": "SUCRE",
+        "domiDistrito": "HUACAÑA",
+        "domicilioDirecc": "DISTRITO HUACAÑA S/N",
+        "ubigeoPostula": "051109",
+        "postulaDepartamento": "AYACUCHO",
+        "postulaProvincia": "SUCRE",
+        "postulaDistrito": "HUACAÑA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/162524.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2861.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL AGUA",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 11:54:02",
+        "txGuidFormatoHojaVida": "9c0204a4-4eb5-4f9d-acdc-53bee29e4af5",
+        "idSolicitudLista": 26493.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 180448,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "CONDUCTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "HUACAÑA S/N",
+            "anioTrabajoDesde": "2013",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "051109",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AYACUCHO",
+            "trabajoProvincia": "SUCRE",
+            "trabajoDistrito": "HUACAÑA",
+            "idHojaVida": 162524,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 158560,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 162524,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 138759,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 2081,
+                "orgPolCargoElec": "FRENTE REGIONAL TUNA",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2011",
+                "anioCargoElecHasta": "2014",
+                "idHojaVida": 162524,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 151904,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 10000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 162524,
+                "idEstado": 1,
+                "totalIngresos": 10000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 192218,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "VIVIENDA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "HUACAÑA S/N",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 162524,
+                "idEstado": 1,
+                "flValor": "30000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 163576,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "BAG703 ",
+                "valor": 100000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COMBI NISAN URBAN",
+                "comentario": null,
+                "idHojaVida": 162524,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,134 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 218909.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42335325",
+        "nombres": "CESAR WILIAN",
+        "apellidoPaterno": "ORTIZ",
+        "apellidoMaterno": "VERA",
+        "sexo": "1",
+        "feNacimiento": "30/01/1982",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "060406",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "CONTUMAZA",
+        "naciDistrito": "CUPISNIQUE",
+        "ubigeoDomicilio": "060406",
+        "domiDepartamento": "CAJAMARCA",
+        "domiProvincia": "CONTUMAZA",
+        "domiDistrito": "CUPISNIQUE",
+        "domicilioDirecc": "CASERIO SAN LORENZO",
+        "ubigeoPostula": "060406",
+        "postulaDepartamento": "CAJAMARCA",
+        "postulaProvincia": "CONTUMAZA",
+        "postulaDistrito": "CUPISNIQUE",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/218909.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 1464.0,
+        "organizacionPolitica": "CAJAMARCA SIEMPRE VERDE",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 12:28:52",
+        "txGuidFormatoHojaVida": "84b9047e-50b8-49fa-a979-aec5e3043d10",
+        "idSolicitudLista": 33869.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 152715,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 218909,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 147862,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 9600.0,
+                "idHojaVida": 218909,
+                "idEstado": 1,
+                "totalIngresos": 9600.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 159841,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "MD24935",
+                "valor": 2500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA RTM, MODELO RTM200GY, COLOR ROJO,",
+                "comentario": "MOTOR N° 163FML70049591",
+                "idHojaVida": 218909,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 134994,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 2,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "00533-2015-0-1618-JP-FC-01",
+            "txOrganoJuridicialObliga": "I JUZGADO DE PAZ LETRADO LA ESPERANZA",
+            "txFalloObliga": "EN EJECUCION / ALIMENTOS",
+            "idEstado": 1,
+            "idHojaVida": 218909,
+            "txComentario": null
+        },
+        {
+            "idHvSentenciaObliga": 134992,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 18,
+            "txMateriaSentencia": "VIOLENCIA FAMILIAR",
+            "txExpedienteObliga": "040-2015",
+            "txOrganoJuridicialObliga": "JUZGADO PENAL UNIPERSONAL DE CONTUMAZA",
+            "txFalloObliga": "ARCHIVADO",
+            "idEstado": 1,
+            "idHojaVida": 218909,
+            "txComentario": null
+        }
+    ]
+}

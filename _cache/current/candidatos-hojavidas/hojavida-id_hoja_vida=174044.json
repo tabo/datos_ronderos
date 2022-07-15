@@ -1,0 +1,158 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 174044.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "46273552",
+        "nombres": "ELISA",
+        "apellidoPaterno": "MAMANI",
+        "apellidoMaterno": "MAMANI",
+        "sexo": "2",
+        "feNacimiento": "12/06/1989",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "071209",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "QUISPICANCHI",
+        "naciDistrito": "MARCAPATA",
+        "ubigeoDomicilio": "071209",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "QUISPICANCHI",
+        "domiDistrito": "MARCAPATA",
+        "domicilioDirecc": "S/N SECTOR BAÑOS TERMALES",
+        "ubigeoPostula": "071209",
+        "postulaDepartamento": "CUSCO",
+        "postulaProvincia": "QUISPICANCHI",
+        "postulaDistrito": "MARCAPATA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/174044.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 18:48:38",
+        "txGuidFormatoHojaVida": "bf23f021-e450-4970-a64f-a1686ccde866",
+        "idSolicitudLista": 28050.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 181381,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INSTITUCION EDUCATIVA SAN FRANCISCO DE ASIS",
+            "ocupacionProfesion": "COORDINADORA DE INNOVACION",
+            "rucTrabajo": null,
+            "direccionTrabajo": "MARCAPATA",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "2020",
+            "ubigeoTrabajo": "071209",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CUSCO",
+            "trabajoProvincia": "QUISPICANCHI",
+            "trabajoDistrito": "MARCAPATA",
+            "idHojaVida": 174044,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 159624,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 174044,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 137518,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "INSTITUTO DE SISTEMAS CUSCO",
+                "carreraNoUni": "ANALISTA DE SISTEMAS",
+                "concluidoNoUni": "1",
+                "idHojaVida": 174044,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 144737,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 445,
+            "orgPolRenunciaOp": "MOVIMIENTO REGIONAL O DEPARTAMENTAL MOVIMIENTO REGIONAL ACUERDO POPULAR UNIFICADO",
+            "anioRenunciaOp": "2018",
+            "idHojaVida": 174044,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 152531,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 8400.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 1600.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 174044,
+                "idEstado": 1,
+                "totalIngresos": 10000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 192791,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "VIVIENDA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "BAÑOS TERMALES S/N MARCAPATA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 106.0,
+                "idHojaVida": 174044,
+                "idEstado": 1,
+                "flValor": "53000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

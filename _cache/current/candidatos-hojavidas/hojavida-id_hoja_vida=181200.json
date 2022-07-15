@@ -1,0 +1,146 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 181200.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "33724858",
+        "nombres": "MIGUEL ANTONIO",
+        "apellidoPaterno": "TUESTA",
+        "apellidoMaterno": "ROJAS",
+        "sexo": "1",
+        "feNacimiento": "07/02/1945",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "010105",
+        "naciDepartamento": "AMAZONAS",
+        "naciProvincia": "CHACHAPOYAS",
+        "naciDistrito": "CHILIQUIN",
+        "ubigeoDomicilio": "010305",
+        "domiDepartamento": "AMAZONAS",
+        "domiProvincia": "BONGARA",
+        "domiDistrito": "CHURUJA",
+        "domicilioDirecc": "CARR. CHURUJA S/N C.P.M CHURUJA",
+        "ubigeoPostula": "010305",
+        "postulaDepartamento": "AMAZONAS",
+        "postulaProvincia": "BONGARA",
+        "postulaDistrito": "CHURUJA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/181200.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2878.0,
+        "organizacionPolitica": "VICTORIA AMAZONENSE",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 21:37:35",
+        "txGuidFormatoHojaVida": "af73b9d5-1b40-4e60-9650-59bc932f221e",
+        "idSolicitudLista": 28991.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 211692,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "NEGOCIANTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CHURUJA",
+            "anioTrabajoDesde": "2000",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "010305",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AMAZONAS",
+            "trabajoProvincia": "BONGARA",
+            "trabajoDistrito": "CHURUJA",
+            "idHojaVida": 181200,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 186439,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 181200,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 154685,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 22,
+            "orgPolRenunciaOp": "RENOVACION POPULAR",
+            "anioRenunciaOp": "2008",
+            "idHojaVida": 181200,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 172737,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 12000.0,
+                "idHojaVida": 181200,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 216335,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "VIVIENDA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "JR. AMAZONAS 316",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 181200,
+                "idEstado": 1,
+                "flValor": "200000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

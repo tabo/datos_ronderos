@@ -1,0 +1,85 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 27860,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 4,
+        "txOrganizacionPolitica": "ACCION POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/04a715fd-c1b5-4768-90c8-b925f924953a.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/f2bf84ec-f031-41a5-b811-850d5266b8e1.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 189725,
+            "txPgProblema": "1. INIQUIDAD SOCIAL",
+            "txPgObjetivo": "DISEÑAR UNA POLÍTICA DE DESARROLLO",
+            "txPgIndicador": "CALIDAD DE VIDA.",
+            "txPgMeta": "IMPULSAR LA INTEGRACIÓN SOCIAL",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 189746,
+            "txPgProblema": "POBREZA",
+            "txPgObjetivo": "CONTRIBUIR A LA REDUCCIÓN DE POBREZA.",
+            "txPgIndicador": "% BIENESTAR SOCIAL.PLANES DE INTERVENCIÓN.",
+            "txPgMeta": "DISMINUIR LA POBREZA EN SECTORES VULNERABLES.\nPROMOVER LA EQUIDAD DE GÉNERO Y OPORTUNIDAD.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 189785,
+            "txPgProblema": "COMERCIO\nINFORMAL",
+            "txPgObjetivo": "FOMENTAR LA FORMALIZACIÓN.",
+            "txPgIndicador": "% DE DESEMPLEO",
+            "txPgMeta": "GENERAR MAYOR CANTIDAD DE EMPLEO, ESPECIALMENTE PARA LOS MÁS JÓVENES.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 189809,
+            "txPgProblema": "PROMOCIÓN A ACTIVIDADES ARTESANALES.",
+            "txPgObjetivo": "FOMENTAR ACTIVIDADES.",
+            "txPgIndicador": "FERIAS",
+            "txPgMeta": "INCREMENTAR LA OFERTA ADECUADA AL MERCADO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 189836,
+            "txPgProblema": "CONTAMINACIÓN",
+            "txPgObjetivo": "PROMOVER LA CONCIENCIA ECOLÓGICA EN LA POBLACIÓN.",
+            "txPgIndicador": "CONTAMINACIÓN",
+            "txPgMeta": "REDUCIDOS LOS EFECTOS DEL CAMBIO Y LA VARIABILIDAD CLIMÁTICA Y DEMÁS ACTIVIDADES ECONÓMICAS; Y EN LA SEGURIDAD DE LAS PERSONAS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 189897,
+            "txPgProblema": "GOBERNABILIDAD",
+            "txPgObjetivo": "PROMOVER LA PARTICIPACIÓN CIUDADANA O VECINAL",
+            "txPgIndicador": "TASA DE CIUDADANOS INCONFORMES",
+            "txPgMeta": "CONSOLIDAR LA GOBERNABILIDAD DEL DISTRITO, CON LA  PARTICIPACIÓN CIUDADANA Y LA TRANSPARENCIA DE LA GESTIÓN.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

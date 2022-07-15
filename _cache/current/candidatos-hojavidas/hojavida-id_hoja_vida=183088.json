@@ -1,0 +1,147 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 183088.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "00251608",
+        "nombres": "RUPERTO",
+        "apellidoPaterno": "LUCHO",
+        "apellidoMaterno": "ESCALANTE",
+        "sexo": "1",
+        "feNacimiento": "03/01/1957",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "240102",
+        "naciDepartamento": "CALLAO",
+        "naciProvincia": "CALLAO",
+        "naciDistrito": "BELLAVISTA",
+        "ubigeoDomicilio": "130113",
+        "domiDepartamento": "LAMBAYEQUE",
+        "domiProvincia": "CHICLAYO",
+        "domiDistrito": "SANTA ROSA",
+        "domicilioDirecc": "MZ B LT 14 SECTOR LAS LOMAS",
+        "ubigeoPostula": "130113",
+        "postulaDepartamento": "LAMBAYEQUE",
+        "postulaProvincia": "CHICLAYO",
+        "postulaDistrito": "SANTA ROSA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/183088.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL",
+            " REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 15:17:53",
+        "txGuidFormatoHojaVida": "5597af39-3923-419c-93b2-b0dc05373452",
+        "idSolicitudLista": 29236.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 168350,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "PESCADOR",
+            "ocupacionProfesion": "PESCADOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "MZ. B LT. 14 SECTOR LAS LOMAS",
+            "anioTrabajoDesde": "1999",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "130113",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LAMBAYEQUE",
+            "trabajoProvincia": "CHICLAYO",
+            "trabajoDistrito": "SANTA ROSA",
+            "idHojaVida": 183088,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 147315,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 183088,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 140072,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 179,
+            "orgPolRenunciaOp": "PARTIDO NACIONALISTA PERUANO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 183088,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 143767,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 13000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 183088,
+                "idEstado": 1,
+                "totalIngresos": 13000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 180879,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "VIVIENDA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "M2 B LT. 14 SECTOR LAS LOMAS",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "10136864",
+                "fichaTomoSunarp": null,
+                "autovaluo": 230.4,
+                "idHojaVida": 183088,
+                "idEstado": 1,
+                "flValor": "1911"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

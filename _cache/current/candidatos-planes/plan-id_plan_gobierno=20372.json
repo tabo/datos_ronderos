@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20372,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 4,
+        "txOrganizacionPolitica": "ACCION POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1732,
+        "juradoElectoral": "TAYACAJA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/621dc5f9-3544-4cdc-9124-6c8cb42a51e9.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/8e72eb68-6e0e-483c-b067-b1109cf3f3d7.pdf",
+        "txCodExpedienteExt": "ERM.2022015245",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 138266,
+            "txPgProblema": "PORCENTAJE ALTO DE PARASITOSIS INFANTIL",
+            "txPgObjetivo": "IMPLEMENTAR SERVICIOS DE SANEAMIENTO BÁSICO EN TODO EL DISTRITO",
+            "txPgIndicador": "NÚMERO DE NIÑOS DESPARASITADOS",
+            "txPgMeta": "DISMINUCIÓN EN UN 100% DE DESNUTRICIÓN INFANTIL",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138270,
+            "txPgProblema": "POCA ACCESIBILIDAD A SERVICIOS DE SALUD",
+            "txPgObjetivo": "OTORGAR ATENCIÓN DE MANERA OPORTUNA",
+            "txPgIndicador": "CANTIDAD DE PACIENTES ATENDIDOS.",
+            "txPgMeta": "CONSTRUCCIÓN DE UN HOSPITAL DE CATEGORÍA II",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138275,
+            "txPgProblema": "DESERCIÓN ESCOLAR",
+            "txPgObjetivo": "ACCESO A LA EDUCACIÓN EN SUS TRES NIVELES.",
+            "txPgIndicador": "CANTIDAD DE ALUMNOS QUE CONCLUYEN SUS ESTUDIOS",
+            "txPgMeta": "CONSTRUCCIÓN E IMPLEMENTACIÓN DE CENTROS EDUCATIVOS.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 138281,
+            "txPgProblema": "MÍNIMA ACCESIBILIDAD PARA EL TRASLADO Y COMERCIALIZACIÓN DE PRODUCTOS AGRÍCOLAS Y GANADEROS",
+            "txPgObjetivo": "AMPLIACIÓN Y CONSTRUCCIÓN DE CARRETERAS DE DOBLE VÍAS QUE VINCULE LOS CENTROS POBLADOS Y ANEXOS",
+            "txPgIndicador": "POBLACIÓN DE BENEFICIADA DE LOS CENTROS POBLADOS Y ANEXOS",
+            "txPgMeta": "INCREMENTO EN UN 100% DE COMERCIALIZACIÓN DE PRODUCTOS AGRO GANADEROS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138283,
+            "txPgProblema": "FALTA INDUSTRIALIZAR PRODUCTOS AGRÍCOLAS.",
+            "txPgObjetivo": "FOMENTAR LA ESPECIALIZACIÓN, LA INVERSIÓN Y LA INNOVACIÓN TECNOLÓGICA; LOGRANDO QUE EL EMPLEO SEA DE MAYOR CALIDAD- EXPORTACIÓN",
+            "txPgIndicador": "TASA DE DESEMPLEO",
+            "txPgMeta": "GENERAR EMPLEO DE MANO DE OBRA CALIFICADA",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138284,
+            "txPgProblema": "FALTA DE CANALES DE IRRIGACIÓN",
+            "txPgObjetivo": "PROVEER DE AGUA DE RIEGO A LOS CAMPOS AGRÍCOLAS",
+            "txPgIndicador": "CANTIDAD DE PRODUCCIÓN AGRÍCOLA",
+            "txPgMeta": "INCREMENTAR LA PRODUCCIÓN AGRÍCOLA EN UN 100%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 138290,
+            "txPgProblema": "FALTA DE IMPLEMENTACIÓN DE INVERNADEROS SOSTENIBLES",
+            "txPgObjetivo": "CONSTRUCCIÓN DE INVERNADEROS SOSTENIBLES EN LOS CENTROS POBLADOS Y ANEXOS",
+            "txPgIndicador": "NIVEL DE CONTAMINACIÓN",
+            "txPgMeta": "DISMINUIR LA CONTAMINACIÓN AMBIENTAL.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138293,
+            "txPgProblema": "CONTAMINACIÓN AMBIENTAL POR LOS RESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "CONSTRUIR UNA PLANTA DE TRATAMIENTO DE RESIDUOS SÓLIDOS",
+            "txPgIndicador": "NIVEL DE CONTAMINACIÓN",
+            "txPgMeta": "REDUCIR EL VOLUMEN DE LOS DESECHOS EN UN 100%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138298,
+            "txPgProblema": "POCA FORESTACIÓN DE ÁRBOLES.",
+            "txPgObjetivo": "MEJORAR LAS CONDICIONES DE LAS ZONAS DE RECARGA HÍDRICA",
+            "txPgIndicador": "NIVEL DE CONTAMINACIÓN",
+            "txPgMeta": "SEMBRAR EL 100% DE ESPACIOS VERDE",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 138302,
+            "txPgProblema": "VÍCTIMAS DE ROBO Y ACCIDENTES DE TRANSITO",
+            "txPgObjetivo": "EQUIPAMIENTO DE VEHÍCULOS PARA EL SERENAZGO MUNICIPAL",
+            "txPgIndicador": "CANTIDAD DE DENUNCIAS POR ACCIDENTES",
+            "txPgMeta": "INCREMENTAR EN UN 100% LA ATENCIÓN INMEDIATA POR EMERGENCIAS.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138305,
+            "txPgProblema": "NO HAY ACCESO A INTERNET",
+            "txPgObjetivo": "IMPLEMENTACIÓN Y DAR ACCESO GRATUITO AL SERVICIO DE INTERNET EN EL DISTRITO, CENTROS POBLADOS Y ANEXOS",
+            "txPgIndicador": "NIVEL DE POBLACIÓN SATISFECHA",
+            "txPgMeta": "INCREMENTAR EL USO DEL SERVICIO DE INTERNET EN UN 100%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138309,
+            "txPgProblema": "POCA PRÁCTICA DE DEPORTES RECREATIVOS",
+            "txPgObjetivo": "CONSTRUCCIÓN E IMPLEMENTACIÓN DE POLIDEPORTIVOS EN LOS CENTROS POBLADOS Y ANEXOS",
+            "txPgIndicador": "CANTIDAD DE NIÑOS Y ADULTO MAYOR EN PRÁCTICA DE DEPORTE",
+            "txPgMeta": "PRÁCTICA DE DEPORTES RECREATIVOS EN UN 100%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

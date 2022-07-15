@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 18162,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1264,
+        "txOrganizacionPolitica": "JUNTOS POR EL PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1700,
+        "juradoElectoral": "LIMA OESTE 3",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/8b4e1c96-46ef-4069-943d-726cd321a132.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/7aec018a-fd78-4ed9-b04f-626971ce6879.pdf",
+        "txCodExpedienteExt": "ERM.2022018234",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 133931,
+            "txPgProblema": "INSEGURIDAD CIUDADANA.",
+            "txPgObjetivo": "INTERPOLARÍDAD DEL SISTEMA DE SEGURIDAD CIUDADANA Y\nPATRULLAJE.",
+            "txPgIndicador": "*% CÁMARAS\nINTELIGENTES\n*01 PLAN OPERATIVO",
+            "txPgMeta": "*AUMENTO DE INFRAESTRUCTURA DE\nSEGURIDAD Y SOFTWARE\nESPECIALIZADO CON INTELIGENCIA\nARTIFICIAL.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 133972,
+            "txPgProblema": "INFORMALIDAD Y PRECARIEDAD DE EMPRESAS\nLOCALES.",
+            "txPgObjetivo": "INCENTIVOS DE FORMALIZACIÓN DE EMPRESAS, MYPES Y\nSTARUPS",
+            "txPgIndicador": "% R.U.C.",
+            "txPgMeta": "AUMENTO DE EMPRESAS\nDOMICILIADAS EN EL DISTRITO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 134003,
+            "txPgProblema": "PRIVATIZACIÓN DE PARQUES Y ÁREAS VERDES,\nDEPORTIVAS Y RECREATIVAS PÚBLICAS.",
+            "txPgObjetivo": "RECUPERACIÓN DE ESPACIOS PÚBLICOS",
+            "txPgIndicador": "01 PLAN DE MANEJO\nAMBIENTAL DEL PAISAJE\nURBANO",
+            "txPgMeta": "DISEÑO Y ACTUALIZACIÓN DEL PLAN\nDE DESARROLLO URBANO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 134021,
+            "txPgProblema": "OPACIDAD DE INFORMACIÓN MUNICIPAL.",
+            "txPgObjetivo": "GOBIERNO ABIERTO Y TRANSPARENCIA",
+            "txPgIndicador": "% MEJORA DEL PORTAL\nWEB",
+            "txPgMeta": "TRANSPARENCIA Y ACCESO LIBRE DE\nINFORMACIÓN DE LOS VECINOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

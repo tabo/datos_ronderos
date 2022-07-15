@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23571,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1264,
+        "txOrganizacionPolitica": "JUNTOS POR EL PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1686,
+        "juradoElectoral": "HUAYLAS",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/7b69dc72-e28b-472d-b735-e51d2ddbede9.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/4f4a0edc-9395-4dc5-9a19-460812bdaf44.pdf",
+        "txCodExpedienteExt": "ERM.2022018552",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 205717,
+            "txPgProblema": "LIMITADO ACCESO DE LAS VIVIENDAS A LOS\nSERVICIOS DE AGUA",
+            "txPgObjetivo": "MEJORAR LA\nHABITABILIDAD EN LOS\nANEXOS DEL DISTRITO DE\nSANTA CRUZ",
+            "txPgIndicador": "% DE VIVIENDAS QUE\nACCEDEN AL SERVICIO\nDE AGUA POTABLE",
+            "txPgMeta": "90% DE VIVIENDAS\nACCEDEN AL\nSERVICIO DE AGUA\nPOTABLE",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 205728,
+            "txPgProblema": "LIMITADO ACCESO DE LAS VIVIENDAS A LOS\nSERVICIOS DE SANEAMIENTO",
+            "txPgObjetivo": "MEJORAR LA\nHABITABILIDAD EN LOS\nANEXOS DEL DISTRITO DE\nSANTA CRUZ",
+            "txPgIndicador": "% DE VIVIENDAS QUE\nACCEDEN AL SERVICIO\nDE SANEAMIENTO",
+            "txPgMeta": "90% DE VIVIENDAS\nACCEDEN AL\nSERVICIO DE\nSANEAMIENTO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 205743,
+            "txPgProblema": "LIMITADO ACCESO DE LAS VIVIENDAS A LOS\nSERVICIOS DE ENERGÍA ELÉCTRICA",
+            "txPgObjetivo": "MEJORAR LA\nHABITABILIDAD EN LOS\nANEXOS DEL DISTRITO DE\nSANTA CRUZ",
+            "txPgIndicador": "% DE VIVIENDAS QUE\nACCEDEN AL SERVICIO\nDE ENERGÍA ELÉCTRICA",
+            "txPgMeta": "100 % DE\nVIVIENDAS\nACCEDEN AL\nSERVICIO DE\nENERGÍA ELÉCTRICA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 205763,
+            "txPgProblema": "INSUFICIENTE GESTIÓN INTEGRAL DEL AGUA, SOBRE\nTODO PARA USO AGRARIO",
+            "txPgObjetivo": "MEJORAR LA\nCOMPETITIVIDAD DE LOS\nAGENTES ECONÓMICOS\nAGRÍCOLAS",
+            "txPgIndicador": "N° DE PLANES DE\nGESTIÓN DEL AGUA\nELABORADOS",
+            "txPgMeta": "6 PLANES DE\nGESTIÓN DEL AGUA\nELABORADOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 205777,
+            "txPgProblema": "BAJA PRODUCTIVIDAD DE LA AGRICULTURA\nFAMILIAR",
+            "txPgObjetivo": "MEJORAR LA\nCOMPETITIVIDAD DE LOS\nAGENTES ECONÓMICOS\nAGRÍCOLAS",
+            "txPgIndicador": "% DE RENDIMIENTOS\nPOR CEDULA Y TIPO\nDE CULTIVO",
+            "txPgMeta": "05 % DE MEJORA\nEN RENDIMIENTOS\nPOR CEDULA Y TIPO\nDE CULTIVO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 205798,
+            "txPgProblema": "ESCASOS SISTEMAS DE TECNIFICACIÓN DE LOS\nRECURSOS HÍDRICOS",
+            "txPgObjetivo": "MEJORAR LA\nCOMPETITIVIDAD DE LOS\nAGENTES ECONÓMICOS\nAGRÍCOLAS",
+            "txPgIndicador": "N° DE PROYECTOS DE\nRIEGO TECNIFICADO\nIMPLEMENTADOS",
+            "txPgMeta": "12 PROYECTOS DE\nRIEGO TECNIFICADO\nIMPLEMENTADOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 205908,
+            "txPgProblema": "DEFICIENTE MANEJO DE RESIDUOS SÓLIDOS\n(GENERACIÓN, RECOLECCIÓN, TRANSPORTE,\nDISPOSICIÓN FINAL, BARRIDO DE CALLES,\nEDUCACIÓN A LA POBLACIÓN).",
+            "txPgObjetivo": "MEJORAR LA CALIDAD DEL\nAMBIENTE EN EL\nDISTRITO",
+            "txPgIndicador": "% DE RESIDUOS\nSÓLIDOS PROCESADOS",
+            "txPgMeta": "100 % DE\nRESIDUOS SÓLIDOS\nPROCESADOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 205921,
+            "txPgProblema": "INADECUADO TRATAMIENTO DE LAS AGUAS\nRESIDUALES A NIVEL DISTRITAL",
+            "txPgObjetivo": "MEJORAR LA CALIDAD DEL\nAMBIENTE EN EL\nDISTRITO",
+            "txPgIndicador": "N° DE PROYECTOS DE\nINVERSIÓN PÚBLICA\nGESTIONADOS",
+            "txPgMeta": "01 PROYECTOS DE\nINVERSIÓN PÚBLICA\nGESTIONADOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 205939,
+            "txPgProblema": "ESCASOS INSTRUMENTOS DE GESTIÓN AMBIENTAL\n(RESIDUOS SÓLIDOS, RUIDOS, POLVOS Y HUMOS,\nETC.) PARA EL CUMPLIMIENTO DE LAS\nCOMPETENCIAS EXCLUSIVAS DE LA\nMUNICIPALIDAD EN TEMAS AMBIENTALES.",
+            "txPgObjetivo": "MEJORAR LA CALIDAD DEL\nAMBIENTE EN EL\nDISTRITO",
+            "txPgIndicador": "NÚMERO DE\nHERRAMIENTAS DE\nGESTIÓN AMBIENTAL\nIMPLEMENTADAS",
+            "txPgMeta": "05 DE\nHERRAMIENTAS DE\nGESTIÓN\nAMBIENTAL\nIMPLEMENTADAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 205865,
+            "txPgProblema": "ESCASOS MECANISMOS DE PARTICIPACIÓN\nVECINAL",
+            "txPgObjetivo": "FORTALECER LOS\nESPACIOS DE\nPARTICIPACIÓN VECINAL",
+            "txPgIndicador": "N° DE PERSONAS\nPARTICIPANTES",
+            "txPgMeta": "300 PERSONAS\nPARTICIPANTES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 205879,
+            "txPgProblema": "ESCASOS ESPACIOS DE GESTIÓN CONCERTADA DEL\nTERRITORIO",
+            "txPgObjetivo": "IMPLEMENTAR UN\nESPACIO\nMULTISECTORIAL PARA LA\nGESTIÓN INTEGRAL DEL\nTERRITORIO",
+            "txPgIndicador": "% DE ESPACIOS\nIMPLEMENTADOS",
+            "txPgMeta": "01 ESPACIO\nMULTISECTORIAL\nPARA LA GESTIÓN\nINTEGRAL DEL\nTERRITORIO IMPLEM\nENTADO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

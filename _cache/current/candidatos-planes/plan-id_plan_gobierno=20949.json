@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20949,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1366,
+        "txOrganizacionPolitica": "FUERZA POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1715,
+        "juradoElectoral": "PIURA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/436622cb-0344-4854-8954-8c97d1e0d061.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/10bc866c-99d9-4732-b2fe-36e637b93f7e.pdf",
+        "txCodExpedienteExt": "ERM.2022014148",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 198218,
+            "txPgProblema": "INSEGURIDAD CIUDADANA\nVIOLENCIA FAMILIAR",
+            "txPgObjetivo": "GARANTIZA LA SEGURIDAD CIUDADANA\nPROMOVER LA IGUALDAD DE GENERO",
+            "txPgIndicador": "NUMERO DE HOMICIDIOS\nNUMERO DE CASOS DE VIOLENCIA FAMILIAR",
+            "txPgMeta": "100%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 198240,
+            "txPgProblema": "DEFICIENTE COMPETITIVIDAD ECONOMICA\nFALTA DE PARQUE INDUSTRIAL",
+            "txPgObjetivo": "MEJORAR LA COMPETITIVIDAD ECONOMICA EN EL DISTRITO.\nPROMOVER EL PARQUE INDUSTRIAL",
+            "txPgIndicador": "PORCENTAJE DE POBLACION EN POBREZA\nINSTALACION DE ZONA INDUSTRIAL",
+            "txPgMeta": "10%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 198275,
+            "txPgProblema": "DEFICIENTE SISTEMA DE SANEAMIENTO\nDEFICIENTE SERVICIO DE RECOLECCION DE RESIDUIS SOLIDOS",
+            "txPgObjetivo": "GARANTIZAR EL ACCESO A SERVICIOS BASICOS",
+            "txPgIndicador": "PORCENTAJE DE VIVIENDAS CON ACCESO A RED DE DESAGUE\nPORCENTAJE DE RESIDUOS SOLIDOS RECOGIDOS DIARIAMENTE",
+            "txPgMeta": "97%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 198310,
+            "txPgProblema": "FALTA DE PARTICIPACION EN LA TOMA DE DECISIONES DEL GOBIERNO LOCAL\nDEFICIENTE SISTEMA DE TRAMITE DOCUMENTARIO",
+            "txPgObjetivo": "FORTALECER LA PARTICIPACION CIUDADANA\nMEJORAR EL SISTEMA DE TRAMITE DOCUMENTARIO",
+            "txPgIndicador": "PORCENTAJE DE PARTICIPACION EN EL PRESUPUESTO PARTICIPATIVO\nNUMERO DE TRAMIETS ATENDIDOS",
+            "txPgMeta": "85%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

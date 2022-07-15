@@ -1,0 +1,176 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 169344.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "27850929",
+        "nombres": "JOSE RAMIRO",
+        "apellidoPaterno": "CORDOVA",
+        "apellidoMaterno": "RAMOS",
+        "sexo": "1",
+        "feNacimiento": "07/08/1974",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "061101",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "SAN IGNACIO",
+        "naciDistrito": "SAN IGNACIO",
+        "ubigeoDomicilio": "010503",
+        "domiDepartamento": "AMAZONAS",
+        "domiProvincia": "RODRIGUEZ DE MENDOZA",
+        "domiDistrito": "CHIRIMOTO",
+        "domicilioDirecc": "CASERIO SINAI",
+        "ubigeoPostula": "010503",
+        "postulaDepartamento": "AMAZONAS",
+        "postulaProvincia": "RODRIGUEZ DE MENDOZA",
+        "postulaDistrito": "CHIRIMOTO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/169344.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2878.0,
+        "organizacionPolitica": "VICTORIA AMAZONENSE",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 18:52:23",
+        "txGuidFormatoHojaVida": "8df275ce-fe64-4695-a09d-afa386674082",
+        "idSolicitudLista": 27414.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 161314,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CASERIO SINAI",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASERIO SINAI",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "010503",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AMAZONAS",
+            "trabajoProvincia": "RODRIGUEZ DE MENDOZA",
+            "trabajoDistrito": "CHIRIMOTO",
+            "idHojaVida": 169344,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 140969,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 169344,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 136603,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 1258,
+                "orgPolCargoElec": "MOVIMIENTO REGIONAL FUERZA AMAZONENSE",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2015",
+                "anioCargoElecHasta": "2018",
+                "idHojaVida": 169344,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 134540,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "LOS INGRESOS PERCIBIDOS SON POR LA VENTA DE CAFE Y GANADO",
+            "idHojaVida": 169344,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 139178,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 30000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 169344,
+                "idEstado": 1,
+                "totalIngresos": 30000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 174398,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA HABITACION",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CASERIO SINAI",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 169344,
+                "idEstado": 1,
+                "flValor": "20000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 151878,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "MOTO LINEAL",
+                "marca": null,
+                "placa": "2614-45",
+                "valor": 4000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA YAMAHA 125 COLOR NEGRO",
+                "comentario": null,
+                "idHojaVida": 169344,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

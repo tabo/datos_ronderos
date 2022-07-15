@@ -1,0 +1,156 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 152078.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40571940",
+        "nombres": "GILBERTO",
+        "apellidoPaterno": "YAURI",
+        "apellidoMaterno": "YQUIAPAZA",
+        "sexo": "1",
+        "feNacimiento": "21/09/1978",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "170208",
+        "naciDepartamento": "MOQUEGUA",
+        "naciProvincia": "GENERAL SANCHEZ CERRO",
+        "naciDistrito": "PUQUINA",
+        "ubigeoDomicilio": "040510",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "CASTILLA",
+        "domiDistrito": "PAMPACOLCA",
+        "domicilioDirecc": "CALLE INDEPENDENCIA S/N C.P. PAMPACOLCA MZ. B1 LT. 8B",
+        "ubigeoPostula": "040510",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "CASTILLA",
+        "postulaDistrito": "PAMPACOLCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/152078.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 1393.0,
+        "organizacionPolitica": "FUERZA AREQUIPEÑA",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 11:18:08",
+        "txGuidFormatoHojaVida": "fd62944c-d45c-4b51-a2cc-c1b4b7998748",
+        "idSolicitudLista": 25054.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 216413,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGROPECUARIO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE INDEPENDENCIA S/N",
+            "anioTrabajoDesde": "2016",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "040510",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "CASTILLA",
+            "trabajoDistrito": "PAMPACOLCA",
+            "idHojaVida": 152078,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 190743,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 152078,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 148567,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "ITS PEDRO P. DIAZ",
+                "carreraTecnico": "TECNICO AGROPECUARIO",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 152078,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 142437,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 1393,
+                "orgPolCargoElec": "FUERZA AREQUIPEÑA",
+                "idCargoEleccion": 10,
+                "cargoEleccion": "ALCALDE DISTRITAL",
+                "anioCargoElecDesde": "2015",
+                "anioCargoElecHasta": "2018",
+                "idHojaVida": 152078,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 175920,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 2400.0,
+                "rentaIndividualPrivado": 28000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 152078,
+                "idEstado": 1,
+                "totalIngresos": 30400.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 183540,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "MH11593",
+                "valor": 30000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "HONDA COLOR ROJO",
+                "comentario": "VALOR REFERENCIAL",
+                "idHojaVida": 152078,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

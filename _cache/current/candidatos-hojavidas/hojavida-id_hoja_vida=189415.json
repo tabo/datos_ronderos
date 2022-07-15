@@ -1,0 +1,160 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 189415.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "16155786",
+        "nombres": "EUGENIO SANTOS",
+        "apellidoPaterno": "LEON",
+        "apellidoMaterno": "ÑAGUE",
+        "sexo": "1",
+        "feNacimiento": "08/09/1972",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140621",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "HUAROCHIRI",
+        "naciDistrito": "SAN MATEO",
+        "ubigeoDomicilio": "140621",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "HUAROCHIRI",
+        "domiDistrito": "SAN MATEO",
+        "domicilioDirecc": "PSJ.DE LA CRUZ 160",
+        "ubigeoPostula": "140621",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "HUAROCHIRI",
+        "postulaDistrito": "SAN MATEO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/189415.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 16:22:05",
+        "txGuidFormatoHojaVida": "8dc5b432-8e93-460d-835b-69db4ab75e59",
+        "idSolicitudLista": 30111.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 171167,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "EMPRESA DE SERVICIO GENERALES VIVIANA",
+            "ocupacionProfesion": "OBRERO",
+            "rucTrabajo": "10161557868",
+            "direccionTrabajo": "SAN MATEO",
+            "anioTrabajoDesde": "2018",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140621",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "HUAROCHIRI",
+            "trabajoDistrito": "SAN MATEO",
+            "idHojaVida": 189415,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 149906,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 189415,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 135997,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "EMPRESA DE SERVICIO GENERALES SANTOELS EIRL RUC 20601161231 -SUSPENDIDO",
+            "idHojaVida": 189415,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 145730,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 120000.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 189415,
+                "idEstado": 1,
+                "totalIngresos": 120000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 183244,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "PASAJE DE LA CRUZ 160",
+                "comentario": "DOS PISOS",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 154.3,
+                "idHojaVida": 189415,
+                "idEstado": 1,
+                "flValor": "80000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 157670,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "ANS032 ",
+                "valor": 10000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AZUL",
+                "comentario": "TOYOTA",
+                "idHojaVida": 189415,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

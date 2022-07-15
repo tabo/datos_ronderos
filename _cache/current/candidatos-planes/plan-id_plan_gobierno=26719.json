@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 26719,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1671,
+        "juradoElectoral": "CUSCO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/d1e9cfa5-5dd8-45b5-a4ef-a571a67448b3.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/fdb5a9c2-1ddc-49df-b4c3-e5a963e1f1b0.pdf",
+        "txCodExpedienteExt": "ERM.2022014756",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 135112,
+            "txPgProblema": "INEFICIENTE ENSEÑANZA PRE UNIVERISTARIA PARA ALUMNOS DE QUINTO DE SECUNDARIA",
+            "txPgObjetivo": "LOS ALUMNOS RECIBIRAN PREPARACION PRE UNIVERSITARIA",
+            "txPgIndicador": "NUMERO DE ALUMNOS INGRESANTES A LA UNIVERSIDAD",
+            "txPgMeta": "LOS ALUMNOS DEBEN INGRESAR A LAS UNIVERSIDADES PUBLICO Y PRIVADAS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135121,
+            "txPgProblema": "LEJANIA DE LOS CENTROS EDUCATIVOS PARA LOS ALUMNOS",
+            "txPgObjetivo": "IMPLEMENTACION DE MOVILIDAD ESCOLAR",
+            "txPgIndicador": "ALUMNOS QUE LLEGAN TARDE A CLASES",
+            "txPgMeta": "SE CUENTA CON MOVILIDAD ESCOLAR",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135143,
+            "txPgProblema": "DEFICIENTE ATENCION EN EL CENTRO MEDICO DE SALUD",
+            "txPgObjetivo": "PEDIR RECATEGORIZACION DEL CENTRO DE SALUD",
+            "txPgIndicador": "PERSONAS NO ATENDIDAS",
+            "txPgMeta": "POBLACION DEBIDAMENTE ATENDIDA EN EL PUESTO DE SALUD",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 135162,
+            "txPgProblema": "DESEMPLEO",
+            "txPgObjetivo": "CREAR EMPLEOS TEMPORALES EN DIFERENTES ETAPAS DEL AÑO",
+            "txPgIndicador": "TASA DE DESEMPLEO",
+            "txPgMeta": "GENERACION DE EMPLEO TEMPORAL PARA LA MAYORIA DE LA POBLACION",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135210,
+            "txPgProblema": "INSUFICIENTES PROYECTOS DE APOYO A LA AGRICULTURA Y GANADERIA",
+            "txPgObjetivo": "CREACION DE GALERIAS FILTRANTES, PROYECTOS DE ADQUISICION DE SEMILLAS, MEJORAMIENTO GENETICO DE ANIMALES, CRIANZA DE ANIMALES MENORES",
+            "txPgIndicador": "NUMERO DE POBLACION AGRICULTORA",
+            "txPgMeta": "IMPLEMENTACION DE PROYECTOS PRODUCTIVOS CON FUNCIONAMIENTO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135233,
+            "txPgProblema": "FALTA DE ATENCION AL SECTOR TURISMO",
+            "txPgObjetivo": "FORTALECER EL TURISMO VIVENCIAL EN EL DISTRITO",
+            "txPgIndicador": "CENTROS ARQUEOLOGICOS",
+            "txPgMeta": "TENER UN TURISMO VIVENCIAL DE CALIDAD PARA LOS TURISTAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 135256,
+            "txPgProblema": "RECOJO DE BASURA",
+            "txPgObjetivo": "ADQUISICION DE UNA COMPACTADORA",
+            "txPgIndicador": "DESECHOS SOLIDOS NO RECOGIDOS",
+            "txPgMeta": "LA COMPACTADORA SE ENCARGARA DE RECOGER TODOS LOS RESIDUOS SOLIDOS DE LA POBLACION",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135281,
+            "txPgProblema": "DEFORESTACION",
+            "txPgObjetivo": "CREACION DE PROYECTOS DE REFORESTACION",
+            "txPgIndicador": "TERRENOS ABANDONADOS",
+            "txPgMeta": "EL DISTRITO CONTARA CON BOSQUES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135304,
+            "txPgProblema": "INEXISTENCIA DE PLANTA DE TRATAMIENTO DE RESIDUOS SOLIDOS",
+            "txPgObjetivo": "ADQUIRIR UN TERRENO PARA LA PLANTA DE TRATAMIENTO DE RESIDUOS SOLIDOS",
+            "txPgIndicador": "RESIDUOS SOLIDOS SIN TRATAMIENTO",
+            "txPgMeta": "EL DISTRITO CONTARA CON UNA PLANTA DE TRATAMIENTO DEBIDAMENTE UBICADA Y EN FUNCIONAMIENTO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 135326,
+            "txPgProblema": "TROCHAS CARROZABLES SIN MANTENIMIENTO",
+            "txPgObjetivo": "REALIZAR MANTENIMIENTOS CONSTANTES A LAS TROCHAS CARROZABLES QUE TIENE EL DISTRITO",
+            "txPgIndicador": "TROCHAS CARROZABLES",
+            "txPgMeta": "EL DISTRITO TENDRA EN BUEN ESTADO SUS CARRETERAS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135344,
+            "txPgProblema": "CRECIMIENTO POBLACIONAL URBANO DESORDENADO",
+            "txPgObjetivo": "IMPLEMENTACION DE PROYECTO DE ORDENAMIENTO TERRITORIAL",
+            "txPgIndicador": "VIVIENDAS HACINADAS",
+            "txPgMeta": "EL DISTRITO DE ANCAHUASI CRECERA CON URBANIZACIONES DEBIDAMENTE ORDENADAS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

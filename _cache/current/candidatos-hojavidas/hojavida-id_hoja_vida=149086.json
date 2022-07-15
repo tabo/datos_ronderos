@@ -1,0 +1,157 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 149086.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "10601789",
+        "nombres": "MARCO ANTONIO",
+        "apellidoPaterno": "GAVINO",
+        "apellidoMaterno": "SANCHEZ",
+        "sexo": "1",
+        "feNacimiento": "11/05/1977",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "180101",
+        "naciDepartamento": "PASCO",
+        "naciProvincia": "PASCO",
+        "naciDistrito": "CHAUPIMARCA",
+        "ubigeoDomicilio": "140103",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "ATE",
+        "domicilioDirecc": "CALLE EL TRIUNFO ASOC. SAN ANTONIO DE MARIA CLARET MZ. A LT. 1",
+        "ubigeoPostula": "140100",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/149086.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 16:21:36",
+        "txGuidFormatoHojaVida": "10660d48-1d3c-4c9e-9910-363fe430ed4c",
+        "idSolicitudLista": 24657.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 222130,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "GAVINO IMAGE EIRL",
+            "ocupacionProfesion": "GERENTE TITULAR",
+            "rucTrabajo": "20608644025",
+            "direccionTrabajo": "AVENIDA VULCANO 142 - ATE",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140103",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "ATE",
+            "idHojaVida": 149086,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 195741,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 149086,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 149882,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "IST OAC",
+                "carreraTecnico": "INFORMÁTICA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 149086,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 188096,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 96000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 149086,
+                "idEstado": 1,
+                "totalIngresos": 96000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 186666,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "4640ZA ",
+                "valor": 7500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA RONCO 2021",
+                "comentario": null,
+                "idHojaVida": 149086,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 5087,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "GAVINO IMAGE EIRL",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 3000.0,
+                "flValor": 3000.0,
+                "idHojaVida": 149086,
+                "idEstado": 1,
+                "txUsuario": "47921344",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

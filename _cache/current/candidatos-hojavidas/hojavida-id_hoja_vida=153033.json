@@ -1,0 +1,158 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 153033.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "75366468",
+        "nombres": "HAROLD RUBEN",
+        "apellidoPaterno": "RODRIGUEZ",
+        "apellidoMaterno": "SILVERA",
+        "sexo": "1",
+        "feNacimiento": "21/04/1999",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140116",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "PACHACAMAC",
+        "ubigeoDomicilio": "140116",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "PACHACAMAC",
+        "domicilioDirecc": "CASERIO EL MANZANO",
+        "ubigeoPostula": "140116",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "PACHACAMAC",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/153033.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 12:58:41",
+        "txGuidFormatoHojaVida": "f0502824-5a70-4e9d-8dbc-c21fa4ebb058",
+        "idSolicitudLista": 25186.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 256483,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "ESCUELA NACIONAL DE FORMACION PROFESIONAL POLICIAL PNP",
+            "ocupacionProfesion": "CONTABILIDAD",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV GUARDIA CIVIL S/N URB LA CAMPIÑA LIMA CHORRILLOS",
+            "anioTrabajoDesde": "2022",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140108",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "CHORRILLOS",
+            "idHojaVida": 153033,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 229156,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 153033,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 158727,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "AUTONOMA DEL PERU",
+                "carreraTecnico": "CONTABILIDAD",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 153033,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 190520,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD AUTÓNOMA DEL PERÚ S.A.C.",
+                "carreraUni": "BACHILLER EN CONTABILIDAD",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2021",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 205050,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 30000.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 153033,
+                "idEstado": 1,
+                "totalIngresos": 30000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 205445,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "D3G342 ",
+                "valor": 40000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "PLOMO - AUTO",
+                "comentario": null,
+                "idHojaVida": 153033,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

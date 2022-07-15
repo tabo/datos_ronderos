@@ -1,0 +1,149 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 235455.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "80525002",
+        "nombres": "FRANCISCO",
+        "apellidoPaterno": "CHOQUEHUARA",
+        "apellidoMaterno": "PAREDES",
+        "sexo": "1",
+        "feNacimiento": "02/04/1977",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "200206",
+        "naciDepartamento": "PUNO",
+        "naciProvincia": "AZANGARO",
+        "naciDistrito": "CHUPA",
+        "ubigeoDomicilio": "200206",
+        "domiDepartamento": "PUNO",
+        "domiProvincia": "AZANGARO",
+        "domiDistrito": "CHUPA",
+        "domicilioDirecc": "CC.CHIÑACHIÑA",
+        "ubigeoPostula": "200206",
+        "postulaDepartamento": "PUNO",
+        "postulaProvincia": "AZANGARO",
+        "postulaDistrito": "CHUPA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/235455.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 18:29:56",
+        "txGuidFormatoHojaVida": "b2f8e4eb-b8bf-4586-8c3c-21aa95e54cd4",
+        "idSolicitudLista": 35779.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 229690,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "TRABAJADOR INDEPENDIENTE",
+            "ocupacionProfesion": "EVENTUAL",
+            "rucTrabajo": null,
+            "direccionTrabajo": "COMUNIDAD CHIÑACHIÑA",
+            "anioTrabajoDesde": "1995",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "200206",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PUNO",
+            "trabajoProvincia": "AZANGARO",
+            "trabajoDistrito": "CHUPA",
+            "idHojaVida": 235455,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 204063,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 235455,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 141968,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 2218,
+                "orgPolCargoPartidario": "PARTIDO POLÍTICO PARTIDO POLITICO NACIONAL PERU LIBRE",
+                "cargoPartidario": "AFILIADO",
+                "anioCargoPartiDesde": "2021",
+                "anioCargoPartiHasta": "2022",
+                "idHojaVida": 235455,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 185837,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 18000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 235455,
+                "idEstado": 1,
+                "totalIngresos": 18000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 230794,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "URBANIZACION CACACHI",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 235455,
+                "idEstado": 1,
+                "flValor": "200000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

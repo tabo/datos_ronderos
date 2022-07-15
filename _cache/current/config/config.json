@@ -1,0 +1,33 @@
+{
+    "procesoElectoral": {
+        "idProcesoElectoral": 113,
+        "idProcesoElectoralInternas": 114,
+        "nombreProcesoElectoral": "ELECCIONES REGIONALES Y MUNICIPALES 2022",
+        "prefijoProcesoElectoral": "ERM.2022",
+        "siglasProcesoElectoral": "ERM.2022"
+    },
+    "procesoElectoralInternas": {
+        "idProcesoElectoral": 114,
+        "idProcesoElectoralInternas": 114,
+        "nombreProcesoElectoral": "ELECCIONES INTERNAS PARA LAS ELECCIONES REGIONALES Y MUNICIPALES 2022",
+        "prefijoProcesoElectoral": "EIERM.2022",
+        "siglasProcesoElectoral": "EIERM.2022"
+    },
+    "tipoEleccion": {
+        "tipoEleccionPresidencial": null,
+        "tipoEleccionCongresal": null,
+        "tipoEleccionParlamentoAndino": null,
+        "tipoEleccionRegional": {
+            "idTipoEleccion": 4,
+            "nombre": "REGIONAL"
+        },
+        "tipoEleccionMunicipalProvincial": {
+            "idTipoEleccion": 5,
+            "nombre": "MUNICIPAL PROVINCIAL"
+        },
+        "tipoEleccionMunicipalDistrital": {
+            "idTipoEleccion": 6,
+            "nombre": "MUNICIPAL DISTRITAL"
+        }
+    }
+}

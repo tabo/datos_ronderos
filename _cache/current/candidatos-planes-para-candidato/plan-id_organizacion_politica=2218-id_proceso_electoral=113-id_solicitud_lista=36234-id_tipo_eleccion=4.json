@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 29560,
+        "idTipoEleccion": 4,
+        "txTipoEleccion": "REGIONAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/da4bde51-7e54-4028-afbd-9a53a024445e.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/01b37cc3-aa95-4919-8a15-219123d23dc5.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 215417,
+            "txPgProblema": "1. SALUD\n2. EDUCACIÓN\n3. VIAS DE COMUNICACIÓN\n4. PROYECTOS PRODUCTIVOS\n5. SANEAMIENTO\n6. VIVIENDAS CLIMATIZADAS\nINTEGRACIÓN COMUNAL",
+            "txPgObjetivo": "ATENCIÓN OPORTUNA Y DE CALIDAD A LOS POBLADORES DE LA REGION\nEDUCACIÓN DE CALIDAD EN LA FORMACIÓN ACADÉMICA DE LOS ESTUDIANTES DE LAS INSTITUCIONES PRIMARIAS Y SECUNDARIA\nTRANSITABILIDAD ADECUADA Y DE FORMA SEGURA EN LAS VÍAS DE INTEGRACIÓN PROVINCIAL Y DISTRITAL\nIMPLEMENTACIÓN DE PROYECTOS \nCALIDAD DE VIDA Y EN LA PREVENCIÓN DE ENFERMEDADES INFECTOCONTAGIOSAS Y DIGESTIVAS.\nCALIDAD DE VIDA Y PREVENCIÓN DE ENFERMEDADES RESPIRATORIOS Y DETERIORO DE LA SALUD POR LAS BAJAS TEMPERATURAS\nMEJOR ORGANIZACIÓN",
+            "txPgIndicador": "DEMOGRÁFICO\nTASA DE ESCOLARIDAD\nESTADO DE LA VÍA\nBAJA PRODUCTIVIDAD\nPRESENCIA DE ENFERMEDADES EN LA POBLACIÓN\nPRESENCIA DE ENFERMEDADES EN LA POBLACIÓN\nPOBLACIÓN\nINSATISFECHA",
+            "txPgMeta": "IMPLEMENTACIÓN CON UNA AMBULANCIA, EQUIPAMIENTO CON INSUMOS Y EQUIPOS MÉDICOS, RE CATEGORIZACIÓN DEL\nCENTRO DE SALUD\nCONSTRUCCIÓN DE INFRAESTRUCTURA EDUCATIVA (AULAS) EQUIPAMIENTO CON EQUIPOS\nTECNOLÓGICOS\nMANTENIMIENTO PERMANENTE DE LAS VÍAS DE\nCOMUNICACIÓN\nEJECUCIÓN DE PROYECTOS PRODUCTIVOS EN EL\nÁMBITO REGIONAL\nEJECUCIÓN DE PROYECTOS DE SANEAMIENTO BÁSICO AGUA Y\nALCANTARILLADO\nEJECUCIÓN DEL PROYECTO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 215513,
+            "txPgProblema": "1.OPTIMIZACION LOS RECURSOS ECONOMICOS DE LA REGION",
+            "txPgObjetivo": "GESTIONAR LA ASIGNACIÓN DE RECURSOS PARA LA REGION",
+            "txPgIndicador": "PRESUPUESTO REDUCIDO",
+            "txPgMeta": "INCREMENTAR EN UN 10 % LA ASIGNACIÓN\nPRESUPUESTAL",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 215715,
+            "txPgProblema": "1. ORDENAMIENTO TERRITORIAL\n2. CONTROL MEDIOAMBIENTAL",
+            "txPgObjetivo": "ESTABLECER UNA POLÍTICA DE ORDENAMIENTO\nESTABLECER UNA POLÍTICA DE CUIDADO DEL MEDIO AMBIENTE",
+            "txPgIndicador": "CONFLICTOS\nCONTAMINACIÓ N",
+            "txPgMeta": "ELABORAR UN PLAN DE\nORDENAMIENTO TERRITORIAL\nELABORAR UN PLAN REGULADOR EN\nMATERIA AMBIENTAL",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 215764,
+            "txPgProblema": ". POLÍTICAS INSTITUCIONALES DE\nDESARROLLO",
+            "txPgObjetivo": "ASUMIR EL ROL PROTAGÓNICO DE ESTABLECER POLÍTICAS DE DESARROLLO INSTITUCIONAL",
+            "txPgIndicador": "INFORMACION REGIONAL",
+            "txPgMeta": "ESTABLECER UN PLAN DE DESARROLLO INSTITUCIONAL.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

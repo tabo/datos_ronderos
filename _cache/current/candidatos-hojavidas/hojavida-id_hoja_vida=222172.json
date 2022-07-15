@@ -1,0 +1,144 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 222172.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44561999",
+        "nombres": "ANGEL GABRIEL",
+        "apellidoPaterno": "PUMA",
+        "apellidoMaterno": "TACO",
+        "sexo": "1",
+        "feNacimiento": "12/07/1987",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040508",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "CASTILLA",
+        "naciDistrito": "MACHAGUAY",
+        "ubigeoDomicilio": "040508",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "CASTILLA",
+        "domiDistrito": "MACHAGUAY",
+        "domicilioDirecc": "ANEXO DE AGUASANA",
+        "ubigeoPostula": "040508",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "CASTILLA",
+        "postulaDistrito": "MACHAGUAY",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/222172.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 142.0,
+        "organizacionPolitica": "AREQUIPA, TRADICION Y FUTURO",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 03:41:17",
+        "txGuidFormatoHojaVida": "ba60ecd2-a75c-4220-aa2a-a18f0484a543",
+        "idSolicitudLista": 34234.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 240274,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ANEXO DE AGUASANA",
+            "anioTrabajoDesde": "2005",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "040508",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "CASTILLA",
+            "trabajoDistrito": "MACHAGUAY",
+            "idHojaVida": 222172,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 212154,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 222172,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 192267,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 5000.0,
+                "idHojaVida": 222172,
+                "idEstado": 1,
+                "totalIngresos": 5000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 196072,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "68351V ",
+                "valor": 3500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": "SE VENDIO EN EL AÑO 2013.",
+                "idHojaVida": 222172,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 196071,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "B23619 ",
+                "valor": 2500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": "VENDIDO EN EL AÑO 2002.",
+                "idHojaVida": 222172,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

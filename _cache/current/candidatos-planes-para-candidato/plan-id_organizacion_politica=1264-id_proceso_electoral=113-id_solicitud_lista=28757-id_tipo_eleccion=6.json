@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 22083,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1264,
+        "txOrganizacionPolitica": "JUNTOS POR EL PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/ef2e031f-e17e-4f8e-80d4-c792944b6f13.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/de933b00-14a1-45ca-a05d-c9a67f96ca9d.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 161107,
+            "txPgProblema": "ÍNDICE DE CARENCIAS\n% DE POBREZA INEI",
+            "txPgObjetivo": "1.1 REDUCIR LA POBREZA A TRAVÉS DE LA PROMOCIÓN HUMANA",
+            "txPgIndicador": "% DE VIVIENDAS ATENDIDAS CON AGUA SEGURA, DESAGÜE Y/O LETRINA Y ENERGÍA",
+            "txPgMeta": "15",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 161043,
+            "txPgProblema": "% DE CRECIMIENTO DEL PBI REGIONAL",
+            "txPgObjetivo": "2.1 ELEVAR LA PRODUCCIÓN Y PRODUCTIVIDAD\nPROVINCIAL",
+            "txPgIndicador": "N° DE NUEVAS MYPES- ASOCICACIONES FORMALIZADAS\t\nN° DE ASOCIACIONES INSERTADAS EN EL MERCADO MACROREGIONAL .",
+            "txPgMeta": "2",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 161059,
+            "txPgProblema": "% PROMEDIO DE CALIDAD AMBIENTAL",
+            "txPgObjetivo": "3.1 PROTEGER EL MEDIO AMBIENTE Y LA SOSTENIBILIDAD DE LOS RECURSOS NATURALES",
+            "txPgIndicador": "Nº DE HAS. FORESTADAS Y/O REFORESTADAS",
+            "txPgMeta": "15",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 161080,
+            "txPgProblema": "% PROMEDIO DE EJECUCIÓN PLANES OPERATIVOS",
+            "txPgObjetivo": "4.1 MEJORAR EFICIENCIA EN GESTIÓN\nDEL DESARROLLO REGIONAL",
+            "txPgIndicador": "% DE CUMPLIMIENTO DE METAS DEL GASTO PÚBLICO",
+            "txPgMeta": "100",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

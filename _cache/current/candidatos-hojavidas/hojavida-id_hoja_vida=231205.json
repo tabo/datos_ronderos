@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 231205.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "76684792",
+        "nombres": "EMMA",
+        "apellidoPaterno": "CHONG",
+        "apellidoMaterno": "VALLES",
+        "sexo": "2",
+        "feNacimiento": "26/10/1994",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "150505",
+        "naciDepartamento": "LORETO",
+        "naciProvincia": "UCAYALI",
+        "naciDistrito": "SARAYACU",
+        "ubigeoDomicilio": "110101",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "HUANCAYO",
+        "domiDistrito": "HUANCAYO",
+        "domicilioDirecc": "JR. ICA NUEVA 1904 HUANCAYO",
+        "ubigeoPostula": "110000",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/231205.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 122.0,
+        "organizacionPolitica": "CAMINEMOS JUNTOS POR JUNIN",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "ACCESITARIO"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 18:17:01",
+        "txGuidFormatoHojaVida": "814ab439-adeb-4b70-b24d-18ec79d1de03",
+        "idSolicitudLista": 35284.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 241920,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CONFORTABLE PERU SAC",
+            "ocupacionProfesion": "GERENTE COMERCIAL",
+            "rucTrabajo": "20605334840",
+            "direccionTrabajo": "JIRON ICA N° 1062 HUANCAYO HUANCAYO JUNIN",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "110101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "HUANCAYO",
+            "trabajoDistrito": "HUANCAYO",
+            "idHojaVida": 231205,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 213710,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 231205,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 154640,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "SUPERIOR TECNOLÓGICO - ANTONIO RAIMONDI",
+                "carreraTecnico": "PROFESIONAL TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 231205,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 164051,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 21,
+            "orgPolRenunciaOp": "VICTORIA NACIONAL",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 231205,
+            "idEstado": 1,
+            "txComentario": "AFILIACION CANCELADA"
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 193363,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 60000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 231205,
+                "idEstado": 1,
+                "totalIngresos": 60000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 6577,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "CONFORTABLE PERU SAC",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 25.0,
+                "flValor": 2500.0,
+                "idHojaVida": 231205,
+                "idEstado": 1,
+                "txUsuario": "19835097",
+                "txFechaRegistro": null,
+                "txComentario": "ACCIONISTA CON EL 25% DE PARTICIPACION",
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

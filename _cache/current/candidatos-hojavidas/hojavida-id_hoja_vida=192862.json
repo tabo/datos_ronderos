@@ -1,0 +1,155 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 192862.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "41475592",
+        "nombres": "PEDRO OLGER",
+        "apellidoPaterno": "SOLIS",
+        "apellidoMaterno": "QUISPE",
+        "sexo": "1",
+        "feNacimiento": "21/10/1980",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040804",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "LA UNION",
+        "naciDistrito": "HUAYNACOTAS",
+        "ubigeoDomicilio": "040804",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "LA UNION",
+        "domiDistrito": "HUAYNACOTAS",
+        "domicilioDirecc": "ANEXO VISBE S/N",
+        "ubigeoPostula": "040804",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "LA UNION",
+        "postulaDistrito": "HUAYNACOTAS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/192862.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2307.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL AREQUIPA AVANCEMOS",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 23:31:28",
+        "txGuidFormatoHojaVida": "e98d16ef-ffde-47a9-abb9-ec8f1dd14186",
+        "idSolicitudLista": 30575.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 206557,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ANEXO VISBE S/N",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "040804",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "LA UNION",
+            "trabajoDistrito": "HUAYNACOTAS",
+            "idHojaVida": 192862,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "LA ACTIVIDAD DE AGRICULTOR FUE DESARROLLADA A PEQUEÑA ESCALA"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 181778,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 192862,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 153027,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2460,
+            "orgPolRenunciaOp": "MOVIMIENTO REGIONAL AREQUIPA CUENTA CONMIGO",
+            "anioRenunciaOp": "2015",
+            "idHojaVida": 192862,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 141249,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "LA ACTIVIDAD DE AGRICULTOR FUE DESARROLLADA EN PEQUEÑA ESCALA Y NO SUPONEN SIGNIFICATIVOS INGRESOS DE BIENES Y RENTAS",
+            "idHojaVida": 192862,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 169374,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 3800.0,
+                "idHojaVida": 192862,
+                "idEstado": 1,
+                "totalIngresos": 3800.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 212462,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "GANANCIAL",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "ANEXO VISBE - HUAYQUI",
+                "comentario": "PREDIO AGRÍCOLA",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 10000.0,
+                "idHojaVida": 192862,
+                "idEstado": 1,
+                "flValor": "10000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

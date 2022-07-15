@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 223001.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "47777053",
+        "nombres": "CINDY ELIZABETH",
+        "apellidoPaterno": "CHAMOCHUMBI",
+        "apellidoMaterno": "ESPINOZA",
+        "sexo": "2",
+        "feNacimiento": "02/05/1993",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "120901",
+        "naciDepartamento": "LA LIBERTAD",
+        "naciProvincia": "CHEPEN",
+        "naciDistrito": "CHEPEN",
+        "ubigeoDomicilio": "120901",
+        "domiDepartamento": "LA LIBERTAD",
+        "domiProvincia": "CHEPEN",
+        "domiDistrito": "CHEPEN",
+        "domicilioDirecc": "CALLE PROGRESO 869-B",
+        "ubigeoPostula": "120000",
+        "postulaDepartamento": "LA LIBERTAD",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/223001.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 67.0,
+        "organizacionPolitica": "SUMATE",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "ACCESITARIO"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 20:49:35",
+        "txGuidFormatoHojaVida": "03197a1d-da0b-49c6-ba7d-d8a868336070",
+        "idSolicitudLista": 34331.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 255379,
+            "tengoExpeLaboral": "2",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MUNICIPALIDAD FLORENCIA DE MORA",
+            "ocupacionProfesion": "ASISTENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE 20 DE JUNIO 1000",
+            "anioTrabajoDesde": "2018",
+            "anioTrabajoHasta": "2019",
+            "ubigeoTrabajo": "120112",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LA LIBERTAD",
+            "trabajoProvincia": "TRUJILLO",
+            "trabajoDistrito": "FLORENCIA DE MORA",
+            "idHojaVida": 223001,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 227849,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 223001,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 248657,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "AVENIDA PISAC NUM 125 DPTO N° B-205 EDIFICIO B FUNDO LA TABOADA VALLE DE BOCANEGRA CALLAO - CALLAO - LIMA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "70619664",
+                "fichaTomoSunarp": null,
+                "autovaluo": 500000.0,
+                "idHojaVida": 223001,
+                "idEstado": 1,
+                "flValor": "500000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 204764,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "40842F ",
+                "valor": 25000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTO",
+                "comentario": null,
+                "idHojaVida": 223001,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

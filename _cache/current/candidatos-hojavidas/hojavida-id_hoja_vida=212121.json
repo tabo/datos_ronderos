@@ -1,0 +1,219 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 212121.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "16783077",
+        "nombres": "ROBERTO",
+        "apellidoPaterno": "DE LA CRUZ",
+        "apellidoMaterno": "DE LA CRUZ",
+        "sexo": "1",
+        "feNacimiento": "13/05/1977",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "130202",
+        "naciDepartamento": "LAMBAYEQUE",
+        "naciProvincia": "FERREÑAFE",
+        "naciDistrito": "INCAHUASI",
+        "ubigeoDomicilio": "130202",
+        "domiDepartamento": "LAMBAYEQUE",
+        "domiProvincia": "FERREÑAFE",
+        "domiDistrito": "INCAHUASI",
+        "domicilioDirecc": "CASERIO OXAPAMPA",
+        "ubigeoPostula": "130202",
+        "postulaDepartamento": "LAMBAYEQUE",
+        "postulaProvincia": "FERREÑAFE",
+        "postulaDistrito": "INCAHUASI",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/212121.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 1442.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL CONSTRUYENDO",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 20:02:47",
+        "txGuidFormatoHojaVida": "2d4b0632-9135-4a66-92c7-634cb47f4df0",
+        "idSolicitudLista": 33054.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 169139,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "SENASA",
+            "ocupacionProfesion": "TÉCNICO AGROPECUARIO",
+            "rucTrabajo": "20131373075",
+            "direccionTrabajo": "CARRETERA POMALCA KM. 2.5 SECTOR SAN ANTONIO DE CHA (SECTOR SUB-LOTE B)",
+            "anioTrabajoDesde": "1998",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "130101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LAMBAYEQUE",
+            "trabajoProvincia": "CHICLAYO",
+            "trabajoDistrito": "CHICLAYO",
+            "idHojaVida": 212121,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 148087,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 212121,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 137492,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "INSTITUTO SUPERIOR TECNOLÓGICO ENRIQUE LÓPEZ ALBÚJAR",
+                "carreraTecnico": "TÉCNICO AGROPECUARIO",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 212121,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 136341,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "INSTITUTO SUPERIOR TECNOLÓGICO ENRIQUE LÓPEZ ALBÚJAR",
+                "carreraNoUni": "TÉCNICO AGROPECUARIO",
+                "concluidoNoUni": "1",
+                "idHojaVida": 212121,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 140362,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 179,
+            "orgPolRenunciaOp": "PARTIDO NACIONALISTA PERUANO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 212121,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 144513,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 21600.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 24000.0,
+                "idHojaVida": 212121,
+                "idEstado": 1,
+                "totalIngresos": 45600.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 181450,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "PREDIO URBANO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "MZ B LOTE 14 SANTA VALENTINA I ETAPA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "11295471",
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 212121,
+                "idEstado": 1,
+                "flValor": "220000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 156508,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 3,
+                "vehiculo": "CAMIONETA",
+                "marca": null,
+                "placa": "T6E898",
+                "valor": 25000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "HYUNDAI MIGHTY COLOR BLANCO AZUL",
+                "comentario": "ESTADO: EN REGULAR OPERATIVIDAD",
+                "idHojaVida": 212121,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 156496,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "TRIMOTO",
+                "marca": null,
+                "placa": "M99487",
+                "valor": 4000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "SELFIR SF125 A1 COLOR ROJO",
+                "comentario": "ESTADO: EN REGULAR OPERATIVIDAD",
+                "idHojaVida": 212121,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 156487,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "CAMIONETA",
+                "marca": null,
+                "placa": "M2S854",
+                "valor": 7000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "JMC CARRYING 20T TA CON TOLVA COLOR BLANCO",
+                "comentario": "ESTADO: REGULAR EN OPERATIVIDAD",
+                "idHojaVida": 212121,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

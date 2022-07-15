@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 24042,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/89692eb9-f848-4f55-955b-a147ec6d93de.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/b533c70c-b0ce-46ea-b763-46972ec96181.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 156146,
+            "txPgProblema": "INADECUADAS CONDICIONES Y LIMITADA COBERTURA DE LOS SERVICIOS BÁSICOS EN EL DISTRITO DE BAJO BIAVO.",
+            "txPgObjetivo": "MEJORAR LA COBERTURA DE LOS SERVICIOS BÁSICOS PARA LA POBLACIÓN",
+            "txPgIndicador": "PORCENTAJE DE HOGARES CON ACCESO A SERVICIOS BÁSICOS.",
+            "txPgMeta": "EN EL AÑO 2022 EL INDICADOR ES DEL 6.7%, AL 2023, 2024, 2025 Y 2026 LA META ES 10%, 15%, 20% Y 30%, RESPECTIVAMENTE.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156153,
+            "txPgProblema": "INADECUADAS CONDICIONES DE LA PRESTACIÓN DE SERVICIOS DE SALUD EN EL DISTRITO DE BAJO BIAVO.",
+            "txPgObjetivo": "INADECUADAS CONDICIONES DE LA PRESTACIÓN DE SERVICIOS DE SALUD EN EL DISTRITO DE BAJO BIAVO.",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN QUE ACCEDE A LOS SERVICIOS DE SALUD.",
+            "txPgMeta": "EN EL AÑO 2022 EL INDICADOR ES DEL 30%, AL 2023, 2024, 2025 Y 2026 LA META ES 35%, 40%, 45% Y 50%, RESPECTIVAMENTE.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156164,
+            "txPgProblema": "INADECUADAS CONDICIONES DE LA PRESTACIÓN DEL SERVICIO EDUCATIVO EN EL DISTRITO DE BAJO BIAVO.",
+            "txPgObjetivo": "INADECUADAS CONDICIONES DE LA PRESTACIÓN DEL SERVICIO EDUCATIVO EN EL DISTRITO DE BAJO BIAVO.",
+            "txPgIndicador": "PORCENTAJE DE ESTUDIANTES DE 2 GRADO DE PRIMARIA DE INSTITUCIONES EDUCATIVAS PÚBLICAS, QUE SE ENCUENTRAN EN EL NIVEL SATISFACTORIO EN MATEMÁTICA",
+            "txPgMeta": "EN EL AÑO 2022 EL INDICADOR ES DEL 19%, AL 2023, 2024, 2025 Y 2026 LA META ES 25%, 30%, 35% Y 40%, RESPECTIVAMENTE.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 156208,
+            "txPgProblema": "BAJO NIVEL DE COMPETITIVIDAD ECONÓMICA EN EL DISTRITO DE BAJO BIAVO.",
+            "txPgObjetivo": "PROMOVER EL COMERCIO ORGANIZADO Y ORDENADO EN EL DISTRITO.",
+            "txPgIndicador": "PORCENTAJE ESPACIOS COMERCIALES ORGANIZADOS Y ORDENADOS.",
+            "txPgMeta": "EN EL 2022 EL INDICADOR ES DE 30%, LA META PARA EL 2026 ES LOGRAR EL 70% DE ESPACIOS COMERCIALES ORGANIZADOS Y ORDENADOS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156223,
+            "txPgProblema": "EN EL 2022 EL INDICADOR ES DE 30%, LA META PARA EL 2026 ES LOGRAR EL 70% DE ESPACIOS COMERCIALES ORGANIZADOS Y ORDENADOS.",
+            "txPgObjetivo": "MEJORAR LA COMPETITIVIDAD DE LA OFERTA TURÍSTICA DEL DISTRITO.",
+            "txPgIndicador": "PORCENTAJE DE RECURSOS TURÍSTICOS EN BUEN ESTADO",
+            "txPgMeta": "EN EL AÑO 2022 EL INDICADOR ES DEL 10%, AL 2023, 2024, 2025 Y 2026 LA META ES 20%, 25%, 30% Y 35%, RESPECTIVAMENTE.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156235,
+            "txPgProblema": "BAJO NIVEL DE COMPETITIVIDAD ECONÓMICA EN EL DISTRITO DE BAJO BIAVO.",
+            "txPgObjetivo": "MEJORAR LA INFRAESTRUCTURA VIAL DISTRITAL.",
+            "txPgIndicador": "PORCENTAJE DE LA INFRAESTRUCTURA VIAL DISTRITAL PAVIMENTADO.",
+            "txPgMeta": "EN EL AÑO 2022 EL INDICADOR ES DEL 19%, AL 2023, 2024, 2025 Y 2026 LA META ES 30%, 35%, 40% Y 45%, RESPECTIVAMENTE.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 156244,
+            "txPgProblema": "BAJOS NIVELES DE CALIDAD AMBIENTAL EN EL DISTRITO DE BAJO BIAVO.",
+            "txPgObjetivo": "BAJOS NIVELES DE CALIDAD AMBIENTAL EN EL DISTRITO DE BAJO BIAVO.",
+            "txPgIndicador": "BAJOS NIVELES DE CALIDAD AMBIENTAL EN EL DISTRITO DE BAJO BIAVO.",
+            "txPgMeta": "EN EL 2022 EL INDICADOR ES DE 10%, LA META PARA EL 2026 ES LOGRAR EL 35% DE LA POBLACIÓN.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156256,
+            "txPgProblema": "EN EL 2022 EL INDICADOR ES DE 10%, LA META PARA EL 2026 ES LOGRAR EL 35% DE LA POBLACIÓN.",
+            "txPgObjetivo": "PROMOVER E IMPLEMENTAR LA CONSERVACIÓN DEL BOSQUE Y SU DIVERSIDAD BIOLÓGICA",
+            "txPgIndicador": "PORCENTAJE DE SUPERFICIE BOSCOSA DEFORESTADA ANUALMENTE.",
+            "txPgMeta": "PORCENTAJE DE SUPERFICIE BOSCOSA DEFORESTADA ANUALMENTE.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156269,
+            "txPgProblema": "BAJOS NIVELES DE CALIDAD AMBIENTAL EN EL DISTRITO DE BAJO BIAVO.",
+            "txPgObjetivo": "MEJORAR LA GESTIÓN DE LOS RESIDUOS SÓLIDOS MUNICIPALES",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN QUE ACCEDE AL SERVICIO DE LIMPIEZA PÚBLICA.",
+            "txPgMeta": "EN EL 2022 EL INDICADOR ES DE 6.5%, LA META PARA EL 2026 ES LOGRAR EL 45% DE ACCESO AL SERVICIO DE LIMPIEZA PÚBLICA.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 156298,
+            "txPgProblema": "INEFICIENTE GESTIÓN INSTITUCIONAL EN EL DISTRITO DE BAJO BIAVO.",
+            "txPgObjetivo": "PROMOVER LA MODERNIZACIÓN DE LA GESTIÓN INSTITUCIONAL DE LA MUNICIPALIDAD DE BAJO BIAVO.",
+            "txPgIndicador": "PORCENTAJE DE EFICACIA DEL GASTO.",
+            "txPgMeta": "COMO LINEA BASE SE TIENE UNA EJECUCIÓN DEL 81.60%, Y LA META PARA EL AÑO 2026 ES DEL 99% EN EJECUCIÓN PRESUPUESTAL.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156305,
+            "txPgProblema": "INEFICIENTE GESTIÓN INSTITUCIONAL EN EL DISTRITO DE BAJO BIAVO.",
+            "txPgObjetivo": "INEFICIENTE GESTIÓN INSTITUCIONAL EN EL DISTRITO DE BAJO BIAVO.",
+            "txPgIndicador": "PORCENTAJE DE ÁREAS IMPLANTADAS CON GESTIÓN POR PROCESOS Y/O RESULTADOS.",
+            "txPgMeta": "EN EL 2022 EL INDICADOR ES DE 60%, LA META PARA EL 2026 ES LOGRAR EL 85%.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156314,
+            "txPgProblema": "INEFICIENTE GESTIÓN INSTITUCIONAL EN EL DISTRITO DE BAJO BIAVO.",
+            "txPgObjetivo": "REDUCIR LOS ÍNDICES DE INSEGURIDAD QUE AFECTA A LA POBLACIÓN.",
+            "txPgIndicador": "% DEL CUMPLIMIENTO DEL PLAN ANUAL DE SEGURIDAD CIUDADANA.",
+            "txPgMeta": "EN EL 2022 EL INDICADOR ES DE 20%, LA META PARA EL 2026 ES LOGRAR EL 100% DEL CUMPLIMIENTO DEL PLAN ANUAL DE SEGURIDAD CIUDADANA.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

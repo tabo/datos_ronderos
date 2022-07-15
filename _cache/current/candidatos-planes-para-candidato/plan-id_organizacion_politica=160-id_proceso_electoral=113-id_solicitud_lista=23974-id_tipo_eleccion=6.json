@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 17300,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 160,
+        "txOrganizacionPolitica": "FRENTE REGIONAL DE CAJAMARCA",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/6a2afd79-0a35-4643-883f-48803ecccd4f.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/b0487cb7-0de3-415b-9f9c-63f0f8c00a44.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 222008,
+            "txPgProblema": "SERVICIO EDUCATIVO DEFICIENTE POR INADECUADA CAPACIDAD INSTALADA EN INSTITUCIONES EDUCATIVAS DE LA EDUCACIÓN BÁSICA REGULAR",
+            "txPgObjetivo": "AMPLIAR Y MEJORAR LA INFRAESTRUCTURA Y SUS SERVICIOS BÁSICOS.",
+            "txPgIndicador": "90.5% DE LOCALES EDUCATIVOS EN MAL ESTADO",
+            "txPgMeta": "40% DE LOCALES EDUCATIVOS EN BUEN ESTADO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 222033,
+            "txPgProblema": "SERVICIO DEFICIENTE POR INADECUADA CAPACIDAD INSTALADA DE LOS ESTABLECIMIENTOS DE SALUD\tAMPLIAR Y MEJORAR LA INFRAESTRUCTURA DE SERVICIOS BÁSICOS",
+            "txPgObjetivo": "AMPLIAR Y MEJORAR LA INFRAESTRUCTURA DE SERVICIOS BÁSICOS",
+            "txPgIndicador": "80% ESTABLECIMIENTOS DE SALUD DEL PRIMER NIVEL DE ATENCIÓN CON CAPACIDAD INSTALADA INADECUADA",
+            "txPgMeta": "60% ESTABLECIMIENTO DE SALUD DEL PRIMER NIVEL DE ATENCIÓN CON CAPACIDAD INSTALADA ADECUADA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 222050,
+            "txPgProblema": "DEFICIENTE ACCESO AL SERVICIO DE AGUA SEGURA Y SANEAMIENTO DIGNO EN ZONAS URBANA Y RURAL",
+            "txPgObjetivo": "AMPLIAR Y MEJORAR LA INFRAESTRUCTURA DE SERVICIOS BÁSICOS.",
+            "txPgIndicador": "3% DE LA POBLACIÓN SIN ACCESO A SERVICIOS DE ALCANTARILLADO U OTRAS FORMAS DE DISPOSICIÓN SANITARIA DE EXCRETAS",
+            "txPgMeta": "100% DE LA POBLACIÓN TIENE SANEAMIENTO BÁSICO DIGNO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 222069,
+            "txPgProblema": "DEFICIENTE INFRAESTRUCTURA VIAL QUE PERMITA ACERCAR LA PRODUCCIÓN AL MERCADO.",
+            "txPgObjetivo": "AMPLIAR Y MEJORAR LA INFRAESTRUCTURA PARA EL DESARROLLO PRODUCTIVO",
+            "txPgIndicador": "30% DE LA RED DE CAMINOS DE HERRADURA NO INTERVENIDOS",
+            "txPgMeta": "50% DE LA RED DE CAMINOS DE HERRADURA MEJORADOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 222088,
+            "txPgProblema": "DEFICIENTE INFRAESTRUCTURA PRODUCTIVA PARA FINES AGROPECUARIOS",
+            "txPgObjetivo": "AMPLIAR Y MEJORAR LA INFRAESTRUCTURA PARA EL DESARROLLO PRODUCTIVO",
+            "txPgIndicador": "85 % DE PREDIOS RURALES QUE NO CUENTAN CON TÍTULO DE PROPIEDAD REGISTRADO",
+            "txPgMeta": "30% DE PREDIOS RURALES CUENTAN CON TÍTULO DE PROPIEDAD REGISTRADO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 222110,
+            "txPgProblema": "DEFICIENTE INFRAESTRUCTURA PRODUCTIVA PARA FINES AGROPECUARIOS",
+            "txPgObjetivo": "AMPLIAR Y MEJORAR LA INFRAESTRUCTURA PARA EL DESARROLLO PRODUCTIVO",
+            "txPgIndicador": "70 % DE SISTEMAS DE RIEGO QUE OPERAN EN CONDICIONES INADECUADAS O DE MANERA TRADICIONAL",
+            "txPgMeta": "35 % DE SISTEMAS DE RIEGO QUE OPERAN EN CONDICIONES ADECUADAS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 222125,
+            "txPgProblema": "AUSENCIA DE ACCIONES DE RECUPERACIÓN DE ÁREAS NATURALES Y ECOSISTEMAS CON BIODIVERSIDAD",
+            "txPgObjetivo": "PROTEGER Y CONSERVAR EL MEDIO AMBIENTE",
+            "txPgIndicador": "70% DE SUPERFICIE DE COMUNIDADES CON POTENCIAL PARA EL APOYO SOSTENIBLE DE LA BIODIVERSIDAD SIN INTERVENCIÓN",
+            "txPgMeta": "40% DE SUPERFICIE DE COMUNIDADES CON POTENCIAL PARA EL APOYO SOSTENIBLE DE LA BIODIVERSIDAD INTERVENIDOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 222154,
+            "txPgProblema": "INADECUADO SERVICIO DE LIMPIEZA Y DISPOSICIÓN DE LOS RESIDUOS SÓLIDOS",
+            "txPgObjetivo": "PROTEGER Y CONSERVAR EL MEDIO AMBIENTE",
+            "txPgIndicador": "30% DE POBLACIÓN URBANA NO ATENDIDA POR UN ADECUADO SERVICIO DE LIMPIEZA PÚBLICA",
+            "txPgMeta": "85% DE POBLACIÓN URBANA ATENDIDA POR UN ADECUADO SERVICIO DE LIMPIEZA PÚBLICA",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 222161,
+            "txPgProblema": "MAQUINARIA ABANDONA O EN PÉSIMAS CONDICIONES",
+            "txPgObjetivo": "AMPLIAR Y MEJORAR EL POOL DE MAQUINARIA",
+            "txPgIndicador": "70% DE MAQUINARIA EN PÉSIMAS CONDICIONES",
+            "txPgMeta": "100% DE MAQUINARIA OPERATIVAS Y BUENAS CONDICIONES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 222177,
+            "txPgProblema": "DEFICIENTE IMPLEMENTACIÓN DE PLANES E INSTRUMENTOS DE GESTIÓN MUNICIPAL",
+            "txPgObjetivo": "DESARROLLAR UN GOBIERNO MUNICIPAL EFICIENTE, TRANSPARENTE Y SIN CORRUPCIÓN",
+            "txPgIndicador": "60% DE AGENTES PARTICIPANTE NO INTERVIENE EN PRIORIZACIÓN DE PROYECTOS A TRAVÉS DEL PRESUPUESTO PARTICIPATIVO",
+            "txPgMeta": "60% DE AGENTES PARTICIPANTE INTERVIENEN EN PRIORIZACIÓN DE PROYECTOS A TRAVÉS DEL PRESUPUESTO PARTICIPATIVO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 222191,
+            "txPgProblema": "DEFICIENTE IMPLEMENTACIÓN DE PLANES E INSTRUMENTOS DE GESTIÓN MUNICIPAL",
+            "txPgObjetivo": "DESARROLLAR UN GOBIERNO MUNICIPAL EFICIENTE, TRANSPARENTE Y SIN CORRUPCIÓN",
+            "txPgIndicador": "% PORCENTAJE DE SISTEMAS INFORMÁTICOS DE GESTIÓN DOCUMENTAL DE CERO PAPELES EN EL MARCO DE GOBIERNO ELECTRÓNICO CONTEMPLADOS EN LA LEY 29904 NO IMPLEMENTADOS",
+            "txPgMeta": "50% PORCENTAJE DE SISTEMAS INFORMÁTICOS DE GESTIÓN DOCUMENTAL DE CERO PAPELES EN EL MARCO DE GOBIERNO ELECTRÓNICO IMPLEMENTADOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 222203,
+            "txPgProblema": "DEFICIENTE IMPLEMENTACIÓN DE PLANES E INSTRUMENTOS DE GESTIÓN MUNICIPAL",
+            "txPgObjetivo": "DESARROLLAR UN GOBIERNO MUNICIPAL EFICIENTE, TRANSPARENTE Y SIN CORRUPCIÓN",
+            "txPgIndicador": "30% DE INSTRUMENTOS DE PLANIFICACIÓN ESTRATÉGICA NO APROBADOS Y NO AUTORIZADO POR EL CENTRO DE PLANEAMIENTO ESTRATÉGICO NACIONAL CEPLAN",
+            "txPgMeta": "100% DE INSTRUMENTOS DE PLANIFICACIÓN ESTRATÉGICA APROBADOS Y AUTORIZADO POR EL CENTRO DE PLANEAMIENTO ESTRATÉGICO NACIONAL CEPLAN",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

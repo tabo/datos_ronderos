@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 223981.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44293265",
+        "nombres": "JUAN RICHARD",
+        "apellidoPaterno": "PALOMINO",
+        "apellidoMaterno": "ROMERO",
+        "sexo": "1",
+        "feNacimiento": "16/06/1987",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050402",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "LA MAR",
+        "naciDistrito": "ANCO",
+        "ubigeoDomicilio": "050412",
+        "domiDepartamento": "AYACUCHO",
+        "domiProvincia": "LA MAR",
+        "domiDistrito": "UNION PROGRESO",
+        "domicilioDirecc": "ANEXO MEJORADA",
+        "ubigeoPostula": "050412",
+        "postulaDepartamento": "AYACUCHO",
+        "postulaProvincia": "LA MAR",
+        "postulaDistrito": "UNION PROGRESO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/223981.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2694.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL GANA AYACUCHO",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 15:19:35",
+        "txGuidFormatoHojaVida": "9082dfd9-c34c-4e75-8d54-1497b9426c12",
+        "idSolicitudLista": 34445.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 180692,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "ANEXO MEJORADO",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ANEXO MEJORADA",
+            "anioTrabajoDesde": "2007",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "050412",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AYACUCHO",
+            "trabajoProvincia": "LA MAR",
+            "trabajoDistrito": "UNION PROGRESO",
+            "idHojaVida": 223981,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "AGRICULTOR"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 158838,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 223981,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 144490,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2861,
+            "orgPolRenunciaOp": "MOVIMIENTO REGIONAL AGUA",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 223981,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 152192,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 9600.0,
+                "idHojaVida": 223981,
+                "idEstado": 1,
+                "totalIngresos": 9600.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 192400,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "PREDIO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "ANEXO MEJORADA",
+                "comentario": "COMPRA Y VENTA",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 23.0,
+                "idHojaVida": 223981,
+                "idEstado": 1,
+                "flValor": "1000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 163760,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "C0T451 ",
+                "valor": 12000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "NISSAN TIDA",
+                "comentario": "NISSAN TIDA DE COLOR  AMARILLO OSCURO",
+                "idHojaVida": 223981,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

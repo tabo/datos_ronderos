@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23530,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2716,
+        "txOrganizacionPolitica": "JUNIN RENACE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/c6106f4b-a77a-41fd-bb37-c670e4154ccf.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/5928f6b4-c60a-464b-9123-18e9af197b9c.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 134334,
+            "txPgProblema": "DEFICIENCIA EN LA PRESTACIÓN DE SERVICIOS DE AGUA Y DESAGÜE",
+            "txPgObjetivo": "MEJORA EN EL SERVICIO DE AGUA Y DESAGÜE",
+            "txPgIndicador": "NIVELES DE COBERTURA DEL 20% AGUA Y 10% DESAGÜE",
+            "txPgMeta": "MEJORA EN NIVELES DE COBERTURA HASTA EL 50%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134341,
+            "txPgProblema": "CARENCIA DE MEDICAMENTOS Y PERSONAL PROFESIONAL PERMANENTE",
+            "txPgObjetivo": "EQUIPAMIENTO PERMANENTE DE MEDICAMENTOS Y DE PERSONAL PROFESIONAL.",
+            "txPgIndicador": "DÉFICIT DE ATENCIÓN EN 30%",
+            "txPgMeta": "MEJORA DE LA ATENCIÓN EN 80%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134350,
+            "txPgProblema": "FALTA DE ESPACIOS DEPORTIVOS PARA LA BUENA PRÁCTICA DEL DEPORTE",
+            "txPgObjetivo": "MEJORAR LA PRÁCTICA DEL DEPORTE DE LOS HABITANTES DEL DISTRITO DE TUNAN MARCA,",
+            "txPgIndicador": "FALTA DE INFRAESTRUCTURA EN UN 50%",
+            "txPgMeta": "MEJORA EN COBERTURA DE PRACTICA DEL DEPORTE EN 50 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 134363,
+            "txPgProblema": "ABANDONO PARCIAL EN LA CONSERVACIÓN Y RESTAURACIÓN DE NUESTRO PATRIMONIO CULTURAL",
+            "txPgObjetivo": "PROMOVER LA RESTAURACIÓN, PROTECCIÓN Y DIFUSIÓN DEL PATRIMONIO CULTURAL DEL DISTRITO DE TUNAN MARCA",
+            "txPgIndicador": "DISMINUCIÓN DE VISITAS TURÍSTICAS UN 90%",
+            "txPgMeta": "MEJORA DE LAS VISITAS TURÍSTICAS EN 50%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134393,
+            "txPgProblema": "LIMITADA CAPACITACIÓN EN TEMAS DE AGRICULTURA Y GANADERÍA.",
+            "txPgObjetivo": "MEJORAR LA PRODUCCIÓN DE LA AGRICULTURA Y LA GANADERÍA",
+            "txPgIndicador": "CONOCIMIENTO TECNOLÓGICO AGROPECUARIO EN UN 20%",
+            "txPgMeta": "MEJORA EN LA PRODUCTIVIDAD EN 30%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134399,
+            "txPgProblema": ".FALTA DE RESERVORIO PARA EL RIEGO TECNIFICADO",
+            "txPgObjetivo": "GESTIONAR LA CONSTRUCCIÓN DE RESERVORIOS PARA LA UTILIZACIÓN DEL RIEGO TECNIFICADO",
+            "txPgIndicador": "PRODUCCIÓN CON RIEGO TECNIFICADO EN 10%",
+            "txPgMeta": "MEJORA EN LA PRODUCCIÓN DE RIEGO TECNIFICADO EN 30%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 134407,
+            "txPgProblema": "FALTA DE UNA ADECUADA INFRAESTRUCTURA PARA DEPOSITAR LOS RESIDUOS SOLIDOS",
+            "txPgObjetivo": "GESTIONAR EL FINANCIAMIENTO PARA UNA PLANTA DE TRATAMIENTOS DE DESECHOS",
+            "txPgIndicador": "DISPOSICIÓN DE PTAR ES 0%",
+            "txPgMeta": "UN PTAR",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134417,
+            "txPgProblema": "FALTA DE CONCIENCIA AMBIENTAL RESIDUOS SOLIDOS",
+            "txPgObjetivo": "MEJORA EN LA SENSIBILIZACIÓN, RECOJO Y TRATAMIENTO DE LOS RESIDUOS SOLIDOS",
+            "txPgIndicador": "INCREMENTO DE LA CANTIDAD DE RESIDUOS SÓLIDOS EN 30%",
+            "txPgMeta": "MEJORA EN EL TRATAMIENTO EN 50 %",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134423,
+            "txPgProblema": "PÈRDIDA DE ESPECIES FORESTALES NATIVAS",
+            "txPgObjetivo": "IMPLEMENTACIÓN DE VIVEROS CON ESPECIES NATIVAS DE LA ZONA",
+            "txPgIndicador": "PERDIDA DE ESPECIES FORESTALES EN 15% ANUALES",
+            "txPgMeta": "INSTALACIÓN DE 200,000 PLANTONES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 134434,
+            "txPgProblema": "SISTEMA ADMINISTRATIVO CON MÍNIMAS CONDICIONES",
+            "txPgObjetivo": "ACTUALIZACIÓN DE SISTEMAS ADMINISTRATIVOS",
+            "txPgIndicador": "SISTEMA ADMINISTRATIVO CON MEJORAS DE ACTUALIZACIÓN EN 10% ANUALES",
+            "txPgMeta": "MEJORA EN LA GESTIÓN ADMINISTRATIVA EN 50%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134441,
+            "txPgProblema": "FALTA DE EQUIPAMIENTO EN ÁREAS SENSIBLES DE LA MUNICIPALIDAD",
+            "txPgObjetivo": "EQUIPAMIENTO INSTITUCIONAL EN ÁREAS PRIORITARIAS DE ATENCIÓN AL CIUDADANO",
+            "txPgIndicador": "FALTA DE EQUIPAMIENTO EN UN 60%",
+            "txPgMeta": "MEJORA EN LA ATENCIÓN EN 50%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134452,
+            "txPgProblema": "ORGANIZACIONES DE BASE EN DESORDEN Y DESINFORMADAS",
+            "txPgObjetivo": "FORTALECIMIENTO DE LAS ORGANIZACIONES SOCIALES DE BASE",
+            "txPgIndicador": "DESORGANIZACIÓN EN INSTITUCIONES DE BASE EN 50%",
+            "txPgMeta": "MEJORA DE 10 ORGANIZACIONES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

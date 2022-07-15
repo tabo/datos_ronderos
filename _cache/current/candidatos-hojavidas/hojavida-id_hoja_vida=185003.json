@@ -1,0 +1,128 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 185003.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "72965096",
+        "nombres": "JACK VLADIMIR",
+        "apellidoPaterno": "CHAVARRIA",
+        "apellidoMaterno": "VILLARREAL",
+        "sexo": "1",
+        "feNacimiento": "16/09/1996",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140206",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "CAJATAMBO",
+        "naciDistrito": "GORGOR",
+        "ubigeoDomicilio": "140206",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "CAJATAMBO",
+        "domiDistrito": "GORGOR",
+        "domicilioDirecc": "ANEXO NUNUMIA",
+        "ubigeoPostula": "140206",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "CAJATAMBO",
+        "postulaDistrito": "GORGOR",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/185003.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 4.0,
+        "organizacionPolitica": "ACCION POPULAR",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 01:15:42",
+        "txGuidFormatoHojaVida": "db959924-d912-40e3-a5d6-51ca7f82c40b",
+        "idSolicitudLista": 29503.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 199508,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AGRICULTOR",
+            "ocupacionProfesion": "-",
+            "rucTrabajo": null,
+            "direccionTrabajo": "-",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140206",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "CAJATAMBO",
+            "trabajoDistrito": "GORGOR",
+            "idHojaVida": 185003,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 175737,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 185003,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 185496,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 4000.0,
+                "idHojaVida": 185003,
+                "idEstado": 1,
+                "totalIngresos": 4000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 174542,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "9813EA ",
+                "valor": 5500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "VERDE NEGRO, MARCA RONCO, MODELO AGGRESSOR 200",
+                "comentario": null,
+                "idHojaVida": 185003,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

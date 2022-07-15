@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 161652.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "32914650",
+        "nombres": "ROGER SERAPIO",
+        "apellidoPaterno": "NOLAZCO",
+        "apellidoMaterno": "PEREZ",
+        "sexo": "1",
+        "feNacimiento": "27/04/1968",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "120101",
+        "naciDepartamento": "LA LIBERTAD",
+        "naciProvincia": "TRUJILLO",
+        "naciDistrito": "TRUJILLO",
+        "ubigeoDomicilio": "021303",
+        "domiDepartamento": "ANCASH",
+        "domiProvincia": "SANTA",
+        "domiDistrito": "MACATE",
+        "domicilioDirecc": "CASERIO SANTA ANA MZ. D LT. 13",
+        "ubigeoPostula": "021303",
+        "postulaDepartamento": "ANCASH",
+        "postulaProvincia": "SANTA",
+        "postulaDistrito": "MACATE",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/161652.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 22.0,
+        "organizacionPolitica": "RENOVACION POPULAR",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 11:26:18",
+        "txGuidFormatoHojaVida": "349b2cb1-d32d-4921-8122-c07dd02c35cf",
+        "idSolicitudLista": 26375.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 168398,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "EMPRESA DE TRANSPORTES Y SERVICIOS MULTIPLES SANTA ANITA",
+            "ocupacionProfesion": "CHOFER",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AVENIDA BUENOS AIRES 630",
+            "anioTrabajoDesde": "2000",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "021301",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ANCASH",
+            "trabajoProvincia": "SANTA",
+            "trabajoDistrito": "CHIMBOTE",
+            "idHojaVida": 161652,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 147359,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 161652,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 140101,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 4,
+            "orgPolRenunciaOp": "ACCION POPULAR",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 161652,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 140100,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 32,
+            "orgPolRenunciaOp": "PARTIDO APRISTA PERUANO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 161652,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 143946,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 18000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 161652,
+                "idEstado": 1,
+                "totalIngresos": 18000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 1025,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "EMPRESA DE TRANSPORTES Y SERVICIOS MULTIPLES SANTA ANITA",
+                "idParamTipoTitularidad": 88,
+                "txTipoTitularidad": "PARTICIPACIONES",
+                "flCantidad": 7.69,
+                "flValor": 200.0,
+                "idHojaVida": 161652,
+                "idEstado": 1,
+                "txUsuario": "73245854",
+                "txFechaRegistro": null,
+                "txComentario": "TENGO 7,69% DE PARTICIPACIONES EN LA EMPRESA",
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 26226,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2702,
+        "txOrganizacionPolitica": "MOVIMIENTO DE INTEGRACION Y REVOLUCION ANDINA",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1652,
+        "juradoElectoral": "AZANGARO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/58b8262b-4c21-43eb-aad9-df44dda0a077.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/fbaa4683-8e9f-4161-9630-36e9754da902.pdf",
+        "txCodExpedienteExt": "ERM.2022012971",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 144783,
+            "txPgProblema": "INCREMENTO DE LA INSEGURIDAD CIUDADANA",
+            "txPgObjetivo": "REDUCIR LOS ÍNDICES DE INSEGURIDAD CIUDADANA EN EL DISTRITO",
+            "txPgIndicador": "PORCENTAJE QUE DENUNCIA EL EVENTO QUE ATENTÓ CONTRA SEGURIDAD (15 AÑOS A MÁS)",
+            "txPgMeta": "40",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 144858,
+            "txPgProblema": "ALTOS ÍNDICES DE DESNUTRICIÓN, ANEMIA Y MORTALIDAD MATERNA.",
+            "txPgObjetivo": "CONTRIBUIR CON LA CALIDAD DE LOS SERVICIOS DE SALUD EN DISTRITO.",
+            "txPgIndicador": "PORCENTAJE DE NIÑOS MENORES DE 5 AÑOS CON DCI",
+            "txPgMeta": "30",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 144904,
+            "txPgProblema": "BAJOS NIVELES COMPRENSIÓN LECTORA Y COMPRENSIÓN MATEMÁTICA",
+            "txPgObjetivo": "CONTRIBUIR CON LA CALIDAD DE LOS SERVICIOS EDUCATIVOS EN LA PROVINCIA",
+            "txPgIndicador": "-\tPORCENTAJE DE ESTUDIANTES DE SEGUNDO GRADO DE PRIMARIA CON NIVEL SATISFACTORIO DE COMPRENSIÓN LECTORA\n-\tPORCENTAJE DE ESTUDIANTES DE SEGUNDO GRADO DE PRIMARIA CON NIVEL SATISFACTORIO DE COMPRENSIÓN MATEMÁTICA",
+            "txPgMeta": "-\t60\n\n-\t55",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 144993,
+            "txPgProblema": "INADECUADAS CONDICIONES DE TRANSITABILIDAD A NIVEL DEL DISTRITO",
+            "txPgObjetivo": "MEJORAR LAS CONDICIONES DE TRANSITABILIDAD A NIVEL DEL DISTRITO.",
+            "txPgIndicador": "20 % DE INFRAESTRUCTURA VIAL EN BUENAS CONDICIONES",
+            "txPgMeta": "80",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 145071,
+            "txPgProblema": "BAJOS ÍNDICES DE PRODUCCIÓN PECUARIA  QUE AFECTA LA INGRESOS MONETARIOS A LOS CRIADEROS DE GANADO VACUNO PRINCIPALMENTE",
+            "txPgObjetivo": "PROMOVER EL MEJORAMIENTO GENÉTICO DE LA  GANADERÍA VACUNO Y OVINO.",
+            "txPgIndicador": "20 ORGANIZACIONES QUE HAN MEJORADO",
+            "txPgMeta": "30",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 145112,
+            "txPgProblema": "ESCASO APROVECHAMIENTO DEL POTENCIAL DEL LAGO  ARAPA PARA LA CRIANZA DE TRUCHA.",
+            "txPgObjetivo": "PROMOCIONAR LA CRIANZA DE TRUCHA ECOLÓGICA EN EL LAGO DE ARAPA.",
+            "txPgIndicador": "20 ORGANIZACIONES.",
+            "txPgMeta": "5",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 145255,
+            "txPgProblema": "ALTOS ÍNDICES DE CONTAMINACIÓN AMBIENTAL",
+            "txPgObjetivo": "RECUPERAR, CONSERVAR EL MANEJO DE LA FAUNA Y FLORA.",
+            "txPgIndicador": "EL 30 % DE CONTAMINACIÓN AMBIENTAL SE HA REDUCIDO",
+            "txPgMeta": "EN 10%.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 145364,
+            "txPgProblema": "INADECUADO TRATAMIENTO DE LOS RESIDUOS SÓLIDOS QUE CONTAMINAN EL MEDIO AMBIENTE.",
+            "txPgObjetivo": "MEJORAR LOS SISTEMAS DE TRATAMIENTO DE RESIDUOS SÓLIDOS A NIVEL DEL DISTRITO.",
+            "txPgIndicador": "EL 30 % DE CONTAMINACIÓN AMBIENTAL SE HA REDUCIDO MEDIANTE EL MANEJO ADECUADO DE RESIDUOS SÓLIDOS.",
+            "txPgMeta": "EL 80% DE LOS RESIDUOS SÓLIDOS TENDRÁN UN ADECUADO TRATAMIENTO.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 145467,
+            "txPgProblema": "INADECUADO MANEJO DE LOS RECURSOS HÍDRICOS",
+            "txPgObjetivo": "IMPLEMENTAR LA SIEMBRA Y COSECHA DEL AGUA A NIVEL DE CUENTAS DEL DISTRITO",
+            "txPgIndicador": "NUMERO DE RESERVORIOS CONSTRUIDOS.",
+            "txPgMeta": "03",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 145534,
+            "txPgProblema": "ATENCIÓN DE SERVICIOS PÚBLICOS Y ADMINISTRATIVOS CON BAJOS DE EFICIENCIA Y EFICACIA",
+            "txPgObjetivo": "FORTALECER LA GESTIÓN INSTITUCIONAL",
+            "txPgIndicador": "PORCENTAJE DE CUMPLIMIENTO ANUAL DEL PLAN \nESTRATÉGICO INSTITUCIONAL.",
+            "txPgMeta": "90%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 145569,
+            "txPgProblema": "BAJA RECAUDACIÓN DE INGRESOS POR CONCEPTO DE OTROS IMPUESTOS MUNICIPALES Y ARBITRIOS MUNICIPALES QUE NO CUBRE LOS COSTOS DE OPERACIÓN DE LOS SERVICIOS DE LIMPIEZA PÚBLICA Y SERENAZGO",
+            "txPgObjetivo": "INCREMENTAR LA CAPACIDAD FINANCIAMIENTO DE LOS SERVICIOS PÚBLICOS.",
+            "txPgIndicador": "PORCENTAJE DE MOROSIDAD EN EL PAGO DE IMPUESTO PREDIAL Y ARBITRIOS MUNICIPALES.",
+            "txPgMeta": "REDUCIR AL 30%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 145597,
+            "txPgProblema": "DÉBIL ORGANIZACIÓN Y ESCASA CAPACIDAD DE LAS ORGANIZACIONES PARA PARTICIPAR EN LA GESTIÓN DE DESARROLLO DEL DISTRITO DE ARAPA.",
+            "txPgObjetivo": "FORTALECER LOS ESPACIOS DE CONCERTACIÓN A NIVEL INTERINSTITUCIONAL Y CON LA SOCIEDAD CIVIL ORGANIZADA",
+            "txPgIndicador": "NÚMERO DE REUNIONES REALIZADAS CON PARTICIPACIÓN DEL VECINO EN LA MUNICIPALIDAD.",
+            "txPgMeta": "12 REUNIONES AL AÑO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

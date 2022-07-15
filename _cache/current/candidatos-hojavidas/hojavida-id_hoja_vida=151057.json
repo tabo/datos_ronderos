@@ -1,0 +1,146 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 151057.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "71129852",
+        "nombres": "LUIS IVAN",
+        "apellidoPaterno": "RUBIO",
+        "apellidoMaterno": "DELGADO",
+        "sexo": "1",
+        "feNacimiento": "07/06/2000",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "060112",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "CAJAMARCA",
+        "naciDistrito": "SAN JUAN",
+        "ubigeoDomicilio": "060112",
+        "domiDepartamento": "CAJAMARCA",
+        "domiProvincia": "CAJAMARCA",
+        "domiDistrito": "SAN JUAN",
+        "domicilioDirecc": "CASERIO LAS QUINUAS",
+        "ubigeoPostula": "060112",
+        "postulaDepartamento": "CAJAMARCA",
+        "postulaProvincia": "CAJAMARCA",
+        "postulaDistrito": "SAN JUAN",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/151057.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 1464.0,
+        "organizacionPolitica": "CAJAMARCA SIEMPRE VERDE",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 18:36:33",
+        "txGuidFormatoHojaVida": "2b603a6d-ce56-49bf-b33c-1a2b25851209",
+        "idSolicitudLista": 24917.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 255094,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "INDEPENDIENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASERÍO LAS QUINUAS",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "060112",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CAJAMARCA",
+            "trabajoProvincia": "CAJAMARCA",
+            "trabajoDistrito": "SAN JUAN",
+            "idHojaVida": 151057,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 227514,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 151057,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 189766,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD SAN PEDRO",
+                "carreraUni": "PREGRADO",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 203895,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 12300.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 151057,
+                "idEstado": 1,
+                "totalIngresos": 12300.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 204571,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "D0W666 ",
+                "valor": 15000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "PROPIO",
+                "comentario": null,
+                "idHojaVida": 151057,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

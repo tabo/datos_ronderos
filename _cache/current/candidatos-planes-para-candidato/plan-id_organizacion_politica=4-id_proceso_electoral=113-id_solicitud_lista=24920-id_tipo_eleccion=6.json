@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 18246,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 4,
+        "txOrganizacionPolitica": "ACCION POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/ea68acd8-68a4-49d7-816e-cfc29f4fc752.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/19b9b773-33e0-4f77-99ce-9aa35bb58621.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 128539,
+            "txPgProblema": "SERVICIO DE AGUA POTABLE Y DESAGÜE",
+            "txPgObjetivo": "MEJORAMIENTO Y AMPLIACIÓN DEL SISTEMA DE AGUA Y DESAGÜE.",
+            "txPgIndicador": "PORCENTAJE DE MORADORES CON ACCESO A LOS SERVICIOS DE AGUA Y DESAGÜE",
+            "txPgMeta": "AGUA POTABLE 24 HORAS AL DÍA Y CORRECTO FUNCIONAMIENTO DEL DESAGÜE.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128544,
+            "txPgProblema": "ABANDONO DEL ESTADIO\n      MUNICIPAL",
+            "txPgObjetivo": "MEJORAR LA INFRAESTRUCTURA Y SERVICIO DEL ESTADIO MUNICIPAL",
+            "txPgIndicador": "PORCENTAJES DE ACTIVIDADES DEPORTIVAS QUE SE REALIZAN EN EL ESTADIO MUNICIPAL.",
+            "txPgMeta": "PROMOVER EL DEPORTE EN GENERAL.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128545,
+            "txPgProblema": "DESORGANIZACIÓN DE\n       LAS BASES SOCIALES",
+            "txPgObjetivo": "EDUCAR Y PROMOVER LA PARTICIPACIÓN DE LA SOCIEDAD EN LOS PROYECTOS.",
+            "txPgIndicador": "PORCENTAJE MÍNIMO DE PARTICIPACIÓN CIUDADANA.",
+            "txPgMeta": "CUMPLIR CON LA RESPONSABILIDAD PARA EL BIEN DEL PUEBLO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 128550,
+            "txPgProblema": "FALTA DE CENTRO DE ACOPIO PARA LOS PRODUCTORES AGRARIOS",
+            "txPgObjetivo": "CREACIÓN DE MERCADO DE PRODUCTOS AGRÍCOLAS.",
+            "txPgIndicador": "PORCENTAJE DE AGRICULTORES ABANDONADOS.",
+            "txPgMeta": "VENTA DE PRODUCTOS AGRÍCOLAS A UN PRECIO RAZONABLE Y AL POR MAYOR.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128555,
+            "txPgProblema": ".   CATASTRO DESACTUALIZADO:\n       FALTA  DE  LEVANTAMIENTO\n      DE     INFORMACIÓN          Y\n      SISTEMATIZACIÓN   DE     LA\n      POBLACIÓN.",
+            "txPgObjetivo": "IMPLEMENTACIÓN DEL CATASTRO URBANO CON FINES DE EXPANSIÓN URBANA.",
+            "txPgIndicador": "ÍNDICE DE DESACTUALIZACIÓN DEL CATASTRO.",
+            "txPgMeta": "CATASTRO ACTUALIZADO E IMPLEMENTADO Y EXPANSIÓN URBANA",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128558,
+            "txPgProblema": "MAL   ESTADO      DE        LAS  \n     VEREDAS, FALTA DE PISTAS EN  \n     LAS    PRINCIPALES        CALLES       \n    DEL DISTRITO,MANTENIMIENTO      \n    DE  LAS VÍAS DE ACCESO A LOS\n    CASERÍOS.",
+            "txPgObjetivo": "CONSTRUCCIÓN DE PISTAS Y VEREDAS DE LAS PRINCIPALES CALLES DE LA CIUDAD, Y MEJORAMIENTO DE LAS VÍAS DE ACCESO A LOS CASERÍOS.",
+            "txPgIndicador": "PORCENTAJE DE VÍAS EN MAL ESTADO, QUE ENTORPECE EL TRANSPORTE DE LOS  PRODUCTOS AGRÍCOLAS AL MERCADO.",
+            "txPgMeta": "CONSTRUCCIÓN DE PISTAS Y VEREDAS.\nINCREMENTO DE LA ECONOMÍA LOCAL.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 128563,
+            "txPgProblema": "CONTAMINACIÓN DE SUELOS Y AGUA POR LA INACCIÓN DEL TRATAMIENTO DE LAS AGUAS SERVIDAS.",
+            "txPgObjetivo": "MANTENIMIENTO DE LOS BUZONES DE DESAGÜE, Y DE LAS PRINCIPALES QUEBRADAS.",
+            "txPgIndicador": "PORCENTAJE DE BUZONES DE DESAGÜE EN MAL ESTADO.",
+            "txPgMeta": "CORRECTO FUNCIONAMIENTO DE LOS BUZONES DE DESAGÜE Y QUEBRADAS LIMPIAS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128565,
+            "txPgProblema": "ACUMULACIÓN DE DESECHOS \n      SÓLIDOS      EN        ESPACIOS \n      ABIERTOS CONTAMINANTES",
+            "txPgObjetivo": "RECOJO CONTINUO DE LOS RESIDUOS SÓLIDOS POR PARTE DE LA MUNICIPALIDAD.",
+            "txPgIndicador": "ÍNDICE DE DESECHOS SÓLIDOS EN LOS ESPACIOS PÚBLICOS.",
+            "txPgMeta": "AMBIENTES PÚBLICOS LIMPIOS Y EN BUEN ESTADO.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128569,
+            "txPgProblema": "CONCIENCIA ECOLÓGICA Y PRÁCTICAS DE CONSERVACIÓN DEL MEDIO AMBIENTE ESCAZAS.",
+            "txPgObjetivo": "CAPACITAR E INCENTIVAR A LA POBLACIÓN SOBRE EL MANTENIMIENTO DE LOS AMBIENTES DEL DISTRITO.",
+            "txPgIndicador": "PORCENTAJE DE DESCONOCIMIENTO DE LA CONSERVACIÓN DEL MEDIO AMBIENTE.",
+            "txPgMeta": "POBLACIÓN EDUCADA SOBRE LA CONSERVACIÓN DEL AMBIENTE.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 128575,
+            "txPgProblema": "MUNICIPALIDAD",
+            "txPgObjetivo": "•\tFORTALECER LA SEGURIDAD CIUDADANA.\n•\tMEJORAR Y FORTALECER EL CETPRO.\n•\tCREACIÓN DE UNA OFICINA DE ATENCIÓN DE APOYO PARA LAS AUTORIDADES DE LOS CASERÍOS EN SUS GESTIONES.",
+            "txPgIndicador": "ÍNDICE DE DESPREOCUPACIÓN POR LA SEGURIDAD Y POR LOS CENTROS DE APOYO HACIA LA POBLACIÓN.",
+            "txPgMeta": "LOGRAR QUE CAMPO VERDE SE CONSTITUYA EN UN DISTRITO PLANIFICADO, UNIDO Y SEGURO.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128577,
+            "txPgProblema": "EDUCACIÓN",
+            "txPgObjetivo": "•\tADQUISICIÓN DE UN BUS DE TRANSPORTE PARA ESTUDIANTES.\n•\tACCESO A INTERNET EN LOS PRINCIPALES CENTROS POBLADOS.\n•\tAMPLIACIÓN DE ESPECIALIDADES Y MEJORAMIENTO INFRAESTRUCTURA DEL INSTITUTO PABLO BUTZ.",
+            "txPgIndicador": "ÍNDICE DE BAJO RENDIMIENTO ESCOLAR EN NUESTRA POBLACIÓN JOVEN.",
+            "txPgMeta": "FACILITAR EL TRASPORTE DE LOS ESTUDIANTES A SU CENTRO DE ESTUDIO Y EL ACCESO A INTERNET PARA UN MEJOR RENDIMIENTO ESCOLAR. \nINFRAESTRUCTURA MEJORADA PARA LOS ESTUDIANTES TÉCNICOS DE NUESTRO DISTRITO Y AMPLIACIÓN DE ESPECIALIDADES.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128580,
+            "txPgProblema": "SALUD",
+            "txPgObjetivo": "•\tRECATEGORIZACIÓN DEL CENTRO DE SALUD A HOSPITAL.\n•\tSERVICIOS DE ATENCIÓN MEDICA DE 24 HORAS Y ATENCIÓN MÉDICA DE ESPECIALIDADES.",
+            "txPgIndicador": "PORCENTAJE DE POCA AFLUENCIA EN ATENCIÓN MÉDICA POR FALTA DE ESPECIALIDADES.",
+            "txPgMeta": "CENTRO DE SALUD A HOSPITAL, Y ATENCIÓN MÉDICA CON MÁS ESPECIALIDADES LAS 24 HORAS DEL DÍA.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

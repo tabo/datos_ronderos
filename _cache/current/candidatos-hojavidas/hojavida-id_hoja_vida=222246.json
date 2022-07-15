@@ -1,0 +1,205 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 222246.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "18173778",
+        "nombres": "FIDEL GERMAN",
+        "apellidoPaterno": "SAGASTEGUI",
+        "apellidoMaterno": "PLASENCIA",
+        "sexo": "1",
+        "feNacimiento": "29/10/1953",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "060401",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "CONTUMAZA",
+        "naciDistrito": "CONTUMAZA",
+        "ubigeoDomicilio": "120107",
+        "domiDepartamento": "LA LIBERTAD",
+        "domiProvincia": "TRUJILLO",
+        "domiDistrito": "VICTOR LARCO HERRERA",
+        "domicilioDirecc": "AV. FATIMA 810 DPTO. 301 URB. CALIFORNIA",
+        "ubigeoPostula": "120000",
+        "postulaDepartamento": "LA LIBERTAD",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/222246.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2895.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATA VERDE",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "GOBERNADOR REGIONAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 10:14:21",
+        "txGuidFormatoHojaVida": "7bf8f67f-379e-4315-8e65-8d61d1fbce21",
+        "idSolicitudLista": 34243.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 194495,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "UNIVERSIDAD PRIVADA ANTENOR ORREGA",
+            "ocupacionProfesion": "DOCENTE NOMBRADO",
+            "rucTrabajo": "20141878477",
+            "direccionTrabajo": "AVENIDA AMERICA SUR N°3145- URB. MONIERRATTE",
+            "anioTrabajoDesde": "1994",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "120101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LA LIBERTAD",
+            "trabajoProvincia": "TRUJILLO",
+            "trabajoDistrito": "TRUJILLO",
+            "idHojaVida": 222246,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 171407,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 222246,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 160734,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD NACIONAL PEDRO RUIZ GALLO",
+                "carreraUni": "INGENIERO CIVIL",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "1987",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [
+            {
+                "idHvPosgrado": 137541,
+                "tengoPosgrado": "SI",
+                "nuItemPosgrado": 1,
+                "txCenEstudioPosgrado": "UNIVERSIDAD PRIVADA ANTENOR ORREGO",
+                "txEspecialidadPosgrado": "DOCTOR EN EDUCACION",
+                "concluidoPosgrado": "SI",
+                "egresadoPosgrado": "SI",
+                "esMaestro": null,
+                "esDoctor": "SI",
+                "txAnioPosgrado": "2010",
+                "idHojaVida": 222246,
+                "idEstado": 1,
+                "txEstado": "ACTIVO (R)",
+                "fgRegistroManual": 2,
+                "txComentario": null,
+                "fgRegistro": null
+            },
+            {
+                "idHvPosgrado": 137542,
+                "tengoPosgrado": "SI",
+                "nuItemPosgrado": 2,
+                "txCenEstudioPosgrado": "UNIVERSIDAD NACIONAL DE TRUJILLO",
+                "txEspecialidadPosgrado": "MAESTRO EN CIENCIAS MENCION GESTION AMBIENTAL",
+                "concluidoPosgrado": "SI",
+                "egresadoPosgrado": "SI",
+                "esMaestro": "SI",
+                "esDoctor": null,
+                "txAnioPosgrado": "1999",
+                "idHojaVida": 222246,
+                "idEstado": 1,
+                "txEstado": "ACTIVO (R)",
+                "fgRegistroManual": 2,
+                "txComentario": null,
+                "fgRegistro": null
+            }
+        ],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 140309,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 32,
+                "orgPolCargoElec": "PARTIDO APRISTA PERUANO",
+                "idCargoEleccion": 10,
+                "cargoEleccion": "ALCALDE DISTRITAL",
+                "anioCargoElecDesde": "2011",
+                "anioCargoElecHasta": "2014",
+                "idHojaVida": 222246,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 149183,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2018",
+            "idHojaVida": 222246,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 149182,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 22,
+            "orgPolRenunciaOp": "RENOVACION POPULAR",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 222246,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 161420,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 84000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 222246,
+                "idEstado": 1,
+                "totalIngresos": 84000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,142 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 239126.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "16284635",
+        "nombres": "CARLOS JULIO",
+        "apellidoPaterno": "LUNA",
+        "apellidoMaterno": "JESUSI",
+        "sexo": "1",
+        "feNacimiento": "16/09/1955",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140501",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "HUAURA",
+        "naciDistrito": "HUACHO",
+        "ubigeoDomicilio": "140703",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "YAUYOS",
+        "domiDistrito": "ALLAUCA",
+        "domicilioDirecc": "ANEXO DE PACALAY KILÓMETRO 116",
+        "ubigeoPostula": "140703",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "YAUYOS",
+        "postulaDistrito": "ALLAUCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/239126.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 11:32:32",
+        "txGuidFormatoHojaVida": "d48efa46-7eee-4c3c-a574-eebe0eda765c",
+        "idSolicitudLista": 36212.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 256299,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AGRICULTOR",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "DISTRITO DE ALLAUCA",
+            "anioTrabajoDesde": "2011",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140703",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "YAUYOS",
+            "trabajoDistrito": "ALLAUCA",
+            "idHojaVida": 239126,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 228934,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 239126,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 169056,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2462,
+            "orgPolRenunciaOp": "MOVIMIENTO INDEPENDIENTE ACCION COLECTIVA",
+            "anioRenunciaOp": "2015",
+            "idHojaVida": 239126,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 204910,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 7200.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 239126,
+                "idEstado": 1,
+                "totalIngresos": 7200.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 135912,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "JUPYCSJÑ-2018-06",
+            "feSentenciaPenal": "06/06/2018",
+            "txOrganoJudiPenal": "CIVIL-PENAL",
+            "txDelitoPenal": "LESION",
+            "txFalloPenal": "RESOLUCION 3-28 JUNIO 2018",
+            "idParamModalidad": 13,
+            "txModalidad": "OTRO",
+            "txOtraModalidad": "SUPERIOR",
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 239126,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": []
+}

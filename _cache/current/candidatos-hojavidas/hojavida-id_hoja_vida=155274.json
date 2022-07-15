@@ -1,0 +1,160 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 155274.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "70174325",
+        "nombres": "JOSMEL ADEMIR",
+        "apellidoPaterno": "SERNA",
+        "apellidoMaterno": "FLORES",
+        "sexo": "1",
+        "feNacimiento": "28/03/1990",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140903",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "BARRANCA",
+        "naciDistrito": "PATIVILCA",
+        "ubigeoDomicilio": "022009",
+        "domiDepartamento": "ANCASH",
+        "domiProvincia": "OCROS",
+        "domiDistrito": "SAN PEDRO",
+        "domicilioDirecc": "ANEXO JULQUILLAS S/N",
+        "ubigeoPostula": "022009",
+        "postulaDepartamento": "ANCASH",
+        "postulaProvincia": "OCROS",
+        "postulaDistrito": "SAN PEDRO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/155274.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2881.0,
+        "organizacionPolitica": "SOCIOS POR ANCASH",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 22:07:09",
+        "txGuidFormatoHojaVida": "b804254a-4bc2-459c-9562-3c1983e0b1ed",
+        "idSolicitudLista": 25493.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 191810,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ANEXO JULQUILLAS",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "022009",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ANCASH",
+            "trabajoProvincia": "OCROS",
+            "trabajoDistrito": "SAN PEDRO",
+            "idHojaVida": 155274,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "SIEMBRO PRODUCTOS DE PAN LLEVAR COMO ZAPALLO, MAÍZ Y OTROS"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 168965,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 155274,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 140041,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 4,
+                "orgPolCargoElec": "ACCION POPULAR",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2019",
+                "anioCargoElecHasta": "2022",
+                "idHojaVida": 155274,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 159611,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 5616.0,
+                "otroIngresoPrivado": 20000.0,
+                "idHojaVida": 155274,
+                "idEstado": 1,
+                "totalIngresos": 25616.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 170260,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "23910F ",
+                "valor": 2800.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": "REGULAR ESTADO DE CONSERVACIÓN",
+                "idHojaVida": 155274,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 170259,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "NG79868",
+                "valor": 2500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": "PESIMO ESTADO DE CONSERVACIÓN",
+                "idHojaVida": 155274,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

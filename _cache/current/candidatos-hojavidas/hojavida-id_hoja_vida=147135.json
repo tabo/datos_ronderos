@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 147135.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44443984",
+        "nombres": "LUIS EMILIANO",
+        "apellidoPaterno": "TUYO",
+        "apellidoMaterno": "GONZALES",
+        "sexo": "1",
+        "feNacimiento": "17/08/1987",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "220211",
+        "naciDepartamento": "TACNA",
+        "naciProvincia": "TARATA",
+        "naciDistrito": "SUSAPAYA",
+        "ubigeoDomicilio": "220211",
+        "domiDepartamento": "TACNA",
+        "domiProvincia": "TARATA",
+        "domiDistrito": "SUSAPAYA",
+        "domicilioDirecc": "CALLE AREQUIPA S/N",
+        "ubigeoPostula": "220211",
+        "postulaDepartamento": "TACNA",
+        "postulaProvincia": "TARATA",
+        "postulaDistrito": "SUSAPAYA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/147135.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2178.0,
+        "organizacionPolitica": "SIEMPRE TACNA",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 17:52:25",
+        "txGuidFormatoHojaVida": "de5e7333-82bd-46ff-9508-fe6ec27115a4",
+        "idSolicitudLista": 24387.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 224846,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "TRABAJADOR INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR - GANADERO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SUSAPAYA",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "220211",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "TACNA",
+            "trabajoProvincia": "TARATA",
+            "trabajoDistrito": "SUSAPAYA",
+            "idHojaVida": 147135,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 198323,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 147135,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 158972,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 1366,
+            "orgPolRenunciaOp": "FUERZA POPULAR",
+            "anioRenunciaOp": "2010",
+            "idHojaVida": 147135,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 158971,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 147135,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 181663,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 7800.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 147135,
+                "idEstado": 1,
+                "totalIngresos": 7800.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 188102,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "MU7884 ",
+                "valor": 3100.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL  COLOR GUINDA, MODELO RMT 150G",
+                "comentario": null,
+                "idHojaVida": 147135,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

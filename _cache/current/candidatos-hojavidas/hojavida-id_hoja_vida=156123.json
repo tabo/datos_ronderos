@@ -1,0 +1,156 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 156123.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "41727571",
+        "nombres": "ROBERTO CARLOS",
+        "apellidoPaterno": "CHUMPITAZ",
+        "apellidoMaterno": "NAPAN",
+        "sexo": "1",
+        "feNacimiento": "08/01/1982",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140401",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "CAÑETE",
+        "naciDistrito": "SAN VICENTE DE CAÑETE",
+        "ubigeoDomicilio": "140416",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "CAÑETE",
+        "domiDistrito": "ASIA",
+        "domicilioDirecc": "ANEXO PALMA ALTA MZ. C LT. 2-B",
+        "ubigeoPostula": "140416",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "CAÑETE",
+        "postulaDistrito": "ASIA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/156123.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 332.0,
+        "organizacionPolitica": "CONCERTACION PARA EL DESARROLLO REGIONAL - LIMA",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 02:56:53",
+        "txGuidFormatoHojaVida": "6b1a03a5-1b77-4e07-a368-26ca7107bf13",
+        "idSolicitudLista": 25612.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 240817,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "CARPINTERO EBANISTA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ANEXO PALMA ALTA MZ C LT 2B",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140416",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "CAÑETE",
+            "trabajoDistrito": "ASIA",
+            "idHojaVida": 156123,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 212534,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 156123,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 144381,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 553,
+                "orgPolCargoElec": "PATRIA JOVEN",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2015",
+                "anioCargoElecHasta": "2018",
+                "idHojaVida": 156123,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 163660,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 553,
+            "orgPolRenunciaOp": "PATRIA JOVEN",
+            "anioRenunciaOp": "2015",
+            "idHojaVida": 156123,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 192455,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 18000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 156123,
+                "idEstado": 1,
+                "totalIngresos": 18000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 196309,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "C13230 ",
+                "valor": 3000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR  ROJO",
+                "comentario": null,
+                "idHojaVida": 156123,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

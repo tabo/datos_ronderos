@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 215593.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40910703",
+        "nombres": "EDGAR DANIEL",
+        "apellidoPaterno": "ZAVALA",
+        "apellidoMaterno": "SUYO",
+        "sexo": "1",
+        "feNacimiento": "20/12/1976",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140704",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "YAUYOS",
+        "naciDistrito": "AYAVIRI",
+        "ubigeoDomicilio": "140704",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "YAUYOS",
+        "domiDistrito": "AYAVIRI",
+        "domicilioDirecc": "AV EL SABER 180",
+        "ubigeoPostula": "140704",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "YAUYOS",
+        "postulaDistrito": "AYAVIRI",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/215593.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 15:48:40",
+        "txGuidFormatoHojaVida": "f3bee4d4-1f28-447d-bfe8-c11f7daff6ad",
+        "idSolicitudLista": 33500.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 221866,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AYAVIRI",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140704",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "YAUYOS",
+            "trabajoDistrito": "AYAVIRI",
+            "idHojaVida": 215593,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 195460,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 215593,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 157962,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2173,
+            "orgPolRenunciaOp": "PARTIDO POLÍTICO AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+            "anioRenunciaOp": "2022",
+            "idHojaVida": 215593,
+            "idEstado": 1,
+            "txComentario": "NO CUMPLI CON LOS REQUISITOS"
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 179575,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 215593,
+                "idEstado": 1,
+                "totalIngresos": 0.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 223902,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "MZ B LOTE 3 - ASENTAMIENTO HUMANO LAS BRISAS DE LURIN - DPTO: LIMA PROV: LIMA DIST: LURIN",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "55243269",
+                "fichaTomoSunarp": null,
+                "autovaluo": 86050.0,
+                "idHojaVida": 215593,
+                "idEstado": 1,
+                "flValor": "175000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 186514,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "30755B ",
+                "valor": 2500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "BARSHA TRITON PLUS MOTO",
+                "comentario": null,
+                "idHojaVida": 215593,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

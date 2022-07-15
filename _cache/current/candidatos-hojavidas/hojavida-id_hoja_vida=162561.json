@@ -1,0 +1,159 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 162561.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "07726161",
+        "nombres": "YLIANA",
+        "apellidoPaterno": "HORNA",
+        "apellidoMaterno": "SANTILLAN",
+        "sexo": "2",
+        "feNacimiento": "08/05/1964",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140101",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "LIMA",
+        "ubigeoDomicilio": "140114",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "MAGDALENA DEL MAR",
+        "domicilioDirecc": "LIBERTAD 649-7",
+        "ubigeoPostula": "140114",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "MAGDALENA DEL MAR",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/162561.jpg",
+        "estado": "TACHA EN TRAMITE",
+        "idOrganizacionPolitica": 4.0,
+        "organizacionPolitica": "ACCION POPULAR",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 18:19:04",
+        "txGuidFormatoHojaVida": "f51362f3-90c3-49ef-92e5-4920d65eecab",
+        "idSolicitudLista": 26497.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 242833,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "I.E.E.P. LA SEMILLITA SAC",
+            "ocupacionProfesion": "REPRESENTANTE LEGAL",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. TACNA 785",
+            "anioTrabajoDesde": "2013",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "LIMA",
+            "idHojaVida": 162561,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 207851,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 162561,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 143968,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 4,
+                "orgPolCargoElec": "ACCION POPULAR",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2019",
+                "anioCargoElecHasta": "2022",
+                "idHojaVida": 162561,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 145558,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "DENUNCIA POR EMBARGO EN FORMA DE INSCRIPCIÓN PARTIDA 07020003",
+            "idHojaVida": 162561,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 188620,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 722000.0,
+                "otroIngresoPublico": 23400.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 162561,
+                "idEstado": 1,
+                "totalIngresos": 745400.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 233652,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "JR. LIBERTAD 619 DPTO. 7 MAGDALENA",
+                "comentario": "DEPARTAMENTO",
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "07020003",
+                "fichaTomoSunarp": null,
+                "autovaluo": 65754700.0,
+                "idHojaVida": 162561,
+                "idEstado": 1,
+                "flValor": "65754700"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

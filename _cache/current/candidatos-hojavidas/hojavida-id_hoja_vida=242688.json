@@ -1,0 +1,182 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 242688.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "29652534",
+        "nombres": "JAIME LUIS",
+        "apellidoPaterno": "VEGA",
+        "apellidoMaterno": "RIVERA",
+        "sexo": "1",
+        "feNacimiento": "03/08/1975",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040101",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "AREQUIPA",
+        "naciDistrito": "AREQUIPA",
+        "ubigeoDomicilio": "040109",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "AREQUIPA",
+        "domiDistrito": "PAUCARPATA",
+        "domicilioDirecc": "CALLE VIETNAM DEL NORTE 110 P.JOVEN CIUDAD BLANCA",
+        "ubigeoPostula": "040109",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "AREQUIPA",
+        "postulaDistrito": "PAUCARPATA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/242688.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 8.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 14:48:17",
+        "txGuidFormatoHojaVida": "6c8160d2-0916-4783-a646-4f630da94128",
+        "idSolicitudLista": 29453.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 254334,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CENTRO COMERCIAL PARQUE LAMBRAMANI",
+            "ocupacionProfesion": "OPERARIO EN MANTENIMIENTO",
+            "rucTrabajo": "20380836603",
+            "direccionTrabajo": "AV. LAMBRAMANI 325",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "2020",
+            "ubigeoTrabajo": "040101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "AREQUIPA",
+            "trabajoDistrito": "AREQUIPA",
+            "idHojaVida": 242688,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 226582,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 242688,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 158093,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "SENATI",
+                "carreraTecnico": "MANTENIMIENTO DE MECANICO INDUSTRIAL",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 242688,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 203222,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 35910.94,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 13138.8,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 242688,
+                "idEstado": 1,
+                "totalIngresos": 49049.74
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 135872,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "1678 2016",
+            "feSentenciaPenal": "23/11/2017",
+            "txOrganoJudiPenal": "JUEZ DE PAZ LETRADO M. MELGAR",
+            "txDelitoPenal": "LESIONES DOLOSAS",
+            "txFalloPenal": "FALLO",
+            "idParamModalidad": 13,
+            "txModalidad": "OTRO",
+            "txOtraModalidad": "ARCHIVO",
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 242688,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 137483,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 3,
+            "idParamMateriaSentencia": 18,
+            "txMateriaSentencia": "VIOLENCIA FAMILIAR",
+            "txExpedienteObliga": "218 2016 0 0410 JM FT 02",
+            "txOrganoJuridicialObliga": "2 JUZGADO MIXTO M. MELGAR",
+            "txFalloObliga": "SENTENCIA - SE CUMPLIO CON LAS TERAPIAS ARCHIVO",
+            "idEstado": 1,
+            "idHojaVida": 242688,
+            "txComentario": null
+        },
+        {
+            "idHvSentenciaObliga": 137482,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 2,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "02859 2020",
+            "txOrganoJuridicialObliga": "1 J FAMILIAR PAUCARPATA",
+            "txFalloObliga": "SENTENCIA DE DIVORCIO",
+            "idEstado": 1,
+            "idHojaVida": 242688,
+            "txComentario": null
+        },
+        {
+            "idHvSentenciaObliga": 137481,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "01405 2012",
+            "txOrganoJuridicialObliga": "3 JP LETRADO PAUCARPATA",
+            "txFalloObliga": "SENTENCIA POR ALIMENTOS",
+            "idEstado": 1,
+            "idHojaVida": 242688,
+            "txComentario": null
+        }
+    ]
+}

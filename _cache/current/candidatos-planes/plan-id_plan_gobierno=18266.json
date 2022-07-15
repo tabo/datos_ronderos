@@ -1,0 +1,125 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 18266,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2178,
+        "txOrganizacionPolitica": "SIEMPRE TACNA",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1729,
+        "juradoElectoral": "TACNA",
+        "txRutaCompleto": null,
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/1247ae31-023a-4279-a291-e3d418f5e532.pdf",
+        "txCodExpedienteExt": "ERM.2022016701",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 166017,
+            "txPgProblema": "ESCASA COBERTURA DE SERVICIO    DE SANEAMIENTO BÁSICO",
+            "txPgObjetivo": "MEJORAR \tLAS \tCONDICIONES \tDE \nHABITABILIDAD EN EL DISTRITO DE LA \nYARADA LOS PALOS",
+            "txPgIndicador": "% DE POBLACIÓN CON COBERTURA DE SERVICIO DE DISPOSICIÓN SANITARIA DE EXCRETAS \n% DE POBLACIÓN CON COBERTURA DE SERVICIO DE AGUA POTABLE",
+            "txPgMeta": "50%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 90
+        },
+        {
+            "idPlanGobDimension": 166027,
+            "txPgProblema": "INSUFICIENTES SERVICIOS DE CALIDAD EN EDUCACIÓN Y SALUD",
+            "txPgObjetivo": "CONTRIBUIR \tCON \tLA \tCALIDAD \tLOS \nSERVICIOS DE EDUCACIÓN Y SALUD,",
+            "txPgIndicador": "% EN COBERTURA EN EDUCACIÓN  \n% EN COBERTURA EN SALUD",
+            "txPgMeta": "90%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 90
+        },
+        {
+            "idPlanGobDimension": 166044,
+            "txPgProblema": "DEFICIENTE SERVICIO DE SEGURIDAD CIUDADANA",
+            "txPgObjetivo": "REDUCIR LOS ÍNDICES DE INSEGURIDAD \nCIUDADANA, MEJORANDO LOS MECANISMOS DE LUCHA CONTRA LA DELINCUENCIA DESDE LOS ESPACIOS CONSENSUADOS QUE PERMITE LA \nNORMATIVIDAD",
+            "txPgIndicador": "% EN COBERTURA",
+            "txPgMeta": "90%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 90
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 166091,
+            "txPgProblema": "EXISTE LIMITADO DESARROLLO EN INNOVACIÓN TECNOLÓGICA INTENSIVA \nEN LAS CADENAS PRODUCTIVAS",
+            "txPgObjetivo": "MASIFICAR EL DESARROLLO DE LA INNOVACIÓN TECNOLÓGICA EN LAS \nCADENAS PRODUCTIVAS",
+            "txPgIndicador": "% \tDE \tCADENAS \tPRODUCTIVAS \nATENDIDA",
+            "txPgMeta": "35%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 90
+        },
+        {
+            "idPlanGobDimension": 166101,
+            "txPgProblema": "PARTICIPACIÓN DE LA INSTITUCIONES PÚBLICAS Y PRIVADAS DE FORMA DESARTICULADA EN EL FORTALECIMIENTO DE LA COMPETITIVIDAD DE LA MANO \nDE OBRA LOCAL",
+            "txPgObjetivo": "LOGRAR MANEJO COMPETITIVO E INTENSIVO EN BUENAS PRÁCTICAS AGRÍCOLAS (BPA) EN LA MANO DE \nOBRA DE CAMPO ESPECIALIZADA",
+            "txPgIndicador": "PORCENTAJE DE MANO OBRA ESPECIALIZADA PARA ACTIVIDAD \nAGRÍCOLA DE CAMPO",
+            "txPgMeta": "85%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 90
+        },
+        {
+            "idPlanGobDimension": 166113,
+            "txPgProblema": "LIMITADA PARTICIPACIÓN EN LA CADENA DE VALOR PARA PRODUCTOS AGROPECUARIOS CON MERCADO \nINTERNACIONAL",
+            "txPgObjetivo": "GESTIONAR LA IMPLEMENTACIÓN DEL MERCADO INTERNACIONAL DE \nPRODUCTOS DE EXPORTACIÓN",
+            "txPgIndicador": "UNIDAD",
+            "txPgMeta": "1%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 90
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 166162,
+            "txPgProblema": "INADECUADA GESTIÓN DE RESIDUOS SÓLIDOS",
+            "txPgObjetivo": "SUFICIENTE COBERTURA DE COLECCIÓN DE RESIDUOS SOLIDOS",
+            "txPgIndicador": "GLOBAL",
+            "txPgMeta": "1%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 90
+        },
+        {
+            "idPlanGobDimension": 166175,
+            "txPgProblema": "USOS DE ENERGÍA TRADICIONAL (ELECTRICIDAD)",
+            "txPgObjetivo": "USO DE ENERGÍA RENOVABLES",
+            "txPgIndicador": "GLOBAL",
+            "txPgMeta": "1%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 90
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 166201,
+            "txPgProblema": "DEFICIENTE USO DE LOS SISTEMAS ADMINISTRATIVOS PARA EL SERVICIO AL PUBLICO",
+            "txPgObjetivo": "FORTALECER LA GESTIÓN INSTITUCIONAL PROMOVIENDO CAPACIDADES, ENCAMINADO A LA INSTITUCIÓN EN PROCESOS Y PROCEDIMIENTOS SIMPLIFICADOS Y SISTEMATIZADOS, CON DOCUMENTOS DE GESTIÓN ACTUALIZADOS Y ACORDE A LA POLÍTICA DE MODERNIZACIÓN DEL ESTADO.",
+            "txPgIndicador": "GLOBAL",
+            "txPgMeta": "1%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 90
+        },
+        {
+            "idPlanGobDimension": 166213,
+            "txPgProblema": "DEFICIENTE CONOCIMIENTO DE SUS DEBERES Y DERECHOS CIUDADANOS",
+            "txPgObjetivo": "CAPACITAR A LA POBLACIÓN EN VIGILANCIA CIUDADANA Y MANEJO DE ESTAS HERRAMIENTAS DE ACCESO A LA INFORMACIÓN PÚBLICA.",
+            "txPgIndicador": "GLOBAL",
+            "txPgMeta": "1%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 90
+        }
+    ],
+    "dimensionPropuesta": []
+}

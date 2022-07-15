@@ -1,0 +1,154 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 200229.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "46611211",
+        "nombres": "ABIMAEL",
+        "apellidoPaterno": "RAMOS",
+        "apellidoMaterno": "ARAUCO",
+        "sexo": "1",
+        "feNacimiento": "19/08/1990",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140106",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "COMAS",
+        "ubigeoDomicilio": "140126",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "SAN MARTIN DE PORRES",
+        "domicilioDirecc": "ASOC. VIV. VIRGEN DEL ROSARIO MZ. A LT. 04",
+        "ubigeoPostula": "140126",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "SAN MARTIN DE PORRES",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/200229.jpg",
+        "estado": "INSCRITO",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 9.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 18:56:11",
+        "txGuidFormatoHojaVida": "955430ad-b9e5-4bd0-9b6a-3544d1e2c731",
+        "idSolicitudLista": 31532.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 187201,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CARGO EXPRESS HNOS RAMOS S.A.C",
+            "ocupacionProfesion": "SUBGERENTE",
+            "rucTrabajo": "20550147280",
+            "direccionTrabajo": "MZ A 1 LT 04 VIRGEN DEL ROSARIO - SMP - LIMA",
+            "anioTrabajoDesde": "2012",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140126",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "SAN MARTIN DE PORRES",
+            "idHojaVida": 200229,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 164939,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 200229,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 138544,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "CUENTO CON POSESION DE TERRENO UBICADO EN MZ A PRIMA LT 01,  CON UN AREA DE 220.35 M2, CON UN VALOR DE S/. 112,500.00",
+            "idHojaVida": 200229,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 167595,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "64436S ",
+                "valor": 10000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO CARGA",
+                "comentario": null,
+                "idHojaVida": 200229,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 167594,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "BZX339 ",
+                "valor": 10000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTO TOYOTA CRESSIDA",
+                "comentario": null,
+                "idHojaVida": 200229,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 2546,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "CARGO EXPRESS HNOS RAMOS SAC",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 225.0,
+                "flValor": 900.0,
+                "idHojaVida": 200229,
+                "idEstado": 1,
+                "txUsuario": "02881537",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

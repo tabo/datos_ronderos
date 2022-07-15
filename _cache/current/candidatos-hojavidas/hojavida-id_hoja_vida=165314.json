@@ -1,0 +1,142 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 165314.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "29416900",
+        "nombres": "ANTONIO HUGO",
+        "apellidoPaterno": "CAYO",
+        "apellidoMaterno": "CHOQUEHUAYTA",
+        "sexo": "1",
+        "feNacimiento": "29/04/1959",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040107",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "AREQUIPA",
+        "naciDistrito": "MIRAFLORES",
+        "ubigeoDomicilio": "040301",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "CAMANA",
+        "domiDistrito": "CAMANA",
+        "domicilioDirecc": "CALLE VILLA HERMOZA 102",
+        "ubigeoPostula": "040000",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/165314.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2857.0,
+        "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "CONSEJERO REGIONAL"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 21:25:46",
+        "txGuidFormatoHojaVida": "9ba71390-4424-4d6a-949e-cba0d8e54630",
+        "idSolicitudLista": 26869.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 176211,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "TALLER DE ESTRUCTURAS METALICAS",
+            "ocupacionProfesion": "SOLDADOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE VILLA HERRERA 102",
+            "anioTrabajoDesde": "1980",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "040301",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "CAMANA",
+            "trabajoDistrito": "CAMANA",
+            "idHojaVida": 165314,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 154574,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 165314,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 142810,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 179,
+            "orgPolRenunciaOp": "PARTIDO NACIONALISTA PERUANO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 165314,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 149063,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 12000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 165314,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 134552,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "0000",
+            "feSentenciaPenal": "01/06/2022",
+            "txOrganoJudiPenal": "JUZGADO PENAL UNIPERSONAL",
+            "txDelitoPenal": "PELIGRO COMUN",
+            "txFalloPenal": "PENA SUSPENDIDA",
+            "idParamModalidad": 11,
+            "txModalidad": "SUSPENDIDA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 165314,
+            "txComentario": "SE PAGÓ LA REPARACIÓN CIVIL, LA FECHA DE SENTENCIA FIRME ES REFERENCIAL NO PRECISA"
+        }
+    ],
+    "sentenciaObliga": []
+}

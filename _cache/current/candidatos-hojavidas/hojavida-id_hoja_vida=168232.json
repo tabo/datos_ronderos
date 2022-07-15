@@ -1,0 +1,158 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 168232.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42269053",
+        "nombres": "EDGAR",
+        "apellidoPaterno": "CUSSI",
+        "apellidoMaterno": "LOAYZA",
+        "sexo": "1",
+        "feNacimiento": "26/11/1982",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "070608",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "CANCHIS",
+        "naciDistrito": "TINTA",
+        "ubigeoDomicilio": "070608",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "CANCHIS",
+        "domiDistrito": "TINTA",
+        "domicilioDirecc": "CALLE ARICA S/N",
+        "ubigeoPostula": "070608",
+        "postulaDepartamento": "CUSCO",
+        "postulaProvincia": "CANCHIS",
+        "postulaDistrito": "TINTA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/168232.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 09:07:31",
+        "txGuidFormatoHojaVida": "dfa8aec7-0971-408f-87fa-20a7648f1744",
+        "idSolicitudLista": 27260.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 194470,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "UNIDAD DE GESTION EDUCATIVA LOCAL CANCHIS",
+            "ocupacionProfesion": "DOCENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR.CENTENARIO",
+            "anioTrabajoDesde": "2022",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "070601",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CUSCO",
+            "trabajoProvincia": "CANCHIS",
+            "trabajoDistrito": "SICUANI",
+            "idHojaVida": 168232,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "DOCENTE  DE AULA  EN LA INSTITUCION EDUCATIVA  EN LA UGEL CHECCA"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 171387,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 168232,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 138701,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "I.S.E.P..P TUPAC  AMARU",
+                "carreraNoUni": "EDUCACIÓN PRIMARIA",
+                "concluidoNoUni": "1",
+                "idHojaVida": 168232,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 160730,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNSAAC",
+                "carreraUni": "BACHILLER",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "ESTUDIANTE  EN LA CARRERA PROFESIONAL EDUCACION"
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 161457,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 12000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 168232,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 171746,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "MOTOCICLETA",
+                "marca": null,
+                "placa": "6068-1X",
+                "valor": 3800.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "HONDA",
+                "comentario": "COLOR AZUL",
+                "idHojaVida": 168232,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

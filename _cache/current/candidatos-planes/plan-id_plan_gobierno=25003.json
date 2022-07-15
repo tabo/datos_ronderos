@@ -1,0 +1,105 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 25003,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 4,
+        "txOrganizacionPolitica": "ACCION POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1733,
+        "juradoElectoral": "TRUJILLO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/e9fe5fcb-bfa0-44a1-9564-27046cca6756.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/5523662d-050f-45f6-8ed6-a1d3c785f6c8.pdf",
+        "txCodExpedienteExt": "ERM.2022009347",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 180554,
+            "txPgProblema": "EDUCACION",
+            "txPgObjetivo": "REDUCCION DE FALTA DE EDUCACION Y ANALFABETISMO",
+            "txPgIndicador": "EL 30% DE LA POBLACIÓN\nNO TIENE EDUCACIÓN\nSECUNDARIA DEL CUAL EL\n1% ES ANALFABETA,\nTRAYENDO CONSIGO QUE\nPUEDAN ACCEDER A\nTRABAJOS CALIFICADOS, ES\nDECIR MANO DE OBRA\nBARATA PARA DIFERENTES\nACTIVIDADES Y OFICIOS.",
+            "txPgMeta": "REDUCIR DE 30% A UN 10% LA FALTA DE EDUCACION SECUNDARIA.\nY ACABAR CON LA ANALFABETIZACION.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 180807,
+            "txPgProblema": "MOJARAMIENTO DE INFRESTRUCTURA EN SALUD",
+            "txPgObjetivo": "BRINDAR UN SERVICIO DE SALUD COMPLETO  ACORDE A LA POBLACIÓN",
+            "txPgIndicador": "EL 60% DE LA POBLACIÓN SE AQUEJA DE LA FALTA DE ATENCIÓN EN CALIDAD E INFRAESTRUCTURA EN EL DISTRITO.",
+            "txPgMeta": "REDUCIR EL INDICE DE INSATISFACCIÓN, PONIENDO EN PLAN EL MEJORAMIENTO DE LAS INFRAESTRUCTURAS Y LAS COORDINACIONES CON LAS AUTORIDADES DE LA SALUD PARA MEJORAR LA CALIDAD DE ATENCION.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 181148,
+            "txPgProblema": "LA BAJA FRECUENCIA\nDE LA POLICÍA\nNACIONAL EN LAS\nCALLES E\nINSUFICIENCIA DE\nPERSONAL DE\nSERENAZGO HA\nGENERADO UN\nAUMENTO DE LA\nDELINCUENCIA,\nDROGADICCIÓN Y\nROBOS.",
+            "txPgObjetivo": "BUSCAR ASIGNAR MAYOR PRESUPUESTO PARA SEGURIDAD CIUDADANA, IMPLEMENTACION DE CAMARAS Y CENTRO DE CONTROL ACTIVO.\nTRABAJAR CON LA POLICÍA PARA CERCAR LOS LUGARES CON MAYOR INDICE DELICUENCIAL.",
+            "txPgIndicador": "EL 70% DE LA POBLACIÓN VIVE CON LA INSEGURIDAD",
+            "txPgMeta": "REDUCIR EL NIVEL DE INSEGURIDAD AL 35%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 181528,
+            "txPgProblema": "POCA FISCALIZACIÓN DE LOS RECURSOS",
+            "txPgObjetivo": "OPTIMIZAR LOS RECURSOS OTORGADOS PARA UNA MEJOR DISTRIBUCIÓN.",
+            "txPgIndicador": "EN ESTOS MOMENTOS HAY POCA FISCALIZACIÓN EN LA EJECUCIÓN DE RECURSOS DE LOS CENTROS POBLADOS.",
+            "txPgMeta": "LOGRAR EL MAYOR INDICE DE FISCALIZACIÓN EN SUS GESTIONES.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182056,
+            "txPgProblema": "POCO PRESUPUESTO POR EL AUMENTO DE LA POBLACIÓN.",
+            "txPgObjetivo": "SOLICITAR MAYOR PRESUPUESTO Y BUSCAR UN MEJOR CENSO POBLACIONAL",
+            "txPgIndicador": "68,409 HABITANTES PRESUPUESTO S/ 43,140,435",
+            "txPgMeta": "LOGRAR UN CENSO CON LA CANTIDAD POBLACIONAL Y ASI PODER SOLICITAR EL PRESUPUESTO EN LA MEJORA DEL DISTRITO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182278,
+            "txPgProblema": "FALTA DE COORDINACION CON EL SECTOR PRIVADO",
+            "txPgObjetivo": "LOGRAR MEJORAR ESTRATÉGICAS CON EL SECTOR PRIVADO PARA EL BENEFICIO DEL DISTRITO.",
+            "txPgIndicador": "TENEMOS UNA PARTICIPACIÓN NO MAYOR DEL  25%  DE LAS EMPRESAS PRIVADAS.",
+            "txPgMeta": "TENER EL COMPROMISO DEL 70% DEL CAPITAL PRIVADO EN LAS MEJORAS DEL DISTRITO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 183256,
+            "txPgProblema": "CONTAMINACIÓN  DEL BOTADERO",
+            "txPgObjetivo": "EL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN DEL MEDIO AMBIENTE",
+            "txPgIndicador": "HOY EL BOTADERO ES FUENTE DE INGRESOS DEL 90% DE RECICLADORES DE HUANCHACO-MILAGRO",
+            "txPgMeta": "EL OBJETIVO ES TENER UN RELLENO SANITARIO QUE LOGRE EL EQUILIBRIO QUE BUSCA LA POBLACIÓN.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 183466,
+            "txPgProblema": "BUSCAR EL MAYOR INDICE DE CALIDAD EN LA GESTIÓN EDIL.",
+            "txPgObjetivo": "CON NUESTRA EXPERIENCIA BUSCAREMOS CERTIFICARNOS EN INDICES DE CALIDAD DE ALTOS NIVELES NACIONALES E INTERNACIONALES,",
+            "txPgIndicador": "HOY EL 45% DE LOS CIUDADANOS NO ESTA CONFORME CON LA CALIDAD DE ATENCIÓN DE MUNICIPALIDAD, NUMERO QUE SE HA VISTO REDUCIDO POR NUESTRO TRABAJO.",
+            "txPgMeta": "BUSCAR TENER EL MENOR INDICE,EN PROMEDIO EL 10% DE INSATISFACCIÓN DE ATENCIÓN DE LA INSTITUCIÓN EDIL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

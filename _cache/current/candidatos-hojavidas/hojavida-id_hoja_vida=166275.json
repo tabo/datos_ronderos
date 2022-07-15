@@ -1,0 +1,128 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 166275.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "33592476",
+        "nombres": "JESUS",
+        "apellidoPaterno": "REYES",
+        "apellidoMaterno": "AGURTO",
+        "sexo": "1",
+        "feNacimiento": "03/01/1975",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "190303",
+        "naciDepartamento": "PIURA",
+        "naciProvincia": "HUANCABAMBA",
+        "naciDistrito": "HUARMACA",
+        "ubigeoDomicilio": "210907",
+        "domiDepartamento": "SAN MARTIN",
+        "domiProvincia": "PICOTA",
+        "domiDistrito": "SAN HILARION",
+        "domicilioDirecc": "CASERIO NUEVO CHIMBOTE",
+        "ubigeoPostula": "210907",
+        "postulaDepartamento": "SAN MARTIN",
+        "postulaProvincia": "PICOTA",
+        "postulaDistrito": "SAN HILARION",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/166275.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 2722.0,
+        "organizacionPolitica": "UNION REGIONAL",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 18:17:58",
+        "txGuidFormatoHojaVida": "275f6730-6a1a-4056-8545-858ec5a5e68a",
+        "idSolicitudLista": 26993.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 187554,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CHACRA",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASERIO NUEVO CHIMBOTE",
+            "anioTrabajoDesde": "1993",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "210907",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "SAN MARTIN",
+            "trabajoProvincia": "PICOTA",
+            "trabajoDistrito": "SAN HILARION",
+            "idHojaVida": 166275,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 165160,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 166275,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 156693,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 24000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 166275,
+                "idEstado": 1,
+                "totalIngresos": 24000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 167754,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "MOTO",
+                "marca": null,
+                "placa": "55-5798",
+                "valor": 5000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "NEGRO",
+                "comentario": null,
+                "idHojaVida": 166275,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

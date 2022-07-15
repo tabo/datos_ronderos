@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 24822,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1679,
+        "juradoElectoral": "HUANCAYO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/b160951e-552c-45d4-af37-6e6f27c5072c.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/d528261a-a1a1-422c-a7bf-3cb3fb6b5b4b.pdf",
+        "txCodExpedienteExt": "ERM.2022013554",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 160767,
+            "txPgProblema": "PROBLEMAS SOCIALES DE LA DELINCUENCIA",
+            "txPgObjetivo": "IMPLEMENTACIÓN DE UN PLAN DE SEGURIDAD CIUDADANA",
+            "txPgIndicador": "INCREMENTO DE LA DELINCUENCIA EN UN 20% POR AÑO",
+            "txPgMeta": "REDUCCIÓN DE PROBLEMAS DE DELINCUENCIA EN 40 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 160777,
+            "txPgProblema": "ALTA INCIDENCIA DE LA DESNUTRICIÓN INFANTIL",
+            "txPgObjetivo": "PROMOVER PROGRAMAS PARA MEJORAR LA ALIMENTACIÓN DE LOS NIÑOS",
+            "txPgIndicador": "21 %",
+            "txPgMeta": "MEJORA DE LA ALIMENTACIÓN EN 10%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 160790,
+            "txPgProblema": "PÉRDIDA DE VALORES E IDENTIDAD CULTURAL",
+            "txPgObjetivo": "IMPLEMENTAR PROGRAMAS DE RECUPERACIÓN DE LOS VALORES Y LA IDENTIDAD CULTURAL",
+            "txPgIndicador": "DESINTERÉS DE LA POBLACIÓN EN TEMAS DE VALORES EN UN 30%",
+            "txPgMeta": "FORTALECIMIENTO A LA POBLACIÓN EN 10 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 160804,
+            "txPgProblema": "PRODUCCIÓN AGROPECUARIA DEFICIENTE",
+            "txPgObjetivo": "PROGRAMAS DE FORTALECIMIENTO AL PRODUCTOR AGROPECUARIO CON LA METODOLOGÍA ESCUELAS DE CAMPO",
+            "txPgIndicador": "DISMINUCIÓN DE LA PRODUCTIVIDAD EN UN 20%",
+            "txPgMeta": "MEJORA DE LA PRODUCCIÓN 10%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 160816,
+            "txPgProblema": "ALTO COSTO DE INSUMOS AGROPECUARIOS",
+            "txPgObjetivo": "APERTURA DE LA CASA DEL AGRO",
+            "txPgIndicador": "INCREMENTO DE PRECIOS DE INSUMOS AGROPECUARIOS EN UN 70%",
+            "txPgMeta": "REDUCCIÓN DE COSTOS EN 10%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 160828,
+            "txPgProblema": "PUESTA EN EL MERCADO DE LOS PRODUCTOS AGROPECUARIOS SIN TRANSFORMACIÓN",
+            "txPgObjetivo": "PROCESAMIENTO DE PRODUCTOS LÁCTEOS Y OTROS",
+            "txPgIndicador": "PROCESAMIENTO ARTESANAL EN 10%",
+            "txPgMeta": "PROCESAMIENTO EN 10 PRODUCTOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 160840,
+            "txPgProblema": "CALENTAMIENTO GLOBAL Y OTROS PROBLEMAS AMBIENTALES",
+            "txPgObjetivo": "INSTALACIÓN DE VIVEROS AGROFORESTALES",
+            "txPgIndicador": "REPOSICIÓN FORESTAL ES 0%",
+            "txPgMeta": "PLANTACIÓN DE 500,000 PLANTONES AGROFORESTALES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 160858,
+            "txPgProblema": "FALTA DE CONCIENCIA AMBIENTAL RESIDUOS SOLIDOS",
+            "txPgObjetivo": "MEJORA EN LA SENSIBILIZACIÓN, RECOJO Y TRATAMIENTO DE LOS RESIDUOS SOLIDOS",
+            "txPgIndicador": "INCREMENTO DE LA CANTIDAD DE RESIDUOS SÓLIDOS EN 30%",
+            "txPgMeta": "MEJORA EN EL TRATAMIENTO EN 50 %",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 160867,
+            "txPgProblema": "PÈRDIDA DE ESPECIES FORESTALES NATIVAS",
+            "txPgObjetivo": "IMPLEMENTACIÓN DE VIVEROS CON ESPECIES NATIVAS DE LA ZONA",
+            "txPgIndicador": "PERDIDA DE ESPECIES FORESTALES EN 15% ANUALES",
+            "txPgMeta": "INSTALACIÓN DE 200,000 PLANTONES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 160878,
+            "txPgProblema": "SISTEMA ADMINISTRATIVO DESACTUALIZADO",
+            "txPgObjetivo": "ACTUALIZACIÓN DE SISTEMAS ADMINISTRATIVOS",
+            "txPgIndicador": "SISTEMA ADMINISTRATIVO CON MEJORAS DE ACTUALIZACIÓN EN 10% ANUALES",
+            "txPgMeta": "MEJORA EN LA GESTIÓN ADMINISTRATIVA EN 50 %",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 160885,
+            "txPgProblema": "FALTA DE EQUIPAMIENTO EN ÁREAS SENSIBLES DE LA MUNICIPALIDAD",
+            "txPgObjetivo": "EQUIPAMIENTO INSTITUCIONAL EN ÁREAS PRIORITARIAS DE ATENCIÓN AL CIUDADANO",
+            "txPgIndicador": "FALTA DE EQUIPAMIENTO EN UN 60%",
+            "txPgMeta": "MEJORA EN LA ATENCIÓN EN 50%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 160891,
+            "txPgProblema": "ORGANIZACIONES DE BASE EN DESORDEN Y DESINFORMADAS",
+            "txPgObjetivo": "FORTALECIMIENTO DE LAS ORGANIZACIONES SOCIALES DE BASE",
+            "txPgIndicador": "DESORGANIZACIÓN EN INSTITUCIONES DE BASE EN 50%",
+            "txPgMeta": "MEJORA DE 10 ORGANIZACIONES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

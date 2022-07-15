@@ -1,0 +1,156 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 171114.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "23532256",
+        "nombres": "MARIO LEONCIO",
+        "apellidoPaterno": "GOITIA",
+        "apellidoMaterno": "CAJA",
+        "sexo": "1",
+        "feNacimiento": "11/09/1972",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "080408",
+        "naciDepartamento": "HUANCAVELICA",
+        "naciProvincia": "CASTROVIRREYNA",
+        "naciDistrito": "CHUPAMARCA",
+        "ubigeoDomicilio": "080408",
+        "domiDepartamento": "HUANCAVELICA",
+        "domiProvincia": "CASTROVIRREYNA",
+        "domiDistrito": "CHUPAMARCA",
+        "domicilioDirecc": "ANEXO DE COLCABAMBA S/N",
+        "ubigeoPostula": "080408",
+        "postulaDepartamento": "HUANCAVELICA",
+        "postulaProvincia": "CASTROVIRREYNA",
+        "postulaDistrito": "CHUPAMARCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/171114.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 4.0,
+        "organizacionPolitica": "ACCION POPULAR",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 21:34:04",
+        "txGuidFormatoHojaVida": "3a9a8a17-4d4b-496c-ad97-73f544ce78ed",
+        "idSolicitudLista": 27649.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 222765,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CAMPESINO",
+            "ocupacionProfesion": "CAMPESINO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CHUPAMARCA",
+            "anioTrabajoDesde": "2005",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "080408",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "HUANCAVELICA",
+            "trabajoProvincia": "CASTROVIRREYNA",
+            "trabajoDistrito": "CHUPAMARCA",
+            "idHojaVida": 171114,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "QUEHACERES DEL CAMPO"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 196343,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 171114,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 158278,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 15,
+            "orgPolRenunciaOp": "PARTIDO POPULAR CRISTIANO - PPC",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 171114,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 187765,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 950.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 171114,
+                "idEstado": 1,
+                "totalIngresos": 950.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 186974,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "81271Y ",
+                "valor": 3500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": "COLOR NEGRO",
+                "idHojaVida": 171114,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 186973,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "57641Y ",
+                "valor": 3500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": "COLOR ROJO",
+                "idHojaVida": 171114,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

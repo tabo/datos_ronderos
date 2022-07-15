@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 29581,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2869,
+        "txOrganizacionPolitica": "PARTIDO PATRIOTICO DEL PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1657,
+        "juradoElectoral": "CALLAO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/a893b71d-9a01-44b4-85e4-f31f321325bf.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/f845d6c8-b7e1-4019-8b1f-7967907da6a7.pdf",
+        "txCodExpedienteExt": "ERM.2022015672",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 206970,
+            "txPgProblema": "FALTA DE SERVICIOS BÁSICOS, SERVICIOS DE SALUD Y MUCHA DELINCUENCIA.",
+            "txPgObjetivo": "MEJORAR LOS SERVICIOS DE SALUD, SERVICIOS BÁSICOS Y SEGURIDAD CIUDADANA.",
+            "txPgIndicador": "REDUCIR LA INSEGURIDAD CIUDADANA EN UN 100%.",
+            "txPgMeta": "TENER UNA CIUDAD SEGURA AL 2026.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 207082,
+            "txPgProblema": "DEMASIADA INFORMALIDAD Y DESEMPLEO.",
+            "txPgObjetivo": "REDUCIR LA INFORMALIDAD Y CREAR PUESTOS DE TRABAJO.",
+            "txPgIndicador": "INCREMENTO DEL EMPLEO EN 60% Y REDUCCIÓN DE LA INFORMALIDAD EN UN 80%.",
+            "txPgMeta": "AL 2026, SER UN DISTRITO PRÓSPERO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 207115,
+            "txPgProblema": "CONTAMINANCIÓN AMBIENTAL POR LA ACUMULACIÓN DE BASURA EN LA CIUDAD.",
+            "txPgObjetivo": "ELIMINAR EL ERROJO DE BASURA EN LAS CALLES DEL DISTRITO.",
+            "txPgIndicador": "CERO% DE BASURA EN LAS CALLES DE LA CIUDAD.",
+            "txPgMeta": "DISTRITO ECOLOGICO EN EL AÑO 2026.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 207167,
+            "txPgProblema": "DESCONFIANZA DE LA POBLACIÓN POR LAS AUTORIDADES MUNICIPALES",
+            "txPgObjetivo": "TRABAJAR CON LOS ACTORES SOCIALES DE LA PROVINCIA Y FORTALECER LA CONFIANZA ENTRE LAS AUTORIDADES Y LOS VECINOS",
+            "txPgIndicador": "TRABAJO COORDINADO ENTRE ADMINISTRADORES Y ADMINISTRADOS.",
+            "txPgMeta": "FORTALECIMIENTO INSTITUCIONAL Y CONFIANZA DE LA POBLACIÓN EN GENERAL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

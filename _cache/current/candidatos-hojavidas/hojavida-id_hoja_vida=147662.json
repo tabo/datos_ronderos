@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 147662.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "41313589",
+        "nombres": "MANOLO",
+        "apellidoPaterno": "MARIN",
+        "apellidoMaterno": "MELENDEZ",
+        "sexo": "1",
+        "feNacimiento": "05/08/1979",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "150304",
+        "naciDepartamento": "LORETO",
+        "naciProvincia": "LORETO",
+        "naciDistrito": "URARINAS",
+        "ubigeoDomicilio": "150304",
+        "domiDepartamento": "LORETO",
+        "domiProvincia": "LORETO",
+        "domiDistrito": "URARINAS",
+        "domicilioDirecc": "AV. TOPAL C.POBLADO MAYPUCO",
+        "ubigeoPostula": "150304",
+        "postulaDepartamento": "LORETO",
+        "postulaProvincia": "LORETO",
+        "postulaDistrito": "URARINAS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/147662.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2871.0,
+        "organizacionPolitica": "JUNTOS POR LORETO",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "08/06/2022 21:18:53",
+        "txGuidFormatoHojaVida": "2009417e-fe30-4d5d-8447-a6adce258605",
+        "idSolicitudLista": 24461.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 157520,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "PROGRAMA NACIONAL DE APOYO DIRECTO A LOS MAS POBRES-JUNTOS",
+            "ocupacionProfesion": "GESTOR LOCAL",
+            "rucTrabajo": "20511268401",
+            "direccionTrabajo": "KM 3.5 - CARRETERA - IQUITOS - NAUTA",
+            "anioTrabajoDesde": "2013",
+            "anioTrabajoHasta": "2019",
+            "ubigeoTrabajo": "150113",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LORETO",
+            "trabajoProvincia": "MAYNAS",
+            "trabajoDistrito": "SAN JUAN BAUTISTA",
+            "idHojaVida": 147662,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 137537,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 147662,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 134707,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "INSTITUTO DE EDUCACION SUPERIOR  \"PEDRO A. DEL AGUILA HIDALGO\"",
+                "carreraTecnico": "CONTABILIDAD",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 147662,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 136830,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 147662,
+                "idEstado": 1,
+                "totalIngresos": 0.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 170433,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "VIVIENDA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CALLE SANCHEZ CERRO  C-17 - BELEN",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 23747.0,
+                "idHojaVida": 147662,
+                "idEstado": 1,
+                "flValor": "80000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 149499,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "MOTO",
+                "marca": null,
+                "placa": "6085-4L",
+                "valor": 3000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR PLOMO",
+                "comentario": null,
+                "idHojaVida": 147662,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

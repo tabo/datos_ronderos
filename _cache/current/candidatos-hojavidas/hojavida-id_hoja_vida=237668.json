@@ -1,0 +1,156 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 237668.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44443966",
+        "nombres": "CLIVER",
+        "apellidoPaterno": "AVENDAÑO",
+        "apellidoMaterno": "CRUZADO",
+        "sexo": "1",
+        "feNacimiento": "15/10/1986",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "210804",
+        "naciDepartamento": "SAN MARTIN",
+        "naciProvincia": "TOCACHE",
+        "naciDistrito": "SHUNTE",
+        "ubigeoDomicilio": "210804",
+        "domiDepartamento": "SAN MARTIN",
+        "domiProvincia": "TOCACHE",
+        "domiDistrito": "SHUNTE",
+        "domicilioDirecc": "CASERIO SAN FRANCISCO",
+        "ubigeoPostula": "210804",
+        "postulaDepartamento": "SAN MARTIN",
+        "postulaProvincia": "TOCACHE",
+        "postulaDistrito": "SHUNTE",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/237668.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 16:59:11",
+        "txGuidFormatoHojaVida": "936109db-e0cf-45e8-95bb-a6a454eac549",
+        "idSolicitudLista": 36045.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 171294,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MADERERA Y SERVICIOS AVENDAÑO DE AVENDAÑO CRUZADO CLIVER",
+            "ocupacionProfesion": "EMPRESARIO",
+            "rucTrabajo": "10444439667",
+            "direccionTrabajo": "JR. JACINTA CARTAGENA S/N, CUADRA - 02",
+            "anioTrabajoDesde": "2018",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "210801",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "SAN MARTIN",
+            "trabajoProvincia": "TOCACHE",
+            "trabajoDistrito": "TOCACHE",
+            "idHojaVida": 237668,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 150067,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 237668,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 141206,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "PARTIDO POLÍTICO ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2014",
+            "idHojaVida": 237668,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 146081,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 70010.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 237668,
+                "idEstado": 1,
+                "totalIngresos": 70010.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 157918,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "C73657 ",
+                "valor": 2900.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA",
+                "comentario": null,
+                "idHojaVida": 237668,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 157917,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "S21562 ",
+                "valor": 3000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA",
+                "comentario": null,
+                "idHojaVida": 237668,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

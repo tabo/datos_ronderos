@@ -1,0 +1,105 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 17056,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2731,
+        "txOrganizacionPolitica": "PODEMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/483c7b7e-d70b-4ac1-b0e0-0572525fcf7a.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/a3475738-f381-4d8d-a646-ea0df6bedfa3.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 201831,
+            "txPgProblema": "LA SALUD DE LA POBLACIÓN LOCAL SE ENCUENTRA EN RIESGO YA QUE LA DOTACIÓN DEL AGUA NO ES POTABLE",
+            "txPgObjetivo": "DISMINUIR LOS RIESGOS DE SALUD EN LA POBLACIÓN DEL DISTRITO OCASIONADOS POR LA FALTA DE AGUA POTABLE",
+            "txPgIndicador": "- N° DE VIVIENDAS CON CONEXIONES DOMICILIARIAS DE AGUA POTABLE",
+            "txPgMeta": "EL 70% DE LAS VIVIENDAS CUENTEN CON AGUA POTABLE",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 201879,
+            "txPgProblema": "DAÑOS EN LA INFRAESTRUCTURA PUBLICA Y PRIVADA Y RIESGOS DE HURTO DE LOS BIENES PÚBLICOS Y PRIVADOS",
+            "txPgObjetivo": "DISMINUIR LOS DAÑOS EN LA INFRAESTRUCTURA PUBLICA Y PRIVADA Y RESGUARDAR LOS BIENES PÚBLICOS Y PRIVADOS",
+            "txPgIndicador": "-\tN° DE BIENES Y/O INFRAESTRUCTURAS  DAÑADAS \n-\tMONTO ASIGNADO PARA REFACCIONES",
+            "txPgMeta": "IMPLEMENTAR UN SISTEMA DE VIGILANCIA PERMANENTE EN EL DISTRITO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 201931,
+            "txPgProblema": "LA POBLACIÓN TIENE DIFICULTADES PARA TRANSITAR Y TRASLADAR SUS PRODUCTOS A LOS MERCADOS POR VÍAS DE COMUNICACIÓN EN MAL ESTADO",
+            "txPgObjetivo": "BRINDAR A LA POBLACIÓN DEL CAMPO VÍAS DE COMUNICACIÓN EN OPTIMAS CONDICIONES QUE LES PERMITA EL NORMAL TRANSITO",
+            "txPgIndicador": "-\tKM DE VÍAS MANTENIDAS POR AÑO.",
+            "txPgMeta": "EL MANTENIMIENTO ANUAL DE LAS VÍAS DE ACCESOS A LOS DIFERENTES ESTANCIAS Y CAMPOS GANADEROS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 201970,
+            "txPgProblema": "DISMINUCIÓN DEL FLUJO COMERCIAL – ECONÓMICO EN EL DISTRITO QUE REPERCUTE EN LOS BAJOS INGRESOS EN  POBLACIÓN EN GENERAL",
+            "txPgObjetivo": "PROPICIAR Y BRINDAR LAS CONDICIONES PARA QUE LA POBLACIÓN PUEDA GENERAR MAYORES INGRESOS ECONÓMICOS PARA SU HOGARES",
+            "txPgIndicador": "-\tN° DE ACTIVIDADES TURÍSTICAS \n-\tN° DE VISITANTES A EVENTOS Y FERIAS",
+            "txPgMeta": "IMPLEMENTAR EL CALENDARIO TURÍSTICO DEL DISTRITO, LAS CAMPAÑAS TURÍSTICAS , ORGANIZAR EVENTOS Y FERIAS ANUALES.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 202019,
+            "txPgProblema": "CONTAMINACIÓN DEL MEDIO AMBIENTE Y RIESGOS EN LA SALUD DE LA POBLACIÓN EN GENERAL POR NO CONTAR CON EL SISTEMA DE DESAGÜE",
+            "txPgObjetivo": "DISMINUIR LA CONTAMINACIÓN DEL MEDIO AMBIENTE Y RIESGOS EN LA SALUD DE LA POBLACIÓN EN GENERAL BRINDANDO UN TRATAMIENTO E IMPLEMENTADO EL SISTEMA DE DESAGÜE DE LA POBLACIÓN",
+            "txPgIndicador": "-\tN° DE POZO SÉPTICO TRATADO",
+            "txPgMeta": "100% DEL LOS DESAGÜES DE LA POBLACIÓN SERÁN TRATADAS ADECUADAMENTE",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 202053,
+            "txPgProblema": "CONTAMINACIÓN DE MEDIO AMBIENTE Y RIESGOS EN LA SALUD DE LA POBLACIÓN  A CAUSA DE LA ACUMULACIÓN DE RESIDUOS SÓLIDOS EN LAS CALLES",
+            "txPgObjetivo": "DISMINUIR LA CONTAMINACIÓN DEL MEDIO AMBIENTE Y RIESGOS EN LA SALUD DE LA POBLACIÓN A CAUSA DE LA ACUMULACIÓN DE RESIDUOS SÓLIDOS EN LAS CALLES",
+            "txPgIndicador": "-\tKG. DE RESIDUOS SÓLIDOS RECOGIDOS Y TRATADOS",
+            "txPgMeta": "IMPLEMENTAR UN PLAN DE MANEJO DE RESIDUOS SÓLIDOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 202105,
+            "txPgProblema": "BAJA ASIGNACIÓN PRESUPUESTAL A LA MUNICIPALIDAD POR FALTA DE LA ACTUALIZACIÓN DE LOS LIMITES TERRITORIALES",
+            "txPgObjetivo": "DEFINIR Y GESTIONAR LA APROBACIÓN DE LA DELIMITACION TERRITORIAL DEL DISTRITO",
+            "txPgIndicador": "GESTIÓN Y TRAMITES",
+            "txPgMeta": "DELIMITACION POLÍTICA CONCLUIDA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 202139,
+            "txPgProblema": "INFRAESTRUCTURA INADECUADA E INSUFICIENTE",
+            "txPgObjetivo": "BRINDAR AL PERSONAL Y AL PUBLICO USUARIO UNA ADECUADA INFRAESTRUCTURA Y ESPACIO SUFICIENTE PARA EL FUNCIONAMIENTO DE LA DIFERENTES ÁREAS U OFICINAS",
+            "txPgIndicador": "-\tM2 DE ÁREA CONSTRUIDA\n-\tN° DE PERSONAL QUE LABORA EN LA ENTIDAD\n-\tN° DE USUARIOS ATENDIDOS",
+            "txPgMeta": "AMPLIACIÓN Y MEJORAMIENTO DE LA INFRAESTRUCTURA DE LA MUNICIPALIDAD DISTRITAL DE VICCO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

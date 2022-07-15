@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23564,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/30b5a6de-57ec-455a-b0c8-d521fca4281f.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/6a064625-4f48-4470-b616-57e5fa089d1e.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 201550,
+            "txPgProblema": "INADECUADAS CONDICIONES DE HABITABILIDAD EN EL DISTRITO",
+            "txPgObjetivo": "MEJORAR LAS CONDICIONES DEL SERVICIO DE AGUA POTABLE, EN LA ZONA URBANA Y SU AMPLIACIÓN A LA ZONA RURAL.",
+            "txPgIndicador": "% DE LA POBLACIÓN QUE CUENTAN CON EL SERVICIO DE AGUA POTABLE",
+            "txPgMeta": "60.00 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 201584,
+            "txPgProblema": "INADECUADAS CONDICIONES DE HABITABILIDAD EN EL DISTRITO",
+            "txPgObjetivo": "MEJORAR LAS CONDICIONES DEL SERVICIO DE SANEAMIENTO EN LA ZONA URBANA.",
+            "txPgIndicador": "% DE LA POBLACIÓN QUE CUENTAN CON EL SERVICIO DE INSTALACIÓN DOMICILIARIA DE DESAGÜE.",
+            "txPgMeta": "60.00 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 201601,
+            "txPgProblema": "INADECUADAS CONDICIONES DE HABITABILIDAD EN EL DISTRITO",
+            "txPgObjetivo": "INSTALACIÓN DEL SERVICIO DE INTERNET EN LA ZONA URBANA Y RURAL.",
+            "txPgIndicador": "% DE LA POBLACIÓN QUE CUENTAN CON EL SERVICIO DE INTERNET.",
+            "txPgMeta": "75.00 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 201627,
+            "txPgProblema": "BAJO NIVEL DE COMPETITIVIDAD ECONÓMICA EN EL DISTRITO",
+            "txPgObjetivo": "PROMOVER LA COMPETITIVIDAD ECONÓMICA EN EL DISTRITO",
+            "txPgIndicador": "% DE ASISTENCIA TÉCNICA EN CULTIVOS MEJORADOS",
+            "txPgMeta": "40.00%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 201639,
+            "txPgProblema": "BAJO NIVEL DE COMPETITIVIDAD ECONÓMICA EN EL DISTRITO",
+            "txPgObjetivo": "PROMOVER LA COMPETITIVIDAD ECONÓMICA EN EL DISTRITO",
+            "txPgIndicador": "N° DE FERIAS AGROPECUARIAS REALIZADAS",
+            "txPgMeta": "1 P/AÑO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 201653,
+            "txPgProblema": "BAJO NIVEL DE COMPETITIVIDAD ECONÓMICA EN EL DISTRITO",
+            "txPgObjetivo": "MEJORAR EL SERVICIO DE TRANSPORTE A LAS ZONAS DE PRODUCCIÓN",
+            "txPgIndicador": "% EN LONGITUD EN EL MEJORAMIENTO DE TROCHAS CARROZABLES A LAS ZONAS DE PRODUCCIÓN.",
+            "txPgMeta": "84.20%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 201672,
+            "txPgProblema": "BAJOS NIVELES DE CALIDAD AMBIENTAL EN EL DISTRITO",
+            "txPgObjetivo": "MEJORAR LA CALIDAD AMBIENTAL EN EL DISTRITO",
+            "txPgIndicador": "% DE VÍAS URBANAS Y DE INGRESO PRINCIPAL PAVIMENTADAS EN BUEN ESTADO DE CONSERVACIÓN.",
+            "txPgMeta": "21.00 %",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 201690,
+            "txPgProblema": "BAJOS NIVELES DE CALIDAD AMBIENTAL EN EL DISTRITO",
+            "txPgObjetivo": "FORTALECER LAS INSTITUCIONES Y ORGANIZACIONES EN CULTURA DE ESTIMACIÓN, PREVENCIÓN Y REDUCCIÓN DE RIESGO.",
+            "txPgIndicador": "NÚMERO DE ACCIONES PREVENTIVAS PARA REDUCIR LOS RIESGOS DE DESASTRES NATURALES.",
+            "txPgMeta": "ELABORACIÓN DEL PLAN DE PREVENCIÓN Y REDUCCIÓN DEL RIESGO DE DESASTRES (PPRRD)",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 201706,
+            "txPgProblema": "BAJOS NIVELES DE CALIDAD AMBIENTAL EN EL DISTRITO",
+            "txPgObjetivo": "FORTALECER LAS INSTITUCIONES Y ORGANIZACIONES EN CULTURA DE ESTIMACIÓN, PREVENCIÓN Y REDUCCIÓN DE RIESGO.",
+            "txPgIndicador": "NÚMERO DE ACCIONES EN GESTIÓN DE RESIDUOS SÓLIDOS ELABORADO",
+            "txPgMeta": "ELABORACIÓN EXPEDIENTE TÉCNICO DEL RELLENO SANITARIO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 201718,
+            "txPgProblema": "INEFICIENTE GESTIÓN INSTITUCIONAL EN EL DISTRITO",
+            "txPgObjetivo": "FORTALECER LA GESTIÓN INSTITUCIONAL.",
+            "txPgIndicador": "% DE PARTICIPACIÓN DE AGENTES DE LA SOCIEDAD CIVIL ORGANIZADA EN LOS TALLERES DE TRABAJO DEL PRESUPUESTO PARTICIPATIVO.",
+            "txPgMeta": "90.00 %",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 201744,
+            "txPgProblema": "INEFICIENTE GESTIÓN INSTITUCIONAL EN EL DISTRITO",
+            "txPgObjetivo": "FORTALECER LA GESTIÓN INSTITUCIONAL.",
+            "txPgIndicador": "% DE SERVICIOS PÚBLICOS PRESTADOS OPORTUNA Y ADECUADAMENTE.",
+            "txPgMeta": "100.00 %",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

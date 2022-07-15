@@ -1,0 +1,140 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 234579.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "41881536",
+        "nombres": "MANUEL YOEL",
+        "apellidoPaterno": "ECHEVARRIA",
+        "apellidoMaterno": "PEREZ",
+        "sexo": "1",
+        "feNacimiento": "03/12/1981",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "021303",
+        "naciDepartamento": "ANCASH",
+        "naciProvincia": "SANTA",
+        "naciDistrito": "MACATE",
+        "ubigeoDomicilio": "021303",
+        "domiDepartamento": "ANCASH",
+        "domiProvincia": "SANTA",
+        "domiDistrito": "MACATE",
+        "domicilioDirecc": "CASERIO QUIHUAY S/N",
+        "ubigeoPostula": "021303",
+        "postulaDepartamento": "ANCASH",
+        "postulaProvincia": "SANTA",
+        "postulaDistrito": "MACATE",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/234579.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 360.0,
+        "organizacionPolitica": "MOVIMIENTO ACCION NACIONALISTA PERUANO",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 15:09:46",
+        "txGuidFormatoHojaVida": "cbb46a24-4f44-4cb9-863a-766daf1695ce",
+        "idSolicitudLista": 35673.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 234452,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AGRICOLA NUEVO AMANECER SRL",
+            "ocupacionProfesion": "VENDEDOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. JOSE GALVEZ MZA. 732 P.J. EL PROGRESO",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "021303",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ANCASH",
+            "trabajoProvincia": "SANTA",
+            "trabajoDistrito": "MACATE",
+            "idHojaVida": 234579,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 201690,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 234579,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 160049,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 3,
+            "orgPolRenunciaOp": "TODOS POR EL PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 234579,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 187989,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 12000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 234579,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 189985,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "AUTOMOVIL",
+                "marca": null,
+                "placa": "H2Z-624",
+                "valor": 45000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR GRIS  TIERRA",
+                "comentario": null,
+                "idHojaVida": 234579,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

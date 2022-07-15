@@ -1,0 +1,105 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 19300,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/6094494a-aea9-4585-adc9-bbde17484a9b.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/e194f012-1489-42ad-8526-79fb7203782f.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 177072,
+            "txPgProblema": "DEFICIENTES SERVICIOS DE SALUD EN EL DISTRITO DE SAN MARTÍN",
+            "txPgObjetivo": "PROMOVER LA SALUD INCLUSIVA",
+            "txPgIndicador": "PUESTOS DE SALUD EXISTENTES",
+            "txPgMeta": "GESTIONAR LA CONSTRUCCIÓN Y MEJORAMIENTO DE PUESTOS DE SALUD DE ACUERDO A LA OPINIÓN TÉCNICA DEL SECTOR EN LOS LUGARES MÁS ALEJADOS DEL DISTRITO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 177113,
+            "txPgProblema": "INSUFICIENTES SERVICIOS DE EDUCACIÓN",
+            "txPgObjetivo": "PROMOVER Y ARTICULAR LAS OPORTUNIDADES DE APRENDIZAJE EN LAS INSTITUCIONES EDUCATIVAS DEL DISTRITO.",
+            "txPgIndicador": "INSTITUCIONES EDUCATIVAS EXISTENTES",
+            "txPgMeta": "MEJORAMIENTO Y CONSTRUCCIÓN DE INFRAESTRUCTURA EDUCATIVA E IMPLEMENTACIÓN CON TECNOLOGÍA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 177176,
+            "txPgProblema": "ESCASO CONSUMO DE AGUA SEGURA Y FALTA DE SERVICIO DE SANEAMIENTO.",
+            "txPgObjetivo": "GARANTIZAR LA DISPONIBILIDAD DE AGUA SEGURA Y SU GESTIÓN SOSTENIBLE Y EL SANEAMIENTO PARA TODOS.",
+            "txPgIndicador": "CONSTRUCCIÓN REDES",
+            "txPgMeta": "CONSTRUCCIÓN DE SISTEMAS DE AGUA Y SANEAMIENTO Y EL MEJORAMIENTO DE LOS EXISTENTE",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 177296,
+            "txPgProblema": "ESCASO CONSUMO DE AGUA SEGURA Y FALTA DE SERVICIO DE SANEAMIENTO.",
+            "txPgObjetivo": "GARANTIZAR LA DISPONIBILIDAD DE AGUA SEGURA Y SU GESTIÓN SOSTENIBLE Y EL SANEAMIENTO PARA TODOS.",
+            "txPgIndicador": "CONSTRUCCIÓN REDES",
+            "txPgMeta": "CONSTRUCCIÓN DE SISTEMAS DE AGUA Y SANEAMIENTO Y EL MEJORAMIENTO DE LOS EXISTENTE",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 177315,
+            "txPgProblema": "VÍAS DE ACCESO EN MAL ESTADO DE CONSERVACIÓN",
+            "txPgObjetivo": "PROMOVER EL CRECIMIENTO ECONÓMICO INCLUSIVO Y SOSTENIBLE, EL EMPLEO Y EL TRABAJO DECENTE PARA TODOS",
+            "txPgIndicador": "NÚMERO DE KILÓMETROS DE CARRETERA EN MAL ESTADO MEJORAMIENTO DE TROCHAS CARROZABLES A LOS CENTROS DE PRODUCCIÓN",
+            "txPgMeta": "MANTENIMIENTO Y MEJORAMIENTO DE TROCHAS CARROZABLES A LOS CENTROS DE PRODUCCIÓN",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 177332,
+            "txPgProblema": "ESCASO EN PROMOCIÓN DELDESARROLLO AGROPECUARIA",
+            "txPgObjetivo": "PROMOVER ASISTENCIA TÉCNICA PERMANENTE A LOS PRODUCTORES",
+            "txPgIndicador": "ESCUELA DE CAMPOS EN LAS ZONAS RURALES",
+            "txPgMeta": "ORGANIZACIÓN DE FERIAS DE PRODUCTORES",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 190899,
+            "txPgProblema": "DEFORESTACIÓN INDISCRIMINADA\nCONTAMINACIÓN DEL MEDIO AMBIENTE POR EXPOSICIÓN DE RESIDUOS SOLIDOS\nFALTA DE CUMPLIMIENTO A LA NORMA\tDE\tORDENAMIENTO TERRITORIAL",
+            "txPgObjetivo": "OBJETIVO    8:\nPROMOVER EL USO RACIONAL\tY RESPONSABLE DE\nLA FLORA Y FAUNA\nOBJETIVO\t9:\nPROMOVER\tUNA CULTURA RESPONSABLE DEL RECICLAJE.\nOBJETIVO 10:\nPROMOVER\tEL CUMPLIMIENTO DE LAS NORMAS DE ORDENAMIENTO TERRITORIAL",
+            "txPgIndicador": "INVENTARIO\tDE BOSQUE DEFORESTADOS POR AÑO\nACOPIO\tDE RESIDUOS SÓLIDOS\tEN LUGARES INADECUADOS\nDESARROLLO\tDE ACTIVIDADES INFORMATIVAS EN  LOS\tCENTROS POBLADOS",
+            "txPgMeta": "CONSTRUCCIÓN DE 05 VIVEROS DESCENTRALIZADO A NIVEL DISTRITO.\nRECONSTRUCCIÓN Y PUESTO\tEN FUNCIONAMIENTO DE\tPLANTA\tDE\nTRATAMIENTO DE RESIDUOS SOLIDOS\nGESTIONAR\tANTE LAS INSTITUCIONES COMPETENTES PARA EL CUMPLIMIENTO DE LA NORMA.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 190929,
+            "txPgProblema": "ESCASA COMUNICACIÓN CON LOS POBLADORES DE LA ZONA RURAL\nINSEGURIDAD CIUDADANA\nCARENCIA DE ACTIVIDADES CULTURALES, DEPORTIVAS Y RECREATIVAS",
+            "txPgObjetivo": "OBJETIVO 11:\nPROMOVER EL DIÁLOGO PERMANENTE\nOBJETIVO 12:\nPROMOVER LA ORGANIZACIÓN DE LAS RONDAS CAMPESINAS\nOBJETIVO 13:\nPROMOVER LA REALIZACIÓN DE ACTIVIDADES",
+            "txPgIndicador": "POBLACIÓN DEL DISTRITO\nREPORTE DE OCURRENCIAS DE LAS JUNTAS Y RONDAS CAMPESINAS\nNUMERO DE ORGANIZACIONES ATENDIDAS",
+            "txPgMeta": "DESARROLLO DE ACTIVIDADES\nTRABAJO ARTICULADO CON LA PNP\nINTERVENCIÓN EN TODOS LOS CENTROS POBLADOS.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

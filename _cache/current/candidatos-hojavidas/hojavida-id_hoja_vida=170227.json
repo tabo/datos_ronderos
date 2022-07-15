@@ -1,0 +1,159 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 170227.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40710750",
+        "nombres": "RAMON",
+        "apellidoPaterno": "PINEDO",
+        "apellidoMaterno": "ESCOBEDO",
+        "sexo": "1",
+        "feNacimiento": "28/05/1979",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "150204",
+        "naciDepartamento": null,
+        "naciProvincia": null,
+        "naciDistrito": null,
+        "ubigeoDomicilio": "150703",
+        "domiDepartamento": "LORETO",
+        "domiProvincia": "DATEM DEL MARAÑON",
+        "domiDistrito": "CAHUAPANAS",
+        "domicilioDirecc": "CASERIO SANTA MARIA DE CAHUAPANAS",
+        "ubigeoPostula": "150703",
+        "postulaDepartamento": "LORETO",
+        "postulaProvincia": "DATEM DEL MARAÑON",
+        "postulaDistrito": "CAHUAPANAS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/170227.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2874.0,
+        "organizacionPolitica": "MOVIMIENTO INDEPENDIENTE REIVINDIQUEMOS LORETO",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL",
+            " REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 09:21:30",
+        "txGuidFormatoHojaVida": "54a0aa69-cb76-462f-9ec8-04e2bb6bf4a2",
+        "idSolicitudLista": 27534.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 190116,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASERIO SANTA MARIA DE CAHUAPANAS",
+            "anioTrabajoDesde": "2003",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "150703",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LORETO",
+            "trabajoProvincia": "DATEM DEL MARAÑON",
+            "trabajoDistrito": "CAHUAPANAS",
+            "idHojaVida": 170227,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "EMPRESARIO EMPRENDEDOR EN EL RUBRO DE LA AGRICULTURA"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 167514,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 170227,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 158745,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "ALAS PERUANAS",
+                "carreraUni": "ADMINISTRACION",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "NO CONCLUIDO"
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 147687,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 14,
+            "orgPolRenunciaOp": "PARTIDO DEMOCRATICO SOMOS PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 170227,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 169393,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "L23931 ",
+                "valor": 4500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA HONDA - MODELO STORM",
+                "comentario": "COLOR GRIS",
+                "idHojaVida": 170227,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 169392,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "MX38253",
+                "valor": 7000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA LIFAN - MODELO LF125-5E",
+                "comentario": "COLOR AZUL",
+                "idHojaVida": 170227,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

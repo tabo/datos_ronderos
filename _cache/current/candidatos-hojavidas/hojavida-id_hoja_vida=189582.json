@@ -1,0 +1,167 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 189582.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42099549",
+        "nombres": "FAUSTINO",
+        "apellidoPaterno": "MOLLO",
+        "apellidoMaterno": "CHISE",
+        "sexo": "1",
+        "feNacimiento": "16/12/1980",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "070807",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "ESPINAR",
+        "naciDistrito": "SUYCKUTAMBO",
+        "ubigeoDomicilio": "070807",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "ESPINAR",
+        "domiDistrito": "SUYCKUTAMBO",
+        "domicilioDirecc": "COMUNIDAD CERRITAMBO",
+        "ubigeoPostula": "040202",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "CAYLLOMA",
+        "postulaDistrito": "ACHOMA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/189582.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2744.0,
+        "organizacionPolitica": "YO AREQUIPA",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 22:56:53",
+        "txGuidFormatoHojaVida": "be367022-2c39-4cb9-bf26-cec2dc7c90b8",
+        "idSolicitudLista": 30136.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 163772,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "IND",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ACHOMA",
+            "anioTrabajoDesde": "2000",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "040202",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "CAYLLOMA",
+            "trabajoDistrito": "ACHOMA",
+            "idHojaVida": 189582,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "AGRICULTOR GANADERO"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 143130,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 189582,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 140724,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 15000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 189582,
+                "idEstado": 1,
+                "totalIngresos": 15000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 177280,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CAYLLOMA-ACHOMA- MZ 76 LOTE 1    SECTOR HANANSAYA - CENTRO POBLADO ACHOMA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "55201602",
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 189582,
+                "idEstado": 1,
+                "flValor": "20000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 153513,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "98151V ",
+                "valor": 4300.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO",
+                "comentario": null,
+                "idHojaVida": 189582,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 153512,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "X11430 ",
+                "valor": 4000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": null,
+                "idHojaVida": 189582,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

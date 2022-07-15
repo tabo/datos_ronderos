@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 19941,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 4,
+        "txOrganizacionPolitica": "ACCION POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1692,
+        "juradoElectoral": "LEONCIO PRADO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/1da85a80-ebd3-410d-a81c-be1eb4d36436.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/3fc556b3-4a39-41b6-970b-8f0eeafea5f3.pdf",
+        "txCodExpedienteExt": "ERM.2022008218",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 129705,
+            "txPgProblema": "BAJO NIVEL EDUCATIVO Y BAJO ACCESO AL NIVEL SUPERIOR.",
+            "txPgObjetivo": "GESTIONAR EL MEJORAMIENTO DE LOS SERVICIOS DE EDUCACIÓN BÁSICA REGULAR DEL DISTRITO LUYANDO Y EL ACCESO AL SERVICIO DE EDUCACIÓN SUPERIOR.",
+            "txPgIndicador": "TASA DE ESCOLARIZACIÓN.\n-TASA DE MATRÍCULA.\n- TASA DE DOCENTES, MATERIALES, EQUIPO, RECURSOS, GESTIÓN ESCOLAR.",
+            "txPgMeta": "MEJORAMIENTO DE TODAS LAS INSTITUCIONES QUE PRESENTAN DEFICIENCIAS.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 129712,
+            "txPgProblema": "BAJA COBERTURA EN LOS SERVICIOS DE Y SALUD EN EL ÁMBITO\nDISTRITAL.",
+            "txPgObjetivo": "PROMOVER EL INCREMENTO DE COBERTURA DE LOS SERVICIOS DE SALUD.",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN CON SEGURO DE SALUD.",
+            "txPgMeta": "COBERTURA AL 95%  EN LOS SERVICIOS DE  SALUD.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 129720,
+            "txPgProblema": "DEFICIENTE Y LIMITADA COBERTURA DEL SERVICIO DE SANEAMIENTO BÁSICO.",
+            "txPgObjetivo": "AMPLIACIÓN DE ACCESOS DE LOS SERVICIOS DE SANEAMIENTO BÁSICO (AGUA POTABLE Y DESAGÜE) EN CENTROS POBLADOS, CASERÍOS  Y LAS ZONAS PERIFERIAS DEL DISTRITO  QUE NO HAN SIDO INTERVENIDOS, GARANTIZANDO  EL CONSUMO DE AGUA DE BUENA CALIDAD Y TRATAMIENTO DE AGUAS HERVIDAS.",
+            "txPgIndicador": "COBERTURA DE AGUA POTABLE Y DESAGÜE.\n\nPOBLACIÓN QUE VIVE EN VIVIENDAS CON SERVICIOS COMPLETO..",
+            "txPgMeta": "LOGRAR EL ACCESO A LOS SERVICIOS DE SANEAMIENTO BÁSICO AL 90%.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 129734,
+            "txPgProblema": "DEFICIENTE CALIDAD PRODUCTIVA DE LOS AGRICULTORES Y PERDIDA DE CULTIVOS",
+            "txPgObjetivo": "MEJORAR LAS CONDICIONES DE INFRAESTRUCTURA Y CAPACIDADES PRODUCTIVAS DE LA POBLACIÓN.",
+            "txPgIndicador": "% DE SUPERFICIE AGRÍCOLA CON RIEGO TECNIFICADO.",
+            "txPgMeta": "CONSTRUCCIÓN Y MEJORAMIENTO DE LA INFRAESTRUCTURA DEL SISTEMA DE RIEGO AGRÍCOLA.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 129740,
+            "txPgProblema": "FALTA DE APOYO A LA POBLACIÓN PARA CREAR MICROEMPRESAS.",
+            "txPgObjetivo": "PROMOVER LA CONFORMACIÓN DE EMPRESAS DE COMERCIALIZACIÓN Y PRODUCCIÓN Y SERVICIOS.",
+            "txPgIndicador": "PUESTO SEGÚN LA FACILIDAD DE HACER NEGOCIOS",
+            "txPgMeta": "LOGRAR LA PRODUCCIÓN Y COMERCIALIZACIÓN EN 30%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 129746,
+            "txPgProblema": "DEFICIENTE ESTADO DE VÍAS DE CARRETERAS, CAMINOS VECINALES Y TROCHAS CARROZABLES EN ZONAS RURALES QUE AÚN NO HAN SIDO INTERVENIDAS.",
+            "txPgObjetivo": "MEJORAMIENTO Y MANTENIMIENTO DE VÍAS DE TRANSPORTE EN LOS DIFERENTES TRAMOS DE PUEBLOS, CENTROS POBLADOS Y CAPITAL DEL DISTRITO DE LUYANDO.\n\n-\tCONSTRUCCIÓN  DE LAS VÍAS EN LUGARES  QUE NO EXISTEN.",
+            "txPgIndicador": "PORCENTAJE DE CONSTRUCCIÓN , MEJORAMIENTO Y MANTENIMIENTO LAS VÍAS DE TRANSPORTE.",
+            "txPgMeta": "INCREMENTAR EL ACCESO DE LOS SERVICIOS DE TRANSPORTE MEDIANTE LA CREACIÓN DE CARRETERAS,  CAMINOS VECINALES, TROCHAS CARROZABLES Y MEJORAMIENTO DE CAMINOS HERRADURA EN UN 85%.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 129750,
+            "txPgProblema": "CONTAMINACIÓN EN LA CUENCAS, RÍOS Y CAMPOS AGRÍCOLAS.",
+            "txPgObjetivo": "CONSTRUIR RELLENOS SANITARIOS Y PLANTAS DE TRATAMIENTO DE AGUAS SERVIDAS.",
+            "txPgIndicador": "Nª DE CUENCAS HIDROGRÁFICAS DESCONTAMINADAS.",
+            "txPgMeta": "LOGRAR DISMINUIR LA CONTAMINACIÓN DE LOS RECURSOS HÍDRICOS EN UN 10%.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 129756,
+            "txPgProblema": "DEFORESTACIÓN Y TALA DE ARBOLES",
+            "txPgObjetivo": "FORESTACIÓN CON PLANTAS COMO EL PINO, CIPRÉS, ALISO ENTRE OTROS EN LOS LUGARES ESPECÍFICOS DE LOS CENTROS POBLADOS PARA EL CUIDADO DEL MEDIO AMBIENTE.",
+            "txPgIndicador": "Nº DE HA. FORESTADAS Y REFORESTADAS EN CABECERAS DE LAS CUENCAS.",
+            "txPgMeta": "LOGRAR LA REFORESTACIÓN DE REFORESTACIÓN EL 40%.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 129768,
+            "txPgProblema": "RIESGOS EN LAS ZONAS VULNERABLES DEL RIO HUALLAGA.",
+            "txPgObjetivo": "DEFENSAS RIVEREÑAS EN LAS ZONAS CÍTRICAS AL RÍO HUALLAGA.",
+            "txPgIndicador": "Nº DE CUENCAS CON DEFENSAS RIVEREÑAS.",
+            "txPgMeta": "CONSTRUCCIÓN DE DEFENSAS RIVEREÑAS \nEN TODO EL DISTRITO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 129776,
+            "txPgProblema": "INSTRUMENTOS DE GESTIÓN DESACTUALIZADOS",
+            "txPgObjetivo": "ACTUALIZAR LOS INSTRUMENTOS INTERNOS Y EXTERNOS CON UNA ORIENTACIÓN ÁGIL Y ENTENDIBLE PARA LA POBLACIÓN.",
+            "txPgIndicador": "Nº  DE DOCUMENTOS NORMATIVOS Y ADMINISTRATIVOS ACTUALIZADOS",
+            "txPgMeta": "PROCESOS Y PROCEDIMIENTOS ADMINISTRATIVOS SIMPLIFICADOS EN LA MUNICIPALIDAD DISTRITAL QUE FACILITE TRÁMITES A FAVOR DE LOS ADMINISTRADOS.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 129779,
+            "txPgProblema": "FALTA DE REORDENAMIENTO DE CATASTRO URBANO RURAL.",
+            "txPgObjetivo": "EJECUTAR ESTUDIOS DE REORDENAMIENTO TERRITORIAL PARA EVITAR EL DESORDEN DE CRECIMIENTO POBLACIONAL CON VIVIENDAS MAL UBICADAS.",
+            "txPgIndicador": "CALIFICACIÓN DEL SUELO ( PARA USOS  RESIDENCIALES, ACTIVIDADES ECONÓMICAS Y URBANÍSTICO.)",
+            "txPgMeta": "MEJORAR LAS INTERRELACIONES ENTRE LAS AUTORIDADES Y COMUNIDADES DEL DISTRITO AL 80%.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 129798,
+            "txPgProblema": "TRÁMITES ADMINISTRATIVOS BUROCRÁTICOS.",
+            "txPgObjetivo": "SIMPLIFICAR LOS TRÁMITES ADMINISTRATIVOS EXISTENTES",
+            "txPgIndicador": "OPTIMIZACIÓN DE TRÁMITES",
+            "txPgMeta": "REDUCIR LOS REQUISITOS EN LOS TRÁMITES FRECUENTES, PARA ACORTAR PLAZO Y COSTO QUE BENEFICIE A LA POBLACIÓN",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

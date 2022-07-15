@@ -1,0 +1,155 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 143791.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40769852",
+        "nombres": "WENCESLAO",
+        "apellidoPaterno": "MAQUERA",
+        "apellidoMaterno": "ARO",
+        "sexo": "1",
+        "feNacimiento": "21/05/1980",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "201202",
+        "naciDepartamento": "PUNO",
+        "naciProvincia": "EL COLLAO",
+        "naciDistrito": "PILCUYO",
+        "ubigeoDomicilio": "220112",
+        "domiDepartamento": "TACNA",
+        "domiProvincia": "TACNA",
+        "domiDistrito": "CIUDAD NUEVA",
+        "domicilioDirecc": "ASOC. SIMON BOLIVAR MZ. 152 LT. 04",
+        "ubigeoPostula": "220112",
+        "postulaDepartamento": "TACNA",
+        "postulaProvincia": "TACNA",
+        "postulaDistrito": "CIUDAD NUEVA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/143791.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2857.0,
+        "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 21:21:46",
+        "txGuidFormatoHojaVida": "274f280a-4c2e-4fb3-bbc5-fecc38b82950",
+        "idSolicitudLista": 23939.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 219576,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "SOLDADOR INDEPENDIENTE",
+            "ocupacionProfesion": "SOLDADOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ASOC. SIMON BOLIVAR MZ.152 LT.04",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "220112",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "TACNA",
+            "trabajoProvincia": "TACNA",
+            "trabajoDistrito": "CIUDAD NUEVA",
+            "idHojaVida": 143791,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 165526,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 143791,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 141733,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 46,
+                "orgPolCargoPartidario": "PARTIDO POLÍTICO PERU POSIBLE",
+                "cargoPartidario": "CONDICION DE AFILIADO",
+                "anioCargoPartiDesde": "2005",
+                "anioCargoPartiHasta": "2017",
+                "idHojaVida": 143791,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 146951,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 46,
+            "orgPolRenunciaOp": "PERU POSIBLE",
+            "anioRenunciaOp": "2017",
+            "idHojaVida": 143791,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 157049,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 24000.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 143791,
+                "idEstado": 1,
+                "totalIngresos": 24000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 167962,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "B4W865 ",
+                "valor": 8000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR BLANCO",
+                "comentario": null,
+                "idHojaVida": 143791,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,130 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 206142.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "05865409",
+        "nombres": "VICTOR ROMAN",
+        "apellidoPaterno": "ESTRADA",
+        "apellidoMaterno": "VILLACREZ",
+        "sexo": "1",
+        "feNacimiento": "22/07/1970",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "150405",
+        "naciDepartamento": "LORETO",
+        "naciProvincia": "REQUENA",
+        "naciDistrito": "MAQUIA",
+        "ubigeoDomicilio": "150405",
+        "domiDepartamento": "LORETO",
+        "domiProvincia": "REQUENA",
+        "domiDistrito": "MAQUIA",
+        "domicilioDirecc": "CASERIO RESTAURACION",
+        "ubigeoPostula": "150405",
+        "postulaDepartamento": "LORETO",
+        "postulaProvincia": "REQUENA",
+        "postulaDistrito": "MAQUIA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/206142.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 17:22:48",
+        "txGuidFormatoHojaVida": "1aecb17b-9bfe-4aa5-ad69-a537bc29d4ce",
+        "idSolicitudLista": 32290.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 233587,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "TRABAJADOR INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTURA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "COMUNIDAD NATIVA DE RESTAURACION",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "150405",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LORETO",
+            "trabajoProvincia": "REQUENA",
+            "trabajoDistrito": "MAQUIA",
+            "idHojaVida": 206142,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 206130,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 206142,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 143834,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 32,
+                "orgPolCargoElec": "PARTIDO APRISTA PERUANO",
+                "idCargoEleccion": 10,
+                "cargoEleccion": "ALCALDE DISTRITAL",
+                "anioCargoElecDesde": "2003",
+                "anioCargoElecHasta": "2006",
+                "idHojaVida": 206142,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 135450,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "00048-2008-01903-SP-PE-1",
+            "feSentenciaPenal": "02/11/2010",
+            "txOrganoJudiPenal": "SEGUNDA SALA PENAL DE IQUITOS",
+            "txDelitoPenal": "PECULADO",
+            "txFalloPenal": "PRIVATIVA DE LIBERTAD DE 10 AÑOS",
+            "idParamModalidad": 10,
+            "txModalidad": "EFECTIVA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 206142,
+            "txComentario": "DICHA PENA IMPUESTA FUE CONCLUIDA EL 15 DE FEBRERO DEL 2020"
+        }
+    ],
+    "sentenciaObliga": []
+}

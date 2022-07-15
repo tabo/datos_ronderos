@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 29174,
+        "idTipoEleccion": 4,
+        "txTipoEleccion": "REGIONAL",
+        "idOrganizacionPolitica": 303,
+        "txOrganizacionPolitica": "JUNIN SOSTENIBLE CON SU GENTE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/186a7453-dd59-4887-a83a-7d0dd892dfe1.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/a717a61d-ed6c-4db3-982d-e460226682e7.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 191886,
+            "txPgProblema": "1.LOC SIN RED AGUA DESAGÜE",
+            "txPgObjetivo": "MEJOR CONDICIÓN DE VIDA- BIENESTAR SOCIAL",
+            "txPgIndicador": "CANT. LOC. CON RED AHUA DESAGUE",
+            "txPgMeta": "26",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 191919,
+            "txPgProblema": "2. LOC. SIN PISTAS NI VEREDAS ADECUADAS",
+            "txPgObjetivo": "MEJOR CONDICIÓN DE VIDA- BIENESTAR SOCIAL",
+            "txPgIndicador": "CANT. LOC. CON PISTAS Y VEREDAS ADECUADAS",
+            "txPgMeta": "26",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 191956,
+            "txPgProblema": "3.DEFICIENTE SERV. HOSPITALARIOS Y EDUCATIVOS",
+            "txPgObjetivo": "MEJOR CONDICIÓN DE VIDA- BIENESTAR SOCIAL",
+            "txPgIndicador": "CANTIDAD NUEVOS HOSPITALES Y CENTROS EDUCATIVOS",
+            "txPgMeta": "26",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 192056,
+            "txPgProblema": "1.\tLOC. EN POBREZA",
+            "txPgObjetivo": "REDUCIR POBREZA",
+            "txPgIndicador": "CANT. NUEVOS PROYECTOS PRODUCTIVOS SOSTENIBLES",
+            "txPgMeta": "36",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 192106,
+            "txPgProblema": "2.\tPROYECTOS PRODUCTIVOS INCONCLUSOS",
+            "txPgObjetivo": "REDUCIR DESEMPLEO",
+            "txPgIndicador": "CANT. PROYECTOS TERMINADOS",
+            "txPgMeta": "36",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 192170,
+            "txPgProblema": "3.\tFALTA PROCESOS CON NUEVAS TECNOLOGÍAS",
+            "txPgObjetivo": "REDUCIR DESEMPLEO",
+            "txPgIndicador": "CANT. NUEVOS PROYECTOS CON NUEVAS TECNOLOGÍAS",
+            "txPgMeta": "36",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 192393,
+            "txPgProblema": "1.FALTA PROYECTOS 3D- DESCENTRALIZACIÓN-DIGITALIZACIÓN-DESCARBONIZACIÓN",
+            "txPgObjetivo": "REDUCIR CONTAMINACIÓN AMBIENTAL Y PROTEGER EL PLANETA Y BIODIVERSIDAD",
+            "txPgIndicador": "CANT. NUEVOS PROYECTOS 3D",
+            "txPgMeta": "45",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 192460,
+            "txPgProblema": "2.FALTA USO DE RECURSOS NATURALES ENERGÉTICOS",
+            "txPgObjetivo": "REDUCIR CONTAMINACIÓN AMBIENTAL Y PROTEGER EL PLANETA Y BIODIVERSIDAD",
+            "txPgIndicador": "CANT. DE NUEVOS PROYECTOS CON RECURSOS NATURALES ENERGÉTICOS, A GRAN MEDIA Y BAJA ESCALA",
+            "txPgMeta": "45",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 192511,
+            "txPgProblema": "3. NOTORIA Y SIGNIFICATIVA DEFORESTACIÓN",
+            "txPgObjetivo": "REDUCIR CONTAMINACIÓN AMBIENTAL Y PROTEGER EL PLANETA Y BIODIVERSIDAD",
+            "txPgIndicador": "CANT. NUEVOS PROYECTOS DE REFORESTACIÓN Y ARBORIZACIÓN",
+            "txPgMeta": "45",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 192572,
+            "txPgProblema": "1.NOTORIO Y SIGNIFICATIVO ALTO NIVEL DE CORRUPCIÓN",
+            "txPgObjetivo": "FORTALECER INSTITUCIONES PARA CONTINUIDAD DE DESARROLLO",
+            "txPgIndicador": "CANT. DE NUEVOS PROCESOS CONTROLADOS",
+            "txPgMeta": "90",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 192615,
+            "txPgProblema": "2. DÉBIL CONEXIÓN DIGITAL OPORTUNA, PRECISA Y EFECTIVA ENTRE PODER JUDICIAL, POLICIAL Y CONTRALORÍA",
+            "txPgObjetivo": "FORTALECER INSTITUCIONES PARA CONTINUIDAD DE DESARROLLO",
+            "txPgIndicador": "CANT. DE NUEVAS CONEXIONES DIGITALES ROBUSTAS EFICIENTES Y EFECTIVAS INTERINSTITUCIONALES",
+            "txPgMeta": "90",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

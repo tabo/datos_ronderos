@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 234011.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "22877069",
+        "nombres": "FRANCISCO",
+        "apellidoPaterno": "CAQUI",
+        "apellidoMaterno": "GOMEZ",
+        "sexo": "1",
+        "feNacimiento": "04/10/1959",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "090409",
+        "naciDepartamento": "HUANUCO",
+        "naciProvincia": "HUAMALIES",
+        "naciDistrito": "PUÑOS",
+        "ubigeoDomicilio": "090409",
+        "domiDepartamento": "HUANUCO",
+        "domiProvincia": "HUAMALIES",
+        "domiDistrito": "PUÑOS",
+        "domicilioDirecc": "CPM.BELLABAMBA",
+        "ubigeoPostula": "090409",
+        "postulaDepartamento": "HUANUCO",
+        "postulaProvincia": "HUAMALIES",
+        "postulaDistrito": "PUÑOS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/234011.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2712.0,
+        "organizacionPolitica": "TODOS POR EL GRAN CAMBIO",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 18:24:14",
+        "txGuidFormatoHojaVida": "49dd247d-998f-40c4-b239-54d46f45560f",
+        "idSolicitudLista": 35603.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 211037,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 234011,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 144098,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": -1,
+                "orgPolCargoElec": "SIN ORGANIZACION POLITICA",
+                "idCargoEleccion": 17,
+                "cargoEleccion": "ALCADE(SA) DE CENTRO POBLADO",
+                "anioCargoElecDesde": "2007",
+                "anioCargoElecHasta": "2008",
+                "idHojaVida": 234011,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "ALCALDE DEL CENTRO POBLADO DE BELLABAMBA - PUÑOS - HUAMALIES - HUANUCO"
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 234889,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 2,
+                "tipoBienInmueble": "TERRENO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "LIRIOPATAC - CENTRO POBLADO DE BELLABAMBA - PUÑOS - HUAMALIES - HUANUCO",
+                "comentario": "TERRENOS DE CULTIVO AGRICOLA",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 234011,
+                "idEstado": 1,
+                "flValor": "6000"
+            },
+            {
+                "idHvBienInmueble": 234846,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "VIVIENDA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "BARRIO SANTO DOMINGO - CENTRO POBLADO DE BELLABAMBA - PUÑOS - HUAMALIES - HUANUCO",
+                "comentario": "CASA DE MATERIAL RUSTICO CON 2 NIVELES",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 234011,
+                "idEstado": 1,
+                "flValor": "20000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 194367,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "6206EW ",
+                "valor": 3500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL  2019",
+                "comentario": "MARCA RONCO PANTRO 150R COLOR ROJO NEGRO",
+                "idHojaVida": 234011,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

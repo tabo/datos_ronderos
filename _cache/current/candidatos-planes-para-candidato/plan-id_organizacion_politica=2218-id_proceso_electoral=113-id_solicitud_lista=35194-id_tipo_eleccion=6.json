@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 28520,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/5dcc65c1-06f2-4b20-8ddf-153419cf516d.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/1e5dd433-266a-4547-8d9c-fd4cc954b129.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 225316,
+            "txPgProblema": "EDUCACION",
+            "txPgObjetivo": "UGEL CHINCHEROS APAFA",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "LIBRE ANALFABETISMO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 225320,
+            "txPgProblema": "SALUD",
+            "txPgObjetivo": "DISA Y CCSS",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "REDUCIR ANEMIA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 225333,
+            "txPgProblema": "SANEAMIENTO BASICO",
+            "txPgObjetivo": "IMPLEMENTAR SANEAMIENTO INTEGRAL",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "SANEAMIENTO AL 100% EN EL DISTRITO DE ANCO HUALLO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 225345,
+            "txPgProblema": "DESSARROLLO ECONOMICO.",
+            "txPgObjetivo": "IMPLEMENTAR LOS PROGRAMAS",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "CONTAR CON LABORATORIO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 225351,
+            "txPgProblema": "AGROINDUSTRIA",
+            "txPgObjetivo": "CADENAS PRODUCTIVAS",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "PROMOVER Y ORGANIZAR LA AGROINDUSTRIA",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 225362,
+            "txPgProblema": "MINERIA",
+            "txPgObjetivo": "FORTALECER SOBRE IMPACTOS AMBIENTALES",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "MITIGACIÓN DE LA CONTAMINACION",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 225374,
+            "txPgProblema": "TRNSPORTE Y COMUNBICACION",
+            "txPgObjetivo": "MINTRA, VIP Y TRANSPORTES",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "REORDENAMIENTO TERRITORIAL",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 225382,
+            "txPgProblema": "ORDENAZA  TERRITORIAL",
+            "txPgObjetivo": "PLANIFICAR, GESTIONAR LA ZONIFICACION",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "PLAN ORDENAMIENTO TERRITORIAL",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 225389,
+            "txPgProblema": "PROTECCION  AMBIENTAL",
+            "txPgObjetivo": "FORTALECER CULTURA AMBIENTAL",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "REDUCCIÓN DE LA CONTAMINACION",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 225413,
+            "txPgProblema": "SEGURIDAD CIUDADANA",
+            "txPgObjetivo": "PARTICIPACIÓN MP, PJ Y PNP",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "FORTALECIMIENTO DE LA SEGURIDAD.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 225427,
+            "txPgProblema": "TRANS. GESTION",
+            "txPgObjetivo": "IMPLEMENTACIÓN Y TRANSPARENCIA",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "RENDICIÓN CUENTA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 225437,
+            "txPgProblema": "LUCHA CONTRA LA CORRUPCION",
+            "txPgObjetivo": "COMUNICACIÓN CONTRALORÍA Y MP",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "FORTALECER OCI MP",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

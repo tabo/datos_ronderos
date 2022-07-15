@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 27482,
+        "idTipoEleccion": 5,
+        "txTipoEleccion": "MUNICIPAL PROVINCIAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/bc1e7d14-63fb-408c-9636-72f102a0c3e1.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/a4b0a1ae-2ffc-4929-b415-4da4604f9821.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 165544,
+            "txPgProblema": "DESNUTRICIÓN INFANTIL",
+            "txPgObjetivo": "PROMOCIÓN DE ADECUADAS PRÁCTICAS DE SALUD, NUTRICIÓN Y SEGURIDAD ALIMENTARIA",
+            "txPgIndicador": "PORCENTAJE DESNUTRICIÓN CRÓNICA INFANTIL EN NIÑAS Y NIÑOS MENORES DE 5 AÑOS",
+            "txPgMeta": "-5% (FUENTE SIEN)",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 165569,
+            "txPgProblema": "ANEMIA",
+            "txPgObjetivo": "PROMOCIÓN DE ADECUADAS PRÁCTICAS DE SALUD, NUTRICIÓN Y SEGURIDAD ALIMENTARIA",
+            "txPgIndicador": "PORCENTAJE DE ANEMIA EN NIÑAS Y NIÑOS DE 6 A 35 MESES.",
+            "txPgMeta": "-10 % (FUENTE SIEN)",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 165593,
+            "txPgProblema": "INSEGURIDAD CIUDADANA",
+            "txPgObjetivo": "REDUCIR LOS ÍNDICES DE INSEGURIDAD CIUDADANA EN LA PROVINCIA",
+            "txPgIndicador": "PORCENTAJE DE REDUCCIÓN DE LOS ÍNDICES DE INSEGURIDAD CIUDADANA",
+            "txPgMeta": "REDUCIR EN 20 % LA INCIDENCIA DE DELITOS AL FINALIZAR LA GESTIÓN (FUENTE PNP)",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 165636,
+            "txPgProblema": "INADECUADAS PRÁCTICAS DE MANEJO DEL CULTIVO LOCAL, (PRODUCCIÓN, COSECHA Y POSTCOSECHA) QUE AFECTAN LA CALIDAD",
+            "txPgObjetivo": "DESARROLLO ECONÓMICO PRODUCTIVO: AGRICULTURA, GANADERÍA.",
+            "txPgIndicador": "PORCENTAJE DE FAMILIAS QUE PRODUCEN ALIMENTOS DE ORIGEN EN LA AGRICULTURA FAMILIAR",
+            "txPgMeta": "AL CULMINAR LA GESTIÓN UN 10% MÁS DE POBLACIÓN INCREMENTAN SU PRODUCCIÓN",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 165681,
+            "txPgProblema": "ESCASA PARTICIPACIÓN DE LA GESTIÓN MUNICIPAL EN LA PROMOCIÓN DE EMPRENDEDORES",
+            "txPgObjetivo": "PROMOVER LA COMPETITIVIDAD ECONÓMICA EN LA PROVINCIA",
+            "txPgIndicador": "ASISTENCIA Y ACOMPAÑAMIENTO TÉCNICO DE NUEVOS EMPRENDEDORES EN LA PROVINCIA",
+            "txPgMeta": "NÚMERO DE NUEVOS EMPRENDEDORES QUE INICIAN ACTIVIDADES ECONÓMICAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 165711,
+            "txPgProblema": "DÉBIL ACCESO A INFRAESTRUCTURA Y TECNOLOGÍA DE RIEGO QUE OPTIMIZAN EL USO DEL AGUA",
+            "txPgObjetivo": "EFICIENTE USO DEL AGUA PARA MEJORAR DE PRODUCTIVIDAD AGRÍCOLA",
+            "txPgIndicador": "PORCENTAJE DE PRODUCTORES ACCEDEN A TECNOLOGÍAS MODERNAS DE RIEGO (POR GOTEO Y ASPERSIÓN)",
+            "txPgMeta": "AL CULMINAR LA GESTIÓN UN 20% MÁS DE AGRICULTORES ACCEDEN A TECNOLOGÍAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 165735,
+            "txPgProblema": "DEFICIENTE MANTENIMIENTO DE ÁREAS VERDES CON TECNOLOGÍAS EFICIENTES",
+            "txPgObjetivo": "PROMOCIÓN DEL USO DE SISTEMAS DE RIEGO TECNIFICADO PARA EL MANTENIMIENTO DE LAS ÁREAS VERDES PÚBLICAS.",
+            "txPgIndicador": "PORCENTAJE DE SISTEMAS RIEGO TECNIFICADO IMPLEMENTADOS",
+            "txPgMeta": "+ 50 %",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 165753,
+            "txPgProblema": "AUSENCIA DE GESTIÓN MUNICIPAL EN LA PROMOCIÓN DE UNA CULTURA AMBIENTAL",
+            "txPgObjetivo": "PROGRAMA DE FORMACIÓN DE EDUCACIÓN AMBIENTAL DIRIGIDO A ESCOLARES, UNIVERSITARIOS, SERVIDORES PÚBLICOS Y POBLACIÓN",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN OBJETIVO QUE PARTICIPAN DEL PROGRAMA",
+            "txPgMeta": "75% DE PARTICIPANTES Y ACTIVOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 165770,
+            "txPgProblema": "DEFICIENTE GESTIÓN MUNICIPAL DE RESIDUOS SOLIDOS",
+            "txPgObjetivo": "GESTIÓN SOSTENIBLE Y PARTICIPATIVA DE TERRITORIOS",
+            "txPgIndicador": "PLAN INTEGRAL DE GESTIÓN AMBIENTAL DE RESIDUOS SÓLIDOS (PIGARS)",
+            "txPgMeta": "01 PIGARS IMPLEMENTADO Y OPERATIVO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 165790,
+            "txPgProblema": "DÉBIL CAPACIDAD DE LOS SERVIDORES Y FUNCIONARIOS EN LA GESTIÓN MUNICIPAL EFICIENTE.",
+            "txPgObjetivo": "FORTALECIMIENTO DE CAPACIDADES PARA LA MEJOR GESTIÓN MUNICIPAL.",
+            "txPgIndicador": "PORCENTAJE DE TRABAJADORES CAPACITADOS.",
+            "txPgMeta": "90% TRABAJADORES CAPACITADOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 165912,
+            "txPgProblema": "DÉBIL O NULA PARTICIPACIÓN EN LA GESTIÓN MUNICIPAL DE PARTE DEL VECINO YUNGAÍNO",
+            "txPgObjetivo": "FORTALECIMIENTO DE LA INSTITUCIONALIDAD Y DESARROLLO",
+            "txPgIndicador": "ESPACIOS DE PARTICIPACIÓN IMPLEMENTADOS PARA QUE LA POBLACIÓN SE INVOLUCRE EN LA GESTIÓN MUNICIPAL",
+            "txPgMeta": "75% DE PARTICIPACIÓN VECINAL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 165986,
+            "txPgProblema": "INSTRUMENTOS Y HERRAMIENTAS DE GESTIÓN MUNICIPAL DESACTUALIZADOS",
+            "txPgObjetivo": "FORTALECIMIENTO DE LOS PROCESOS DE GESTIÓN",
+            "txPgIndicador": "NÚMERO DE INSTRUMENTOS Y HERRAMIENTAS ACTUALIZADAS",
+            "txPgMeta": "INSTRUMENTOS Y HERRAMIENTAS ACTUALIZADOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

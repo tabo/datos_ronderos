@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 192784.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "03234269",
+        "nombres": "IRIS",
+        "apellidoPaterno": "SUAREZ",
+        "apellidoMaterno": "MARTINEZ",
+        "sexo": "2",
+        "feNacimiento": "07/06/1974",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "190301",
+        "naciDepartamento": "PIURA",
+        "naciProvincia": "HUANCABAMBA",
+        "naciDistrito": "HUANCABAMBA",
+        "ubigeoDomicilio": "190103",
+        "domiDepartamento": "PIURA",
+        "domiProvincia": "PIURA",
+        "domiDistrito": "CASTILLA",
+        "domicilioDirecc": "ASENT.H. CIUDAD DEL NIÑO MZ. N3 LT. 11",
+        "ubigeoPostula": "190100",
+        "postulaDepartamento": "PIURA",
+        "postulaProvincia": "PIURA",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/192784.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2869.0,
+        "organizacionPolitica": "PARTIDO PATRIOTICO DEL PERU",
+        "numeroCandidato": 14.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 21:26:57",
+        "txGuidFormatoHojaVida": "6f5f7618-3458-4b51-b766-6573a6b556c2",
+        "idSolicitudLista": 30566.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 257422,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "COLEGIO 1287 - PARIGUANA FRIAS",
+            "ocupacionProfesion": "DOCENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "FRIAS - AYABACA",
+            "anioTrabajoDesde": "2018",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "190101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PIURA",
+            "trabajoProvincia": "PIURA",
+            "trabajoDistrito": "PIURA",
+            "idHojaVida": 192784,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 230266,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 192784,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 190986,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL DE PIURA",
+                "carreraUni": "LICENCIADA EN EDUCACION, ESPECIALIDAD: ESPECIALIDAD: EDUCACION INICIAL",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2009",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 205880,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 30000.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 192784,
+                "idEstado": 1,
+                "totalIngresos": 30000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 250221,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "ZONA: ZONA REGISTRAL I - SEDE PIURA; OFICINA: PIURA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "55159580",
+                "fichaTomoSunarp": null,
+                "autovaluo": 300.0,
+                "idHojaVida": 192784,
+                "idEstado": 1,
+                "flValor": "40000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

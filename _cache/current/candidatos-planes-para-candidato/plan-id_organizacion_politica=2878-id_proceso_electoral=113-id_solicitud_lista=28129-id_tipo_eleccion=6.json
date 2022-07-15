@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 21455,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2878,
+        "txOrganizacionPolitica": "VICTORIA AMAZONENSE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/11a4a4ea-7cc8-43bb-a05d-1731d563228e.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/6519e574-f5ea-461f-af7e-6a2e5fb7ee1b.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 167453,
+            "txPgProblema": "DEFICIENCIA DE INFRAESTRUCTURA EDUCATIVA Y FALTA DE EQUIPAMIENTO.",
+            "txPgObjetivo": "CONTRIBUIR CON LA IMPLEMENTACIÓN DE LA INFRAESTRUCTURA Y EQUIPAMIENTO TECNOLÓGICO EN INSTITUCIONES EDUCATIVAS.",
+            "txPgIndicador": "% DE INFRAESTRUCTURA Y EQUIPAMIENTOS EDUCATIVOS MEJORADOS.",
+            "txPgMeta": "CERRAR LAS BRECHAS EN UN 90%.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 167461,
+            "txPgProblema": "ALTO PORCENTAJE DE ESTUDIANTES QUE NO CONTINÚAN CON ESTUDIOS TÉCNICOS O UNIVERSITARIOS.",
+            "txPgObjetivo": "DISMINUIR EL ÍNDICE DE ESTUDIANTES QUE NO CONTINÚAN ESTUDIOS SUPERIORES.",
+            "txPgIndicador": "% DE ESTUDIANTES QUE ACCEDAN A ESTUDIOS SUPERIORES.",
+            "txPgMeta": "INCREMENTAR EN UN 20% LA CONTINUIDAD DE ESTUDIOS SUPERIORES.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 167471,
+            "txPgProblema": "FALTA DE INFRAESTRUCTURA Y EQUIPAMIENTO PARA BRINDAR UN BUEN SERVICIO A LA POBLACIÓN.",
+            "txPgObjetivo": "MEJORAR LA CALIDAD DEL SERVICIO DE SALUD, GARANTIZANDO INFRAESTRUCTURA Y EQUIPAMIENTO EN LOS CENTROS DE ATENCIÓN.",
+            "txPgIndicador": "% DE INFRAESTRUCTURA Y EQUIPAMIENTO MEJORADAS.",
+            "txPgMeta": "MEJORAMIENTO DE LOS PUESTOS DE SALUD E IMPLEMENTACIÓN DEL MISMO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 167480,
+            "txPgProblema": "FALTA DE PROYECTOS ENFOCADOS A FORTALECER LA CANTIDAD Y CALIDAD DE PRODUCCIÓN.",
+            "txPgObjetivo": "FORTALECER LAS CADENAS PRODUCTIVAS Y SU ARTICULACIÓN CON LOS MERCADOS.",
+            "txPgIndicador": "% DE PROYECTOS ELABORADOS Y EJECUTADOS",
+            "txPgMeta": "INCREMENTAR LA CANTIDAD Y CALIDAD DE PRODUCCIÓN EN UN 50%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 167493,
+            "txPgProblema": "FALTA DE ASESORAMIENTO PARA EL EMPRENDIMIENTO DE NUEVOS NEGOCIOS Y/O ACTIVIDADES.",
+            "txPgObjetivo": "FORTALECER Y GARANTIZAR UN ENTORNO QUE INCENTIVE LA INVERSIÓN, LA CREACIÓN DE EMPLEOS Y EL DESARROLLO ECONÓMICO.",
+            "txPgIndicador": "% DE NUEVOS EMPLEOS Y EMPRENDIMIENTOS LOGRADOS",
+            "txPgMeta": "INCREMENTAR EL ÍNDICE DE EMPLEO Y CONSOLIDAR LOS EMPRENDIMIENTOS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 167503,
+            "txPgProblema": "ESCASO APROVECHAMIENTO DE SUS POTENCIALIDADES TURÍSTICAS, DEBIDO QUE NO HAN SIDO REVALORADOS NI PROMOCIONADOS.",
+            "txPgObjetivo": "IMPULSAR EL DESARROLLO TURÍSTICO SOSTENIBLE EN NUESTRO DISTRITO.",
+            "txPgIndicador": "% INCREMENTO DE LAS VISITAS A LOS ATRACTIVOS TURÍSTICOS.",
+            "txPgMeta": "MEJORAR LOS ACCESOS VIALES A LOS LUGARES TURÍSTICOS Y ELABORAR UN MAPA TURÍSTICO DISTRITAL.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 167512,
+            "txPgProblema": "CRECIENTE DEFORESTACIÓN Y DEGRADACIÓN DE LOS BOSQUES, GENERANDO PÉRDIDA DE BIODIVERSIDAD Y DESEQUILIBRIO DEL ECOSISTEMA.",
+            "txPgObjetivo": "FORTALECER LA GESTIÓN INTEGRAL DEL CUIDADO AMBIENTAL DE NUESTRO DISTRITO.",
+            "txPgIndicador": "% MEJORA EN EL ÍNDICE DE EFECTIVIDAD DE LOS PROYECTOS.",
+            "txPgMeta": "FORESTACIÓN Y REFORESTACIÓN DE CABECERAS DE CUENCA.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 167521,
+            "txPgProblema": "DEFICIENCIA EN LA GESTIÓN DE LOS RESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "FORTALECER LA GESTIÓN INTEGRAL DEL CUIDADO AMBIENTAL DE NUESTRO DISTRITO.",
+            "txPgIndicador": "MEJORAMIENTO EN EL MANEJO DE LOS RESIDUOS SÓLIDOS POR PARTE DE LA CIUDADANÍA.",
+            "txPgMeta": "AMPLIACIÓN Y MEJORAMIENTO DEL SERVICIO DE RECOLECCIÓN, TRANSPORTE, VALORIZACIÓN Y DISPOSICIÓN FINAL DE RESIDUOS SÓLIDOS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 167525,
+            "txPgProblema": "DEFICIENCIA EN LA GESTIÓN DE LAS AGUAS RESIDUALES.",
+            "txPgObjetivo": "FORTALECER LA GESTIÓN INTEGRAL DEL CUIDADO AMBIENTAL DE NUESTRO DISTRITO.",
+            "txPgIndicador": "MEJORAMIENTO DE LAS INFRAESTRUCTURAS DE TRATAMIENTO DE AGUAS RESIDUALES",
+            "txPgMeta": "MANTENIMIENTO Y REPARACIÓN DE LAS INFRAESTRUCTURAS DE TRATAMIENTO DE AGUAS RESIDUALES (POZOS SÉPTICOS, LAGUNAS DE OXIDACIÓN).",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 167538,
+            "txPgProblema": "FALTA DE RENDICIÓN DE CUENTAS A LA CIUDADANÍA.",
+            "txPgObjetivo": "REALIZAR UNA GESTIÓN PÚBLICA MODERNA Y POR RESULTADOS QUE SEA TRANSPARENTE, PLANIFICADA, FORTALECIENDO EL ASPECTO ORGANIZACIONAL Y LA PARTICIPACIÓN CONCERTADA DE LA CIUDADANÍA.",
+            "txPgIndicador": "SE COMUNICA O PERMITE EL ACCESO A LA CIUDADANÍA, SOBRE INFORMACIÓN RELEVANTE DE LA GESTIÓN MUNICIPAL.",
+            "txPgMeta": "PROGRAMAR REUNIONES PERIÓDICAS CON LÍDERES DE SECTORES Y ORGANIZACIONES DE BASE Y REALIZAR UN CABILDO ABIERTO AL FINALIZAR EL AÑO.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 167552,
+            "txPgProblema": "ESCASA PARTICIPACIÓN DE LA CIUDADANÍA EN LA GESTIÓN MUNICIPAL.",
+            "txPgObjetivo": "REALIZAR UNA GESTIÓN PÚBLICA MODERNA Y POR RESULTADOS QUE SEA TRANSPARENTE, PLANIFICADA, FORTALECIENDO EL ASPECTO ORGANIZACIONAL Y LA PARTICIPACIÓN CONCERTADA DE LA CIUDADANÍA.",
+            "txPgIndicador": "MECANISMOS QUE SE APLICAN PARA PROMOVER LA PARTICIPACIÓN CIUDADANA.",
+            "txPgMeta": "PROMOVER LA PARTICIPACIÓN CIUDADANA EN LOS DIFERENTES ESPACIOS DE LA GESTIÓN.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 167563,
+            "txPgProblema": "DEFICIENTE ESTADO DE LAS HERRAMIENTAS TECNOLÓGICAS Y EQUIPOS INFORMÁTICOS.",
+            "txPgObjetivo": "REALIZAR UNA GESTIÓN PÚBLICA MODERNA Y POR RESULTADOS QUE SEA TRANSPARENTE, PLANIFICADA, FORTALECIENDO EL ASPECTO ORGANIZACIONAL Y LA PARTICIPACIÓN CONCERTADA DE LA CIUDADANÍA.",
+            "txPgIndicador": "MEJORAR LAS HERRAMIENTAS TECNOLÓGICAS Y RENOVACIÓN DE EQUIPOS INFORMÁTICOS.",
+            "txPgMeta": "IMPLEMENTACIÓN DE LAS OFICINAS CON HERRAMIENTAS TECNOLÓGICOS Y EQUIPOS MODERNOS.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

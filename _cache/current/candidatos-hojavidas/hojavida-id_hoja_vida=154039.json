@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 154039.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "29723073",
+        "nombres": "JOSE CARLOS",
+        "apellidoPaterno": "MAMANI",
+        "apellidoMaterno": "HANCO",
+        "sexo": "1",
+        "feNacimiento": "08/02/1977",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040102",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "AREQUIPA",
+        "naciDistrito": "CAYMA",
+        "ubigeoDomicilio": "040102",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "AREQUIPA",
+        "domiDistrito": "CAYMA",
+        "domicilioDirecc": "AV.AVIACION 107 FCO.BOLOGNESI",
+        "ubigeoPostula": "040102",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "AREQUIPA",
+        "postulaDistrito": "CAYMA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/154039.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2261.0,
+        "organizacionPolitica": "AREQUIPA - UNIDOS POR EL GRAN CAMBIO",
+        "numeroCandidato": 9.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 16:41:32",
+        "txGuidFormatoHojaVida": "6e2cd4b8-530d-42fe-9e52-50cad6289df2",
+        "idSolicitudLista": 25315.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 231701,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MELGAR",
+            "ocupacionProfesion": "PANADERO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. AVIACION 107, FRANCISCO BOLOGNESI, CAYMA",
+            "anioTrabajoDesde": "1995",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "040102",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "AREQUIPA",
+            "trabajoDistrito": "CAYMA",
+            "idHojaVida": 154039,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 204591,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 154039,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 152263,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "CESCA",
+                "carreraTecnico": "COMPUTACION INFORMATICA",
+                "concluidoEduTecnico": "2",
+                "idHojaVida": 154039,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "NO TERMINE"
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 186163,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 14400.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 154039,
+                "idEstado": 1,
+                "totalIngresos": 14400.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 231008,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "AREQUIPA-CERRO COLORADO- MZ J LOTE 18 - ASENTAMIENTO POBLACIONAL ASOCIACION PRO-VIVIENDA DE INTERES ",
+                "comentario": "ASOC. GUILLERMO MERCADO",
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "55061639",
+                "fichaTomoSunarp": null,
+                "autovaluo": 19600.0,
+                "idHojaVida": 154039,
+                "idEstado": 1,
+                "flValor": "45000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 191613,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "D8K257 ",
+                "valor": 10000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "SEDAN",
+                "comentario": null,
+                "idHojaVida": 154039,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

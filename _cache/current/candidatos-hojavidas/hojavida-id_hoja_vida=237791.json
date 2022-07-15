@@ -1,0 +1,150 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 237791.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "02550515",
+        "nombres": "FLORIAN",
+        "apellidoPaterno": "MAMANI",
+        "apellidoMaterno": "HUAYTA",
+        "sexo": "1",
+        "feNacimiento": "05/04/1974",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "200803",
+        "naciDepartamento": "PUNO",
+        "naciProvincia": "SANDIA",
+        "naciDistrito": "CUYOCUYO",
+        "ubigeoDomicilio": "200803",
+        "domiDepartamento": "PUNO",
+        "domiProvincia": "SANDIA",
+        "domiDistrito": "CUYOCUYO",
+        "domicilioDirecc": "COMUNID. HUANCASAYANI",
+        "ubigeoPostula": "200803",
+        "postulaDepartamento": "PUNO",
+        "postulaProvincia": "SANDIA",
+        "postulaDistrito": "CUYOCUYO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/237791.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 16:01:33",
+        "txGuidFormatoHojaVida": "9c2a9221-c3f9-4329-b890-8f0772d610c3",
+        "idSolicitudLista": 36060.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 243857,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "COMUNIDAD DE HUANCASAYANI",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "COMUNIDAD DE HUANCASAYANI",
+            "anioTrabajoDesde": "2012",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "200803",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PUNO",
+            "trabajoProvincia": "SANDIA",
+            "trabajoDistrito": "CUYOCUYO",
+            "idHojaVida": 237791,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 213642,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 237791,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 144481,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 47,
+                "orgPolCargoElec": "UNION POR EL PERU",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2007",
+                "anioCargoElecHasta": "2010",
+                "idHojaVida": 237791,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 194783,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 4800.0,
+                "idHojaVida": 237791,
+                "idEstado": 1,
+                "totalIngresos": 4800.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 239757,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "VIVIENDA RUSTICO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "COMUNIDAD HUANCASAYANI",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 12.0,
+                "idHojaVida": 237791,
+                "idEstado": 1,
+                "flValor": "10000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

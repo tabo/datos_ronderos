@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 16632,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2731,
+        "txOrganizacionPolitica": "PODEMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/e6934f2f-ad89-479f-a8cb-509e2f23bd23.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/286c85c3-e8df-4608-a7c8-0c2451a2e09d.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 184605,
+            "txPgProblema": "BAJO NIVEL EDUCATIVO DE LOS ALUMNOS DE LOS TRES NIVELES DE EDUCACIÓN. EN COMPRESIÓN LECTORA Y NIVEL SATISFACTORIO DE MATEMÁTICA",
+            "txPgObjetivo": "INCREMENTAR EL NIVEL DE APRENDIZAJE DE ESTUDIANTES EN LOS TRES NIVELES DE EDUCACIÓN",
+            "txPgIndicador": "PORCENTAJE DE ESTUDIANTES DE SEGUNDO GRADO DE SECUNDARIA CON NIVEL SATISFACTORIO EN COMPRENSIÓN LECTORA",
+            "txPgMeta": "COMPRENSIÓN LECTORA (15%)\n\nNIVEL SATISFACTORIO EN MATEMÁTICA (20%)",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 184613,
+            "txPgProblema": "INADECUADA INFRAESTRUCTURA Y ESCASA IMPLEMENTACIÓN EN EL SECTOR EWDUCATIVO",
+            "txPgObjetivo": "MEJORAR LA INFRAESTRUCTURA EDUCATIVA Y SU IMPLEMENTACIÓN",
+            "txPgIndicador": "PORCENTAJE DE INFRAESTRUCTURA MEJORADA E IMPLEMENTADA",
+            "txPgMeta": "90%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 184625,
+            "txPgProblema": "ALTA TASA DE DESNUTRICIÓN CRÓNICA INFANTIL EN NIÑOS MENORES DE 5 AÑOS",
+            "txPgObjetivo": "MEJORAR LAS CONDICIONES DE SALUD DE LA POBLACIÓN",
+            "txPgIndicador": "PORCENTAJE DE NIÑOS MENORES DE 5 AÑOS CON ANEMIA",
+            "txPgMeta": "REDUCIR AL 50%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 184650,
+            "txPgProblema": "DESARTICULACIÓN ENTRE LOS PRODUCTORES PARA FORMAR CADENA QUE ORIENTE AL PRODUCTO FINAL",
+            "txPgObjetivo": "FORTALECER LA PRODUCCIÓN AGROPECUARIA A TRAVÉS DE CADENAS PRODUCTIVAS",
+            "txPgIndicador": "PORCENTAJE DE PRODUCTORES  QUE MEJORAN SU PRODUCCIÓN",
+            "txPgMeta": "15% DE PRODUCTORES VENDEN PRODUCTOS CON VALOR AGREGADO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 184663,
+            "txPgProblema": "LIMITADA CAPACITACIÓN E INFORMALIDAD DE LAS EMPRESAS DE SERVICIOS E INDUSTRIAL",
+            "txPgObjetivo": "PROMOVER LA FORMALIZACIÓN Y CAPACITACIÓN A LAS EMPRESAS DE SERVICIOS Y INDUSTRIAL",
+            "txPgIndicador": "PORCENTAJE DE EMPRESARIOS CAPACITADOS Y COMPETITIVOS",
+            "txPgMeta": "45%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 184673,
+            "txPgProblema": "DÉBIL CONTROL DE USO DEL TERRITORIO E INADECUADO MANEJO DE LOS RECURSOS NATURALES",
+            "txPgObjetivo": "PROMOVER EL MANEJO Y APROVECHAMIENTO SOSTENIBLE DE LOS RECURSOS NATURALES DE MANERA  CONCERTADA CON LA POBLACIÓN Y EMPRESAS",
+            "txPgIndicador": "PORCENTAJE DE PASIVOS AMBIENTALES RECUPERADAS",
+            "txPgMeta": "30%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 184684,
+            "txPgProblema": "INADECUADO MANEJO DE RESIDUOS SÓLIDOS Y LÍQUIDOS EN EL DISTRITO",
+            "txPgObjetivo": "NORMAR Y REGLAMENTAR LA DISPOSICIÓN, TRATAMIENTO Y COMERCIALIZACIÓN DE LOS RESIDUOS SOLIDOS",
+            "txPgIndicador": "PORCENTAJE DE REDUCCIÓN DE GENERACIÓN DE RESIDUOS SOLIDOS",
+            "txPgMeta": "40%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 184690,
+            "txPgProblema": "DÉFICIT DE ÁREAS VERDES Y ESPACIOS DE RECREACIÓN",
+            "txPgObjetivo": "MEJORAR E IMPLEMENTAR LA MASIFICACIÓN DE ÁREAS VERDES Y DE RECREACIÓN",
+            "txPgIndicador": "PORCENTAJE DE ÁREAS VERDES Y ESPACIO DE RECREACIÓN",
+            "txPgMeta": "40%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 184698,
+            "txPgProblema": "JUNTAS VECINALES Y ASOCIACIONES CIVILES FRACCIONADAS DESVINCULADAS DE LA GESTIÓN DISTRITAL",
+            "txPgObjetivo": "FORTALECIMIENTO DE LA JUNTAS VECINALES EN BASE A UN PLAN DE GESTIÓN TERRITORIAL Y DE GOBERNABILIDAD",
+            "txPgIndicador": "PORCENTAJE DE JUNTAS VECINALES CAPACITADAS Y EN TRABAJO DE GOBERNABILIDAD",
+            "txPgMeta": "60%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 184711,
+            "txPgProblema": "VÍAS DE COMUNICACIÓN EN PÉSIMAS CONDICIONES",
+            "txPgObjetivo": "MEJORA DE LAS VÍAS DE COMUNICACIÓN EN EL ÁMBITO DISTRITAL",
+            "txPgIndicador": "KILÓMETROS DE VÍAS MEJORADAS",
+            "txPgMeta": "90%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 184718,
+            "txPgProblema": "POBLACIÓN QUE NO CUENTA CON SERVICIOS BÁSICOS DE AGUA Y DESAGÜE",
+            "txPgObjetivo": "MEJORAR LOS SERVICIOS BÁSICOS DE AGUA Y DESAGUE",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN QUE CUENTA CON SERVICIOS BÁSICOS",
+            "txPgMeta": "80%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

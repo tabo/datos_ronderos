@@ -1,0 +1,196 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 202729.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "28124703",
+        "nombres": "JOSE",
+        "apellidoPaterno": "SANTA CRUZ",
+        "apellidoMaterno": "TORRES",
+        "sexo": "1",
+        "feNacimiento": "05/12/1957",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "060904",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "SANTA CRUZ",
+        "naciDistrito": "LA ESPERANZA",
+        "ubigeoDomicilio": "060909",
+        "domiDepartamento": "CAJAMARCA",
+        "domiProvincia": "SANTA CRUZ",
+        "domiDistrito": "YAUYUCAN",
+        "domicilioDirecc": "CALLE JUAN VELASCO ALVARADO S/N",
+        "ubigeoPostula": "060909",
+        "postulaDepartamento": "CAJAMARCA",
+        "postulaProvincia": "SANTA CRUZ",
+        "postulaDistrito": "YAUYUCAN",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/202729.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 23:28:36",
+        "txGuidFormatoHojaVida": "6866fc49-edb3-4d66-8c3e-33ce5767b1b9",
+        "idSolicitudLista": 31858.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 192923,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "I.E.S \"JOSE GABRIEL CONDORCANQUI NOGUERA\" YAUYUCAN",
+            "ocupacionProfesion": "DOCENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. MAGISTERIAL S/N",
+            "anioTrabajoDesde": "1988",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "060909",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CAJAMARCA",
+            "trabajoProvincia": "SANTA CRUZ",
+            "trabajoDistrito": "YAUYUCAN",
+            "idHojaVida": 202729,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 169953,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 202729,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 138545,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "INSTITUTO DE EDUCACIÓN SUPERIOR PUBLICO SANTA CRUZ",
+                "carreraNoUni": "CIENCIAS NATURALES MECION BIOLOGIA Y QUIMICA",
+                "concluidoNoUni": "1",
+                "idHojaVida": 202729,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 140162,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 46,
+                "orgPolCargoElec": "PERU POSIBLE",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2011",
+                "anioCargoElecHasta": "2014",
+                "idHojaVida": 202729,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 148678,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 46,
+            "orgPolRenunciaOp": "PERU POSIBLE",
+            "anioRenunciaOp": "2017",
+            "idHojaVida": 202729,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 160368,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 32400.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 202729,
+                "idEstado": 1,
+                "totalIngresos": 32400.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 202248,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 2,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "SANTA CRUZ-YAUYUCAN- MZ 21 LOTE 1 - CENTRO POBLADO YAUYUCAN",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "11091273",
+                "fichaTomoSunarp": null,
+                "autovaluo": 50.0,
+                "idHojaVida": 202729,
+                "idEstado": 1,
+                "flValor": "200000"
+            },
+            {
+                "idHvBienInmueble": 202247,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "SECCION ESPECIAL DE PREDIOS RURALES",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "UBICACION RURAL SECTOR CHUMBIOCSHA/PREDIO LA QUINUA COD.PRED. 7_7359260_10218 AREA Ha. 1.7400 U.C. 10218 LA ESPERANZA - SANTA CRUZ - CAJAMARCA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "02023472",
+                "fichaTomoSunarp": null,
+                "autovaluo": 30.0,
+                "idHojaVida": 202729,
+                "idEstado": 1,
+                "flValor": "100000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

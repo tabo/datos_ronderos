@@ -1,0 +1,162 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 161510.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "22504040",
+        "nombres": "JUAN CARLOS",
+        "apellidoPaterno": "RIVERA",
+        "apellidoMaterno": "VALDEZ",
+        "sexo": "1",
+        "feNacimiento": "22/04/1970",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "090101",
+        "naciDepartamento": "HUANUCO",
+        "naciProvincia": "HUANUCO",
+        "naciDistrito": "HUANUCO",
+        "ubigeoDomicilio": "090110",
+        "domiDepartamento": "HUANUCO",
+        "domiProvincia": "HUANUCO",
+        "domiDistrito": "AMARILIS",
+        "domicilioDirecc": "JR. MACCHU PICCHU 409",
+        "ubigeoPostula": "090110",
+        "postulaDepartamento": "HUANUCO",
+        "postulaProvincia": "HUANUCO",
+        "postulaDistrito": "AMARILIS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/161510.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2733.0,
+        "organizacionPolitica": "MOVIMIENTO POLITICO CAMBIEMOS X HCO",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 19:04:51",
+        "txGuidFormatoHojaVida": "d1d8af53-6ff0-46b1-b406-c5e4fce97df2",
+        "idSolicitudLista": 26355.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 188495,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "VIVIENDAS",
+            "ocupacionProfesion": "CONSTRUCTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR MACHU PICHU N 409",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "090110",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "HUANUCO",
+            "trabajoProvincia": "HUANUCO",
+            "trabajoDistrito": "AMARILIS",
+            "idHojaVida": 161510,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 165964,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 161510,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 158115,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "ULADESH",
+                "carreraUni": "BACHILLER",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2022",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 157356,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 48000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 161510,
+                "idEstado": 1,
+                "totalIngresos": 48000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 168234,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "6198UA ",
+                "valor": 7500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": null,
+                "idHojaVida": 161510,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 168233,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "W40011 ",
+                "valor": 2000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": null,
+                "idHojaVida": 161510,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,128 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 152060.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "00112230",
+        "nombres": "ELISEO",
+        "apellidoPaterno": "SILVA",
+        "apellidoMaterno": "BARDALES",
+        "sexo": "1",
+        "feNacimiento": "08/09/1972",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "090801",
+        "naciDepartamento": "HUANUCO",
+        "naciProvincia": "PUERTO INCA",
+        "naciDistrito": "HONORIA",
+        "ubigeoDomicilio": "090801",
+        "domiDepartamento": "HUANUCO",
+        "domiProvincia": "PUERTO INCA",
+        "domiDistrito": "HONORIA",
+        "domicilioDirecc": "C. POBLADO SAN ANTONIO DE HONORIA",
+        "ubigeoPostula": "090801",
+        "postulaDepartamento": "HUANUCO",
+        "postulaProvincia": "PUERTO INCA",
+        "postulaDistrito": "HONORIA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/152060.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2173.0,
+        "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 14:24:13",
+        "txGuidFormatoHojaVida": "7d65bb8e-d2ca-4075-966f-f73d0a852ad2",
+        "idSolicitudLista": 25051.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 170551,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CHACRA HONORIA",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "HONORIA",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "090801",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "HUANUCO",
+            "trabajoProvincia": "PUERTO INCA",
+            "trabajoDistrito": "HONORIA",
+            "idHojaVida": 152060,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 149373,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 152060,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 145339,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 20000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 152060,
+                "idEstado": 1,
+                "totalIngresos": 20000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 157291,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "U52802 ",
+                "valor": 2000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "TRIMOVIL PARA USO PERSONAL",
+                "comentario": null,
+                "idHojaVida": 152060,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

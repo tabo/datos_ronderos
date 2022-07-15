@@ -1,0 +1,147 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 209837.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "41826113",
+        "nombres": "SAUL RICHARD",
+        "apellidoPaterno": "FLORES",
+        "apellidoMaterno": "FLORES",
+        "sexo": "1",
+        "feNacimiento": "25/02/1983",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140620",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "HUAROCHIRI",
+        "naciDistrito": "SAN LORENZO DE QUINTI",
+        "ubigeoDomicilio": "140620",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "HUAROCHIRI",
+        "domiDistrito": "SAN LORENZO DE QUINTI",
+        "domicilioDirecc": "JR.COMERCIO S/N.",
+        "ubigeoPostula": "140620",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "HUAROCHIRI",
+        "postulaDistrito": "SAN LORENZO DE QUINTI",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/209837.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 332.0,
+        "organizacionPolitica": "CONCERTACION PARA EL DESARROLLO REGIONAL - LIMA",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 22:49:14",
+        "txGuidFormatoHojaVida": "1b478b6a-28ac-405d-993b-eb8ef584b49d",
+        "idSolicitudLista": 32757.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 210067,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "TRABAJADOR INDEPENDIENTE",
+            "ocupacionProfesion": "COMERCIANTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR. COMERCIO S/N",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140620",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "HUAROCHIRI",
+            "trabajoDistrito": "SAN LORENZO DE QUINTI",
+            "idHojaVida": 209837,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 180735,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 209837,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 171666,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 6000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 209837,
+                "idEstado": 1,
+                "totalIngresos": 6000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 177507,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "T1Q711 ",
+                "valor": 5000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MODELO DHLGE24D-URVAN, MARCA NISSAN COLOR  CELESTE BLANCO",
+                "comentario": null,
+                "idHojaVida": 209837,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 135897,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "13625-2006",
+            "feSentenciaPenal": "12/11/2008",
+            "txOrganoJudiPenal": "32 JUZGADO PENAL DE LIMA",
+            "txDelitoPenal": "CONTRA LA LIBERTAD SEXUAL-VIOLACION SEXIAL",
+            "txFalloPenal": "6 AÑOS DE PREVENCIÓN PREVENTIVA",
+            "idParamModalidad": 10,
+            "txModalidad": "EFECTIVA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 209837,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": []
+}

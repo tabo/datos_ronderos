@@ -1,0 +1,149 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 231731.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "21092537",
+        "nombres": "JOSE ARIMATEA",
+        "apellidoPaterno": "CAJACURI",
+        "apellidoMaterno": "MAROTAZO",
+        "sexo": "1",
+        "feNacimiento": "30/11/1964",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "190501",
+        "naciDepartamento": "PIURA",
+        "naciProvincia": "PAITA",
+        "naciDistrito": "PAITA",
+        "ubigeoDomicilio": "110501",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "TARMA",
+        "domiDistrito": "TARMA",
+        "domicilioDirecc": "AV.ODRIA 584-5",
+        "ubigeoPostula": "110500",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "TARMA",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/231731.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2716.0,
+        "organizacionPolitica": "JUNIN RENACE",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 11:40:17",
+        "txGuidFormatoHojaVida": "948d9444-0405-4c90-9f74-be26124477d0",
+        "idSolicitudLista": 35345.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 240798,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "I.E. SAN RAMON",
+            "ocupacionProfesion": "DOCENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. ODRIA N° 626",
+            "anioTrabajoDesde": "1986",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "110501",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "TARMA",
+            "trabajoDistrito": "TARMA",
+            "idHojaVida": 231731,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 212608,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 231731,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 142682,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "I.S.P. GALL",
+                "carreraNoUni": "DOCENTE EN HISTORIA Y GEOGRAFIA",
+                "concluidoNoUni": "1",
+                "idHojaVida": 231731,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 163701,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 46,
+            "orgPolRenunciaOp": "PERU POSIBLE",
+            "anioRenunciaOp": "2017",
+            "idHojaVida": 231731,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 192533,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 28800.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 231731,
+                "idEstado": 1,
+                "totalIngresos": 28800.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 136903,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "0036-199-0-1509-1JM-CI-01",
+            "txOrganoJuridicialObliga": "II JUZGADO PAZ LETRADO DE TARMA",
+            "txFalloObliga": "PAGO DEL 17% QUE RECIBO EN EL SECTOR EDUCACION SOBRE ALIMENTOS CREO EN 1997",
+            "idEstado": 1,
+            "idHojaVida": 231731,
+            "txComentario": null
+        }
+    ]
+}

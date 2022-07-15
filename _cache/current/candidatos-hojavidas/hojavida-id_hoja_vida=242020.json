@@ -1,0 +1,180 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 242020.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "29250294",
+        "nombres": "RENEE",
+        "apellidoPaterno": "HUALLPA",
+        "apellidoMaterno": "BOLIVAR",
+        "sexo": "1",
+        "feNacimiento": "01/10/1962",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "070901",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "LA CONVENCION",
+        "naciDistrito": "SANTA ANA",
+        "ubigeoDomicilio": "040101",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "AREQUIPA",
+        "domiDistrito": "AREQUIPA",
+        "domicilioDirecc": "CALLE PERAL 421",
+        "ubigeoPostula": "040125",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "AREQUIPA",
+        "postulaDistrito": "YURA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/242020.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2719.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL REVALORA",
+        "numeroCandidato": 6.0,
+        "cargo": [
+            "REGIDOR DISTRITAL",
+            " REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 14:36:16",
+        "txGuidFormatoHojaVida": "e8821050-38ed-41aa-9814-d8aebc66427d",
+        "idSolicitudLista": 33371.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 241163,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "OBRERO Y TAXISTA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AREQUIPA",
+            "anioTrabajoDesde": "2012",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "040101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "AREQUIPA",
+            "trabajoDistrito": "AREQUIPA",
+            "idHojaVida": 242020,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 212821,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 242020,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 163751,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 32,
+            "orgPolRenunciaOp": "PARTIDO APRISTA PERUANO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 242020,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 192648,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 12000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 3600.0,
+                "idHojaVida": 242020,
+                "idEstado": 1,
+                "totalIngresos": 15600.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 237597,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "AREQUIPA-YURA- MZ O' LOTE 18    ZONA 3 SECTOR A - ASENTAMIENTO POBLACIONAL ASOCIACION URBANIZADORA C",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "55070369",
+                "fichaTomoSunarp": null,
+                "autovaluo": 2400.0,
+                "idHojaVida": 242020,
+                "idEstado": 1,
+                "flValor": "24000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 196468,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "V5J467 ",
+                "valor": 35000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA HYUNDAI 2014 I10",
+                "comentario": null,
+                "idHojaVida": 242020,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 196467,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "B0B153 ",
+                "valor": 2000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "NISSAN AÑO 1985",
+                "comentario": null,
+                "idHojaVida": 242020,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

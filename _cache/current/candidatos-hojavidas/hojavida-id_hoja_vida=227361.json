@@ -1,0 +1,159 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 227361.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44707271",
+        "nombres": "MAXIMO ANDRES",
+        "apellidoPaterno": "CAJO",
+        "apellidoMaterno": "MARTINO",
+        "sexo": "1",
+        "feNacimiento": "08/09/1987",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "130302",
+        "naciDepartamento": "LAMBAYEQUE",
+        "naciProvincia": "LAMBAYEQUE",
+        "naciDistrito": "CHOCHOPE",
+        "ubigeoDomicilio": "130302",
+        "domiDepartamento": "LAMBAYEQUE",
+        "domiProvincia": "LAMBAYEQUE",
+        "domiDistrito": "CHOCHOPE",
+        "domicilioDirecc": "CASERIO PARRANAL",
+        "ubigeoPostula": "130302",
+        "postulaDepartamento": "LAMBAYEQUE",
+        "postulaProvincia": "LAMBAYEQUE",
+        "postulaDistrito": "CHOCHOPE",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/227361.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 1442.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL CONSTRUYENDO",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 11:04:34",
+        "txGuidFormatoHojaVida": "751acf27-0171-42ec-90e2-fdd0f2658f84",
+        "idSolicitudLista": 34844.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 253622,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASERIO PARRANAL -  CHOCHOPE",
+            "anioTrabajoDesde": "2006",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "130302",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LAMBAYEQUE",
+            "trabajoProvincia": "LAMBAYEQUE",
+            "trabajoDistrito": "CHOCHOPE",
+            "idHojaVida": 227361,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 225755,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 227361,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 157882,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "ISTP. MOTUPE",
+                "carreraTecnico": "AGROPECUARIA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 227361,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "TITULADO"
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 168099,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 227361,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 247415,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CASERIO PARRANAL",
+                "comentario": "MI CHACRA",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 800.0,
+                "idHojaVida": 227361,
+                "idEstado": 1,
+                "flValor": "3000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 203671,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "7971LB ",
+                "valor": 9100.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO CARGUERA",
+                "comentario": null,
+                "idHojaVida": 227361,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

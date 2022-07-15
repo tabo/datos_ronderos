@@ -1,0 +1,162 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 151243.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "45994674",
+        "nombres": "JOEL HERMOGENES",
+        "apellidoPaterno": "GONZALES",
+        "apellidoMaterno": "ANGULO",
+        "sexo": "1",
+        "feNacimiento": "25/10/1989",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140126",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "SAN MARTIN DE PORRES",
+        "ubigeoDomicilio": "140126",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "SAN MARTIN DE PORRES",
+        "domicilioDirecc": "CALLE ELVIRA GARCIA Y GARCIA 4010 URB. CONDEVILLA",
+        "ubigeoPostula": "140126",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "SAN MARTIN DE PORRES",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/151243.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2731.0,
+        "organizacionPolitica": "PODEMOS PERU",
+        "numeroCandidato": 9.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 12:31:40",
+        "txGuidFormatoHojaVida": "51c59926-602f-4581-ab47-e1353edde8f3",
+        "idSolicitudLista": 24943.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 229157,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MUNICIPALIDAD DE BELLAVISTA",
+            "ocupacionProfesion": "ASISTENTE ADMINISTRATIVO",
+            "rucTrabajo": "20131369639",
+            "direccionTrabajo": "JR. BOLOGNESI 498",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "240102",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CALLAO",
+            "trabajoProvincia": "CALLAO",
+            "trabajoDistrito": "BELLAVISTA",
+            "idHojaVida": 151243,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 202174,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 151243,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 176551,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "PONTIFICIA UNIVERSIDAD CATOLICA DEL PERU",
+                "carreraUni": "INGENIERIA ELECTRONIICA",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 184524,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 9900.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 151243,
+                "idEstado": 1,
+                "totalIngresos": 9900.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 190258,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "C1Y247 ",
+                "valor": 29000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "KIA PIANTO",
+                "comentario": null,
+                "idHojaVida": 151243,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 190257,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "AXK794 ",
+                "valor": 7000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMION DODGE",
+                "comentario": null,
+                "idHojaVida": 151243,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,154 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 177528.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "33674917",
+        "nombres": "PEDRO",
+        "apellidoPaterno": "BUSTAMANTE",
+        "apellidoMaterno": "CIEZA",
+        "sexo": "1",
+        "feNacimiento": "29/06/1970",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "060510",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "CUTERVO",
+        "naciDistrito": "SAN LUIS DE LUCMA",
+        "ubigeoDomicilio": "010309",
+        "domiDepartamento": "AMAZONAS",
+        "domiProvincia": "BONGARA",
+        "domiDistrito": "SHIPASBAMBA",
+        "domicilioDirecc": "ANEXO LA UNION",
+        "ubigeoPostula": "010309",
+        "postulaDepartamento": "AMAZONAS",
+        "postulaProvincia": "BONGARA",
+        "postulaDistrito": "SHIPASBAMBA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/177528.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2878.0,
+        "organizacionPolitica": "VICTORIA AMAZONENSE",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 22:32:38",
+        "txGuidFormatoHojaVida": "409565c5-2935-418a-9bb7-0fffe10a106d",
+        "idSolicitudLista": 28501.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 189943,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "COMERCIANTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "POMACOCHAS",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "010306",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AMAZONAS",
+            "trabajoProvincia": "BONGARA",
+            "trabajoDistrito": "FLORIDA",
+            "idHojaVida": 177528,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 167355,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 177528,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 139842,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 2,
+                "idOrgPolCargoElec": 87,
+                "orgPolCargoElec": "MOVIMIENTO INDEPENDIENTE SURGE AMAZONAS",
+                "idCargoEleccion": 10,
+                "cargoEleccion": "ALCALDE DISTRITAL",
+                "anioCargoElecDesde": "2011",
+                "anioCargoElecHasta": "2014",
+                "idHojaVida": 177528,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            },
+            {
+                "idHvcargoEleccion": 139843,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 23,
+                "orgPolCargoElec": "FUERZA DEMOCRATICA",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2007",
+                "anioCargoElecHasta": "2010",
+                "idHojaVida": 177528,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 147640,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 8,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2007",
+            "idHojaVida": 177528,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 158350,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 12000.0,
+                "idHojaVida": 177528,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

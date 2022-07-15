@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23776,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 332,
+        "txOrganizacionPolitica": "CONCERTACION PARA EL DESARROLLO REGIONAL - LIMA",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/4d467a43-9df4-4180-a9b6-80c5cd673f9c.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/f73e24de-4327-49f5-b1d4-023eaf1d9326.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 192755,
+            "txPgProblema": "1.\tSERVICIOS BÁSICOS",
+            "txPgObjetivo": "INCREMENTAR EL ACCESO",
+            "txPgIndicador": "% ACCESO",
+            "txPgMeta": "85",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 192776,
+            "txPgProblema": "EDUCACIÓN",
+            "txPgObjetivo": "PROMOVER Y MEJORAR LA EDUCACIÓN",
+            "txPgIndicador": "%",
+            "txPgMeta": "45",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 192802,
+            "txPgProblema": "SEGURIDAD CIUDADANA",
+            "txPgObjetivo": "FORTALECER LA SEGURIDAD CIUDADANA",
+            "txPgIndicador": "# SECTORES",
+            "txPgMeta": "5",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 192823,
+            "txPgProblema": "DESARROLLO ECONÓMICO",
+            "txPgObjetivo": "PROMOVER EL DESARROLLO ECONÓMICO",
+            "txPgIndicador": "% DE PEA OCUPADA.",
+            "txPgMeta": "70",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 192847,
+            "txPgProblema": "AGRICULTURA",
+            "txPgObjetivo": "ORGANIZACIÓN CAPACITACIÓN Y TECNIFICACIÓN",
+            "txPgIndicador": "% DE AGRICULTORES.",
+            "txPgMeta": "60",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 192862,
+            "txPgProblema": "TURISMO",
+            "txPgObjetivo": "PROMOCIONAR EL TURISMO",
+            "txPgIndicador": "% DE VISITANTES.",
+            "txPgMeta": "80",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 192881,
+            "txPgProblema": "CONTAMINACIÓN",
+            "txPgObjetivo": "1. CONTAMINACIÓN\n\tCELDAS TRANSITORIAS\tIGA\tTENER RELLENO SANITARIO",
+            "txPgIndicador": "IGA",
+            "txPgMeta": "TENER RELLENO SANITARIO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 192898,
+            "txPgProblema": "1.\tSALUD",
+            "txPgObjetivo": "PROMOVER LA CALIDAD DE SALUD",
+            "txPgIndicador": "% DE DESNUTRICIÓN",
+            "txPgMeta": "6",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 192909,
+            "txPgProblema": "PROBLEMA ECONÓMICO",
+            "txPgObjetivo": "CAPACITACIÓN EN NEGOCIOS",
+            "txPgIndicador": "% DE POBLACIÓN",
+            "txPgMeta": "30",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 192928,
+            "txPgProblema": "INEFICIENCIA INSTITUCIONAL",
+            "txPgObjetivo": "MODERNIZAR LA GESTIÓN PÚBLICA",
+            "txPgIndicador": "% DE EJECUCIÓN PRESUPUESTAL",
+            "txPgMeta": "97",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 192933,
+            "txPgProblema": "CULTURA POLÍTICA",
+            "txPgObjetivo": "POBLACIÓN INFORMADA",
+            "txPgIndicador": "% DE POBLACIÓN",
+            "txPgMeta": "40",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 192966,
+            "txPgProblema": "FALTA DE CONFIANZA",
+            "txPgObjetivo": "POBLACIÓN",
+            "txPgIndicador": "% DE POBLACIÓN",
+            "txPgMeta": "50",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

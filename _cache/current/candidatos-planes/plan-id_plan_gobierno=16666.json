@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 16666,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2857,
+        "txOrganizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1698,
+        "juradoElectoral": "LIMA OESTE 1",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/8f356f8e-98ed-4885-9ba0-9dcc62d402c5.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/d28a12c3-55c3-438e-8ebd-193f41c89033.pdf",
+        "txCodExpedienteExt": "ERM.2022005521",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 126202,
+            "txPgProblema": "PARQUES MAL ESTADO",
+            "txPgObjetivo": "CONSTRUIR PARQUES INTELIGENTES",
+            "txPgIndicador": "MEDIANTE APP",
+            "txPgMeta": "PARQUES ACCESIBLES Y MODERNOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126205,
+            "txPgProblema": "CAMPOS DEPORTIVOS EN DESUSO",
+            "txPgObjetivo": "MEJORAMIENTO CAMPOS DEPORTIVOS",
+            "txPgIndicador": "ENCUESTA CUALITATIVA",
+            "txPgMeta": "SAN MIGUEL LA MECA DEL DEPORTE",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126206,
+            "txPgProblema": "CALLES SUCIAS",
+            "txPgObjetivo": "SAN MIGUEL ECOLOGICO",
+            "txPgIndicador": "NUMERO DE TONELADAS BASURA RECOGIDA",
+            "txPgMeta": "SAN MIGUEL DISTRITO 100% ECOLOGICO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 126209,
+            "txPgProblema": "FALTA APOYO EMPRENDIMIENTO",
+            "txPgObjetivo": "CREAR EMPRENDIMIENTOS COMPETITIVOS",
+            "txPgIndicador": "# CAPACITACIONES",
+            "txPgMeta": "TENER EMPRENDEDORES CAPACITADOS DE NIVEL",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126213,
+            "txPgProblema": "INSUFICIENTE BOLSA DE EMPLEO",
+            "txPgObjetivo": "CONSOLIDAR CONVENIOS CON LAS GRANDES EMPRESAS",
+            "txPgIndicador": "# EMPLEOS OBTENIDOS",
+            "txPgMeta": "TENER LA MENOR TASA DE DESEMPLEO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126216,
+            "txPgProblema": "FALTA DE CLUSTERS ECONOMICOS",
+            "txPgObjetivo": "PROMOVER ECONOMIAS REDONDAS",
+            "txPgIndicador": "# GENTE BENEFICIADA",
+            "txPgMeta": "HACER DE SAN MIGUEL UN DISTRITO CON UN SECTOR ECONOMICO FUERTE",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 126218,
+            "txPgProblema": "PERROS Y GATOS CALLEJEROS",
+            "txPgObjetivo": "REDUCIR Y CONTROLAR EL NUMERO DE ANIMALES CALLEJEROS",
+            "txPgIndicador": "# ANIMALES CALLEJEROS",
+            "txPgMeta": "RESOLVER EL PROBLEMA DE ANIMALES CALLEJEROS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126230,
+            "txPgProblema": "FALTA CULTURA RECICLAJE",
+            "txPgObjetivo": "GENERAR CULTURA DE RECICLAJE",
+            "txPgIndicador": "# JUNTAS VECINALES EN PROGRAMAS DE RECICLAJE",
+            "txPgMeta": "SAN MIGUEL DESARROLLA UN SISTEMA EFICIENTE DE LIMPIEZA Y RECICLAJE",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126252,
+            "txPgProblema": "PARQUES CONTAMINADOS",
+            "txPgObjetivo": "SEGMENTACION DE ESPACIOS",
+            "txPgIndicador": "# PERSONAS SATISFECHAS",
+            "txPgMeta": "ERRADICAR PROBLEMA DE LOS PERROS Y GATOS CALLEJEROS EN SAN MIGUEL",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 126266,
+            "txPgProblema": "BUROCRACIA Y TRAMITES",
+            "txPgObjetivo": "DIGITALIZACION Y MODERNIDAD",
+            "txPgIndicador": "# DOCUMENTOS PROCESADOS POR DIA",
+            "txPgMeta": "SAN MIGUEL RECONOCIDO POR SUS BUENAS PRACTICAS, Y POR SU EFICIENCIA EN SERVICIO Y DESEMPEÑO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126268,
+            "txPgProblema": "MALA ATENCION PLATAFORMA",
+            "txPgObjetivo": "MEJORAR CALIDAD DE PLATAFORMA",
+            "txPgIndicador": "# PERSONAS SATISFECHAS",
+            "txPgMeta": "SAN MIGUEL RECONOCIDO POR SUS BUENAS PRACTICAS, Y POR SU EFICIENCIA EN SERVICIO Y DESEMPEÑO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126271,
+            "txPgProblema": "FALTA DE PERSONAL ADECUADO",
+            "txPgObjetivo": "PROFESIONALIZACIÓN DE LA MUNI",
+            "txPgIndicador": "# EMPLEADOS SATISFECHOS",
+            "txPgMeta": "SAN MIGUEL RECONOCIDO POR SUS BUENAS PRACTICAS, Y POR SU EFICIENCIA EN SERVICIO Y DESEMPEÑO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

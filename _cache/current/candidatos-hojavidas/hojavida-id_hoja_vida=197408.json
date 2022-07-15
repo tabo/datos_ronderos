@@ -1,0 +1,155 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 197408.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "22882725",
+        "nombres": "SAMUEL",
+        "apellidoPaterno": "DEPAZ",
+        "apellidoMaterno": "SERNA",
+        "sexo": "1",
+        "feNacimiento": "13/10/1971",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "090404",
+        "naciDepartamento": "HUANUCO",
+        "naciProvincia": "HUAMALIES",
+        "naciDistrito": "JACAS GRANDE",
+        "ubigeoDomicilio": "090404",
+        "domiDepartamento": "HUANUCO",
+        "domiProvincia": "HUAMALIES",
+        "domiDistrito": "JACAS GRANDE",
+        "domicilioDirecc": "CASERIO HUACASH",
+        "ubigeoPostula": "090404",
+        "postulaDepartamento": "HUANUCO",
+        "postulaProvincia": "HUAMALIES",
+        "postulaDistrito": "JACAS GRANDE",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/197408.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2201.0,
+        "organizacionPolitica": "AVANZADA REGIONAL INDEPENDIENTE UNIDOS POR HUANUCO",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 09:54:45",
+        "txGuidFormatoHojaVida": "7c55742f-d015-4a93-b3ee-6fd57f78bbb7",
+        "idSolicitudLista": 31179.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 226227,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INSTITUCION EDUCATIVA",
+            "ocupacionProfesion": "DOCENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASCANGA",
+            "anioTrabajoDesde": "2022",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "090404",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "HUANUCO",
+            "trabajoProvincia": "HUAMALIES",
+            "trabajoDistrito": "JACAS GRANDE",
+            "idHojaVida": 197408,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 199557,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 197408,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 150925,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "IST AMAUTA",
+                "carreraTecnico": "DOCENTE",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 197408,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 159392,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 46,
+            "orgPolRenunciaOp": "PERU POSIBLE",
+            "anioRenunciaOp": "2017",
+            "idHojaVida": 197408,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 188859,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "0021BW ",
+                "valor": 2500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA MARCA HONDA COLOR GRIS",
+                "comentario": null,
+                "idHojaVida": 197408,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 135295,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "156-98",
+            "feSentenciaPenal": "26/06/2000",
+            "txOrganoJudiPenal": "SALA PENAL CORPORATIVA HUANUCO",
+            "txDelitoPenal": "TENENCIA ILEGAL DE ARMA",
+            "txFalloPenal": "SENTENCIA DE UN AÑO CONDICIONAL",
+            "idParamModalidad": 13,
+            "txModalidad": "OTRO",
+            "txOtraModalidad": "CUMPLIDA",
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 197408,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": []
+}

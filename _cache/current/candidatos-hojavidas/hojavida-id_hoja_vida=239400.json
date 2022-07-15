@@ -1,0 +1,146 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 239400.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "28210554",
+        "nombres": "TOMAS",
+        "apellidoPaterno": "ORIUNDO",
+        "apellidoMaterno": "HUAMAN",
+        "sexo": "1",
+        "feNacimiento": "13/06/1964",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050101",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "HUAMANGA",
+        "naciDistrito": "AYACUCHO",
+        "ubigeoDomicilio": "050110",
+        "domiDepartamento": "AYACUCHO",
+        "domiProvincia": "HUAMANGA",
+        "domiDistrito": "TAMBILLO",
+        "domicilioDirecc": "ANEXO MUYURINA S/N",
+        "ubigeoPostula": "050110",
+        "postulaDepartamento": "AYACUCHO",
+        "postulaProvincia": "HUAMANGA",
+        "postulaDistrito": "TAMBILLO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/239400.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2706.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL WARI LLAQTA",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 13:29:25",
+        "txGuidFormatoHojaVida": "6a8f95eb-1ce0-4c33-8c53-f00c7fb488a9",
+        "idSolicitudLista": 36244.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 168078,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MUYURINA S/N",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "MUYURINA S/N",
+            "anioTrabajoDesde": "2012",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "050110",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AYACUCHO",
+            "trabajoProvincia": "HUAMANGA",
+            "trabajoDistrito": "TAMBILLO",
+            "idHojaVida": 239400,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 147058,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 239400,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 139960,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 239400,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 143537,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 5000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 239400,
+                "idEstado": 1,
+                "totalIngresos": 5000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 180687,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "MUYURINA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 239400,
+                "idEstado": 1,
+                "flValor": "20000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

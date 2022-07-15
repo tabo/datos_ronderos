@@ -1,0 +1,149 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 184884.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42428588",
+        "nombres": "NORMA",
+        "apellidoPaterno": "SANTOS",
+        "apellidoMaterno": "IGNACIO",
+        "sexo": "2",
+        "feNacimiento": "23/05/1984",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110804",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "CHANCHAMAYO",
+        "naciDistrito": "SAN LUIS DE SHUARO",
+        "ubigeoDomicilio": "110804",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "CHANCHAMAYO",
+        "domiDistrito": "SAN LUIS DE SHUARO",
+        "domicilioDirecc": "ANEXO YAPAZ BAJO",
+        "ubigeoPostula": "110804",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "CHANCHAMAYO",
+        "postulaDistrito": "SAN LUIS DE SHUARO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/184884.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 2729.0,
+        "organizacionPolitica": "CORAZON PATRIOTA",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 16:38:39",
+        "txGuidFormatoHojaVida": "9174548d-befc-48ec-8454-176a3e0ceebd",
+        "idSolicitudLista": 29487.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 252736,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "RADIO TV NUEVA JERUSALEN",
+            "ocupacionProfesion": "ADMINISTRADORA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SAN LUIS DE SHUARO",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "110804",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "CHANCHAMAYO",
+            "trabajoDistrito": "SAN LUIS DE SHUARO",
+            "idHojaVida": 184884,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 224558,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 184884,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 157599,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "COMPUTRON",
+                "carreraTecnico": "COMPUTACION E INFORMATICA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 184884,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 143766,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "GRACE MISSION UNIVERSITY",
+                "carreraNoUni": "TEOLOGIA",
+                "concluidoNoUni": "1",
+                "idHojaVida": 184884,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 201770,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 5800.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 184884,
+                "idEstado": 1,
+                "totalIngresos": 5800.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 137441,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "047-2018",
+            "txOrganoJuridicialObliga": "PODER JUDICIAL",
+            "txFalloObliga": "EL DEMANDADO DEBE PAGAR LA SUMA MENSUAL DE S/. 300.00 SOLES",
+            "idEstado": 1,
+            "idHojaVida": 184884,
+            "txComentario": null
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 141297.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42164150",
+        "nombres": "JUAN OSCAR",
+        "apellidoPaterno": "ARREDONDO",
+        "apellidoMaterno": "CORNEJO",
+        "sexo": "1",
+        "feNacimiento": "29/08/1956",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040701",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "ISLAY",
+        "naciDistrito": "MOLLENDO",
+        "ubigeoDomicilio": "140130",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "SANTIAGO DE SURCO",
+        "domicilioDirecc": "CALLE JUPITER 172 2DO PISO URB. SAN ROQUE",
+        "ubigeoPostula": "140130",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "SANTIAGO DE SURCO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/141297.jpg",
+        "estado": "INSCRITO",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 07:31:00",
+        "txGuidFormatoHojaVida": "dd54de37-6eb4-4794-a2d8-469c0709a88a",
+        "idSolicitudLista": 23618.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 246803,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "FUERZA AEREA DEL PERU",
+            "ocupacionProfesion": "MANTENIMIENTO",
+            "rucTrabajo": "20144364059",
+            "direccionTrabajo": "AVENIDA JORGE CHAVEZ S/N",
+            "anioTrabajoDesde": "1979",
+            "anioTrabajoHasta": "2001",
+            "ubigeoTrabajo": "140130",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "SANTIAGO DE SURCO",
+            "idHojaVida": 141297,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 218435,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 141297,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 155876,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "FUERZA AEREA DEL PERU",
+                "carreraTecnico": "TECNICO DE PRIMERA MANTENIMIENTO DE HELICOPTEROS INGENIERO DE VUELO",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 141297,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 196856,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 33600.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 141297,
+                "idEstado": 1,
+                "totalIngresos": 33600.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 242159,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "DEPARTAMENTO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CALLE JUPITER 172 - 174 URB SAN ROQUE - SANTIAGO DE SURCO",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "4905211",
+                "fichaTomoSunarp": null,
+                "autovaluo": 75547.14,
+                "idHojaVida": 141297,
+                "idEstado": 1,
+                "flValor": "608000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 199628,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "C0I551 ",
+                "valor": 18000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CHEVROLET VIVAN 2006",
+                "comentario": null,
+                "idHojaVida": 141297,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

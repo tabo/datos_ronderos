@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 172998.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "41878358",
+        "nombres": "ROMULO ISAAC",
+        "apellidoPaterno": "MANZANEDA",
+        "apellidoMaterno": "GOMEZ",
+        "sexo": "1",
+        "feNacimiento": "31/01/1983",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040101",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "AREQUIPA",
+        "naciDistrito": "AREQUIPA",
+        "ubigeoDomicilio": "040129",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "AREQUIPA",
+        "domiDistrito": "JOSE LUIS BUSTAMANTE Y RIVERO",
+        "domicilioDirecc": "COOP. MINISTERIO DE AGRICULTURA L-5",
+        "ubigeoPostula": "040000",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/172998.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 1393.0,
+        "organizacionPolitica": "FUERZA AREQUIPEÑA",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "CONSEJERO REGIONAL"
+        ],
+        "txFeTerminoRegistro": "08/06/2022 22:09:40",
+        "txGuidFormatoHojaVida": "8c672976-8fbf-41d9-aadc-4e95ae32940e",
+        "idSolicitudLista": 27907.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 142485,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 172998,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 145617,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDA SAO PABLO",
+                "carreraUni": "OFTALMOLOGIA",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2014",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 140291,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 88149.72,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 172998,
+                "idEstado": 1,
+                "totalIngresos": 88149.72
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 134328,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "2622-2016",
+            "feSentenciaPenal": "03/03/2016",
+            "txOrganoJudiPenal": "JUZGADO DE FAMILIA",
+            "txDelitoPenal": "ALIMENTOS",
+            "txFalloPenal": "PAGO ALIMENTOS",
+            "idParamModalidad": 13,
+            "txModalidad": "OTRO",
+            "txOtraModalidad": "RESUELTA POR PAGO",
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 172998,
+            "txComentario": null
+        },
+        {
+            "idHvSentenciaPenal": 134330,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 2,
+            "txExpedientePenal": "1255-2019",
+            "feSentenciaPenal": "02/04/2019",
+            "txOrganoJudiPenal": "GUZGADO DE FAMILIA",
+            "txDelitoPenal": "ALIMENTOS",
+            "txFalloPenal": "EFECTO SUSPENDIDO",
+            "idParamModalidad": 11,
+            "txModalidad": "SUSPENDIDA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 172998,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": []
+}

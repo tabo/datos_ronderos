@@ -1,0 +1,160 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 227867.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "41622373",
+        "nombres": "JUAN CARLOS",
+        "apellidoPaterno": "ALVA",
+        "apellidoMaterno": "SALVADOR",
+        "sexo": "1",
+        "feNacimiento": "30/07/1982",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "120101",
+        "naciDepartamento": "LA LIBERTAD",
+        "naciProvincia": "TRUJILLO",
+        "naciDistrito": "TRUJILLO",
+        "ubigeoDomicilio": "120101",
+        "domiDepartamento": "LA LIBERTAD",
+        "domiProvincia": "TRUJILLO",
+        "domiDistrito": "TRUJILLO",
+        "domicilioDirecc": "ED 3 MODULO A 301 URB. COVIRT",
+        "ubigeoPostula": "120000",
+        "postulaDepartamento": "LA LIBERTAD",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/227867.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2173.0,
+        "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "ACCESITARIO"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 17:12:07",
+        "txGuidFormatoHojaVida": "00886421-7338-4d1d-a479-ed4b17308204",
+        "idSolicitudLista": 34896.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 252724,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "RODRIGO CARRANZA CONSULTORES",
+            "ocupacionProfesion": "ABOGADO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SAN MARTIN DE PORRES 278 URB SAN ANDRES",
+            "anioTrabajoDesde": "2012",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "120101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LA LIBERTAD",
+            "trabajoProvincia": "TRUJILLO",
+            "trabajoDistrito": "TRUJILLO",
+            "idHojaVida": 227867,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 224369,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 227867,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 188399,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL DE TRUJILLO",
+                "carreraUni": "ABOGADO",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2009",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [
+            {
+                "idHvPosgrado": 142498,
+                "tengoPosgrado": "SI",
+                "nuItemPosgrado": 1,
+                "txCenEstudioPosgrado": "UNIVERSIDAD NACIONAL DE TRUJILLO",
+                "txEspecialidadPosgrado": "DERECHO CIVIL COMERCIAL",
+                "concluidoPosgrado": "NO",
+                "egresadoPosgrado": null,
+                "esMaestro": null,
+                "esDoctor": null,
+                "txAnioPosgrado": null,
+                "idHojaVida": 227867,
+                "idEstado": 1,
+                "txEstado": "ACTIVO (R)",
+                "fgRegistroManual": 1,
+                "txComentario": null,
+                "fgRegistro": null
+            }
+        ],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 167672,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 32,
+            "orgPolRenunciaOp": "PARTIDO APRISTA PERUANO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 227867,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 201680,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 42000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 227867,
+                "idEstado": 1,
+                "totalIngresos": 42000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

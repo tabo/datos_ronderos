@@ -1,0 +1,127 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 145748.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "70406019",
+        "nombres": "LUIS LEONARDO",
+        "apellidoPaterno": "ZEGARRA",
+        "apellidoMaterno": "MAMANI",
+        "sexo": "1",
+        "feNacimiento": "18/04/1997",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "220101",
+        "naciDepartamento": "TACNA",
+        "naciProvincia": "TACNA",
+        "naciDistrito": "TACNA",
+        "ubigeoDomicilio": "220111",
+        "domiDepartamento": "TACNA",
+        "domiProvincia": "TACNA",
+        "domiDistrito": "ALTO DE LA ALIANZA",
+        "domicilioDirecc": "CALLE ROBERT KENNEDY N° 1068",
+        "ubigeoPostula": "220111",
+        "postulaDepartamento": "TACNA",
+        "postulaProvincia": "TACNA",
+        "postulaDistrito": "ALTO DE LA ALIANZA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/145748.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2432.0,
+        "organizacionPolitica": "MOVIMENTO INDEPENDIENTE REGIONAL FUERZA TACNA",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 14:58:38",
+        "txGuidFormatoHojaVida": "4bab610b-61a8-4b5a-b259-ec6190e7f75c",
+        "idSolicitudLista": 24199.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 247507,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MUNICIPALIDAD DISTRITAL DE ALTO DE LA ALIANZA",
+            "ocupacionProfesion": "POLICIA MUNICIPAL",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. GUSTAVO PINTO S/N",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "220111",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "TACNA",
+            "trabajoProvincia": "TACNA",
+            "trabajoDistrito": "ALTO DE LA ALIANZA",
+            "idHojaVida": 145748,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 219149,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 145748,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 185482,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL JORGE BASADRE GROHMANN",
+                "carreraUni": "INGENIERIA DE SISTEMAS",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "ESTUDIANTE"
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 137116,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 18,
+            "txMateriaSentencia": "VIOLENCIA FAMILIAR",
+            "txExpedienteObliga": "00048-2020-0-2301",
+            "txOrganoJuridicialObliga": "2DO JUZGADO DE FAMILIA SEDE CENTRAL",
+            "txFalloObliga": "SE RESUELVE EN AUDIENCIA ESPECIAL DICTA MEDIDAS DE PROTECCION QUE GARANTIZAN QUE LA AGRESION NO VUELVA A OCURRIR",
+            "idEstado": 1,
+            "idHojaVida": 145748,
+            "txComentario": null
+        }
+    ]
+}

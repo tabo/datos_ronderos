@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 185874.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "21126137",
+        "nombres": "RICHARD JOSE",
+        "apellidoPaterno": "MARCOS",
+        "apellidoMaterno": "POMA",
+        "sexo": "1",
+        "feNacimiento": "20/11/1977",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110506",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "TARMA",
+        "naciDistrito": "PALCA",
+        "ubigeoDomicilio": "110506",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "TARMA",
+        "domiDistrito": "PALCA",
+        "domicilioDirecc": "JR. PROVENIR -SECTOR PALCA 0",
+        "ubigeoPostula": "110506",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "TARMA",
+        "postulaDistrito": "PALCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/185874.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 15:43:20",
+        "txGuidFormatoHojaVida": "27dad0a9-1f51-4783-8c27-7ae38ca14f6a",
+        "idSolicitudLista": 29626.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 191014,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "INDEPENDIENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE PORVENIR",
+            "anioTrabajoDesde": "2012",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "110506",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "TARMA",
+            "trabajoDistrito": "PALCA",
+            "idHojaVida": 185874,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 168279,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 185874,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 147987,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 32,
+            "orgPolRenunciaOp": "PARTIDO APRISTA PERUANO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 185874,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 159057,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 12000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 185874,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 200786,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "PALCA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "974",
+                "fichaTomoSunarp": null,
+                "autovaluo": 60.0,
+                "idHojaVida": 185874,
+                "idEstado": 1,
+                "flValor": "31000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 169833,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "AUTO",
+                "marca": null,
+                "placa": "F5J647",
+                "valor": 21000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "TOYOTA",
+                "comentario": null,
+                "idHojaVida": 185874,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

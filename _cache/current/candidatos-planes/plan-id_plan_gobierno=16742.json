@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 16742,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2857,
+        "txOrganizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1701,
+        "juradoElectoral": "LIMA SUR 1",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/af2f01f1-8a87-4de0-8d1c-98d068edd6d1.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/b1c7a054-0c25-4efe-a4a2-1c9821c71192.pdf",
+        "txCodExpedienteExt": "ERM.2022005398",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 125941,
+            "txPgProblema": "ASALTOS/ROBOS",
+            "txPgObjetivo": "SEGURIDAD CIUDADANA",
+            "txPgIndicador": "ASALTOS/ROBOS",
+            "txPgMeta": "REDUCIR Y DE ASALTOS/ROBOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 125942,
+            "txPgProblema": "FALTA DE PATRULLAJE",
+            "txPgObjetivo": "SEGURIDAD CIUDADANA",
+            "txPgIndicador": "ZONAS SIN PATRULLAJE",
+            "txPgMeta": "AUMENTAR % PATRULLAJE",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 125943,
+            "txPgProblema": "NO PARTICIPACIÓN CIUDADANA",
+            "txPgObjetivo": "PARTICIPACIÓN CIUDADANA",
+            "txPgIndicador": "PARTICIPACIÓN VECINAL",
+            "txPgMeta": "ARTICULACIÓN VECINAL",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 125944,
+            "txPgProblema": "GESTIÓN DE PROYECTOS",
+            "txPgObjetivo": "SANEAMIENTO",
+            "txPgIndicador": "POBLACIÓN SIN ACCESO A AGUA Y DESAGÜE",
+            "txPgMeta": "GESTIONAR PROYECTOS DE AGUA Y DESAGÜE",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 125945,
+            "txPgProblema": "GESTIÓN DE PROYECTOS",
+            "txPgObjetivo": "PISTAS Y VEREDAS",
+            "txPgIndicador": "% POBLACIÓN CALLES SIN PISTAS Y VEREDAS",
+            "txPgMeta": "GESTIONAR PROYECTOS DE PISTAS Y VEREDAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 125946,
+            "txPgProblema": "GESTIÓN DE PROYECTOS",
+            "txPgObjetivo": "EDUCACIÓN Y DEPORTE",
+            "txPgIndicador": "% PERSONA SIN ACCESO A INFRAESTRUCTURA DEPORTIVA",
+            "txPgMeta": "GESTIONAR CREACIÓN DE POLIDEPORTIVO MUNICIPAL",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 125947,
+            "txPgProblema": "NO RECOJO DE BASURA",
+            "txPgObjetivo": "LIMPIEZA PÚBLICA",
+            "txPgIndicador": "CALLES SIN RECOJO DE BASURA",
+            "txPgMeta": "ADQUISICIÓN DE CAMIÓN COMPACTADOR",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 125948,
+            "txPgProblema": "PARQUES Y JARDINES DESCUIDADOS",
+            "txPgObjetivo": "PARQUES Y JARDINES",
+            "txPgIndicador": "ÁREAS VERDES EN ÓPTIMAS CONDICIONES",
+            "txPgMeta": "MANTENIMIENTO Y CONSERVACIÓN DEL 100% DE ÁREAS VERDES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 125949,
+            "txPgProblema": ". SENSIBILIZACIÓN AMBIENTAL",
+            "txPgObjetivo": "MEDIO AMBIENTE",
+            "txPgIndicador": "CAPACITACIONES - TALLERES",
+            "txPgMeta": "DISTRITO ECOAMIGABLE",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 125950,
+            "txPgProblema": "CORRUPCIÓN",
+            "txPgObjetivo": "TRANSPARENCIA",
+            "txPgIndicador": "TRANSPARENCIA PÚBLICA",
+            "txPgMeta": "INFORMACIÓN ABIERTA AL CIUDADANO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 125951,
+            "txPgProblema": "FALTA DE PLANEAMIENTO",
+            "txPgObjetivo": "PLAN OPERATIVO INSTITUCIONAL",
+            "txPgIndicador": "CUMPLIMIENTO DE ACCIONES ESTRATÉGICAS",
+            "txPgMeta": "CUMPLIMIENTO DE LOS INSTRUMENTOS DE GESTIÓN",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

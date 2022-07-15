@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 165381.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "80183426",
+        "nombres": "RICARDO",
+        "apellidoPaterno": "PEREZ",
+        "apellidoMaterno": "OLABARRERA",
+        "sexo": "1",
+        "feNacimiento": "15/07/1979",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "070201",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "ACOMAYO",
+        "naciDistrito": "ACOMAYO",
+        "ubigeoDomicilio": "071009",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "PARURO",
+        "domiDistrito": "PILLPINTO",
+        "domicilioDirecc": "CALLE PARURO S/N",
+        "ubigeoPostula": "071009",
+        "postulaDepartamento": "CUSCO",
+        "postulaProvincia": "PARURO",
+        "postulaDistrito": "PILLPINTO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/165381.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 10:47:04",
+        "txGuidFormatoHojaVida": "dd4cbf74-8f0c-463c-8a48-1a96999f5acb",
+        "idSolicitudLista": 26877.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 216614,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "IGSEBAM SAC",
+            "ocupacionProfesion": "ADMINISTRADOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SEC. CHOQUEPATA TAMBOPATA PARCELA 9",
+            "anioTrabajoDesde": "2011",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "071009",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CUSCO",
+            "trabajoProvincia": "PARURO",
+            "trabajoDistrito": "PILLPINTO",
+            "idHojaVida": 165381,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 190939,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 165381,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 148606,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "ATP ABACO",
+                "carreraTecnico": "INFOMATICO",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 165381,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 175995,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 12300.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 165381,
+                "idEstado": 1,
+                "totalIngresos": 12300.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 220065,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "TERRENO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "SEC AGUA BUENA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 1000.0,
+                "idHojaVida": 165381,
+                "idEstado": 1,
+                "flValor": "3000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 183642,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "X28256 ",
+                "valor": 10000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "TOYOTA",
+                "comentario": null,
+                "idHojaVida": 165381,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 188660.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43607537",
+        "nombres": "FREDDY ALAIN",
+        "apellidoPaterno": "SAUCEDO",
+        "apellidoMaterno": "PASTOR",
+        "sexo": "1",
+        "feNacimiento": "29/03/1986",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "061101",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "SAN IGNACIO",
+        "naciDistrito": "SAN IGNACIO",
+        "ubigeoDomicilio": "061101",
+        "domiDepartamento": "CAJAMARCA",
+        "domiProvincia": "SAN IGNACIO",
+        "domiDistrito": "SAN IGNACIO",
+        "domicilioDirecc": "CALLE SAN JOSE 160",
+        "ubigeoPostula": "060000",
+        "postulaDepartamento": "CAJAMARCA",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/188660.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2857.0,
+        "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "CONSEJERO REGIONAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 18:52:07",
+        "txGuidFormatoHojaVida": "964a0827-ac3f-4d19-972c-a6f9c44a4edb",
+        "idSolicitudLista": 30006.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 237851,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "UGEL SAN IGNACIO - SAN IGNACIO - CAJAMARCA",
+            "ocupacionProfesion": "ESPECIALISTA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE SAN JOSE Nª160",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "061101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CAJAMARCA",
+            "trabajoProvincia": "SAN IGNACIO",
+            "trabajoDistrito": "SAN IGNACIO",
+            "idHojaVida": 188660,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 210036,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 188660,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 142408,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "I.S.P.P. \"RAFAEL HOYOS RUBIO",
+                "carreraNoUni": "PROFESOR DE EDUCACION PRIMARIA",
+                "concluidoNoUni": "1",
+                "idHojaVida": 188660,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 163354,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 15,
+            "orgPolRenunciaOp": "PARTIDO POPULAR CRISTIANO - PPC",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 188660,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 191600,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 54000.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 188660,
+                "idEstado": 1,
+                "totalIngresos": 54000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 195688,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "NL17707",
+                "valor": 5000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL NEGRA",
+                "comentario": null,
+                "idHojaVida": 188660,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

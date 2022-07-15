@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 220188.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "47898712",
+        "nombres": "JORGE RAUL ENRIQUE",
+        "apellidoPaterno": "ALVAREZ",
+        "apellidoMaterno": "VARGAS",
+        "sexo": "1",
+        "feNacimiento": "06/09/1993",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "120101",
+        "naciDepartamento": "LA LIBERTAD",
+        "naciProvincia": "TRUJILLO",
+        "naciDistrito": "TRUJILLO",
+        "ubigeoDomicilio": "120111",
+        "domiDepartamento": "LA LIBERTAD",
+        "domiProvincia": "TRUJILLO",
+        "domiDistrito": "LA ESPERANZA",
+        "domicilioDirecc": "CALLE LOS ROBLES 600",
+        "ubigeoPostula": "120000",
+        "postulaDepartamento": "LA LIBERTAD",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/220188.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2232.0,
+        "organizacionPolitica": "NUEVA LIBERTAD",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "CONSEJERO REGIONAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 11:26:38",
+        "txGuidFormatoHojaVida": "e8c74d6d-daf5-47e1-90d5-f7f51ec0b8b9",
+        "idSolicitudLista": 34008.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 252810,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "JRA INGENIERÍA Y CONSTRUCCIÓN SAC",
+            "ocupacionProfesion": "GERENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "LOS ROBLES 600",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "120111",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LA LIBERTAD",
+            "trabajoProvincia": "TRUJILLO",
+            "trabajoDistrito": "LA ESPERANZA",
+            "idHojaVida": 220188,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 224641,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 220188,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 188510,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "2",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD PRIVADA ANTENOR ORREGO",
+                "carreraUni": "BACHILLER EN INGENIERÍA CIVIL",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2016",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            },
+            {
+                "idHvEduUniversitaria": 188509,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD PRIVADA ANTENOR ORREGO",
+                "carreraUni": "INGENIERO CIVIL",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2016",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 202623,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 108237.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 220188,
+                "idEstado": 1,
+                "totalIngresos": 108237.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 7597,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "JRA INGENIERIA Y CONSTRUCCION SAC",
+                "idParamTipoTitularidad": 88,
+                "txTipoTitularidad": "PARTICIPACIONES",
+                "flCantidad": 50.0,
+                "flValor": 100000.0,
+                "idHojaVida": 220188,
+                "idEstado": 1,
+                "txUsuario": "47545443",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

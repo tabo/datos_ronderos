@@ -1,0 +1,162 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 214682.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "72081255",
+        "nombres": "OCTAVIO PASCUAL MAXIMO",
+        "apellidoPaterno": "VEGA",
+        "apellidoMaterno": "VERASTEGUI",
+        "sexo": "1",
+        "feNacimiento": "28/02/1997",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110501",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "TARMA",
+        "naciDistrito": "TARMA",
+        "ubigeoDomicilio": "110501",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "TARMA",
+        "domiDistrito": "TARMA",
+        "domicilioDirecc": "JR. SAN MARTIN S/N",
+        "ubigeoPostula": "110500",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "TARMA",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/214682.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 6.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 18:56:33",
+        "txGuidFormatoHojaVida": "f8fc0c79-683c-45e5-b84f-941432b71658",
+        "idSolicitudLista": 33379.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 236210,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "REGIÓN JUNÍN SALUD TARMA",
+            "ocupacionProfesion": "TÉCNICO SALUD AMBIENTAL",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. PACHECO 362",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "110501",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "TARMA",
+            "trabajoDistrito": "TARMA",
+            "idHojaVida": 214682,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 208550,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 214682,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 179830,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD CATÓLICA SEDES SAPIENTIAE",
+                "carreraUni": "BACHILLER EN CIENCIAS AMBIENTALES",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2020",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 189136,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 20400.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 214682,
+                "idEstado": 1,
+                "totalIngresos": 20400.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 193875,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "8478KW ",
+                "valor": 14750.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO - LINEAL",
+                "comentario": null,
+                "idHojaVida": 214682,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 193874,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "0578HW ",
+                "valor": 5300.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO - LINEAL",
+                "comentario": null,
+                "idHojaVida": 214682,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

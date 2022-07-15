@@ -1,0 +1,115 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 22015,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2716,
+        "txOrganizacionPolitica": "JUNIN RENACE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/ad2f7e03-fb22-4fc6-860c-7bea946abf9a.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/18e39dc6-2d26-4b34-9de1-b95f4ed62e43.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 221616,
+            "txPgProblema": "INCREMENTO DE LA INSEGURIDAD CIUDADANA DEL DISTRITO DE YAULI",
+            "txPgObjetivo": "REDUCCIÓN DE LA INSEGURIDAD CIUDADANA DEL DISTRITO DE YAULI, FORTALECIENDO EL CENTRO DE MONITOREO Y VIGILANCIA CON Y EQUIPOS TECNOLÓGICOS EN PUNTOS CRÍTICOS DEL DISTRITO.",
+            "txPgIndicador": "ALTOS ÍNDICES DE INSEGURIDAD",
+            "txPgMeta": "REDUCIR AL 15 % LA INSEGURIDAD CIUDADANA DEL DISTRITO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 221627,
+            "txPgProblema": "BAJA CALIDAD EDUCATIVA EN LAS INSTITUCIONES.",
+            "txPgObjetivo": "MEJORAR LA CALIDAD EDUCATIVA EN LAS INSTITUCIONES DEL DISTRITO, FORTALECIENDO EL NIVEL PEDAGÓGICO EN LA EDUCACIÓN BÁSICA, MEJORAMIENTO Y FORTALECIENDO LAS CAPACIDADES.",
+            "txPgIndicador": "PORCENTAJE DE IMPLEMENTACIÓN Y CONSTRUCCIÓN DE UNA BUENA EDUCACIÓN BÁSICA.",
+            "txPgMeta": "80 % DE INSTITUCIONES EDUCATIVAS BENEFICIADAS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 221653,
+            "txPgProblema": "PROMOVER NUEVOS VALORES EN EL DEPORTE, AUSENCIA DE SEMILLEROS.",
+            "txPgObjetivo": "PROMOVER LA PRÁCTICA DEL DEPORTE A TRAVÉS DE LA IMPLANTACIÓN DE UNA ESCUELA DEPORTIVA MUNICIPAL Y UNA ADECUADA INFRAESTRUCTURA",
+            "txPgIndicador": "DEFICIENCIA EN PROMOVER Y FOMENTAR LOS DIFERENTES DEPORTES.",
+            "txPgMeta": "80 % DE NIÑOS Y JÓVENES PARTICIPANDO ACTIVAMENTE.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 221679,
+            "txPgProblema": "LIMITADA ASISTENCIA TÉCNICA PARA EL MEJORAMIENTO DEL CAMPO GANADERO Y AGRÍCOLA DE LA COMUNIDAD",
+            "txPgObjetivo": "FORTALECER A LAS COMUNIDADES CAMPESINAS DEL DISTRITO PARA EL IMPULSO DEL DESARROLLO DEL CAPO GANADERO Y AGRÍCOLA",
+            "txPgIndicador": "INEFICIENTE ASISTENCIA TÉCNICO GANADERA Y AGRÍCOLA.",
+            "txPgMeta": "90 % FORTALECIDA LA COMUNIDAD CAMPESINA DEL DISTRITO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 221694,
+            "txPgProblema": "FALTA PROMOVER LOS LUGARES TURÍSTICOS Y DE ESPARCIMIENTO EN EL DISTRITO DE YAULI",
+            "txPgObjetivo": "LOGRAR LA INTEGRACIÓN TURÍSTICA DEL DISTRITO DE YAULI, A TRAVÉS DEL MEJORAMIENTO Y ACONDICIONAMIENTO DE LOS CENTROS TURÍSTICO Y LA PROMOCIÓN DE LAS MISMAS",
+            "txPgIndicador": "PORCENTAJE DE VISITAS TURÍSTICOS",
+            "txPgMeta": "80 % TURISMO INTEGRADO DEL DISTRITO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 221722,
+            "txPgProblema": "INADECUADA DE LA PLANTA DE TRATAMIENTO DE DESECHOS SÓLIDOS",
+            "txPgObjetivo": "CONTAR CON UNA PLANTA ADECUADA DE TRATAMIENTO DE DISPOSICIÓN DE RESIDUOS",
+            "txPgIndicador": "DEFICIENCIA EN EL TRATAMIENTO",
+            "txPgMeta": "01 PLANTA DE TRATAMIENTO DE RESIDUOS SÓLIDOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 221737,
+            "txPgProblema": "INADECUADO FUNCIONAMIENTO DE LA PLANTA DE TRATAMIENTO DE AGUAS RESIDUALES.",
+            "txPgObjetivo": "MEJORAMIENTO DE LA INFRAESTRUCTURA Y FUNCIONAMIENTO DE LA PLANTA DE TRATAMIENTO DE AGUAS RESIDUALES DEL DISTRITO DE YAULI",
+            "txPgIndicador": "PORCENTAJE DE LA CALIDAD AGUAS RESIDUALES VERTIDAS",
+            "txPgMeta": "MEJORAR LA CALIDAD DE AGUAS RESIDUALES VERTIDAS PARA SU DISPOSICIÓN FINAL",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 221757,
+            "txPgProblema": "BUROCRACIA Y DEMORA EN TRÁMITES Y GESTIONES",
+            "txPgObjetivo": "MEJORAR Y FLEXIBILIZAR LOS TRÁMITES INTERNOS A TRAVÉS DE LA SISTEMATIZACIÓN LOS DIVERSOS TRÁMITES PARA SU ATENCIÓN OPORTUNA DE LAS ÁREAS DE MESA DE PARTES, CAJA, REGISTRO CIVIL, RENTAS, COMERCIALIZACIÓN Y OTROS.",
+            "txPgIndicador": "ENTREGA DE INFORMACIÓN A DESTIEMPO",
+            "txPgMeta": "100 % DE TRÁMITES ATENDIDOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 221774,
+            "txPgProblema": "DEFICIENTE SERVICIO DE ATENCIÓN A LA POBLACIÓN",
+            "txPgObjetivo": "MEJORAR LA CALIDAD DE SERVICIO DE ATENCIÓN A LA POBLACIÓN EN GENERAL",
+            "txPgIndicador": "PORCENTAJE DE QUEJAS",
+            "txPgMeta": "DISMINUCIÓN EN UN 60% DE PORCENTAJE DE QUEJAS SOBRE LA ATENCIÓN A LA POBLACIÓN.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

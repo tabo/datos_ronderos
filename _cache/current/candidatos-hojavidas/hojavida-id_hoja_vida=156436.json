@@ -1,0 +1,155 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 156436.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42265292",
+        "nombres": "RICARDO",
+        "apellidoPaterno": "SAIRE",
+        "apellidoMaterno": "BLANCO",
+        "sexo": "1",
+        "feNacimiento": "07/02/1980",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "071005",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "PARURO",
+        "naciDistrito": "HUANOQUITE",
+        "ubigeoDomicilio": "071005",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "PARURO",
+        "domiDistrito": "HUANOQUITE",
+        "domicilioDirecc": "COMUNID.LLASPAY S/N",
+        "ubigeoPostula": "071005",
+        "postulaDepartamento": "CUSCO",
+        "postulaProvincia": "PARURO",
+        "postulaDistrito": "HUANOQUITE",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/156436.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 21:53:53",
+        "txGuidFormatoHojaVida": "cc44199c-071a-48e7-b824-b2e2ca2ad8b6",
+        "idSolicitudLista": 25655.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 199974,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "C.C. LLASPAY S/N",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "C.C. LLASPAY",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "071005",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CUSCO",
+            "trabajoProvincia": "PARURO",
+            "trabajoDistrito": "HUANOQUITE",
+            "idHojaVida": 156436,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "AGRICULTOR"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 176673,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "NO",
+            "eduSecundaria": null,
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 156436,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 139626,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 153,
+                "orgPolCargoPartidario": "MOVIMIENTO REGIONAL O DEPARTAMENTAL AUTOGOBIERNO AYLLU",
+                "cargoPartidario": "INVITADO",
+                "anioCargoPartiDesde": "2014",
+                "anioCargoPartiHasta": "2021",
+                "idHojaVida": 156436,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "INVITADO EN LA COMUNIDAD DE LLASPAY - HUANOQUITE"
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 151009,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 153,
+            "orgPolRenunciaOp": "AUTOGOBIERNO AYLLU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 156436,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 164897,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 10200.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 156436,
+                "idEstado": 1,
+                "totalIngresos": 10200.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 174774,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "71094X ",
+                "valor": 3300.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "FULL MOTOR COLOR NEGRO",
+                "comentario": "FULL MOTOR COLOR NEGRO (CARGUERO)",
+                "idHojaVida": 156436,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

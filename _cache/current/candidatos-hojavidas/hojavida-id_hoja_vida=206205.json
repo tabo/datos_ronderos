@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 206205.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "10752213",
+        "nombres": "JUAN CARLOS",
+        "apellidoPaterno": "OSCO",
+        "apellidoMaterno": "CALIZAYA",
+        "sexo": "1",
+        "feNacimiento": "30/12/1977",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "201006",
+        "naciDepartamento": "PUNO",
+        "naciProvincia": "YUNGUYO",
+        "naciDistrito": "OLLARAYA",
+        "ubigeoDomicilio": "201006",
+        "domiDepartamento": "PUNO",
+        "domiProvincia": "YUNGUYO",
+        "domiDistrito": "OLLARAYA",
+        "domicilioDirecc": "C.P. VILURCUNI",
+        "ubigeoPostula": "201006",
+        "postulaDepartamento": "PUNO",
+        "postulaProvincia": "YUNGUYO",
+        "postulaDistrito": "OLLARAYA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/206205.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 17:34:51",
+        "txGuidFormatoHojaVida": "6390d73b-29ed-418a-8ef8-ab09accdca74",
+        "idSolicitudLista": 32299.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 230197,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "TRANSPORTISTA",
+            "ocupacionProfesion": "CHOFER",
+            "rucTrabajo": null,
+            "direccionTrabajo": "YUNGUYO",
+            "anioTrabajoDesde": "2017",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "201006",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PUNO",
+            "trabajoProvincia": "YUNGUYO",
+            "trabajoDistrito": "OLLARAYA",
+            "idHojaVida": 206205,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 203136,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 206205,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 185226,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 10000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 206205,
+                "idEstado": 1,
+                "totalIngresos": 10000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 230176,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "INMUEBLE",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "C. P. VILURCUNI",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 206205,
+                "idEstado": 1,
+                "flValor": "6000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 190841,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "V3J652 ",
+                "valor": 12000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "PROBOX",
+                "comentario": null,
+                "idHojaVida": 206205,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

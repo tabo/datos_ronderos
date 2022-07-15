@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 184765.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "46665094",
+        "nombres": "GUSTAVO ISAI",
+        "apellidoPaterno": "LEON",
+        "apellidoMaterno": "NOLE",
+        "sexo": "1",
+        "feNacimiento": "26/06/1990",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "230101",
+        "naciDepartamento": "TUMBES",
+        "naciProvincia": "TUMBES",
+        "naciDistrito": "TUMBES",
+        "ubigeoDomicilio": "230302",
+        "domiDepartamento": "TUMBES",
+        "domiProvincia": "ZARUMILLA",
+        "domiDistrito": "MATAPALO",
+        "domicilioDirecc": "CASERIO MATAPALO MZ. B LT. 22",
+        "ubigeoPostula": "230302",
+        "postulaDepartamento": "TUMBES",
+        "postulaProvincia": "ZARUMILLA",
+        "postulaDistrito": "MATAPALO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/184765.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2875.0,
+        "organizacionPolitica": "FRONTERA VIVA",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 08:28:53",
+        "txGuidFormatoHojaVida": "0fdc57e5-6b24-46c7-934b-17d5e8a5c6c8",
+        "idSolicitudLista": 29471.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 240639,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "MATAPALO",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "230302",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "TUMBES",
+            "trabajoProvincia": "ZARUMILLA",
+            "trabajoDistrito": "MATAPALO",
+            "idHojaVida": 184765,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 212463,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 184765,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 154336,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "SENATI",
+                "carreraTecnico": "TECNICO EN MECANICA AUTOMOTRIZ",
+                "concluidoEduTecnico": "2",
+                "idHojaVida": 184765,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 192406,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 24000.0,
+                "idHojaVida": 184765,
+                "idEstado": 1,
+                "totalIngresos": 24000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 237379,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "VIVIENDA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CASERIO EL TUTUMO",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "P15254408",
+                "fichaTomoSunarp": null,
+                "autovaluo": 1554.23,
+                "idHojaVida": 184765,
+                "idEstado": 1,
+                "flValor": "1554.23"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 196269,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "M06012 ",
+                "valor": 3000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA: WANXIN, MODELO:WX 150",
+                "comentario": null,
+                "idHojaVida": 184765,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

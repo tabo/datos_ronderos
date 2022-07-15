@@ -1,0 +1,146 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 149041.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "80004412",
+        "nombres": "JOSE",
+        "apellidoPaterno": "YUNGURI",
+        "apellidoMaterno": "YUPANQUI",
+        "sexo": "1",
+        "feNacimiento": "05/01/1977",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "070106",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "CUSCO",
+        "naciDistrito": "SANTIAGO",
+        "ubigeoDomicilio": "070106",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "CUSCO",
+        "domiDistrito": "SANTIAGO",
+        "domicilioDirecc": "URB. USCAMAYTA MZ. B LT. 17",
+        "ubigeoPostula": "070106",
+        "postulaDepartamento": "CUSCO",
+        "postulaProvincia": "CUSCO",
+        "postulaDistrito": "SANTIAGO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/149041.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2731.0,
+        "organizacionPolitica": "PODEMOS PERU",
+        "numeroCandidato": 7.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 10:12:25",
+        "txGuidFormatoHojaVida": "bb3ec005-feca-4743-b348-0f9cb1a6f4e5",
+        "idSolicitudLista": 24652.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 194031,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "PARTICULAR",
+            "ocupacionProfesion": "DENTISTA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "URB ROCOPATA USCAMAYTA L-B-17",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "070106",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CUSCO",
+            "trabajoProvincia": "CUSCO",
+            "trabajoDistrito": "SANTIAGO",
+            "idHojaVida": 149041,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 171007,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 149041,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 160520,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD ALAS PERUANAS S.A.",
+                "carreraUni": "BACHILLER EN ESTOMATOLOGÍA",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2021",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 161094,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 20000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 149041,
+                "idEstado": 1,
+                "totalIngresos": 20000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 171379,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "X5G004 ",
+                "valor": 46000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTO",
+                "comentario": null,
+                "idHojaVida": 149041,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,128 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 233921.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "74308899",
+        "nombres": "JOSE ARTURO",
+        "apellidoPaterno": "CHERRES",
+        "apellidoMaterno": "SANTISTEBAN",
+        "sexo": "1",
+        "feNacimiento": "01/02/2000",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "130305",
+        "naciDepartamento": "LAMBAYEQUE",
+        "naciProvincia": "LAMBAYEQUE",
+        "naciDistrito": "MOCHUMI",
+        "ubigeoDomicilio": "010501",
+        "domiDepartamento": "AMAZONAS",
+        "domiProvincia": "RODRIGUEZ DE MENDOZA",
+        "domiDistrito": "SAN NICOLAS",
+        "domicilioDirecc": "CASERIO ONCHIC",
+        "ubigeoPostula": "010500",
+        "postulaDepartamento": "AMAZONAS",
+        "postulaProvincia": "RODRIGUEZ DE MENDOZA",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/233921.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2277.0,
+        "organizacionPolitica": "SENTIMIENTO AMAZONENSE REGIONAL",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 09:40:11",
+        "txGuidFormatoHojaVida": "29f0d73e-e81a-412a-a500-b7fa9ec1f887",
+        "idSolicitudLista": 35591.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 166306,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "SAN NICOLAS",
+            "ocupacionProfesion": "INDEPENDIENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASERIO ONCHIC",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "010501",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AMAZONAS",
+            "trabajoProvincia": "RODRIGUEZ DE MENDOZA",
+            "trabajoDistrito": "SAN NICOLAS",
+            "idHojaVida": 233921,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 145438,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 233921,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 142361,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 10800.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 233921,
+                "idEstado": 1,
+                "totalIngresos": 10800.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 155099,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "M3M476 ",
+                "valor": 3000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOTAXI ONDA",
+                "comentario": null,
+                "idHojaVida": 233921,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

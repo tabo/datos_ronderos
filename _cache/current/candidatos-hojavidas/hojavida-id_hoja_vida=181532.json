@@ -1,0 +1,157 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 181532.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42802502",
+        "nombres": "HUGO FERNANDO",
+        "apellidoPaterno": "DEL PORTAL DEL BUSTO",
+        "apellidoMaterno": "ANTARCO",
+        "sexo": "1",
+        "feNacimiento": "25/02/1980",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140117",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "PUEBLO LIBRE",
+        "ubigeoDomicilio": "140109",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "LA VICTORIA",
+        "domicilioDirecc": "JR. LOS BRILLANTES 493 URB. BALCONCILLO",
+        "ubigeoPostula": "140109",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "LA VICTORIA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/181532.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2895.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATA VERDE",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 10:36:15",
+        "txGuidFormatoHojaVida": "b33729b5-871d-4d74-8b86-0c55f328d971",
+        "idSolicitudLista": 29038.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 166962,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INVERSIONES PROFACE SAC",
+            "ocupacionProfesion": "LOGISTICA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR.LOS BRILLANTES 493 -  3 PÍSO",
+            "anioTrabajoDesde": "2017",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140109",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "LA VICTORIA",
+            "idHojaVida": 181532,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "BOMBERO VOLUNTARIO GG.BV.P"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 146021,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 181532,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 136954,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "CEPRO SOLECIANO",
+                "carreraTecnico": "MECANICA DE MOTOS",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 181532,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 155483,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "5142PB ",
+                "valor": 17000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA",
+                "comentario": "EN USO",
+                "idHojaVida": 181532,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 155482,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "B10829 ",
+                "valor": 1000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA",
+                "comentario": "YA NO ESTA ENCIRCULACION",
+                "idHojaVida": 181532,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 948,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "INVERCIONES PRO FACE PERU",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 1000.0,
+                "flValor": 1000.0,
+                "idHojaVida": 181532,
+                "idEstado": 1,
+                "txUsuario": "74703104",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 203593.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40683539",
+        "nombres": "FERNANDO",
+        "apellidoPaterno": "LEAÑO",
+        "apellidoMaterno": "SIMEON",
+        "sexo": "1",
+        "feNacimiento": "02/05/1978",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "091004",
+        "naciDepartamento": "HUANUCO",
+        "naciProvincia": "LAURICOCHA",
+        "naciDistrito": "QUEROPALCA",
+        "ubigeoDomicilio": "091004",
+        "domiDepartamento": "HUANUCO",
+        "domiProvincia": "LAURICOCHA",
+        "domiDistrito": "QUEROPALCA",
+        "domicilioDirecc": "JR. COMERCIO S/N",
+        "ubigeoPostula": "091004",
+        "postulaDepartamento": "HUANUCO",
+        "postulaProvincia": "LAURICOCHA",
+        "postulaDistrito": "QUEROPALCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/203593.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2730.0,
+        "organizacionPolitica": "MOVIMIENTO INDEPENDIENTE REGIONAL MI BUEN VECINO",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 10:48:50",
+        "txGuidFormatoHojaVida": "f1e3705b-091f-401f-a4e3-0a2d1d27bea4",
+        "idSolicitudLista": 31968.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 179384,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "COONSTRUCCIONES",
+            "ocupacionProfesion": "ALBAÑIL",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR. COMERCIO",
+            "anioTrabajoDesde": "2016",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "091004",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "HUANUCO",
+            "trabajoProvincia": "LAURICOCHA",
+            "trabajoDistrito": "QUEROPALCA",
+            "idHojaVida": 203593,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 157633,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 203593,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 151253,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 10000.0,
+                "idHojaVida": 203593,
+                "idEstado": 1,
+                "totalIngresos": 10000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 191239,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "TAPIA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "JR. COMERCIO S/N",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 1000.0,
+                "idHojaVida": 203593,
+                "idEstado": 1,
+                "flValor": "10000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 163009,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "W24128 ",
+                "valor": 5000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA",
+                "comentario": null,
+                "idHojaVida": 203593,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 216983.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "80408094",
+        "nombres": "SANTOS",
+        "apellidoPaterno": "GARCIA",
+        "apellidoMaterno": "JIMENEZ",
+        "sexo": "1",
+        "feNacimiento": "13/03/1977",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "061101",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "SAN IGNACIO",
+        "naciDistrito": "SAN IGNACIO",
+        "ubigeoDomicilio": "010202",
+        "domiDepartamento": "AMAZONAS",
+        "domiProvincia": "BAGUA",
+        "domiDistrito": "ARAMANGO",
+        "domicilioDirecc": "CASERIO NUEVO ILUCAN",
+        "ubigeoPostula": "010202",
+        "postulaDepartamento": "AMAZONAS",
+        "postulaProvincia": "BAGUA",
+        "postulaDistrito": "ARAMANGO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/216983.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 19:15:17",
+        "txGuidFormatoHojaVida": "b045bbf0-1c21-426b-89fe-417fd44d53ad",
+        "idSolicitudLista": 33651.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 250852,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AGRICULTOR INDEPENDIENTE-CASERÍO NUEVO ILUCAN",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASERÍO NUEVO ILUCAN",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "010202",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AMAZONAS",
+            "trabajoProvincia": "BAGUA",
+            "trabajoDistrito": "ARAMANGO",
+            "idHojaVida": 216983,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 222329,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 216983,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 200043,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 5960.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 216983,
+                "idEstado": 1,
+                "totalIngresos": 5960.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 245550,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "01 CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CASERÍO NUEVO ILUCAN",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 216983,
+                "idEstado": 1,
+                "flValor": "2000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 202006,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "M42095 ",
+                "valor": 2000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "HONDA COLOR GRIS",
+                "comentario": null,
+                "idHojaVida": 216983,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

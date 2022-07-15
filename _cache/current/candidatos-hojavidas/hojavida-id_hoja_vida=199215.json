@@ -1,0 +1,195 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 199215.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "02850542",
+        "nombres": "JUAN",
+        "apellidoPaterno": "LIZANA",
+        "apellidoMaterno": "CARRION",
+        "sexo": "1",
+        "feNacimiento": "30/05/1969",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "190101",
+        "naciDepartamento": "PIURA",
+        "naciProvincia": "PIURA",
+        "naciDistrito": "PIURA",
+        "ubigeoDomicilio": "190307",
+        "domiDepartamento": "PIURA",
+        "domiProvincia": "HUANCABAMBA",
+        "domiDistrito": "SAN MIGUEL DE EL FAIQUE",
+        "domicilioDirecc": "CASERIO TAMBO MZ. A LT. 06",
+        "ubigeoPostula": "190307",
+        "postulaDepartamento": "PIURA",
+        "postulaProvincia": "HUANCABAMBA",
+        "postulaDistrito": "SAN MIGUEL DE EL FAIQUE",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/199215.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2862.0,
+        "organizacionPolitica": "CONTIGO REGION",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 18:19:59",
+        "txGuidFormatoHojaVida": "37f9b0ef-69d2-49b8-9fe3-864102c93485",
+        "idSolicitudLista": 31400.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 158545,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "ADMINISTRADORA DE SERVICIOS MERX SAC",
+            "ocupacionProfesion": "AGENTE DE SEGURIDAD",
+            "rucTrabajo": "20603489544",
+            "direccionTrabajo": "URB.EL CHIPE ZONA 1 MAZ.A LOTE 3",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "190101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PIURA",
+            "trabajoProvincia": "PIURA",
+            "trabajoDistrito": "PIURA",
+            "idHojaVida": 199215,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 138475,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 199215,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 134955,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "CEO MARIA DE LOS ANGELES",
+                "carreraTecnico": "ENFERMERIA TECNICA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 199215,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "NO CUENTA CON TITULO"
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 137434,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 15600.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 60000.0,
+                "idHojaVida": 199215,
+                "idEstado": 1,
+                "totalIngresos": 75600.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 171260,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "A.H SEÑOR DE LOS MILAGROS MZ.C LOTE.6",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "P15013537",
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 199215,
+                "idEstado": 1,
+                "flValor": "200000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 150112,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 3,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "P3H113 ",
+                "valor": 70000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR NEGRO",
+                "comentario": null,
+                "idHojaVida": 199215,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 150111,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "5850KM ",
+                "valor": 4500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR AZUL",
+                "comentario": null,
+                "idHojaVida": 199215,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 150110,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "16453P ",
+                "valor": 3000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR NEGRO",
+                "comentario": null,
+                "idHojaVida": 199215,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

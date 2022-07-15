@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 222335.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "20642509",
+        "nombres": "PEDRO LEON",
+        "apellidoPaterno": "HUAMAN",
+        "apellidoMaterno": "CARLOS",
+        "sexo": "1",
+        "feNacimiento": "14/03/1951",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110328",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "JAUJA",
+        "naciDistrito": "SINCOS",
+        "ubigeoDomicilio": "110328",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "JAUJA",
+        "domiDistrito": "SINCOS",
+        "domicilioDirecc": "BRRIO CENTRO S/N ANEXO CHALHUAS",
+        "ubigeoPostula": "110328",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "JAUJA",
+        "postulaDistrito": "SINCOS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/222335.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2680.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL SIERRA Y SELVA CONTIGO JUNIN",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 09:10:14",
+        "txGuidFormatoHojaVida": "78c740b6-71f8-4239-88ce-53fee87eeefa",
+        "idSolicitudLista": 34252.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 242215,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MICRO EMPRESARIO",
+            "ocupacionProfesion": "GANADERO.",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ANEXO CHALHUAS",
+            "anioTrabajoDesde": "2012",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "110328",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "JAUJA",
+            "trabajoDistrito": "SINCOS",
+            "idHojaVida": 222335,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 214029,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 222335,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 164149,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 15,
+            "orgPolRenunciaOp": "PARTIDO POPULAR CRISTIANO - PPC",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 222335,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 193522,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 10000.0,
+                "idHojaVida": 222335,
+                "idEstado": 1,
+                "totalIngresos": 10000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 238443,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "  MZ U LOTE N°4 ZONA DE LA REGULARIZACIÓN DE LA HAB. URB. DE LA ASOCIACIÓN DE PROPIETARIOS FLOR DE LAS MAGNOLIAS LURIGANCHO - LIMA - LIMA",
+                "comentario": "VALOR ESTIMADO",
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "12433148",
+                "fichaTomoSunarp": null,
+                "autovaluo": 5000.0,
+                "idHojaVida": 222335,
+                "idEstado": 1,
+                "flValor": "5000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 197185,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "1717CA ",
+                "valor": 6000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR AZUL",
+                "comentario": "MOTO TAXI",
+                "idHojaVida": 222335,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

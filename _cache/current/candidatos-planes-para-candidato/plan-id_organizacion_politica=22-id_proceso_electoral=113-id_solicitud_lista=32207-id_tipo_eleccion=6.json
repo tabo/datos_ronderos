@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 25533,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 22,
+        "txOrganizacionPolitica": "RENOVACION POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/1b14033d-8337-4f3e-af24-02b101a15a68.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/4bb7cf03-9d5a-4dbb-b0bd-ee497f09d676.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 137162,
+            "txPgProblema": "SALUD FÍSICA-MENTAL",
+            "txPgObjetivo": "FAMILIAS SALUDABLES Y MOTIVADAS",
+            "txPgIndicador": "ÍNDICE SALUD FAMILIAR",
+            "txPgMeta": "ÍNDICE SALUD FAMILIAR > 90%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 137173,
+            "txPgProblema": "VIVIENDA DIGNA",
+            "txPgObjetivo": "PLAN VIVIENDA DIGNA PARA SACHACA",
+            "txPgIndicador": "FAMILIAS SIN VIVIENDA DIGNA",
+            "txPgMeta": "FAMILIAS SIN VIVIENDA DIGNA < 15%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 137180,
+            "txPgProblema": "SEGURIDAD CIUDADANA",
+            "txPgObjetivo": "PREVENCIÓN Y MITIGACIÓN DE DELINCUENCIA: SERENAZGO Y SEGURO MUNICIPAL ANTIRROBO",
+            "txPgIndicador": "ÍNDICE DELITOS POR KM2",
+            "txPgMeta": "ÍNDICE DELITOS POR KM2 < 2",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 137192,
+            "txPgProblema": "EMPLEO DIGNO",
+            "txPgObjetivo": "APOYO A EMPRENDIMIENTOS LOCALES",
+            "txPgIndicador": "ÍNDICE DESEMPLEO",
+            "txPgMeta": "ÍNDICE DESEMPLEO < 5%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 137200,
+            "txPgProblema": "TURISMO GOLPEADO",
+            "txPgObjetivo": "TURISMO GASTRONÓMICO-ECOLÓGICO",
+            "txPgIndicador": "CRECIMIENTO TURISMO ANUAL",
+            "txPgMeta": "CRECIMIENTO TURISMO ANUAL > 2%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 137205,
+            "txPgProblema": "MINIFUNDIOS AGRÍCOLAS",
+            "txPgObjetivo": "FORTALECER COMPETITIVIDAD DE PRODUCCIÓN AGRÍCOLA LOCAL",
+            "txPgIndicador": "RENTABILIDAD AGRÍCOLA",
+            "txPgMeta": "RENTABILIDAD AGRÍCOLA > 14%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 137213,
+            "txPgProblema": "REDUCCIÓN CAMPIÑA",
+            "txPgObjetivo": "INCREMENTAR ÁREAS VERDES",
+            "txPgIndicador": "RATIO ÁREAS VERDES/KM2",
+            "txPgMeta": "RATIO ÁREAS VERDES/KM2 > 70%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 137222,
+            "txPgProblema": "ENERGÍA LIMPIA",
+            "txPgObjetivo": "VIVIENDAS CON AUTONOMÍA ENERGÉTICA",
+            "txPgIndicador": "RATIO GENERACIÓN DISTRIBUIDA SOLAR",
+            "txPgMeta": "RATIO GENERACIÓN DISTRIBUIDA SOLAR > 8%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 137229,
+            "txPgProblema": "BASURA Y RESIDUOS",
+            "txPgObjetivo": "MANEJO INTEGRAL Y SUSTENTABLE DE RESIDUOS",
+            "txPgIndicador": "RATIO TRATAMIENTO ECOLÓGICO DE RESIDUOS",
+            "txPgMeta": "RATIO TRATAMIENTO ECOLÓGICO DE RESIDUOS > 10%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 137236,
+            "txPgProblema": "DEMORA OBRAS PÚBLICAS",
+            "txPgObjetivo": "METODOLOGÍA GESTIÓN ÁGIL DE OBRAS PÚBLICAS",
+            "txPgIndicador": "VARIACIONES PLAZO/COSTO OBRAS",
+            "txPgMeta": "VARIACIONES PLAZO/COSTO OBRAS < 10%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 137242,
+            "txPgProblema": "TRANSPARENCIA DE GESTIÓN",
+            "txPgObjetivo": "FISCALIZACIÓN CIUDADANA Y VECINAL",
+            "txPgIndicador": "ATENCIÓN A REQUERIMIENTOS DE INFORMACIÓN",
+            "txPgMeta": "ATENCIÓN A REQUERIMIENTOS DE INFORMACIÓN > 90%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 137252,
+            "txPgProblema": "COMUNICACIÓN EFECTIVA VECINOS / MUNICIPIO",
+            "txPgObjetivo": "CANALES FÍSICOS/VIRTUALES DE REPORTE DE PROBLEMAS, DENUNCIAS Y PETICIONES VECINALES, CABILDOS ABIERTOS",
+            "txPgIndicador": "ÍNDICE SOLUCIÓN PROBLEMAS REPORTADOS",
+            "txPgMeta": "ÍNDICE SOLUCIÓN PROBLEMAS REPORTADOS > 60%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

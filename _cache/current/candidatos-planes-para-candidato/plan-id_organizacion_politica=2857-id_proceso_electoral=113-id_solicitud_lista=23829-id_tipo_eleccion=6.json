@@ -1,0 +1,115 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 17155,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2857,
+        "txOrganizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/f20fbd54-adc8-4d15-89a1-2787f96e0d1d.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/dd5e4fc4-5208-46b7-8ef6-ec65df402418.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 131425,
+            "txPgProblema": ".EXISTENCIA DE DESNUTRICIÓN",
+            "txPgObjetivo": "MEJORA CALIDAD DE VIDA",
+            "txPgIndicador": "%",
+            "txPgMeta": "REDUCIR 15.0 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 131427,
+            "txPgProblema": "ANEMIA",
+            "txPgObjetivo": "MEJORA DE LA SALUD",
+            "txPgIndicador": "%",
+            "txPgMeta": "REDUCIR 10 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 131429,
+            "txPgProblema": "MEJORA EN LA ATENCIÓN EN SALUD",
+            "txPgObjetivo": "EQUIPAMIENTO Y MEDICINAS",
+            "txPgIndicador": "%",
+            "txPgMeta": "INCREMENTAR ATENCIÓN EN 30%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 131430,
+            "txPgProblema": "AGRICULTURA",
+            "txPgObjetivo": "MEJORA DE RIEGO TECNIFICADO",
+            "txPgIndicador": "EQUIPAMIENTO",
+            "txPgMeta": "100 %EQUIPADO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 131431,
+            "txPgProblema": "CONSTRUCCIÓN Y MEJORAMIENTO DE CARRETERAS",
+            "txPgObjetivo": "CARRETERAS NUEVAS Y CON MANTENIMIENTO",
+            "txPgIndicador": "KMS",
+            "txPgMeta": "20 KMS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 131432,
+            "txPgProblema": "CARENCIA DE GESTIÓN EN LA MUNICIPALIDAD",
+            "txPgObjetivo": "MEJORA EN LA GESTIÓN",
+            "txPgIndicador": "MEJORA MEDIO AMBIENTE",
+            "txPgMeta": "MEDIO AMBIENTE PROTEGIDO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 131434,
+            "txPgProblema": "CARENCIA DE POLÍTICAS AMBIENTALES",
+            "txPgObjetivo": "IMPLEMENTACIÓN DE POLÍTICAS",
+            "txPgIndicador": "MEJORA MEDIO AMBIENTE",
+            "txPgMeta": "POLÍTICAS IMPLEMENTADAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 131435,
+            "txPgProblema": "FALTA DE TRANSPARENCIA",
+            "txPgObjetivo": "MEJORA DE LA TRANSPARENCIA",
+            "txPgIndicador": "TRANSPARENCIA",
+            "txPgMeta": "100% TRANSPARENTES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 131436,
+            "txPgProblema": "MUNICIPALIDAD SIN IMPLEMENTACIÓN",
+            "txPgObjetivo": "MEJORA DE LA OPERATIVIDAD",
+            "txPgIndicador": "IMPLEMENTACIÓN",
+            "txPgMeta": "100% IMPLEMENTADA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

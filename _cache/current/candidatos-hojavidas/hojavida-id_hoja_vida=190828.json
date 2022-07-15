@@ -1,0 +1,162 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 190828.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "77425662",
+        "nombres": "ANA MILAGROS",
+        "apellidoPaterno": "VERAMENDI",
+        "apellidoMaterno": "MORALES",
+        "sexo": "2",
+        "feNacimiento": "11/07/1995",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140501",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "HUAURA",
+        "naciDistrito": "HUACHO",
+        "ubigeoDomicilio": "140506",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "HUAURA",
+        "domiDistrito": "HUALMAY",
+        "domicilioDirecc": "PROLONG. FRANCISCO ROSAS 899",
+        "ubigeoPostula": "140506",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "HUAURA",
+        "postulaDistrito": "HUALMAY",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/190828.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 553.0,
+        "organizacionPolitica": "PATRIA JOVEN",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 15:49:25",
+        "txGuidFormatoHojaVida": "04a2ded3-40ec-4a2d-9803-6a3ca8928d7c",
+        "idSolicitudLista": 30298.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 202931,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "OPERACIONES AT. S.A.C.",
+            "ocupacionProfesion": "CAJERA",
+            "rucTrabajo": "20538485595",
+            "direccionTrabajo": "AV. 28 DE JULIO 227",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "140501",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "HUAURA",
+            "trabajoDistrito": "HUACHO",
+            "idHojaVida": 190828,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "TRABAJO POR 6 MESES"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 178768,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 190828,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 164595,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD SAN PEDRO",
+                "carreraUni": "INGIENERIA DE INFORMATICA Y SISTEMAS",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2021",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 167133,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 5700.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 190828,
+                "idEstado": 1,
+                "totalIngresos": 5700.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 176537,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "93904A ",
+                "valor": 8000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "VEHICULO MENOR",
+                "comentario": null,
+                "idHojaVida": 190828,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 176536,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "B38625 ",
+                "valor": 8000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "VEHICULO MENOR",
+                "comentario": null,
+                "idHojaVida": 190828,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

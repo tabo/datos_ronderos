@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23576,
+        "idTipoEleccion": 5,
+        "txTipoEleccion": "MUNICIPAL PROVINCIAL",
+        "idOrganizacionPolitica": 2856,
+        "txOrganizacionPolitica": "ALIANZA GOBIERNO UNIDAD Y ACCION",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/4267ca36-0370-4255-9951-f1ab498a7808.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/c8ce22ec-a791-4955-978c-07348b063427.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 180387,
+            "txPgProblema": "PRECARIZACIÓN DE LA EDUCACIÓN DURANTE LA PANDEMIA",
+            "txPgObjetivo": "GARANTIZAR CONDICIONES DE BIENESTAR A LOS ESTUDIANTES QUE FORTALEZCAN SU APRENDIZAJE.",
+            "txPgIndicador": "BAJO RENDIMIENTO EN COMPRENSIÓN LECTORA 31.1% Y RAZONAMIENTO MATEMÁTICO EN 67.6%.",
+            "txPgMeta": "MEJORAMIENTO EN COMPRENSIÓN LECTORA EN 60% Y RAZONAMIENTO MATEMÁTICO EN 80%.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 180416,
+            "txPgProblema": "INCREMENTO DE LA POBREZA, DESNUTRICIÓN Y ANEMIA.",
+            "txPgObjetivo": "AVANZAR EN LA REDUCCIÓN DEL HAMBRE, DESNUTRICIÓN, ANEMIA Y POBREZA.",
+            "txPgIndicador": "DESNUTRICIÓN ES 25.9 %.\nANEMIA ES 45.2% Y POBREZA ES 30%.",
+            "txPgMeta": "DESNUTRICIÓN EN 10%.\nANEMIA EN 19%.\nPOBREZA EN 10%.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 180434,
+            "txPgProblema": "MEJORAR LOS SERVICIOS BÁSICOS DE AGUA, DESAGÜE.",
+            "txPgObjetivo": "GARANTIZAR UN SERVICIO DE CALIDAD Y SE CONSUMA AGUA POTABLE.",
+            "txPgIndicador": "COBERTURA 60 % DE LA POBLACIÓN.",
+            "txPgMeta": "ATENDER AL 80 % DE LA POBLACIÓN.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 180470,
+            "txPgProblema": "REZAGO DEL DESARROLLO DEL AGRO.",
+            "txPgObjetivo": "IMPULSAR LA AGRICULTURA FAMILIAR SOSTENIBLE",
+            "txPgIndicador": "POBREZA 30%",
+            "txPgMeta": "REDUCIR LA POBREZA EN 10%. INCREMENTAR EL INGRESO ECONÓMICO DE LAS FAMILIARES RURALES.\nGARANTIZAR LA SEGURIDAD ALIMENTARIA.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 180503,
+            "txPgProblema": "LA EXCLUSIÓN DEL AGRO FAMILIAR Y COMUNERO.",
+            "txPgObjetivo": "GARANTIZAR LA COMPRA DE LOS PRODUCTOS AGRÍCOLAS PARA LOS PROGRAMAS SOCIALES DEL DISTRITO.",
+            "txPgIndicador": "AHORA CERO COMPRAS.",
+            "txPgMeta": "COMPRA DE PRODUCTOS DE ORIGEN VEGETAL Y ANIMAL EN 40 % PARA LOS PROGRAMAS SOCIALES.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 180518,
+            "txPgProblema": "MEJORAMIENTO Y MANTENIMIENTO DE REPRESAS, QOCHA, RESERVORIO Y CANALES",
+            "txPgObjetivo": "GARANTIZAR EL RECURSO HÍDRICO PARA LA AGRICULTURA FAMILIAR",
+            "txPgIndicador": "DEFICIENTE Y MAL ESTADO RECURSOS HÍDRICOS",
+            "txPgMeta": "TRES REPRESAS.\n60 QOCHAS.\n40 CANALES DE REGADÍO.\n30 RESERVORIOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 180547,
+            "txPgProblema": "LA DEFORESTACIÓN DE LOS BOSQUES.",
+            "txPgObjetivo": "PROMOVER LA AGORFORESTACION COMO UNA FORMA DE CONSERVAR LOS BOSQUES.\nPROHIBIR LA REFORESTACIÓN Y EMPRENDER LA REFORESTACIÓN DE LOS BOSQUES CON ÁRBOLES NATIVOS.",
+            "txPgIndicador": "NO TIENE VIVERO FORESTAL.",
+            "txPgMeta": "IMPLEMENTACIÓN DE VIVEROS FORESTALES (12) PRINCIPALMENTE CON PLANTAS NATIVAS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 180566,
+            "txPgProblema": "ALTA VULNERABILIDAD Y MITIGACIÓN FRENTE AL CAMBIO CLIMÁTICO",
+            "txPgObjetivo": "FORTALECER LA GESTIÓN DE INTEGRAL DE RESIDUOS SÓLIDOS(BASURA)",
+            "txPgIndicador": "NO TIENE PLANTA DE TRATAMIENTO DE RESIDUOS SÓLIDOS.",
+            "txPgMeta": "UNA PLANTA DE TRATAMIENTO DE RESIDUOS SÓLIDOS EN EL DISTRITO.\nELABORAR EL PLAN DE RESIDUOS SÓLIDOS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 180585,
+            "txPgProblema": "FALTA DE UNA EDUCACIÓN AMBIENTAL",
+            "txPgObjetivo": "PROMOVER EL DISEÑO E IMPLEMENTAR NUEVAS POLÍTICAS Y PLANES LOCALES DE EDUCACIÓN AMBIENTAL.",
+            "txPgIndicador": "NO TIENE PLANES AMBIENTALES.\nNO TIENE COMISIÓN AMBIENTAL PROVINCIAL.",
+            "txPgMeta": "ELABORAR UN PLAN AMBIENTAL PROVINCIAL.\nFORMAR LA COMISIÓN DE EVALUACIÓN Y MONITOREO AMBIENTAL PROVINCIAL.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 180613,
+            "txPgProblema": "FALTA DE UNA VERDADERA DESCENTRALIZACIÓN",
+            "txPgObjetivo": "GESTIONAR UNA VERDADERA DESCENTRALIZACIÓN ECONÓMICA, FISCAL Y NORMATIVA.",
+            "txPgIndicador": "NO HAY DESCENTRALIZACIÓN",
+            "txPgMeta": "CONSEGUIR UNA NUEVA LEY MUNICIPAL, MAYOR TRANSFERENCIA DE FONCOMUN Y CANON MINERO.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 180656,
+            "txPgProblema": "FALTA DE TRANSPARENCIA Y RENDICIÓN DE CUENTAS",
+            "txPgObjetivo": "IMPLEMENTAR UNA COMISIÓN DE VIGILANCIA Y FISCALIZACIÓN.",
+            "txPgIndicador": "NO TIENE COMISIONES",
+            "txPgMeta": "2 COMISIONES DE VIGILANCIA Y FISCALIZACIÓN.\n4 RENDICIONES DE CUENTAS AL AÑO.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 180675,
+            "txPgProblema": "LIMITADA INFORMACIÓN DE LA GESTIÓN MUNICIPAL",
+            "txPgObjetivo": "MEJORAR Y TRANSPARENTAR EL MANEJO MUNICIPAL HACIA EL PUEBLO.",
+            "txPgIndicador": "NO TIENE",
+            "txPgMeta": "IMPLEMENTAR MEDIOS DE COMUNICACIÓN DE INFORMACIÓN DE LA GESTIÓN MUNICIPAL EN FORMA PERMANENTE Y MENSUAL.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

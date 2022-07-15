@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 24385,
+        "idTipoEleccion": 5,
+        "txTipoEleccion": "MUNICIPAL PROVINCIAL",
+        "idOrganizacionPolitica": 160,
+        "txOrganizacionPolitica": "FRENTE REGIONAL DE CAJAMARCA",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/35cb963d-e53a-4a5f-a862-f03b955a89af.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/245f1e8d-d5c0-4b03-8739-234fdf08377b.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 181030,
+            "txPgProblema": "DEFICIENTE\tCAPACIDAD\nINSTALADA\tDE\tLOS ESTABLECIMIENTOS DE SALUD DEL PRIMER NIVEL DE ATENCIÓN",
+            "txPgObjetivo": "O.E.1\nAMPLIAR Y MEJORAR LA INFRAESTRUCTURA SOCIAL DE SERVICIOS BÁSICOS",
+            "txPgIndicador": "% DE PUESTOS DE SALUD CON ADECUADA INFRAESTRUCTURA Y EQUIPAMIENTO\n% DE PUESTOS DE SALUD ATENDIDOS CON PERSONAL MÉDICO DONDE EL MINSA Y GR NO ATIENDEN\nNUMERO DE CAMPAÑAS MEDICAS REALIZADAS SOBRE PREVENCIÓN PRIMEROS AUXILIOS, EDUCACIÓN SANITARIA Y PROFILAXIS\nNÚMERO DE PLANTAS DE OXÍGENO ADQUIRIDAS",
+            "txPgMeta": "50%\n100%\n30\n1",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 181132,
+            "txPgProblema": "DEFICIENTE\tCAPACIDAD INSTALADA DE LAS INSTITUCIONES EDUCATIVAS Y LA CAPACIDAD Y PERFECCIONAMIENTO DE LOS DOCENTES",
+            "txPgObjetivo": "O.E.1\nAMPLIAR Y MEJORAR LA INFRAESTRUCTURA SOCIAL DE SERVICIOS BÁSICOS",
+            "txPgIndicador": "% DE I.E. MEJORADAS EN INFRAESTRUCTURA, SERVICIOS DE AGUA Y ALCANTARILLADO\n% DE DOCENTES BENEFICIADOS CON LA IMPLEMENTACIÓN DEL PROGRAMA DE MAESTRÍAS A LOS DOCENTES QUE PROPONEN INNOVADORAS INICIATIVAS EN EL AULA.\n% DE I.E. CON INTERNET E IMPLEMENTACIÓN DE BIBLIOTECAS VIRTUALES EN LAS INSTITUCIONES EDUCATIVAS.",
+            "txPgMeta": "70%\n\n100%\n30%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 181168,
+            "txPgProblema": "DEFICIENTE INFRAESTRUCTURA DE AGUA Y SANEAMIENTO EN LA PROVINCIA.",
+            "txPgObjetivo": "O.E.1\nAMPLIAR Y MEJORAR LA INFRAESTRUCTURA SOCIAL DE SERVICIOS BÁSICOS",
+            "txPgIndicador": "% DE FINANCIAMIENTO Y EJECUTAR EL PROYECTO DEL SERVICIO DE TRATAMIENTO DE AGUA POTABLE PARA LA CUIDAD DE BAMBAMARCA\n% DE ACUERDOS CON LOS VECINOS LA EJECUCIÓN DEL PROYECTO DE\nLA PLANTA DE TRATAMIENTO DE AGUAS RESIDUALES PARA LA CIUDAD DE BAMBAMARCA\nINCREMENTAR LOS SERVICIOS DE AGUA Y SANEAMIENTO PARA EL SECTOR RURALES MEDIANTE SOLUCIONES INDIVIDUALES EN\nLA PROVINCIA HUALGAYOC\nINCREMENTAR LOS SERVICIOS DE AGUA Y SANEAMIENTO PARA EL SECTOR URBANO DE LA CIUDAD DE BAMBAMARCA",
+            "txPgMeta": "100%\n100%\n28%\n6%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 181248,
+            "txPgProblema": "DEFICIENTE INFRAESTRUCTURA\t\tDE RIEGO\tPARA\tFINES AGRARIOS",
+            "txPgObjetivo": "AMPLIAR Y MEJORAR LA INFRAESTRUCTURA PARA EL DESARROLLO PRODUCTIVO",
+            "txPgIndicador": "N° DE POZOS TUBULARES CONSTRUIDOS PARA APROVECHAMIENTO DE AGUA SUBTERRÁNEA\nN° DE MICRO RESERVORIOS CONSTRUIDOS PARA COSECHA Y SIEMBRA DE AGUA Y TANQUES DE ALMACENAMIENTO\nCONSTRUCCIÓN Y MEJORAMIENTO DE CANALES DE RIEGO\n% DE FUENTES DE AGUA SUPERFICIALES PARA USOS AGRARIO",
+            "txPgMeta": "10 POZOS\n50\tMICRO RESERVORIOS\n80%\n50%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 181295,
+            "txPgProblema": "LIMITADA PROMOCIÓN DEL GOBIERNO LOCAL  PARA GENERAR EMPLEO",
+            "txPgObjetivo": "PROMOVER\tEL ECONÓMICO LOCAL\t\nDESARROLLO",
+            "txPgIndicador": "NÚMERO DE EMPLEOS TEMPORALES GENERADOS MEDIANTE EL PROGRAMA FULL CHAMBA",
+            "txPgMeta": "10 MIL PUESTOS DE TRABAJOS TEMPORALES",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 181357,
+            "txPgProblema": "LIMITADO APOYO A LOS EMPRENDIMIENTOS CON FINANCIAMIENTO. MEDIANTE EL PROGRAMA BAMBAMARCA ENPRENDE",
+            "txPgObjetivo": "PROMOVER\tEL ECONÓMICO LOCAL\tDESARROLLO",
+            "txPgIndicador": "NÚMERO DE EMPRENDEDORES ORGANIZADOS QUE RECIBEN CAPITAL SEMILLA MEDIANTE LA IMPLEMENTACIÓN DEL PROGRAMA BAMBAMARCA EMPRENDE",
+            "txPgMeta": "20 MICRO EMPRESARIOS RECIBEN FINANCIAMIENTO PARA CAPITAL DE TRABAJO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 181527,
+            "txPgProblema": "DEFICIENTE\tGESTIÓN DE\tLOS RESIDUOS SÓLIDOS MUNICIPALES",
+            "txPgObjetivo": "PROTEGER\tY\tCONSERVAR\tEL MEDIO AMBIENTE",
+            "txPgIndicador": "% DE ELIMINACIÓN DE PUNTOS CRÍTICOS DE RESIDUOS SOLIDOS\n% DE EJECUCIÓN DEL PROYECTO PARA UNA EFICIENTE DISPOSICIÓN DE\tLOS\tRESIDUOS SOLIDOS\nINCREMENTO DE RECORRIDO SERVICIO DE RECOJO DE RESIDUOS SOLIDOS",
+            "txPgMeta": "100%\n\n100%\n\n100%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 181579,
+            "txPgProblema": "DEFICIENTE GESTIÓN PARA LA INTERVENCIÓN Y REMEDIACIÓN DE LOS PASIVOS AMBIENTALES GENERADOS\tPOR LA MINERÍA IRRESPONSABLE",
+            "txPgObjetivo": "PROTEGER\tY\tCONSERVAR MEDIO AMBIENTE",
+            "txPgIndicador": "% DE PASIVOS AMBIENTALES REMEDIADOS",
+            "txPgMeta": "70%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 181723,
+            "txPgProblema": "DEFICIENTE\tGESTIÓN PARA IMPLEMENTAR\tLA\tPLANTA\tDE TRATAMIENTO RESIDUALES\tDE\tAGUAS",
+            "txPgObjetivo": "PROTEGER Y CONSERVAR MEDIO AMBIENTE",
+            "txPgIndicador": "% DE EJECUCIÓN DEL PROYECTO DE LA PTAR CON APROBACIÓN DE LA POBLACIÓN AFECTADA.\n% DE SOCIALIZACIÓN DEL PROYECTO DE LA PTAR CON LA POBLACIÓN",
+            "txPgMeta": "100%\n\n100%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 181904,
+            "txPgProblema": "LIMITADA ARTICULAR DE LA PLANIFICACIÓN CON EL PRESUPUESTO",
+            "txPgObjetivo": "DESARROLLAR UN GOBIERNO MUNICIPAL EFICIENTE, TRANSPARENTE Y SIN CORRUPCIÓN",
+            "txPgIndicador": "% DE ALINEAMIENTO DE LOS PROYECTOS DE INVERSIÓN AL PRESUPUESTO POR RESULTADOS\n% DE IMPLEMENTACIÓN DEL PROGRAMA RECOJO LAS DEMANDAS, POLÍTICAS, SOCIALES, ECONÓMICAS Y AMBIENTALES PLANTEADAS POR LOS CENTROS POBLADOS, A LA PLANIFICACIÓN ESTRATÉGICA EN LOS PLANES COMUNALES DE CADA CENTRO POBLADO Y PRESUPUESTARLO GRADUALMENTE EN CADA EJERCICIO PRESUPUESTARIO.\n% DE LA MEDICIÓN DE RESULTADOS DE LOS GASTOS EJECUTADOS",
+            "txPgMeta": "100%\n100%\n100%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 181986,
+            "txPgProblema": "LIMITADOS ESPACIOS DE PARTICIPACIÓN CIUDADANA Y RENDICIÓN DE CUENTAS",
+            "txPgObjetivo": "DESARROLLAR UN GOBIERNO MUNICIPAL EFICIENTE, TRANSPARENTE Y SIN CORRUPCIÓN",
+            "txPgIndicador": "% DE INTEGRACIÓN DE LOS COMITÉS RODAS CAMPESINAS A FISCALIZAR LOS RESULTADOS DEL NIVEL DE GASTO POR OBRA EJECUTADA\n% DE PARTICIPACIÓN DE LOS CENTROS POBLADOS EN LA PROGRAMACIÓN Y FORMULACIÓN MULTIANUAL DEL PRESUPUESTO RENDICIÓN DE CUENTAS A LOS 45 DÍAS DE HABER CULMINADO EL EJERCICIO PRESUPUESTARIO",
+            "txPgMeta": "100%\n100%\n4",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182076,
+            "txPgProblema": "DEFICIENTE SIMPLIFICACIÓN ADMINISTRATIVA",
+            "txPgObjetivo": "DESARROLLAR UN GOBIERNO MUNICIPAL EFICIENTE, TRANSPARENTE Y SIN CORRUPCIÓN",
+            "txPgIndicador": "% DE LA IMPLEMENTAR LA GESTIÓN DOCUMENTAL DE CERO PAPEL. PARA QUE LOS CIUDADANOS PUEDAN MONITOREAR SUS EXPEDIENTES PRESENTADOS DESDE SU CELULAR, COMO PARTE DE LA MODERNIZACIÓN DEL ESTADO\n% DE ELIMINACIÓN DE LAS BARRERAS BUROCRÁTICAS PARA LOS CIUDADANOS\n% DE DISEÑO DE PROCESOS PARA LOS TRÁMITES Y EVITAR QUE LOS EXPEDIENTES ADMINISTRATIVOS LLEGUE A OFICINAS QUE NO LE GENEREN VALOR AGREGADO",
+            "txPgMeta": "100%\n100%\n100%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

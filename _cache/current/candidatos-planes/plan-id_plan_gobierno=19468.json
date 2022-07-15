@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 19468,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1257,
+        "txOrganizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1737,
+        "juradoElectoral": "YAROWILCA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/022c70f7-267f-4275-843c-9206606d42e2.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/326aa672-28f9-4554-839a-fa3a3ac2a10a.pdf",
+        "txCodExpedienteExt": "ERM.2022008951",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 192167,
+            "txPgProblema": "DEFICIENTE CALIDAD EDUCATIVA",
+            "txPgObjetivo": "IMPLEMENTACIÓN DE TALLERES DE CAPACITACIÓN A DOCENTES.",
+            "txPgIndicador": "PORCENTAJE DE AVANZE EN LA CALIDAD EDUCATIVA",
+            "txPgMeta": "CAPACITAR A UN 60% DEL PERSONAL DOCENTE Y DE SALUD ENTRE EL 2023 AL 2026.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 192200,
+            "txPgProblema": "DEFICIENTE ATENCIÓN SANITARIA",
+            "txPgObjetivo": "IMPLEMENTACIÓN DE TALLERES DE CAPACITACIÓN AL PERSONAL DE SECTOR SALUD.",
+            "txPgIndicador": "PORCENTAJE DE AVANZE EN LA ATENCIÓN DE SALUD",
+            "txPgMeta": "CAPACITAR A UN 60% DEL PERSONAL DOCENTE Y DE SALUD ENTRE EL 2023 AL 2026.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 192232,
+            "txPgProblema": "PRESENCIA DE DELINCUENCIA EN EL DISTRITO",
+            "txPgObjetivo": "DESMINUIR LOS NIVELES DE DELINCUENCIA, MEDIANTE CAPACITACIONES O TALLERES.",
+            "txPgIndicador": "PORCENTAJE DE DISMINUCIÓN DE LA DELINCUENCIA EN EL DISTRITO",
+            "txPgMeta": "CAPACITAR A UN 80% CON PROGRAMA DE SEGURIDAD  CIUDADANA.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 192279,
+            "txPgProblema": "DESNUTRICIÓN EN LA POBLACIÓN DE CHACABAMBA, ESPECIALMENTE EN LOS NIÑOS.",
+            "txPgObjetivo": "DISMINUCIÓN DE LA DESNUTRICIÓN EN LA POBLACIÓN MEJORANDO CANASTA FAMILIAR.",
+            "txPgIndicador": "PORCENTAJE DE DISMINUCIÓN DE LA DESNUTRICIÓN EN EL DISTRITO",
+            "txPgMeta": "CAPACITAR A UN 60% DEL PERSONAL DOCENTE Y DE SALUD ENTRE EL 2023 AL 2026.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 192365,
+            "txPgProblema": "DEFICIENTE ORGANIZACIÓN DE PRODUCTORES AGRÍCOLAS.",
+            "txPgObjetivo": "PROMOVER Y CONTRIBUIR LA ORGANIZACIÓN DE PRODUCTORES.",
+            "txPgIndicador": "PORCENTAJE DE AVANCE EN LA PRODUCCIÓN DEL DISTRITO",
+            "txPgMeta": "CREAR 05 MYPES DE DIFERENTES ESPACIALIDADES FORMULAR Y EJECUTAR 03 PROYECTOS PRODUCTIVOS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 192431,
+            "txPgProblema": "ESCASA ORGANIZACIÓN DE PRODUCTORES PECUARIOS.",
+            "txPgObjetivo": "PROMOVER  CONTRIBUIR LA ORGANIZACIÓN DE PRODUCTORES .",
+            "txPgIndicador": "PORCENTAJE DE PRODUCTORES PECUARIOS ORGANIZADOS",
+            "txPgMeta": "CREAR 05 MYPES DE DIFERENTES ESPACIALIDADES FORMULAR Y EJECUTAR 03 PROYECTOS PRODUCTIVOS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 192826,
+            "txPgProblema": "INADECUADO VÍAS DE ACCESO EN MAL ESTADO Y DEPREDACIÓN INDISCRIMINADA DE RECURSO NATURALES.",
+            "txPgObjetivo": "IMPULSAR LA CONSTRUCCIÓN DE PISTAS, VEREDAS Y ALCANTARILLADOS EN LAS PRINCIPALES   VÍAS Y EL RIPIADO DE LAS CALLES ADYACENTES. PROMOVER EVENTOS SOBRE EL CUIDADO Y PRESERVACIÓN DEL MEDIO AMBIENTE.",
+            "txPgIndicador": "PORCENTAJE DE VIAS MEJORADAS EN EL DISTRITO",
+            "txPgMeta": "EJECUTAR EL ENPISTADO DEL 50% DE LAS PRINCIPALES VÍAS DE ACCESO Y EL 60% DE ENRIPIADO DE LAS CALLES ADYACENTES.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 192894,
+            "txPgProblema": "EL DISTRITO DE CHACABAMBA SE ENCUENTRA EN ZONA DE ESTADO DE EMERGENCIA POR DESLIZAMIENTO INMINENTE DECLARADO POR AUTORIDADES COMPETENTES.",
+            "txPgObjetivo": "PROMOVER EVENTOS SOBRE EL CUIDADO Y PRESERVACIÓN DEL MEDIO AMBIENTE.",
+            "txPgIndicador": "PORCENTAJE DE MEJORA DE ZONAS EN ESTADO DE EMERGENCIA",
+            "txPgMeta": "CAPACITAR AL 80% DE LA POBLACIÓN DE PAMPAMARCA EN TEMAS SOBRE CUIDADO Y PRESERVACIÓN DEL MEDIO AMBIENTE.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 193075,
+            "txPgProblema": "NO EXISTE  COMUNICACIÓN FLUIDA Y EFECTIVA ENTRE LA AUTORIDAD EDIL Y LA POBLACIÓN EN GENERAL.",
+            "txPgObjetivo": "PROPICIAR QUE LA AUTORIDAD EDIL SE COMUNIQUE EFICIENTEMENTE CON LA POBLACIÓN EN GENERAL.",
+            "txPgIndicador": "PORCENTAJE DE ACEPTACIÓN DE LA POBLACIÓN",
+            "txPgMeta": "ATENDER EFICIENTEMENTE AL 80% DE LA POBLACIÓN DE PAMPAMARCA.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 193150,
+            "txPgProblema": "ESCASO CONOCIMIENTO DE GESTIÓN PARA EL DESARROLLO DE ORGANIZACIONES DE BASE.",
+            "txPgObjetivo": "FORMAR Y CAPACITAR A LÍDERES Y DIRIGENTES VECINALES EN GESTIÓN PARA EL DESARROLLO DE ORGANIZACIONES DE BASE LIDERAR LA CAPACITACIÓN TÉCNICA DE MANUALIDADES Y CURSOS DE PRODUCCIÓN EN FAMILIA.",
+            "txPgIndicador": "PORCENTAJE DE MEJORA EN CAPACIDAD DE GESTIÓN",
+            "txPgMeta": "ATENDER CON CAPACITACIÓN EFICIENTEMENTE AL 80% DE LA POBLACIÓN DE PAMPAMARCA. SENSIBILIZACIÓN A POBLADORES A TRAVÉS DEL SECTOR DE SALUD Y EDUCACIÓN.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 193180,
+            "txPgProblema": "DEFICIENTE EJECUCIÓN DEL PRESUPUESTO Y MALA ADMINISTRACIÓN DE LOS RECURSOS DE LA MUNICIPALIDAD PARA REALIZAR OBRAS DE DESARROLLO E INFRAESTRUCTURA URBANA, ASÍ COMO PARA ATENDER SUS GASTOS CORRIENTES.",
+            "txPgObjetivo": "DIVERSIFICAR, INCREMENTAR Y/O OPTIMIZAR LOS RECURSOS DE LA MUNICIPALIDAD PARA REALIZAR OBRAS DE DESARROLLO E INFRAESTRUCTURA URBANA, ASÍ COMO PARA ATENDER SUS GASTOS CORRIENTES PROCURANDO LA AUSTERIDAD AL EXTREMO.",
+            "txPgIndicador": "PORCENTAJE DE AVANCE PRESUPUESTARIO DEL DISTRITO",
+            "txPgMeta": "DESARROLLAR EVENTOS DE CAPACITACIÓN PERMANENTE DIRIGIDO A LOS FUNCIONARIOS EN SUS RESPECTIVAS ÁREAS AL 80% DEL DISTRITO DE PAMPAMARCA.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

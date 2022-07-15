@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 152194.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40221719",
+        "nombres": "VICENTE",
+        "apellidoPaterno": "LEDESMA",
+        "apellidoMaterno": "HUARCAYA",
+        "sexo": "1",
+        "feNacimiento": "09/06/1979",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "080104",
+        "naciDepartamento": "HUANCAVELICA",
+        "naciProvincia": "HUANCAVELICA",
+        "naciDistrito": "CONAYCA",
+        "ubigeoDomicilio": "080104",
+        "domiDepartamento": "HUANCAVELICA",
+        "domiProvincia": "HUANCAVELICA",
+        "domiDistrito": "CONAYCA",
+        "domicilioDirecc": "CALLE LA LIBERTAD LT. 62",
+        "ubigeoPostula": "080104",
+        "postulaDepartamento": "HUANCAVELICA",
+        "postulaProvincia": "HUANCAVELICA",
+        "postulaDistrito": "CONAYCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/152194.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2681.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL AGUA",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 17:57:45",
+        "txGuidFormatoHojaVida": "240a2469-0120-45fd-a9a3-283b8938132a",
+        "idSolicitudLista": 25071.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 241662,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INSTITUCION EDUCATIVA PARTICULAR MILENUM",
+            "ocupacionProfesion": "SUB DIRECTOR GENERAL",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR. DEMETRIO MOLLOY",
+            "anioTrabajoDesde": "2016",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "080101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "HUANCAVELICA",
+            "trabajoProvincia": "HUANCAVELICA",
+            "trabajoDistrito": "HUANCAVELICA",
+            "idHojaVida": 152194,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 213437,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 152194,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 182418,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD CONTINENTAL",
+                "carreraUni": "ESTUDIANTE",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 193156,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 36000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 152194,
+                "idEstado": 1,
+                "totalIngresos": 36000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 197048,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "MINIVAN",
+                "marca": null,
+                "placa": "F9F-026",
+                "valor": 33840.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR PLOMO",
+                "comentario": "EL VEHICULO ES A NOMBRE DE LA SOCIEDAD DOMICON E.I.R.L EL CUAL SOY PARTE DEL DIRECTORIO",
+                "idHojaVida": 152194,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 6584,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "DOMICON E.I.R.L",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 1.0,
+                "flValor": 115000.0,
+                "idHojaVida": 152194,
+                "idEstado": 1,
+                "txUsuario": "40936021",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,105 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 27742,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1464,
+        "txOrganizacionPolitica": "CAJAMARCA SIEMPRE VERDE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/724971e2-153f-4b42-8152-0299a6bf5c45.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/da5ec044-4bdb-4b20-a3a9-bd260644e91b.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 179364,
+            "txPgProblema": "DEFICIENTE INFRAESTRUCTURA Y FALTA DE EQUIPAMIENTO EN LOS ESTABLECIMIENTOS DE SALUD RURALES",
+            "txPgObjetivo": "MEJORAR LA INFRAESTRUCTURA Y EQUIPAMIENTO DE LOS ESTABLECIMIENTOS DE SALUD RURAL.",
+            "txPgIndicador": "EL DISTRITO NO CUENTA CON EQUIPOS SOFISTICADOS EN MATERIA DE SALUD.",
+            "txPgMeta": "CONSTRUCCIÓN Y EQUIPAMIENTO DE LA GRAN MAYORÍA DE LOS CENTROS DE SALUD RURAL.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 179393,
+            "txPgProblema": "DEFICIENTE INFRAESTRUCTURA Y EQUIPAMIENTO DE LAS INSTITUCIONES EDUCATIVAS.",
+            "txPgObjetivo": "MEJORAR LA INFRAESTRUCTURA Y EQUIPAMIENTO DE LAS INSTITUCIONES EDUCATIVAS",
+            "txPgIndicador": "EL DISTRITO NO CUENTA CON EQUIPOS TECNOLÓGICOS EN LAS INSTITUCIONES EDUCATIVAS RURALES.",
+            "txPgMeta": "CONSTRUCCIÓN DE INFRAESTRUCTURA EDUCATIVA Y MEJORAMIENTO DE TECNOLOGÍA E INTERNET.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 179419,
+            "txPgProblema": "ESCASA INFRAESTRUCTURA DEPORTIVA Y ORGANIZATIVA.",
+            "txPgObjetivo": "CONSTRUIR INFRAESTRUCTURA DEPORTIVA Y MEJORAR LA ORGANIZACIÓN DE LAS LIGAS EN TODOS LOS CASERÍOS.",
+            "txPgIndicador": "NO SE CUENTA CON INFRAESTRUCTURA DEPORTIVA EN EL DISTRITO.",
+            "txPgMeta": "CONSTRUCCIÓN DE CAMPOS Y LOSAS DEPORTIVAS, ASÍ COMO ADQUISICIÓN DE EQUIPOS E INDUMENTARIA DEPORTIVA.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 179467,
+            "txPgProblema": "FALTA DE EXPLOTACIÓN Y DIFUSIÓN DE LOS CENTROS TURÍSTICOS DEL DISTRITO",
+            "txPgObjetivo": "EXPLOTAR TODOS LOS CENTROS TURÍSTICOS DEL DISTRITO.",
+            "txPgIndicador": "EXISTENCIAS DE CENTROS TURÍSTICOS SIN EXPLOTAR.",
+            "txPgMeta": "SE MEJORARÁ LOS ACCESOS Y SE REALIZARAS UN PLAN DE PROMOCIÓN DE TODOS LOS CENTROS TURÍSTICOS EXISTENTES EN EL DISTRITO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 179496,
+            "txPgProblema": "ESCAZES DE RIEGO TECNIFICADO PARA FORTALECER LA AGRICULTURA.",
+            "txPgObjetivo": "IMPLEMENTAR RIEGO TECNIFICADO EN TODOS LOS CASERÍOS A TRAVÉS DE LA EXPLOTACIÓN DE AGUA SUBTERRÁNEA, ASÍ COMO AGUA SUPERFICIAL.",
+            "txPgIndicador": "NO EXISTE EXPLOTACIÓN DE AGUA SUBTERRÁNEA EN EL DISTRITO.",
+            "txPgMeta": "CONSTRUCCIÓN DE POZOS SUBTERRÁNEOS, ASÍ COMO RESERVORIOS E IMPLEMENTAR RIEGO TECNIFICADO EN TODO EL DISTRITO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 179532,
+            "txPgProblema": "EXPOSICIÓN DE LA BASURA EN LUGARES NO ADECUADOS Y DEFICIENTE TRATAMIENTO DE RESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "EVITAR LA EXPOSICIÓN DE LA BASURA EN LUGARES NO ADECUADOS Y MEJORAR DISPOSICIÓN FINAL",
+            "txPgIndicador": "INEXISTENCIA DE UNA PLANTA DE TRATAMIENTO DE RESIDUOS SÓLIDOS.",
+            "txPgMeta": "CREACIÓN DE UNA PLANTA DE TRATAMIENTO DE RESIDUOS SÓLIDOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 179594,
+            "txPgProblema": "INEXISTENCIA DE PROGRAMAS MUNICIPALES PARA PRESERVAR EL MEDIO AMBIENTE",
+            "txPgObjetivo": "INCENTIVAR A LA POBLACIÓN DEL DISTRITO A CUIDAR Y PRESERVAR EL MEDIO AMBIENTE Y A SU VEZ PRESERVAR ESPECIES DE FLORA Y FAUNA EN PELIGRO DE EXTINCIÓN.",
+            "txPgIndicador": "NO EXISTE CUIDADO DEL MEDIO AMBIENTE",
+            "txPgMeta": "CUIDADO DEL MEDIO AMBIENTE Y ESPECIES EN PELIGRO DE EXTINCIÓN EN UN 80 % HASTA EL TERMINO DE LA GESTIÓN MUNICIPAL.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 179553,
+            "txPgProblema": "ESCASA PARTICIPACIÓN DE LAS ORGANIZACIONES VECINALES EN LA GESTIÓN MUNICIPAL.",
+            "txPgObjetivo": "PROMOVER LA PARTICIPACIÓN DE LAS ORGANIZACIONES VECINALES EN LA GESTIÓN MUNICIPAL.",
+            "txPgIndicador": "NO EXISTE PARTICIPACIÓN DE JUNTAS VECINALES EN LA GESTIÓN MUNICIPAL.",
+            "txPgMeta": "•\tJUNTAS VECINALES ORGANIZADAS Y PARTICIPATIVAS.\n•\tMUNICIPALIDADES DE CENTROS POBLADOS ORGANIZADAS Y CON CAPACIDAD DE GESTIÓN.\n•\tRONDAS CAMPESINAS QUE PUEDAN FISCALIZAR LAS GESTIONES EN CURSO.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

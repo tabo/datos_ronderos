@@ -1,0 +1,159 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 236146.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "21105448",
+        "nombres": "ROSARIO RITA",
+        "apellidoPaterno": "FRANCIA",
+        "apellidoMaterno": "CAVERO",
+        "sexo": "2",
+        "feNacimiento": "10/04/1965",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110506",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "TARMA",
+        "naciDistrito": "PALCA",
+        "ubigeoDomicilio": "110506",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "TARMA",
+        "domiDistrito": "PALCA",
+        "domicilioDirecc": "BQ. SANTO DOMINGO 40 BARRIO SANTO DOMINGO",
+        "ubigeoPostula": "110506",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "TARMA",
+        "postulaDistrito": "PALCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/236146.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 19:29:55",
+        "txGuidFormatoHojaVida": "ba796f0d-bfd4-4dc6-874d-b89becfb774b",
+        "idSolicitudLista": 35867.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 216327,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "RESTAURANT JARDIN DE LOS ANDES",
+            "ocupacionProfesion": "COMERCIANTE TITULAR DEL NEGOCIO",
+            "rucTrabajo": "10211054480",
+            "direccionTrabajo": "CARRETERA CENTRAL KM 51 NIÑOPAMPA PALCA",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "110506",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "TARMA",
+            "trabajoDistrito": "PALCA",
+            "idHojaVida": 236146,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 190645,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 236146,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 140905,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 2218,
+                "orgPolCargoPartidario": "PARTIDO POLÍTICO PARTIDO POLITICO NACIONAL PERU LIBRE",
+                "cargoPartidario": "AFILIADA",
+                "anioCargoPartiDesde": "2022",
+                "anioCargoPartiHasta": "2022",
+                "idHojaVida": 236146,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 175843,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 25000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 236146,
+                "idEstado": 1,
+                "totalIngresos": 25000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 183530,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "MOTO",
+                "marca": null,
+                "placa": "1559-2A",
+                "valor": 5000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "BAJAJ TORITO 4T AZUL Y BLANCO",
+                "comentario": null,
+                "idHojaVida": 236146,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 183524,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "91308F ",
+                "valor": 10000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCARGA KAMAX VERDE",
+                "comentario": null,
+                "idHojaVida": 236146,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

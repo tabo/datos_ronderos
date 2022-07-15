@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 28108,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2338,
+        "txOrganizacionPolitica": "PODER ANDINO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1677,
+        "juradoElectoral": "HUANCANE",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/b310a382-3a4f-4ad0-961a-32aa44784551.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/d52e0618-1c48-4ce6-9a8d-158b780b3410.pdf",
+        "txCodExpedienteExt": "ERM.2022017023",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 177311,
+            "txPgProblema": "DESERCIÓN DE ALUMNOS DE NIVEL SECUNDARIO EN EL DISTRITO A RELACIÓN DE 1.5% CADA AÑO",
+            "txPgObjetivo": "DISMINUIR LA DESERCIÓN ESTUDIANTIL DE NIVEL SECUNDARIO",
+            "txPgIndicador": "CANTIDAD DE ALUMNOS MATRICULADOS",
+            "txPgMeta": "DISMINUIR A 0.1% EN EL AÑO 2026",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 177331,
+            "txPgProblema": "ALTA INCIDENCIA DE ENFERMEDADES GASTROINTESTINALES Y OTROS 45%",
+            "txPgObjetivo": "DISMINUIR LAS ENFERMEDADES GASTROINTESTINALES Y OTROS",
+            "txPgIndicador": "CANTIDAD DE PACIENTES ATENDIDOS",
+            "txPgMeta": "DISMINUIR A 11% EN EL AÑO 2026",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 177352,
+            "txPgProblema": "INADECUADAS INFRAESTRUCTURAS EDUCATIVAS A NIVEL INICIAL Y PRIMARIA EN EL DISTRITO DE ROSASPATA DE 92%",
+            "txPgObjetivo": "DISMINUIR LA INADECUADA INFRAESTRUCTURA EDUCATIVA A NIVEL INICIAL Y PRIMARIO",
+            "txPgIndicador": "CANTIDAD DE INSTITUCIONES EDUCATIVAS",
+            "txPgMeta": "DISMINUIR A 15% EN EL AÑO 2026",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 177471,
+            "txPgProblema": "SERVICIO DE AGUA POTABLE Y SANEAMIENTO EN EL DISTRITO, CON UNA COBERTURA DE 25%",
+            "txPgObjetivo": "INCREMENTAR LA COBERTURA DE AGUA POTABLE Y SANEAMIENTO",
+            "txPgIndicador": "COBERTURA",
+            "txPgMeta": "INCREMENTAR AL 95%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 177500,
+            "txPgProblema": "SERVICIO DE ENERGÍA ELÉCTRICA PRIMARIA SE TIENE UNA COBERTURA DEL 85%, SERVICIO TRIFÁSICO 0%",
+            "txPgObjetivo": "INCREMENTAR LA COBERTURA DE SERVICIO DE ENERGÍA ELÉCTRICA",
+            "txPgIndicador": "COBERTURA",
+            "txPgMeta": "INCREMENTAR AL 99% A NIVEL PRIMARIO A NIVEL TRIFÁSICO AL 25%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 177539,
+            "txPgProblema": "SERVICIO DE AGUA DE RIEGO TECNIFICADO EN EL DISTRITO 0%",
+            "txPgObjetivo": "INCREMENTAR LA COBERTURA DE SERVICIO DE AGUA DE RIEGO TECNIFICADO",
+            "txPgIndicador": "COBERTURA",
+            "txPgMeta": "INCREMENTAR AL 75%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 177590,
+            "txPgProblema": "MICROZONIFICACIÓN ECONÓMICA ECOLÓGICA DEL DISTRITO 0%",
+            "txPgObjetivo": "ORDENAMIENTO TERRITORIAL",
+            "txPgIndicador": "COBERTURA",
+            "txPgMeta": "100% MICROZONIFICADO EL DISTRITO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 177620,
+            "txPgProblema": "ÁREAS DE FORESTACIÓN SEGÚN EL CUM REGIONAL 20% DE AREA, EL DISTRITO SOLO CUMPLE EL 1%",
+            "txPgObjetivo": "ÁREAS FORESTADAS",
+            "txPgIndicador": "COBERTURA",
+            "txPgMeta": "100% ÁREAS FORESTADAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 177646,
+            "txPgProblema": "INADECUADO MANEJO DE RESIDUOS SÓLIDOS, COBERTURA DE 2%",
+            "txPgObjetivo": "MANEJO DE RESIDUOS SOLIDOS",
+            "txPgIndicador": "COBERTURA",
+            "txPgMeta": "75% DE COBERTURA DE MANEJO DE RS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 177676,
+            "txPgProblema": "DEFICIENTES INSTRUMENTOS DE GESTIÓN PARA EL DESARROLLO SOSTENIBLE 0%",
+            "txPgObjetivo": "INSTRUMENTOS DE GESTIÓN",
+            "txPgIndicador": "DOCUMENTOS",
+            "txPgMeta": "10 DOCUMENTOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 177712,
+            "txPgProblema": "DEFICIENTE DE COBERTURA DE MAQUINARIA PESADA Y AGRÍCOLA 12%",
+            "txPgObjetivo": "SERVICIO DE PREVENCIÓN Y PRODUCCIÓN AGROPECUARIA",
+            "txPgIndicador": "COBERTURA",
+            "txPgMeta": "95% DE COBERTURA DE SERVICIOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

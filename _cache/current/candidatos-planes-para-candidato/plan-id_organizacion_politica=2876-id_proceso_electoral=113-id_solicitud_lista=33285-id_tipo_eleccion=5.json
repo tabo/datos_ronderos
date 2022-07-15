@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 26611,
+        "idTipoEleccion": 5,
+        "txTipoEleccion": "MUNICIPAL PROVINCIAL",
+        "idOrganizacionPolitica": 2876,
+        "txOrganizacionPolitica": "PIURA RENACE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/947e878b-2bc9-4e7e-a3c3-79aec7748f68.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/9eb59750-3800-48b5-b8af-e0e3cd5a932a.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 226030,
+            "txPgProblema": "EL DESARROLLO SOCIAL Y ECONÓMICO DE LOS CIUDADANOS NO SE DESARROLLA EN AMBIENTES SEGUROS Y TRANQUILOS.",
+            "txPgObjetivo": "PROMOVER EL DESARROLLO ECONÓMICO EN ACTIVIDADES ALTERNATIVAS A LA PESCA.",
+            "txPgIndicador": "PERCEPCIÓN DE ACCESO A SERVICIOS SOCIALES DE CALIDAD.\n\nPERCEPCIÓN DE MEJORAR DE CALIDAD VIDA.\n\n\nPERCEPCIÓN DE INSEGURIDAD CIUDADANA",
+            "txPgMeta": "90% (SENTIDO: ASCENDENTE)\n\n\n\n\n90% (SENTIDO: ASCENDENTE)\n\n\n\n10% (SENTIDO: DESCENDENTE)",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 226045,
+            "txPgProblema": "LA MUNICIPALIDAD COMO GOBIERNO LOCAL NO EJERCE UN PAPEL PREDOMINANTE EN EL DESARROLLO ECONÓMICO DE LA LOCALIDAD.",
+            "txPgObjetivo": "IMPULSAR EL DESARROLLO ECONÓMICO EN ACTIVIDADES ALTERNATIVAS A LA PESCA.",
+            "txPgIndicador": "DESEMPLEO LOCAL\n\nIMPLEMENTACIÓN DE INFRAESTRUCTURA NECESARIA PARA EL DESARROLLO INTEGRAL DE LA  LOCALIDAD.",
+            "txPgMeta": "12% (SENTIDO: DESCENDENTE)\n\n80% (SENTIDO: ASCENDENTE)",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 226054,
+            "txPgProblema": "LA PROTECCIÓN DE LOS RECURSOS NATURALES NO ES UN EJE CONSIDERADA FUNDAMENTAL EN LAS POLÍTICAS DEL GOBIERNO LOCAL.",
+            "txPgObjetivo": "FORTALECER POLÍTICAS Y PROGRAMAS DIRIGIDAS A LA CONSERVACIÓN DE LOS RECURSOS NATURALES Y MEDIO AMBIENTE.",
+            "txPgIndicador": "ÍNDICES DE CONTAMINACIÓN DE MAR, AIRE, RUIDOS, ENTRE OTROS.",
+            "txPgMeta": "20% (SENTIDO: DESCENDENTE)",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 226060,
+            "txPgProblema": "EL USO DE LOS RECURSOS PÚBLICOS MUNICIPALES NO RESPONDEN A LAS NECESIDADES MAYORITARIAS, REALES Y PRIORITARIAS DE LA LOCALIDAD.",
+            "txPgObjetivo": "TRANSFORMAR LA ADMINISTRAR LA ADMINISTRACIÓN MUNICIPAL.",
+            "txPgIndicador": "CAPACIDAD DE RESOLVER LAS NECESIDADES LOCALES (OPINIÓN PÚBLICA).",
+            "txPgMeta": "85% (SENTIDO: ASCENDENTE)",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

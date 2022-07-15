@@ -1,0 +1,147 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 195451.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "46404146",
+        "nombres": "RANDY SALVATORE",
+        "apellidoPaterno": "VILCACHAGUA",
+        "apellidoMaterno": "OBREGON",
+        "sexo": "1",
+        "feNacimiento": "09/07/1990",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "021301",
+        "naciDepartamento": "ANCASH",
+        "naciProvincia": "SANTA",
+        "naciDistrito": "CHIMBOTE",
+        "ubigeoDomicilio": "021309",
+        "domiDepartamento": "ANCASH",
+        "domiProvincia": "SANTA",
+        "domiDistrito": "NUEVO CHIMBOTE",
+        "domicilioDirecc": "URB. LOS ALAMOS MZ.G LT.10",
+        "ubigeoPostula": "021309",
+        "postulaDepartamento": "ANCASH",
+        "postulaProvincia": "SANTA",
+        "postulaDistrito": "NUEVO CHIMBOTE",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/195451.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL",
+            " REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 10:51:19",
+        "txGuidFormatoHojaVida": "bbfe9ca4-8567-4b1f-b863-cc3116053ef5",
+        "idSolicitudLista": 30919.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 195950,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "INDEPENDIENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "URB. LOS ALAMOS MZ.6  LT10",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "021309",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ANCASH",
+            "trabajoProvincia": "SANTA",
+            "trabajoDistrito": "NUEVO CHIMBOTE",
+            "idHojaVida": 195451,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 172636,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 195451,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 161419,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "CESAR VALLEJO",
+                "carreraUni": "LICECIADO EN ADMINISTRACION",
+                "concluidoEduUni": null,
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 162276,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 28000.0,
+                "idHojaVida": 195451,
+                "idEstado": 1,
+                "totalIngresos": 28000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 172489,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "H2A119 ",
+                "valor": 35000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "HYUNDAI ACCENT MARRON",
+                "comentario": null,
+                "idHojaVida": 195451,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

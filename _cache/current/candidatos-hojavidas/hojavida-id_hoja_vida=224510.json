@@ -1,0 +1,137 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 224510.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "01084819",
+        "nombres": "JAMEZ",
+        "apellidoPaterno": "ORBE",
+        "apellidoMaterno": "SANDOVAL",
+        "sexo": "1",
+        "feNacimiento": "16/03/1970",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "210608",
+        "naciDepartamento": "SAN MARTIN",
+        "naciProvincia": "SAN MARTIN",
+        "naciDistrito": "EL PORVENIR",
+        "ubigeoDomicilio": "210316",
+        "domiDepartamento": "SAN MARTIN",
+        "domiProvincia": "LAMAS",
+        "domiDistrito": "SAN ROQUE DE CUMBAZA",
+        "domicilioDirecc": "JR. SAN MARTIN S/N",
+        "ubigeoPostula": "210316",
+        "postulaDepartamento": "SAN MARTIN",
+        "postulaProvincia": "LAMAS",
+        "postulaDistrito": "SAN ROQUE DE CUMBAZA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/224510.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 51.0,
+        "organizacionPolitica": "NUEVA AMAZONIA",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 18:13:54",
+        "txGuidFormatoHojaVida": "cac520db-12b1-48bf-a43e-3e817881eceb",
+        "idSolicitudLista": 34507.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 245612,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INSTITUCION EDUCATIVA SANTA ROSA - TARAPOTO",
+            "ocupacionProfesion": "DOCENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR PROGRESO 114",
+            "anioTrabajoDesde": "2016",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "210601",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "SAN MARTIN",
+            "trabajoProvincia": "SAN MARTIN",
+            "trabajoDistrito": "TARAPOTO",
+            "idHojaVida": 224510,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 217363,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 224510,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 143131,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "ISPP-TARAPOTO",
+                "carreraNoUni": "PROFESOR DE NIUVEL PRIMARIA",
+                "concluidoNoUni": "1",
+                "idHojaVida": 224510,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 196115,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 28800.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 224510,
+                "idEstado": 1,
+                "totalIngresos": 28800.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 137049,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "0140-2018",
+            "txOrganoJuridicialObliga": "PODER JUDICIAL",
+            "txFalloObliga": "OMISION POR PENSION DE ALIMENTOS",
+            "idEstado": 1,
+            "idHojaVida": 224510,
+            "txComentario": null
+        }
+    ]
+}

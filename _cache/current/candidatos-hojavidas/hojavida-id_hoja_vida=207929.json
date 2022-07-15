@@ -1,0 +1,160 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 207929.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43506733",
+        "nombres": "HUGO RAMON",
+        "apellidoPaterno": "MONTES",
+        "apellidoMaterno": "MONTESINOS",
+        "sexo": "1",
+        "feNacimiento": "06/01/1986",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050611",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "PARINACOCHAS",
+        "naciDistrito": "PULLO",
+        "ubigeoDomicilio": "050611",
+        "domiDepartamento": "AYACUCHO",
+        "domiProvincia": "PARINACOCHAS",
+        "domiDistrito": "PULLO",
+        "domicilioDirecc": "JR LUCANAS ANEXO TARCO",
+        "ubigeoPostula": "050611",
+        "postulaDepartamento": "AYACUCHO",
+        "postulaProvincia": "PARINACOCHAS",
+        "postulaDistrito": "PULLO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/207929.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 2710.0,
+        "organizacionPolitica": "ALIANZA POR NUESTRO DESARROLLO",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 15:51:33",
+        "txGuidFormatoHojaVida": "f64d8202-9e80-4283-a667-a0dfd9e9f18a",
+        "idSolicitudLista": 32509.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 187143,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR Y GANADERO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ANEXO TARCO",
+            "anioTrabajoDesde": "2005",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "050611",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AYACUCHO",
+            "trabajoProvincia": "PARINACOCHAS",
+            "trabajoDistrito": "PULLO",
+            "idHojaVida": 207929,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 164764,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 207929,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 138390,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "TRABAJO EVENTUAL EN SANIDAD ANIMAL",
+            "idHojaVida": 207929,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 156386,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 4000.0,
+                "idHojaVida": 207929,
+                "idEstado": 1,
+                "totalIngresos": 4000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 197530,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "TERRENO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "ANEXO TARCO",
+                "comentario": "TERRENO AGRICOLA",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 207929,
+                "idEstado": 1,
+                "flValor": "15000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 167477,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "25292V ",
+                "valor": 5000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA MARCA ASYA MODELO HUNTER 150 COLOR ROJO",
+                "comentario": null,
+                "idHojaVida": 207929,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

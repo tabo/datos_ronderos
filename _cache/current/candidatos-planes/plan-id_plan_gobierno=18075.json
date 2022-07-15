@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 18075,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 4,
+        "txOrganizacionPolitica": "ACCION POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1670,
+        "juradoElectoral": "CORONEL PORTILLO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/1c14159f-9e2c-466a-be6f-2b99974b92b3.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/d732f17d-935c-4b18-962e-3f88d55a089b.pdf",
+        "txCodExpedienteExt": "ERM.2022009020",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 148775,
+            "txPgProblema": "DERECHOS VULNERADOS",
+            "txPgObjetivo": "GARANTIZAR EJERCICIO PLENO DE LOS DERECHOS\nDE LA POBLACIÓN .",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "95%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 148792,
+            "txPgProblema": "MÍNIMA COBERTURA SERVICIOS\nBÁSICOS.",
+            "txPgObjetivo": "MEJORAR COBERTURA SERVICIOS BÁSICOS.",
+            "txPgIndicador": "INDICE COMPETITIVIDAD",
+            "txPgMeta": "50%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 148831,
+            "txPgProblema": "DEFICIENTE NIVEL EBR.",
+            "txPgObjetivo": "PROMOVER E INCREMENTAR ACCESO EBR.",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "65%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 148872,
+            "txPgProblema": "INFRAESTRUCTURA DEFICIENTE.",
+            "txPgObjetivo": "DESARROLLAR INFRAESTRUCTURA COMPETITIVA.",
+            "txPgIndicador": "ÍNDICE COMPETITIVIDAD",
+            "txPgMeta": "72%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 148889,
+            "txPgProblema": "MÍNIMA PRODUCTIVIDAD",
+            "txPgObjetivo": "GENERAR PROGRAMAS DE FORTALECIMIENTO",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "89%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 148895,
+            "txPgProblema": "INEXISTENTE ASOCIATIVIDAD",
+            "txPgObjetivo": "PROMOVER ASOCIATIVIDAD PÚBLICO PRIVADO",
+            "txPgIndicador": "CCU",
+            "txPgMeta": "90%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 148910,
+            "txPgProblema": "MÍNIMA COBERTURA PTAR",
+            "txPgObjetivo": "INCREMENTAR COBERTURA PTAR",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "82%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 148922,
+            "txPgProblema": "INEXISTENTE EDUCACIÓN\nAMBIENTAL",
+            "txPgObjetivo": "PROMOVER EDUCACIÓN AMBIENTAL",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "88%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 148927,
+            "txPgProblema": "USO EXCESIVO DE ENERGIA FÓSIL",
+            "txPgObjetivo": "PROMOVER USO ENERGIA RENOVABLE",
+            "txPgIndicador": "OEA",
+            "txPgMeta": "70%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 148939,
+            "txPgProblema": "MÍNIMA TRANSPARENCIA DE \nPROCESOS.",
+            "txPgObjetivo": "INCREMENTAR TRANSPARENCIA EN PROCESOS\nMUNICIPALES.",
+            "txPgIndicador": "PDLC",
+            "txPgMeta": "98%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 148957,
+            "txPgProblema": "DEFICIENTE PARTICIPACIÓN CIUDADANA TOMA DECISIONES.",
+            "txPgObjetivo": "PROMOVER PARTICIPACION CIUDADANA.",
+            "txPgIndicador": "PDLC",
+            "txPgMeta": "95%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 148970,
+            "txPgProblema": "INOPERATIVIDAD DEL CONSEJO\nLOCAL DISTRITAL",
+            "txPgObjetivo": "ACTIVAR Y PROMOVER PARTICIPACIÓN CONSEJO LOCAL DISTRITAL.",
+            "txPgIndicador": "PDLC",
+            "txPgMeta": "98",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20931,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 303,
+        "txOrganizacionPolitica": "JUNIN SOSTENIBLE CON SU GENTE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/75324ebc-2b6e-4c32-9b4e-459d3ad76885.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/012ea9dd-6f8d-47d3-a2a3-89fa236703e8.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 136037,
+            "txPgProblema": "1.DEFICIENTE ACCESO A SERVICIOS BÁSICOS DE AGUA Y DESAGÜÉ",
+            "txPgObjetivo": "MEJORAR LA COBERTURA CON INFRAESTRUCTURA ADECUADA PARA ACCESO A AGUA Y DESAGÜÉ",
+            "txPgIndicador": "PORCENTAJE DE INFRAESTRUCTURA DE AGUA Y DESAGÜE",
+            "txPgMeta": "100%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136043,
+            "txPgProblema": "2. INADECUADO ACCESO A SERVICIOS DE SALUD Y EDUCACIÓN DE LA POBLACIÓN",
+            "txPgObjetivo": "GESTIONAR LAS NUEVAS INFRAESTRUCTURAS PARA SERVICIOS DE EDUCACIÓN Y SALUD",
+            "txPgIndicador": "PORCENTAJE DE INSTITUCIONES EDUCATIVAS Y CENTROS DE SALUD CON INFRAESTRUCTURA ADECUADA.",
+            "txPgMeta": "75%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136052,
+            "txPgProblema": "3.INEXISTENTES SERVICIOS DE PROMOCIÓN Y ATENCIÓN A LA POBLACIÓN JOVEN",
+            "txPgObjetivo": "FOMENTAR Y CREAR SERVICIOS DE PROMOCIÓN Y ATENCIÓN A LA POBLACIÓN JOVEN",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN JOVEN CON ACCESO A MEJORES SERVICIOS EN DEPORTE, CULTURA, EDUCACIÓN PRE-UNIVERSITARIA",
+            "txPgMeta": "75%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 136068,
+            "txPgProblema": "1.DEFICIENTE APOYO A LA REACTIVACIÓN ECONÓMICA LOCAL",
+            "txPgObjetivo": "PROMOVER LA REACTIVACIÓN ECONÓMICA A NIVEL DISTRITAL",
+            "txPgIndicador": "PORCENTAJE DE PERSONAS CON MEJORES INGRESOS ECONÓMICOS",
+            "txPgMeta": "75%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136082,
+            "txPgProblema": "2.INEXISTENCIA DE PROMOCIÓN COMERCIAL INTERDISTRITAL",
+            "txPgObjetivo": "IMPULSAR Y GESTIONAR NUEVAS INFRAESTRUCTURAS VIALES PARA LA PROMOCIÓN COMERCIAL CON DIFERENTES DISTRITOS",
+            "txPgIndicador": "PORCENTAJE DE NUEVAS VÍAS DE CONECTIVIDAD INTERDISTRITAL",
+            "txPgMeta": "50%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136091,
+            "txPgProblema": "3.INADECUADA INFRAESTRUCTURA VIAL",
+            "txPgObjetivo": "MEJORAMIENTO DE VÍAS DE COMUNICACIÓN EN EL DISTRITO",
+            "txPgIndicador": "PORCENTAJE DE VÍAS EN MANTENIMIENTO",
+            "txPgMeta": "75%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 136101,
+            "txPgProblema": "1.INEXISTENCIA DE USO DE ENERGÍAS RENOVABLES",
+            "txPgObjetivo": "PROMOVER EL USO DE ENERGÍAS AMIGABLES CON EL MEDIO AMBIENTE",
+            "txPgIndicador": "PORCENTAJE DE USO DE ENERGÍAS RENOVABLES EN EL DISTRITO",
+            "txPgMeta": "50%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136111,
+            "txPgProblema": "2.DEFICIENTE CONSERVACIÓN DE ECOSISTEMAS LOCALES",
+            "txPgObjetivo": "MEJORAMIENTO Y CONSERVACIÓN DE LAS ÁREAS ECOSISTEMATICAS DEL DISTRITO",
+            "txPgIndicador": "PORCENTAJE DE ÁREAS ECO SISTEMÁTICAS CONSERVADAS",
+            "txPgMeta": "100%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136169,
+            "txPgProblema": "3.INEXITENCIA DE PROMOCIÓN Y MEJORA DEL MEDIO AMBIENTE",
+            "txPgObjetivo": "MEJORAMIENTO DEL MEDIO AMBIENTE A TRAVÉS DE REFORESTACIÓN A NIVEL DE DISTRITO",
+            "txPgIndicador": "PORCENTAJE DE HA REFORESTADAS",
+            "txPgMeta": "50%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 136223,
+            "txPgProblema": "1.DESFASADO SERVICIO DE TRAMITES DOCUMENTARIOS",
+            "txPgObjetivo": "MEJORAMIENTO DE LOS SERVICIOS Y TRAMITES DOCUMENTARIOS A TRAVÉS DE LA TECNOLOGÍA ACTUAL",
+            "txPgIndicador": "PORCENTAJE DE SERVICIOS Y TRAMITES DOCUMENTARIOS SISTEMATIZADOS.",
+            "txPgMeta": "100%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136235,
+            "txPgProblema": "2. DEFICIENTE SERVICIO DE ATENCIÓN A LOS CIUDADANOS",
+            "txPgObjetivo": "MEJORAMIENTO DE LA ATENCIÓN A LA CIUDADANÍA",
+            "txPgIndicador": "PORCENTAJE DE SERVICIOS DE ATENCIÓN EFICIENTE",
+            "txPgMeta": "100%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

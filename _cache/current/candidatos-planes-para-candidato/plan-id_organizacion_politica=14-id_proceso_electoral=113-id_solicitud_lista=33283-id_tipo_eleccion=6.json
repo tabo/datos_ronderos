@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 26609,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/fa3618e7-72cd-47a4-a6ce-c54b413ecc17.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/f7efe0bc-d4f5-4c7d-ace7-ce2e15fc94bc.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 151296,
+            "txPgProblema": "ALTA PREVALENCIA DE ANEMIA EN NIÑOS ENTRE 6 A 35 MESES\nINSTITUCIONES EDUCATIVAS EN MAL ESTADO\nBAJOS NIVELES DE LOGROS DE APRENDIZAJE DE ESTUDIANTES DE 4° DE PRIMARIA EN MATEMÁTICAS Y COMPRENSIÓN LECTORA\nALTOS NIVELES DE HOGARES CON INADECUADOS SERVICIOS PÚBLICOS DE AGUA Y SANEAMIENTOS",
+            "txPgObjetivo": "DISMINUIR LA ANEMIA EN NIÑOS ENTRE 6 A 35 MESES \nINSTITUCIONES EDUCATIVAS EN BUEN ESTADO\nINCREMENTAR LOS NIVELES DE LOGROS DE APRENDIZAJE DE ESTUDIANTES DE 4° DE PRIMARIA EN MATEMÁTICAS Y COMPRENSIÓN LECTORA\nDISMINUIR LOS NIVELES DE HOGARES CON INADECUADOS SERVICIOS DE AGUA Y SANEAMIENTOS",
+            "txPgIndicador": "PROPORCIÓN DE NIÑOS ENTRE 6 Y 35 MESES CON ANEMIA\nPORCENTAJE DE INSTITUCIONES EDUCATIVAS EN BUEN ESTADO\nPORCENTAJE DE ESTUDIANTES DE 2° DE SECUNDARIA QUE SE ENCUENTRAN EN NIVEL SATISFACTORIO EN COMPRENSIÓN LECTORA\nPORCENTAJE DE ESTUDIANTES DE 2° DE SECUNDARIA QUE SE ENCUENTRAN EN NIVEL SATISFACTORIO EN MATEMÁTICAS\nPORCENTAJE DE HOGARES QUE SE ABASTECEN DE AGUA POR RED PÚBLICA, PILÓN O PILETA\nPORCENTAJE DE HOGARES QUE CUENTAN CON SERVICIO HIGIÉNICO POR RED PÚBLICA Y POZO SÉPTICO",
+            "txPgMeta": "58% - 45%\n14% - 25%\n39% - 48%\n14% - 25%\n87% - 93%\n49% - 57%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 151336,
+            "txPgProblema": "ALTOS NIVELES DE VULNERABILIDAD ECONÓMICA\nALTOS NIVELES DE POBLACIÓN DESOCUPADA (PEA DESOCUPADA)\nALTOS NIVELES DE DESARTICULACIÓN VIAL",
+            "txPgObjetivo": "DISMINUIR LOS NIVELES DE VULNERABILIDAD ECONÓMICA\nDISMINUIR LOS NIVELES DE POBLACIÓN DESOCUPADA (PEA DESOCUPADA)\nINCREMENTAR LOS NIVELES DE ARTICULACIÓN VIAL",
+            "txPgIndicador": "PORCENTAJE DE POBREZA MONETARIA\nPORCENTAJE DE LA POBLACIÓN ECONÓMICAMENTE ACTIVA (PEA)\nPORCENTAJE DE VÍAS VECINALES NO PAVIMENTADAS SE ENCUENTRA EN BUEN ESTADO",
+            "txPgMeta": "38% - 30%\n34% - 37%\n56% - 65%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 151359,
+            "txPgProblema": "INADECUADA DISPOSICIÓN DE RESIDUOS SÓLIDOS\nLIMITADAS CONDICIONES PARA FORESTACIÓN Y REFORESTACIÓN",
+            "txPgObjetivo": "ADECUADA DISPOSICIÓN DE RESIDUOS SÓLIDOS\nINCREMENTAR LA FORESTACIÓN Y REFORESTACIÓN",
+            "txPgIndicador": "PORCENTAJE DE TONELADAS DE RESIDUOS SÓLIDOS DISPUESTOS ADECUADAMENTE EN BOTADEROS\nNÚMERO DE (HAS) DE FORESTACIÓN Y REFORESTACIÓN POR AÑO",
+            "txPgMeta": "0% - 100%\n3 (HAS) – 6 (HAS)",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 151372,
+            "txPgProblema": "BAJOS NIVELES DE EJECUCIÓN PRESUPUESTARIA\nLIMITADOS ESPACIOS DE PARTICIPACIÓN CIUDADANA",
+            "txPgObjetivo": "INCREMENTAR LOS NIVELES DE EJECUCIÓN PRESUPUESTARIA\nINCREMENTAR LOS ESPACIOS DE PARTICIPACIÓN CIUDADANA",
+            "txPgIndicador": "PORCENTAJE DE EJECUCIÓN PRESUPUESTAL\nPORCENTAJE DE ORGANIZACIONES QUE ASISTEN A ESPACIOS DE PARTICIPACIÓN CIUDADANA",
+            "txPgMeta": "85% - 95%\n80% - 90%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

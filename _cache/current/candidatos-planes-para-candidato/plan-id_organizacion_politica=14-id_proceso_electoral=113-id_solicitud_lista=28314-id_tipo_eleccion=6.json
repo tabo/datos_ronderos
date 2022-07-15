@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 21640,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/a04702f8-6be4-45d2-b255-402bc0c29d50.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/9369fe42-126c-4219-bf82-491e3636a74f.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 210068,
+            "txPgProblema": "INCREMENTO DE LOS ÍNDICES DE DELINCUENCIA",
+            "txPgObjetivo": "IMPLEMENTAR MEJORAS EN EL SISTEMA DE SEGURIDAD CIUDADANA Y BRINDAR MAYORES OPORTUNIDADES DE DESARROLLO EN EL DISTRITO",
+            "txPgIndicador": "CANTIDAD DE DELITOS, FALTAS Y ACTOS DE VIOLENCIA FAMILIAR COMETIDOS EN PUEBLO NUEVO",
+            "txPgMeta": "REDUCIR LOS ÍNDICES DELICTIVOS EN UN 30%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210118,
+            "txPgProblema": "ESCASAS OPORTUNIDADES DE DESARROLLO EDUCATIVO POSTERIOR A LA EDUCACIÓN BÁSICA REGULAR",
+            "txPgObjetivo": "BRINDAR OPORTUNIDADES DE DESARROLLO A LOS JÓVENES EN CONVENIO CON UNIVERSIDADES Y ENTIDADES TÉCNICAS",
+            "txPgIndicador": "CANTIDAD DE JÓVENES BENEFICIADOS",
+            "txPgMeta": "BRINDAR OPORTUNIDADES A 500 JÓVENES",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210145,
+            "txPgProblema": "BAJA CALIDAD DE SERVICIOS BÁSICOS (TUGURIZACIÓN) QUE GENERA BAJA CALIDAD DE VIDA",
+            "txPgObjetivo": "DESARROLLAR PROGRAMA DE EXPANSIÓN DE REDES DE ALCANTARILLADO",
+            "txPgIndicador": "CANTIDAD DE HOGARES BENEFICIADOS",
+            "txPgMeta": "BENEFICIAR A 5000 HOGARES",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 210175,
+            "txPgProblema": "ALTA TASA DE INFORMALIDAD",
+            "txPgObjetivo": "PROMOVER UNA POLÍTICA DE FORMALIZACIÓN DE LAS EMPRESAS Y EL COMERCIO MINORISTA EN EL DISTRITO",
+            "txPgIndicador": "PORCENTAJE DE NEGOCIOS Y EMPRESAS FORMALIZADAS EN EL DISTRITO",
+            "txPgMeta": "AUMENTAR LA CANTIDAD DE NEGOCIOS Y EMPRESAS FORMALIZADAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210196,
+            "txPgProblema": "DEFICIENTE ORGANIZACIÓN DEL TRANSPORTE",
+            "txPgObjetivo": "FOMENTAR LA FORMALIZACIÓN Y ORGANIZACIÓN DEL TRANSPORTE",
+            "txPgIndicador": "CANTIDAD DE BENEFICIARIOS",
+            "txPgMeta": "BENEFICIAR A 2000 TRANSPORTISTAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210232,
+            "txPgProblema": "ALTOS ÍNDICES DE PERSONAS EN RIESGO DE POBREZA",
+            "txPgObjetivo": "PROMOVER TALLERES OCUPACIONALES Y PRODUCTIVOS PARA EL AUTOEMPLEO",
+            "txPgIndicador": "CANTIDAD DE BENEFICIARIOS",
+            "txPgMeta": "BENEFICIAR A 2000 PERSONAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 210264,
+            "txPgProblema": "CONTAMINACIÓN VISUAL POR PANELES PUBLICITARIOS Y CABLEADO ELÉCTRICO",
+            "txPgObjetivo": "CREAR EL PLAN DE DESARROLLO URBANO Y PAISAJISTA DEL DISTRITO",
+            "txPgIndicador": "PORCENTAJE DE AVANCE DE LOS PLANES",
+            "txPgMeta": "AVANCE AL 100%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210292,
+            "txPgProblema": "ACCESO VIAL RUSTICO",
+            "txPgObjetivo": "DESARROLLAR UN PROGRAMA DE MANTENIMIENTO Y MEJORA DE VÍAS VEHICULARES Y PEATONALES",
+            "txPgIndicador": "PORCENTAJE DE VÍAS MEJORADAS",
+            "txPgMeta": "MEJORAR EL 50% DE LAS VÍAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210321,
+            "txPgProblema": "INEXISTENTE O ABANDONO DE JARDINES Y ÁREAS VERDES",
+            "txPgObjetivo": "REALIZAR UN PROGRAMA DE ARBORIZACIÓN Y PROMOVER EL CUIDADO DE LOS ESPACIOS PÚBLICOS",
+            "txPgIndicador": "PORCENTAJE DE JARDINES Y ÁREAS VERDES RECUPERADOS",
+            "txPgMeta": "RECUPERAR EL 70% DE JARDINES Y ÁREAS VERDES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 210354,
+            "txPgProblema": "MENOR PARTICIPACIÓN EN LOS ESPACIOS DE CONCERTACIÓN MUNICIPAL",
+            "txPgObjetivo": "DESARROLLAR LAS CAPACIDADES DE LOS DIRIGENTES E IMPLEMENTAR UNA POLÍTICA DE GESTIÓN PÚBLICA DE LA MANO CON EL VECINO",
+            "txPgIndicador": "PARTICIPACIÓN DE DIRIGENTES EN ESPACIOS DE DIÁLOGO Y TOMA DE DECISIONES",
+            "txPgMeta": "PARTICIPACIÓN DEL 80% DE LOS DIRIGENTES Y VECINO EN LOS ESPACIOS DE DIÁLOGO Y TOMA DE DECISIONES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210376,
+            "txPgProblema": "DESAPROBACIÓN DE LA GESTIÓN MUNICIPAL",
+            "txPgObjetivo": "DESARROLLAR UNA POLÍTICA DE MEJORA CONTINUA Y ATENCIÓN AL CIUDADANO",
+            "txPgIndicador": "ÍNDICE DE SATISFACCIÓN DEL USUARIO",
+            "txPgMeta": "TENER UN ÍNDICE DE SATISFACCIÓN DEL USUARIO DEL 80%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210393,
+            "txPgProblema": "DEMORA EN LAS SOLICITUDES DE INFORMACIÓN PÚBLICA",
+            "txPgObjetivo": "OPTIMIZAR PROCESOS ADMINISTRATIVOS Y REDUCCIÓN DE BUROCRACIA",
+            "txPgIndicador": "PORCENTAJE DE SOLICITUDES ATENDIDAS DENTRO DEL PLAZO DE LEY",
+            "txPgMeta": "ATENDER EL 100% LAS SOLICITUDES DENTRO DEL PLAZO DE LEY",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

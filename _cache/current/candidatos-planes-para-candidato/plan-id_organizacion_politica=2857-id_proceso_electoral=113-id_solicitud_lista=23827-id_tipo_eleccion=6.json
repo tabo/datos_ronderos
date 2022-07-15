@@ -1,0 +1,115 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 17153,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2857,
+        "txOrganizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/0964c7be-4ef7-4d75-948b-44ce0e6512ac.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/d9a3c46f-73d8-49c5-ac79-fa91bacb1798.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 125858,
+            "txPgProblema": "DESNUTRICIÓN CRÓNICA",
+            "txPgObjetivo": "MEJORA DE LA SALUD",
+            "txPgIndicador": "%",
+            "txPgMeta": "REDUCIR 5 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 125859,
+            "txPgProblema": "ANEMIA",
+            "txPgObjetivo": "MEJORA DE LA SALUD",
+            "txPgIndicador": "%",
+            "txPgMeta": "REDUCIR 15 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 125861,
+            "txPgProblema": "FALTA DE CENTRO DE SALUD",
+            "txPgObjetivo": "MEJORA DE LA SALUD",
+            "txPgIndicador": "UNIDAD",
+            "txPgMeta": "AMBULANCIA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 125862,
+            "txPgProblema": "AGRICULTURA",
+            "txPgObjetivo": "MEJORA DE LA AGRICULTURA",
+            "txPgIndicador": "REPRESA",
+            "txPgMeta": "TENER UNA REPRESA",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 125863,
+            "txPgProblema": "AGRICULTURA",
+            "txPgObjetivo": "MEJORA DE LA AGRICULTURA",
+            "txPgIndicador": "REFORESTACIÓN",
+            "txPgMeta": "200 HECTÁREAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 126124,
+            "txPgProblema": "PRESERVACIÓN DEL MEDIO AMBIENTE",
+            "txPgObjetivo": "MEDIO AMBIENTE PROTEGIDO",
+            "txPgIndicador": "PUREZA DEL MEDIO AMBIENTE",
+            "txPgMeta": "100 % PUREZA",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126125,
+            "txPgProblema": "PRESERVACIÓN DE LOS RECURSOS NATURALES",
+            "txPgObjetivo": "RECURSOS NATURALES PROTEGIDOS",
+            "txPgIndicador": "RECURSOS NATURALES",
+            "txPgMeta": "100 % PROTEGIDOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 125866,
+            "txPgProblema": "SEGURIDAD CIUDADANA",
+            "txPgObjetivo": "MEJORA E IMPLEMENTACIÓN",
+            "txPgIndicador": "EQUIPAMIENTO",
+            "txPgMeta": "% EQUIPADOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 125867,
+            "txPgProblema": "PERSONAL CAPACITADO",
+            "txPgObjetivo": "MEJORA DE LA GESTIÓN",
+            "txPgIndicador": "CAPACITACIÓN",
+            "txPgMeta": "80 % CAPACITADOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

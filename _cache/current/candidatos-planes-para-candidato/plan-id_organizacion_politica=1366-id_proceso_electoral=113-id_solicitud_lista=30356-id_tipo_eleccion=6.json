@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23682,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1366,
+        "txOrganizacionPolitica": "FUERZA POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/8cb4e22a-5de3-41a0-a622-f78c6e60cc3e.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/7933c297-a00d-4ddd-a90e-16b72ad06aec.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 197988,
+            "txPgProblema": "1. FALTA AGUA POTABLE",
+            "txPgObjetivo": "CERRAR BRECHA DE ABASTECIMIENTO DE AGUA.",
+            "txPgIndicador": "% DE RECURSO HÍDRICO EN VIVIENDAS",
+            "txPgMeta": "LLEVAR AGUA A TODOS LOS SECTORES DE PIMENTEL",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 197995,
+            "txPgProblema": "2. DESAGÜE Y ALCANTARILLADO",
+            "txPgObjetivo": "CAMBIAR DE TUBERÍAS, DANDO PRIORIDAD A LAS DEL CASCO URBANO QUE SON LAS MÁS ANTIGUAS.",
+            "txPgIndicador": "% DE POBLACIÓN QUE CUENTA CON UN BUEN SERVICIO DE DESAGÜÉ",
+            "txPgMeta": "BRINDAR UN BUEN SERVICIO AL DISTRITO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 198024,
+            "txPgProblema": "3. SEGURIDAD CIUDADANA",
+            "txPgObjetivo": "REDUCIR DELINCUENCIA",
+            "txPgIndicador": "ÍNDICE DE ASALTOS EN DISTRITO",
+            "txPgMeta": "IMPLEMENTAR MONITOREO CON CÁMARAS DE SEGURIDAD EN EL DISTRITO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 198040,
+            "txPgProblema": "1. SECTOR RURAL (AGRICULTURA Y GANADERÍA EN CRISIS)",
+            "txPgObjetivo": "ARTICULAR APOYO DEL ESTADO Y DEL SECTOR PRIVADO",
+            "txPgIndicador": "ÍNDICE DE INGRESOS POR FAMILIA",
+            "txPgMeta": "DESARROLLO ECONÓMICO RURAL",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 198051,
+            "txPgProblema": "2.TURISMO",
+            "txPgObjetivo": "INVERSIONES EN EL SECTOR QUE PERMITAN UN MAYOR CRECIMIENTO",
+            "txPgIndicador": "ÍNDICE DE CRECIMIENTO EN SECTOR",
+            "txPgMeta": "EJECUCIÓN DE MALECÓN SUR.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 198065,
+            "txPgProblema": "3.DESARROLLO ECONÓMICO DEL DISTRITO",
+            "txPgObjetivo": "IMPULSAR EL CRECIMIENTO EMPRESARIAL APALANCANDO A EMPRESAS, ASOCIACIONES O COOPERATIVAS A TRAVÉS DE FONDOS DEL ESTADO.",
+            "txPgIndicador": "ÍNDICE DE INVERSIONES EN DISTRITO",
+            "txPgMeta": "EJECUTAR PROYECTOS DE ACUICULTURA, PLANTA DE DERIVADOS LÁCTEOS, RECONVERSIÓN DE CULTIVOS E INNOVACIÓN DE PROCESOS EN ACTIVIDADES DE NUESTROS EMPRENDEDORES",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 198073,
+            "txPgProblema": "1.DESAGÜES ARROJADOS AL MAR",
+            "txPgObjetivo": "QUE SE TENGA UN CONTROL Y SEGUIMIENTO",
+            "txPgIndicador": "% DE MICROORGANISMOS CONTAMINANTES EN NUESTRO MAR",
+            "txPgMeta": "SOLUCIONAR LA CONTAMINACIÓN EN NUESTRO MAR.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 198085,
+            "txPgProblema": "2.AUMENTO DE BASURA EN NUESTRA PLAYA EN TEMPORADA DE VERANO",
+            "txPgObjetivo": "CONTROL AMBIENTAL",
+            "txPgIndicador": "ÍNDICE DE RECOLECCIÓN DE BASURA EN NUESTRA PLAYA",
+            "txPgMeta": "1-PRIMER BALNEARIO LIMPIO.\n2-EDUCACION AL VISITANTE.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 198096,
+            "txPgProblema": "3.FALTA DE ARBORIZACIÓN O ÁREAS VERDES",
+            "txPgObjetivo": "ARBORIZAR E INSTALAR JARDINES Y PARQUES EN LUGARES ESTRATÉGICOS.",
+            "txPgIndicador": "% DE ÁREAS VERDES",
+            "txPgMeta": "ARBORIZAR TODA LA CARRETERA PIMENTEL – CHICLAYO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 198107,
+            "txPgProblema": "1 . POCO PERSONAL CAPACITADOS.",
+            "txPgObjetivo": "CAPACITACIÓN E INTEGRACIÓN",
+            "txPgIndicador": "EVALUACIÓN",
+            "txPgMeta": "MEJORAR LA ADMINISTRACIÓN TRIBUTARIA.\nTENER UN MEJOR SERVICIO PUBLICO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 198119,
+            "txPgProblema": "2. AUMENTAR RECAUDACIÓN",
+            "txPgObjetivo": "CUMPLIMIENTO PAGOS DE LOS SERVICIOS.",
+            "txPgIndicador": "FONDOS MUNICIPALES",
+            "txPgMeta": "DEJAR LA ALCALDÍA EN BUENA SITUACIÓN ECONÓMICA.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 198126,
+            "txPgProblema": "3. DESORDEN EN TRÁMITES ADMINISTRATIVOS",
+            "txPgObjetivo": "ORDENAR EL APARATO GERENCIAL Y ADMINISTRATIVO",
+            "txPgIndicador": "% TRÁMITES ADMINISTRATIVOS DIGITALIZADOS",
+            "txPgMeta": "INSTALAR UN MEJOR SISTEMA ADMINISTRATIVO DIGITALIZADO QUE FACILITE EL ORDEN DE LOS TRAMITES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

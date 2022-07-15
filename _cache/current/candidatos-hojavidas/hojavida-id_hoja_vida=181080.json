@@ -1,0 +1,143 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 181080.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "09526740",
+        "nombres": "FORTUNATO",
+        "apellidoPaterno": "MENDEZ",
+        "apellidoMaterno": "SILVESTRE",
+        "sexo": "1",
+        "feNacimiento": "03/03/1966",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "020410",
+        "naciDepartamento": "ANCASH",
+        "naciProvincia": "CARHUAZ",
+        "naciDistrito": "TINCO",
+        "ubigeoDomicilio": "020410",
+        "domiDepartamento": "ANCASH",
+        "domiProvincia": "CARHUAZ",
+        "domiDistrito": "TINCO",
+        "domicilioDirecc": "AV. MANUEL TORRES S/N",
+        "ubigeoPostula": "020410",
+        "postulaDepartamento": "ANCASH",
+        "postulaProvincia": "CARHUAZ",
+        "postulaDistrito": "TINCO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/181080.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL",
+            " REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 14:17:20",
+        "txGuidFormatoHojaVida": "96032344-5cc6-460b-982c-4b865ef566d9",
+        "idSolicitudLista": 28974.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 182377,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "CONDUCTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "DISTRITO DE TINCO",
+            "anioTrabajoDesde": "1985",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "020410",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ANCASH",
+            "trabajoProvincia": "CARHUAZ",
+            "trabajoDistrito": "TINCO",
+            "idHojaVida": 181080,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "TAXISTA (AUTO ALQUILADO)"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 160485,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 181080,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 153854,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 10800.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 181080,
+                "idEstado": 1,
+                "totalIngresos": 10800.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 164723,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "OG8855 ",
+                "valor": 6000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "GUINDA/MITSUBISHI/L200",
+                "comentario": null,
+                "idHojaVida": 181080,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 135238,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "00638-2007-0-1801-JP-FC-07",
+            "txOrganoJuridicialObliga": "JUZGADO DE PAZ LETRADO - LIMA",
+            "txFalloObliga": "FUNDADA LA DEMANDA",
+            "idEstado": 1,
+            "idHojaVida": 181080,
+            "txComentario": null
+        }
+    ]
+}

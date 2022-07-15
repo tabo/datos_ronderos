@@ -1,0 +1,156 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 185067.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44755962",
+        "nombres": "JUAN CARLOS",
+        "apellidoPaterno": "PACHECO",
+        "apellidoMaterno": "TORRE",
+        "sexo": "1",
+        "feNacimiento": "07/01/1987",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "080704",
+        "naciDepartamento": "HUANCAVELICA",
+        "naciProvincia": "CHURCAMPA",
+        "naciDistrito": "EL CARMEN",
+        "ubigeoDomicilio": "080704",
+        "domiDepartamento": "HUANCAVELICA",
+        "domiProvincia": "CHURCAMPA",
+        "domiDistrito": "EL CARMEN",
+        "domicilioDirecc": "CALLE EL CARMEN SN BARRIO CARHUANCHO",
+        "ubigeoPostula": "080704",
+        "postulaDepartamento": "HUANCAVELICA",
+        "postulaProvincia": "CHURCAMPA",
+        "postulaDistrito": "EL CARMEN",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/185067.jpg",
+        "estado": "INSCRITO",
+        "idOrganizacionPolitica": 226.0,
+        "organizacionPolitica": "MOVIMIENTO INDEPENDIENTE TRABAJANDO PARA TODOS",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 10:53:26",
+        "txGuidFormatoHojaVida": "dfc7a92e-99f2-4153-95c6-39b607642121",
+        "idSolicitudLista": 29511.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 227084,
+            "tengoExpeLaboral": "2",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MUNICIPALIDAD DISTRITAL EL  CARMEN",
+            "ocupacionProfesion": "CONDUCTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR. 28 DE JULIO S/N PAUCARBAMBILLA - EL CARMEN",
+            "anioTrabajoDesde": "2022",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "080704",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "HUANCAVELICA",
+            "trabajoProvincia": "CHURCAMPA",
+            "trabajoDistrito": "EL CARMEN",
+            "idHojaVida": 185067,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 200251,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 185067,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 159591,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 136,
+            "orgPolRenunciaOp": "MOVIMIENTO REGIONAL AYNI",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 185067,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 183201,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 12600.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 185067,
+                "idEstado": 1,
+                "totalIngresos": 12600.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 189238,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "W5K897 ",
+                "valor": 55000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMION DE TRES TONELADAS",
+                "comentario": "CAMION ROJO",
+                "idHojaVida": 185067,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 189237,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "31461W ",
+                "valor": 2000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL ZUMO",
+                "comentario": "MOTO LINEAL COLOR NARANJA",
+                "idHojaVida": 185067,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,162 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 141369.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "72619834",
+        "nombres": "ROQUE EDGARDO",
+        "apellidoPaterno": "GUANILO",
+        "apellidoMaterno": "RIOS",
+        "sexo": "1",
+        "feNacimiento": "10/04/1992",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140133",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "JESUS MARIA",
+        "ubigeoDomicilio": "140111",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "LINCE",
+        "domicilioDirecc": "JR GRAL CORDOVA 2241 DPTO. F1",
+        "ubigeoPostula": "140111",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "LINCE",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/141369.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 22.0,
+        "organizacionPolitica": "RENOVACION POPULAR",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 20:44:27",
+        "txGuidFormatoHojaVida": "3d5a8470-454b-41c5-aeb3-d6b94b85a93f",
+        "idSolicitudLista": 23626.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 208203,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "G3 ASOCIADOS SAC",
+            "ocupacionProfesion": "ARQUITECTO",
+            "rucTrabajo": "20602499538",
+            "direccionTrabajo": "GRAL CORDOVA 2241DPTO F1 - LINCE",
+            "anioTrabajoDesde": "2017",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140111",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "LINCE",
+            "idHojaVida": 141369,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 183263,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 141369,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 166789,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD DE SAN MARTÍN DE PORRES",
+                "carreraUni": "BACHILLER EN ARQUITECTURA",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2018",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 141620,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 4,
+                "orgPolCargoElec": "ACCION POPULAR",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2019",
+                "anioCargoElecHasta": "2022",
+                "idHojaVida": 141369,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 170352,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 37323.0,
+                "otroIngresoPublico": 23400.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 141369,
+                "idEstado": 1,
+                "totalIngresos": 60723.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 4057,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "G3 ASOCIADOS SAC",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 50.0,
+                "flValor": 750.0,
+                "idHojaVida": 141369,
+                "idEstado": 1,
+                "txUsuario": "09081732",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

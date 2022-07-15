@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 216147.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "20722630",
+        "nombres": "MARCO ANTONIO",
+        "apellidoPaterno": "VEGA",
+        "apellidoMaterno": "CASAS",
+        "sexo": "1",
+        "feNacimiento": "05/01/1973",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110312",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "JAUJA",
+        "naciDistrito": "LEONOR ORDOÑEZ",
+        "ubigeoDomicilio": "110312",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "JAUJA",
+        "domiDistrito": "LEONOR ORDOÑEZ",
+        "domicilioDirecc": "CARRET.CENTRAL S/N",
+        "ubigeoPostula": "110312",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "JAUJA",
+        "postulaDistrito": "LEONOR ORDOÑEZ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/216147.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2716.0,
+        "organizacionPolitica": "JUNIN RENACE",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 10:39:58",
+        "txGuidFormatoHojaVida": "dbcc07d2-a4ff-4b93-87c1-f4d3dc0413f9",
+        "idSolicitudLista": 33561.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 221117,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "TIENDA COMERCIAL",
+            "ocupacionProfesion": "TECNICO AGROPECUARIO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CARRETERA CENTRAL S/N",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "110312",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "JAUJA",
+            "trabajoDistrito": "LEONOR ORDOÑEZ",
+            "idHojaVida": 216147,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 194813,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 216147,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 149648,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "I.S.T SAUSA",
+                "carreraTecnico": "TÉCNICO AGROPECUARIO",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 216147,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 157716,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2690,
+            "orgPolRenunciaOp": "COMBINA JUNIN",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 216147,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 179031,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 18000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 216147,
+                "idEstado": 1,
+                "totalIngresos": 18000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 186098,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "W40219 ",
+                "valor": 4000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO WANXIN COLOR AZUL Y NEGRO",
+                "comentario": null,
+                "idHojaVida": 216147,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

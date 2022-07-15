@@ -1,0 +1,158 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 195222.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "76441493",
+        "nombres": "LLAHAM CARLOS",
+        "apellidoPaterno": "GOMERO",
+        "apellidoMaterno": "INOCENTE",
+        "sexo": "1",
+        "feNacimiento": "23/08/1996",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "021904",
+        "naciDepartamento": "ANCASH",
+        "naciProvincia": "HUARMEY",
+        "naciDistrito": "MALVAS",
+        "ubigeoDomicilio": "021904",
+        "domiDepartamento": "ANCASH",
+        "domiProvincia": "HUARMEY",
+        "domiDistrito": "MALVAS",
+        "domicilioDirecc": "CPM.MOLINO PAMPA MZ. E LT. 03",
+        "ubigeoPostula": "021904",
+        "postulaDepartamento": "ANCASH",
+        "postulaProvincia": "HUARMEY",
+        "postulaDistrito": "MALVAS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/195222.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 12:56:17",
+        "txGuidFormatoHojaVida": "534efa4b-bebc-4b1b-b1f4-53a941787289",
+        "idSolicitudLista": 30898.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 218745,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "MUSICO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "MALVAS",
+            "anioTrabajoDesde": "2016",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "021904",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ANCASH",
+            "trabajoProvincia": "HUARMEY",
+            "trabajoDistrito": "MALVAS",
+            "idHojaVida": 195222,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 192781,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 195222,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 177440,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 8400.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 195222,
+                "idEstado": 1,
+                "totalIngresos": 8400.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 173842,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "02706H ",
+                "valor": 12600.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": null,
+                "idHojaVida": 195222,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 173841,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "56235H ",
+                "valor": 5200.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": null,
+                "idHojaVida": 195222,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 136238,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "1630-2022",
+            "txOrganoJuridicialObliga": "JUZGADO DE PAZ LETRADO DE LIMA ESTE",
+            "txFalloObliga": "SENTENCIA",
+            "idEstado": 1,
+            "idHojaVida": 195222,
+            "txComentario": null
+        }
+    ]
+}

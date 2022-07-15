@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 139569.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "10315067",
+        "nombres": "ELMER FELIPE",
+        "apellidoPaterno": "PUESCAS",
+        "apellidoMaterno": "MOSCOL",
+        "sexo": "1",
+        "feNacimiento": "14/10/1962",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "240101",
+        "naciDepartamento": "CALLAO",
+        "naciProvincia": "CALLAO",
+        "naciDistrito": "CALLAO",
+        "ubigeoDomicilio": "140132",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "VILLA MARIA DEL TRIUNFO",
+        "domicilioDirecc": "JR. RAMIRO MERINO 714 NUEVA ESPERANZA",
+        "ubigeoPostula": "140132",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "VILLA MARIA DEL TRIUNFO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/139569.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2857.0,
+        "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "08/06/2022 12:33:30",
+        "txGuidFormatoHojaVida": "087c03e2-4346-4b45-95b5-ec863220f920",
+        "idSolicitudLista": 23408.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 157092,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MINISTERIO DE DEFENSA(MARINA DE GUERRA)",
+            "ocupacionProfesion": "TEC .ADMINISTRATIVO 2",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV SALAVERRY S/N",
+            "anioTrabajoDesde": "1982",
+            "anioTrabajoHasta": "1992",
+            "ubigeoTrabajo": "140133",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "JESUS MARIA",
+            "idHojaVida": 139569,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 137203,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 139569,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 134604,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "CESCA",
+                "carreraTecnico": "ADMINISTRACION DE NEGOSIOS",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 139569,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "DIPLOMA DE EGRESADO 15 /04/1987"
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 135754,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 5,
+            "orgPolRenunciaOp": "RENACIMIENTO UNIDO NACIONAL",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 139569,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 136536,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 6000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 139569,
+                "idEstado": 1,
+                "totalIngresos": 6000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 14,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "HANNA PUESCAS TECHNOLOGYSK SAC",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 6000.0,
+                "flValor": 6000.0,
+                "idHojaVida": 139569,
+                "idEstado": 1,
+                "txUsuario": "10706102",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

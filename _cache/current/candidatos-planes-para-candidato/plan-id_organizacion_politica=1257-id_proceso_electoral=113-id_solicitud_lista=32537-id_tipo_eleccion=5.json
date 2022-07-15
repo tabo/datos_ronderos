@@ -1,0 +1,125 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 25863,
+        "idTipoEleccion": 5,
+        "txTipoEleccion": "MUNICIPAL PROVINCIAL",
+        "idOrganizacionPolitica": 1257,
+        "txOrganizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/4b289ef3-d0ba-426e-9e98-6a2bc00712f3.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/4ecbf9c3-b48c-45ac-88f0-4e03ad92d340.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 217402,
+            "txPgProblema": "DEFICIENCIAS EN SISTEMA EDUCATIVO.",
+            "txPgObjetivo": "CONSTRUCCIÓN Y MEJORAMIENTO DE LA INFRAESTRUCTURA Y CAPACITACIÓN PROFESIONAL PARA BRINDAR UNA MEJOR CALIDAD FORMATIVA.",
+            "txPgIndicador": "GOBIERNO REGIONAL Y MINISTERIOS.INFES",
+            "txPgMeta": "TENER UNA MEJOR CALIDAD DE LA INFRAESTRUCTURA EDUCATIVA EN LA PROVINCIA EN UN 90%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 217429,
+            "txPgProblema": "DEFICIENCIAS EN EL SISTEMA DE SALUD",
+            "txPgObjetivo": "MEJORAMIENTO DE LA INFRAESTRUCTURA Y EL EQUIPAMIENTO DE LOS CENTROS DE SALUD",
+            "txPgIndicador": "GOBIERNO REGIONAL Y MINISTERIOS DE SALUD, MIDIS.",
+            "txPgMeta": "TENER UNA MEJOR CALIDAD DE SERVICIO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 217445,
+            "txPgProblema": "DIFICULTADES Y DEFICIENCIAS EN EL ACCESO A LAS TELECOMUNICACIONES",
+            "txPgObjetivo": "GESTIONAR Y COLOCAR EN PUNTOS ESTRATÉGICOS, ANTENAS RETRANSMISORAS DE SEÑAL DE INTERNET Y COMUNICACIONES",
+            "txPgIndicador": "MINISTERIO DE TRANSPOSTES Y COMUNICACIONES.",
+            "txPgMeta": "PARA EL 2026, EL 80% DE LA POBLACIÓN TENDRÁ ACCESO A INTERNET Y LAS FALLAS DE LA RED SERÁN MENORES.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 217462,
+            "txPgProblema": "FALTA DE PRODUCCIÓN EN INDUSTRIALIZACIÓN",
+            "txPgObjetivo": "DAR ORIENTACIÓN E INDUCCIÓN A TEMAS DE GESTIÓN EMPRESARIAL, PARA QUE LOS POBLADORES TENGAN LA CAPACIDAD DE CREAR SUS PROPIOS EMPRENDIMIENTOS.",
+            "txPgIndicador": "MINISTERIOS, EMPRESA PRIVADA",
+            "txPgMeta": "TRANSFORMAR AL POBLADOR DE MODO QUE SEA CAPAZ DE SER VISIONARIO Y COMPETITIVO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 217476,
+            "txPgProblema": "CRECIMIENTO DESORDENADO DE LA ACTIVIDAD COMERCIAL",
+            "txPgObjetivo": "CONSTRUCCIÓN Y MEJORAMIENTO DE MERCADOS EN ÁMBITO PROVINCIAL",
+            "txPgIndicador": "MINISTERIO DE AGRICULTURA, REGIONAL Y NACIONAL",
+            "txPgMeta": "EL 2026 AL MENOS EL 90% DE LOS DISTRITOS A NIVEL PROVINCIAL CONTARAN POR LO MENOS UN MERCADO DISTRITAL QUE ABASTEZCA A LA POBLACIÓN SIN TENER EPISODIOS DE DESORGANIZACIÓN Y PROBLEMAS COMERCIALES.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 217495,
+            "txPgProblema": "ALTA INCIDENCIA EN DEFORESTACIÓN",
+            "txPgObjetivo": "GESTIÓN PARA LA CONSERVACIÓN, RECUPERACIÓN Y PRESERVACIÓN DE RECURSOS NATURALES Y LA BIODIVERSIDAD.",
+            "txPgIndicador": "DIRECCIÓN AGRARIA, PRONAMACH, AGRO RURAL.",
+            "txPgMeta": "PARA EL 2026 TENER UN MENOR INCIDENTE DE ACTOS QUE DESTRUYAN LA BIODIVERSIDAD Y LOS ECOSISTEMAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 217509,
+            "txPgProblema": "POCA O NULA PROTECCIÓN Y RECUPERACIÓN DE LAS FUENTES DE AGUA Y CABECERAS DE CUENCAS",
+            "txPgObjetivo": "MEJORAMIENTO, CONSERVACIÓN Y PROTECCIÓN DE LAS CABECERAS DE CUENCAS",
+            "txPgIndicador": "MINISTERIO AGRICULTURA, CIERRA AZUL Y FRIEGO.",
+            "txPgMeta": "ASEGURAR LA MAYOR CANTIDAD DE VERTIENTES DE AGUA POSIBLES, PARA LA VIDA SILVESTRE Y HUMANA.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 217533,
+            "txPgProblema": "ALTAS CANTIDADES DE RESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "CREAR PROGRAMAS DE RECICLAJE.",
+            "txPgIndicador": "TODAS ENTIDADES INVOLUCRADAS",
+            "txPgMeta": "AL FINALIZAR LA GESTIÓN, EL ÍNDICE DE BASURA ACUMULADA SERÁ MENOR",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 217563,
+            "txPgProblema": "LIMITADA INFRAESTRUCTURA DEL PALACIO MUNICIPAL.",
+            "txPgObjetivo": "GESTIÓN Y MEJORAMIENTO DE LA INFRAESTRUCTURA DEL PALACIO MUNICIPAL",
+            "txPgIndicador": "GOBIERNO PROVINCIAL, REGIONAL Y MINISTERIOS.",
+            "txPgMeta": "BRINDAR UN MEJOR SERVICIO A LA COLECTIVIDAD.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 217580,
+            "txPgProblema": "ESCASA IMPLEMENTACIÓN DEL SISTEMA DE DEFENSA CIVIL.",
+            "txPgObjetivo": "GESTIÓN DE LA ATENCIÓN Y SEGURIDAD A LA POBLACIÓN CONTRA RIESGOS DE ALUVIONES, HUAYCOS, SISMOS Y OTROS FENÓMENOS NATURALES.",
+            "txPgIndicador": "DEFENSA CIVIL REEGIONAL,INDECI",
+            "txPgMeta": "LOS DAÑOS PROVOCADOS POR LOS DESASTRES NATURALES SERÁN REDUCIDOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 173411.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42469711",
+        "nombres": "ROMEO",
+        "apellidoPaterno": "VARGAS",
+        "apellidoMaterno": "MOZOMBITE",
+        "sexo": "1",
+        "feNacimiento": "24/08/1977",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "150205",
+        "naciDepartamento": "LORETO",
+        "naciProvincia": "ALTO AMAZONAS",
+        "naciDistrito": "JEBEROS",
+        "ubigeoDomicilio": "150205",
+        "domiDepartamento": "LORETO",
+        "domiProvincia": "ALTO AMAZONAS",
+        "domiDistrito": "JEBEROS",
+        "domicilioDirecc": "LIBERTAD S/N",
+        "ubigeoPostula": "150205",
+        "postulaDepartamento": "LORETO",
+        "postulaProvincia": "ALTO AMAZONAS",
+        "postulaDistrito": "JEBEROS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/173411.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 02:17:31",
+        "txGuidFormatoHojaVida": "45153b55-1897-4730-923a-b73bd4600308",
+        "idSolicitudLista": 27959.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 213644,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE LIBERTAD S/N",
+            "anioTrabajoDesde": "2000",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "150205",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LORETO",
+            "trabajoProvincia": "ALTO AMAZONAS",
+            "trabajoDistrito": "JEBEROS",
+            "idHojaVida": 173411,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 188222,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 173411,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 174026,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 7200.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 173411,
+                "idEstado": 1,
+                "totalIngresos": 7200.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 217948,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CALLE LIBERTAD S/N",
+                "comentario": "CONSTANCIA DE MORADOR",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 173411,
+                "idEstado": 1,
+                "flValor": "5000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 182095,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "7798BS ",
+                "valor": 2000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOFURGON",
+                "comentario": null,
+                "idHojaVida": 173411,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 201928.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "28848572",
+        "nombres": "CLINIO",
+        "apellidoPaterno": "SANTARIA",
+        "apellidoMaterno": "GUTIERREZ",
+        "sexo": "1",
+        "feNacimiento": "19/03/1967",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "051101",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "SUCRE",
+        "naciDistrito": "QUEROBAMBA",
+        "ubigeoDomicilio": "051111",
+        "domiDepartamento": "AYACUCHO",
+        "domiProvincia": "SUCRE",
+        "domiDistrito": "MORCOLLA",
+        "domicilioDirecc": "CENTRO POBLADO TINTAY S/N",
+        "ubigeoPostula": "051111",
+        "postulaDepartamento": "AYACUCHO",
+        "postulaProvincia": "SUCRE",
+        "postulaDistrito": "MORCOLLA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/201928.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 06:29:47",
+        "txGuidFormatoHojaVida": "05dd01ac-d837-4efc-9127-8a1c257a2631",
+        "idSolicitudLista": 31758.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 242404,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "VENTA DE GANADOS",
+            "ocupacionProfesion": "GANADERO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "C.P. TINTAY",
+            "anioTrabajoDesde": "2018",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "051111",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AYACUCHO",
+            "trabajoProvincia": "SUCRE",
+            "trabajoDistrito": "MORCOLLA",
+            "idHojaVida": 201928,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 214215,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 201928,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 164221,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 400,
+            "orgPolRenunciaOp": "ALLIN KAUSAY",
+            "anioRenunciaOp": "2011",
+            "idHojaVida": 201928,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 193763,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 6000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 201928,
+                "idEstado": 1,
+                "totalIngresos": 6000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 238595,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "SUCRE-MORCOLLA- MZ I LOTE 1 - CENTRO POBLADO TINTAY",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "55074233",
+                "fichaTomoSunarp": null,
+                "autovaluo": 9000.0,
+                "idHojaVida": 201928,
+                "idEstado": 1,
+                "flValor": "20000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 197309,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "1519PB ",
+                "valor": 4000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINIAL",
+                "comentario": null,
+                "idHojaVida": 201928,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

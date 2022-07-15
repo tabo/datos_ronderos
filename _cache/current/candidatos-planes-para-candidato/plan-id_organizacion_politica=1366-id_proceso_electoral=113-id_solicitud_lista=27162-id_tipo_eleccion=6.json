@@ -1,0 +1,105 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20488,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1366,
+        "txOrganizacionPolitica": "FUERZA POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/c38c080b-a835-4163-a25a-d40d6deaaa9b.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/aede817e-a502-48a4-8885-915f2985aeb6.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 222928,
+            "txPgProblema": "1.\tINSEGURIDAD",
+            "txPgObjetivo": "DISMINUIR LOS CRIMENES COMUNES",
+            "txPgIndicador": "INDICE DE CRIMINALIDAD\nDENUNCIAS POLICIALES",
+            "txPgMeta": "DISMINUIR EN UN 45 % EL INDICE DE CRIMINALIDD EN LA PROVINCIA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 222931,
+            "txPgProblema": "2.\tDESNUTRICION INFANTIL",
+            "txPgObjetivo": "REDUCIER LA DESNUTRICION CRONICA INFANTIL",
+            "txPgIndicador": "% DE NIÑOS CON DESNUTRICION CRONICA",
+            "txPgMeta": "REDUCIR A MENOS DEL 10 %  LA DESNUTRICION EN NIÑOS MENORES DE 05 AÑOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 222933,
+            "txPgProblema": "1.\tREACTIVACION ECONOMICA",
+            "txPgObjetivo": "FACILITAR LA INVERSION PRIVADA PARA LA REACTIVACION ECONOMICA",
+            "txPgIndicador": "% PEA  PROVINCIAL",
+            "txPgMeta": "DISMINUIR EL DESEMPLEO  EN UN 30 %",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 222934,
+            "txPgProblema": "3.\tBAJA PRODUCCION AGRICOLA",
+            "txPgObjetivo": "FACILITAR LA MEJORA DE LA PRODUCCIÓN LOCAL Y EL VALOR AGREGADO A LA PRODUCCIÓN",
+            "txPgIndicador": "PBI AGRICOLA LOCAL",
+            "txPgMeta": "AUMENTAR EN 20% PBI AGRICOLA",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 222935,
+            "txPgProblema": "1.\tDEPREDACION DE LA BIODIVERCIDAD",
+            "txPgObjetivo": "PROTEGER LA BIODIVERSIDAD LOCAL",
+            "txPgIndicador": "% DE ESPECIES DEPREDADAS",
+            "txPgMeta": "REPOBLAR UN 30 % DE ESPECIES ENDEMICAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 222938,
+            "txPgProblema": "2.\tMAL MANEJO DE RESIDUOS SOLIDOS",
+            "txPgObjetivo": "REDUCIR LA CONTAMINACION POR  RR.SS.",
+            "txPgIndicador": "Nº DE  FOCOS INFECIONCIOSOS",
+            "txPgMeta": "RELLENO SANITARIO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 222943,
+            "txPgProblema": "1.\tDOCUMENTOS DE GESTION PUBLICA INEXISTENTES",
+            "txPgObjetivo": "ACTUALIZAR Y ELABORAR LOS DOCUMENTOS DE GESTION PUBLICA",
+            "txPgIndicador": "Nº DE DOCUMENTOS DE GESTIÓN PUBLICA ACTIVOS",
+            "txPgMeta": "PDCL\nCCL\nPIGARS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 222945,
+            "txPgProblema": "2.\tPROBLEMÁTICA CON LOS TRABAJADORES MUNICIPALES",
+            "txPgObjetivo": "REGULARIZAR LOS ACUERDOS CON LOS TRABAJADORES MUNICIPALES DE ACUERDO A LEY",
+            "txPgIndicador": "IMPLEMENTACION LOS MECANISMOS LABORALES MUNICIPALES PREVISTOS Y PRESUPUESTADOS CORRECTAMENTE",
+            "txPgMeta": "TRABAJADORES MUNICIPALES PAGADOS A TIEMPO Y SEGÚN CORRESPONDA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

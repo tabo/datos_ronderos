@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 218237.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "28290673",
+        "nombres": "TEODORO",
+        "apellidoPaterno": "JAULIS",
+        "apellidoMaterno": "LLAMOCCA",
+        "sexo": "1",
+        "feNacimiento": "17/01/1973",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050101",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "HUAMANGA",
+        "naciDistrito": "AYACUCHO",
+        "ubigeoDomicilio": "050103",
+        "domiDepartamento": "AYACUCHO",
+        "domiProvincia": "HUAMANGA",
+        "domiDistrito": "CARMEN ALTO",
+        "domicilioDirecc": "JR.VALDELOMAR 110",
+        "ubigeoPostula": "050103",
+        "postulaDepartamento": "AYACUCHO",
+        "postulaProvincia": "HUAMANGA",
+        "postulaDistrito": "CARMEN ALTO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/218237.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "17/06/2022 15:26:49",
+        "txGuidFormatoHojaVida": "f5d3e68a-6464-4461-86f4-faf10a4abd8e",
+        "idSolicitudLista": 33792.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 248524,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "IE HERMILIO VALDIZAN",
+            "ocupacionProfesion": "LICENCIADO EN EDUCACIÓN",
+            "rucTrabajo": null,
+            "direccionTrabajo": "PAMPAMARCA",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "050103",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AYACUCHO",
+            "trabajoProvincia": "HUAMANGA",
+            "trabajoDistrito": "CARMEN ALTO",
+            "idHojaVida": 218237,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 220160,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 218237,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 185972,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD NACIONAL DE SAN CRISTOBAL DE HUAMANGA",
+                "carreraUni": "LICENCIADO EN EDUCACIÓN",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "1999",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 198293,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 30000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 218237,
+                "idEstado": 1,
+                "totalIngresos": 30000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 243744,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "HUAMANGA-CARMEN ALTO- MZ A LOTE 7A - PUEBLO JOVEN VISTA ALEGRE",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "55007200",
+                "fichaTomoSunarp": null,
+                "autovaluo": 5000.0,
+                "idHojaVida": 218237,
+                "idEstado": 1,
+                "flValor": "50000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,153 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 154400.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "00131500",
+        "nombres": "HUMBERTO",
+        "apellidoPaterno": "BANDA",
+        "apellidoMaterno": "ESTELA",
+        "sexo": "1",
+        "feNacimiento": "08/04/1971",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "060307",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "CELENDIN",
+        "naciDistrito": "MIGUEL IGLESIAS",
+        "ubigeoDomicilio": "250106",
+        "domiDepartamento": "UCAYALI",
+        "domiProvincia": "CORONEL PORTILLO",
+        "domiDistrito": "NUEVA REQUENA",
+        "domicilioDirecc": "NUCLEO 13",
+        "ubigeoPostula": "250106",
+        "postulaDepartamento": "UCAYALI",
+        "postulaProvincia": "CORONEL PORTILLO",
+        "postulaDistrito": "NUEVA REQUENA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/154400.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 233.0,
+        "organizacionPolitica": "UCAYALI REGION CON FUTURO",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 16:07:00",
+        "txGuidFormatoHojaVida": "4f90b803-51c4-4513-b3e7-44a312e04f05",
+        "idSolicitudLista": 25369.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 170291,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "TRABAJADOR INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTURA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "NUEVA REQUENA",
+            "anioTrabajoDesde": "2000",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "250106",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "UCAYALI",
+            "trabajoProvincia": "CORONEL PORTILLO",
+            "trabajoDistrito": "NUEVA REQUENA",
+            "idHojaVida": 154400,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 149113,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 154400,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 137628,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 233,
+                "orgPolCargoElec": "UCAYALI REGION CON FUTURO",
+                "idCargoEleccion": 10,
+                "cargoEleccion": "ALCALDE DISTRITAL",
+                "anioCargoElecDesde": "2011",
+                "anioCargoElecHasta": "2014",
+                "idHojaVida": 154400,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 140842,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2278,
+            "orgPolRenunciaOp": "MOVIMIENTO INDEPENDIENTE REGIONAL CAMBIO UCAYALINO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 154400,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 145273,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 15600.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 154400,
+                "idEstado": 1,
+                "totalIngresos": 15600.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 134909,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "03049-2014",
+            "txOrganoJuridicialObliga": "2DO. JUZGADO DE PAZ LETRADO DE TRUJILLO",
+            "txFalloObliga": "FUNDADA DEMANDA ALIMENTOS, SEÑALA PENSIÓN DE S/. 800.00 MENSUALES",
+            "idEstado": 1,
+            "idHojaVida": 154400,
+            "txComentario": null
+        }
+    ]
+}

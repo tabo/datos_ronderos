@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 21286,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2869,
+        "txOrganizacionPolitica": "PARTIDO PATRIOTICO DEL PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/dcaae675-3ab1-4c05-8e1b-deaa9fdb923d.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/44ffebc1-eb00-46a6-a657-0d4f89d2924c.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 205058,
+            "txPgProblema": "INCREMENTO DE LA INSEGURIDAD CIUDADANA EN TODO EL DISTRITO",
+            "txPgObjetivo": "ERRADICAR LA DELINCUENCIA EN EL DISTRITO.",
+            "txPgIndicador": "REDEUCIR LA DELINCUENCIA AL 0%",
+            "txPgMeta": "AL 2026, NO DEBE EXISTIR DELINCUENCIA EN EL DISTRITO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 205097,
+            "txPgProblema": "CRECIENTE COMERCIO AMBULATORIO",
+            "txPgObjetivo": "ERRADICAR EL COMERCIO AMBULATORIO",
+            "txPgIndicador": "ANULAR EL COMERCIO AMBULATORIO AL 0%",
+            "txPgMeta": "AL AÑO 2026, NO DEBE EXISTIR COMERCIO AMBULATORIO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 205224,
+            "txPgProblema": "CRECIENTE CONTAMINACION AMBIENTAL  Y CAOS VEHICULAR.",
+            "txPgObjetivo": "REDUCCIÓN DE LA CONTAMINACIÓN AMBIENTAL.",
+            "txPgIndicador": "0% EN CONTAMINACIÓN AMBIENTAL",
+            "txPgMeta": "AL AÑO 2026 TENER UN DISTRITO ECOLÓGICO.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 205252,
+            "txPgProblema": "ESCASO TRABAJO CONCERTADO ENTRE LAS AUTORIDADES Y LÍDERES DE LAS ASOCIACIONES DE PRODUCTORES",
+            "txPgObjetivo": "TRABAJO ARTICULADO CON LOS LIDERES DE LAS ASOCIACIONES DE PRODUCTORES Y PRODUCTORES INFORMALES.",
+            "txPgIndicador": "TRABAJO CONJUNTO ENTRE AUTORIDADES PRODUCTORES FORMALES E INFORMALES.",
+            "txPgMeta": "REALCIÓN ARMÓNICA ENTRE ADMINISTRADORES Y ADMINISTRADOS PARA LOGRAR PROYECTOS CONJUNTOS EN BENEFICIO DE TODA LA POBLACIÓN.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

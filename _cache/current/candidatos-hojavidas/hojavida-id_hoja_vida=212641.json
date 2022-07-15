@@ -1,0 +1,140 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 212641.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "76647974",
+        "nombres": "PAULO CESAR",
+        "apellidoPaterno": "ANDRADE",
+        "apellidoMaterno": "CHAVEZ",
+        "sexo": "1",
+        "feNacimiento": "10/06/2000",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040101",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "AREQUIPA",
+        "naciDistrito": "AREQUIPA",
+        "ubigeoDomicilio": "040127",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "AREQUIPA",
+        "domiDistrito": "JACOBO HUNTER",
+        "domicilioDirecc": "CALLE FRANCIA 404",
+        "ubigeoPostula": "040127",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "AREQUIPA",
+        "postulaDistrito": "JACOBO HUNTER",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/212641.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2744.0,
+        "organizacionPolitica": "YO AREQUIPA",
+        "numeroCandidato": 7.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 16:13:20",
+        "txGuidFormatoHojaVida": "b706a7ff-d8d3-4084-98e5-0b60b81dda16",
+        "idSolicitudLista": 33112.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 212333,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "SERVISORT",
+            "ocupacionProfesion": "TECNICO EN EQUIPO PESADO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "TARAPACA MANZANA L, LOTE 4 AVELINO CACERES",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "040127",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "AREQUIPA",
+            "trabajoDistrito": "JACOBO HUNTER",
+            "idHojaVida": 212641,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 185787,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 212641,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 147384,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "SENATI",
+                "carreraTecnico": "MANTENIMIENTO DE MAQUINARIA PESADA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 212641,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 172263,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 30000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 20000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 212641,
+                "idEstado": 1,
+                "totalIngresos": 50000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 180514,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "D4C431 ",
+                "valor": 50000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUDI ,BLANCO GLACIAL METALICO",
+                "comentario": null,
+                "idHojaVida": 212641,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

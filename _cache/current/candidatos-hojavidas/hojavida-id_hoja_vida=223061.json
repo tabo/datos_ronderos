@@ -1,0 +1,146 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 223061.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "73600772",
+        "nombres": "BRAYHAN",
+        "apellidoPaterno": "MONDRAGON",
+        "apellidoMaterno": "ANDRADE",
+        "sexo": "1",
+        "feNacimiento": "05/05/1996",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "030213",
+        "naciDepartamento": "APURIMAC",
+        "naciProvincia": "AYMARAES",
+        "naciDistrito": "TINTAY",
+        "ubigeoDomicilio": "030213",
+        "domiDepartamento": "APURIMAC",
+        "domiProvincia": "AYMARAES",
+        "domiDistrito": "TINTAY",
+        "domicilioDirecc": "COMUNIDAD TINTAY",
+        "ubigeoPostula": "030213",
+        "postulaDepartamento": "APURIMAC",
+        "postulaProvincia": "AYMARAES",
+        "postulaDistrito": "TINTAY",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/223061.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 13:12:52",
+        "txGuidFormatoHojaVida": "dfb97d02-33fa-4a2b-a036-ba28d58febb9",
+        "idSolicitudLista": 34335.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 182108,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "CONSTRUCTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "EN DIFERENTES LUGARES DE LA REGION DE APURIMAC",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "030213",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "APURIMAC",
+            "trabajoProvincia": "AYMARAES",
+            "trabajoDistrito": "TINTAY",
+            "idHojaVida": 223061,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 160211,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 223061,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 155024,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD TECNOLOGICA DE LOS ANDES",
+                "carreraUni": "TODAVÍA NO SE OBTUVO",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 153058,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 36000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 223061,
+                "idEstado": 1,
+                "totalIngresos": 36000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 164583,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "AKW001 ",
+                "valor": 25000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTOMOVIL DE COLOR NEGRO",
+                "comentario": null,
+                "idHojaVida": 223061,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

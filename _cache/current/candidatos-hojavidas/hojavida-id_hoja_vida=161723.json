@@ -1,0 +1,142 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 161723.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "08113180",
+        "nombres": "OSCAR EMILIO",
+        "apellidoPaterno": "CESPEDES",
+        "apellidoMaterno": "RAMOS",
+        "sexo": "1",
+        "feNacimiento": "06/03/1965",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "100201",
+        "naciDepartamento": "ICA",
+        "naciProvincia": "CHINCHA",
+        "naciDistrito": "CHINCHA ALTA",
+        "ubigeoDomicilio": "140143",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "SANTA ANITA",
+        "domicilioDirecc": "TIAHUANACO MZ. M1 LT. 32 COOP. VIV LOS CHANCAS DE ANDAHUAYLAS",
+        "ubigeoPostula": "140143",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "SANTA ANITA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/161723.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2898.0,
+        "organizacionPolitica": "FE EN EL PERU",
+        "numeroCandidato": 7.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 10:51:02",
+        "txGuidFormatoHojaVida": "f425a192-a4d1-4218-8317-18d5bfb387e6",
+        "idSolicitudLista": 26384.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 160188,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "SERVICIO DE TRANSPORTE CESPEDES",
+            "ocupacionProfesion": "TRANSPORTISTA",
+            "rucTrabajo": "10081131801",
+            "direccionTrabajo": "CALLE TIAHUANACO 410 COOP ANDAHUAYLAS",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "2019",
+            "ubigeoTrabajo": "140143",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "SANTA ANITA",
+            "idHojaVida": 161723,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 139957,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 161723,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 135350,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "POLICIA NACIONAL DEL PERU",
+                "carreraTecnico": "SUB OFICIAL DE PRIMERA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 161723,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "POLICIA EN SITUACION DE RETIRO"
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 138461,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 24000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 161723,
+                "idEstado": 1,
+                "totalIngresos": 24000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 134274,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "04986-2016-2-3207-JP-PE-01",
+            "feSentenciaPenal": "13/02/2017",
+            "txOrganoJudiPenal": "JUZGADO PENAL UNIPERSONAL - SEDE LAS FLORES",
+            "txDelitoPenal": "OMISION A LA ASISTENCIA FAMILIAR",
+            "txFalloPenal": "UN AÑO DE PENA PRIVATIVA DE LIBERTAD - SUSPENDIDA",
+            "idParamModalidad": 11,
+            "txModalidad": "SUSPENDIDA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 161723,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": []
+}

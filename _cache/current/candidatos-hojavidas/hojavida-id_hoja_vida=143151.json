@@ -1,0 +1,134 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 143151.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "17599206",
+        "nombres": "JOSE RICARDO",
+        "apellidoPaterno": "CHAPOÑAN",
+        "apellidoMaterno": "DAMIAN",
+        "sexo": "1",
+        "feNacimiento": "16/01/1961",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "130303",
+        "naciDepartamento": "LAMBAYEQUE",
+        "naciProvincia": "LAMBAYEQUE",
+        "naciDistrito": "ILLIMO",
+        "ubigeoDomicilio": "130312",
+        "domiDepartamento": "LAMBAYEQUE",
+        "domiProvincia": "LAMBAYEQUE",
+        "domiDistrito": "TUCUME",
+        "domicilioDirecc": "CASERIO LOS BANCES S/N.3",
+        "ubigeoPostula": "130312",
+        "postulaDepartamento": "LAMBAYEQUE",
+        "postulaProvincia": "LAMBAYEQUE",
+        "postulaDistrito": "TUCUME",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/143151.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2857.0,
+        "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 22:00:00",
+        "txGuidFormatoHojaVida": "5e9fe32f-ca89-4aef-b524-c83be19f850c",
+        "idSolicitudLista": 23856.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 162477,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASERIO LOS BANCES",
+            "anioTrabajoDesde": "1982",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "130312",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LAMBAYEQUE",
+            "trabajoProvincia": "LAMBAYEQUE",
+            "trabajoDistrito": "TUCUME",
+            "idHojaVida": 143151,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 141973,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 143151,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 137855,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 32,
+            "orgPolRenunciaOp": "PARTIDO APRISTA PERUANO",
+            "anioRenunciaOp": "2010",
+            "idHojaVida": 143151,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 134677,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "7199-2012",
+            "txOrganoJuridicialObliga": "JUZGADO PENAL UNIPERSONAL LAMBAYEQUE",
+            "txFalloObliga": "PRIVATIVA LIBERTAD CONDICIONAL",
+            "idEstado": 1,
+            "idHojaVida": 143151,
+            "txComentario": null
+        },
+        {
+            "idHvSentenciaObliga": 134678,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 2,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "12750-2018",
+            "txOrganoJuridicialObliga": "JUZGADO PENAL UNIPERSONAL LAMBAYEQUE",
+            "txFalloObliga": "PRIVATIVA LIBERTAD SUSPENDIDA",
+            "idEstado": 1,
+            "idHojaVida": 143151,
+            "txComentario": null
+        }
+    ]
+}

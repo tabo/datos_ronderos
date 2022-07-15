@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 161018.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "41990000",
+        "nombres": "ROLI",
+        "apellidoPaterno": "OSCCO",
+        "apellidoMaterno": "CHACON",
+        "sexo": "1",
+        "feNacimiento": "12/08/1982",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "030105",
+        "naciDepartamento": "APURIMAC",
+        "naciProvincia": "ABANCAY",
+        "naciDistrito": "HUANIPACA",
+        "ubigeoDomicilio": "030105",
+        "domiDepartamento": "APURIMAC",
+        "domiProvincia": "ABANCAY",
+        "domiDistrito": "HUANIPACA",
+        "domicilioDirecc": "COMUNIDAD TACMARA",
+        "ubigeoPostula": "030105",
+        "postulaDepartamento": "APURIMAC",
+        "postulaProvincia": "ABANCAY",
+        "postulaDistrito": "HUANIPACA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/161018.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2886.0,
+        "organizacionPolitica": "HATARIY APURIMAC",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 19:44:34",
+        "txGuidFormatoHojaVida": "6dfbb721-bf30-4b05-ab2b-e4d6963246a5",
+        "idSolicitudLista": 26287.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 208008,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CHACRA",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "COMUNIDAD TACMARA",
+            "anioTrabajoDesde": "2017",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "030105",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "APURIMAC",
+            "trabajoProvincia": "ABANCAY",
+            "trabajoDistrito": "HUANIPACA",
+            "idHojaVida": 161018,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 183482,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 161018,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 153601,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2731,
+            "orgPolRenunciaOp": "PODEMOS PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 161018,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 153600,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 2737,
+            "orgPolRenunciaOp": "PROGRESISTA DE APURIMAC",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 161018,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 170404,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 20000.0,
+                "idHojaVida": 161018,
+                "idEstado": 1,
+                "totalIngresos": 20000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 179091,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "AUTO TOYOTA",
+                "marca": null,
+                "placa": "D7W-635",
+                "valor": 22000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "KLY3S11BDTC330822",
+                "comentario": "EN TRASFERENCIA",
+                "idHojaVida": 161018,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

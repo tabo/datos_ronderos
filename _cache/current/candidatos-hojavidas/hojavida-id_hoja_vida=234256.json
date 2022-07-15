@@ -1,0 +1,139 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 234256.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40589807",
+        "nombres": "TEOFILO",
+        "apellidoPaterno": "ENCISO",
+        "apellidoMaterno": "HUANHUAYO",
+        "sexo": "1",
+        "feNacimiento": "02/10/1980",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "080103",
+        "naciDepartamento": "HUANCAVELICA",
+        "naciProvincia": "HUANCAVELICA",
+        "naciDistrito": "ACORIA",
+        "ubigeoDomicilio": "110704",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "SATIPO",
+        "domiDistrito": "MAZAMARI",
+        "domicilioDirecc": "ANEXO LOS ANGELES DE EDEN",
+        "ubigeoPostula": "110700",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "SATIPO",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/234256.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 10.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 11:46:15",
+        "txGuidFormatoHojaVida": "37315349-da53-4067-9e06-e5cef30496e8",
+        "idSolicitudLista": 35636.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 234149,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MUNICPALIDAD DISTRITAL DE MAZAMARI",
+            "ocupacionProfesion": "REGIDOR",
+            "rucTrabajo": "20190003541",
+            "direccionTrabajo": "AVENIDA PERU MZ 57",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "110704",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "SATIPO",
+            "trabajoDistrito": "MAZAMARI",
+            "idHojaVida": 234256,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "NINGUNA"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 206632,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 234256,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 143878,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 1259,
+                "orgPolCargoElec": "MOVIMIENTO POLITICO REGIONAL PERU LIBRE",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2019",
+                "anioCargoElecHasta": "2022",
+                "idHojaVida": 234256,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "REGIDOR"
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 161663,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1259,
+            "orgPolRenunciaOp": "MOVIMIENTO POLITICO REGIONAL PERU LIBRE",
+            "anioRenunciaOp": "2019",
+            "idHojaVida": 234256,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 187800,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 11700.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 234256,
+                "idEstado": 1,
+                "totalIngresos": 11700.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

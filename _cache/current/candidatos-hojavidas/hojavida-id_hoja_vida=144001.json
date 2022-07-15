@@ -1,0 +1,153 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 144001.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40241906",
+        "nombres": "JUAN MIGUEL",
+        "apellidoPaterno": "RIOS",
+        "apellidoMaterno": "PANDURO",
+        "sexo": "1",
+        "feNacimiento": "30/03/1974",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "250102",
+        "naciDepartamento": "UCAYALI",
+        "naciProvincia": "CORONEL PORTILLO",
+        "naciDistrito": "YARINACOCHA",
+        "ubigeoDomicilio": "250102",
+        "domiDepartamento": "UCAYALI",
+        "domiProvincia": "CORONEL PORTILLO",
+        "domiDistrito": "YARINACOCHA",
+        "domicilioDirecc": "ASENT. H. LAS LOMAS DE SAN JOSE DE YARINACOCHA MZ. G LT. 5",
+        "ubigeoPostula": "250102",
+        "postulaDepartamento": "UCAYALI",
+        "postulaProvincia": "CORONEL PORTILLO",
+        "postulaDistrito": "YARINACOCHA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/144001.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 19:24:37",
+        "txGuidFormatoHojaVida": "841c19bb-3eee-4892-8349-8a045263232b",
+        "idSolicitudLista": 23968.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 167849,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AGRICULTURA",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ASENTAMIENTO HUMANO LAS LOMAS DE SAN JOSE DE YARINACOCHA MZA 6, LTE 5",
+            "anioTrabajoDesde": "1994",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "250102",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "UCAYALI",
+            "trabajoProvincia": "CORONEL PORTILLO",
+            "trabajoDistrito": "YARINACOCHA",
+            "idHojaVida": 144001,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "VENTA DE PLATANO, MAIZ, ETC"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 146824,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 144001,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 135548,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "INGRESOS DE VENTA DE PLATANOS EN ENTRE PRODUCTOS AGRICOLAS, EL MONTO DETALLADO ANUAL ES APROXIMADO POR COSECHA DE PRODUCTOS.",
+            "idHojaVida": 144001,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 143488,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 12000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 144001,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 204660,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "U22997 ",
+                "valor": 5600.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "GRISS METALICO",
+                "comentario": "MOTO LINIAL",
+                "idHojaVida": 144001,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 204659,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "NY55929",
+                "valor": 6000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR NEGRO",
+                "comentario": "MOTO",
+                "idHojaVida": 144001,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

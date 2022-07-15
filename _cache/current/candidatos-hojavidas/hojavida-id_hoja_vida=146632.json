@@ -1,0 +1,147 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 146632.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44525389",
+        "nombres": "CARLOS JOSUE",
+        "apellidoPaterno": "SILVA",
+        "apellidoMaterno": "CORNELIO",
+        "sexo": "1",
+        "feNacimiento": "16/01/1986",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "090102",
+        "naciDepartamento": "HUANUCO",
+        "naciProvincia": "HUANUCO",
+        "naciDistrito": "CHINCHAO",
+        "ubigeoDomicilio": "090102",
+        "domiDepartamento": "HUANUCO",
+        "domiProvincia": "HUANUCO",
+        "domiDistrito": "CHINCHAO",
+        "domicilioDirecc": "BARRIO MAYOBAMBA",
+        "ubigeoPostula": "090102",
+        "postulaDepartamento": "HUANUCO",
+        "postulaProvincia": "HUANUCO",
+        "postulaDistrito": "CHINCHAO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/146632.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 10:26:45",
+        "txGuidFormatoHojaVida": "10f6d262-35cb-40e7-a13d-b6c17b47276c",
+        "idSolicitudLista": 24321.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 213711,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AGRO MAYOBAMBA",
+            "ocupacionProfesion": "ASISTENTE CAMPO",
+            "rucTrabajo": "10445253893",
+            "direccionTrabajo": "MAYOBAMBA",
+            "anioTrabajoDesde": "2011",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "090102",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "HUANUCO",
+            "trabajoProvincia": "HUANUCO",
+            "trabajoDistrito": "CHINCHAO",
+            "idHojaVida": 146632,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 188285,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 146632,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 140805,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": -1,
+                "orgPolCargoPartidario": "FUERZA ECOLOGISTA REGIONAL HUANUQUEÑO 2015",
+                "cargoPartidario": "SINPATIZANTE",
+                "anioCargoPartiDesde": "2015",
+                "anioCargoPartiHasta": "2015",
+                "idHojaVida": 146632,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "RENUNCIE"
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 155370,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2466,
+            "orgPolRenunciaOp": "FUERZA ECOLOGISTA REGIONAL HUANUQUEÑO",
+            "anioRenunciaOp": "2015",
+            "idHojaVida": 146632,
+            "idEstado": 1,
+            "txComentario": "RENUNCIE A LA ORGANIZACION FUUERZA ECOLOGISTA REGIONAL HUANUCO EL 2015"
+        }
+    ],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 142267,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "CUENTO CON DOS VIVIENDAS PERO NO ESTAN INSCRITOS EN REGISTROS PUBLICOS UNO DE 200 M2 Y EL OTRO DE 250 M2",
+            "idHojaVida": 146632,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 174875,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 23000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 146632,
+                "idEstado": 1,
+                "totalIngresos": 23000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

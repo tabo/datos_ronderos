@@ -1,0 +1,162 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 231671.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "76087693",
+        "nombres": "EDWIN IVAN",
+        "apellidoPaterno": "SANDOVAL",
+        "apellidoMaterno": "TUÑOQUE",
+        "sexo": "1",
+        "feNacimiento": "08/04/1997",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "130306",
+        "naciDepartamento": "LAMBAYEQUE",
+        "naciProvincia": "LAMBAYEQUE",
+        "naciDistrito": "MORROPE",
+        "ubigeoDomicilio": "130306",
+        "domiDepartamento": "LAMBAYEQUE",
+        "domiProvincia": "LAMBAYEQUE",
+        "domiDistrito": "MORROPE",
+        "domicilioDirecc": "JR. SOLA 155",
+        "ubigeoPostula": "130000",
+        "postulaDepartamento": "LAMBAYEQUE",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/231671.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2857.0,
+        "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "ACCESITARIO"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 23:12:59",
+        "txGuidFormatoHojaVida": "727ba7ae-2095-4734-88e8-25fbeb3147da",
+        "idSolicitudLista": 35336.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 165565,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MF. ASESORÍA Y CONSULTORÍA",
+            "ocupacionProfesion": "ASESOR FINANCIERO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ALFREDO LAPOINT",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "130101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LAMBAYEQUE",
+            "trabajoProvincia": "CHICLAYO",
+            "trabajoDistrito": "CHICLAYO",
+            "idHojaVida": 231671,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "ASESOR FINANCIERO"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 144712,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 231671,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 146841,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL PEDRO RUIZ GALLO",
+                "carreraUni": "ESTUDIANTE",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": "2020",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "ESTUDIANTE EN ADMINISTRACIÓN"
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 141883,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 11400.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 231671,
+                "idEstado": 1,
+                "totalIngresos": 11400.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 154607,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "5597DM ",
+                "valor": 3800.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": "MOTO",
+                "idHojaVida": 231671,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 154606,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "64749M ",
+                "valor": 2500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOTAXI AZUL",
+                "comentario": "MOTOTAXI",
+                "idHojaVida": 231671,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

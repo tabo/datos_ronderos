@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 221118.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "10802639",
+        "nombres": "DAMIAN",
+        "apellidoPaterno": "ROCHA",
+        "apellidoMaterno": "ROJAS",
+        "sexo": "1",
+        "feNacimiento": "19/08/1977",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050101",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "HUAMANGA",
+        "naciDistrito": "AYACUCHO",
+        "ubigeoDomicilio": "140112",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "LURIGANCHO",
+        "domicilioDirecc": "MZ 17 LT 6 CHOSICA-S ANTONIO PEDREGAL ALT",
+        "ubigeoPostula": "140624",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "HUAROCHIRI",
+        "postulaDistrito": "SANTA CRUZ DE COCACHACRA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/221118.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 553.0,
+        "organizacionPolitica": "PATRIA JOVEN",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 17:46:43",
+        "txGuidFormatoHojaVida": "119f10e1-6ac5-4796-9aaf-1279bc811370",
+        "idSolicitudLista": 34106.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 237900,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "NEGOCIO INDEPENDIENTE",
+            "ocupacionProfesion": "ADMINISTRADOR",
+            "rucTrabajo": "10108026397",
+            "direccionTrabajo": "AV NICOLAS DE PIEROLA SUR 725 YANAMAQUI",
+            "anioTrabajoDesde": "2012",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140624",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "HUAROCHIRI",
+            "trabajoDistrito": "SANTA CRUZ DE COCACHACRA",
+            "idHojaVida": 221118,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 210024,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 221118,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 153588,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "TECSUP",
+                "carreraTecnico": "MANTENIMIENTO DE MAQUINARIA DE PLANTA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 221118,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 190349,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 84000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 221118,
+                "idEstado": 1,
+                "totalIngresos": 84000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 235483,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA DE MATERIAL NOBLE",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "AV NICOLAS DE PIEROLA SUR725 YANAMAQUI SANTA CRUZ DE COCACHACRA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 300000.0,
+                "idHojaVida": 221118,
+                "idEstado": 1,
+                "flValor": "300000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 194774,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "C3H797 ",
+                "valor": 80000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "VOLVO FL6",
+                "comentario": null,
+                "idHojaVida": 221118,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

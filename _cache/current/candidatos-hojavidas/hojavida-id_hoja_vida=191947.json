@@ -1,0 +1,158 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 191947.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "15617188",
+        "nombres": "DANTE HILDEBRANDO",
+        "apellidoPaterno": "JAIME",
+        "apellidoMaterno": "LAOS",
+        "sexo": "1",
+        "feNacimiento": "07/06/1967",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140501",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "HUAURA",
+        "naciDistrito": "HUACHO",
+        "ubigeoDomicilio": "140513",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "HUAURA",
+        "domiDistrito": "SAYAN",
+        "domicilioDirecc": "CALLE ANDRES AVELINO CACERES SN",
+        "ubigeoPostula": "140513",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "HUAURA",
+        "postulaDistrito": "SAYAN",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/191947.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 332.0,
+        "organizacionPolitica": "CONCERTACION PARA EL DESARROLLO REGIONAL - LIMA",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 02:27:55",
+        "txGuidFormatoHojaVida": "ab6cbf00-536c-43b0-a98b-4a6871259029",
+        "idSolicitudLista": 30450.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 242224,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MICRORED DE SALUD DE SAYAN",
+            "ocupacionProfesion": "TEC. ADMINISTRATIVO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "TUPAC AMARU S/N",
+            "anioTrabajoDesde": "1999",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140513",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "HUAURA",
+            "trabajoDistrito": "SAYAN",
+            "idHojaVida": 191947,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 214025,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 191947,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 182718,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD JOSE NACIONAL JOSE FAUSTINO SANCHEZ CARRION",
+                "carreraUni": "EDUCACION FISICA",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "SEGUNDO CICLO DE LA CARRERA DE EDUCACION FISICA"
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 164169,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2013",
+            "idHojaVida": 191947,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 193561,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 34621.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 191947,
+                "idEstado": 1,
+                "totalIngresos": 34621.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 197218,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "A74715 ",
+                "valor": 4500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": null,
+                "idHojaVida": 191947,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,146 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 231815.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "73885370",
+        "nombres": "LEONID",
+        "apellidoPaterno": "BRICEÑO",
+        "apellidoMaterno": "TACURI",
+        "sexo": "1",
+        "feNacimiento": "01/11/1994",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "030406",
+        "naciDepartamento": "APURIMAC",
+        "naciProvincia": "ANTABAMBA",
+        "naciDistrito": "PACHACONAS",
+        "ubigeoDomicilio": "030406",
+        "domiDepartamento": "APURIMAC",
+        "domiProvincia": "ANTABAMBA",
+        "domiDistrito": "PACHACONAS",
+        "domicilioDirecc": "COMUNIDAD PACHACONAS",
+        "ubigeoPostula": "030406",
+        "postulaDepartamento": "APURIMAC",
+        "postulaProvincia": "ANTABAMBA",
+        "postulaDistrito": "PACHACONAS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/231815.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2737.0,
+        "organizacionPolitica": "PROGRESISTA DE APURIMAC",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 09:42:59",
+        "txGuidFormatoHojaVida": "d35026e3-0ec6-48a6-920b-ea8df8194e66",
+        "idSolicitudLista": 35357.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 206396,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "TRABAJOS EVENTUALES",
+            "rucTrabajo": null,
+            "direccionTrabajo": "COMUNIDAD PACHACONAS",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "030406",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "APURIMAC",
+            "trabajoProvincia": "ANTABAMBA",
+            "trabajoDistrito": "PACHACONAS",
+            "idHojaVida": 231815,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 181079,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 231815,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 165977,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD TECNOLOGICA DE LOS ANDES",
+                "carreraUni": "DERECHO",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": null,
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 169093,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 12000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 231815,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 178040,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "23045Y ",
+                "valor": 2200.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO MARCA ITALIKA COLOR ROJO",
+                "comentario": "EL VEHICULO A SIDO TRANSFERIDO A OTRA PERSONA EN SEGUNDO USO",
+                "idHojaVida": 231815,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

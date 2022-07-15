@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 16689,
+        "idTipoEleccion": 5,
+        "txTipoEleccion": "MUNICIPAL PROVINCIAL",
+        "idOrganizacionPolitica": 2731,
+        "txOrganizacionPolitica": "PODEMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/ddefca6b-eecc-40b3-aebe-deb4a4955a1b.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/68b93bee-58f9-4ec9-b34a-4fe81a75af54.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 169874,
+            "txPgProblema": "POBRES NIVELES DE SERVICIOS PÚBLICOS A LOS CIUDADANOS LIMITANDO EL EJERCICIO DE SUS LIBERTADES Y DERECHOS FUNDAMENTALES.",
+            "txPgObjetivo": "GARANTIZAR EL ACCESO A \nSERVICIOS DE CALIDAD QUE \nPERMITAN EL DESARROLLO \nPLENO EN CONDICIONES \nEQUITATIVAS Y SOSTENIBLES.",
+            "txPgIndicador": "ÍNDICE DE POBREZA \nMULTIDIMENSIONAL DE PNUD",
+            "txPgMeta": "20%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 169881,
+            "txPgProblema": "DESAFECCIÓN CIUDADANA CON RESPECTO A LOS VALORES DEMOCRÁTICOS.",
+            "txPgObjetivo": "GARANTIZAR EL DERECHO A LA \nPARTICIPACIÓN POLÍTICA Y LA \nCIUDADANÍA INTER-CULTURAL",
+            "txPgIndicador": "ÍNDICE DE DEMOCRACIA DEL \nTHE ECONOMIST",
+            "txPgMeta": "0.7",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 169886,
+            "txPgProblema": "DISCRIMINACIÓN ARRAIGADA",
+            "txPgObjetivo": "ERRADICAR TODAS LAS FORMAS \nDE DISCRIMINACIÓN.",
+            "txPgIndicador": "ÍNDICE DE DESIGUALDAD DE \nGÉNERO DEL PNUD",
+            "txPgMeta": "OCUPAR EL 0.30",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 169897,
+            "txPgProblema": "BAJA PRODUCTIVIDAD",
+            "txPgObjetivo": "DESARROLLAR UN SISTEMA DE INNOVACIÓN QUE POTENCIE LA ESTRUCTURA ECONÓMICA.",
+            "txPgIndicador": "INDICE DOING BUSINESS DEL BANCO MUNDIAL",
+            "txPgMeta": "80",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 169901,
+            "txPgProblema": "CRISIS ECONÓMICA DESATADA POR EL COVID-19",
+            "txPgObjetivo": "RESCATE MACROECONÓMICO Y CRECIMIENTO SOSTENIDO",
+            "txPgIndicador": "PBI PER CÁPITA",
+            "txPgMeta": "$9,000",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 169907,
+            "txPgProblema": "CONTINUA DEPENDENCIA DE EXPORTACIÓN DE BAJA COMPLEJIDAD",
+            "txPgObjetivo": "TENER UNA ESTRUCTURA PRODUCTIVA DIVERSIFICADA Y PRO-EXPORTADORA QUE PARTICIPE EN CADENAS DE VALOR GLOBAL",
+            "txPgIndicador": "EXPORTACIÓN NO TRADICIONAL COMO % DEL PBI",
+            "txPgMeta": "40%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 169917,
+            "txPgProblema": "DESCENTRALIZACIÓN SIN CONSIDERAR POTENCIALIDADES PRODUCTIVAS E INTEGRACIÓN",
+            "txPgObjetivo": "TERRITORIO COHESIONADO Y ORGANIZADO EN CIUDADES SOSTENIBLES CON PROVISIÓN ASEGURADA DE INFRAESTRUCTURA DE CALIDAD",
+            "txPgIndicador": "% DE LA PARTICIPACIÓN DEL VAB DEPARTAMENTAL (EXCEPTO LIMA) SOBRE EL VAB TOTAL",
+            "txPgMeta": "60%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 169925,
+            "txPgProblema": "DEFICIENTE CALIDAD DE AGUA, AIRE, SUELOS. INADECUADO APROVECHAMIENTO DE LA DIVERSIDAD BIOLÓGICA Y EXISTENCIA DE ACTIVIDADES ILEGALES QUE DEGRADAN LOS ECOSISTEMAS",
+            "txPgObjetivo": "APROVECHAMIENTO EFICIENTE, RESPONSABLE Y SOSTENIBLE DE LA DIVERSIDAD BIOLÓGICA, ASEGURANDO UNA CALIDAD AMBIENTAL ADECUADA PARA EL DESARROLLO SOSTENIBLE",
+            "txPgIndicador": "ENVIROMENTAL PERFORMANCE INDEX (EPI) DE LA UNIVERSIDAD DE YALE",
+            "txPgMeta": "50",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 169932,
+            "txPgProblema": "FALTA DE COMPETITIVIDAD TERRITORIAL",
+            "txPgObjetivo": "ASEGURAR LA PROVISIÓN DE INFRAESTRUCTURA PRODUCTIVA SUFICIENTE, ADECUADA Y DE CALIDAD",
+            "txPgIndicador": "ÍNDICE DE COMPETIVIDAD GLOBAL",
+            "txPgMeta": "70",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 169946,
+            "txPgProblema": "GESTIÓN PÚBLICA ALEJADA DE LOS INTERESES CIUDADANOS",
+            "txPgObjetivo": "DESARROLLAR UNA GESTIÓN PÚBLICA EJECUTIVA ORIENTADA AL CIUDADANO EN LOS 3 NIVELES DE GOBIERNO",
+            "txPgIndicador": "ÍNDICE DE DESARROLLO DEL GOBIERNO ELECTRÓNICO DE NACIONES UNIDAS",
+            "txPgMeta": "60",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 169959,
+            "txPgProblema": "INEFICAZ GESTIÓN PÚBLICA, DÉBIL ESTADO DE DERECHO Y DEFICIENTE REPRESENTATIVIDAD POLÍTICA",
+            "txPgObjetivo": "DESARROLLAR Y CONSOLIDAR LA GOBERNABILIDAD DEMOCRÁTICA Y UNA FUERTE INSTITUCIONALIDAD PÚBLICA",
+            "txPgIndicador": "ÍNDICE DE EFECTIVIDAD GUBERNAMENTAL DEL BANCO MUNDIAL",
+            "txPgMeta": "0.30",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 169964,
+            "txPgProblema": "CORRUPCIÓN E INSEGURIDAD CIUDADANA",
+            "txPgObjetivo": "GARANTIZAR EL ESTADO DE DERECHO Y LA SEGURIDAD CIUDADANA",
+            "txPgIndicador": "ÍNDICE DE PERCEPCIÓN DE LA CORRUPCIÓN",
+            "txPgMeta": "50",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

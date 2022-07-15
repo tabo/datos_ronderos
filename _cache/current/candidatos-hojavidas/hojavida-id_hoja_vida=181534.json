@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 181534.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "48052645",
+        "nombres": "EDUARDO LUIS",
+        "apellidoPaterno": "CARHUANCHO",
+        "apellidoMaterno": "YNCIO",
+        "sexo": "1",
+        "feNacimiento": "14/11/1993",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140109",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "LA VICTORIA",
+        "ubigeoDomicilio": "140109",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "LA VICTORIA",
+        "domicilioDirecc": "AV. MEJICO 2144 DPTO. 1",
+        "ubigeoPostula": "140109",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "LA VICTORIA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/181534.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2895.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATA VERDE",
+        "numeroCandidato": 6.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 10:34:30",
+        "txGuidFormatoHojaVida": "11738f42-f58f-4044-9900-96a3428d99e6",
+        "idSolicitudLista": 29038.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 162439,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "I.E.P LEV VIGOTSKY",
+            "ocupacionProfesion": "PROFESOR DE AULA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "COOP. ANDAHUAYLAS - SANTA ANITA",
+            "anioTrabajoDesde": "2018",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140143",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "SANTA ANITA",
+            "idHojaVida": 181534,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 141936,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 181534,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 145313,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL DE EDUCACIÓN ENRIQUE GUZMÁN Y VALLE",
+                "carreraUni": "BACHILLER EN CIENCIAS DE LA EDUCACIÓN",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2019",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 140265,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 9000.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 181534,
+                "idEstado": 1,
+                "totalIngresos": 9000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 175828,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "AVENIDA MEJICO NUM 2144 DPTO 1   LA VICTORIA - LIMA - LIMA",
+                "comentario": "DEPARTAMENTO",
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "43561847",
+                "fichaTomoSunarp": null,
+                "autovaluo": 3135702.0,
+                "idHojaVida": 181534,
+                "idEstado": 1,
+                "flValor": "31925"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

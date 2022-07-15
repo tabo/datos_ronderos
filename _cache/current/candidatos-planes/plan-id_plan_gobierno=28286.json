@@ -1,0 +1,125 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 28286,
+        "idTipoEleccion": 5,
+        "txTipoEleccion": "MUNICIPAL PROVINCIAL",
+        "idOrganizacionPolitica": 1670,
+        "txOrganizacionPolitica": "FRENTE AMPLIO PARA EL DESARROLLO DEL PUEBLO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1718,
+        "juradoElectoral": "PUNO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/9e433834-c217-4dda-992c-cacc595eaeed.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/b075aae2-4d5f-472d-abac-202bc93ea35f.pdf",
+        "txCodExpedienteExt": "ERM.2022008686",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 223737,
+            "txPgProblema": "DESIGUALDAD Y LIMITADO ACCESO A LOS SERVICIOS BÁSICOS.",
+            "txPgObjetivo": "ASEGURAR LA COBERTURA Y CALIDAD DE LOS SERVICIOS BÁSICOS: VIVIENDA",
+            "txPgIndicador": "PORCENTAJE DE VIVIENDAS SIN SERVICIO DE AGUA POTABLE\nPORCENTAJE DE VIVIENDAS SIN SERVICIO DE DESAGÜE\nPORCENTAJE DE VIVIENDAS SIN SERVICIO DE ENERGÍA ELÉCTRICA",
+            "txPgMeta": "20.0%\n20.0%\n10.0%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 223768,
+            "txPgProblema": "DESIGUALDAD Y LIMITADO ACCESO A LOS SERVICIOS BÁSICOS.",
+            "txPgObjetivo": "SALUD\n\nEDUCACION",
+            "txPgIndicador": "HOSPITALES CON CAPACIDAD INSTALADA INADECUADA\nESTABLECIMIENTO 1ER NIVEL DE ATENCIÓN, CAPACIDAD INSTALADA INADECUADA\n\nSERVICIO DE EDUCACIÓN INICIAL CON CAPACIDAD INSTALADA INADECUADA\nSERVICIO DE EDUCACIÓN PRIMARIA CON CAPACIDAD INSTALADA INADECUADA\nSERVICIO DE EDUCACIÓN SECUNDARIA CON CAPACIDAD INSTALADA INADECUADA\nINSTITUCIONES EDUCATIVAS PUBLICAS SIN CONDICIONES ADECUADAS PARA LA ALIMENTACIÓN",
+            "txPgMeta": "50.0%\n50.0%\n\n40.0%\n40.0%\n40.0%\n40.0%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 223810,
+            "txPgProblema": "DESIGUALDAD Y LIMITADO ACCESO A LOS SERVICIOS BÁSICOS.",
+            "txPgObjetivo": "POBREZA\n\nSEGURIDAD CIUDADANA",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN EN SITUACIÓN DE POBREZA\nPORCENTAJE DE LA POBLACIÓN EN SITUACIÓN DE POBREZA EXTREMA\n\nTASA DE DENUNCIAS POR COMISIÓN DE DELITOS (X10000HAB)",
+            "txPgMeta": "20.0%\n4.0%\n\n30.0%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 223896,
+            "txPgProblema": "ECONOMÍA POCO COMPETITIVA, INCIPIENTE NIVEL DE ACUMULACIÓN INTERNA, POCO GENERADORA DE EMPLEO Y BAJA PRODUCTIVIDAD",
+            "txPgObjetivo": "PROMOVER LA COMPETITIVIDAD, LA ACUMULACIÓN INTERNA Y EL CRECIMIENTO ECONÓMICO: POLÍTICAS PÚBLICAS LOCALES",
+            "txPgIndicador": "PORCENTAJE DE POLÍTICAS PÚBLICAS QUE PROMUEVAN LA ACUMULACIÓN INTERNA Y EL CRECIMIENTO ECONÓMICO",
+            "txPgMeta": "4.0%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 223900,
+            "txPgProblema": "ECONOMÍA POCO COMPETITIVA, INCIPIENTE NIVEL DE ACUMULACIÓN INTERNA, POCO GENERADORA DE EMPLEO Y BAJA PRODUCTIVIDAD",
+            "txPgObjetivo": "PROMOVER LA COMPETITIVIDAD, LA ACUMULACIÓN INTERNA Y EL CRECIMIENTO ECONÓMICO: EMPLEO",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN ECONÓMICAMENTE ACTIVA DESOCUPADA",
+            "txPgMeta": "35.0%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 223903,
+            "txPgProblema": "ECONOMÍA POCO COMPETITIVA, INCIPIENTE NIVEL DE ACUMULACIÓN INTERNA, POCO GENERADORA DE EMPLEO Y BAJA PRODUCTIVIDAD",
+            "txPgObjetivo": "PROMOVER LA COMPETITIVIDAD, LA ACUMULACIÓN INTERNA Y EL CRECIMIENTO ECONÓMICO: INNOVACIÓN Y DESARROLLO TECNOLÓGICO",
+            "txPgIndicador": "PORCENTAJE DE EMPRENDEDORES QUE ACCEDEN A INNOVACIÓN Y DESARROLLO TECNOLÓGICO",
+            "txPgMeta": "10.0%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 223880,
+            "txPgProblema": "CALIDAD AMBIENTAL POCO SALUDABLE",
+            "txPgObjetivo": "MEJORAR LA CALIDAD AMBIENTAL: CONTAMINACION DEL AIRE",
+            "txPgIndicador": "PORCENTAJE DE CONTAMINACIÓN GENERADO POR VEHÍCULOS\nPORCENTAJE DE CONTAMINACIÓN GENERADO POR QUEMA DE BASURA\nPORCENTAJE DE CONTAMINACIÓN GENERADO POR HUMO DE POLLERÍAS",
+            "txPgMeta": "30.0%\n15.0%\n10.0%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 223885,
+            "txPgProblema": "CALIDAD AMBIENTAL POCO SALUDABLE",
+            "txPgObjetivo": "MEJORAR LA CALIDAD AMBIENTAL: RESIDUOS SOLIDOS",
+            "txPgIndicador": "PORCENTAJE DE RESIDUOS SÓLIDOS APROVECHABLES RECUPERADOS",
+            "txPgMeta": "30.0%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 223911,
+            "txPgProblema": "LIMITADA INSTITUCIONALIZACIÓN DE LA TRANSPARENCIA Y PARTICIPACIÓN CIUDADANA EN LA GESTIÓN PUBLICA",
+            "txPgObjetivo": "ASEGURAR LA GOBERNANZA DEL GOBIERNO LOCAL, MEJORANDO LA TRANSPARENCIA Y LA PARTICIPACIÓN CIUDADANA: EJECUCIÓN PRESUPUESTAL",
+            "txPgIndicador": "PORCENTAJE DE CIUDADANÍA INFORMADA",
+            "txPgMeta": "50.0%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 223917,
+            "txPgProblema": "LIMITADA INSTITUCIONALIZACIÓN DE LA TRANSPARENCIA Y PARTICIPACIÓN CIUDADANA EN LA GESTIÓN PUBLICA",
+            "txPgObjetivo": "ASEGURAR LA GOBERNANZA DEL GOBIERNO LOCAL, MEJORANDO LA TRANSPARENCIA Y LA PARTICIPACIÓN CIUDADANA: PROCESOS DE ADQUISICIONES",
+            "txPgIndicador": "PORCENTAJE DE CIUDADANÍA INFORMADA",
+            "txPgMeta": "50.0%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

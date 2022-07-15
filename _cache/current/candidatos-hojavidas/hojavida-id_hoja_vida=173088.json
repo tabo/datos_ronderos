@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 173088.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42304055",
+        "nombres": "RUBEN",
+        "apellidoPaterno": "BOBADILLA",
+        "apellidoMaterno": "CHAVEZ",
+        "sexo": "1",
+        "feNacimiento": "12/02/1984",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "010111",
+        "naciDepartamento": "AMAZONAS",
+        "naciProvincia": "CHACHAPOYAS",
+        "naciDistrito": "LEVANTO",
+        "ubigeoDomicilio": "010111",
+        "domiDepartamento": "AMAZONAS",
+        "domiProvincia": "CHACHAPOYAS",
+        "domiDistrito": "LEVANTO",
+        "domicilioDirecc": "ANEXO SAN JUAN DE CACHUC",
+        "ubigeoPostula": "010111",
+        "postulaDepartamento": "AMAZONAS",
+        "postulaProvincia": "CHACHAPOYAS",
+        "postulaDistrito": "LEVANTO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/173088.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2878.0,
+        "organizacionPolitica": "VICTORIA AMAZONENSE",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 16:21:43",
+        "txGuidFormatoHojaVida": "097835b2-4f6f-44e6-b332-a36c2ea2266e",
+        "idSolicitudLista": 27915.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 162104,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CULTIVO DE TIERRAS",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR. SOCIEGO CUADRA 8 SALIDA LEVANTO",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "010111",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AMAZONAS",
+            "trabajoProvincia": "CHACHAPOYAS",
+            "trabajoDistrito": "LEVANTO",
+            "idHojaVida": 173088,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 141631,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 173088,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 139666,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 10000.0,
+                "idHojaVida": 173088,
+                "idEstado": 1,
+                "totalIngresos": 10000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 175439,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "TERRENOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "LEVANTO",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 173088,
+                "idEstado": 1,
+                "flValor": "80000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 152499,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "MOTOCICLETA",
+                "marca": null,
+                "placa": "6748-HM",
+                "valor": 3000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA  CHACARERA",
+                "comentario": null,
+                "idHojaVida": 173088,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

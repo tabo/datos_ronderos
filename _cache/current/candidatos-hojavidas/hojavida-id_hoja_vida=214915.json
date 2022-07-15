@@ -1,0 +1,158 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 214915.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42571823",
+        "nombres": "ERNESTO JULIAN",
+        "apellidoPaterno": "ARANA",
+        "apellidoMaterno": "CORTEZ",
+        "sexo": "1",
+        "feNacimiento": "13/02/1947",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "120504",
+        "naciDepartamento": "LA LIBERTAD",
+        "naciProvincia": "PACASMAYO",
+        "naciDistrito": "JEQUETEPEQUE",
+        "ubigeoDomicilio": "120504",
+        "domiDepartamento": "LA LIBERTAD",
+        "domiProvincia": "PACASMAYO",
+        "domiDistrito": "JEQUETEPEQUE",
+        "domicilioDirecc": "CALLE LUZ BENGER SECTOR JOSÉ VICENTE RÁZURI MZ. C LT. 21",
+        "ubigeoPostula": "120500",
+        "postulaDepartamento": "LA LIBERTAD",
+        "postulaProvincia": "PACASMAYO",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/214915.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 08:50:50",
+        "txGuidFormatoHojaVida": "af939155-4953-4e01-9da6-8e7788c72156",
+        "idSolicitudLista": 33410.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 231536,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "POLICIA NACIONAL DEL PERU",
+            "ocupacionProfesion": "SOCIOLOGO - RETIRADO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "HUACHO",
+            "anioTrabajoDesde": "1972",
+            "anioTrabajoHasta": "2002",
+            "ubigeoTrabajo": "140501",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "HUAURA",
+            "trabajoDistrito": "HUACHO",
+            "idHojaVida": 214915,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 204365,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 214915,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 177700,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "JOSE FAUSTINO SANCHEZ CARRION DE HUACHO",
+                "carreraUni": "LICENCIADO EN SOCIOLOGIA",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "1991",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 160930,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 179,
+            "orgPolRenunciaOp": "PARTIDO NACIONALISTA PERUANO",
+            "anioRenunciaOp": "2015",
+            "idHojaVida": 214915,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 186064,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 32000.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 214915,
+                "idEstado": 1,
+                "totalIngresos": 32000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 191556,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "M5K640 ",
+                "valor": 30000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMIONETA CHANGAN NEW VAN  COLOR PLATA",
+                "comentario": null,
+                "idHojaVida": 214915,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

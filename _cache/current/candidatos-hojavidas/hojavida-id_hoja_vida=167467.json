@@ -1,0 +1,162 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 167467.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "04823923",
+        "nombres": "NILIA",
+        "apellidoPaterno": "NUNURA",
+        "apellidoMaterno": "QUEHUARUCHO",
+        "sexo": "2",
+        "feNacimiento": "16/09/1975",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "070108",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "CUSCO",
+        "naciDistrito": "WANCHAQ",
+        "ubigeoDomicilio": "140111",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "LINCE",
+        "domicilioDirecc": "CALLE MANUEL CANDAMO 785",
+        "ubigeoPostula": "140111",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "LINCE",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/167467.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 00:39:42",
+        "txGuidFormatoHojaVida": "4d2cba4c-cbbe-4335-b5f0-ca5b4b7a873d",
+        "idSolicitudLista": 27160.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 196419,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "52020 CAP.FAP JOSE ABELARDO QUIÑONES",
+            "ocupacionProfesion": "PROSORA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. ARNALDO MÁRQUEZ 1698, JESÚS MARÍA 15072",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140133",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "JESUS MARIA",
+            "idHojaVida": 167467,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 170817,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 167467,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 160414,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD JOSÉ CARLOS MARIÁTEGUI",
+                "carreraUni": "BACHILLER EN EDUCACIÓN",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2016",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 160976,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 35000.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 167467,
+                "idEstado": 1,
+                "totalIngresos": 35000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 171266,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "16718X ",
+                "valor": 8000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MODELO ELITE",
+                "comentario": null,
+                "idHojaVida": 167467,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 171265,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "MV17105",
+                "valor": 8000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "NFC WAVE",
+                "comentario": null,
+                "idHojaVida": 167467,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

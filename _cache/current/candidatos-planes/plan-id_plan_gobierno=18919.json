@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 18919,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2245,
+        "txOrganizacionPolitica": "MOVIMIENTO REGIONAL EL MAICITO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1716,
+        "juradoElectoral": "POMABAMBA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/9860f8bd-09f8-472a-9fa7-770f1241d600.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/524e3a8f-beb2-4b0c-ba30-48a3bed9fa42.pdf",
+        "txCodExpedienteExt": "ERM.2022012415",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 137401,
+            "txPgProblema": "PRESTACIÓN DE SALUD E INFRAESTRUCTURA INSUFICIENTE",
+            "txPgObjetivo": "MEJORAMIENTO DEL EQUIPO BÁSICO E INFRAESTRUCTURA DE LOS SERVICIOS DE SALUD A NIVEL DISTRITAL CAPACITACIONES AL PERSONAL.",
+            "txPgIndicador": "INDICE DE DESNUTRICION",
+            "txPgMeta": "REDUCIR LA DESNUTRICIÓN A 40%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 137411,
+            "txPgProblema": "INFRAESTRUCTURA DEFICIENTE",
+            "txPgObjetivo": "MEJORAMIENTO DEL EQUIPO BÁSICO E INFRAESTRUCTURA DE LOS SERVICIOS DE EDUCACIÓN CON CAPACITACIONES AL PERSONAL DOCENTE.",
+            "txPgIndicador": "PORCENTAJE DE MATRICULAS",
+            "txPgMeta": "INCREMENTO EN 20% LAS MATRÍCULAS DE LA POBLACIÓN ESTUDIANTIL EN EL DISTRITO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 137422,
+            "txPgProblema": "POCA COBERTURA DE SERVICIOS DE SANEAMIENTO BÁSICO",
+            "txPgObjetivo": "CONSTRUCCIÓN Y AMPLIACIÓN DE SISTEMAS DE AGUA POTABLE URBANO Y RURAL. INSTALACIÓN DE SISTEMAS DE DESAGÜE.",
+            "txPgIndicador": "PORCENTAJE DE POBLACION VENEFICIADA",
+            "txPgMeta": "UN 85% DE LA POBLACIÓN CONTARÁ CON EL SERVICIO DE AGUA POTABLE Y DE DESAGÜE POR RED PÚBLICA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 137435,
+            "txPgProblema": "DEFICIENTE APOYO AL DESARROLLO PRODUCTIVO DE LOS PEQUEÑOS PRODUCTORES RURALES",
+            "txPgObjetivo": "PROGRAMA DE DESARROLLO AGRÍCOLA, GANADERO Y ACUÍCOLA. ASISTENCIA TÉCNICA, CAPACITACIÓN A PRODUCTORES. LÍNEA DE CRÉDITO. FOMENTO DE LA AGROINDUSTRIA. ORGANIZACIÓN A LOS COMERCIANTES",
+            "txPgIndicador": "PORCENTAJE PRODUCCION AGRICOLA MEJORADA",
+            "txPgMeta": "LA PRODUCCIÓN AGRÍCOLA SE VE MEJORADA EN UN 40% POR LA CONSTRUCCIÓN RESERVORIOS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 137443,
+            "txPgProblema": "POCO DESARROLLO ECONÓMICO",
+            "txPgObjetivo": "FORTALECER LA CAPACIDAD TÉCNICA DE LOS AGRICULTORES EN TECNOLOGÍAS DE MANEJO Y MEJOR APROVECHAMIENTO DE LAS SIEMBRAS Y COSECHAS DE PRODUCTOS RENTABLES.",
+            "txPgIndicador": "PORCENTAJE DE PRODUCTIVIDAD MEJORADA",
+            "txPgMeta": "LOS PRODUCTORES AGRÍCOLAS AUMENTAN SUS CAPACIDADES EN UN 80%.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 137448,
+            "txPgProblema": "POCO MANTENIMIENTO DE LAS CARRETERAS",
+            "txPgObjetivo": "MANTENIMIENTO Y REHABILITACIÓN DE VÍAS DE ACCESO POR LA MUNICIPALIDAD DISTRITAL",
+            "txPgIndicador": "PORCENTAJE DE CARRETERAS FUNCIONALES",
+            "txPgMeta": "80% DE LAS VÍAS CARROZABLE Y CARRETERAS DE LA RED VIAL ESTARÁN OPERATIVAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 137454,
+            "txPgProblema": "TALA INDISCRIMINADA DE ÁRBOLES.",
+            "txPgObjetivo": "PROTECCIÓN DEL MEDIO AMBIENTE. PROTECCIÓN DE LAS PLANTAS. REFORESTACIÓN CON ESPECIES NATIVAS",
+            "txPgIndicador": "PORCENTAJE DE HECTAREAS FORESTADAS",
+            "txPgMeta": "60% DE HECTÁREAS SERÁN FORESTADAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 137496,
+            "txPgProblema": "ALTOS ÍNDICES DE CONTAMINACIÓN AMBIENTAL",
+            "txPgObjetivo": "IMPLEMENTAR UN SISTEMA DE RECICLAJE ADECUADO.",
+            "txPgIndicador": "PORCENTAJE DE RESIDUOS MANEJADOS",
+            "txPgMeta": "80% DE LOS RESIDUOS TERMINARAN EN UN BOTADERO.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 137504,
+            "txPgProblema": "POCA COORDINACIÓN EN LA\nSEGURIDAD CIUDADANA",
+            "txPgObjetivo": "GENERAR UN PLAN DE SEGURIDAD CIUDADANA EN COORDINACIÓN CON LA COMUNIDAD",
+            "txPgIndicador": "SEGURIDAD",
+            "txPgMeta": "1 PLAN DE SEGURIDAD CIUDADANA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 137513,
+            "txPgProblema": "FALTA DE EFICACIA, EFICIENCIA Y TRANSPARENCIA DE LOS SERVICIOS DE CALIDAD",
+            "txPgObjetivo": "FORTALECIMIENTO INSTITUCIONAL MUNICIPAL, PARA EL BUEN GOBIERNO.",
+            "txPgIndicador": "ESTRUCTURACION MUNICIPAL",
+            "txPgMeta": "MUNICIPALIDAD DISTRITAL DE SAN JUAN SE ENCUENTRA BIEN ESTRUCTURADA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 137522,
+            "txPgProblema": "INEFICIENCIA EN LOS INSTRUMENTOS DE GESTIÓN MUNICIPAL.",
+            "txPgObjetivo": "PROGRAMA DE CAPACITACIÓN A LÍDERES LOCALES. PROMOVER LA PARTICIPACIÓN CIUDADANA Y LA VIGILANCIA CIUDADANA PARA MEJORAR EL DESARROLLO LOCAL.",
+            "txPgIndicador": "LUCHA CONTRA LA CORRUPCION",
+            "txPgMeta": "LA LUCHA CONTRA LA CORRUPCIÓN EN LA ORGANIZACIÓN MUNICIPAL HA GENERADO UNA BUENA GESTIÓN MUNICIPAL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

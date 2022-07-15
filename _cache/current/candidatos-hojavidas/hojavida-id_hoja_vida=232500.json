@@ -1,0 +1,150 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 232500.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "32285476",
+        "nombres": "TEOFILO JUAN",
+        "apellidoPaterno": "SILVERIO",
+        "apellidoMaterno": "SOMOZA",
+        "sexo": "1",
+        "feNacimiento": "06/02/1972",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "020811",
+        "naciDepartamento": "ANCASH",
+        "naciProvincia": "HUARI",
+        "naciDistrito": "RAHUAPAMPA",
+        "ubigeoDomicilio": "020811",
+        "domiDepartamento": "ANCASH",
+        "domiProvincia": "HUARI",
+        "domiDistrito": "RAHUAPAMPA",
+        "domicilioDirecc": "VINCOCOTA",
+        "ubigeoPostula": "020811",
+        "postulaDepartamento": "ANCASH",
+        "postulaProvincia": "HUARI",
+        "postulaDistrito": "RAHUAPAMPA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/232500.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 360.0,
+        "organizacionPolitica": "MOVIMIENTO ACCION NACIONALISTA PERUANO",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 12:25:12",
+        "txGuidFormatoHojaVida": "a797c20d-4002-4a8e-9eff-89bc59fc7ad1",
+        "idSolicitudLista": 35428.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 215421,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "VINCACOTA",
+            "anioTrabajoDesde": "2014",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "020811",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ANCASH",
+            "trabajoProvincia": "HUARI",
+            "trabajoDistrito": "RAHUAPAMPA",
+            "idHojaVida": 232500,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "TRABAJO DE MANERA INDEPENDIENTE"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 189863,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 232500,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 142325,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 1257,
+                "orgPolCargoElec": "ALIANZA PARA EL PROGRESO",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2011",
+                "anioCargoElecHasta": "2014",
+                "idHojaVida": 232500,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 155938,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 46,
+            "orgPolRenunciaOp": "PERU POSIBLE",
+            "anioRenunciaOp": "2010",
+            "idHojaVida": 232500,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 155937,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 232500,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 175226,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 6000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 232500,
+                "idEstado": 1,
+                "totalIngresos": 6000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

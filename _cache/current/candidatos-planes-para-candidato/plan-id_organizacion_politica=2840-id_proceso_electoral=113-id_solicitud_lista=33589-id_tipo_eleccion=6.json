@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 26915,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2840,
+        "txOrganizacionPolitica": "PARTIDO MORADO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/9601f4aa-c6bf-4f09-9ffb-814a3bd78a23.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/af07e978-b3ff-42ae-b448-d6a1b7c83c50.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 161599,
+            "txPgProblema": "CRECIMIENTO URBANO",
+            "txPgObjetivo": "LLEVAR AGUA Y DESAGUE",
+            "txPgIndicador": "% URBANIZACIONES",
+            "txPgMeta": "50% TOTAL",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 161625,
+            "txPgProblema": "SEGURIDAD",
+            "txPgObjetivo": "IMPLEMENTAR CAMARAS",
+            "txPgIndicador": "N° INCIDENTES",
+            "txPgMeta": "REDUCIR 30%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 161679,
+            "txPgProblema": "EDUCACION Y DEPORTE",
+            "txPgObjetivo": "MEJORAR LA TECNOLOGA Y ARCA RECREACIONALES",
+            "txPgIndicador": "% SATISFACCION",
+            "txPgMeta": "LOGRAR 50%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 162060,
+            "txPgProblema": "DESEMPLEO",
+            "txPgObjetivo": "CREAR MICROEMPRESAS",
+            "txPgIndicador": "N° EMPLEOS",
+            "txPgMeta": "AUMENTAR 30%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 162085,
+            "txPgProblema": "POBREZA",
+            "txPgObjetivo": "APOYO A GENTE NECESITADA",
+            "txPgIndicador": "% PERSONAS",
+            "txPgMeta": "AYUDA A MAS 20%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 162111,
+            "txPgProblema": "DEUDA EN AUTOVALUO",
+            "txPgObjetivo": "APOYO CON AMNISTIAS",
+            "txPgIndicador": "N° CONTRIBUYENTES",
+            "txPgMeta": "LOGRAR 40%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 162128,
+            "txPgProblema": "BASURA",
+            "txPgObjetivo": "TENER UN RECOJO EFICIENTE",
+            "txPgIndicador": "REPORTES SEMANALES",
+            "txPgMeta": "LOGRAR 50%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 162141,
+            "txPgProblema": "AREAS VERDES",
+            "txPgObjetivo": "MEJORAR PARQUES Y JARDINES",
+            "txPgIndicador": "N° LUGARES",
+            "txPgMeta": "CUMPLIR 80%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 162157,
+            "txPgProblema": "FORESTACION",
+            "txPgObjetivo": "PLANTAR ARBOLES EN PAUCARPATA",
+            "txPgIndicador": "% PLANTACION",
+            "txPgMeta": "LLEGAR AL 30%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 162181,
+            "txPgProblema": "VOCACION DE SERVICIO",
+            "txPgObjetivo": "TODOS TRABAJEN POR EL DISTRITO",
+            "txPgIndicador": "% SATISFACCION",
+            "txPgMeta": "LOGRAR 80%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 162198,
+            "txPgProblema": "CORRUPCION",
+            "txPgObjetivo": "DISTRITO TRANSPARENTE",
+            "txPgIndicador": "% CORRUPCION",
+            "txPgMeta": "TERMINAR CON 60%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 162210,
+            "txPgProblema": "TRAMITES FACILES",
+            "txPgObjetivo": "DISMINUIR LA BUROCRACIA",
+            "txPgIndicador": "% SATISFACCION",
+            "txPgMeta": "LOGRAR 50%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

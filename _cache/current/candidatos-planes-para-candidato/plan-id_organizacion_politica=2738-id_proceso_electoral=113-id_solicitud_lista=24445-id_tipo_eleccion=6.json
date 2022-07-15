@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 17771,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2738,
+        "txOrganizacionPolitica": "MOVIMIENTO REGIONAL FORTALEZA PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/84bd50ad-66dc-47d8-8133-515e9e70ab5e.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/360b2b26-c813-488d-be18-8d339d19e281.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 237352,
+            "txPgProblema": "CORRUPCIÓN",
+            "txPgObjetivo": "DISMINUIR LOS INDICIES DE CORRUPCIÓN",
+            "txPgIndicador": "INDICE DE CORRUPCÓN",
+            "txPgMeta": "UNA CIUDAD CON BAJO ÍNDICES DE CORRUPCIÓN",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 237358,
+            "txPgProblema": "FALTA DE OPORTUNIDADES",
+            "txPgObjetivo": "CREAR EMPLEO MASIVO",
+            "txPgIndicador": "PEA",
+            "txPgMeta": "SUBIR LA PEA DEL DISTRITO AL 50",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 237363,
+            "txPgProblema": "EXCESO DE CONTAMINACIÓN",
+            "txPgObjetivo": "DISMINUIR LOS ÍNDICES",
+            "txPgIndicador": "MEDICIÓN DE CONTAMINACIÓN",
+            "txPgMeta": "INDICE BAJOS DE CONTAMINACIÓN",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 237371,
+            "txPgProblema": "FALTA DE COMUNICACIÓN ENTRE EL GOBIERNO Y LA CIUDADANÍA",
+            "txPgObjetivo": "MEJORAR LA COMUNICACIÓN",
+            "txPgIndicador": "ENCUESTAS DE SATISFACCIÓN",
+            "txPgMeta": "MEJOR PARTICIPACIÓN DE LOS CIUDADANOS EN LAS DECISIONES DE GOBIERNO.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

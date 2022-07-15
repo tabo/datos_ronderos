@@ -1,0 +1,203 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 228697.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42121250",
+        "nombres": "MELQUIADES",
+        "apellidoPaterno": "HUARICALLO",
+        "apellidoMaterno": "NINA",
+        "sexo": "1",
+        "feNacimiento": "05/02/1982",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "200213",
+        "naciDepartamento": "PUNO",
+        "naciProvincia": "AZANGARO",
+        "naciDistrito": "SAN ANTON",
+        "ubigeoDomicilio": "200213",
+        "domiDepartamento": "PUNO",
+        "domiProvincia": "AZANGARO",
+        "domiDistrito": "SAN ANTON",
+        "domicilioDirecc": "CENTRO POBLADO UNION SORATIRA",
+        "ubigeoPostula": "200213",
+        "postulaDepartamento": "PUNO",
+        "postulaProvincia": "AZANGARO",
+        "postulaDistrito": "SAN ANTON",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/228697.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2912.0,
+        "organizacionPolitica": "REFORMA Y HONRADEZ POR MAS OBRAS",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "08/06/2022 14:44:44",
+        "txGuidFormatoHojaVida": "b6f980ef-ab1c-4b72-a54e-69c3822b03ec",
+        "idSolicitudLista": 34997.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 160435,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "ESTUDIANTE - UNIVERSIDAD ANDINA NESTOR CACERES VELASQUEZ",
+            "ocupacionProfesion": "FARMACIA BIOQUIMICA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SALIDA PUNO",
+            "anioTrabajoDesde": "2017",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "200213",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PUNO",
+            "trabajoProvincia": "AZANGARO",
+            "trabajoDistrito": "SAN ANTON",
+            "idHojaVida": 228697,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 140181,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 228697,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 144383,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD ANDINA NESTOR CACERES VELASQUEZ",
+                "carreraUni": "SEMESTRE X",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 137040,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2218,
+            "orgPolRenunciaOp": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 228697,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 138637,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 12000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 228697,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 173771,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 2,
+                "tipoBienInmueble": "LOTE",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "SALIDA CUSCO - JULIACA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 35000.0,
+                "idHojaVida": 228697,
+                "idEstado": 1,
+                "flValor": "40000"
+            },
+            {
+                "idHvBienInmueble": 173748,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "TERRENO RUSTICO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CENTRO POBLADO UNION SORATIRA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 4000.0,
+                "idHojaVida": 228697,
+                "idEstado": 1,
+                "flValor": "6000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 151337,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "Z20333 ",
+                "valor": 2000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR BLANCO",
+                "comentario": null,
+                "idHojaVida": 228697,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

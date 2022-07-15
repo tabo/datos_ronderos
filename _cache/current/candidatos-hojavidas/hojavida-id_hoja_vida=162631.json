@@ -1,0 +1,153 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 162631.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "70745645",
+        "nombres": "JHONATAN",
+        "apellidoPaterno": "PIZARRO",
+        "apellidoMaterno": "SANCHEZ",
+        "sexo": "1",
+        "feNacimiento": "02/11/1993",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "030609",
+        "naciDepartamento": "APURIMAC",
+        "naciProvincia": "GRAU",
+        "naciDistrito": "SAN ANTONIO",
+        "ubigeoDomicilio": "030609",
+        "domiDepartamento": "APURIMAC",
+        "domiProvincia": "GRAU",
+        "domiDistrito": "SAN ANTONIO",
+        "domicilioDirecc": "COMUNID.SAN ANTONIO S/N",
+        "ubigeoPostula": "030609",
+        "postulaDepartamento": "APURIMAC",
+        "postulaProvincia": "GRAU",
+        "postulaDistrito": "SAN ANTONIO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/162631.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2886.0,
+        "organizacionPolitica": "HATARIY APURIMAC",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 10:15:04",
+        "txGuidFormatoHojaVida": "cea334fe-c97c-40cb-a3f3-56cf9cecf136",
+        "idSolicitudLista": 26507.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 212295,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AGRO INDUSTRIAS KUCARUNKO S.A.C.",
+            "ocupacionProfesion": "SUB GERENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SAN ANTONIO",
+            "anioTrabajoDesde": "2022",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "030609",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "APURIMAC",
+            "trabajoProvincia": "GRAU",
+            "trabajoDistrito": "SAN ANTONIO",
+            "idHojaVida": 162631,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 187025,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 162631,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 147672,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "SENATI",
+                "carreraTecnico": "TEC. AUTOMOTRIZ",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 162631,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 168712,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD TECNOLOGICA DE LOS ANDES",
+                "carreraUni": "BACHILLER",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2022",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 154896,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2731,
+            "orgPolRenunciaOp": "PODEMOS PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 162631,
+            "idEstado": 1,
+            "txComentario": "CIUDADANO SOLICITÓ SER EXCLUIDO DE LA ORGANIZACION POLITICA, LA CUAL NO LO HABÍA PRESENTADO COMO AFILIADO ANTE EL ROP"
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 173139,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 10000.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 162631,
+                "idEstado": 1,
+                "totalIngresos": 10000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

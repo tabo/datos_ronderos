@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 21830,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1701,
+        "juradoElectoral": "LIMA SUR 1",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/9316dbdf-c9fb-4566-ac37-585e65f44c9f.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/5f466cae-e9fe-4b73-b5bc-a238cc50d26f.pdf",
+        "txCodExpedienteExt": "ERM.2022018020",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 186009,
+            "txPgProblema": "DESNUTRICION INFATIL Y CRISSIS ALIMENTARIA",
+            "txPgObjetivo": "REDUCIR LA DESNUTRICION INFANTIL Y LA CRISSISALIMENTARIA EN EL DISTRITO",
+            "txPgIndicador": "INDICE DE DESNUTICION INFANTIL PORCENTAGE DE DEFICIT ALIMENTARIO",
+            "txPgMeta": "REDUCIR EL 80% LA DESNUTRICION INFANTIL, CON LA IMPLEMENTACION DE DESAYUNOS ESCOLARES Y REDUCIR EL 60 % EL DEFICIT ALIMENTARIO CON EL REFORSAMIENTO EN LOS COMEDORES POPULARES",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 186151,
+            "txPgProblema": "GRAN INFORMALIDAD ECONOMICA",
+            "txPgObjetivo": "1º REDUCIR LA INFORMALIDAD DE NEGOCIOS EN EL DISTRITO - 2º AUMENTAR LA CAPACITACION EN FORMALIZACION DE EMPRESAS",
+            "txPgIndicador": "1º TASA DE INFORMALIDAD  PÒR SECTORESW 2º PORCENTAGE DE CAPACITACION POR COMERCIO INFORMAL",
+            "txPgMeta": "1º REDUCIR EN UN 60% DE LA INFORMALIDAD EN COMERCIOS Y SERVICIOS - 2º CAPACITAR AL 100% DE COMERCIOS INFORMALES",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 186270,
+            "txPgProblema": "CONTAMINACION DEL MEDIO AMBIENTE POR DESECHOS SOLIDOS Y QUEMA DE RESIDUOS",
+            "txPgObjetivo": "1º AUMENTAR LA COBERTURA DE RECOJO DE DESECHO SOLIDO Y VIGILAR LA QUEMA DE RESIDUO",
+            "txPgIndicador": "1º POR CENTAGE DE COBERTURA DE RECOJO DE DESECHO SOLIDO Y TASA DE QUEMA DE RESIDUOS",
+            "txPgMeta": "COBERTURA 100% DEL RECOJO DE DESECHO SOLIDOS Y EVITAR LA QUEMA DE RESIDO SOLIDO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 186377,
+            "txPgProblema": "1º AUSENCIA DE MECANISMO EFECTIVOS DE PARTICIPACION DE LA POBLACION",
+            "txPgObjetivo": "1º ORGANIZAR ALA POBLACION A QUE PARTICIPE ACTIVAMENTE EN EL MUNICIPIO - 2º ELECCION DE DELEGADOS ZONALES Y SECTORIALES EN FORMA DEMOCRATICA",
+            "txPgIndicador": "1º TASA DE PARTICIPACION DE LA POBLACION ZONIFICADA  - 2º COBERTURA DE REPRESENTACION",
+            "txPgMeta": "1º AUMENTAR EL 50 % LA PARTICIPACION VECINAL EN EL DISTRITO  - 2º CUBRIL EN UN 100 % A LOS REPRESENTANTES ZONALES Y SECTORIALES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

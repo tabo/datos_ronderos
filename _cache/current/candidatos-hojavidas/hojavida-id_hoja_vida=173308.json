@@ -1,0 +1,142 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 173308.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40752965",
+        "nombres": "MARIA CELESTE",
+        "apellidoPaterno": "ESPINOZA",
+        "apellidoMaterno": "MAR",
+        "sexo": "2",
+        "feNacimiento": "21/05/1980",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "071306",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "URUBAMBA",
+        "naciDistrito": "OLLANTAYTAMBO",
+        "ubigeoDomicilio": "071306",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "URUBAMBA",
+        "domiDistrito": "OLLANTAYTAMBO",
+        "domicilioDirecc": "COMUNID.CAMPESINA PAMPALLACTA",
+        "ubigeoPostula": "071300",
+        "postulaDepartamento": "CUSCO",
+        "postulaProvincia": "URUBAMBA",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/173308.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 8.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 18:30:04",
+        "txGuidFormatoHojaVida": "d6ff1828-bf98-46f6-8de1-7c38ad65a411",
+        "idSolicitudLista": 27945.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 236693,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MUNICIPALIDAD DISTRITAL DE OLLANTAYTAMBO",
+            "ocupacionProfesion": "JEFE DE AREA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "PLAZA DE ARMAS",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "2018",
+            "ubigeoTrabajo": "071306",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CUSCO",
+            "trabajoProvincia": "URUBAMBA",
+            "trabajoDistrito": "OLLANTAYTAMBO",
+            "idHojaVida": 173308,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 208968,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 173308,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 153323,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "IST. LUIS PASTEUR",
+                "carreraTecnico": "TECNICO",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 173308,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 190161,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 10000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 173308,
+                "idEstado": 1,
+                "totalIngresos": 10000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 135497,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "191-2018-72-1015",
+            "feSentenciaPenal": "04/02/2019",
+            "txOrganoJudiPenal": "1°JUZGADO UNIPERSONAL",
+            "txDelitoPenal": "VIOLENCIA FAMILIAR",
+            "txFalloPenal": "MULTA",
+            "idParamModalidad": 11,
+            "txModalidad": "SUSPENDIDA",
+            "txOtraModalidad": "CONVERSION DE PENA EN MULTA",
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 173308,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": []
+}

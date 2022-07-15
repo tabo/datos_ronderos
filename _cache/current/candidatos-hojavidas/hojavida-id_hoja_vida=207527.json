@@ -1,0 +1,155 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 207527.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "15438587",
+        "nombres": "VICTOR MANUEL",
+        "apellidoPaterno": "CORNEJO",
+        "apellidoMaterno": "VARGAS",
+        "sexo": "1",
+        "feNacimiento": "28/08/1976",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140401",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "CAÑETE",
+        "naciDistrito": "SAN VICENTE DE CAÑETE",
+        "ubigeoDomicilio": "140409",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "CAÑETE",
+        "domiDistrito": "NUEVO IMPERIAL",
+        "domicilioDirecc": "CP. RINCONADA DE CONTA MZ. B LT. 12",
+        "ubigeoPostula": "140406",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "CAÑETE",
+        "postulaDistrito": "IMPERIAL",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/207527.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2898.0,
+        "organizacionPolitica": "FE EN EL PERU",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 03:36:45",
+        "txGuidFormatoHojaVida": "94872b28-b3b9-48ed-84ff-b119fbc79822",
+        "idSolicitudLista": 32459.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 246032,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "ROTONDO CORREA MARIA PIA",
+            "ocupacionProfesion": "INDEPENDIENTE",
+            "rucTrabajo": "10082358035",
+            "direccionTrabajo": "PLAZA DE ARMAS",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "2017",
+            "ubigeoTrabajo": "140409",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "CAÑETE",
+            "trabajoDistrito": "NUEVO IMPERIAL",
+            "idHojaVida": 207527,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 217783,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 207527,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 142863,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 4,
+                "orgPolCargoPartidario": "PARTIDO POLÍTICO ACCION POPULAR",
+                "cargoPartidario": "MILITANTE",
+                "anioCargoPartiDesde": "2005",
+                "anioCargoPartiHasta": "2021",
+                "idHojaVida": 207527,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "RENUNCIA"
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 165403,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 4,
+            "orgPolRenunciaOp": "ACCION POPULAR",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 207527,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 196388,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 19200.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 207527,
+                "idEstado": 1,
+                "totalIngresos": 19200.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 199276,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "A40361 ",
+                "valor": 4000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA",
+                "comentario": null,
+                "idHojaVida": 207527,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

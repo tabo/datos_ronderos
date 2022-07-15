@@ -1,0 +1,160 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 185465.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40797993",
+        "nombres": "PABLO CESAR",
+        "apellidoPaterno": "MONSERRATE",
+        "apellidoMaterno": "YATACO",
+        "sexo": "1",
+        "feNacimiento": "12/11/1980",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "100209",
+        "naciDepartamento": "ICA",
+        "naciProvincia": "CHINCHA",
+        "naciDistrito": "ALTO LARAN",
+        "ubigeoDomicilio": "100209",
+        "domiDepartamento": "ICA",
+        "domiProvincia": "CHINCHA",
+        "domiDistrito": "ALTO LARAN",
+        "domicilioDirecc": "CALLE CESAR VALLEJO MZ. A LT. 15",
+        "ubigeoPostula": "100209",
+        "postulaDepartamento": "ICA",
+        "postulaProvincia": "CHINCHA",
+        "postulaDistrito": "ALTO LARAN",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/185465.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2895.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATA VERDE",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 16:10:57",
+        "txGuidFormatoHojaVida": "9ffe1a2f-1c93-44f7-9d1a-59ee5e7a21fb",
+        "idSolicitudLista": 29566.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 167478,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AGROINDUSTRIAS CASA BLANCA SAC",
+            "ocupacionProfesion": "OBRERO",
+            "rucTrabajo": "20452302951",
+            "direccionTrabajo": "FUNDO SAN FERNANDO S/N",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "100209",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ICA",
+            "trabajoProvincia": "CHINCHA",
+            "trabajoDistrito": "ALTO LARAN",
+            "idHojaVida": 185465,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 146475,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 185465,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 143350,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 16200.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 185465,
+                "idEstado": 1,
+                "totalIngresos": 16200.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 155783,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 3,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "60658F ",
+                "valor": 9500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA BAJAJ - COLOR AZUL",
+                "comentario": null,
+                "idHojaVida": 185465,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 155782,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "APE146 ",
+                "valor": 15000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR GRIS TITANIO - MARCA CHEVROLET",
+                "comentario": null,
+                "idHojaVida": 185465,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 155781,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "B8Q399 ",
+                "valor": 15000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR CELESTE - MARCA CHEVROLET",
+                "comentario": null,
+                "idHojaVida": 185465,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

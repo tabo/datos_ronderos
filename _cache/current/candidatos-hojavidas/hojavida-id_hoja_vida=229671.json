@@ -1,0 +1,141 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 229671.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "45789647",
+        "nombres": "JAIRO",
+        "apellidoPaterno": "CHUNG",
+        "apellidoMaterno": "RUIZ",
+        "sexo": "1",
+        "feNacimiento": "15/04/1988",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "210701",
+        "naciDepartamento": "SAN MARTIN",
+        "naciProvincia": "BELLAVISTA",
+        "naciDistrito": "BELLAVISTA",
+        "ubigeoDomicilio": "120110",
+        "domiDepartamento": "LA LIBERTAD",
+        "domiProvincia": "TRUJILLO",
+        "domiDistrito": "EL PORVENIR",
+        "domicilioDirecc": "CALLE SIMÓN BOLIVAR 0148 BLOCK 1 PISO 2",
+        "ubigeoPostula": "120110",
+        "postulaDepartamento": "LA LIBERTAD",
+        "postulaProvincia": "TRUJILLO",
+        "postulaDistrito": "EL PORVENIR",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/229671.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 67.0,
+        "organizacionPolitica": "SUMATE",
+        "numeroCandidato": 11.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 14:20:48",
+        "txGuidFormatoHojaVida": "91f93fb7-252f-4c7c-84a6-0f68b802126b",
+        "idSolicitudLista": 35100.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 195118,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "SELECIN E.I.R.L.",
+            "ocupacionProfesion": "PREVENCIONISTA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "HUMBERTO DIAZ 134 - PACASMAYO",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "120506",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LA LIBERTAD",
+            "trabajoProvincia": "PACASMAYO",
+            "trabajoDistrito": "PACASMAYO",
+            "idHojaVida": 229671,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 171977,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 229671,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 161054,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD PARTICULAR ANTENOR ORREGO",
+                "carreraUni": "INGENIERIA CIVIL",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 149424,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 46,
+            "orgPolRenunciaOp": "PERU POSIBLE",
+            "anioRenunciaOp": "2017",
+            "idHojaVida": 229671,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 161893,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 12400.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 229671,
+                "idEstado": 1,
+                "totalIngresos": 12400.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

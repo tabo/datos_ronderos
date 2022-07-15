@@ -1,0 +1,158 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 232453.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "41596811",
+        "nombres": "JOSE RICARDO",
+        "apellidoPaterno": "ROBLES",
+        "apellidoMaterno": "TACO",
+        "sexo": "1",
+        "feNacimiento": "11/03/1982",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "070101",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "CUSCO",
+        "naciDistrito": "CUSCO",
+        "ubigeoDomicilio": "070105",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "CUSCO",
+        "domiDistrito": "SAN SEBASTIAN",
+        "domicilioDirecc": "ASOC.PRO.VIV.JOSE DE SAN MARTIN A-07",
+        "ubigeoPostula": "070105",
+        "postulaDepartamento": "CUSCO",
+        "postulaProvincia": "CUSCO",
+        "postulaDistrito": "SAN SEBASTIAN",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/232453.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 9.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 11:09:59",
+        "txGuidFormatoHojaVida": "e398a31e-175c-4c0e-b30f-02d8d75c598b",
+        "idSolicitudLista": 35421.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 242234,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MUNICIPALIDAD DISTRITAL DE SAN SEBASTIAN",
+            "ocupacionProfesion": "OBRERO OFICIAL",
+            "rucTrabajo": null,
+            "direccionTrabajo": "PLAZA DE ARMAS S/N SAN SEBASTIAN - CUSCO",
+            "anioTrabajoDesde": "2022",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "070105",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CUSCO",
+            "trabajoProvincia": "CUSCO",
+            "trabajoDistrito": "SAN SEBASTIAN",
+            "idHojaVida": 232453,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 214054,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 232453,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 182719,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD ALAS PERUANAS S.A.",
+                "carreraUni": "BACHILLER EN INGENIERÍA CIVIL",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2021",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 164160,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1735,
+            "orgPolRenunciaOp": "FUERZA CUSCO",
+            "anioRenunciaOp": "2011",
+            "idHojaVida": 232453,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 193530,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 21000.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 232453,
+                "idEstado": 1,
+                "totalIngresos": 21000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 197205,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "B6X712 ",
+                "valor": 35000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MITSUBISHI DE COLOR ROJO",
+                "comentario": null,
+                "idHojaVida": 232453,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

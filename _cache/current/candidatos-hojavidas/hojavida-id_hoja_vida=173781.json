@@ -1,0 +1,158 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 173781.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "71465500",
+        "nombres": "JOSE ALONSO",
+        "apellidoPaterno": "CONISLLA",
+        "apellidoMaterno": "SAMANEZ",
+        "sexo": "1",
+        "feNacimiento": "24/06/2000",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "100401",
+        "naciDepartamento": "ICA",
+        "naciProvincia": "PISCO",
+        "naciDistrito": "PISCO",
+        "ubigeoDomicilio": "100405",
+        "domiDepartamento": "ICA",
+        "domiProvincia": "PISCO",
+        "domiDistrito": "PARACAS",
+        "domicilioDirecc": "C.P LAS PALMERAS MZ. E-4",
+        "ubigeoPostula": "100405",
+        "postulaDepartamento": "ICA",
+        "postulaProvincia": "PISCO",
+        "postulaDistrito": "PARACAS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/173781.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 23:00:01",
+        "txGuidFormatoHojaVida": "63fe6447-e29a-43bc-a917-4a9203d4abb4",
+        "idSolicitudLista": 28014.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 212404,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "CHOFER",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CENTRO POBLADO PALMERAS MZ E LT - 4",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "100405",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ICA",
+            "trabajoProvincia": "PISCO",
+            "trabajoDistrito": "PARACAS",
+            "idHojaVida": 173781,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 187101,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 173781,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 168842,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL SAN LUIS GONZAGA DE ICA",
+                "carreraUni": "NINGUNO",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "ACTUALMENTE ESTUDIANTE EN LA FACULTAD CIENCIAS DE LA COMUNICACIÓN - TURISMO Y ARQUEOLOGÍA  EN LA CARRERA DE TURISMO"
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 154985,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1264,
+            "orgPolRenunciaOp": "JUNTOS POR EL PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 173781,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 173346,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 45000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 173781,
+                "idEstado": 1,
+                "totalIngresos": 45000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 181430,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "V0H002 ",
+                "valor": 44000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA JINBEI MODELO F50 COLOR BLANCO",
+                "comentario": null,
+                "idHojaVida": 173781,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

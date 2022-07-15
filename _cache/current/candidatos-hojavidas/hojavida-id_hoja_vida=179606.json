@@ -1,0 +1,156 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 179606.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42259686",
+        "nombres": "MIGUEL",
+        "apellidoPaterno": "RAMOS",
+        "apellidoMaterno": "AQUIJE",
+        "sexo": "1",
+        "feNacimiento": "27/09/1981",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140401",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "CAÑETE",
+        "naciDistrito": "SAN VICENTE DE CAÑETE",
+        "ubigeoDomicilio": "140413",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "CAÑETE",
+        "domiDistrito": "SAN LUIS",
+        "domicilioDirecc": "CALLE ESTUDIANTES DE LA PLATA MZ.D LT.3 C.P.M. LAURA CALLER",
+        "ubigeoPostula": "140413",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "CAÑETE",
+        "postulaDistrito": "SAN LUIS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/179606.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 03:36:03",
+        "txGuidFormatoHojaVida": "94b4e6a7-c245-4623-9805-4b0329a79d6e",
+        "idSolicitudLista": 28773.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 231017,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "COMERCIANTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JIRON SANTA ROSA 505",
+            "anioTrabajoDesde": "2017",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140401",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "CAÑETE",
+            "trabajoDistrito": "SAN VICENTE DE CAÑETE",
+            "idHojaVida": 179606,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 203893,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 179606,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 160772,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 46,
+            "orgPolRenunciaOp": "PERU POSIBLE",
+            "anioRenunciaOp": "2014",
+            "idHojaVida": 179606,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 185739,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 24000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 179606,
+                "idEstado": 1,
+                "totalIngresos": 24000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 191291,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "A48401 ",
+                "valor": 3000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA: BAJAJ",
+                "comentario": null,
+                "idHojaVida": 179606,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 191290,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "NG74408",
+                "valor": 3000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA: BAJAJ",
+                "comentario": null,
+                "idHojaVida": 179606,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

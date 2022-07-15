@@ -1,0 +1,155 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 180001.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40545631",
+        "nombres": "GIOVANNA MARITZA",
+        "apellidoPaterno": "TENORIO",
+        "apellidoMaterno": "MAMANI",
+        "sexo": "2",
+        "feNacimiento": "18/05/1980",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "220101",
+        "naciDepartamento": "TACNA",
+        "naciProvincia": "TACNA",
+        "naciDistrito": "TACNA",
+        "ubigeoDomicilio": "220206",
+        "domiDepartamento": "TACNA",
+        "domiProvincia": "TARATA",
+        "domiDistrito": "ESTIQUE",
+        "domicilioDirecc": "TALABAYA CALLE CALVARIO NRO. 13",
+        "ubigeoPostula": "220206",
+        "postulaDepartamento": "TACNA",
+        "postulaProvincia": "TARATA",
+        "postulaDistrito": "ESTIQUE",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/180001.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2708.0,
+        "organizacionPolitica": "FRENTE ESPERANZA POR TACNA",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 20:04:29",
+        "txGuidFormatoHojaVida": "dae37e6e-4413-4579-88e1-bd591e427250",
+        "idSolicitudLista": 28829.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 176968,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AGRICULTORA",
+            "ocupacionProfesion": "AGRICULTORA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ESTIQUE",
+            "anioTrabajoDesde": "2004",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "220206",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "TACNA",
+            "trabajoProvincia": "TARATA",
+            "trabajoDistrito": "ESTIQUE",
+            "idHojaVida": 180001,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 155342,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 180001,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 137793,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 196,
+                "orgPolCargoPartidario": "ALIANZA ELECTORAL FUERZA DEMOCRATICA",
+                "cargoPartidario": "AFILIADO",
+                "anioCargoPartiDesde": "2004",
+                "anioCargoPartiHasta": "2007",
+                "idHojaVida": 180001,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "A. CANCELADA"
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 143145,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 23,
+            "orgPolRenunciaOp": "FUERZA DEMOCRATICA",
+            "anioRenunciaOp": "2007",
+            "idHojaVida": 180001,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 149612,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 20000.0,
+                "idHojaVida": 180001,
+                "idEstado": 1,
+                "totalIngresos": 20000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 161450,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "Z2J318 ",
+                "valor": 12000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "VEHICULO",
+                "comentario": null,
+                "idHojaVida": 180001,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

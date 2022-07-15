@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 29125,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2731,
+        "txOrganizacionPolitica": "PODEMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/de5dc36e-6de8-46e3-b452-277704a42b79.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/e7903df8-1bbe-4062-a039-9234db2a5dfe.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 208988,
+            "txPgProblema": "INADECUADA PRESTACIÓN DE SERVICIOS DE EDUCATIVOS",
+            "txPgObjetivo": "MEJORAR Y BRINDAR SERVICIO EDUCATIVO DE CALIDAD",
+            "txPgIndicador": "% DE MEJORA DE SERVICIOS EDUCATIVOS DE CALIDAD",
+            "txPgMeta": "MAYOR % DE MEJORA DE SERVICIOS DE CALIDAD EDUCATIVA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 208995,
+            "txPgProblema": "INADECUADA PRESTACIÓN DE SERVICIOS DE SALUD",
+            "txPgObjetivo": "MEJORAR Y GARANTIZAR EL SERVICIO DE SALUD DE CALIDAD",
+            "txPgIndicador": "% DE MEJORA EN ATENCIÓN DE PACIENTES",
+            "txPgMeta": "MAYOR % DE PACIENTES ATENDIDOS A SATISFACCIÓN",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 209004,
+            "txPgProblema": "BAJA PRESTACIÓN DE CALIDAD EN DOTACIÓN DE AGUA POTABLE.",
+            "txPgObjetivo": "MEJORAR Y DOTAR SERVICIOS BÁSICOS DE CALIDAD",
+            "txPgIndicador": "% DE COBERTURA POBLACIONAL CON AGUA POTABLE",
+            "txPgMeta": "MAYOR % DE COBERTURA POBLACIONAL EN DOTACIÓN DE AGUA POTABLE",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 209012,
+            "txPgProblema": "LA FALTA DE PROYECTOS PRODUCTIVOS, LOS CIUDADANOS NO TIENEN EMPLEO SOSTENIBLE Y PERMANENTE Y CON MENOS INGRESO PERCAPITA.",
+            "txPgObjetivo": "MEJORAR, ASISTIR Y LOGRAR LA COMPETITIVIDAD AGROPECUARIA Y FRUTÍCOLA.",
+            "txPgIndicador": "% PROMEDIO DE INGRESOS PERCAPITA",
+            "txPgMeta": "MAYORES % DE INGRESOS PERCAPITA",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 209021,
+            "txPgProblema": "LA FALTA DE REPRESAS PARA COSECHA DE AGUA, EL AGUA DE RIEGO ES ESCASO EN TIEMPOS DE RIEGO.",
+            "txPgObjetivo": "MEJORAR, ASISTIR Y LOGRAR LA COMPETITIVIDAD AGROPECUARIA Y FRUTÍCOLA.",
+            "txPgIndicador": "CANTIDAD DE REPRESAS Y METROS CÚBICOS DE ALMACENAJE",
+            "txPgMeta": "MAYOR CANTIDAD DE  CAMPOS CON INSTALACIONES DE CULTIVO, CANTIDAD DE TONELADAS DE COSECHA.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 209037,
+            "txPgProblema": "LA FALTA DE UN CENTRO RECREACIONAL DE OCIO, DESCANSO, TRANQUILIDAD Y DEPORTIVO, SE DESAPROVECHA DE GENERAR TURISMO LOCAL, NACIONAL E INTERNACIONAL.",
+            "txPgObjetivo": "PROMOVER Y LOGRAR  TURISMO SOSTENIBLE Y COMPETITIVO, DIVERSIFICANDO\nSERVICIOS TURÍSTICOS.",
+            "txPgIndicador": "CANTIDAD DE VISITANTES Y TURISTAS QUE LLEGAN, DE NIVEL LOCAL, NACIONAL Y EL EXTRANJERO.",
+            "txPgMeta": "MAYOR CANTIDAD DE VISITANTES Y TURISTAS SATISFECHOS EN SU ESTADÍA",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 209054,
+            "txPgProblema": "CARENCIA DE FORESTACIÓN Y REFORESTACIÓN DE LOS CERROS DEL APU PUMAHUANCA Y EL APU CHICÓN.",
+            "txPgObjetivo": "MEJORAR LA CALIDAD AMBIENTAL CON PLANES Y POLÍTICAS AMBIENTALES DE NO CONTAMINACIÓN Y DE FORESTACIÓN Y  REFORESTACIÓN",
+            "txPgIndicador": "CANTIDAD DE HECTÁREAS FORESTADAS Y CANTIDAD DE TIPO Y CLASES DE PLANTAS NATIVAS PLANTADAS O INSTALADAS.",
+            "txPgMeta": "MEDIO AMBIENTE VERDE CON MAYOR CANTIDAD DE HECTÁREAS CON COBERTURA VEGETAL “PLAN VERDE”",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 209064,
+            "txPgProblema": "CONTAMINACIÓN DEL RIO VILCANOTA  CON AGUAS SERVIDAS Y DISPOSICIÓN DE RESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "MEJORAR LA CALIDAD AMBIENTAL CON PLANES Y POLÍTICAS AMBIENTALES DE NO CONTAMINACIÓN Y DE FORESTACIÓN Y  REFORESTACIÓN.",
+            "txPgIndicador": "NUMERO DE IMPLEMENTACIÓN DE PLANTAS DE TRATAMIENTO Y PLANTAS DE DISPOSICIÓN DE FINAL DE RESIDUOS SÓLIDOS.",
+            "txPgMeta": "MAYOR PUREZA DE AGUA Y  RIO VILCANOTA LIBRE DE CONTAMINACIÓN.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 209071,
+            "txPgProblema": "CARENCIA DE FORESTACIÓN Y REFORESTACIÓN DE ÁREAS VERDES URBANAS, AVENIDAS Y PARQUES Y JARDINES.",
+            "txPgObjetivo": "MEJORAR LA CALIDAD AMBIENTAL CON PLANES Y POLÍTICAS AMBIENTALES DE NO CONTAMINACIÓN Y DE FORESTACIÓN Y  REFORESTACIÓN",
+            "txPgIndicador": "CANTIDAD DE PLANTAS INSTALADAS EN ÁREAS VERDES, PLAZAS, PARQUES Y JARDINES",
+            "txPgMeta": "URUBAMBA EMBELLECIDO CON MAYOR CANTIDAD DE PLANTAS ORNAMENTALES Y COBERTURA VEGETAL URBANA - JARDÍN BOTÁNICO.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 209082,
+            "txPgProblema": "NO EXISTE GOBERNABILIDAD ENTRE MUNICIPALIDAD Y FRENTE DE DEFENSA DE LOS INTERESES DE URUBAMBA.",
+            "txPgObjetivo": "PROMOVER LA GOBERNABILIDAD Y FORTALECER LA PARTICIPACIÓN CIUDADANA DE LAS\nORGANIZACIONES SOCIALES E INSTITUCIONES.",
+            "txPgIndicador": "NUMERO DE REUNIONES Y AGENDAS PUBLICAS TRATADAS",
+            "txPgMeta": "AGENDAS PÚBLICAS LOGRADAS EN BENEFICIO DEL PUEBLO.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 209100,
+            "txPgProblema": "NO EXISTE GOBERNABILIDAD ENTRE ALCALDE Y REGIDORES.",
+            "txPgObjetivo": "PROMOVER LA GOBERNABILIDAD Y FORTALECER LA PARTICIPACIÓN CIUDADANA DE LAS\nORGANIZACIONES SOCIALES E INSTITUCIONES.",
+            "txPgIndicador": "NUMERO DE ACUERDOS Y ORDENANZAS.",
+            "txPgMeta": "ACUERDOS Y ORDENANZAS APROBADAS EN BENEFICIO DEL PUEBLO.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 209112,
+            "txPgProblema": "NO EXISTE GOBERNABILIDAD ENTRE MUNICIPALIDAD Y JUNTA DE REGANTES",
+            "txPgObjetivo": "PROMOVER LA GOBERNABILIDAD Y FORTALECER LA PARTICIPACIÓN CIUDADANA DE LAS\nORGANIZACIONES SOCIALES E INSTITUCIONES.",
+            "txPgIndicador": "NUMERO DE REUNIONES Y AGENDAS DE RIEGO TRATADAS",
+            "txPgMeta": "AGENDAS DE RIEGO LOGRADAS EN BENEFICIO DE LA JUNTA DE REGANTES.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 25725,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1646,
+        "juradoElectoral": "ABANCAY",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/42bc7eb5-bc39-463b-911f-1dd2d9e897e8.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/a070d99f-9ad9-48f6-920a-4749aae933bc.pdf",
+        "txCodExpedienteExt": "ERM.2022011989",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 202560,
+            "txPgProblema": "1.SALUD\n2.EDUCACION.\n3.VIVIENDA\n4.SANEAMIENTO BÁSICO",
+            "txPgObjetivo": "MINSA, MICRORED Y CCSS.\nMINEDU, II.EE, APAFA\nMVCS, GESTION MD\nMVCS, GESTION MD",
+            "txPgIndicador": "INEI\nINEI\nINEI\nINEI",
+            "txPgMeta": "REDUCIR DESNUTRICIÓN Y ANEMIA\nALFABETIZACIÓN, CIENCIA Y TECNOLOGÍA\nCALIDAD DE VIDA.\nCOBERTURA COMUNAL",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 202643,
+            "txPgProblema": "1.AGROPECUARIO\n2.ECOTURISMO\n3.MINERIA",
+            "txPgObjetivo": "CADENAS PRODUCTIVAS\nFOMENTO DE FERIAS COMUNALES Y APERTURA DE MERCADOS.\nFORTALECER IMPACTO AMBIENTAL",
+            "txPgIndicador": "INEI\nINEI\nINEI",
+            "txPgMeta": "SEGURIDAD ALIMENTARIA\nDINAMIZAR INGRESOS ECONÓMICOS.\nMITIGACIÓN",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 202727,
+            "txPgProblema": "1.RESIDUOS SOLIDOS\n2.ORDENAMIENTO TERRITORIAL\n3.RECURSOS HÍDRICOS",
+            "txPgObjetivo": "FORTALECER CULTURA AMBIENTAL\nPLANIFICAR, GESTIONAR ZONIFICACIÓN.\nFORTALECER SOBRE IMPACTO AMBIENTAL",
+            "txPgIndicador": "INEI\nINEI\nINEI",
+            "txPgMeta": "REDUCCIÓN CONTAMINACIÓN\nPLAN DE ORDENAMIENTO TERRITORIAL.\nREDUCCIÓN CONTAMINACIÓN",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 202813,
+            "txPgProblema": "1.TRANSPARECIA DE GESTIÓN\n2.SERVICIO DE TRANSPORTES Y COMUNICACIONES\n3.SEGURIDAD CIUDADANA",
+            "txPgObjetivo": "MDL, IMPLEMENTACIÓN Y TRANSPARENCIA\nMTC, MINCETUR\nPARTICIPACIÓN PNP, MP Y PJ",
+            "txPgIndicador": "INEI\nINEI\nINEI",
+            "txPgMeta": "RENDICIÓN DE CUENTA\nREORDENAMIENTO Y COMUNICACIÓN TERRITORIAL\nFORTALECIMIENTO SEGURIDAD",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

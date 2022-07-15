@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 239099.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "15742228",
+        "nombres": "HECTOR ENRIQUE",
+        "apellidoPaterno": "EVANGELISTA",
+        "apellidoMaterno": "MEZA",
+        "sexo": "1",
+        "feNacimiento": "27/03/1970",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "141005",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "OYON",
+        "naciDistrito": "PACHANGARA",
+        "ubigeoDomicilio": "140512",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "HUAURA",
+        "domiDistrito": "SANTA MARIA",
+        "domicilioDirecc": "SAN BARTOLOME II ETP. FLOR DE MARIA DRAGO MZ. Q LT. 7",
+        "ubigeoPostula": "140000",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/239099.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2173.0,
+        "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "ACCESITARIO"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 06:37:57",
+        "txGuidFormatoHojaVida": "1a74ffa4-593a-4688-ba20-65fbeb7affca",
+        "idSolicitudLista": 36208.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 196672,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "EVAMZ PERU SRL",
+            "ocupacionProfesion": "ADMINISTRADOR",
+            "rucTrabajo": "20606037334",
+            "direccionTrabajo": "SAN BARTOLOME II ETAPA S/N",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140512",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "HUAURA",
+            "trabajoDistrito": "SANTA MARIA",
+            "idHojaVida": 239099,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 173236,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 239099,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 161807,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "JOSE FAUSTINO SANCHEZ CARRION",
+                "carreraUni": "INGENIERO AGRONOMO",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2003",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 162880,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 36000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 24000.0,
+                "idHojaVida": 239099,
+                "idEstado": 1,
+                "totalIngresos": 60000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 172920,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "AVO817 ",
+                "valor": 150400.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "GRUA",
+                "comentario": null,
+                "idHojaVida": 239099,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 3269,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "EVANGELISTA MEZA HECTOR",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 100.0,
+                "flValor": 100.0,
+                "idHojaVida": 239099,
+                "idEstado": 1,
+                "txUsuario": "15760730",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

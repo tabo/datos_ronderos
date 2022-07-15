@@ -1,0 +1,153 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 222606.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "63128002",
+        "nombres": "MARIA",
+        "apellidoPaterno": "TURPO",
+        "apellidoMaterno": "MAMANI",
+        "sexo": "2",
+        "feNacimiento": "20/06/2000",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "200216",
+        "naciDepartamento": "PUNO",
+        "naciProvincia": "AZANGARO",
+        "naciDistrito": "SANTIAGO DE PUPUJA",
+        "ubigeoDomicilio": "200216",
+        "domiDepartamento": "PUNO",
+        "domiProvincia": "AZANGARO",
+        "domiDistrito": "SANTIAGO DE PUPUJA",
+        "domicilioDirecc": "COMUNIDAD SAYTOCOCHA",
+        "ubigeoPostula": "200216",
+        "postulaDepartamento": "PUNO",
+        "postulaProvincia": "AZANGARO",
+        "postulaDistrito": "SANTIAGO DE PUPUJA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/222606.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 18:43:41",
+        "txGuidFormatoHojaVida": "869ff9e8-1a02-4206-aed2-c9440344681f",
+        "idSolicitudLista": 34288.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 242879,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MEDIO URBANO",
+            "ocupacionProfesion": "TRABAJO INDEPENDIENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SANTIAGO DE PUPUJA",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "200216",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PUNO",
+            "trabajoProvincia": "AZANGARO",
+            "trabajoDistrito": "SANTIAGO DE PUPUJA",
+            "idHojaVida": 222606,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 214675,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 222606,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 155057,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "TECNOLOGICO MENDEL",
+                "carreraTecnico": "SECRETARIO EJECUTIVO",
+                "concluidoEduTecnico": "2",
+                "idHojaVida": 222606,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 144200,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "UNIVERSIDAD NACIONAL SAN AGUSTIN",
+                "carreraNoUni": "CONTABILIDAD",
+                "concluidoNoUni": "1",
+                "idHojaVida": 222606,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 183372,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD NACIONAL SAN AGUSTIN",
+                "carreraUni": "ESTUDIANTE",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 194505,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 12000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 222606,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

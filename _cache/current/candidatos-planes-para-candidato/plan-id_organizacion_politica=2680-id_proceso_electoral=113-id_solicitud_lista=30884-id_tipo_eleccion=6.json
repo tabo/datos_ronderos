@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 24210,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2680,
+        "txOrganizacionPolitica": "MOVIMIENTO REGIONAL SIERRA Y SELVA CONTIGO JUNIN",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/2d7a9999-a937-40d2-b19a-d8c50b375127.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/122b5e5f-1e9a-40f7-99bd-9def51c35f23.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 178078,
+            "txPgProblema": "POBLACIÓN URBANA CON AGUA POTABLE QUE NO CUMPLE CON ESTÁNDARES SECTORIALES NI DE CALIDAD",
+            "txPgObjetivo": "DOTAR A LA POBLACIÓN URBANA CON AGUA POTABLE QUE CUMPLEN CON ESTÁNDARES SECTORIALES Y DE CALIDAD",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN URBANA CON AGUA POTABLE QUE CUMPLEN CON ESTÁNDARES SECTORIALES Y DE CALIDAD (CONTINUIDAD, CALIDAD, COBERTURA)",
+            "txPgMeta": "97% POBLACIÓN URBANA CON AGUA POTABLE QUE CUMPLEN CON ESTÁNDARES SECTORIALES Y DE\nCALIDAD",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 178100,
+            "txPgProblema": "POBLACIÓN SIN SERVICIOS HIGIÉNICOS",
+            "txPgObjetivo": "DOTAR A LA POBLACIÓN DE SERVICIOS HIGIÉNICOS",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN SIN SERVICIOS HIGIÉNICOS",
+            "txPgMeta": "1% DE POBLACIÓN SIN SERVICIOS\nHIGIÉNICOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 178129,
+            "txPgProblema": "HOGARES SIN ELECTRICIDAD",
+            "txPgObjetivo": "DOTAR A LOS HOGARES DE ELECTRICIDAD",
+            "txPgIndicador": "PORCENTAJE DE HOGARES SIN\nELECTRICIDAD",
+            "txPgMeta": "0% DE HOGARES\nSIN ELECTRICIDAD",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 178172,
+            "txPgProblema": "HECTÁREAS DE TIERRAS SIN RIEGO.",
+            "txPgObjetivo": "DOTAR DE SISTEMAS DE RIEGO A TIERRAS AGRÍCOLAS.",
+            "txPgIndicador": "PORCENTAJE DE HECTÁREAS SIN RIEGO",
+            "txPgMeta": "40% DE HECTÁREAS SIN\nRIEGO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 178188,
+            "txPgProblema": "EXPANSIÓN URBANA Y RURAL DESORDENADA.",
+            "txPgObjetivo": "PROMOVER EL CRECIMIENTO URBANO Y RURAL DE MANERA ORDENADA.",
+            "txPgIndicador": "PORCENTAJE DE PLANES DE DESARROLLO URBANO Y RURAL ACTUALIZADO.",
+            "txPgMeta": "100% DE PLANES DE DESARROLLO URBANO Y RURAL\nACTUALIZADO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 178215,
+            "txPgProblema": "INFRAESTRUCTURA VIAL URBANA EN PÉSIMAS CONDICIONES.",
+            "txPgObjetivo": "EJECUTAR PROYECTOS DE INFRAESTRUCTURA VIAL URBANA.",
+            "txPgIndicador": "PORCENTAJE DE INFRAESTRUCTURA VIAL URBANA EN ÓPTIMAS CONDICIONES.",
+            "txPgMeta": "80% DE\nINFRAESTRUCTURA VIAL URBANA EN ÓPTIMAS CONDICIONES",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 178243,
+            "txPgProblema": "CONTAMINACIÓN AMBIENTAL POR RESIDUOS SÓLIDOS GENERADOS POR LA POBLACIÓN",
+            "txPgObjetivo": "VIVIENDAS CON COBERTURA DEL SERVICIO DE RECOLECCIÓN DE RESIDUOS SÓLIDOS.",
+            "txPgIndicador": "PORCENTAJE DE VIVIENDAS CON COBERTURA DEL SERVICIO DE RECOLECCIÓN DE RESIDUO SÓLIDOS EN PREDIOS",
+            "txPgMeta": "95% DE VIVIENDAS CON COBERTURA DEL SERVICIO DE RECOLECCIÓN DE\nRESIDUO SÓLIDOS EN PREDIOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 178308,
+            "txPgProblema": "CONTAMINACIÓN POR BOTADEROS DE RESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "REDUCIR LA CONTAMINACIÓN SIGNIFICATIVAMENTE DE BOTADEROS DE RESIDUOS SÓLIDOS.",
+            "txPgIndicador": "PORCENTAJE DE IMPLEMENTACIÓN DE PLANTA DE TRATAMIENTO DE RESIDUOS SOLIDOS",
+            "txPgMeta": "100% DE\nIMPLEMENTACIÓN DE PLANTA DE\nTRATAMIENTO DE RESIDUOS SOLIDOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 178347,
+            "txPgProblema": "RIESGO DE DESBORDE DE RÍOS, CUNETAS Y DRENAJES.",
+            "txPgObjetivo": "CAUCES DE RÍOS, CUNETAS, DRENAJES Y ESTRUCTURAS DE SEGURIDAD FÍSICA EN PÉSIMAS CONDICIONES",
+            "txPgIndicador": "PORCENTAJE DE CAUCES DE RÍOS, CUNETAS, DRENAJES Y ESTRUCTURAS DE SEGURIDAD FÍSICA EN OPTIMAS CONDICIONES",
+            "txPgMeta": "90% DE CAUCES DE RÍOS, CUNETAS,\nDRENAJES Y ESTRUCTURAS DE SEGURIDAD FÍSICA EN OPTIMAS\nCONDICIONES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 178369,
+            "txPgProblema": "GOBIERNO LOCAL SIN RUMBO NI DIRECCIÓN",
+            "txPgObjetivo": "ELABORAR UN INSTRUMENTO DE PLANEAMIENTO ESTRATÉGICO PARA EL DESARROLLO LOCAL.",
+            "txPgIndicador": "PORCENTAJE DE CUMPLIMIENTO DEL PLAN ESTRATÉGICO INSTITUCIONAL",
+            "txPgMeta": "98% DE\nCUMPLIMIENTO DEL\nPLAN ESTRATÉGICO INSTITUCIONAL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 178443,
+            "txPgProblema": "GOBIERNO LOCAL BUROCRÁTICO, OBSOLETO Y POCO TRANSPARENTE.",
+            "txPgObjetivo": "IMPLEMENTAR LA SIMPLIFICACIÓN ADMINISTRATIVA, LA GESTIÓN POR PROCESOS, MODERNIZACIÓN INSTITUCIONAL E IMPLEMENTAR UN GOBIERNO TRANSPARENTE AL SERVICIO DEL CIUDADANO.",
+            "txPgIndicador": "PORCENTAJE DE AVANCE DE LA IMPLEMENTACIÓN PLAN DE SIMPLIFICACIÓN ADMINISTRATIVA, GESTIÓN POR PROCESOS, MODERNIZACIÓN INSTITUCIONAL Y TRANSPARENTE.",
+            "txPgMeta": "98% DE AVANCE\nDE LA IMPLEMENTACIÓN PLAN DE SIMPLIFICACIÓN ADMINISTRATIVA, GESTIÓN POR PROCESOS, MODERNIZACIÓN\nINSTITUCIONAL Y",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

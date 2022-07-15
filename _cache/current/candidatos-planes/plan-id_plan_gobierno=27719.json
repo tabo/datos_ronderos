@@ -1,0 +1,125 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 27719,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2731,
+        "txOrganizacionPolitica": "PODEMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1665,
+        "juradoElectoral": "CHANCHAMAYO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/91b2e039-8b09-4c91-a4d2-b82f377634d3.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/074e1552-a87d-4887-95cd-9eb31ce87eb0.pdf",
+        "txCodExpedienteExt": "ERM.2022013128",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 194737,
+            "txPgProblema": "1. VIVIENDAS FAMILIARES CON BAJO ACCESO A SERVICIOS DE SBI.",
+            "txPgObjetivo": "COBERTURA PROGRESIVA DEL SISTEMA DE AGUA Y SANEAMIENTO URBANO Y RURAL.",
+            "txPgIndicador": "PORCENTAJE DE VIVIENDAS QUE TIENEN ACCESO A SBI",
+            "txPgMeta": "90% DE DICHAS VIVIENDAS ACCEDEN A SBI.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 194751,
+            "txPgProblema": "ALTOS ÍNDICES DE INSEGURIDAD CIUDADANA EN EL DISTRITO.",
+            "txPgObjetivo": "REDUCCIÓN DE LA INSEGURIDAD CIUDADANA..",
+            "txPgIndicador": "PERCEPCIONES DE INSEGURIDAD CIUDADANA POR PARTE DE LA POBLACIÓN.",
+            "txPgMeta": "LA PERCEPCIÓN DE SEGURIDAD CIUDADANA DE LA POBLACIÓN ALCANZA EL 80%.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 194770,
+            "txPgProblema": "MUY BAJOS NIVELES EDUCATIVOS POR PARTE DE LOS ESTUDIANTES Y POCA CAPACIDAD DE LAS IE PARA MEJORAR ESTOS BAJOS NIVELES.",
+            "txPgObjetivo": "AUMENTAR LOS NIVELES DE LOGRO EDUCATIVO EN LOS ESCOLARES DEL NIVEL PRIMARIO Y SECUNDARIO.",
+            "txPgIndicador": "PORCENTAJE DE IE CON MEJORES CAPACIDADES LOGÍSTICAS Y DE RR.HH.",
+            "txPgMeta": "100% DE LAS IES DEL DISTRITO DE MAZAMARI TIENEN MEJORES CAPACIDADES.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 194801,
+            "txPgProblema": "BAJOS NIVELES DE PRODUCCIÓN Y PRODUCTIVIDAD.",
+            "txPgObjetivo": "MEJORA SUSTANCIAL DE LA PRODUCCIÓN Y PRODUCTIVIDAD DE CULTIVOS AGRÍCOLAS, PECUARIOS, TURISMO, ARTESANÍAS.",
+            "txPgIndicador": "AUMENTO EN EL PORCENTAJE DE ASISTENCIA TÉCNICA.",
+            "txPgMeta": "SE HAN DUPLICADO EL NÚMERO DE ASISTENCIAS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 194823,
+            "txPgProblema": "PÉSIMA PROMOCIÓN DE NUESTROS ATRACTIVOS TURÍSTICOS.",
+            "txPgObjetivo": "MEJORA SUSTANCIAL DE LA PRODUCCIÓN Y PRODUCTIVIDAD DE CULTIVOS AGRÍCOLAS, PECUARIOS, TURISMO, ARTESANÍAS.",
+            "txPgIndicador": "PORCENTAJE DE ATRACTIVOS TURÍSTICOS EN BUEN ESTADO.",
+            "txPgMeta": "90% DE LOS ATRACTIVOS TURÍSTICOS EN BUEN ESTADO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 194842,
+            "txPgProblema": "DEFICIENTE SISTEMA DE COMUNICACIÓN VIAL ENTRE LA ZONA URBANA Y RURAL.",
+            "txPgObjetivo": "MEJORA SUSTANCIAL DEL SISTEMA DE TRANSPORTE Y LA INFRAESTRUCTURA VIAL ESPECIALMENTE EN LA ZONA RURAL.",
+            "txPgIndicador": "PORCENTAJE DE KM. MEJORADAS DE INFRAESTRUC-TURA VIAL.",
+            "txPgMeta": "AL 2026 EL 85% DE KM DE INFRA-ESTRUCTURA VIAL MEJORADOS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 194857,
+            "txPgProblema": "EXISTE UNA ALTA PRESIÓN A LA DEFORESTACIÓN PROGRESIVA DE LOS BOSQUES DEL DISTRITO.",
+            "txPgObjetivo": "PRESERVACIÓN DE NUESTRO ENTORNO AMBIENTAL Y REDUCCIÓN DE LOS RIESGOS AMBIENTALES.",
+            "txPgIndicador": "NÚMERO DE HAS. DEFORESTADAS.",
+            "txPgMeta": "AL 2026, SE HAN REDUCIDO AL 50% EL NÚMERO DE HAS. DEFORESTADAS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 194872,
+            "txPgProblema": "DEFICIENTE GESTIÓN DE LOS RESIDUOS DEL DISTRITO.",
+            "txPgObjetivo": "MEJORA EN LA GESTIÓN DE SERVICIOS AMBIENTALES.",
+            "txPgIndicador": "PORCENTAJE DE RESIDUOS RECO-LECTADOS Y DIS-PUESTOS ADECUADAMENTE.",
+            "txPgMeta": "AL 2026, EL 90% DE LOS RESIDUOS SON RECOLECTADOS Y DISPUESTOS ADECUADAMENTE.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 194970,
+            "txPgProblema": "LOS SUELOS SE ESTÁN DETERIORANDO, CADA VEZ SON SUELOS IMPRODUCTIVOS, Y ES UNA DE LAS CAUSAS DE LA BAJA PRODUCTIVIDAD DE MUCHOS PRODUCTOS AGRÍCOLAS.",
+            "txPgObjetivo": "ESPECIALMENTE SU RECUPERACIÓN PARA DARLE LA UTILIDAD E IMPORTANCIA QUE ANTAÑO TENÍA.",
+            "txPgIndicador": "LA DEFORESTACIÓN HA SIDO UNO DE LOS ACTOS DE MAYOR IRRESPONSABILIDAD POR EMPRESAS MADERERAS Y PERMITIDA POR GOBIERNOS",
+            "txPgMeta": "AL 2026 80% REFORESTACION",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 194897,
+            "txPgProblema": "INEFICIENTES SISTEMAS DE LA ADMINISTRACIÓN LOCAL CON PERSONAL INADECUADAMENTE CAPACITADOS.",
+            "txPgObjetivo": "REESTRUCTURACIÓN Y MODERNIZACIÓN DE LA ADMINISTRACIÓN MUNICIPAL.",
+            "txPgIndicador": "PORCENTAJE DE AUTORIDADES, FUNCIONARIOS Y EMPLEADOS ADECUADAMENTE CAPACITADOS.",
+            "txPgMeta": "EL 100% DEL PERSONAL DE LA MDM ESTÁN CAPACITADOS DE FORMA ADECUADA.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

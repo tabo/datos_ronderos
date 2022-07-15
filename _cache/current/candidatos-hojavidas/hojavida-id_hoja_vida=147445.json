@@ -1,0 +1,185 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 147445.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "80056775",
+        "nombres": "GERMAN",
+        "apellidoPaterno": "GUILLEN",
+        "apellidoMaterno": "JIMENEZ",
+        "sexo": "1",
+        "feNacimiento": "25/09/1978",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "030208",
+        "naciDepartamento": "APURIMAC",
+        "naciProvincia": "AYMARAES",
+        "naciDistrito": "LUCRE",
+        "ubigeoDomicilio": "030208",
+        "domiDepartamento": "APURIMAC",
+        "domiProvincia": "AYMARAES",
+        "domiDistrito": "LUCRE",
+        "domicilioDirecc": "PLAZA CAYHUCHAHUA",
+        "ubigeoPostula": "030000",
+        "postulaDepartamento": "APURIMAC",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/147445.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2857.0,
+        "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "ACCESITARIO"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 20:35:48",
+        "txGuidFormatoHojaVida": "7da0d8e2-6ff7-454d-a82d-8a0d06fcf3fb",
+        "idSolicitudLista": 24429.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 178461,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "ESTUDIO CONTABLE",
+            "ocupacionProfesion": "CONTADOR PUBLICO COLEGIADO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV PERU S/N",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "030101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "APURIMAC",
+            "trabajoProvincia": "ABANCAY",
+            "trabajoDistrito": "ABANCAY",
+            "idHojaVida": 147445,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 156818,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 147445,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 153211,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD TECNOLOGICA DE LOS ANDES",
+                "carreraUni": "BACHILLER",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": "2005",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 138511,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 2212,
+                "orgPolCargoElec": "MOVIMIENTO INDEPENDIENTE FUERZA CAMPESINA REGIONAL",
+                "idCargoEleccion": 10,
+                "cargoEleccion": "ALCALDE DISTRITAL",
+                "anioCargoElecDesde": "2015",
+                "anioCargoElecHasta": "2018",
+                "idHojaVida": 147445,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 150571,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 36000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 147445,
+                "idEstado": 1,
+                "totalIngresos": 36000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 190317,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "PROLG. AV PERU S/N ABANCAY",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 70000.0,
+                "idHojaVida": 147445,
+                "idEstado": 1,
+                "flValor": "412000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 162376,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "ASQ107 ",
+                "valor": 35000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTO",
+                "comentario": null,
+                "idHojaVida": 147445,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

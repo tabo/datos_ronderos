@@ -1,0 +1,198 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 172738.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "00964349",
+        "nombres": "ROSARIO SULFORITA",
+        "apellidoPaterno": "GONZALEZ",
+        "apellidoMaterno": "TEAGUA",
+        "sexo": "2",
+        "feNacimiento": "18/04/1976",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "150401",
+        "naciDepartamento": "LORETO",
+        "naciProvincia": "REQUENA",
+        "naciDistrito": "REQUENA",
+        "ubigeoDomicilio": "210802",
+        "domiDepartamento": "SAN MARTIN",
+        "domiProvincia": "TOCACHE",
+        "domiDistrito": "NUEVO PROGRESO",
+        "domicilioDirecc": "JR. HUALLAGA 515",
+        "ubigeoPostula": "210802",
+        "postulaDepartamento": "SAN MARTIN",
+        "postulaProvincia": "TOCACHE",
+        "postulaDistrito": "NUEVO PROGRESO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/172738.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2173.0,
+        "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "08/06/2022 13:31:25",
+        "txGuidFormatoHojaVida": "a8b5d80a-475f-4dcd-a936-f8d8465e6d57",
+        "idSolicitudLista": 27872.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 159763,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INVERSIONS EL HORNO EIRL",
+            "ocupacionProfesion": "GERENTE",
+            "rucTrabajo": "20607373737",
+            "direccionTrabajo": "AV. FERNANDO B. TERRY S/N B. HUAYRANGUILLO",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "210802",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "SAN MARTIN",
+            "trabajoProvincia": "TOCACHE",
+            "trabajoDistrito": "NUEVO PROGRESO",
+            "idHojaVida": 172738,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 139655,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 172738,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 144096,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD DE HUANUCO",
+                "carreraUni": "EN EJERCICIO",
+                "concluidoEduUni": null,
+                "egresadoEduUni": null,
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 138328,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 30000.0,
+                "idHojaVida": 172738,
+                "idEstado": 1,
+                "totalIngresos": 30000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 151017,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "65849S ",
+                "valor": 20000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "NISSAN",
+                "comentario": null,
+                "idHojaVida": 172738,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 151016,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "D7Q296 ",
+                "valor": 20000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "NISSAN",
+                "comentario": null,
+                "idHojaVida": 172738,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 317,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "INVERSIONES EL HONO",
+                "idParamTipoTitularidad": 88,
+                "txTipoTitularidad": "PARTICIPACIONES",
+                "flCantidad": 100.0,
+                "flValor": 95000.0,
+                "idHojaVida": 172738,
+                "idEstado": 1,
+                "txUsuario": "70806806",
+                "txFechaRegistro": null,
+                "txComentario": "RUC: 20607373737",
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 134269,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "00241-2012-1-2207-JR-PE-01",
+            "feSentenciaPenal": "27/07/2017",
+            "txOrganoJudiPenal": "JUZAGADO INVESTIGACION PREP. NVA CAJAMARCA",
+            "txDelitoPenal": "CONTRA EL PATRIMONIO",
+            "txFalloPenal": "3 AÑOS Y 6 MESES",
+            "idParamModalidad": 11,
+            "txModalidad": "SUSPENDIDA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 172738,
+            "txComentario": "REHABILITADA SEGUN RES. N°14 DEL 21-09-21"
+        }
+    ],
+    "sentenciaObliga": []
+}

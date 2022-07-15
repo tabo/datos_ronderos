@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20981,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/641800c6-c332-4d50-87a9-f627f2af3d8f.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/1cbb645b-3a7b-43e8-b2b9-ea707554c70a.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 152893,
+            "txPgProblema": "INSEGURIDAD CIUDADANA EN EL DISTRITO, CON ALTOS ÍNDICES DE DELINCUENCIA.",
+            "txPgObjetivo": "CAPACITAR LOS COMITÉS DE SEGURIDAD CIUDADANA DEL DISTRITO",
+            "txPgIndicador": "NUMERO DE COMITÉS CAPACITADOS / MES",
+            "txPgMeta": "TODOS LOS COMITÉS CAPACITADOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 152924,
+            "txPgProblema": "BAJO NIVEL DE ESTILO DE VIDA SALUDABLE EN EL DISTRITO",
+            "txPgObjetivo": "CAPACITAR A LAS 29 ZONALES SOBRE BUENAS PRÁCTICAS DE HIGIENE DE ALIMENTOS.",
+            "txPgIndicador": "(CAPACITACIONES A ZONALES POR MES) X100 %",
+            "txPgMeta": "100%\nZONALES CAPACITADAS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 152931,
+            "txPgProblema": "DETECCIÓN POST TRAUMÁTICA EN UN SECTOR DE LA POBLACIÓN A RAÍZ DE LAS SECUELAS DE LA PANDEMIA, DETECTÁNDOSE CASOS DE ESTRÉS Y DEPRESIÓN.",
+            "txPgObjetivo": "IMPLEMENTAR LA GRATUIDAD DE LA PRIMERA CONSULTA EN EL HOSPITAL MUNICIPAL Y ATENCIÓN INMEDIATA EN PRIMEROS AUXILIOS.",
+            "txPgIndicador": "% AVANCE EN TRÁMITE A TRAVÉS DE RESOLUCIÓN DE ALCALDÍA.",
+            "txPgMeta": "RESOLUCIÓN DE ALCALDÍA AUTORIZANDO GRATUIDAD DE PRIMERA CONSULTA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 152904,
+            "txPgProblema": "ALTO PORCENTAJE DE COMERCIO AMBULATORIO EN EL DISTRITO.",
+            "txPgObjetivo": "EMPADRONAR A EMPRENDEDORES INFORMALES EN EL DISTRITO, IDENTIFICANDO QUE SEAN RESIDENTES DE LOS OLIVOS (NO PROPIETARIOS NECESARIAMENTE)",
+            "txPgIndicador": "(EMPADRONADOS POR ZONAL X SEMANA / TOTAL AMBULANTES INFORMALES) X 100 %",
+            "txPgMeta": "100 % AMBULANTES INFORMALES EMPADRONADOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 152911,
+            "txPgProblema": "INFORMALIDAD EN EL TRANSPORTE DE MOTO-TAXISTAS.",
+            "txPgObjetivo": "EMPADRONAR A TODOS LOS MOTO-TAXISTAS INFORMALES EN EL DISTRITO, IDENTIFICANDO QUE SEAN RESIDENTES DE LOS OLIVOS (NO PROPIETARIOS NECESARIAMENTE)",
+            "txPgIndicador": "(EMPADRONADOS POR ZONAL X SEMANA / TOTAL MOTOTAXISTAS INFORMALES) X 100 %",
+            "txPgMeta": "100% DE MOTO-TAXISTAS EMPADRONADOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 152917,
+            "txPgProblema": "ALTO NIVEL DE PERSONAS CON DISCAPACIDAD PARCIAL Y SIN EMPLEO.",
+            "txPgObjetivo": "EMPADRONAR A PERSONAS CON DISCAPACIDAD (PARCIAL Y TOTAL) EN EL DISTRITO, IDENTIFICANDO QUE SEAN RESIDENTES DE LOS OLIVOS (NO PROPIETARIOS NECESARIAMENTE)",
+            "txPgIndicador": "(EMPADRONADOS POR ZONAL X SEMANA / TOTAL DE PERSONAS CON DISCAPACIDAD INFORMALES) X 100 %",
+            "txPgMeta": "100 % PERSONAS CON DISCAPACIDAD EMPADRONADOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 152937,
+            "txPgProblema": "PÉSIMA GESTIÓN AMBIENTAL DEL DISTRITO",
+            "txPgObjetivo": "RECOLECTAR EN FORMA PERMANENTE LOS RESIDUOS SÓLIDOS DEL DISTRITO",
+            "txPgIndicador": "INSPECCIÓN Y EVALUACIÓN DIARIA AL SERVICIO DE LIMPIEZA EN LAS 29 ZONALES DEL DISTRITO",
+            "txPgMeta": "100 % NOTAS APROBATORIAS Y 90% NOTAS OPTIMAS EN LA RECOLECCIÓN DE RESIDUOS SOLIDOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 152940,
+            "txPgProblema": "MUNICIPALIDAD NO CUENTA CON UNIDADES DE RECOJO Y COMPACTADORAS DE RESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "INVERTIR EN ARRENDAMIENTOS OPERATIVO PARA LA ADQUISICIÓN DE NUEVAS UNIDADES DE RECOJO Y COMPACTADORAS DE RESIDUOS SÓLIDOS, Y AL CULMINAR SU DEPRECIACIÓN RENOVARLAS POR UNIDADES NUEVAS.",
+            "txPgIndicador": "COMPRA DE  CAMIONES RECOLECTORES Y COMPACTADORES DE RESIDUOS SÓLIDOS POR AÑO POR ARRENDAMIENTO OPERATIVO.",
+            "txPgMeta": "CONTAR CON UNA FLOTA DE 16 CAMIONES RECOLECTORES Y COMPACTADORES AL 2026",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 152945,
+            "txPgProblema": "LA MUNICIPALIDAD NO CUENTA CON UN PLAN INTEGRAL DE MANEJO DE RESIDUOS NI REUTILIZACIÓN DE ESTOS.",
+            "txPgObjetivo": "IMPLEMENTAR EL PLAN DE MANEJO DE RESIDUOS 3R (REDUCIR, RECICLAR, REUTILIZAR).",
+            "txPgIndicador": "% EJECUCIÓN DEL PLAN DE MANEJO DE RESIDUOS 3R POR TRIMESTRE.",
+            "txPgMeta": "100 % EJECUCIÓN DEL PLAN DE MANEJO DE RESIDUOS 3R AL AÑO.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 152949,
+            "txPgProblema": "BAJOS O NULOS ESPACIOS O MECANISMOS DE PARTICIPACIÓN CIUDADANA",
+            "txPgObjetivo": "CREAR ESPACIOS DE PARTICIPACIÓN CIUDADANA QUE FORTALEZCA A LA MUNICIPALIDAD EN SU GESTIÓN",
+            "txPgIndicador": "NÚMERO DE ESPACIOS CREADOS POR ZONA Y/O GLOBAL POR TRIMESTRE.",
+            "txPgMeta": "100% ESPACIOS DE PARTICIPACIÓN PROGRAMADOS AL AÑO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 152952,
+            "txPgProblema": "CATASTRO DESACTUALIZADO EN LA JURISDICCIÓN DEL DISTRITO",
+            "txPgObjetivo": "CUMPLIR CON EL PORCENTAJE DE IMPLEMENTACIÓN DE CATASTRO URBANO DISTRITAL.",
+            "txPgIndicador": "(NÚMERO DE SECTORES CATASTRADOS POR MES / NÚMERO DE SECTORES) * 100 %",
+            "txPgMeta": "100 % DE ACTUALIZACIÓN DE CATASTRO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 152955,
+            "txPgProblema": "FALTA DE CULTURA DE PREVENCIÓN DE RIESGOS DE DESASTRES NATURALES.",
+            "txPgObjetivo": "DESARROLLAR PLAN INTEGRAL DE CONTINGENCIAS EN PREVENCIÓN Y GESTIÓN DE RIESGOS DE DESASTRES NATURALES.",
+            "txPgIndicador": "% EJECUCIÓN DEL PLAN INTEGRAL DE CONTINGENCIAS EN PREVENCIÓN Y GESTIÓN DE RIESGOS DE DESASTRES NATURALES",
+            "txPgMeta": "100 % EJECUCIÓN DEL PLAN INTEGRAL DE CONTINGENCIAS EN PREVENCIÓN Y GESTIÓN DE RIESGOS DE DESASTRES NATURALES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

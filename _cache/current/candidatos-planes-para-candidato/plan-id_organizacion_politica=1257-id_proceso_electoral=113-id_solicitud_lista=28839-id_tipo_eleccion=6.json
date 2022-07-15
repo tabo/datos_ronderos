@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 22165,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1257,
+        "txOrganizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/5e1d1945-44ec-4ec8-8dc6-017db1e14d13.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/6bea2ade-dd2c-4be6-9915-3f2de69ba5a1.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 143486,
+            "txPgProblema": "DEFICIENTE COBERTURA DEL SISTEMA DE AGUA POTABLE",
+            "txPgObjetivo": "INCREMENTAR LA COBERTURA DEL SISTEMA DE AGUA POTABLE",
+            "txPgIndicador": "% DE VIVIENDAS CON COBERTURA DEL SERVICIO AL AGUA POTABLE.",
+            "txPgMeta": "INCREMENTAR LA COBERTURA DE VIVIENDAS CON SERVICIO DE AGUA POTABLE EN 10%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 143499,
+            "txPgProblema": "DEFICIENTE COBERTURA DEL SISTEMA DE ALCANTARILLADO",
+            "txPgObjetivo": "INCREMENTAR LA COBERTURA DEL SISTEMA DE ALCANTARILLADO",
+            "txPgIndicador": "% DE VIVIENDAS CON COBERTURA DEL SERVICIO DE ALCANTARILLADO",
+            "txPgMeta": "INCREMENTAR LA COBERTURA DE VIVIENDAS CON SERVICIO DE ALCANTARILLADO 10%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 143515,
+            "txPgProblema": "DEFICIENTE PRESTACIÓN DEL SERVICIO DE SEGURIDAD CIUDADANA.",
+            "txPgObjetivo": "MEJORAMIENTO DEL SERVICIO DE LA SEGURIDAD CIUDADANA.",
+            "txPgIndicador": "% DE COBERTURA TERRITORIAL DEL SERVICIO DE SEGURIDAD CIUDADANA.",
+            "txPgMeta": "INCREMENTAR EL SERVICIO DE SEGURIDAD CIUDADANA AL 10%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 143533,
+            "txPgProblema": "DEFICIENTE APROVECHAMIENTO DE LOS RECURSOS TURÍSTICOS.",
+            "txPgObjetivo": "ADECUADO APROVECHAMIENTO DE LOS RECURSOS TURÍSTICOS.",
+            "txPgIndicador": "% DE RECURSOS TURÍSTICOS PUESTOS EN VALOR.",
+            "txPgMeta": "INCREMENTAR LOS RECURSOS TURÍSTICOS PUESTOS EN VALOR 10%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 143546,
+            "txPgProblema": "BAJO NIVEL PRODUCTIVO Y  EMPRESARIAL DE LOS PRODUCTORES AGRARIOS.",
+            "txPgObjetivo": "MEJORAR LA COMPETITIVIDAD PRODUCTIVA AGRÍCOLA.",
+            "txPgIndicador": "% PORCENTAJE DE PARTICIPACIÓN DEL SECTOR PRODUCTIVO AGRÍCOLA EN EL VALOR AGREGADO BRUTO DISTRITAL.",
+            "txPgMeta": "INCREMENTAR PORCENTAJE DE PARTICIPACIÓN DEL SECTOR PRODUCTIVO AGRÍCOLA DEL 20% EN EL VAB DISTRITAL.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 143558,
+            "txPgProblema": "ELEVADO NIVEL DE POBREZA MONETARIA EN EL DISTRITO",
+            "txPgObjetivo": "DISMINUIR  LA TASA DE POBREZA MONETARIA EN EL DISTRITO",
+            "txPgIndicador": "% DE POBREZA MONETARIA",
+            "txPgMeta": "REDUCIR LA TASA DE POBREZA MONETARIA DEL 19%  AL 10%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 143573,
+            "txPgProblema": "DEFICIENTE COBERTURA DE RECOJO DE RESIDUOS SÓLIDOS",
+            "txPgObjetivo": "INCREMETAR COBERTURA DE RECOJO DE RESIDUOS SÓLIDOS.",
+            "txPgIndicador": "% DE VIVIENDAS CON COBERTURA DEL SERVICIO DE RECOJO DE RESIDUOS SOLIDOS",
+            "txPgMeta": "INCREMENTAR LA COBERTURA DEL SERVICIO DE RECOJO DE RESIDUOS SÓLIDOS EN 10%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 143581,
+            "txPgProblema": "DEFICIENTE TRATAMIENTO DE RESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "MEJORAR EL TRATAMIENTO DE RESIDUOS SOLIDOS",
+            "txPgIndicador": "% DE TRATAMIENTO DE VOLUMEN DE RESIDUOS SOLIDOS",
+            "txPgMeta": "INCREMENTAR EL VOLUMEN DE TRATAMIENTO DE RESIDUOS SÓLIDOS EN 10%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 143593,
+            "txPgProblema": "ESCASAS DE ÁREAS VERDES",
+            "txPgObjetivo": "INCREMENTAR ÁREAS VERDES EN EL DISTRITO",
+            "txPgIndicador": "% METROS CUADRADOS DE ÁREAS VERDES POR HABITANTE.",
+            "txPgMeta": "INCREMENTAR A 8 METROS CUADRADOS DE ÁREAS VERDES POR HABITANTE.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 143606,
+            "txPgProblema": "DEFICIENTES ORGANIZACIÓN MUNICIPAL",
+            "txPgObjetivo": "ACTUALIZAR LOS DOCUMENTOS DE GESTIÓN INSTITUCIONAL",
+            "txPgIndicador": "% DE DOCUMENTOS DE GESTIÓN ACTUALIZADOS.",
+            "txPgMeta": "ACTUALIZAR LOS DOCUMENTOS DE GESTIÓN AL 2023",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 143615,
+            "txPgProblema": "DEFICIENTE SISTEMAS DE CONTROL INTERNO.",
+            "txPgObjetivo": "FORTALECIMIENTO DE LOS SISTEMA DE CONTROL INTERNO.",
+            "txPgIndicador": "% DE MEJORAMIENTO DE LOS SISTEMA DE CONTROL INTERNO",
+            "txPgMeta": "CONTAR CON UN SISTEMA ROBUSTO DE CONTROL INTERNO AL 100%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

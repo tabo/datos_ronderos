@@ -1,0 +1,153 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 241245.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40514438",
+        "nombres": "PANFILA MARISOL",
+        "apellidoPaterno": "MONTES",
+        "apellidoMaterno": "CONSA",
+        "sexo": "2",
+        "feNacimiento": "10/12/1979",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050710",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "VICTOR FAJARDO",
+        "naciDistrito": "HUANCARAYLLA",
+        "ubigeoDomicilio": "050710",
+        "domiDepartamento": "AYACUCHO",
+        "domiProvincia": "VICTOR FAJARDO",
+        "domiDistrito": "HUANCARAYLLA",
+        "domicilioDirecc": "JR.AYACUCHO S/N",
+        "ubigeoPostula": "050710",
+        "postulaDepartamento": "AYACUCHO",
+        "postulaProvincia": "VICTOR FAJARDO",
+        "postulaDistrito": "HUANCARAYLLA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/241245.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2710.0,
+        "organizacionPolitica": "ALIANZA POR NUESTRO DESARROLLO",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "17/06/2022 18:35:11",
+        "txGuidFormatoHojaVida": "cff16761-1435-4de9-b127-95a581261457",
+        "idSolicitudLista": 35824.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 231611,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 241245,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 169867,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2013",
+            "idHojaVida": 241245,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 169866,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 179,
+            "orgPolRenunciaOp": "PARTIDO NACIONALISTA PERUANO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 241245,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 206946,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 6000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 241245,
+                "idEstado": 1,
+                "totalIngresos": 6000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 250935,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "FAJARDO-HUANCARAYLLA- MZ V LOTE 12 - CENTRO POBLADO HUANCARAYLLA",
+                "comentario": "CASA",
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "55054327",
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 241245,
+                "idEstado": 1,
+                "flValor": "100000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 206749,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "59272Y ",
+                "valor": 4000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO ROJO",
+                "comentario": null,
+                "idHojaVida": 241245,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

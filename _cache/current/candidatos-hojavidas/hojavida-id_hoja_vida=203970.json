@@ -1,0 +1,142 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 203970.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43212970",
+        "nombres": "MELITON",
+        "apellidoPaterno": "CUTIPA",
+        "apellidoMaterno": "MUÑA",
+        "sexo": "1",
+        "feNacimiento": "09/03/1979",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "200804",
+        "naciDepartamento": "PUNO",
+        "naciProvincia": "SANDIA",
+        "naciDistrito": "LIMBANI",
+        "ubigeoDomicilio": "200804",
+        "domiDepartamento": "PUNO",
+        "domiProvincia": "SANDIA",
+        "domiDistrito": "LIMBANI",
+        "domicilioDirecc": "VALLE MELGAR SONENE",
+        "ubigeoPostula": "200804",
+        "postulaDepartamento": "PUNO",
+        "postulaProvincia": "SANDIA",
+        "postulaDistrito": "LIMBANI",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/203970.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2667.0,
+        "organizacionPolitica": "GESTIONANDO OBRAS Y OPORTUNIDADES CON LIDERAZGO",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "17/06/2022 12:03:11",
+        "txGuidFormatoHojaVida": "79194916-19df-45c6-95bc-4cb7a8bf67c6",
+        "idSolicitudLista": 32005.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 194929,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "TRABAJO INDEPENDIENTE",
+            "ocupacionProfesion": "EMPEDRADO EN RIO LIMBANI",
+            "rucTrabajo": null,
+            "direccionTrabajo": "RIO LIMBANI",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "200804",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PUNO",
+            "trabajoProvincia": "SANDIA",
+            "trabajoDistrito": "LIMBANI",
+            "idHojaVida": 203970,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 171749,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 203970,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 161647,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 40000.0,
+                "idHojaVida": 203970,
+                "idEstado": 1,
+                "totalIngresos": 40000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 171941,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "C4X160 ",
+                "valor": 5000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR ROJO",
+                "comentario": null,
+                "idHojaVida": 203970,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 137581,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "01731-2019",
+            "txOrganoJuridicialObliga": "PRIMER JUZGADO DE PAZ LETRADO DE SAN ROMAN - JULIACA",
+            "txFalloObliga": "FUNDADA LA DEMANDA",
+            "idEstado": 1,
+            "idHojaVida": 203970,
+            "txComentario": null
+        }
+    ]
+}

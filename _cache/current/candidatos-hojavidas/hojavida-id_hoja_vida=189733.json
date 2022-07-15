@@ -1,0 +1,160 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 189733.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "10547950",
+        "nombres": "ANTONIO ARNALDO",
+        "apellidoPaterno": "RAMIREZ",
+        "apellidoMaterno": "CASTILLO",
+        "sexo": "1",
+        "feNacimiento": "02/11/1948",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "120801",
+        "naciDepartamento": "LA LIBERTAD",
+        "naciProvincia": "ASCOPE",
+        "naciDistrito": "ASCOPE",
+        "ubigeoDomicilio": "140115",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "MIRAFLORES",
+        "domicilioDirecc": "PSJ. SANTIAGO ACUÑA 140 DPTO. 301 URB. LA AURORA",
+        "ubigeoPostula": "140100",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/189733.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2898.0,
+        "organizacionPolitica": "FE EN EL PERU",
+        "numeroCandidato": 25.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 11:47:00",
+        "txGuidFormatoHojaVida": "3d153cde-9184-4c1b-88d4-7bfea3e9e8ac",
+        "idSolicitudLista": 30156.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 158617,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 189733,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 154176,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD NACIONAL FEDERICO VILLAREAL",
+                "carreraUni": "ADMINISTRADOR",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "1978",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 144401,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 32,
+            "orgPolRenunciaOp": "PARTIDO APRISTA PERUANO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 189733,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 151908,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 6600.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 15000.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 189733,
+                "idEstado": 1,
+                "totalIngresos": 21600.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 192137,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "DPTO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "SANTIAGO ACUÑA M140 MIRAFLORES",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 150000.0,
+                "idHojaVida": 189733,
+                "idEstado": 1,
+                "flValor": "0"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 163610,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "F7B498 ",
+                "valor": 12000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTO",
+                "comentario": null,
+                "idHojaVida": 189733,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

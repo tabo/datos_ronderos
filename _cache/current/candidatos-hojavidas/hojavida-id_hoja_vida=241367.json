@@ -1,0 +1,167 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 241367.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43865249",
+        "nombres": "ALDO",
+        "apellidoPaterno": "PINARES",
+        "apellidoMaterno": "PELAIZA",
+        "sexo": "1",
+        "feNacimiento": "19/11/1986",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "030102",
+        "naciDepartamento": "APURIMAC",
+        "naciProvincia": "ABANCAY",
+        "naciDistrito": "CIRCA",
+        "ubigeoDomicilio": "030102",
+        "domiDepartamento": "APURIMAC",
+        "domiProvincia": "ABANCAY",
+        "domiDistrito": "CIRCA",
+        "domicilioDirecc": "TAMBURQUI",
+        "ubigeoPostula": "030102",
+        "postulaDepartamento": "APURIMAC",
+        "postulaProvincia": "ABANCAY",
+        "postulaDistrito": "CIRCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/241367.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 4.0,
+        "organizacionPolitica": "ACCION POPULAR",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 09:21:09",
+        "txGuidFormatoHojaVida": "9edf64ac-50dc-423d-ab33-3e9c76f4157b",
+        "idSolicitudLista": 24946.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 231858,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "SERVICIO DE CONSTRUCCION",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ABANCAY",
+            "anioTrabajoDesde": "2012",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "030101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "APURIMAC",
+            "trabajoProvincia": "ABANCAY",
+            "trabajoDistrito": "ABANCAY",
+            "idHojaVida": 241367,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "SERVICIOS PARTICULARES COMO MAESTRO DE OBRA"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 204609,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 241367,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 186225,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 65000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 241367,
+                "idEstado": 1,
+                "totalIngresos": 65000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 231085,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "TERRENO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "COMUNIDAD DE BANCAPATA, DISTRITO DE TAMBURCO",
+                "comentario": "ESTA EN PROCESO DE INSCRIPCION A LA SUNARP",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 241367,
+                "idEstado": 1,
+                "flValor": "130000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 191690,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "X27345 ",
+                "valor": 2000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CYC",
+                "comentario": null,
+                "idHojaVida": 241367,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 191689,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "BZR695 ",
+                "valor": 35000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA SUSUKY, COLOR GRIS OSCURO",
+                "comentario": null,
+                "idHojaVida": 241367,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 183926.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "41345801",
+        "nombres": "ERNESTO",
+        "apellidoPaterno": "TORRES",
+        "apellidoMaterno": "HUAMAN",
+        "sexo": "1",
+        "feNacimiento": "12/12/1978",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110801",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "CHANCHAMAYO",
+        "naciDistrito": "CHANCHAMAYO",
+        "ubigeoDomicilio": "110805",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "CHANCHAMAYO",
+        "domiDistrito": "PICHANAQUI",
+        "domicilioDirecc": "AV. MICAELA BASTIDAS 324 - URB. PICHANAKI",
+        "ubigeoPostula": "110805",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "CHANCHAMAYO",
+        "postulaDistrito": "PICHANAQUI",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/183926.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2898.0,
+        "organizacionPolitica": "FE EN EL PERU",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 10:14:33",
+        "txGuidFormatoHojaVida": "d09dd9ea-1d7c-45e4-a096-3b95d12af143",
+        "idSolicitudLista": 29357.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 205089,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 183926,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 143742,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 1259,
+                "orgPolCargoElec": "MOVIMIENTO POLITICO REGIONAL PERU LIBRE",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2019",
+                "anioCargoElecHasta": "2022",
+                "idHojaVida": 183926,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 161179,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 1259,
+            "orgPolRenunciaOp": "MOVIMIENTO POLITICO REGIONAL PERU LIBRE",
+            "anioRenunciaOp": "2019",
+            "idHojaVida": 183926,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 161178,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2218,
+            "orgPolRenunciaOp": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 183926,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 186589,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 13200.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 18000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 183926,
+                "idEstado": 1,
+                "totalIngresos": 31200.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 231502,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CHANCHAMAYO-PICHANAQUI- MZ H LOTE 5 - CENTRO POBLADO CENTRO POBLADO VILLA ASHANINGA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "11046695",
+                "fichaTomoSunarp": null,
+                "autovaluo": 40000.0,
+                "idHojaVida": 183926,
+                "idEstado": 1,
+                "flValor": "40000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,185 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 138113.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "27860632",
+        "nombres": "VICTORIANO",
+        "apellidoPaterno": "CHINGUEL",
+        "apellidoMaterno": "SILVA",
+        "sexo": "1",
+        "feNacimiento": "06/03/1963",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "060809",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "JAEN",
+        "naciDistrito": "SAN JOSE DEL ALTO",
+        "ubigeoDomicilio": "061105",
+        "domiDepartamento": "CAJAMARCA",
+        "domiProvincia": "SAN IGNACIO",
+        "domiDistrito": "LA COIPA",
+        "domicilioDirecc": "CPM. PACAYPITE",
+        "ubigeoPostula": "061105",
+        "postulaDepartamento": "CAJAMARCA",
+        "postulaProvincia": "SAN IGNACIO",
+        "postulaDistrito": "LA COIPA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/138113.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 160.0,
+        "organizacionPolitica": "FRENTE REGIONAL DE CAJAMARCA",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 09:35:25",
+        "txGuidFormatoHojaVida": "3ae15a02-6787-45bd-9554-137ba349dc73",
+        "idSolicitudLista": 23231.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 247606,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CHACRA",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "RUMIPITE S/N",
+            "anioTrabajoDesde": "2002",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "061105",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CAJAMARCA",
+            "trabajoProvincia": "SAN IGNACIO",
+            "trabajoDistrito": "LA COIPA",
+            "idHojaVida": 138113,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 155464,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 138113,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 143195,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 138113,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 149711,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 32000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 138113,
+                "idEstado": 1,
+                "totalIngresos": 32000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 189269,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 2,
+                "tipoBienInmueble": "TERRENO AGRICOLA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CENTRO POBLADO PACAYPITE",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 60000.0,
+                "idHojaVida": 138113,
+                "idEstado": 1,
+                "flValor": "60000"
+            },
+            {
+                "idHvBienInmueble": 189265,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "VIVIENDA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "AV PACAYPITE S/N CENTRO POBLADO PACAYPITE",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 20000.0,
+                "idHojaVida": 138113,
+                "idEstado": 1,
+                "flValor": "20000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 161554,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "T1N920 ",
+                "valor": 30000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CANTER, COLOR BLANCO, AÑO 1991",
+                "comentario": null,
+                "idHojaVida": 138113,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

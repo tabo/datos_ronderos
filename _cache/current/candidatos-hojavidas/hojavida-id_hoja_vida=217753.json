@@ -1,0 +1,155 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 217753.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "31764460",
+        "nombres": "FERMIN EMILIANO",
+        "apellidoPaterno": "COLLAS",
+        "apellidoMaterno": "EVANGELISTA",
+        "sexo": "1",
+        "feNacimiento": "11/10/1963",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "020203",
+        "naciDepartamento": "ANCASH",
+        "naciProvincia": "AIJA",
+        "naciDistrito": "CORIS",
+        "ubigeoDomicilio": "020203",
+        "domiDepartamento": "ANCASH",
+        "domiProvincia": "AIJA",
+        "domiDistrito": "CORIS",
+        "domicilioDirecc": "CASERIO VISTA ALEGRE S/N",
+        "ubigeoPostula": "020203",
+        "postulaDepartamento": "ANCASH",
+        "postulaProvincia": "AIJA",
+        "postulaDistrito": "CORIS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/217753.jpg",
+        "estado": "INSCRITO",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 21:52:20",
+        "txGuidFormatoHojaVida": "d1f34630-5867-41a4-b1fa-1a700befd10b",
+        "idSolicitudLista": 33740.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 176469,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MUNICIPALIDAD DISTRITAL DE CORIS",
+            "ocupacionProfesion": "GUARDIAN",
+            "rucTrabajo": null,
+            "direccionTrabajo": "VISTA ALEGRE SN",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "020201",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ANCASH",
+            "trabajoProvincia": "AIJA",
+            "trabajoDistrito": "AIJA",
+            "idHojaVida": 217753,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 154816,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 217753,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 142909,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2412,
+            "orgPolRenunciaOp": "MOVIMIENTO DEMOCRATICO KORY",
+            "anioRenunciaOp": "2015",
+            "idHojaVida": 217753,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 136797,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "CUENTO CON 5 CHACRAS COMUNALES",
+            "idHojaVida": 217753,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 149246,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 72000.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 36000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 217753,
+                "idEstado": 1,
+                "totalIngresos": 108000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 188685,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "VISTA ALEGRE SN",
+                "comentario": "REGISTRADO EN COFOPRI",
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "P37057157",
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 217753,
+                "idEstado": 1,
+                "flValor": "50000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

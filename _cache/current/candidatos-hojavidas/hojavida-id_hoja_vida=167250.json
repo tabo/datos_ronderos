@@ -1,0 +1,186 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 167250.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40198998",
+        "nombres": "HUBERT JESUS",
+        "apellidoPaterno": "ALVAREZ",
+        "apellidoMaterno": "MAMANI",
+        "sexo": "1",
+        "feNacimiento": "06/06/1978",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040107",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "AREQUIPA",
+        "naciDistrito": "MIRAFLORES",
+        "ubigeoDomicilio": "040107",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "AREQUIPA",
+        "domiDistrito": "MIRAFLORES",
+        "domicilioDirecc": "MARIA NIEVES BUSTAMANTE 111",
+        "ubigeoPostula": "040107",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "AREQUIPA",
+        "postulaDistrito": "MIRAFLORES",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/167250.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL",
+            " ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 00:20:13",
+        "txGuidFormatoHojaVida": "112aa6b6-1e50-487b-8479-06ed846d3adc",
+        "idSolicitudLista": 27129.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 228403,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "I.E. 40300 MIGUEL GRAU",
+            "ocupacionProfesion": "PROFESOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. VENEZUELA S/N MIGUEL GRAU",
+            "anioTrabajoDesde": "2002",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "040107",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "AREQUIPA",
+            "trabajoDistrito": "MIRAFLORES",
+            "idHojaVida": 167250,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 201474,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 167250,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 151447,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "SENATI",
+                "carreraTecnico": "ELECTRICIDAD INDUSTRIAL",
+                "concluidoEduTecnico": "2",
+                "idHojaVida": 167250,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 176291,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD NACIONAL DEL ALTIPLANO",
+                "carreraUni": "BACHILLER EN EDUCACION",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2003",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 141742,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 2191,
+                "orgPolCargoPartidario": "PARTIDO POLÍTICO DEMOCRACIA DIRECTA",
+                "cargoPartidario": "MILITANTE",
+                "anioCargoPartiDesde": "2021",
+                "anioCargoPartiHasta": "2021",
+                "idHojaVida": 167250,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 160010,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2191,
+            "orgPolRenunciaOp": "DEMOCRACIA DIRECTA",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 167250,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 184078,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 17160.0,
+                "remuBrutaPrivado": 84730.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 167250,
+                "idEstado": 1,
+                "totalIngresos": 101890.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 5589,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "NEGOCIOS DE FERRETERIA FERREYOL S.R.L.",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 10000.0,
+                "flValor": 1.0,
+                "idHojaVida": 167250,
+                "idEstado": 1,
+                "txUsuario": "74611041",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,142 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 234036.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "10017519",
+        "nombres": "MIGUEL ANGEL",
+        "apellidoPaterno": "DIAZ",
+        "apellidoMaterno": "ALARCON",
+        "sexo": "1",
+        "feNacimiento": "22/04/1972",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140101",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "LIMA",
+        "ubigeoDomicilio": "140416",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "CAÑETE",
+        "domiDistrito": "ASIA",
+        "domicilioDirecc": "ANEXO SANTA CRUZ DE ASIA MZ. T LT. 9B",
+        "ubigeoPostula": "140416",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "CAÑETE",
+        "postulaDistrito": "ASIA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/234036.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2731.0,
+        "organizacionPolitica": "PODEMOS PERU",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 05:08:18",
+        "txGuidFormatoHojaVida": "0d525d9f-4746-4512-8ffd-56518642d82c",
+        "idSolicitudLista": 35607.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 218047,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 234036,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 165495,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 32,
+            "orgPolRenunciaOp": "PARTIDO APRISTA PERUANO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 234036,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 196565,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 24000.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 30000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 234036,
+                "idEstado": 1,
+                "totalIngresos": 54000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 241805,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CALLE TOMAS GUIDO NUM 578     LINCE - LIMA - LIMA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "07054590",
+                "fichaTomoSunarp": null,
+                "autovaluo": 300.0,
+                "idHojaVida": 234036,
+                "idEstado": 1,
+                "flValor": "100000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 199415,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "83420B ",
+                "valor": 5000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "VEHICULO MENOR DE COLOR GRIS MARCA ITALIKA",
+                "comentario": null,
+                "idHojaVida": 234036,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

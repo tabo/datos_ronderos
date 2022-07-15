@@ -1,0 +1,125 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 202340.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42656088",
+        "nombres": "MARIA MARITZA",
+        "apellidoPaterno": "MUÑOZ",
+        "apellidoMaterno": "PORTAL",
+        "sexo": "2",
+        "feNacimiento": "13/10/1984",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "060110",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "CAJAMARCA",
+        "naciDistrito": "MATARA",
+        "ubigeoDomicilio": "060110",
+        "domiDepartamento": "CAJAMARCA",
+        "domiProvincia": "CAJAMARCA",
+        "domiDistrito": "MATARA",
+        "domicilioDirecc": "CASERIO JOCOS",
+        "ubigeoPostula": "060110",
+        "postulaDepartamento": "CAJAMARCA",
+        "postulaProvincia": "CAJAMARCA",
+        "postulaDistrito": "MATARA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/202340.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 11:54:37",
+        "txGuidFormatoHojaVida": "b63be2a3-2ca3-44d7-89d4-8c74798d53ee",
+        "idSolicitudLista": 31806.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 165224,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "IDEPENDIENTE",
+            "ocupacionProfesion": "COMERCIANTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JIRON BOLOGNESI S/N",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "060110",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CAJAMARCA",
+            "trabajoProvincia": "CAJAMARCA",
+            "trabajoDistrito": "MATARA",
+            "idHojaVida": 202340,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "VENTA DE ALIMENTOS COCIDOS"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 144388,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 202340,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 141703,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 9600.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 202340,
+                "idEstado": 1,
+                "totalIngresos": 9600.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 134758,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "02342-2021-0601JR-PE-03",
+            "txOrganoJuridicialObliga": "JUSGADO DE PAZ LETRADO",
+            "txFalloObliga": "ASIGNACION DE PENSION DE ALIMENTOS",
+            "idEstado": 1,
+            "idHojaVida": 202340,
+            "txComentario": null
+        }
+    ]
+}

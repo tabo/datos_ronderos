@@ -1,0 +1,137 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 229121.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44823789",
+        "nombres": "SANDRO",
+        "apellidoPaterno": "ZUMAETA",
+        "apellidoMaterno": "LOZANO",
+        "sexo": "1",
+        "feNacimiento": "28/02/1986",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "010701",
+        "naciDepartamento": "AMAZONAS",
+        "naciProvincia": "UTCUBAMBA",
+        "naciDistrito": "BAGUA GRANDE",
+        "ubigeoDomicilio": "010701",
+        "domiDepartamento": "AMAZONAS",
+        "domiProvincia": "UTCUBAMBA",
+        "domiDistrito": "BAGUA GRANDE",
+        "domicilioDirecc": "JR PEDRO RUIZ 375",
+        "ubigeoPostula": "010000",
+        "postulaDepartamento": "AMAZONAS",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/229121.jpg",
+        "estado": "EXCLUSION",
+        "idOrganizacionPolitica": 40.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL AMAZONENSE UNIDOS AL CAMPO",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "ACCESITARIO"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 00:28:52",
+        "txGuidFormatoHojaVida": "2ec50096-7145-41f8-9d07-c3a6ec8bb14c",
+        "idSolicitudLista": 35040.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 230177,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AMERICA MOVIL PERÚ SAC",
+            "ocupacionProfesion": "COORDINADORES DE DISTRIBUIDORES",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. NICOLAS ARRIOLA NRO. 480",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "2016",
+            "ubigeoTrabajo": "140109",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "LA VICTORIA",
+            "idHojaVida": 229121,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 203178,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 229121,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 151899,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "INSTITUTO DE EDUCACIÓN SUPERIOR TECNOLÓGICO PUBLICO UTCUBAMBA",
+                "carreraTecnico": "TÉCNICO EN COMPUTACIÓN E INFORMÁTICA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 229121,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 185296,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 9000.0,
+                "idHojaVida": 229121,
+                "idEstado": 1,
+                "totalIngresos": 9000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 136539,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "00490-2011",
+            "txOrganoJuridicialObliga": "1ER JUZGADO DE PAZ LETRADO UTCUBAMBA",
+            "txFalloObliga": "OTORGA UNA PENSION DE SEISCIENTOS SOLES A FAVOR DE LA DEMANDANTE. LA MISMA QUE REGIRÁ A PARTIR DEL SIGUIENTE DIA DE NOTIFICACIÓN DE LA DEMANDA",
+            "idEstado": 1,
+            "idHojaVida": 229121,
+            "txComentario": null
+        }
+    ]
+}

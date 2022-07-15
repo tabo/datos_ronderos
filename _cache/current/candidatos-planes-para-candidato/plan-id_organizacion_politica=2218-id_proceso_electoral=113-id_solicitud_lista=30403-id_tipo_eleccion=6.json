@@ -1,0 +1,125 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23729,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/afd17c85-f97b-4066-8062-391feacc80e6.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/a0f383fa-07c5-4274-b606-4cc37528cf66.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 212509,
+            "txPgProblema": "ALTO NIVEL DE POBLACIÓN EN CONDICIÓN DE POBREZA EN EL DISTRITO",
+            "txPgObjetivo": "AMPLIAR LA COBERTURA DE PROGRAMAS SOCIALES MEDIANTE LA ARTICULACIÓN INTERSECTORIAL.",
+            "txPgIndicador": "2.8% DE CIUDADANOS EN CONDICIÓN DE POBREZA EN EL DISTRITO",
+            "txPgMeta": "REDUCIR EL NIVEL DE POBREZA AL 2.5%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 212697,
+            "txPgProblema": "BAJO NIVEL DEL LOGRO DE APRENDIZAJE",
+            "txPgObjetivo": "IMPLEMENTACIÓN DEL PROYECTO EDUCATIVO LOCAL (PEL) Y PROGRAMAS DE CAPACITACIÓN A LOS DOCENTES.",
+            "txPgIndicador": "% DE ESTUDIANTES DE 2DO AÑO DE SECUNDARIA CON NIVEL SATISFACTORIO EN MATEMÁTICAS Y LENGUAJE (PRUEBA PISA)",
+            "txPgMeta": "LOGRAR INCREMENTAR EN 15% EN COMPRENSIÓN LECTORA Y 10% EN RAZONAMIENTO MATEMÁTICO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 212554,
+            "txPgProblema": "INFORMALIDAD COMERCIAL",
+            "txPgObjetivo": "PROMOVER LA FORMALIZACIÓN",
+            "txPgIndicador": "% DE COMERCIO INFORMAL",
+            "txPgMeta": "REDUCIR EL NIVEL DE POBREZA EN UN 10%.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 212669,
+            "txPgProblema": "FALTA DE EMPLEO",
+            "txPgObjetivo": "PROGRAMAS DE EMPRENDIMIENTO",
+            "txPgIndicador": "DESOCUPACIÓN LABORAL",
+            "txPgMeta": "REDUCIR EN UN 5% EL DESEMPLEO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 212683,
+            "txPgProblema": "ALTA CONGESTIÓN VEHICULAR",
+            "txPgObjetivo": "ELEVAR LA INVERSIÓN PÚBLICA MEDIANTE LA GESTIÓN DE PROYECTOS DIRIGIDA A MEJORAR LA TRANSITABILIDAD EN EL DISTRITO",
+            "txPgIndicador": "TIEMPO PROMEDIO DE VIAJE POR MINUTO",
+            "txPgMeta": "REDUCIR EN 20% EL TIEMPO PROMEDIO DE VIAJE",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 212569,
+            "txPgProblema": "POCA CANTIDAD DE ÁREAS VERDES POR HABITANTES",
+            "txPgObjetivo": "IMPULSAR MÉTODOS INNOVADORES DE EXPANSIÓN DE ÁREAS VERDES",
+            "txPgIndicador": "ÁREA VERDE POR HABITANTE.",
+            "txPgMeta": "3 MT2 POR HABITANTE",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 212632,
+            "txPgProblema": "EXISTENCIA DE VIVIENDAS PRECARIAS",
+            "txPgObjetivo": "IDENTIFICACIÓN DE VIVIENDAS VULNERABLES ANTE UN DESASTRE",
+            "txPgIndicador": "ASESORÍA TÉCNICA MUNICIPAL EN VIVIENDAS VULNERABLES",
+            "txPgMeta": "COBERTURA AL 100% EN ASESORÍAS TÉCNICAS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 212644,
+            "txPgProblema": "AUSENCIA DE PUNTOS ADECUADOS DE RECOJO DE RESIDUOS SOLIDOS",
+            "txPgObjetivo": ". DISEÑO DE POLÍTICAS DE MANEJO DE RESIDUOS SÓLIDOS Y PROMOVER LA CULTURA AMBIENTAL EN EL DISTRITO.",
+            "txPgIndicador": "ADECUADOS PUNTOS DE ACOPIO",
+            "txPgMeta": "LOGRAR EL 100% DE PUNTOS ADECUADOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 212582,
+            "txPgProblema": "ALTA INSEGURIDAD CIUDADANA",
+            "txPgObjetivo": "MEJORAMIENTO DEL PLAN DE SEGURIDAD MEDIANTE EL AUMENTO DE CÁMARAS DE SEGURIDAD Y PATRULLAJE CONSTANTE.",
+            "txPgIndicador": "83% DE DENUNCIAS SON POR ACTOS DELICTIVOS",
+            "txPgMeta": "REDUCIR EN 20% LA CANTIDAD DE DELITOS EFECTUADOS EN EL DISTRITO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 212613,
+            "txPgProblema": "INCUMPLIMIENTO DE LA EJECUCIÓN D ELLOS ACUERDOS DEL PRESUPUESTO PARTICIPATIVO Y DEMÁS EVENTOS DE PARTICIPACIÓN VECINAL.",
+            "txPgObjetivo": "FORTALECER A LOS ACTORES DE PARTICIPACIÓN VECINAL.",
+            "txPgIndicador": "NÚMERO DE ACUERDOS CUMPLIDOS  PRESUPUESTOS PARTICIPATIVOS",
+            "txPgMeta": "CUMPLIMIENTOS AL 90% DE LOS ACUERDOS PARTICIPACIÓN VECINAL.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

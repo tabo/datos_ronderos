@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 24475,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1257,
+        "txOrganizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/1a4d60c9-ccfd-413d-8150-88c1a8f64058.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/515d4b6e-3398-4ec8-acb3-2babc7e4ea6e.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 156271,
+            "txPgProblema": "AGUA POTABLE",
+            "txPgObjetivo": "ASEGURAR LA POTABILIZACIÓN DEL AGUA PARA EL 100% DE LA POBLACIÓN URBANA Y RURAL",
+            "txPgIndicador": "ACCESO A AGUA POTABLE EN HOGARES",
+            "txPgMeta": "100%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156276,
+            "txPgProblema": "ANEMIA INFANTIL",
+            "txPgObjetivo": "ERRADICAR LA ANEMIA INFANTIL",
+            "txPgIndicador": "INCIDENCIA DE ANEMIA INFANTIL",
+            "txPgMeta": "0%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156284,
+            "txPgProblema": "DESNUTRICIÓN INFANTIL",
+            "txPgObjetivo": "ERRADICAR LA DESNUTRICIÓN INFANTIL",
+            "txPgIndicador": "INCIDENCIA DE DESNUTRICIÓN INFANTIL",
+            "txPgMeta": "0%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 156303,
+            "txPgProblema": "ALTO DESEMPLEO EN POBLACIÓN JUVENIL",
+            "txPgObjetivo": "REDUCIR EL DESEMPLEO ENTRE LOS JÓVENES DE SAN MARCOS",
+            "txPgIndicador": "TASA DE DESEMPLEO EN POBLACIÓN JUVENIL",
+            "txPgMeta": "10% (TASA OBJETIVO MENOR AL PROMEDIO NACIONAL, DE 13%)",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156312,
+            "txPgProblema": "LA POBLACIÓN - PREDOMINANTEMENTE RURAL - VIVE EN CONDICIONES DE POBREZA",
+            "txPgObjetivo": "ERRADICAR LA POBREZA EXTREMA",
+            "txPgIndicador": "INCIDENCIA DE POBREZA EXTREMA",
+            "txPgMeta": "0%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156327,
+            "txPgProblema": "PERSISTENTE BRECHA EN ALFABETIZACIÓN",
+            "txPgObjetivo": "ASEGURAR LA ALFABETIZACIÓN DE LA POBLACIÓN DE SAN MARCOS",
+            "txPgIndicador": "INCIDENCIA DE ANALFABETIZACIÓN",
+            "txPgMeta": "0%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 156451,
+            "txPgProblema": "AUSENCIA INSTITUCIONAL DE ORGANISMOS REGULADORES EN SAN MARCOS",
+            "txPgObjetivo": "COORDINAR Y GESTIONAR LA VISITA REGULAR E INSTALACIÓN DE PUESTOS DE CONTROL AMBIENTAL EN SAN MARCOS",
+            "txPgIndicador": "PUESTOS DE CONTROL AMBIENTAL EN LA RUTA SAN MARCOS - ANTAMINA",
+            "txPgMeta": "1 PUESTO DE CONTROL POR CASERÍO O CENTRO POBLADO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156460,
+            "txPgProblema": "CONSTANTE CONTAMINACIÓN ATMOSFÉRICA Y POLUCIÓN ORIGINADA POR PARTE DE LOS VEHÍCULOS DE UNIDADES VEHICULARES",
+            "txPgObjetivo": "REDUCIR LA CONTAMINACIÓN ATMOSFÉRICA Y POLUCIÓN",
+            "txPgIndicador": "NÚMERO DE VEHÍCULOS QUE TRANSITAN EN EL ESPACIO PERJUDICADO",
+            "txPgMeta": "CONSTRUCCIÓN DEL 95% DE PISTAS Y/O TROCHAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156468,
+            "txPgProblema": "SE EVIDENCIA EL ARROJO DE RESIDUOS SÓLIDOS EN LAS VÍAS DE TRÁNSITO.",
+            "txPgObjetivo": "REDUCIR CONSTANTEMENTE LOS RESIDUOS SÓLIDOS CONTAMINANTES EN LAS VÍAS DE TRÁNSITO.",
+            "txPgIndicador": "NÚMERO DE VÍAS CONTAMINADAS CON RESIDUOS SÓLIDOS",
+            "txPgMeta": "REDUCIR LA CONTAMINACIÓN DE RESIDUOS SÓLIDOS AL 95%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 156484,
+            "txPgProblema": "DEFICIENTES VÍAS DE COMUNICACIÓN TERRESTRE ENTRE CENTROS POBLADOS O CASERÍOS EN SAN MARCOS",
+            "txPgObjetivo": "MEJORAR LA INTERCONEXIÓN DEL DISTRITO. ELEVAR A LA CATEGORÍA DE TERCERA CLASE (MTC) A TODAS LAS CARRETERAS EN EL DISTRITO DE SAN MARCOS",
+            "txPgIndicador": "CLASIFICACIÓN MÍNIMA EN CARRETERAS EN SAN MARCOS",
+            "txPgMeta": "TERCERA CLASE (MTC)",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156500,
+            "txPgProblema": "LOS POBLADORES DEL DISTRITO PRESENTAN RECLAMOS ANTE LA DEMORA DE LOS PROCESOS ADMINISTRATIVOS",
+            "txPgObjetivo": "REESTRUCTURAR LOS TRÁMITES MUNICIPALES A TRAVÉS DE LA DIGITALIZACIÓN INFORMÁTICA.",
+            "txPgIndicador": "NÚMERO DE TRÁMITES REALIZADOS EN LA MUNICIPALIDAD",
+            "txPgMeta": "DIGITALIZAR AL 50% LOS TRÁMITES MUNICIPALES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156514,
+            "txPgProblema": "LOS POBLADORES MOSTRARON LA DISCONFORMIDAD DE LA CALIDAD DE LOS SERVICIOS DE LIMPIEZA PÚBLICA, PARQUES, JARDINES Y SERENAZGO.",
+            "txPgObjetivo": "IMPLEMENTAR UN PROGRAMA DE MEJORAMIENTO Y CONTROL DE CALIDAD DE LOS SERVICIOS PÚBLICOS DE LIMPIEZA PUBLICA, PARQUES Y JARDINES Y SERENAZGO.",
+            "txPgIndicador": "NÚMERO DE ESPACIOS EN ESTADO DE INSALUBRIDAD Y NÚMERO DE SERENAZGOS POR CENTRO POBLADO",
+            "txPgMeta": "MEJORAR LA CALIDAD AL 100% DE LOS SERVICIOS DE LIMPIEZA PÚBLICA, PARQUES, JARDINES Y SERENAZGO.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

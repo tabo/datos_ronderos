@@ -1,0 +1,162 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 152505.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "09512564",
+        "nombres": "POLICRONIO",
+        "apellidoPaterno": "CHAVARRIA",
+        "apellidoMaterno": "GARCIA",
+        "sexo": "1",
+        "feNacimiento": "18/01/1968",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140206",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "CAJATAMBO",
+        "naciDistrito": "GORGOR",
+        "ubigeoDomicilio": "140206",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "CAJATAMBO",
+        "domiDistrito": "GORGOR",
+        "domicilioDirecc": "CALLE AMAZONAS S/N",
+        "ubigeoPostula": "140206",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "CAJATAMBO",
+        "postulaDistrito": "GORGOR",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/152505.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2306.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL UNIDAD CIVICA LIMA",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 09:49:35",
+        "txGuidFormatoHojaVida": "0868db57-dc3b-440c-8409-6b5f8c7b8c85",
+        "idSolicitudLista": 25113.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 242136,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "IE. 209842 SANTIAGO ANTUNEZ DE MAYOLO",
+            "ocupacionProfesion": "DOCENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SIN-SIN CHICO",
+            "anioTrabajoDesde": "2013",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140206",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "CAJATAMBO",
+            "trabajoDistrito": "GORGOR",
+            "idHojaVida": 152505,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 213956,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 152505,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 182657,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD MAYOR DE SAN MARCOS",
+                "carreraUni": "LICENCIADO",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2004",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 193457,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 24000.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 28000.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 152505,
+                "idEstado": 1,
+                "totalIngresos": 52000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 197111,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "3145HB ",
+                "valor": 5000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA",
+                "comentario": null,
+                "idHojaVida": 152505,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 197110,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "NG99846",
+                "valor": 4000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA",
+                "comentario": null,
+                "idHojaVida": 152505,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

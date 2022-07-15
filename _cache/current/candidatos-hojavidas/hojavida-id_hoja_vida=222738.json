@@ -1,0 +1,167 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 222738.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "47032842",
+        "nombres": "SANTIAGO EDID",
+        "apellidoPaterno": "CRUCINTA",
+        "apellidoMaterno": "CCORAHUA",
+        "sexo": "1",
+        "feNacimiento": "10/10/1990",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "030102",
+        "naciDepartamento": "APURIMAC",
+        "naciProvincia": "ABANCAY",
+        "naciDistrito": "CIRCA",
+        "ubigeoDomicilio": "030102",
+        "domiDepartamento": "APURIMAC",
+        "domiProvincia": "ABANCAY",
+        "domiDistrito": "CIRCA",
+        "domicilioDirecc": "ANEXO PARCCO",
+        "ubigeoPostula": "030102",
+        "postulaDepartamento": "APURIMAC",
+        "postulaProvincia": "ABANCAY",
+        "postulaDistrito": "CIRCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/222738.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2737.0,
+        "organizacionPolitica": "PROGRESISTA DE APURIMAC",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 11:25:03",
+        "txGuidFormatoHojaVida": "f0ce9f78-a0df-4237-b6d0-d65ba3d6c08f",
+        "idSolicitudLista": 34304.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 253700,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "CONTRUCCION",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ANEXO PARCCO",
+            "anioTrabajoDesde": "2016",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "030102",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "APURIMAC",
+            "trabajoProvincia": "ABANCAY",
+            "trabajoDistrito": "CIRCA",
+            "idHojaVida": 222738,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 225849,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 222738,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 202618,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 12000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 222738,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 247449,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "TERRENO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "VIA EVITAMIENTO MOLINOPATA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 40.0,
+                "idHojaVida": 222738,
+                "idEstado": 1,
+                "flValor": "15000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 203699,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "8326CX ",
+                "valor": 4500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO MARCA RONCO COLOR ROJO",
+                "comentario": null,
+                "idHojaVida": 222738,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 203698,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "6113AX ",
+                "valor": 4500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO MARCA RONCO COLOR NEGRO",
+                "comentario": null,
+                "idHojaVida": 222738,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

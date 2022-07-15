@@ -1,0 +1,124 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 211277.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "22441948",
+        "nombres": "MACARIO",
+        "apellidoPaterno": "JUANAN",
+        "apellidoMaterno": "RESURRECCION",
+        "sexo": "1",
+        "feNacimiento": "10/04/1965",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "090103",
+        "naciDepartamento": "HUANUCO",
+        "naciProvincia": "HUANUCO",
+        "naciDistrito": "CHURUBAMBA",
+        "ubigeoDomicilio": "090103",
+        "domiDepartamento": "HUANUCO",
+        "domiProvincia": "HUANUCO",
+        "domiDistrito": "CHURUBAMBA",
+        "domicilioDirecc": "CENTRO POBLADO TAMBOGAN S/N",
+        "ubigeoPostula": "090103",
+        "postulaDepartamento": "HUANUCO",
+        "postulaProvincia": "HUANUCO",
+        "postulaDistrito": "CHURUBAMBA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/211277.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 03:48:21",
+        "txGuidFormatoHojaVida": "5717c2c8-0dee-49ff-b34f-88e137f074cf",
+        "idSolicitudLista": 32947.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 142515,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 211277,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 136617,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 526,
+                "orgPolCargoPartidario": "FRENTE COMUNAL CHURUBAMBA",
+                "cargoPartidario": "FUNDADOR",
+                "anioCargoPartiDesde": "2006",
+                "anioCargoPartiHasta": "2006",
+                "idHojaVida": 211277,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 140314,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 12000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 211277,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 134331,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "384-2005",
+            "feSentenciaPenal": "04/10/2005",
+            "txOrganoJudiPenal": "JUZGADO PENAL LIQUIDADOR DE TURNO",
+            "txDelitoPenal": "TENDENCIA ILEGAL DE MUNICION",
+            "txFalloPenal": "4 AÑOS",
+            "idParamModalidad": 11,
+            "txModalidad": "SUSPENDIDA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 211277,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": []
+}

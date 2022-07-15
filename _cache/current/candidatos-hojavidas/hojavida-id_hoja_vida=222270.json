@@ -1,0 +1,193 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 222270.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "18206904",
+        "nombres": "CLAUDIA MARGARITA",
+        "apellidoPaterno": "MUÑOZ",
+        "apellidoMaterno": "INGA DE NUÑEZ",
+        "sexo": "2",
+        "feNacimiento": "23/02/1975",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "120101",
+        "naciDepartamento": "LA LIBERTAD",
+        "naciProvincia": "TRUJILLO",
+        "naciDistrito": "TRUJILLO",
+        "ubigeoDomicilio": "120808",
+        "domiDepartamento": "LA LIBERTAD",
+        "domiProvincia": "ASCOPE",
+        "domiDistrito": "CASA GRANDE",
+        "domicilioDirecc": "CALLE LOS JAZMINES 131 URB. JARDIN",
+        "ubigeoPostula": "120000",
+        "postulaDepartamento": "LA LIBERTAD",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/222270.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2895.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATA VERDE",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "CONSEJERO REGIONAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 19:20:38",
+        "txGuidFormatoHojaVida": "9bba7ba1-a625-430d-a5f4-93ff96058ed4",
+        "idSolicitudLista": 34243.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 195168,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "ESSALUD",
+            "ocupacionProfesion": "EMFERMERA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASA GRANDE S/N",
+            "anioTrabajoDesde": "2009",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "120808",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LA LIBERTAD",
+            "trabajoProvincia": "ASCOPE",
+            "trabajoDistrito": "CASA GRANDE",
+            "idHojaVida": 222270,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 171991,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 222270,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 161042,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD NACIONAL DE TRUJILLO",
+                "carreraUni": "EMFERMERA",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": null,
+                "bachillerEduUni": null,
+                "anioBachiller": "2009",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [
+            {
+                "idHvPosgrado": 137606,
+                "tengoPosgrado": "SI",
+                "nuItemPosgrado": 1,
+                "txCenEstudioPosgrado": "UCV",
+                "txEspecialidadPosgrado": "GESTION EN SERVICIOS DE SALUD",
+                "concluidoPosgrado": "SI",
+                "egresadoPosgrado": "NO",
+                "esMaestro": null,
+                "esDoctor": null,
+                "txAnioPosgrado": "2022",
+                "idHojaVida": 222270,
+                "idEstado": 1,
+                "txEstado": "ACTIVO (R)",
+                "fgRegistroManual": 1,
+                "txComentario": "TRAMITE DE OBTENCION DE TITULO",
+                "fgRegistro": null
+            }
+        ],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 149421,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 222270,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 161848,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 48000.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 6000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 222270,
+                "idEstado": 1,
+                "totalIngresos": 54000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 172114,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "TAT884 ",
+                "valor": 0.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "NINGUNA",
+                "comentario": "EN SU HOJA DE VIDA INDICO QUE NO TRENEA PROPIEDAD ALGUNA",
+                "idHojaVida": 222270,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 172113,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "26259T ",
+                "valor": 0.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "NINGUNA",
+                "comentario": null,
+                "idHojaVida": 222270,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

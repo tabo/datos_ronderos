@@ -1,0 +1,146 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 212645.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "09389484",
+        "nombres": "MARIO HONORATO",
+        "apellidoPaterno": "TOMATEO",
+        "apellidoMaterno": "ENCISO",
+        "sexo": "1",
+        "feNacimiento": "02/09/1954",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "100101",
+        "naciDepartamento": "ICA",
+        "naciProvincia": "ICA",
+        "naciDistrito": "ICA",
+        "ubigeoDomicilio": "030216",
+        "domiDepartamento": "APURIMAC",
+        "domiProvincia": "AYMARAES",
+        "domiDistrito": "SAN JUAN DE CHACÑA",
+        "domicilioDirecc": "BARRIO CHUCHIN",
+        "ubigeoPostula": "030216",
+        "postulaDepartamento": "APURIMAC",
+        "postulaProvincia": "AYMARAES",
+        "postulaDistrito": "SAN JUAN DE CHACÑA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/212645.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2857.0,
+        "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 13:41:20",
+        "txGuidFormatoHojaVida": "18ab4b6f-b694-4f85-9148-913ea22f7281",
+        "idSolicitudLista": 33113.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 162334,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "PARTICULAR",
+            "ocupacionProfesion": "CONDUCTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SAN JUAN DE CHACÑA",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "030216",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "APURIMAC",
+            "trabajoProvincia": "AYMARAES",
+            "trabajoDistrito": "SAN JUAN DE CHACÑA",
+            "idHojaVida": 212645,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 141991,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 212645,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 137858,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 15,
+            "orgPolRenunciaOp": "PARTIDO POPULAR CRISTIANO - PPC",
+            "anioRenunciaOp": "2016",
+            "idHojaVida": 212645,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 139950,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 10008.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 212645,
+                "idEstado": 1,
+                "totalIngresos": 10008.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 175882,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "TERRENO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "BARRIO CHUCHIN",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 212645,
+                "idEstado": 1,
+                "flValor": "35000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

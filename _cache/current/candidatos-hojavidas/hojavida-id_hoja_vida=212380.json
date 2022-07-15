@@ -1,0 +1,150 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 212380.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "15680554",
+        "nombres": "ALBERTO",
+        "apellidoPaterno": "CADILLO",
+        "apellidoMaterno": "GUERRERO",
+        "sexo": "1",
+        "feNacimiento": "21/11/1955",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "020101",
+        "naciDepartamento": "ANCASH",
+        "naciProvincia": "HUARAZ",
+        "naciDistrito": "HUARAZ",
+        "ubigeoDomicilio": "140902",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "BARRANCA",
+        "domiDistrito": "PARAMONGA",
+        "domicilioDirecc": "AV.PACIFICO 127-A COMITE 9 LAS DELICIAS",
+        "ubigeoPostula": "140902",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "BARRANCA",
+        "postulaDistrito": "PARAMONGA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/212380.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 11:35:32",
+        "txGuidFormatoHojaVida": "6f5e82f6-a726-4c04-b8a4-d3d5b7749253",
+        "idSolicitudLista": 33082.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 245123,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MERCADO SANTA ROSA PARAMONGA",
+            "ocupacionProfesion": "TECNICO ELECTRONICO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. FRANCISCO VIDAL N° 245",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140902",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "BARRANCA",
+            "trabajoDistrito": "PARAMONGA",
+            "idHojaVida": 212380,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 216850,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 212380,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 155486,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "PC LETICIA",
+                "carreraTecnico": "CERTIFICADO DE ESTUDIOS",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 212380,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 143010,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 1022,
+                "orgPolCargoPartidario": "DESARROLLO Y TECNOLOGIA",
+                "cargoPartidario": "FUNDADOR",
+                "anioCargoPartiDesde": "2006",
+                "anioCargoPartiHasta": "2010",
+                "idHojaVida": 212380,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 165131,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1022,
+            "orgPolRenunciaOp": "DESARROLLO Y TECNOLOGIA",
+            "anioRenunciaOp": "2010",
+            "idHojaVida": 212380,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 195746,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 12000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 212380,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

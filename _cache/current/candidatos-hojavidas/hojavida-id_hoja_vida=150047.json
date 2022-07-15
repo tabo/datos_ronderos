@@ -1,0 +1,146 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 150047.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "26722098",
+        "nombres": "FLOR",
+        "apellidoPaterno": "MIRANDA",
+        "apellidoMaterno": "GUARNIZ",
+        "sexo": "2",
+        "feNacimiento": "16/03/1976",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "060102",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "CAJAMARCA",
+        "naciDistrito": "ASUNCION",
+        "ubigeoDomicilio": "060109",
+        "domiDepartamento": "CAJAMARCA",
+        "domiProvincia": "CAJAMARCA",
+        "domiDistrito": "MAGDALENA",
+        "domicilioDirecc": "C.P. SAN SEBASTIAN DE CHOROPAMPA",
+        "ubigeoPostula": "060109",
+        "postulaDepartamento": "CAJAMARCA",
+        "postulaProvincia": "CAJAMARCA",
+        "postulaDistrito": "MAGDALENA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/150047.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 02:55:54",
+        "txGuidFormatoHojaVida": "3c42d7f0-3a77-497f-ae32-b2b46adb68ff",
+        "idSolicitudLista": 24783.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 175860,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "COMERCIANTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SAN SEBASTIAN DE CHOROPAMPA",
+            "anioTrabajoDesde": "2000",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "060109",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CAJAMARCA",
+            "trabajoProvincia": "CAJAMARCA",
+            "trabajoDistrito": "MAGDALENA",
+            "idHojaVida": 150047,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 154271,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 150047,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 151823,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD PRIVADA DEL NORTE S.A.C.",
+                "carreraUni": "BACHILLER EN DERECHO Y CIENCIAS POLÍTICAS",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2021",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 138248,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": -1,
+                "orgPolCargoElec": "MOVIMIENTO INDEPENDIENTE",
+                "idCargoEleccion": 17,
+                "cargoEleccion": "ALCADE(SA) DE CENTRO POBLADO",
+                "anioCargoElecDesde": "2013",
+                "anioCargoElecHasta": "2016",
+                "idHojaVida": 150047,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 160790,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "B2D067 ",
+                "valor": 13000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMIONETA",
+                "comentario": "MODELO-HAVAL H5",
+                "idHojaVida": 150047,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

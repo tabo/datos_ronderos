@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 222290.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40207684",
+        "nombres": "TEODOSIO TRUMAN",
+        "apellidoPaterno": "SULCA",
+        "apellidoMaterno": "HUAMAN",
+        "sexo": "1",
+        "feNacimiento": "04/12/1978",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140706",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "YAUYOS",
+        "naciDistrito": "CACRA",
+        "ubigeoDomicilio": "140706",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "YAUYOS",
+        "domiDistrito": "CACRA",
+        "domicilioDirecc": "CALLE JOSÉ GALVEZ",
+        "ubigeoPostula": "140706",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "YAUYOS",
+        "postulaDistrito": "CACRA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/222290.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2173.0,
+        "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "17/06/2022 13:37:34",
+        "txGuidFormatoHojaVida": "3db794df-4d51-4b38-83b6-be3be4711a76",
+        "idSolicitudLista": 34245.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 195557,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "PROFESOR DE EDUCACION PRIMARIA",
+            "ocupacionProfesion": "PROFESOR DE EDUCACION PRIMARIA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ANEXO SOLEDAD",
+            "anioTrabajoDesde": "2005",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "080511",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "HUANCAVELICA",
+            "trabajoProvincia": "TAYACAJA",
+            "trabajoDistrito": "HUACHOCOLPA",
+            "idHojaVida": 222290,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 172314,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 222290,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 138796,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "I-S-S-P YAUYOS",
+                "carreraNoUni": "PROFESOR DE EDUCACION PRIMARIA",
+                "concluidoNoUni": "1",
+                "idHojaVida": 222290,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 140446,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 332,
+                "orgPolCargoElec": "CONCERTACION PARA EL DESARROLLO REGIONAL - LIMA",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2007",
+                "anioCargoElecHasta": "2010",
+                "idHojaVida": 222290,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 149574,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 15,
+            "orgPolRenunciaOp": "PARTIDO POPULAR CRISTIANO - PPC",
+            "anioRenunciaOp": "2014",
+            "idHojaVida": 222290,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 162098,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 28800.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 222290,
+                "idEstado": 1,
+                "totalIngresos": 28800.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,167 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 234263.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "19897832",
+        "nombres": "EFRAIN",
+        "apellidoPaterno": "DE LA CRUZ",
+        "apellidoMaterno": "GUERRERO",
+        "sexo": "1",
+        "feNacimiento": "10/03/1963",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110136",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "HUANCAYO",
+        "naciDistrito": "VIQUES",
+        "ubigeoDomicilio": "110903",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "CHUPACA",
+        "domiDistrito": "CHONGOS BAJO",
+        "domicilioDirecc": "CALLE PALACIOS S/N",
+        "ubigeoPostula": "110903",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "CHUPACA",
+        "postulaDistrito": "CHONGOS BAJO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/234263.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 303.0,
+        "organizacionPolitica": "JUNIN SOSTENIBLE CON SU GENTE",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 04:39:38",
+        "txGuidFormatoHojaVida": "1155b470-5c60-4e32-9509-2f1bf67c0084",
+        "idSolicitudLista": 35637.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 244278,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "CHOFER - CONDUCTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE PALACIOS S'N",
+            "anioTrabajoDesde": "2000",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "110903",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "CHUPACA",
+            "trabajoDistrito": "CHONGOS BAJO",
+            "idHojaVida": 234263,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 215996,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 234263,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 195077,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 18000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 234263,
+                "idEstado": 1,
+                "totalIngresos": 18000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 240056,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CALLE ALFONZO UGARTE N° 798",
+                "comentario": "MATERIAL RUSTICO",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 5500.0,
+                "idHojaVida": 234263,
+                "idEstado": 1,
+                "flValor": "5800.4"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 198299,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "UP2764 ",
+                "valor": 24000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AZUL CON BLANCO",
+                "comentario": null,
+                "idHojaVida": 234263,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 198298,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "A9L773 ",
+                "valor": 25000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "OMNIBUS AZUL",
+                "comentario": null,
+                "idHojaVida": 234263,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

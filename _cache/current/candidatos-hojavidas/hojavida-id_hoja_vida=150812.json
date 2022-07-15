@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 150812.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42516955",
+        "nombres": "PABLO ANDRES",
+        "apellidoPaterno": "CASTILLO",
+        "apellidoMaterno": "AQUINO",
+        "sexo": "1",
+        "feNacimiento": "17/07/1984",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "130101",
+        "naciDepartamento": "LAMBAYEQUE",
+        "naciProvincia": "CHICLAYO",
+        "naciDistrito": "CHICLAYO",
+        "ubigeoDomicilio": "130109",
+        "domiDepartamento": "LAMBAYEQUE",
+        "domiProvincia": "CHICLAYO",
+        "domiDistrito": "PICSI",
+        "domicilioDirecc": "CALLE SANTA ANA 280",
+        "ubigeoPostula": "130109",
+        "postulaDepartamento": "LAMBAYEQUE",
+        "postulaProvincia": "CHICLAYO",
+        "postulaDistrito": "PICSI",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/150812.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 4.0,
+        "organizacionPolitica": "ACCION POPULAR",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 18:34:22",
+        "txGuidFormatoHojaVida": "72837d77-fd0d-4a60-ac45-ded66ae2a83e",
+        "idSolicitudLista": 24884.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 239272,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MINISTERIO DEL INTERIOR",
+            "ocupacionProfesion": "SUPREFECTO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE SANTA ANA N° 280",
+            "anioTrabajoDesde": "2018",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "130109",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LAMBAYEQUE",
+            "trabajoProvincia": "CHICLAYO",
+            "trabajoDistrito": "PICSI",
+            "idHojaVida": 150812,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "DESARROLLÉ LAS FUNCIONES DE SUPREFECTO EN EL MINISTERIO DEL INTERIOR EN EL DISTRITO DE PISCO DESDE EL AÑO 2018 HASTA MARZO DE 2022"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 211262,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 150812,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 181248,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL PEDRO RUÍZ GALLO",
+                "carreraUni": "BACHILLER EN INGENIERIA QUIMICA",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2015",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 163265,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 8,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2007",
+            "idHojaVida": 150812,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 163264,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 4,
+            "orgPolRenunciaOp": "ACCION POPULAR",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 150812,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 191311,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 16200.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 150812,
+                "idEstado": 1,
+                "totalIngresos": 16200.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,75 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 25096,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2857,
+        "txOrganizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1646,
+        "juradoElectoral": "ABANCAY",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/18f4262a-df40-4919-a386-3ab22824eeb3.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/58e7fcdf-3583-4a0d-870b-7671598341b6.pdf",
+        "txCodExpedienteExt": "ERM.2022014893",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 150211,
+            "txPgProblema": "VIVIENDAS SIN ACCESO A SERVICIO DOMICILIARIO DE AGUA POTABLE",
+            "txPgObjetivo": "CERRAR LA BRECHA DEL SERVICIO DE AGUA POTABLE A NIVEL DISTRITAL",
+            "txPgIndicador": "% DE VIVIENDAS CON ACCESO A SERVICIOS DE AGUA POTABLE",
+            "txPgMeta": "94%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 150296,
+            "txPgProblema": "INSTITUCIONES EDUCATIVAS CON CAPACIDAD INSTALADA INADECUADA.",
+            "txPgObjetivo": "MEJORAR LAS CAPACIDADES INSTALADAS ADECUADAS DE LAS INSTITUCIONES EDUCATIVAS.",
+            "txPgIndicador": "% DE  IE CON CAPACIDADES ADECUADAS PARA LA PRESTACION DEL SERVICIO EDUCATIVO",
+            "txPgMeta": "100%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 150350,
+            "txPgProblema": "LIMITADA DISPONIBILIDAD DE AGUA PARA RIEGO Y PRODUCCION AGROPECUARIA.",
+            "txPgObjetivo": "CONSTRUIR INFRAESTRUCTURA DE RIEGO EN FORMA OPTIMA Y OPORTUNA",
+            "txPgIndicador": "% DE SUPERFICIE AGRICOLA CON RIEGO TECNIFICADO",
+            "txPgMeta": "30 %",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 150399,
+            "txPgProblema": "BAJA COBERTURA DE SERVICIO DE RECOJO DOMICILIARIO DE RESIDUOS SOLIDOS",
+            "txPgObjetivo": "AMPLIAR LA COBERTURA DEL SERVICIO  DE RECOJO DOMICILIARIO DE RESIDUOS SOLIDOS",
+            "txPgIndicador": "% DE VIVIENDAS CON SERVICIO   DE RECOJO DOMICILIARIO DE RESIDUOS SOLIDOS",
+            "txPgMeta": "1",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 150431,
+            "txPgProblema": "DEFICIENTES PROCESOS INTERNOS DE LA GESTION MUNICIPAL",
+            "txPgObjetivo": "MODERNIZAR LA GESTION PUBLICA MUNICIPAL IMPLEMENTADO INSTRUMENTO DE GESTION ADECUADOS Y CAPACITADOS Y CAPACITANDO EN FORMA PERMANENTE AL PERSONA Y AUTORIDADES COMUNALES, JOVENES Y MUJERES.",
+            "txPgIndicador": "IMPLEMENTACION DEL MANUEL DE PROCEDIMIENTOS ESTANDARIZADOS",
+            "txPgMeta": "1",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 17012,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2277,
+        "txOrganizacionPolitica": "SENTIMIENTO AMAZONENSE REGIONAL",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1664,
+        "juradoElectoral": "CHACHAPOYAS",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/df2db07e-53ec-45b2-a32f-a84f8a526c20.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/ec7cdd0d-0d84-42c0-a747-cee08a3efb32.pdf",
+        "txCodExpedienteExt": "ERM.2022012630",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 159411,
+            "txPgProblema": "DEFICIENTE SERVICIO DE AGUA POTABLE Y SANEAMIENTO",
+            "txPgObjetivo": "MEJORAMIENTO DE LOS SERVICIOS DE AGUA POTABLE Y SANEAMIENTO BÁSICO",
+            "txPgIndicador": "PORCENTAJE DE COBERTURA DE AGUA POTABLE Y SANEAMIENTO",
+            "txPgMeta": "AGUA POTABLE Y SANEAMIENTO BÁSICO EN TODO EL DISTRITO\n01 PLANTA DE RESIDUOS SÓLIDOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159416,
+            "txPgProblema": "DEFICIENTES SERVICIOS DE CALIDAD PARA ATENDER LA SALUD DE LAS FAMILIAS DEL DISTRITO",
+            "txPgObjetivo": "ACONDICIONAMIENTO E IMPLEMENTACIÓN DE LOS CENTROS DE SALUD.",
+            "txPgIndicador": "PORCENTAJE DE CALIDAD DEL SERVICIO DE SALUD EN EL DISTRITO",
+            "txPgMeta": "MEJORAR LOS CENTROS DE SALUD DEL DISTRITO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159422,
+            "txPgProblema": "DEFICIENTE CALIDAD EDUCATIVA",
+            "txPgObjetivo": "MEJORAMIENTO Y EQUIPAMIENTO DE LAS INSTITUCIONES EDUCATIVAS DEL DISTRITO",
+            "txPgIndicador": "PORCENTAJE DE INSTITUCIONES EDUCATIVAS MEJORADAS Y EQUIPADAS",
+            "txPgMeta": "100% DE INSTITUCIONES MEJORADAS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 159434,
+            "txPgProblema": "BAJO NIVEL PRODUCTIVO EN LAS ACTIVIDADES AGROPECUARIAS",
+            "txPgObjetivo": "GESTIÓN DE UN SISTEMA DE RIEGO TECNIFICADO Y DE PASTIZALES",
+            "txPgIndicador": "PORCENTAJE DE PRODUCCIÓN AGRÍCOLA",
+            "txPgMeta": "ALTO NIVEL PRODUCTIVO EN LAS ACTIVIDADES AGROPECUARIAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159439,
+            "txPgProblema": "FALTA DE ASISTENCIA A LA PRODUCCIÓN DE PISCICULTURA Y GANADERA",
+            "txPgObjetivo": "PROMOVER LA TECNOLOGÍA EN LA PISCICULTURA Y LA GANADERÍA",
+            "txPgIndicador": "PORCENTAJE DE PRODUCTORES ASISTIDOS",
+            "txPgMeta": "PRODUCCIÓN PISCICULTURA Y GANADERA CON VALOR AGREGADO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159446,
+            "txPgProblema": "LIMITADO APOYO Y PROMOCIÓN PARA EL TURISMO DISTRITAL",
+            "txPgObjetivo": "GESTIÓN PARA LA PUESTA EN VALOR DE LOS RECURSOS TURÍSTICOS",
+            "txPgIndicador": "PORCENTAJE DE VISITAS DE TURISTAS NACIONALES E INTERNACIONALES",
+            "txPgMeta": "20% DE LOS INGRESOS FAMILIARES PROVIENEN DEL TURISMO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 159460,
+            "txPgProblema": "CONTAMINACIÓN DE LAS AGUAS POR EL DESECHO DE RESIDUOS SÓLIDOS",
+            "txPgObjetivo": "CONSTRUIR UNA PLANTA DE TRATAMIENTO DE RESIDUOS SÓLIDOS",
+            "txPgIndicador": "PORCENTAJE DE CONTAMINACIÓN EN EL DISTRITO",
+            "txPgMeta": "01 PLANTA DE TRATAMIENTO DE RESIDUOS SÓLIDOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159470,
+            "txPgProblema": "DEFICIENTE USO DEL RECURSO HÍDRICO",
+            "txPgObjetivo": "MEJORAR EL USO DEL AGUA A TRAVÉS DE LA CONSTRUCCIÓN DE UN SISTEMA DE RIEGO",
+            "txPgIndicador": "PORCENTAJE DE AGUA AHORRADA",
+            "txPgMeta": "01 SISTEMA DE RIEGO GESTIONADO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159477,
+            "txPgProblema": "ELEVADA DEGRADACIÓN DE LOS SUELOS AGRÍCOLAS",
+            "txPgObjetivo": "FOMENTAR EL APOYO DE USO DE ABONOS ORGÁNICOS",
+            "txPgIndicador": "PORCENTAJE DE SUELOS PRODUCTIVOS",
+            "txPgMeta": "UNA AGRICULTURA ORGÁNICA Y SUSTENTABLE",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 159483,
+            "txPgProblema": "DEFICIENTE GESTIÓN DE LAS AUTORIDADES LOCALES",
+            "txPgObjetivo": "CONTAR CON EL EQUIPO TÉCNICO PARA GARANTIZAR LA BUENA GESTIÓN MUNICIPAL",
+            "txPgIndicador": "PORCENTAJE DE METAS MUNICIPALES ALCANZADAS",
+            "txPgMeta": "CUMPLIR CON LAS METAS MUNICIPALIDADES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159489,
+            "txPgProblema": "INCREMENTO DE LA INSEGURIDAD CIUDADANA Y DESORDEN DEL TRÁNSITO VEHICULAR",
+            "txPgObjetivo": "FORTALECER LOS COMITÉS DE SEGURIDAD CIUDADANA \nIMPLEMENTAR SEÑALES DE TRÁNSITO",
+            "txPgIndicador": "PORCENTAJE INSEGURIDAD CIUDADANA Y TRANSITABILIDAD EN EL DISTRITO",
+            "txPgMeta": "MOLINOPAMPA SEGURO Y ORDENADO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 159494,
+            "txPgProblema": "INFRAESTRUCTURA INADECUADA DEL LOCAL MUNICIPAL",
+            "txPgObjetivo": "MEJORAR LAS INSTALACIONES DE LA MUNICIPALIDAD",
+            "txPgIndicador": "PORCENTAJE DE MEJORA DEL LOCAL MUNICIPAL",
+            "txPgMeta": "MUNICIPALIDAD ÓPTIMA PARA LA ATENCIÓN AL CIUDADANO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

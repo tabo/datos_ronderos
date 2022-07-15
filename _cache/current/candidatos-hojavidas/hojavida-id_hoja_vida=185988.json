@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 185988.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42001830",
+        "nombres": "NORMA",
+        "apellidoPaterno": "PILCO",
+        "apellidoMaterno": "CALISAYA",
+        "sexo": "2",
+        "feNacimiento": "18/12/1982",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "200401",
+        "naciDepartamento": "PUNO",
+        "naciProvincia": "CHUCUITO",
+        "naciDistrito": "JULI",
+        "ubigeoDomicilio": "220113",
+        "domiDepartamento": "TACNA",
+        "domiProvincia": "TACNA",
+        "domiDistrito": "CORONEL GREGORIO ALBARRACIN LANCHIPA",
+        "domicilioDirecc": "ASOC. LOS PROCERES MZ. 58 LT. 23",
+        "ubigeoPostula": "220113",
+        "postulaDepartamento": "TACNA",
+        "postulaProvincia": "TACNA",
+        "postulaDistrito": "CORONEL GREGORIO ALBARRACIN LANCHIPA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/185988.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2351.0,
+        "organizacionPolitica": "MOVIMIENTO CIVICO PERUANO",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 17:49:22",
+        "txGuidFormatoHojaVida": "49795766-5924-4bdd-a0d5-8fc260810303",
+        "idSolicitudLista": 29641.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 224199,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "COMERCIANTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "GREGORIO ALBARRACIN LANCHIPA",
+            "anioTrabajoDesde": "2008",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "220113",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "TACNA",
+            "trabajoProvincia": "TACNA",
+            "trabajoDistrito": "CORONEL GREGORIO ALBARRACIN LANCHIPA",
+            "idHojaVida": 185988,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 197713,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 185988,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 181189,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 45000.0,
+                "idHojaVida": 185988,
+                "idEstado": 1,
+                "totalIngresos": 45000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 225465,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "TACNA-CORONEL GREGORIO ALBARRACIN LANCHIPA- MZ 390 LT1 SUB LOTE E73 UNIDAD 780 - HABILITACION URBANA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "11092010",
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 185988,
+                "idEstado": 1,
+                "flValor": "15000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 187721,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "Z2S119 ",
+                "valor": 30000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "ROJO",
+                "comentario": null,
+                "idHojaVida": 185988,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

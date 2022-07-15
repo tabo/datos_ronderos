@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 173799.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42594947",
+        "nombres": "EMERSON",
+        "apellidoPaterno": "ORIHUELA",
+        "apellidoMaterno": "BASTIDAS",
+        "sexo": "1",
+        "feNacimiento": "17/11/1980",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110906",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "CHUPACA",
+        "naciDistrito": "SAN JUAN DE ISCOS",
+        "ubigeoDomicilio": "110906",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "CHUPACA",
+        "domiDistrito": "SAN JUAN DE ISCOS",
+        "domicilioDirecc": "JR.PATARCOCHA S/N",
+        "ubigeoPostula": "110906",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "CHUPACA",
+        "postulaDistrito": "SAN JUAN DE ISCOS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/173799.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 303.0,
+        "organizacionPolitica": "JUNIN SOSTENIBLE CON SU GENTE",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 01:56:13",
+        "txGuidFormatoHojaVida": "cb46a6a7-f226-4bac-b50f-8d69df1ca2b1",
+        "idSolicitudLista": 28017.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 175007,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "CONDUCTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "TINYARI , ISCOS, CHUPACA",
+            "anioTrabajoDesde": "2005",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "110901",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "CHUPACA",
+            "trabajoDistrito": "CHUPACA",
+            "idHojaVida": 173799,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 153543,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 173799,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 136921,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "INSTITUTO SUPERIOR PEDAGOGICO PUBLICO PEDRO MONGE CORDOVA",
+                "carreraNoUni": "PROFESOR",
+                "concluidoNoUni": "2",
+                "idHojaVida": 173799,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 142382,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 6,
+            "orgPolRenunciaOp": "RESURGIMIENTO PERUANO",
+            "anioRenunciaOp": "2007",
+            "idHojaVida": 173799,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 148355,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 12000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 173799,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 160255,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "W4S106 ",
+                "valor": 25000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "NEW VAN, COLOR BLANCO",
+                "comentario": null,
+                "idHojaVida": 173799,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

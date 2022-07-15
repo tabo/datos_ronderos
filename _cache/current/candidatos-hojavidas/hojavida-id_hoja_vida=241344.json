@@ -1,0 +1,125 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 241344.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44899232",
+        "nombres": "VICENTE JUAN",
+        "apellidoPaterno": "MENESES",
+        "apellidoMaterno": "SALAZAR",
+        "sexo": "1",
+        "feNacimiento": "22/12/1987",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "080118",
+        "naciDepartamento": "HUANCAVELICA",
+        "naciProvincia": "HUANCAVELICA",
+        "naciDistrito": "YAULI",
+        "ubigeoDomicilio": "080118",
+        "domiDepartamento": "HUANCAVELICA",
+        "domiProvincia": "HUANCAVELICA",
+        "domiDistrito": "YAULI",
+        "domicilioDirecc": "ANEXO SAN JUAN DE CCARHUACC",
+        "ubigeoPostula": "080118",
+        "postulaDepartamento": "HUANCAVELICA",
+        "postulaProvincia": "HUANCAVELICA",
+        "postulaDistrito": "YAULI",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/241344.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 226.0,
+        "organizacionPolitica": "MOVIMIENTO INDEPENDIENTE TRABAJANDO PARA TODOS",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 13:17:21",
+        "txGuidFormatoHojaVida": "8da64e2a-b684-4931-8266-d299e47bb2be",
+        "idSolicitudLista": 33012.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 243092,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ANEXO SAN JUAN DE JARHUACC",
+            "anioTrabajoDesde": "2009",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "080118",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "HUANCAVELICA",
+            "trabajoProvincia": "HUANCAVELICA",
+            "trabajoDistrito": "YAULI",
+            "idHojaVida": 241344,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "AUTOCONSUMO Y VENTA"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 214883,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 241344,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 194377,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 8000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 241344,
+                "idEstado": 1,
+                "totalIngresos": 8000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 136971,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "00524-2011-0-1101-JP-FP-02",
+            "txOrganoJuridicialObliga": "2 JUZGADO PAZ LETRADO - SEDE CENTRAL",
+            "txFalloObliga": "ESTADO EJECUCION",
+            "idEstado": 1,
+            "idHojaVida": 241344,
+            "txComentario": null
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 167466.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "09863195",
+        "nombres": "PEDRO JORGE",
+        "apellidoPaterno": "ACOSTA",
+        "apellidoMaterno": "LOPEZ",
+        "sexo": "1",
+        "feNacimiento": "19/04/1976",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "021011",
+        "naciDepartamento": "ANCASH",
+        "naciProvincia": "PALLASCA",
+        "naciDistrito": "TAUCA",
+        "ubigeoDomicilio": "140111",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "LINCE",
+        "domicilioDirecc": "CALLE CAPAC YUPANQUI 1931",
+        "ubigeoPostula": "140111",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "LINCE",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/167466.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 00:20:57",
+        "txGuidFormatoHojaVida": "ecdeeefb-c70d-4706-9841-4d17fc4abef4",
+        "idSolicitudLista": 27160.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 193440,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "NATI0NAL CLINIC",
+            "ocupacionProfesion": "PREVENCIONISTA DE RIESGOS",
+            "rucTrabajo": "20100881943",
+            "direccionTrabajo": "TEODOSIO PARREÑO 388 BARRANCO",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140125",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "BARRANCO",
+            "idHojaVida": 167466,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 170463,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 167466,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 160236,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "PONTIFICIA UNIVERSIDAD CATALICA DEL PERU",
+                "carreraUni": "EGRESADO",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": "2007",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "EGRESADO DE 10MO CICLO DE INGENIERIA INDUSTRIAL"
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 148845,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 46,
+            "orgPolRenunciaOp": "PERU POSIBLE",
+            "anioRenunciaOp": "2015",
+            "idHojaVida": 167466,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 160700,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 6928.53,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 16800.0,
+                "idHojaVida": 167466,
+                "idEstado": 1,
+                "totalIngresos": 23728.53
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 171071,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "A51266 ",
+                "valor": 5520.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MODELO RONCO 110-3",
+                "comentario": null,
+                "idHojaVida": 167466,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 3008,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "CAP SOLUCIONES LOGISTICAS SAC",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 3000.0,
+                "flValor": 9000.0,
+                "idHojaVida": 167466,
+                "idEstado": 1,
+                "txUsuario": "07635782",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

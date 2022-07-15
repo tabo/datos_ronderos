@@ -1,0 +1,157 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 170321.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "31638663",
+        "nombres": "SANTIAGO URBANO",
+        "apellidoPaterno": "BARRETO",
+        "apellidoMaterno": "MAYHUAY",
+        "sexo": "1",
+        "feNacimiento": "28/11/1959",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "020107",
+        "naciDepartamento": "ANCASH",
+        "naciProvincia": "HUARAZ",
+        "naciDistrito": "LA LIBERTAD",
+        "ubigeoDomicilio": "020107",
+        "domiDepartamento": "ANCASH",
+        "domiProvincia": "HUARAZ",
+        "domiDistrito": "LA LIBERTAD",
+        "domicilioDirecc": "CASERIO CHULLOC",
+        "ubigeoPostula": "020107",
+        "postulaDepartamento": "ANCASH",
+        "postulaProvincia": "HUARAZ",
+        "postulaDistrito": "LA LIBERTAD",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/170321.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 2245.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL EL MAICITO",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 17:11:44",
+        "txGuidFormatoHojaVida": "43c2b2ab-c5ad-4a85-a4df-409fbeb46613",
+        "idSolicitudLista": 27547.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 237223,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "GANADERO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASRIO CHULLOC",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "020107",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ANCASH",
+            "trabajoProvincia": "HUARAZ",
+            "trabajoDistrito": "LA LIBERTAD",
+            "idHojaVida": 170321,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 209416,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 170321,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 162602,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 1505,
+            "orgPolRenunciaOp": "FRENTE POPULAR AGRICOLA FIA DEL PERU",
+            "anioRenunciaOp": "2012",
+            "idHojaVida": 170321,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 162601,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2305,
+            "orgPolRenunciaOp": "JUNTOS POR HUARAZ",
+            "anioRenunciaOp": "2015",
+            "idHojaVida": 170321,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 189820,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 10000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 170321,
+                "idEstado": 1,
+                "totalIngresos": 10000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 234833,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "VIVENDA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CASRIO CHULLOC",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 170321,
+                "idEstado": 1,
+                "flValor": "20000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

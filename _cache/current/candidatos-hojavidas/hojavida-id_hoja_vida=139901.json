@@ -1,0 +1,153 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 139901.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40723998",
+        "nombres": "JOSE LUIS",
+        "apellidoPaterno": "ZARATE",
+        "apellidoMaterno": "SANTIVAÑEZ",
+        "sexo": "1",
+        "feNacimiento": "02/12/1977",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "070106",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "CUSCO",
+        "naciDistrito": "SANTIAGO",
+        "ubigeoDomicilio": "140112",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "LURIGANCHO",
+        "domicilioDirecc": "EL ROSARIO 750 MZ. A LT. 5-A CMTE. 1 ASENT.H. VIRGEN DEL ROSARIO",
+        "ubigeoPostula": "140112",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "LURIGANCHO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/139901.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2857.0,
+        "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "07/06/2022 21:43:44",
+        "txGuidFormatoHojaVida": "7f8a75dc-b7d2-4f47-8986-dd92c423fe0b",
+        "idSolicitudLista": 23451.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 137697,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 139901,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 142896,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD CATÓLICA LOS ÁNGELES DE CHIMBOTE",
+                "carreraUni": "BACHILLER EN DERECHO Y CIENCIA POLÍTICA",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2019",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 135965,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 14,
+            "orgPolRenunciaOp": "PARTIDO DEMOCRATICO SOMOS PERU",
+            "anioRenunciaOp": "2010",
+            "idHojaVida": 139901,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 136863,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 1000.0,
+                "remuBrutaPrivado": 12000.0,
+                "rentaIndividualPublico": 1000.0,
+                "rentaIndividualPrivado": 12000.0,
+                "otroIngresoPublico": 1000.0,
+                "otroIngresoPrivado": 12000.0,
+                "idHojaVida": 139901,
+                "idEstado": 1,
+                "totalIngresos": 39000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 149552,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "AUTO",
+                "marca": null,
+                "placa": "B2O-245",
+                "valor": 5000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "NORMAL",
+                "comentario": null,
+                "idHojaVida": 139901,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 149549,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "CAMIONETA",
+                "marca": null,
+                "placa": "BPH-203",
+                "valor": 10000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "NORMAL",
+                "comentario": null,
+                "idHojaVida": 139901,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

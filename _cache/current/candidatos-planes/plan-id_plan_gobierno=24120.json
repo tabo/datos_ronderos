@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 24120,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1264,
+        "txOrganizacionPolitica": "JUNTOS POR EL PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1716,
+        "juradoElectoral": "POMABAMBA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/cfb02d16-e84d-4e8d-a887-b0434bd708af.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/5c172990-1baa-4015-b96f-a54795d82e9f.pdf",
+        "txCodExpedienteExt": "ERM.2022018115",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 157142,
+            "txPgProblema": "LIMITADO ACCESO DE LAS VIVIENDAS AL SERVICIO DE AGUA Y SANEAMIENTO",
+            "txPgObjetivo": "MEJORAR LA HABITABILIDAD EN EL DISTRITO",
+            "txPgIndicador": "% DE VIVIENDAS CON ACCESO A AGUA Y DESAGÜE",
+            "txPgMeta": "90% DE LA VIVIENDAS CUENTAN CON ACCESO A AGUA Y DESAGÜE",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 157162,
+            "txPgProblema": "LIMITADO ACCESO DE LAS VIVIENDAS AL SERVICIO DE ENERGÍA ELÉCTRICA",
+            "txPgObjetivo": "MEJORAR LA HABITABILIDAD EN EL DISTRITO",
+            "txPgIndicador": "% DE COBERTURA ELÉCTRICA",
+            "txPgMeta": "90% DE LA POBLACIÓN CUENTA CON COBERTURA ELÉCTRICA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 157187,
+            "txPgProblema": "BAJOS NIVEL DE LOGROS DE APRENDIZAJE EN LA EBR",
+            "txPgObjetivo": "MEJORAR LA EDUCACIÓN DE LA POBLACIÓN",
+            "txPgIndicador": "% DE ALUMNOS Y ALUMNAS DE SEGUNDO GRADO DE SECUNDARIA EN EL NIVEL SATISFACTORIO EN RAZONAMIENTO MATEMÁTICO Y COMPRENSIÓN LECTORA",
+            "txPgMeta": "25% DE LA POBLACIÓN ESTUDIANTIL DEL 2 GRADO DE SECUNDARIA TIENE LOGROS SATISFACTORIOS EN COMPRENSIÓN LECTORA Y MATEMÁTICA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 157213,
+            "txPgProblema": "BAJA PRODUCTIVIDAD DE LA AGRICULTURA FAMILIAR",
+            "txPgObjetivo": "INCREMENTAR LA PRODUCTIVIDAD DE LA AGRICULTURA FAMILIAR",
+            "txPgIndicador": "INCREMENTO DE LA PRODUCCIÓN Y PRODUCTIVIDAD DE LA CEDULA DE CULTIVOS ANDINOS",
+            "txPgMeta": "UN 30% DE LA POBLACIÓN QUE SE DEDICA A LA ACTIVIDAD AGRÍCOLA INCREMENTA LA PRODUCTIVIDAD DE SUS CULTIVOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 157238,
+            "txPgProblema": "DESAPROVECHAMIENTO DE RECURSOS TURÍSTICOS",
+            "txPgObjetivo": "FORTALECER LA OFERTA TURÍSTICA",
+            "txPgIndicador": "N° DE OFERTA TURÍSTICA FORTALECIDA",
+            "txPgMeta": "01 DESTINOS TURÍSTICOS FORTALECIDOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 157274,
+            "txPgProblema": "ESCASO DESARROLLO PECUARIO",
+            "txPgObjetivo": "FORTALECER LA ACTIVIDAD PECUARIA",
+            "txPgIndicador": "% DE ANIMALES CRIADOS TÉCNICAMENTE",
+            "txPgMeta": "20 DE LAS FAMILIAS HAN IMPLEMENTADO PROCESOS DE CRIANZA TÉCNICA EN SUS ANIMALES",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 165123,
+            "txPgProblema": "INADECUADO MANEJO DE LOS RESIDUOS SOLIDOS",
+            "txPgObjetivo": "FORTALECER EL MANEJO DE LOS RESIDUOS SOLIDOS",
+            "txPgIndicador": "CANTIDAD DE RESIDUOS SÓLIDOS DEBIDAMENTE MANEJADOS",
+            "txPgMeta": "SISTEMA DE GESTIÓN DE RESIDUOS SÓLIDOS IMPLEMENTADOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 165147,
+            "txPgProblema": "DÉBIL GOBERNANZA AMBIENTAL",
+            "txPgObjetivo": "MEJORAR LA CALIDAD DEL AMBIENTE EN EL DISTRITO",
+            "txPgIndicador": "N° DE PROMOTORES AMBIENTALES",
+            "txPgMeta": "10 PROMOTORES AMBIENTALES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 165171,
+            "txPgProblema": "DEFICIENTE MANEJO DE RECURSOS NATURALES",
+            "txPgObjetivo": "EFICIENTE MANEJO DE RECURSOS NATURALES",
+            "txPgIndicador": "N° DE ESTUDIOS DE MANEJO DE RECURSOS NATURALES",
+            "txPgMeta": "03 ESTUDIOS DE MANEJO DE RECURSOS NATURALES.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 165198,
+            "txPgProblema": "ESCASOS ESPACIOS DE GESTIÓN CONCERTADA DEL TERRITORIO",
+            "txPgObjetivo": "PROMOVER LA CREACIÓN DE ESPACIOS DE DIÁLOGO",
+            "txPgIndicador": "N° DE ESPACIOS DE DIALOGO IMPLEMENTADOS",
+            "txPgMeta": "01 ESPACIO DE DIALOGO IMPLEMENTADO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 165217,
+            "txPgProblema": "ESCASAS HERRAMIENTAS DE GESTIÓN MUNICIPAL",
+            "txPgObjetivo": "FORMULACIÓN DE HERRAMIENTAS DE GESTIÓN MUNICIPAL",
+            "txPgIndicador": "% DE HERRAMIENTAS DE GESTIÓN MUNICIPAL IMPLEMENTADAS",
+            "txPgMeta": "100% DE LAS HERRAMIENTAS DE GESTIÓN IMPLEMENTADAS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 165233,
+            "txPgProblema": "INADECUADO ESPACIO MUNICIPAL",
+            "txPgObjetivo": "MEJORAR LA INSTITUCIONALIDAD",
+            "txPgIndicador": "N° DE INFRAESTRUCTURAS CONSTRUIDA",
+            "txPgMeta": "01 UN PALACIO MUNICIPAL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

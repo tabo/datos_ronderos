@@ -1,0 +1,140 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 234623.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "10880194",
+        "nombres": "PEDRO",
+        "apellidoPaterno": "DIAZ",
+        "apellidoMaterno": "TORRES",
+        "sexo": "1",
+        "feNacimiento": "19/05/1978",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140106",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "COMAS",
+        "ubigeoDomicilio": "020320",
+        "domiDepartamento": "ANCASH",
+        "domiProvincia": "BOLOGNESI",
+        "domiDistrito": "TICLLOS",
+        "domicilioDirecc": "JR. PORVENIR 30 COMUNID.CAMPESINA ROCA",
+        "ubigeoPostula": "020320",
+        "postulaDepartamento": "ANCASH",
+        "postulaProvincia": "BOLOGNESI",
+        "postulaDistrito": "TICLLOS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/234623.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 11:29:15",
+        "txGuidFormatoHojaVida": "b7195c4b-dd16-4b68-8628-ecfb629836c2",
+        "idSolicitudLista": 35679.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 251177,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "QUIMPAC SA",
+            "ocupacionProfesion": "ANALISTA QUIMICO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. NESTOR GAMBETA 8585",
+            "anioTrabajoDesde": "2005",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "LIMA",
+            "idHojaVida": 234623,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 224303,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 234623,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 157029,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "INTITUTO SUPERIOR TECNOLOGICO",
+                "carreraTecnico": "ANALISTA QUIMICO",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 234623,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 201598,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 68000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 234623,
+                "idEstado": 1,
+                "totalIngresos": 68000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 202181,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "ARN260 ",
+                "valor": 12500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTO",
+                "comentario": null,
+                "idHojaVida": 234623,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

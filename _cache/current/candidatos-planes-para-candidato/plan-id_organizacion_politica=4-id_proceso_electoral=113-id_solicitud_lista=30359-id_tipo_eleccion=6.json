@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23685,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 4,
+        "txOrganizacionPolitica": "ACCION POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/34d41ac4-7430-47f8-a50a-9a01a102ac87.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/d0259358-3c52-464a-aa99-280ae6c616a3.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 176303,
+            "txPgProblema": "1.\tINFRAESTRUCTURAS NO ADECUADAS EN EL SECTOR DE SALUD.",
+            "txPgObjetivo": "OFRECER UNA ATENCIÓN DE CALIDAD A LAS PERSONAS.",
+            "txPgIndicador": "NUMERO DE POSTAS MEDICAS,NUMERO DE ATENDIDOS EN LA POBLACION",
+            "txPgMeta": "TENER 3 POSTAS EQUIPADAS Y CON BUENA INFRAESTRUCTURA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 176333,
+            "txPgProblema": "1.\tAGRICULTORES Y GANADEROS POCO CAPACITADOS.",
+            "txPgObjetivo": "MEJORAR TECNICAS Y PRODUCCION",
+            "txPgIndicador": "NUMERO DE AGRICULTORES Y GANADEROS CAPACITADOS",
+            "txPgMeta": "60%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 176361,
+            "txPgProblema": "1.\tALTA CONTAMINACIÓN DEL RÍO CHANCAY.",
+            "txPgObjetivo": "TENER AGUAS SIN CONTAMINACION",
+            "txPgIndicador": "FUNCIONAMIENTO DE LA PLANTA DE TRATAMIENTO",
+            "txPgMeta": "1 PLANTA DE FUNCIONAMIENTO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 176516,
+            "txPgProblema": "1.\tDIFICULTAD PARA LA ATENCIÓN DEL PÚBLICO.",
+            "txPgObjetivo": "MEJORAR EL SISTEMA DE ADMINISTRACIÓN MUNICIPAL.",
+            "txPgIndicador": "CREACIÓN DEL PALACIO MUNICIPAL.",
+            "txPgMeta": "TENER UN LOCAL MUNICIPAL COMODO PARA LA ATENCION DE LOS CIUDADANOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

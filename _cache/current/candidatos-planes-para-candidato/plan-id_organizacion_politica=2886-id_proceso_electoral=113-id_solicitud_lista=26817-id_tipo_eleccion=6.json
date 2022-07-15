@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20143,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2886,
+        "txOrganizacionPolitica": "HATARIY APURIMAC",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/41006de8-9d4e-4fed-ac33-95898d27ec34.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/3d65d9a6-f0d2-4885-a89d-b8bc9cf7cbcd.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 160595,
+            "txPgProblema": "INADECUADA PRESTACIÓN DE LOS SERVICIOS DE SALUD EN EL DISTRITO DE CURASCO",
+            "txPgObjetivo": "MEJORAR EL SERVICIO DE SALUD INTEGRAL, ASEGURANDO EL BIENESTAR DE LA POBLACIÓN DEL DISTRITO DE CURASCO",
+            "txPgIndicador": "PORCENTAJE DE ESTABLECIMIENTOS DE SALUD DEL PRIMER NIVEL DE ATENCIÓN CON CAPACIDAD INSTALADA INADECUADA",
+            "txPgMeta": "50%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 160694,
+            "txPgProblema": "LIMITADA PRODUCCIÓN Y PRODUCTIVIDAD AGROPECUARIA EN EL DISTRITO DE CURASCO",
+            "txPgObjetivo": "INCREMENTAR LA PRODUCCIÓN Y PRODUCTIVIDAD AGROPECUARIA EN EL DISTRITO DE CURASCO",
+            "txPgIndicador": "PORCENTAJE DE SUPERFICIE AGRÍCOLA SIN RIEGO,PORCENTAJ,E DE SUPERFICIE AGRÍCOLA SIN RIEGO TECNIFICADO, PORCENTAJE DE SISTEMAS DE RIEGO QUE OPERAN EN CONDICIONES INADECUADAS, PORCENTAJE DE PRODUCTORES AGROPECUARIOS SIN SERVICIO DE ASISTENCIA TÉCNICA.",
+            "txPgMeta": "25%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 160719,
+            "txPgProblema": "DEFICIENTE SERVICIO DE LIMPIEZA PÚBLICA EN EL DISTRITO DE CURASCO",
+            "txPgObjetivo": "MEJORAR EL SERVICIO DE LIMPIEZA PÚBLICA EN EL DISTRITO DE CURASCO",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN NO ATENDIDA POR UN ADECUADO SERVICIO DE LIMPIEZA PÚBLICA",
+            "txPgMeta": "60%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 160845,
+            "txPgProblema": "DÉBIL INSTITUCIONALIDAD, ORGANIZACIÓN Y ESCASA CULTURA DE CONCERTACIÓN ENTRE AUTORIDADES EN EL DISTRITO DE CURASCO",
+            "txPgObjetivo": "FORTALECER E INSTITUCIONALIZAR ESPACIOS DE TRABAJO CONJUNTO PARA EL DESARROLLO TERRITORIAL DEL DISTRITO DE CURASCO",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN SATISFECHAS CON LA GESTIÓN MUNICIPAL,PORCENTAJE DE LA POBLACIÓN QUE CONFÍA EN LA GESTIÓN MUNICIPAL",
+            "txPgMeta": "80%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

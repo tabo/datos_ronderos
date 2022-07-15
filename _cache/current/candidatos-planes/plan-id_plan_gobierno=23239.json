@@ -1,0 +1,125 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23239,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1670,
+        "txOrganizacionPolitica": "FRENTE AMPLIO PARA EL DESARROLLO DEL PUEBLO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1718,
+        "juradoElectoral": "PUNO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/4bf49c33-084d-430c-bdbf-ad0babb066d0.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/7f13fa14-fa94-4d59-892c-6b8bd81c810a.pdf",
+        "txCodExpedienteExt": "ERM.2022012785",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 171252,
+            "txPgProblema": "DESIGUALDAD Y LIMITADO ACCESO A LOS SERVICIOS BÁSICOS.",
+            "txPgObjetivo": "ASEGURAR LA COBERTURA Y CALIDAD DE LOS SERVICIOS BÁSICOS. – TEMÁTICA VIVIENDA",
+            "txPgIndicador": "PORCENTAJE DE VIVIENDAS SIN SERVICIO DE AGUA POTABLE",
+            "txPgMeta": "QUE LA POBLACIÓN TENGA EL SERVICIO DE AGUA POTABLE TODO EL DÍA.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 171267,
+            "txPgProblema": "CARENCIA DEL SERVICIO DE SALUD",
+            "txPgObjetivo": "ASEGURAR LA COBERTURA Y CALIDAD DE LOS SERVICIOS BÁSICOS. – TEMÁTICA SALUD",
+            "txPgIndicador": "PORCENTAJE DE NIÑOS MENORES DE 5 AÑOS CON DESNUTRICIÓN\nPORCENTAJE DE NIÑOS MENORES DE 5 AÑOS CON ANEMIA",
+            "txPgMeta": "REDUCCIÓN DE CANTIDAD DE NIÑOS MENORES DE 5 AÑOS CON DESNUTRICIÓN\nREDUCCIÓN DE CANTIDAD DE NIÑOS MENORES DE 5 AÑOS CON ANEMIA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 171279,
+            "txPgProblema": "DEFICIT EN EL NIVEL EDUCATIVO",
+            "txPgObjetivo": "ASEGURAR LA COBERTURA Y CALIDAD DE LOS SERVICIOS BÁSICOS. – TEMÁTICA EDUCACION",
+            "txPgIndicador": "PORCENTAJE DE ESTUDIANTES DE  PRIMARIA CON NIVEL SATISFACTORIO EN COMPRENSIÓN LECTORA\nPORCENTAJE DE ESTUDIANTES DE EDUCACIÓN SUPERIOR  CON NIVEL SATISFACTORIO EN CONOCIMIENTOS",
+            "txPgMeta": "QUE LOS ESTUDIANTES DE PRIMARIA TENGAN UN NIVEL SATISFACTORIO EN COMPRENSIÓN LECTORA\nQUE LOS ESTUDIANTES DE EDUCACIÓN SUPERIOR OBTENGAN CONOCIMIENTOS EN LAS DIFERENTES ÁREAS TÉCNICAS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 171302,
+            "txPgProblema": "ECONOMÍA POCO COMPETITIVA, INCIPIENTE NIVEL DE ACUMULACIÓN INTERNA, POCO GENERADORA DE EMPLEO Y BAJA PRODUCTIVIDAD",
+            "txPgObjetivo": "PROMOVER LA COMPETITIVIDAD, LA ACUMULACIÓN INTERNA Y EL CRECIMIENTO ECONÓMICO. – TEMÁTICA  POLÍTICAS PÚBLICAS LOCALES",
+            "txPgIndicador": "PORCENTAJE DE POLÍTICAS PÚBLICAS QUE PROMUEVAN LA ACUMULACIÓN INTERNA Y EL CRECIMIENTO ECONÓMICO",
+            "txPgMeta": "FORTALECIMIENTO DE POLÍTICAS PÚBLICAS QUE PROMUEVAN LA ACUMULACIÓN INTERNA Y EL CRECIMIENTO ECONÓMICO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 171304,
+            "txPgProblema": "ECONOMÍA POCO COMPETITIVA, INCIPIENTE NIVEL DE ACUMULACIÓN INTERNA, POCO GENERADORA DE EMPLEO Y BAJA PRODUCTIVIDAD",
+            "txPgObjetivo": "PROMOVER LA COMPETITIVIDAD, LA ACUMULACIÓN INTERNA Y EL CRECIMIENTO ECONÓMICO. – TEMÁTICA INNOVACIÓN Y DESARROLLO TECNOLÓGICO",
+            "txPgIndicador": "PORCENTAJE DE EMPRENDEDORES QUE ACCEDEN A INNOVACIÓN Y DESARROLLO TECNOLÓGICO",
+            "txPgMeta": "FORTALECIMIENTO DE POLÍTICAS PÚBLICAS QUE PROMUEVAN EL EMPRENDEDORES QUE ACCEDEN A INNOVACIÓN Y DESARROLLO TECNOLÓGICO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 171310,
+            "txPgProblema": "ECONOMÍA POCO COMPETITIVA, INCIPIENTE NIVEL DE ACUMULACIÓN INTERNA, POCO GENERADORA DE EMPLEO Y BAJA PRODUCTIVIDAD",
+            "txPgObjetivo": "PROMOVER ALTOS NIVELES DE PRODUCTOS AGRÍCOLAS Y  PROMOVER ALTA  PRODUCCIÓN GANADERA.",
+            "txPgIndicador": "INCREMENTO DE LA PRODUCTOS AGRÍCOLAS E INCREMENTO DE PRODUCCIÓN GANADERA.",
+            "txPgMeta": "INCREMENTO DE PRODUCTOS AGRÍCOLAS E INCREMENTO DE LA PRODUCCIÓN GANADERA",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 171317,
+            "txPgProblema": "CALIDAD AMBIENTAL POCO SALUDABLE",
+            "txPgObjetivo": "MEJORAR LA CALIDAD AMBIENTAL",
+            "txPgIndicador": "PORCENTAJE DE CONTAMINACIÓN GENERADO POR VEHÍCULOS",
+            "txPgMeta": "INCREMENTO DE LA CALIDAD DEL AIRE",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 171319,
+            "txPgProblema": "CALIDAD AMBIENTAL POCO SALUDABLE",
+            "txPgObjetivo": "MEJORAR LA CALIDAD AMBIENTAL",
+            "txPgIndicador": "PORCENTAJE DE RESIDUOS SÓLIDOS APROVECHABLES RECUPERADOS",
+            "txPgMeta": "MEJORAMIENTO E IMPLEMENTACIÓN DE SISTEMAS DE GESTIÓN DE RESIDUOS SOLIDOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 171349,
+            "txPgProblema": "LIMITADA INSTITUCIONALIZACIÓN DE LA TRANSPARENCIA Y PARTICIPACIÓN CIUDADANA EN LA GESTIÓN PUBLICA",
+            "txPgObjetivo": "ASEGURAR LA GOBERNANZA DEL GOBIERNO LOCAL, MEJORANDO LA TRANSPARENCIA Y LA PARTICIPACIÓN CIUDADANA. – TEMÁTICA   EJECUCIÓN PRESUPUESTAL",
+            "txPgIndicador": "PORCENTAJE DE CIUDADANÍA INFORMADA",
+            "txPgMeta": "IMPLEMENTACIÓN DE SISTEMAS DE INFORMACIÓN  DE EJECUCIÓN PRESUPUESTAL AL ACCESO DE LA POBLACIÓN",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 171354,
+            "txPgProblema": "LIMITADA INSTITUCIONALIZACIÓN DE LA TRANSPARENCIA Y PARTICIPACIÓN CIUDADANA EN LA GESTIÓN PUBLICA",
+            "txPgObjetivo": "ASEGURAR LA GOBERNANZA DEL GOBIERNO LOCAL, MEJORANDO LA TRANSPARENCIA Y LA PARTICIPACIÓN CIUDADANA. – TEMÁTICA   PROCESOS DE ADQUISICIONES",
+            "txPgIndicador": "PORCENTAJE DE CIUDADANÍA INFORMADA",
+            "txPgMeta": "IMPLEMENTACIÓN DE SISTEMAS DE INFORMACIÓN  DE PROCESOS DE ADQUISICIONES AL ACCESO DE LA POBLACIÓN",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

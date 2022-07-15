@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 21681,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2173,
+        "txOrganizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1675,
+        "juradoElectoral": "HUAMALIES",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/18c76c2c-1b3d-46c5-893d-6d580ed52979.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/56e13c37-553e-48c5-8f64-29ac98c66946.pdf",
+        "txCodExpedienteExt": "ERM.2022007962",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 181604,
+            "txPgProblema": "LAS PERSONAS QUE NECESITAN ASISTENCIA MÉDICA NO PUEDEN ATENDERSE OPORTUNAMENTE EN EL CENTRO DE SALUD Y HOSPITAL",
+            "txPgObjetivo": "CREAR, MEJORAR Y AMPLIAR LOS SERVICIOS DE SALUD EN EL ÁMBITO DISTRITAL.",
+            "txPgIndicador": "PORCENTAJE DE CENTROS DE SALUD, PUESTOS DE SALUD.",
+            "txPgMeta": "CONSTRUIR Y EQUIPAR EL 20% DE LOS CENTROS Y POSTAS DE SALUD",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 181807,
+            "txPgProblema": "INFRAESTRUCTURA Y MOBILIARIOS EDUCATIVOS DE NIVEL INICIAL, PRIMARIO Y SECUNDARIO EN MAL ESTADO",
+            "txPgObjetivo": "CREAR, MEJORAR Y AMPLIAR LOS SERVICIOS DE LA OFERTA EDUCATIVA EN EL NIVEL INICIAL, PRIMARIA Y SECUNDARIA.",
+            "txPgIndicador": "PORCENTAJE DE INSTITUCIONES EDUCATIVAS.",
+            "txPgMeta": "CONSTRUIR Y EQUIPAR 20% DE LAS INSTITUCIONES EDUCATIVAS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 181879,
+            "txPgProblema": "ALTOS ÍNDICES DE ENFERMEDADES DIARREICAS, GASTROINTESTINALES Y DÉRMICAS EN LA POBLACIÓN EN SITUACIÓN DE VULNERABILIDAD.",
+            "txPgObjetivo": "CREACIÓN, MEJORAMIENTO Y AMPLIACIÓN DE LOS SERVICIOS DE AGUA POTABLE, ALCANTARILLADO Y UNIDADES BÁSICAS DE SANEAMIENTO EN EL ÁMBITO DISTRITAL.",
+            "txPgIndicador": "PORCENTAJE DE VIVIENDAS CON ACCESO A SERVICIO DE AGUA POTABLE Y SANEAMIENTO BASICO",
+            "txPgMeta": "EL 90% DE LA POBLACIÓN CONTARA CON ACCESO A AGUA POR RED PÚBLICA Y EL 45% DE LA POBLACIÓN CONTARA CON ACCESO A SANEAMIENTO POR RED PÚBLICA.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 181941,
+            "txPgProblema": "BAJA PRODUCCION Y PRODUCTIVIDAD AGRÍCOLA",
+            "txPgObjetivo": "CREACIÓN, MEJORAMIENTO, AMPLIACIÓN E INSTALACIÓN DEL SERVICIO DE RIEGO TECNIFICADO.",
+            "txPgIndicador": "PORCENTAJE DE INFRAESTRUCTURA DE RIEGO",
+            "txPgMeta": "INCLUIR MÁS DE 50 HAS., DE SUPERFICIE AGRÍCOLA BAJO RIEGO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 181977,
+            "txPgProblema": "BAJO NIVEL DE TRANSITABILIDAD VEHICULAR EN LAS VÍAS VECINALES",
+            "txPgObjetivo": "CREAR, MEJORAR Y AMPLIAS LOS CAMINOS VECINALES EN EL ÁMBITO DISTRITAL.",
+            "txPgIndicador": "PORCENTAJE DE CAMINOS VECINALES",
+            "txPgMeta": "20% DE CAMINOS VECINALES EN BUEN ESTADO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182020,
+            "txPgProblema": "BAJO NIVEL DE ELECTRIFICACIÓN RURAL",
+            "txPgObjetivo": "CREAR, MEJORAR Y AMPLIAR LOS SERVICIOS DE ELECTRIFICACIÓN EN EL ÁMBITO DISTRITAL.",
+            "txPgIndicador": "PORCENTAJE DE VIVIENDAS ELECTRIFICADAS",
+            "txPgMeta": "20% DE ELECTRIFICACION RURAL",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 182078,
+            "txPgProblema": "CONTAMINACIÓN DE RÍOS Y LAGUNAS (AGUAS SERVIDAS, DESECHOS SÓLIDOS)",
+            "txPgObjetivo": "CREACIÓN DE LA GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS MUNICIPALES EN LAS ÁREAS URBANAS Y CENTROS POBLADOS.",
+            "txPgIndicador": "PORCENTAJE DE RELLENO SANITARIO",
+            "txPgMeta": "EL 60% DE LA POBLACIÓN CON ACCESO AL SERVICIO DE RELLENO SANITARIO, PARA EL ADECUADO MANEJO DE RESIDUOS SÓLIDOS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182110,
+            "txPgProblema": "INCREMENTO DE DEGRADACIÓN DE LOS SUELOS POR EROSIÓN E INADECUADOS SISTEMA DE MANEJO DE LOS CULTIVOS (MONOCULTIVOS Y PRESENCIA DE UNA AGRICULTURA TRADICIONAL).",
+            "txPgObjetivo": "CUIDAR Y PROTEGER EL MEDIO AMBIENTE.",
+            "txPgIndicador": "TALLERES DE CAPACITACION A TODA LA POBLACION",
+            "txPgMeta": "FORTALECER LA EDUCACIÓN AMBIENTAL A TRAVÉS DELDESARROLLO DE LAS CAPACIDADES DE GESTIÓN AMBIENTAL BÁSICA, PROFESIONAL Y TÉCNICA, PROPICIANDO LA PARTICIPACIÓN CIUDADANA.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 182136,
+            "txPgProblema": "LIMITADA PARTICIPACIÓN DE ORGANIZACIONES EN EL DESARROLLO LOCAL",
+            "txPgObjetivo": "CONSTRUIR SOSTENIBILIDAD E INSTITUCIONALIZACIÓN DE LOS PROCESOS DE “BUEN GOBIERNO” A PARTIR DE POTENCIAR LAS CAPACIDADES Y TALENTOS HUMANOS REFERIDOS A LA SOCIEDAD Y LA ACCIÓN POLÍTICA",
+            "txPgIndicador": "TALLERES DE PARTICIPACIÓN CIUDADANA.",
+            "txPgMeta": "LÍDERES FORTALECIDOS EN UN 90% Y PARTICIPACIÓN CIUDADANA EN LOS PROCESOS PARTICIPATIVOS EN UN 90% DE LA POBLACIÓN",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182168,
+            "txPgProblema": "CRECIENTE GRADO DE CORRUPCIÓN EN LA ADMINISTRACIÓN PÚBLICA.",
+            "txPgObjetivo": "FORTALECER LAS INSTANCIAS DE LA SOCIEDAD CIVIL, GARANTIZANDO Y PROMOVIENDO LOS MECANISMOS DE CONTROL SOCIAL",
+            "txPgIndicador": "RENDICIÓN DE CUENTAS TRIMESTRALMENTE",
+            "txPgMeta": "FORTALECER\tLAS INSTANCIAS DE LA SOCIEDAD CIVIL EN UN 95% DEL DISTRITO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 199998,
+            "txPgProblema": "LIMITADA SEGURIDAD CIUDADANA.",
+            "txPgObjetivo": "GARANTIZAR LA SEGURIDAD CIUDADANA EN EL ÁMBITO PROVINCIAL",
+            "txPgIndicador": "CONFORMACIÓN DE JUNTAS VECINALES",
+            "txPgMeta": "INCREMENTO DE SEGURIDAD CIUDADANA EN EL ÁMBITO DEL DISTRITO EN UN 90%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

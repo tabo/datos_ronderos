@@ -1,0 +1,162 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 239967.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "07817299",
+        "nombres": "JOSE MANUEL",
+        "apellidoPaterno": "UGARTE",
+        "apellidoMaterno": "OJEDA",
+        "sexo": "1",
+        "feNacimiento": "25/12/1940",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140115",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "MIRAFLORES",
+        "ubigeoDomicilio": "140115",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "MIRAFLORES",
+        "domicilioDirecc": "AV.LA MAR 372",
+        "ubigeoPostula": "140115",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "MIRAFLORES",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/239967.jpg",
+        "estado": "INSCRITO",
+        "idOrganizacionPolitica": 2857.0,
+        "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 16:51:29",
+        "txGuidFormatoHojaVida": "a70e7174-fbd9-4fa1-84c3-d3587ee7ef39",
+        "idSolicitudLista": 23989.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 160253,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "RESULTADOS INGENIEROS S.A.C",
+            "ocupacionProfesion": "GERENTE GENERAL",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. LA MAR 372 SANTA CRUZ",
+            "anioTrabajoDesde": "1997",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140115",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "MIRAFLORES",
+            "idHojaVida": 239967,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 140019,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 239967,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 144299,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD NACIONAL DE INGENIERIA",
+                "carreraUni": "INGENIERIA CIVIL",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "1966",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 138493,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 100000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 100000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 239967,
+                "idEstado": 1,
+                "totalIngresos": 200000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 151206,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "PH8925 ",
+                "valor": 25000.9,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMIONETA",
+                "comentario": null,
+                "idHojaVida": 239967,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 151205,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "FI6710 ",
+                "valor": 25000.9,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMIONETA",
+                "comentario": null,
+                "idHojaVida": 239967,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

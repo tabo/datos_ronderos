@@ -1,0 +1,125 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 152275.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "20049443",
+        "nombres": "FAVIO VICTOR",
+        "apellidoPaterno": "CASTRO",
+        "apellidoMaterno": "AVILA",
+        "sexo": "1",
+        "feNacimiento": "11/02/1971",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110101",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "HUANCAYO",
+        "naciDistrito": "HUANCAYO",
+        "ubigeoDomicilio": "110108",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "HUANCAYO",
+        "domiDistrito": "CHILCA",
+        "domicilioDirecc": "PSJ. ESPERANZA S/N BARRIO ANCALA",
+        "ubigeoPostula": "110108",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "HUANCAYO",
+        "postulaDistrito": "CHILCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/152275.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 18:20:52",
+        "txGuidFormatoHojaVida": "5324139a-24b0-4f46-a6dc-701fd5e1261c",
+        "idSolicitudLista": 25082.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 187400,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "JRC INGENIERÍA Y CONSTRUCCIÓN SAC",
+            "ocupacionProfesion": "AYUDANTE DE MINA",
+            "rucTrabajo": "20508891149",
+            "direccionTrabajo": "AV. GENERAL TRINIDAD MORAN NRO 1340",
+            "anioTrabajoDesde": "2004",
+            "anioTrabajoHasta": "2010",
+            "ubigeoTrabajo": "140111",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "LINCE",
+            "idHojaVida": 152275,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 164987,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 152275,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 156735,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 10800.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 152275,
+                "idEstado": 1,
+                "totalIngresos": 10800.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 135391,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 18,
+            "txMateriaSentencia": "VIOLENCIA FAMILIAR",
+            "txExpedienteObliga": "04385-2019-49-1501-JR-PE-01",
+            "txOrganoJuridicialObliga": "2° JUZG. PENAL UNIPERS. SUBESPEC. VIOL. C. MUJERES E INT. GF",
+            "txFalloObliga": "SENTENCIA CONFORMADA NRO. 0106-2022-2° JPU-HYO/V",
+            "idEstado": 1,
+            "idHojaVida": 152275,
+            "txComentario": null
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 18460,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/f75d35ea-ad74-44b2-9019-5c97ed06f7f1.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/7ca44b8b-305c-4253-86ac-ec13614c90ce.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 136218,
+            "txPgProblema": "BAJA COBERTURA DEL SERVICIO DE SANEAMIENTO (DESAGÜE)",
+            "txPgObjetivo": "INCREMENTAR LA COBERTURA DEL SERVICIO DE SANEAMIENTO A NIVEL DISTRITAL.",
+            "txPgIndicador": "% DE VIVIENDAS SIN ACCESO A SERVICIOS DE SANEAMIENTO (DESAGÜE)",
+            "txPgMeta": "58.5%-20%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136233,
+            "txPgProblema": "VIVIENDAS SIN ACCESO A SERVICIO DOMICILIARIO DE AGUA POTABLE",
+            "txPgObjetivo": "CERRAR LA BRECHA DEL SERVICIO DE AGUA POTABLE A NIVEL DISTRITAL.",
+            "txPgIndicador": "% DE VIVIENDAS SIN ACCESO A SERVICIOS DE AGUA POTABLE",
+            "txPgMeta": "18.4%-0%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136339,
+            "txPgProblema": "ALTO NIVEL DE INCIDENCIA DE POBREZA MONETARIA",
+            "txPgObjetivo": "REDUCIR EL NIVEL DE POBREZA EN EL ÁMBITO DISTRITAL.",
+            "txPgIndicador": "% POBLACIÓN EN SITUACIÓN DE POBREZA",
+            "txPgMeta": "41.3%-20%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 136358,
+            "txPgProblema": "BAJO NIVEL DE PRODUCCIÓN Y PRODUCTIVIDAD AGROPECUARIA EN EL DISTRITO.",
+            "txPgObjetivo": "INCREMENTAR LA PRODUCCIÓN Y PRODUCTIVIDAD AGROPECUARIA EN EL ÁMBITO DISTRITAL.",
+            "txPgIndicador": "% DE SISTEMAS DE RIEGO QUE OPERAN EN CONDICIONES INADECUADAS\n% DE PRODUCTORES CON SERVICIO DE ASISTENCIA TÉCNICA\n% DE SUPERFICIE AGRÍCOLA SIN RIEGO TECNIFICADO.",
+            "txPgMeta": "57%-80%\n12%-100%\n92%-70%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136369,
+            "txPgProblema": "DÉBIL INTEGRACIÓN DE PRODUCTORES LOCALES AL MERCADO REGIONAL Y NACIONAL.",
+            "txPgObjetivo": "PROMOVER Y DESARROLLAR LA FERIA DE PRODUCTORES AGROPECUARIOS.",
+            "txPgIndicador": "Nº DE FERIAS DE PRODUCTORES AL MES.",
+            "txPgMeta": "0-4",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136385,
+            "txPgProblema": "MERCADO DE ABASTOS DEL DISTRITO INOPERATIVO.",
+            "txPgObjetivo": "RESOLVER LA SITUACIÓN DEL MERCADO DE ABASTOS.",
+            "txPgIndicador": "INFRAESTRUCTURA DEL MERCADO DE ABASTOS OPERATIVO.",
+            "txPgMeta": "INOPERATIVO-OPERATIVO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 136405,
+            "txPgProblema": "DEFICIENTE MANEJO Y DISPOSICIÓN FINAL DE LOS RESIDUOS SÓLIDOS DEL DISTRITO.",
+            "txPgObjetivo": "MEJORAR EL SERVICIO DE RECOJO, MANEJO Y DISPOSICIÓN FINAL DE LOS RESIDUOS SÓLIDOS A NIVEL DISTRITAL.",
+            "txPgIndicador": "UN RELLENO SANITARIO OPERATIVO",
+            "txPgMeta": "0-1",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136412,
+            "txPgProblema": "BAJA COBERTURA DEL SERVICIO DE RECOJO DOMICILIARIO DE RESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "AMPLIAR LA COBERTURA DEL SERVICIO DE RECOJO DOMICILIARIO DE RESIDUOS SÓLIDOS.",
+            "txPgIndicador": "% DE VIVIENDAS CON SERVICIO DOMICILIARIO DE RECOJO DE RESIDUOS SÓLIDOS.",
+            "txPgMeta": "20%-60%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136422,
+            "txPgProblema": "DEGRADACIÓN DEL SUELO POR LA DEFORESTACIÓN DE BISQUES NATURALES.",
+            "txPgObjetivo": "REFORESTACIÓN EN TIERRAS COMUNALES CON PINOS Y PLANTAS NATIVAS.",
+            "txPgIndicador": "Nº DE HECTÁREAS REFORESTADAS",
+            "txPgMeta": "0-100",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 136440,
+            "txPgProblema": "DÉBIL IMPLEMENTACIÓN DEL SISTEMA DE PLANEAMIENTO ESTRATÉGICO EN LA GESTIÓN MUNICIPAL.",
+            "txPgObjetivo": "IMPLEMENTAR Y FORTALECER EL SISTEMA DE PLANEAMIENTO ESTRATÉGICO MUNICIPAL.",
+            "txPgIndicador": "Nº DE INSTRUMENTOS DEL SISTEMA DE PLANIFICACIÓN.",
+            "txPgMeta": "2-8",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136459,
+            "txPgProblema": "INFRAESTRUCTURA, EQUIPAMIENTO Y GESTIÓN LOGÍSTICA INSUFICIENTE",
+            "txPgObjetivo": "MEJORAR LA INFRAESTRUCTURA, EQUIPAMIENTO Y GESTIÓN LOGÍSTICA MUNICIPAL.",
+            "txPgIndicador": "INFRAESTRUCTURA Y EQUIPOS, MODERNOS Y SUFICIENTES.",
+            "txPgMeta": "60%-100%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136471,
+            "txPgProblema": "INADECUADA POLÍTICA Y GESTIÓN DE RECURSOS HUMANOS.",
+            "txPgObjetivo": "MEJORAR LA GESTIÓN DE RECURSOS HUMANOS INCORPORANDO EN ENFOQUE DE COMPETENCIAS.",
+            "txPgIndicador": "ESTABLECER EL PERFIL DE COMPETENCIAS PARA CADA PUESTO DEL CAP.",
+            "txPgMeta": "0-01 DOCUMENTO DEL PERFIL DE PUESTOS POR COMPETENCIAS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

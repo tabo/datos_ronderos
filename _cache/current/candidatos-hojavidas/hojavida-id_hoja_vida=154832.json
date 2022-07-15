@@ -1,0 +1,159 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 154832.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "20901616",
+        "nombres": "JAIME ROGER",
+        "apellidoPaterno": "ESPINOZA",
+        "apellidoMaterno": "GUERRA",
+        "sexo": "1",
+        "feNacimiento": "27/06/1969",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110402",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "JUNIN",
+        "naciDistrito": "CARHUAMAYO",
+        "ubigeoDomicilio": "110402",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "JUNIN",
+        "domiDistrito": "CARHUAMAYO",
+        "domicilioDirecc": "JR.OTERO 492",
+        "ubigeoPostula": "110402",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "JUNIN",
+        "postulaDistrito": "CARHUAMAYO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/154832.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 18:38:53",
+        "txGuidFormatoHojaVida": "c51fc269-58e0-4a20-8e7f-8365a3f1b0b5",
+        "idSolicitudLista": 25429.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 211083,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "NO",
+            "eduSecundaria": null,
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 154832,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 163212,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 3,
+            "orgPolRenunciaOp": "TODOS POR EL PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 154832,
+            "idEstado": 1,
+            "txComentario": "PARTIDO POLÍTICO CON INSCRIPCIÓN CANCELADA"
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 191276,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 9600.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 2000.0,
+                "idHojaVida": 154832,
+                "idEstado": 1,
+                "totalIngresos": 11600.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 236344,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "JR. LIBERTAD S/N - CARHUAMAYO",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 30.0,
+                "idHojaVida": 154832,
+                "idEstado": 1,
+                "flValor": "15000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 195468,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "25638A ",
+                "valor": 4000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO BAJAJ",
+                "comentario": null,
+                "idHojaVida": 154832,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 6367,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "EMP. OTERO TOURS",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 30.0,
+                "flValor": 30.0,
+                "idHojaVida": 154832,
+                "idEstado": 1,
+                "txUsuario": "19910355",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

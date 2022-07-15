@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 24387,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2173,
+        "txOrganizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/34a0793c-24c1-4a66-8e2b-d1c6622ec877.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/b643bfd5-1dce-4a75-97ea-063c9ebb43f1.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 136237,
+            "txPgProblema": "LIMITADO ACCESO A LOS SERVICIOS DE SALUD",
+            "txPgObjetivo": "GESTIONAR EL MEJORAMIENTO, AMPLIACIÓN Y EQUIPAMIENTO DE LA INFRAESTRUCTURA DEL CENTRO DE SALUD DE PIRA\n-GESTIONAR LA CREACIÓN DE LOS PUESTOS DE SALUD EN SHINAN, JIRAC, CANTU Y TINCO",
+            "txPgIndicador": "ALTO PORCENTAJE DE DESNUTRICIÓN CRÓNICA",
+            "txPgMeta": "DISMINUIR EL PORCENTAJE DE LA DESNUTRICIÓN CRÓNICA  ESPECIALMENTE EN NIÑOS Y NIÑAS MENORES DE CINCOS AÑOS Y MADRES GESTANTES",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136308,
+            "txPgProblema": "INADECUADAS POLÍTICAS PÚBLICAS PARA ABORDAR LA SALUD PUBLICA",
+            "txPgObjetivo": "PROPICIAR E IMPLEMENTAR LAS VIVIENDAS,FAMILIAS,COMUNIDADES Y MUNICIPIO SALUDABLE",
+            "txPgIndicador": "PORCENTAJE DE DISMINUCIÓN DE DAÑOS Y ENFERMEDADES DE SALUD PUBLICA",
+            "txPgMeta": "PORCENTAJE DE DISMINUCIÓN DE DAÑOS Y ENFERMEDADES DE LA SALUD PUBLICA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136666,
+            "txPgProblema": "BAJA CALIDAD EDUCATIVA",
+            "txPgObjetivo": "INSTALAR E IMPLEMENTAR LA INFRAESTRUCTURA DE TELECOMUNICACIONES EN LAS INSTITUCIONES EDUCATIVAS",
+            "txPgIndicador": "INSTITUCIONES EDUCATIVAS SIN ACCESO A LOS SERVICOS DE TELECOMUNICACIONES",
+            "txPgMeta": "INSTITUCIONES PUBLICAS CON SERVICOS DE TELECOMUNICACIONES",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 136332,
+            "txPgProblema": "ECONOMÍA LOCAL BASADA\nEN ACTIVIDADES DE COMERCIO INFORMAL.",
+            "txPgObjetivo": "PROPICIAR LA CONFORMACIÓN DE LAS PYMES Y MYPES",
+            "txPgIndicador": "ORGANIZACIONES SOCIALES DE BASE",
+            "txPgMeta": "EN LAS LOCALIDADES DEL DISTRITO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136344,
+            "txPgProblema": "BAJOS NIVELES DE PRODUCCIÓN, TECNOLOGÍA E INFRAESTRUCTURA AGRÍCOLA.",
+            "txPgObjetivo": "INSTALAR E IMPLEMENTAR EL SISTEMA DE RIEGO TECNIFICADO",
+            "txPgIndicador": "USOS INADECUADO DEL RECURSO HIDRICO",
+            "txPgMeta": "EN EL 100% DE LAS PARCELAS AGROPECUARIAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136383,
+            "txPgProblema": "ESCASA INFRAESTRUCTURA TURÍSTICA Y DE ESPARCIMIENTO FAMILIAR.",
+            "txPgObjetivo": "INSTALAR E IMPLEMENTAR LOS CIRCUITOS TURISTICOS E INSTALAR IMPLEMENTAR EL MUSEO MUNICIPAL",
+            "txPgIndicador": "DESAPROVECHAMIENTO DE LOS RECURSOS TURISTICOS",
+            "txPgMeta": "INVENTARIO DISTRITAL DE RECURSOS TURISTICOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 136418,
+            "txPgProblema": "INADECUADA DISPOSICIÓN DE LOS RESIDUOS SÓLIDOS MUNICIPALES",
+            "txPgObjetivo": "INCREMENTAR LA DISPOSICIÓN ADECUADA DE LOS RESIDUOS SÓLIDOS MUNICIPALES\nCONSTITUIR LA COMISIÓN AMBIENTAL MUNICIPAL (CAM) PARA LIDERAR GOBERNANZA AMBIENTAL CON ENFOQUE TERRITORIAL EN COORDINACIÓN INTERINSTITUCIONAL ENTRE LOS ENTES PÚBLICOS, PRIVADOS",
+            "txPgIndicador": "% DE RESIDUOS SÓLIDOS MUNICIPALES GENERADOS, SE DISPONEN EN UNA INFRAESTRUCTURA ADECUADA DE DISPOSICIÓN FINAL",
+            "txPgMeta": "% DE RESIDUOS SÓLIDOS MUNICIPALES GENERADOS, SE DISPONEN ESPACIOS ADECUADOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136481,
+            "txPgProblema": "DÉBIL GOBERNANZA AMBIENTAL",
+            "txPgObjetivo": "ACTUALIZAR E IMPLEMENTAR INSTRUMENTOS DE GESTIÓN EN MATERIA AMBIENTAL",
+            "txPgIndicador": "INADECUADAS ACCIONES DE TRATAMIENTO DE RESIDUOS SÓLIDOS",
+            "txPgMeta": "ORGANIZACIONES SOCIALES FORTALECIDAS Y SENCIBILIZADAS EN MATERIA AMBIENTAL",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136622,
+            "txPgProblema": "DESCONOCIMIENTO DE LA IMPORTANCIA DE LOS RESIDUOS SOLIDOS",
+            "txPgObjetivo": "FORTALECER LAS CAPACIDADES EN MATERIA AMBIENTAL EN COORDINACIÓN CON LA OEFA,MINAM Y OTROS",
+            "txPgIndicador": "POR CENTAJE DE RESIDUOS SOLIDOS NO TRATADOS",
+            "txPgMeta": "POR CENTAJE DE TRATAMIENTO ADECUADO DE RESIDUOS SOLIDOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 136500,
+            "txPgProblema": "SISTEMAS OBSOLETOS PARA UNA GESTIÓN EFICIENTE DE LA MUNICIPALIDAD.",
+            "txPgObjetivo": "REESTRUCTURACIÓN DEL ORGANIGRAMA MUNICIPAL Y ACTUALIZACIÓN DE LOS INSTRUMENTOS DE GESTIÓN",
+            "txPgIndicador": "INSTRUMEENTOS DE GESTIÓN OBSOLETOS",
+            "txPgMeta": "INSTRUMENTOS DE GESTIÓN ACTUALIZADOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136535,
+            "txPgProblema": "DESCONOCIMIENTO DE LOS GASTOS PUBLICOS DE PARTE DE LA POBLACIÓN",
+            "txPgObjetivo": "DESARROLLAR AUDIENCIAS PÚBLICAS Y SESIONES DE CONSEJOS DESCENTRALIZADAS",
+            "txPgIndicador": "INADECUADA ADMINISTRACIÓN DE RESURSOS PUBLICOS",
+            "txPgMeta": "DESICIONES Y DEMANDAS CON CONOCIMIENTO DE CAUSA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 136573,
+            "txPgProblema": "TRABAJOS INSTITUCIONALES  INDIVIDUALIZADOS EN EL DESARROLLO Y PROGRESO DEL DISTRITO",
+            "txPgObjetivo": "INSTALAR E IMPLEMENTAR LA MESA MULTISECTORIAL DE DESARROLLO Y PROGRESO DEL DISTRITO",
+            "txPgIndicador": "DUPLICIDAD DE ENERGIAS Y RECURSOS EN PROBLEMAS COMUNES",
+            "txPgMeta": "TRABAJOS CON ENFOQUE TERRITORIAL Y DE ARTICULACIÓN",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

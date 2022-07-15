@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20893,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2711,
+        "txOrganizacionPolitica": "ORGANIZACION POLITICA UNIDAD REGIONAL",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1728,
+        "juradoElectoral": "SULLANA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/20a665b3-5b84-4f49-9da7-1348e53b52e3.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/927c416e-591d-4524-bfd5-ff807b87d14a.pdf",
+        "txCodExpedienteExt": "ERM.2022010202",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 210266,
+            "txPgProblema": "ELEVADOS NIVELES DE POBREZA.",
+            "txPgObjetivo": "DISMINUIR LOS NIVELES DE POBREZA EN EL DISTRITO DE MARCAVELICA.",
+            "txPgIndicador": "25% DE POBREZA",
+            "txPgMeta": "23% \t21% \t19% \t17%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210344,
+            "txPgProblema": "CONSIDERABLES NIVELES DE DESNUTRICIÓN CRÓNICA INFANTIL",
+            "txPgObjetivo": "DISMINUIR LOS NIVELES DE DESNUTRICIÓN CRÓNICA INFANTIL EN EL DISTRITO DE MARCAVELICA.",
+            "txPgIndicador": "13% DE DESNUTRICIÓN CRÓNICA INFANTIL.",
+            "txPgMeta": "11% \t09% \t07% \t05%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210358,
+            "txPgProblema": "ELEVADOS NIVELES DE ANEMIA.",
+            "txPgObjetivo": "DISMINUIR LOS NIVELES DE ANEMIA EN EL DISTRITO DE MARCAVELICA.",
+            "txPgIndicador": "25 % DE ANEMIA",
+            "txPgMeta": "23% \t21% \t19% \t17%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 210370,
+            "txPgProblema": "POCO APOYO AL SECTOR AGRICULTURA EN EL DISTRITO.",
+            "txPgObjetivo": "INCENTIVAR EL APOYO A LOS AGRICULTORES DEL DISTRITO.",
+            "txPgIndicador": "PERCEPCIÓN DEL 30% DE APOYO AL SECTOR AGRICULTURA.",
+            "txPgMeta": "35% \t37% \t39% \t41%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210386,
+            "txPgProblema": "POCO APOYO AL SECTOR AGROINDUSTRIA EN EL DISTRITO DE MARCAVELICA.",
+            "txPgObjetivo": "BRINDAR APOYO A LAS ASOCIACIONES Y COOPERATIVAS DE PRODUCTORES.",
+            "txPgIndicador": "PERCEPCIÓN DEL 20% DE APOYO AL SECTOR AGROINDUSTRIA.",
+            "txPgMeta": "23% \t26% \t29% \t32%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210398,
+            "txPgProblema": "POCA PRIORIZACIÓN EN EL SECTOR TURISMO COMO UNA ACTIVIDAD ECONÓMICA",
+            "txPgObjetivo": "PROMOVER LOS ATRACTIVOS TURÍSTICOS DEL DISTRITO.",
+            "txPgIndicador": "PERCEPCIÓN DEL 20% DE APOYO AL TURISMO.",
+            "txPgMeta": "30% \t40% \t50% \t60%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 210417,
+            "txPgProblema": "INSUFICIENTE COBERTURA DEL SERVICIO DE RECOJO DE RESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "MEJORAR EL SERVICIO DE RECOJO DE RESIDUOS SÓLIDOS.",
+            "txPgIndicador": "40% DE LA POBLACIÓN TIENE ACCESO A LA RECOLECCIÓN DE RESIDUOS SÓLIDOS.",
+            "txPgMeta": "50% \t60% \t70% \t80%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210431,
+            "txPgProblema": "PREVALENCIA EN LOS NIVELES DE CONTAMINACIÓN DEL MEDIO AMBIENTE.",
+            "txPgObjetivo": "GARANTIZAR LA CONSERVACIÓN DEL MEDIO AMBIENTE.",
+            "txPgIndicador": "20% DE PERCEPCIÓN DE CONTAMINACIÓN AMBIENTAL.",
+            "txPgMeta": "18% \t16% \t14% \t12%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210448,
+            "txPgProblema": "ALTA VULNERABILIDAD EN EL TERRITORIO DISTRITAL FRENTE A DESASTRES NATURALES.",
+            "txPgObjetivo": "GENERAR LAS CONDICIONES QUE MINIMICEN EL RIESGO DE DESASTRES EN EL DISTRITO DE MARCAVELICA.",
+            "txPgIndicador": "26 KM DE TROCHAS CARROZABLES EN MAL ESTADO",
+            "txPgMeta": "23 KM \t20KM \t17KM \t14KM",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 210463,
+            "txPgProblema": "PREVALENCIA EN LA INCAPACIDAD DE GASTO DE INVERSIÓN.",
+            "txPgObjetivo": "EJECUTAR AL 100% EL PRESUPUESTO DE INVERSIÓN DE MANERA ANUAL.",
+            "txPgIndicador": "78% DE EJECUCIÓN PRESUPUESTAL A DICIEMBRE DEL 2021.",
+            "txPgMeta": "83% \t88% \t93% \t98%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210480,
+            "txPgProblema": "LIMITADA COORDINACIÓN DE LAS AUTORIDADES CON LA CIUDADANÍA.",
+            "txPgObjetivo": "INCENTIVAR LA PARTICIPACIÓN Y CONCERTACIÓN CIUDADANA EN EL DISTRITO DE MARCAVELICA.",
+            "txPgIndicador": "9 JUNTAS VECINALES COMUNALES JUVECOS A NIVEL DISTRITAL",
+            "txPgMeta": "11 \t12 \t12 \t12",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 210495,
+            "txPgProblema": "LA MAYORÍA DE CENTROS POBLADOS NO CUENTA CON SANEAMIENTO FÍSICO LEGAL.",
+            "txPgObjetivo": "SANEAR FÍSICA Y LEGALMENTE A LOS SECTORES QUE FALTAN DENTRO DEL DISTRITO DE MARCAVELICA.",
+            "txPgIndicador": "UNA PERCEPCIÓN DEL 60% DE SECTORES QUE NO CUENTAN CON SANEAMIENTO FÍSICO Y LEGAL.",
+            "txPgMeta": "55% \t50% \t45% \t40%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

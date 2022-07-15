@@ -1,0 +1,157 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 217886.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "22651407",
+        "nombres": "ISIDORO",
+        "apellidoPaterno": "RUFINO",
+        "apellidoMaterno": "NASTARES",
+        "sexo": "1",
+        "feNacimiento": "02/01/1963",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "090205",
+        "naciDepartamento": "HUANUCO",
+        "naciProvincia": "AMBO",
+        "naciDistrito": "HUACAR",
+        "ubigeoDomicilio": "090205",
+        "domiDepartamento": "HUANUCO",
+        "domiProvincia": "AMBO",
+        "domiDistrito": "HUACAR",
+        "domicilioDirecc": "CENTRO POBLADO DE ACOBAMBA",
+        "ubigeoPostula": "090205",
+        "postulaDepartamento": "HUANUCO",
+        "postulaProvincia": "AMBO",
+        "postulaDistrito": "HUACAR",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/217886.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2712.0,
+        "organizacionPolitica": "TODOS POR EL GRAN CAMBIO",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 06:06:01",
+        "txGuidFormatoHojaVida": "8c5e0d35-0071-4516-ad09-7deab57005d8",
+        "idSolicitudLista": 33759.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 193062,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CHACRA",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CENTRO POBLADO ACOBAMBA",
+            "anioTrabajoDesde": "2000",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "090205",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "HUANUCO",
+            "trabajoProvincia": "AMBO",
+            "trabajoDistrito": "HUACAR",
+            "idHojaVida": 217886,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 170091,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "NO",
+            "eduSecundaria": null,
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 217886,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 148718,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 17,
+            "orgPolRenunciaOp": "RENOVACION NACIONAL",
+            "anioRenunciaOp": "2012",
+            "idHojaVida": 217886,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 148717,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2020",
+            "idHojaVida": 217886,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 160438,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 6000.0,
+                "idHojaVida": 217886,
+                "idEstado": 1,
+                "totalIngresos": 6000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 202321,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CENTRO POBLADO ACOBAMBA - HUACAR",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 217886,
+                "idEstado": 1,
+                "flValor": "15000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

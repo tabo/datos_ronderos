@@ -1,0 +1,164 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 164203.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "76065850",
+        "nombres": "ANGEL LUIS",
+        "apellidoPaterno": "MONDRAGON",
+        "apellidoMaterno": "HUAMAN",
+        "sexo": "1",
+        "feNacimiento": "11/10/1996",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "210201",
+        "naciDepartamento": "SAN MARTIN",
+        "naciProvincia": "HUALLAGA",
+        "naciDistrito": "SAPOSOA",
+        "ubigeoDomicilio": "210201",
+        "domiDepartamento": "SAN MARTIN",
+        "domiProvincia": "HUALLAGA",
+        "domiDistrito": "SAPOSOA",
+        "domicilioDirecc": "CASERIO AGUA AZUL",
+        "ubigeoPostula": "210200",
+        "postulaDepartamento": "SAN MARTIN",
+        "postulaProvincia": "HUALLAGA",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/164203.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 05:00:15",
+        "txGuidFormatoHojaVida": "06f7d5d5-fc7e-4338-b265-eccc1da6dcc3",
+        "idSolicitudLista": 26721.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 163032,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "HORFRIFRUT - TAL  S.A.C",
+            "ocupacionProfesion": "EVALUADOR TECNICO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "TRUJILLO",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "2020",
+            "ubigeoTrabajo": "120101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LA LIBERTAD",
+            "trabajoProvincia": "TRUJILLO",
+            "trabajoDistrito": "TRUJILLO",
+            "idHojaVida": 164203,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 142596,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 164203,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 136017,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "SUPERIOR TECNOLÓGICO - DE HUALLAGA",
+                "carreraTecnico": "PROFESIONAL TÉCNICO EN PRODUCCIÓN AGROPECUARIA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 164203,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 135863,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "INSTITUTO DE EDUCACION SUPERIOR TECNOLOGICO PUBLICO DE HUALLAGA",
+                "carreraNoUni": "TITULO EN TECNICO AGROPECUARIO",
+                "concluidoNoUni": "1",
+                "idHojaVida": 164203,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 138070,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2688,
+            "orgPolRenunciaOp": "MAS SAN MARTIN",
+            "anioRenunciaOp": "2020",
+            "idHojaVida": 164203,
+            "idEstado": 1,
+            "txComentario": "RENUNCIO VOLUNTARIO"
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 151837,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 7440.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 164203,
+                "idEstado": 1,
+                "totalIngresos": 7440.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 153063,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "20220S ",
+                "valor": 2500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "YAMAHA BLANCO",
+                "comentario": null,
+                "idHojaVida": 164203,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

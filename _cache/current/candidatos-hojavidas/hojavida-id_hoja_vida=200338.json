@@ -1,0 +1,167 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 200338.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42082619",
+        "nombres": "FREDY",
+        "apellidoPaterno": "VILCA",
+        "apellidoMaterno": "LAGOS",
+        "sexo": "1",
+        "feNacimiento": "05/11/1983",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050401",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "LA MAR",
+        "naciDistrito": "SAN MIGUEL",
+        "ubigeoDomicilio": "050414",
+        "domiDepartamento": "AYACUCHO",
+        "domiProvincia": "LA MAR",
+        "domiDistrito": "NINABAMBA",
+        "domicilioDirecc": "AV. LA MAR S/N",
+        "ubigeoPostula": "050414",
+        "postulaDepartamento": "AYACUCHO",
+        "postulaProvincia": "LA MAR",
+        "postulaDistrito": "NINABAMBA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/200338.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "17/06/2022 17:10:40",
+        "txGuidFormatoHojaVida": "22fa4253-ea5c-40f7-af43-078ffa407f30",
+        "idSolicitudLista": 31547.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 243171,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "J.J.C. CONTRUCTORA",
+            "ocupacionProfesion": "OPERADOR DR MAQUINARIA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SAN MIGUEL AYNA",
+            "anioTrabajoDesde": "2014",
+            "anioTrabajoHasta": "2016",
+            "ubigeoTrabajo": "050401",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AYACUCHO",
+            "trabajoProvincia": "LA MAR",
+            "trabajoDistrito": "SAN MIGUEL",
+            "idHojaVida": 200338,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 214946,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 200338,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 164442,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 8,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2007",
+            "idHojaVida": 200338,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 164441,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 5,
+            "orgPolRenunciaOp": "RENACIMIENTO UNIDO NACIONAL",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 200338,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 194291,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 1000.0,
+                "idHojaVida": 200338,
+                "idEstado": 1,
+                "totalIngresos": 1000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 197703,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "D7Z805 ",
+                "valor": 12000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "DE SEGUNDA MANO",
+                "comentario": null,
+                "idHojaVida": 200338,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 197702,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "Y23709 ",
+                "valor": 20000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "EN BUENAS CONDICIONES",
+                "comentario": null,
+                "idHojaVida": 200338,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

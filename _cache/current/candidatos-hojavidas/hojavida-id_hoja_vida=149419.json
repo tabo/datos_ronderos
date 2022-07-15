@@ -1,0 +1,134 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 149419.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43282459",
+        "nombres": "FELICIANO",
+        "apellidoPaterno": "ZELADA",
+        "apellidoMaterno": "QUIROZ",
+        "sexo": "1",
+        "feNacimiento": "23/10/1977",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "060110",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "CAJAMARCA",
+        "naciDistrito": "MATARA",
+        "ubigeoDomicilio": "060308",
+        "domiDepartamento": "CAJAMARCA",
+        "domiProvincia": "CELENDIN",
+        "domiDistrito": "OXAMARCA",
+        "domicilioDirecc": "CASERIO YERBABUENA",
+        "ubigeoPostula": "060308",
+        "postulaDepartamento": "CAJAMARCA",
+        "postulaProvincia": "CELENDIN",
+        "postulaDistrito": "OXAMARCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/149419.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 160.0,
+        "organizacionPolitica": "FRENTE REGIONAL DE CAJAMARCA",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 15:40:42",
+        "txGuidFormatoHojaVida": "e7c00f5f-ced2-40d4-ac01-16dc69237fc6",
+        "idSolicitudLista": 24698.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 184362,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AGRICULTURA",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASERIO YERBA BUENA DISTRITO OXAMARCA",
+            "anioTrabajoDesde": "2000",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "060308",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CAJAMARCA",
+            "trabajoProvincia": "CELENDIN",
+            "trabajoDistrito": "OXAMARCA",
+            "idHojaVida": 149419,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 162348,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "NO",
+            "eduSecundaria": null,
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 149419,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 154562,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 5000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 149419,
+                "idEstado": 1,
+                "totalIngresos": 5000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 195281,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA CON TERRENO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CASERIO YERBA BUENA - DISTRTIO OXAMARCA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 149419,
+                "idEstado": 1,
+                "flValor": "15000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

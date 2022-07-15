@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 16587,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2731,
+        "txOrganizacionPolitica": "PODEMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/52d3141b-a574-4515-af60-415727212745.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/cc061007-129d-4ea6-b252-5413bed61132.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 203664,
+            "txPgProblema": "DEFICIENTE SERVICIOS EDUCATIVOS",
+            "txPgObjetivo": "CALIDAD EDUCATIVA",
+            "txPgIndicador": "% MAYOR DE ALUMNOS CON RESULTADOS OPTIMOS",
+            "txPgMeta": "RESULTADOS OPTIMOS Y SATISFACTORIOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 203765,
+            "txPgProblema": "DEFICIENTE ATENCION EN SALUD",
+            "txPgObjetivo": "CALIDAD DE SALUD",
+            "txPgIndicador": "MAYOR % DE COBERTURA POBLACIONAL",
+            "txPgMeta": "SATISFACCION DE LA POBLACION",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 203933,
+            "txPgProblema": "PESIMO SERVICIOS BASICOS DE SANEAMIENTOS",
+            "txPgObjetivo": "CALIDAD DE DE SERVICIOS BASICOS DE SANEAMIENTO",
+            "txPgIndicador": "MAYOR % DE COBERTURA DE SERVICIOS BASICOS",
+            "txPgMeta": "USUARIOS CON CONSUMO DE AGUA  PERMANENTE.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 204368,
+            "txPgProblema": "FALTA DE PROYECTOS PRODUCTIVOS.",
+            "txPgObjetivo": "PRODUCCION Y PRODUCTIVIDAD",
+            "txPgIndicador": "MAYOR % DE POBLADORES CON PROYECTOS PRODUCTIVOS",
+            "txPgMeta": "ALTA PRODUCTIVIDAD",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 204416,
+            "txPgProblema": "FALTA COCHECHA DE AGUA PARA RIEGO",
+            "txPgObjetivo": "PRODUCCION Y PRODUCTIVIDAD",
+            "txPgIndicador": "METROS CUBICOS DE ALMACENAJE DE AGUA PARA RIEGO",
+            "txPgMeta": "ALTA PRODUCCION",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 204901,
+            "txPgProblema": "FALTA DE APOYO A LA ARTESANIA Y TURISMO",
+            "txPgObjetivo": "DESARROLLO ADECUADO DE ARTESANIA Y TURISMO",
+            "txPgIndicador": "NUMERO DE ARTESANOS  Y EMPRENDEROS DE TURISMO",
+            "txPgMeta": "POBLACION CON DESARROLLO  TURISTICO Y ARTESANAL",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 205067,
+            "txPgProblema": "BAJA COBERTURA  DE  VEGETACION",
+            "txPgObjetivo": "CALIDAD DEL MEDIO AMBIENTE",
+            "txPgIndicador": "%  MAYOR COBERTURA DE FORESTACION",
+            "txPgMeta": "VEGETACION ADECUADA",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 205123,
+            "txPgProblema": "BAJA PROTECCION DEL MEDIO AMBIENTE",
+            "txPgObjetivo": "CALIDAD DEL MEDIO AMBIENTE",
+            "txPgIndicador": "30 % DE MEJORA DE PROTECCION DEL MEDIO  AMBIENTE",
+            "txPgMeta": "PROTECCION ADECUADA DEL MEDIO AMBIENTE",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 205212,
+            "txPgProblema": "DEFICIENTE DISPOSICION DE RESIDUOS SOLIDOS",
+            "txPgObjetivo": "ADECUADA DISPOSICION FINAL DE RESIDUOS SOLIDOS",
+            "txPgIndicador": "MEJORA EN 40% EL TRATAMIENTO DE RESIDUOS SOLIDOS",
+            "txPgMeta": "MEDIO AMBIENTE LIBRE DE CONTAMINACION",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 205386,
+            "txPgProblema": "TRAMITES ADMINISTRATIVOS BUROCRATICOAS INTERNOS Y EXTERNOS",
+            "txPgObjetivo": "SIMPLIFICACION ADMINISTRATIVA",
+            "txPgIndicador": "NUMERO DE TRAMITES ATENDIDOS",
+            "txPgMeta": "ATENCION OPORTUNA DE DOCUMENTOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 205467,
+            "txPgProblema": "DEFICIENTE ATENCION DE LA DEMUNA",
+            "txPgObjetivo": "SERVICIO DE ATENCION DE CALIDAD",
+            "txPgIndicador": "NUMERO DE ATENCIONES",
+            "txPgMeta": "ATENCIONES Y CONCILIACIONES ADECUADAS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 205517,
+            "txPgProblema": "DESACTUALIZACION DE INSTRUMENTOS DE GESTION MUNICIPAL",
+            "txPgObjetivo": "IMPLEMENTAR LA REESTRUCTURACION  DE LOS INSTRUMENTOS DE GESTION",
+            "txPgIndicador": "NUMERO DE INSTRUMENTOS DE GESTION ACTUALIZADOS.",
+            "txPgMeta": "IMPLEMENTACION DEL 100% DE LOS INSTRUMENTOS DE GESTION Y SU OPERATIVIDAD",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

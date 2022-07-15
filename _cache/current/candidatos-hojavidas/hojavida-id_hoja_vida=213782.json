@@ -1,0 +1,158 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 213782.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "46691355",
+        "nombres": "CLAUDIA CATHERINE",
+        "apellidoPaterno": "REYES",
+        "apellidoMaterno": "PACHECO",
+        "sexo": "2",
+        "feNacimiento": "01/12/1989",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "190601",
+        "naciDepartamento": "PIURA",
+        "naciProvincia": "SULLANA",
+        "naciDistrito": "SULLANA",
+        "ubigeoDomicilio": "190602",
+        "domiDepartamento": "PIURA",
+        "domiProvincia": "SULLANA",
+        "domiDistrito": "BELLAVISTA",
+        "domicilioDirecc": "CALLE JOBINO ARAMBULO 444 ASENT.H.TUPAC AMARU",
+        "ubigeoPostula": "190602",
+        "postulaDepartamento": "PIURA",
+        "postulaProvincia": "SULLANA",
+        "postulaDistrito": "BELLAVISTA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/213782.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2711.0,
+        "organizacionPolitica": "ORGANIZACION POLITICA UNIDAD REGIONAL",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "08/06/2022 21:11:13",
+        "txGuidFormatoHojaVida": "1c80e781-8a8b-4b16-99c5-11dcc1ff8913",
+        "idSolicitudLista": 33258.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 164488,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "ACCESORIOS ROMINA",
+            "ocupacionProfesion": "CAJERA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SECTOR COMIDAS PUESTO 4",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "190602",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PIURA",
+            "trabajoProvincia": "SULLANA",
+            "trabajoDistrito": "BELLAVISTA",
+            "idHojaVida": 213782,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 143729,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 213782,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 136357,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "INSTITUTO OTTO TONSMANN",
+                "carreraTecnico": "TECNICA EN FISIOTERAPIA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 213782,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 146316,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD NACIONAL DE PIURA",
+                "carreraUni": "ESTUDIANTE DE EDUCACION INICIAL",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "VI CICLO"
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 141172,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 14400.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 213782,
+                "idEstado": 1,
+                "totalIngresos": 14400.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 153931,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "38298D ",
+                "valor": 7000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL MARCA YAMAHA",
+                "comentario": null,
+                "idHojaVida": 213782,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

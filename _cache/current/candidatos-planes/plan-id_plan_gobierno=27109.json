@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 27109,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2702,
+        "txOrganizacionPolitica": "MOVIMIENTO DE INTEGRACION Y REVOLUCION ANDINA",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1725,
+        "juradoElectoral": "SAN ROMAN",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/e6aadea0-355c-4aa9-bf9d-51369f6355d6.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/a976e6e6-b174-4664-bbb2-586297a0366b.pdf",
+        "txCodExpedienteExt": "ERM.2022015863",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 233605,
+            "txPgProblema": "POBRE NO EXTREMO",
+            "txPgObjetivo": "REDUCIR LAS INEQUIDADES DE POBREZA Y EXTREMA POBREZA",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN EN SITUACIÓN DE POBREZA Y EXTREMA POBREZA",
+            "txPgMeta": "DISMINUIR: 12% Y 6%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 233609,
+            "txPgProblema": "PERCEPCIÓN NEGATIVA DE LA ADMINISTRACIÓN DE JUSTICIA",
+            "txPgObjetivo": "PROPICIAR UNA JUSTICIA TRANSPARENTE, CONFIABLE Y JUSTA",
+            "txPgIndicador": "OPINIÓN FAVORABLE SOBRE LA ADMINISTRACIÓN DE LA JUSTICIA",
+            "txPgMeta": "OPINIÓN FAVORABLES: 60%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 233615,
+            "txPgProblema": "INSEGURIDAD ALIMENTARIA EN MADRES GESTANTES E INFANTES.",
+            "txPgObjetivo": "FORMULAR E IMPLEMENTAR EL PLAN ESTRATÉGICO DE GESTIÓN DE LA SALUD PRIMARIA Y PREVENTIVA.",
+            "txPgIndicador": "TASA DE DESNUTRICIÓN CRÓNICA INFANTIL",
+            "txPgMeta": "DISMINUIR AL 5 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 233619,
+            "txPgProblema": "AUSENCIA DE POLÍTICAS PÚBLICAS QUE FAVOREZCAN EL CRECIMIENTO ECONÓMICO.",
+            "txPgObjetivo": "GESTIONAR INVERSIONES PÚBLICAS Y PRIVADAS DE CRECIMIENTO ECONÓMICO",
+            "txPgIndicador": "TASA DE INVERSIÓN\n(PRECIOS SOLES)",
+            "txPgMeta": "24%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 233621,
+            "txPgProblema": "SECTORES PRODUCTIVOS NO COMPETITIVOS CON BAJA PRODUCTIVIDAD Y SIN VALOR AGREGADO.",
+            "txPgObjetivo": "INSTALACIÓN DE LOS SERVICIOS DE APOYO AL DESARROLLO DE CADENAS PRODUCTIVAS.",
+            "txPgIndicador": "PRODUCTIVIDAD\nPROMEDIO",
+            "txPgMeta": "20%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 233623,
+            "txPgProblema": "INCIPIENTE INNOVACIÓN Y DESARROLLO TECNOLÓGICO.",
+            "txPgObjetivo": "POTENCIALIZAR EL EQUIPAMIENTO TECNOLÓGICO CON VISIÓN EMPRESARIAL.",
+            "txPgIndicador": "PROPORCIÓN DE\nIMPLEMENTACIÓN TECNOLÓGICA * AÑO",
+            "txPgMeta": "35%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 233625,
+            "txPgProblema": "MANEJO INADECUADO DEL AGUA Y LAS CUENCAS.",
+            "txPgObjetivo": "GENERAR PROYECTOS INTEGRADOS DE USO EFICIENTE DEL AGUA Y LAS CUENCAS",
+            "txPgIndicador": "PORCENTAJE DE AGUAS\nRESIDUALES URBANAS Y RURALES TRATADAS",
+            "txPgMeta": "LLEGAR 70%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 233627,
+            "txPgProblema": "LA POBLACIÓN Y LOS SISTEMAS PRODUCTIVOS CONTINÚA EXPUESTOS A LOS RIESGOS DEL CAMBIO CLIMÁTICO.",
+            "txPgObjetivo": "SOSTENER POLÍTICA PREVENTIVA A LA POBLACIÓN Y SISTEMAS PRODUCTIVOS\nVULNERABLES ADAPTADOS AL CAMBIO CLIMÁTICO",
+            "txPgIndicador": "NÚMERO DE PERSONAS\nAFECTADAS A CAUSA DE FENÓMENOS NATURALES ASOCIADOS AL CAMBIO CLIMÁTICO",
+            "txPgMeta": "REDUCIR  70%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 233632,
+            "txPgProblema": "ESCAZA PARTICIPACIÓN CIUDADANA EN EL SISTEMA DE GESTIÓN AMBIENTAL",
+            "txPgObjetivo": "IMPLEMENTAR EL SISTEMA DE GESTIÓN AMBIENTAL",
+            "txPgIndicador": "PORCENTAJE DE\nMUNICIPALIDADES QUE CUENTAN CON SISTEMA LOCAL DE GESTIÓN AMBIENTAL (SLGA)",
+            "txPgMeta": "100%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 233635,
+            "txPgProblema": "PERCEPCIÓN NEGATIVA DE LA ADMINISTRACIÓN DE MUNICIPAL",
+            "txPgObjetivo": "IMPLEMENTAR GOBIERNO ELECTRÓNICO",
+            "txPgIndicador": "ACEPTABLE\nPERCEPCIÓN DE LA POBLACIÓN",
+            "txPgMeta": "PERCEPCIÓN POSITIVA: 70%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 233638,
+            "txPgProblema": "BAJO EJECUCIÓN PRESUPUESTAL DE PROYECTOS DE INVERSIÓN PUBLICA",
+            "txPgObjetivo": "IMPLEMENTAR DIRECTIVAS DE EJECUCIÓN PRESUPUESTA DE OBRAS POR ADMINISTRACIÓN DIRECTA E INDIRECTA",
+            "txPgIndicador": "NUMERO DE POLÍTICAS PUBLICAS",
+            "txPgMeta": "8%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 233639,
+            "txPgProblema": "OCUPACIÓN TERRITORIAL DESEQUILIBRADA.",
+            "txPgObjetivo": "ELABORACIÓN Y APROBACIÓN DEL PLAN DE ACONDICIONAMIENTO Y ORDENAMIENTO\nDEL TERRITORIAL.",
+            "txPgIndicador": "PLAN EN EJECUCIÓN",
+            "txPgMeta": "100%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

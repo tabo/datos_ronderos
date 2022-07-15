@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 22099,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1661,
+        "juradoElectoral": "CAÑETE",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/ead8ee13-77b0-4c3d-88dd-9be800332241.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/f90733a3-04c9-4bb7-b90d-c33ec4528ecd.pdf",
+        "txCodExpedienteExt": "ERM.2022008634",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 197002,
+            "txPgProblema": "SEGURIDAD CIUDADANA: EXISTE EN EL DISTRITO DE SAN LUIS UNA MALA DISTRIBUCIÓN DEL SERVICIO DE SERENAZGO, FALTA DE ORGANIZACIÓN VECINAL.",
+            "txPgObjetivo": "MEJORAR EL SITEMA DE SEGURIDAD CIUDADANA.",
+            "txPgIndicador": "% DE SEGURIDAD CIUDADANA",
+            "txPgMeta": "INCREMENTAR LOS NIVELES DE SEGURIDAD CIUDADANA EN 85%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 197036,
+            "txPgProblema": "FALTA DE UN PLANEAMIENTO AGRÍCOLA EN EL DISTRITO",
+            "txPgObjetivo": "PROMOVER LA AGRICULTURA, MEDIANTE LA CREACION DE ORGANIZACIONES FORMALMENTE  CONSTITUIDAS",
+            "txPgIndicador": "NUMERO DE ORGANIZACIONES FORMALIZADAS",
+            "txPgMeta": "FORMALIZAR 02 ORGANIZACIONES AGRÍCOLAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 197114,
+            "txPgProblema": "LOS CENTROS POBLADOS, NO CUENTAN CON SANEAMIENTO BÁSICO.",
+            "txPgObjetivo": "SANEAMIENTO BÁSICO Y AGUA POTABLE PARA LOS ANEXOS",
+            "txPgIndicador": "EN % PARA SU CUMPLIMIENTO",
+            "txPgMeta": "80% DE SANEAMIENTO BASICO Y 85% EN AGUA POTABLE",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 197164,
+            "txPgProblema": "INADECUADA PRESTACIÓN DE LOS SERVICIOS PÚBLICOS AL CIUDADANO DE NUESTRO DISTRITO DE SAN LUIS.",
+            "txPgObjetivo": "ADECUADA PRESTACIÓN DE LOS SERVICIOS PÚBLICOS",
+            "txPgIndicador": "% DE SERVIDORES PÚBLICOS ADECUADAMENTE CAPACITADO EN GESTIÓN PÚBLICA",
+            "txPgMeta": "OPTIMIZACIÓN DE LOS SERVICIOS PÚBLICOS EN UN 100%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

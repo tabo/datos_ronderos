@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 193459.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "28588039",
+        "nombres": "EFRAIN",
+        "apellidoPaterno": "LANDEO",
+        "apellidoMaterno": "MIESES",
+        "sexo": "1",
+        "feNacimiento": "18/06/1974",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050305",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "HUANTA",
+        "naciDistrito": "LURICOCHA",
+        "ubigeoDomicilio": "050305",
+        "domiDepartamento": "AYACUCHO",
+        "domiProvincia": "HUANTA",
+        "domiDistrito": "LURICOCHA",
+        "domicilioDirecc": "PAGO CCOLLANA",
+        "ubigeoPostula": "050305",
+        "postulaDepartamento": "AYACUCHO",
+        "postulaProvincia": "HUANTA",
+        "postulaDistrito": "LURICOCHA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/193459.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2710.0,
+        "organizacionPolitica": "ALIANZA POR NUESTRO DESARROLLO",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 10:48:17",
+        "txGuidFormatoHojaVida": "4cdf9b46-fbf0-4463-8d10-027a7d1bfcb5",
+        "idSolicitudLista": 30665.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 195935,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "LURICOCHA",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JOLLANA LURICOCHA",
+            "anioTrabajoDesde": "1990",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "050305",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AYACUCHO",
+            "trabajoProvincia": "HUANTA",
+            "trabajoDistrito": "LURICOCHA",
+            "idHojaVida": 193459,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 172632,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 193459,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 162268,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 7000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 193459,
+                "idEstado": 1,
+                "totalIngresos": 7000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 204591,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA RUSTICO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CCOLLANA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 193459,
+                "idEstado": 1,
+                "flValor": "7000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 172736,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "MOTO TAXI",
+                "marca": null,
+                "placa": "0046-NA",
+                "valor": 8000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO TAXI",
+                "comentario": null,
+                "idHojaVida": 193459,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

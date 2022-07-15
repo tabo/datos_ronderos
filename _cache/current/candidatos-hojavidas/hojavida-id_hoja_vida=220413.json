@@ -1,0 +1,161 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 220413.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "73322815",
+        "nombres": "JULIO MARTIN",
+        "apellidoPaterno": "GUZMAN",
+        "apellidoMaterno": "MORI",
+        "sexo": "1",
+        "feNacimiento": "13/08/2000",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "150101",
+        "naciDepartamento": "LORETO",
+        "naciProvincia": "MAYNAS",
+        "naciDistrito": "IQUITOS",
+        "ubigeoDomicilio": "150101",
+        "domiDepartamento": "LORETO",
+        "domiProvincia": "MAYNAS",
+        "domiDistrito": "IQUITOS",
+        "domicilioDirecc": "AV.ALFONSO UGARTE 914",
+        "ubigeoPostula": "150000",
+        "postulaDepartamento": "LORETO",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/220413.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2871.0,
+        "organizacionPolitica": "JUNTOS POR LORETO",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "ACCESITARIO"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 17:03:03",
+        "txGuidFormatoHojaVida": "bf09fa16-396a-46da-bd98-46af171b807c",
+        "idSolicitudLista": 34029.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 168094,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "BPS CONSULTORES",
+            "ocupacionProfesion": "AFORADOR",
+            "rucTrabajo": "10426550089",
+            "direccionTrabajo": "CALLE SARAGOZA D10",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "150112",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LORETO",
+            "trabajoProvincia": "MAYNAS",
+            "trabajoDistrito": "BELEN",
+            "idHojaVida": 220413,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 146786,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 220413,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 147889,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD NACIONAL DE LA AMAZONIA PERUANA",
+                "carreraUni": "ESTUDIANTE",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": null,
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 137051,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 2871,
+                "orgPolCargoPartidario": "MOVIMIENTO REGIONAL O DEPARTAMENTAL JUNTOS POR LORETO",
+                "cargoPartidario": "MIEMBRO DE COMITE",
+                "anioCargoPartiDesde": "2021",
+                "anioCargoPartiHasta": "HASTA LA ACTUALIDAD",
+                "idHojaVida": 220413,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 143419,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 1000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 220413,
+                "idEstado": 1,
+                "totalIngresos": 1000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 155955,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "MOTOCICLETA",
+                "marca": null,
+                "placa": "1235-9L",
+                "valor": 3500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "YAMAHA XTZ BLANCA",
+                "comentario": null,
+                "idHojaVida": 220413,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

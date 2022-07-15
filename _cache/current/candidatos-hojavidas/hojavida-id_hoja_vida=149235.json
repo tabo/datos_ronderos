@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 149235.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "24789682",
+        "nombres": "GUILLERMO",
+        "apellidoPaterno": "HUAMANI",
+        "apellidoMaterno": "PACHECO",
+        "sexo": "1",
+        "feNacimiento": "10/02/1960",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "070703",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "CHUMBIVILCAS",
+        "naciDistrito": "COLQUEMARCA",
+        "ubigeoDomicilio": "040303",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "CAMANA",
+        "domiDistrito": "MARIANO NICOLAS VALCARCEL",
+        "domicilioDirecc": "ANEXO DE SECOCHA S/N",
+        "ubigeoPostula": "040303",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "CAMANA",
+        "postulaDistrito": "MARIANO NICOLAS VALCARCEL",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/149235.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 142.0,
+        "organizacionPolitica": "AREQUIPA, TRADICION Y FUTURO",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 16:11:05",
+        "txGuidFormatoHojaVida": "bf41743c-c44c-46b9-b7fc-1e7346ab6e45",
+        "idSolicitudLista": 24674.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 235814,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "INDEPENDIENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SECOCHA",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "040303",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "CAMANA",
+            "trabajoDistrito": "MARIANO NICOLAS VALCARCEL",
+            "idHojaVida": 149235,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 208180,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 149235,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 162155,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 32,
+            "orgPolRenunciaOp": "PARTIDO APRISTA PERUANO",
+            "anioRenunciaOp": "2010",
+            "idHojaVida": 149235,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 188882,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 24000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 149235,
+                "idEstado": 1,
+                "totalIngresos": 24000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 233856,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "  MZ B, ZONA A LOTE 20 URB EL NAZARENO CERRO COLORADO - AREQUIPA - AREQUIPA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "11144725",
+                "fichaTomoSunarp": null,
+                "autovaluo": 1000.0,
+                "idHojaVida": 149235,
+                "idEstado": 1,
+                "flValor": "180000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 193670,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "V2A280 ",
+                "valor": 6000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTOMOVIL TOYOTA",
+                "comentario": null,
+                "idHojaVida": 149235,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

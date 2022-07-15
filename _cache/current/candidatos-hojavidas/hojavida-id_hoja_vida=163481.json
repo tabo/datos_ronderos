@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 163481.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44458270",
+        "nombres": "IVAN",
+        "apellidoPaterno": "TUANAMA",
+        "apellidoMaterno": "TUANAMA",
+        "sexo": "1",
+        "feNacimiento": "04/12/1986",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "210704",
+        "naciDepartamento": "SAN MARTIN",
+        "naciProvincia": "BELLAVISTA",
+        "naciDistrito": "ALTO BIAVO",
+        "ubigeoDomicilio": "210704",
+        "domiDepartamento": "SAN MARTIN",
+        "domiProvincia": "BELLAVISTA",
+        "domiDistrito": "ALTO BIAVO",
+        "domicilioDirecc": "CASERIO MURALLA S/N",
+        "ubigeoPostula": "210704",
+        "postulaDepartamento": "SAN MARTIN",
+        "postulaProvincia": "BELLAVISTA",
+        "postulaDistrito": "ALTO BIAVO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/163481.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2722.0,
+        "organizacionPolitica": "UNION REGIONAL",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 19:01:45",
+        "txGuidFormatoHojaVida": "b13f75c7-f4c4-48c5-9f01-6be1e7407ac1",
+        "idSolicitudLista": 26628.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 188568,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASERIO MURALLA",
+            "anioTrabajoDesde": "2006",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "210704",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "SAN MARTIN",
+            "trabajoProvincia": "BELLAVISTA",
+            "trabajoDistrito": "ALTO BIAVO",
+            "idHojaVida": 163481,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 166041,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 163481,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 157378,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 2500.0,
+                "idHojaVida": 163481,
+                "idEstado": 1,
+                "totalIngresos": 2500.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 198766,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CASERIO MURALLA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 163481,
+                "idEstado": 1,
+                "flValor": "15000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 168267,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "S42142 ",
+                "valor": 3000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR NEGRO",
+                "comentario": null,
+                "idHojaVida": 163481,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

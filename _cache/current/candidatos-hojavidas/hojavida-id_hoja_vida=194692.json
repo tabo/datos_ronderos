@@ -1,0 +1,157 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 194692.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "06647369",
+        "nombres": "MARIA LUZ",
+        "apellidoPaterno": "TOLENTINO",
+        "apellidoMaterno": "AYLLON",
+        "sexo": "2",
+        "feNacimiento": "07/02/1965",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140125",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "BARRANCO",
+        "ubigeoDomicilio": "140125",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "BARRANCO",
+        "domicilioDirecc": "JR. AURELIO SOUZA 394 INT. 2",
+        "ubigeoPostula": "140125",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "BARRANCO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/194692.jpg",
+        "estado": "INSCRITO",
+        "idOrganizacionPolitica": 2731.0,
+        "organizacionPolitica": "PODEMOS PERU",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 17:39:02",
+        "txGuidFormatoHojaVida": "c380ab07-8942-4c95-ac4a-58b643d3a50e",
+        "idSolicitudLista": 30833.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 224400,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "PUNTO VISUAL S.A",
+            "ocupacionProfesion": "ASISTENTE DE TRAMITE DOCUMENTARIO",
+            "rucTrabajo": "20306838386",
+            "direccionTrabajo": "CALLE ICARO 121 LA CAMPIÑA",
+            "anioTrabajoDesde": "2005",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140108",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "CHORRILLOS",
+            "idHojaVida": 194692,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 197897,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 194692,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 174278,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD PRIVADA SAN JUAN BAUTISTA SOCIEDAD ANÓNIMA CERRADA",
+                "carreraUni": "BACHILLER EN ADMINISTRACION DE NEGOCIOS",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2015",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 143179,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 15,
+                "orgPolCargoElec": "PARTIDO POPULAR CRISTIANO - PPC",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2011",
+                "anioCargoElecHasta": "2014",
+                "idHojaVida": 194692,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 158807,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 15,
+            "orgPolRenunciaOp": "PARTIDO POPULAR CRISTIANO - PPC",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 194692,
+            "idEstado": 1,
+            "txComentario": "SE PERDIÓ INSCRIPCIÓN DEL PPC"
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 181311,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 34032.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 194692,
+                "idEstado": 1,
+                "totalIngresos": 34032.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

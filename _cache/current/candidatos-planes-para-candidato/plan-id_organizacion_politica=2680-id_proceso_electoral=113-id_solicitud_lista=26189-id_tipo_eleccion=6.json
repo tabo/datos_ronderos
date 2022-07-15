@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 19515,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2680,
+        "txOrganizacionPolitica": "MOVIMIENTO REGIONAL SIERRA Y SELVA CONTIGO JUNIN",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/cd1f2e64-90cb-41f7-a038-e4ab3d727ce2.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/240438f5-399f-4c71-a667-2c88e046a08b.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 163852,
+            "txPgProblema": "LOCALES DE CENTROS DE SALUD DE PRIMER NIVEL DE ATENCIÓN CON PÉSIMA INFRAESTRUCTURA.",
+            "txPgObjetivo": "LOCALES DE CENTROS DE SALUD DE PRIMER NIVEL DE ATENCIÓN CON ÓPTIMA INFRAESTRUCTURA.",
+            "txPgIndicador": "PORCENTAJE DE LOCALES DE PRIMER NIVEL DE ATENCIÓN QUE REQUIEREN INTERVENCIÓN TOTAL",
+            "txPgMeta": "70% DE LOCALES DE PRIMER NIVEL DE ATENCIÓN QUE REQUIEREN\nINTERVENCIÓN TOTAL",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 163874,
+            "txPgProblema": "LOCALES ESCOLARES PÚBLICOS QUE REQUIEREN REPARACIÓN TOTAL EN ED.\nBÁSICA",
+            "txPgObjetivo": "LOCALES ESCOLARES PÚBLICOS CON ÓPTIMA INFRAESTRUCTURA EDUCATIVA.",
+            "txPgIndicador": "PORCENTAJE DE LOCALES ESCOLARES PÚBLICOS QUE REQUIEREN REPARACIÓN TOTAL EN ED. BÁSICA",
+            "txPgMeta": "80% DE LOCALES ESCOLARES PÚBLICOS QUE REQUIEREN REPARACIÓN TOTAL\nEN ED. BÁSICA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 163884,
+            "txPgProblema": "POBLACIÓN RURAL SIN ACCESO AGUA POR RED PÚBLICA",
+            "txPgObjetivo": "DOTAR A LA POBLACIÓN RURAL DE AGUA POTABLE POR RED PÚBLICA",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN RURAL SIN ACCESO AGUA POR RED PÚBLICA",
+            "txPgMeta": "90% DE POBLACIÓN RURAL SIN ACCESO\nAGUA POR RED PÚBLICA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 163913,
+            "txPgProblema": "EXPANSIÓN URBANA Y RURAL DESORDENADA.",
+            "txPgObjetivo": "PROMOVER EL CRECIMIENTO URBANO Y RURAL DE MANERA ORDENADA.",
+            "txPgIndicador": "PORCENTAJE DE PLANES DE DESARROLLO URBANO Y RURAL ACTUALIZADO.",
+            "txPgMeta": "100% DE PLANES DE DESARROLLO URBANO Y RURAL\nACTUALIZADO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 163931,
+            "txPgProblema": "INFRAESTRUCTURA VIAL URBANA EN PÉSIMAS CONDICIONES.",
+            "txPgObjetivo": "EJECUTAR PROYECTOS DE INFRAESTRUCTURA VIAL URBANA.",
+            "txPgIndicador": "PORCENTAJE DE INFRAESTRUCTURA VIAL URBANA EN ÓPTIMAS CONDICIONES.",
+            "txPgMeta": "40% DE INFRAESTRUCTURA VIAL URBANA EN ÓPTIMAS CONDICIONES",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 163948,
+            "txPgProblema": "INFRAESTRUCTURA VIAL RURAL Y VECINAL EN PÉSIMAS CONDICIONES.",
+            "txPgObjetivo": "EJECUTAR PROYECTOS DE INFRAESTRUCTURA VIAL RURAL Y VECINAL.",
+            "txPgIndicador": "PORCENTAJE DE INFRAESTRUCTURA VIAL RURAL Y VECINAL EN ÓPTIMAS CONDICIONES.",
+            "txPgMeta": "50% DE INFRAESTRUCTURA VIAL RURAL Y VECINAL EN ÓPTIMAS\nCONDICIONES",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 163967,
+            "txPgProblema": "CONTAMINACIÓN AMBIENTAL POR RESIDUOS SÓLIDOS GENERADOS POR LA POBLACIÓN",
+            "txPgObjetivo": "VIVIENDAS CON COBERTURA DEL SERVICIO DE RECOLECCIÓN DE RESIDUOS SÓLIDOS.",
+            "txPgIndicador": "PORCENTAJE DE VIVIENDAS CON COBERTURA DEL SERVICIO DE RECOLECCIÓN DE RESIDUO SÓLIDOS EN PREDIOS",
+            "txPgMeta": "95% DE VIVIENDAS CON COBERTURA DEL SERVICIO DE RECOLECCIÓN DE\nRESIDUO SÓLIDOS EN PREDIOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 163982,
+            "txPgProblema": "CONTAMINACIÓN POR BOTADEROS DE RESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "REDUCIR LA CONTAMINACIÓN SIGNIFICATIVAMENTE DE BOTADEROS DE RESIDUOS SÓLIDOS.",
+            "txPgIndicador": "PORCENTAJE DE IMPLEMENTACIÓN DE PLANTA DE TRATAMIENTO DE RESIDUOS SOLIDOS",
+            "txPgMeta": "100% DE IMPLEMENTACIÓN DE PLANTA DE\nTRATAMIENTO DE RESIDUOS SOLIDOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 163993,
+            "txPgProblema": "RIESGO DE DESBORDE DE RÍOS, CUNETAS Y DRENAJES.",
+            "txPgObjetivo": "CAUCES DE RÍOS, CUNETAS, DRENAJES Y ESTRUCTURAS DE SEGURIDAD FÍSICA EN PÉSIMAS CONDICIONES",
+            "txPgIndicador": "PORCENTAJE DE CAUCES DE RÍOS, CUNETAS, DRENAJES Y ESTRUCTURAS DE SEGURIDAD FÍSICA EN OPTIMAS CONDICIONES",
+            "txPgMeta": "90% DE CAUCES DE RÍOS, CUNETAS, DRENAJES Y ESTRUCTURAS DE SEGURIDAD FÍSICA\nEN OPTIMAS CONDICIONES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 164012,
+            "txPgProblema": "GOBIERNO LOCAL BUROCRÁTICO, OBSOLETO Y POCO TRANSPARENTE.",
+            "txPgObjetivo": "IMPLEMENTAR LA SIMPLIFICACIÓN ADMINISTRATIVA, LA GESTIÓN POR PROCESOS, MODERNIZACIÓN INSTITUCIONAL E IMPLEMENTAR UN GOBIERNO TRANSPARENTE AL SERVICIO DEL CIUDADANO.",
+            "txPgIndicador": "PORCENTAJE DE AVANCE DE LA IMPLEMENTACIÓN PLAN DE SIMPLIFICACIÓN ADMINISTRATIVA, GESTIÓN POR PROCESOS, MODERNIZACIÓN INSTITUCIONAL Y TRANSPARENTE.",
+            "txPgMeta": "98% DE AVANCE DE LA IMPLEMENTACIÓN PLAN DE SIMPLIFICACIÓN ADMINISTRATIVA, GESTIÓN POR PROCESOS, MODERNIZACIÓN INSTITUCIONAL Y\nTRANSPARENTE.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 164025,
+            "txPgProblema": "TRABAJADORES MUNICIPALES CON ESCASA ESPECIALIZACIÓN.",
+            "txPgObjetivo": "CAPACITAR A LOS TRABAJADORES DE LA MUNICIPALIDAD PARA BRINDAR SERVICIOS PÚBLICOS DE EFICIENTES Y TRANSPARENTES.",
+            "txPgIndicador": "PORCENTAJE DE TRABAJADORES DE LA MUNICIPALIDAD CON CAPACITACIÓN",
+            "txPgMeta": "98% DE TRABAJADORES DE LA MUNICIPALIDAD CON\nCAPACITACIÓN",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 164042,
+            "txPgProblema": "PERCEPCIÓN DE INSEGURIDAD CIUDADANA EN LA POBLACIÓN.",
+            "txPgObjetivo": "REDUCIR LA PERCEPCIÓN DE INSEGURIDAD CIUDADANA.",
+            "txPgIndicador": "PORCENTAJE DE COMITÉS DE SEGURIDAD CIUDADANA IMPLEMENTADOS",
+            "txPgMeta": "90% DE COMITÉS DE SEGURIDAD CIUDADANA\nIMPLEMENTADOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

@@ -1,0 +1,156 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 185503.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "71334154",
+        "nombres": "ROCIX ANTONIO",
+        "apellidoPaterno": "HUAMAN",
+        "apellidoMaterno": "SILVA",
+        "sexo": "1",
+        "feNacimiento": "01/03/1993",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "030108",
+        "naciDepartamento": "APURIMAC",
+        "naciProvincia": "ABANCAY",
+        "naciDistrito": "SAN PEDRO DE CACHORA",
+        "ubigeoDomicilio": "030108",
+        "domiDepartamento": "APURIMAC",
+        "domiProvincia": "ABANCAY",
+        "domiDistrito": "SAN PEDRO DE CACHORA",
+        "domicilioDirecc": "COMUNIDAD MARJUPATA",
+        "ubigeoPostula": "030108",
+        "postulaDepartamento": "APURIMAC",
+        "postulaProvincia": "ABANCAY",
+        "postulaDistrito": "SAN PEDRO DE CACHORA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/185503.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 20:51:04",
+        "txGuidFormatoHojaVida": "c980e92c-d6ae-428f-bf97-64b751cf17ca",
+        "idSolicitudLista": 29572.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 210960,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "FONCODES",
+            "ocupacionProfesion": "YACHACHIK",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SAN PEDRO DE CACHORA",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "030108",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "APURIMAC",
+            "trabajoProvincia": "ABANCAY",
+            "trabajoDistrito": "SAN PEDRO DE CACHORA",
+            "idHojaVida": 185503,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 185764,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 185503,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 147381,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "SUPERIOR TECNOLÓGICO - CURAHUASI",
+                "carreraTecnico": "PROFESIONAL TÉCNICO EN PRODUCCIÓN AGROPECUARIA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 185503,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 172242,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 19200.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 185503,
+                "idEstado": 1,
+                "totalIngresos": 19200.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 180513,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "7253FX ",
+                "valor": 3000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL MARCA REZZIO",
+                "comentario": null,
+                "idHojaVida": 185503,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 180512,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "98506X ",
+                "valor": 1500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": "VEHICULO VENDIDO",
+                "idHojaVida": 185503,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

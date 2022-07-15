@@ -1,0 +1,157 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 141654.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "75857188",
+        "nombres": "BRISSA GIANELLA",
+        "apellidoPaterno": "FACHE",
+        "apellidoMaterno": "SALAZAR",
+        "sexo": "2",
+        "feNacimiento": "14/04/1998",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "240102",
+        "naciDepartamento": "CALLAO",
+        "naciProvincia": "CALLAO",
+        "naciDistrito": "BELLAVISTA",
+        "ubigeoDomicilio": "240105",
+        "domiDepartamento": "CALLAO",
+        "domiProvincia": "CALLAO",
+        "domiDistrito": "LA PERLA",
+        "domicilioDirecc": "JR. VINZOS 269 URB. BATA RIMAC",
+        "ubigeoPostula": "240105",
+        "postulaDepartamento": "CALLAO",
+        "postulaProvincia": "CALLAO",
+        "postulaDistrito": "LA PERLA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/141654.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2652.0,
+        "organizacionPolitica": "CONTIGO CALLAO",
+        "numeroCandidato": 8.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 17:52:47",
+        "txGuidFormatoHojaVida": "cc6bb734-64bf-4522-8d7a-5fc35edb0bfb",
+        "idSolicitudLista": 23663.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 162214,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AGENCIA DE ADUANA SANTA ISABEL SAC",
+            "ocupacionProfesion": "OPERATIVA DE IMPORTACION",
+            "rucTrabajo": "20256528607",
+            "direccionTrabajo": "CAL. DEAN SAAVEDRA NRO. 265",
+            "anioTrabajoDesde": "2018",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "140127",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "SAN MIGUEL",
+            "idHojaVida": 141654,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 141735,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 141654,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 135807,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "ADEX",
+                "carreraTecnico": "ADMINISTRACION DE NEGOCIOS INTERNACIONALES",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 141654,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 139725,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 30000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 141654,
+                "idEstado": 1,
+                "totalIngresos": 30000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 152516,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "8228SA ",
+                "valor": 10000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO",
+                "comentario": null,
+                "idHojaVida": 141654,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 518,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "DB YE LOGISTICS GROUP EIRL",
+                "idParamTipoTitularidad": 88,
+                "txTipoTitularidad": "PARTICIPACIONES",
+                "flCantidad": 100.0,
+                "flValor": 500.0,
+                "idHojaVida": 141654,
+                "idEstado": 1,
+                "txUsuario": "70763034",
+                "txFechaRegistro": null,
+                "txComentario": "EMPRESA DE ASESORAMIENTO AL COMERCIO EXTERIOR",
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

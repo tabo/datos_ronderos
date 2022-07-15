@@ -1,0 +1,179 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 194297.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "02151488",
+        "nombres": "ISIDORO",
+        "apellidoPaterno": "MACHACA",
+        "apellidoMaterno": "MESTAS",
+        "sexo": "1",
+        "feNacimiento": "04/04/1963",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "200603",
+        "naciDepartamento": "PUNO",
+        "naciProvincia": "LAMPA",
+        "naciDistrito": "CALAPUJA",
+        "ubigeoDomicilio": "200603",
+        "domiDepartamento": "PUNO",
+        "domiProvincia": "LAMPA",
+        "domiDistrito": "CALAPUJA",
+        "domicilioDirecc": "PARCIALIDAD MARIA OCCHILE",
+        "ubigeoPostula": "200603",
+        "postulaDepartamento": "PUNO",
+        "postulaProvincia": "LAMPA",
+        "postulaDistrito": "CALAPUJA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/194297.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2912.0,
+        "organizacionPolitica": "REFORMA Y HONRADEZ POR MAS OBRAS",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 08:57:03",
+        "txGuidFormatoHojaVida": "fae3105f-e54b-4176-b0bb-269ad62867fd",
+        "idSolicitudLista": 30777.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 180923,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "PARCIALIDAD MARIA OCCHILE",
+            "anioTrabajoDesde": "2017",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "200603",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PUNO",
+            "trabajoProvincia": "LAMPA",
+            "trabajoDistrito": "CALAPUJA",
+            "idHojaVida": 194297,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 159216,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 194297,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 144559,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 46,
+            "orgPolRenunciaOp": "PERU POSIBLE",
+            "anioRenunciaOp": "2017",
+            "idHojaVida": 194297,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 152260,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 11000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 194297,
+                "idEstado": 1,
+                "totalIngresos": 11000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 192428,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "PARCIALIDAD MARIA OCCHILE",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 5000.0,
+                "idHojaVida": 194297,
+                "idEstado": 1,
+                "flValor": "5000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 163913,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "MOTO LINEAL",
+                "marca": null,
+                "placa": "POLIZA",
+                "valor": 2500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR ROJO",
+                "comentario": null,
+                "idHojaVida": 194297,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 163904,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "MITSUBISHI MIRAGE VIE",
+                "marca": null,
+                "placa": "C5L-515",
+                "valor": 10000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR AZUL",
+                "comentario": null,
+                "idHojaVida": 194297,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

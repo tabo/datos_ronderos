@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 200160.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "30661652",
+        "nombres": "FRANCISCO",
+        "apellidoPaterno": "PONCE",
+        "apellidoMaterno": "SALLICA",
+        "sexo": "1",
+        "feNacimiento": "10/10/1950",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040201",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "CAYLLOMA",
+        "naciDistrito": "CHIVAY",
+        "ubigeoDomicilio": "040214",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "CAYLLOMA",
+        "domiDistrito": "SAN ANTONIO DE CHUCA",
+        "domicilioDirecc": "IMATA MZ C LT 2",
+        "ubigeoPostula": "040214",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "CAYLLOMA",
+        "postulaDistrito": "SAN ANTONIO DE CHUCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/200160.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 18:26:14",
+        "txGuidFormatoHojaVida": "b5e02a56-b01c-4b42-8bec-13174051c6cd",
+        "idSolicitudLista": 31522.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 187541,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "PASTOREO EN CABAÑA",
+            "ocupacionProfesion": "PRODUCTOR PECUARIO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "IMATA MZ. C LT. 2",
+            "anioTrabajoDesde": "1973",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "040214",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "CAYLLOMA",
+            "trabajoDistrito": "SAN ANTONIO DE CHUCA",
+            "idHojaVida": 200160,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 165166,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "NO",
+            "eduSecundaria": null,
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 200160,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 156711,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 2000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 200160,
+                "idEstado": 1,
+                "totalIngresos": 2000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 197864,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "JOSE LUIS BUSTAMANTE Y RIVERO AMPLIACION 4 CERRO COLORADO AREQUIPA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 150.0,
+                "idHojaVida": 200160,
+                "idEstado": 1,
+                "flValor": "36000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 167735,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "V2N337 ",
+                "valor": 30000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTO SUZUKI ROJO",
+                "comentario": null,
+                "idHojaVida": 200160,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

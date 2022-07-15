@@ -1,0 +1,154 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 219026.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42952833",
+        "nombres": "ABEL",
+        "apellidoPaterno": "ATAUCUSI",
+        "apellidoMaterno": "ATAUPILLCO",
+        "sexo": "1",
+        "feNacimiento": "14/05/1985",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050101",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "HUAMANGA",
+        "naciDistrito": "AYACUCHO",
+        "ubigeoDomicilio": "050109",
+        "domiDepartamento": "AYACUCHO",
+        "domiProvincia": "HUAMANGA",
+        "domiDistrito": "VINCHOS",
+        "domicilioDirecc": "ANEXO RANRACANCHA",
+        "ubigeoPostula": "050109",
+        "postulaDepartamento": "AYACUCHO",
+        "postulaProvincia": "HUAMANGA",
+        "postulaDistrito": "VINCHOS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/219026.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 19:52:05",
+        "txGuidFormatoHojaVida": "e230c777-5c01-4291-9ce8-76afe5723143",
+        "idSolicitudLista": 33883.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 244659,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "UNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS",
+            "ocupacionProfesion": "TECNICO EN CONSTRUCCIÓN",
+            "rucTrabajo": "20550626412",
+            "direccionTrabajo": "INTERSECCIÓN DE LA AV. VENEZUELA CON AV. UNIVERSITARIA",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "050109",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AYACUCHO",
+            "trabajoProvincia": "HUAMANGA",
+            "trabajoDistrito": "VINCHOS",
+            "idHojaVida": 219026,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 216364,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 219026,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 155362,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "CAPECO",
+                "carreraTecnico": "TECNICO EN CONSTRUCCION CIVIL",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 219026,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 195499,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 57600.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 3600.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 219026,
+                "idEstado": 1,
+                "totalIngresos": 61200.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 198602,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "MS4687 ",
+                "valor": 5200.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL RTM COLOR NEGRO",
+                "comentario": "VENDIDO",
+                "idHojaVida": 219026,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 137025,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "162020",
+            "txOrganoJuridicialObliga": "JUZGADO PAZ LETRADO",
+            "txFalloObliga": "SUSPENDIDA",
+            "idEstado": 1,
+            "idHojaVida": 219026,
+            "txComentario": null
+        }
+    ]
+}

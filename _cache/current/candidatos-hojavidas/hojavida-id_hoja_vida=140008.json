@@ -1,0 +1,166 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 140008.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43139200",
+        "nombres": "NATALY DEL ROSARIO",
+        "apellidoPaterno": "HUAYHUARIMA",
+        "apellidoMaterno": "RAMOS",
+        "sexo": "2",
+        "feNacimiento": "08/05/1985",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "220101",
+        "naciDepartamento": "TACNA",
+        "naciProvincia": "TACNA",
+        "naciDistrito": "TACNA",
+        "ubigeoDomicilio": "220110",
+        "domiDepartamento": "TACNA",
+        "domiProvincia": "TACNA",
+        "domiDistrito": "SAMA",
+        "domicilioDirecc": "ASOC. DE PESC.ARTESANALES DE LLOSTAY MZ. H LT. 10",
+        "ubigeoPostula": "220100",
+        "postulaDepartamento": "TACNA",
+        "postulaProvincia": "TACNA",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/140008.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2731.0,
+        "organizacionPolitica": "PODEMOS PERU",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 15:26:22",
+        "txGuidFormatoHojaVida": "36c87b1a-0cca-4e25-b96d-88a888340e4c",
+        "idSolicitudLista": 23464.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 205647,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 140008,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 151865,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "INSTITUTO SUPERIOR GUILLERMO ALMENARA",
+                "carreraTecnico": "TECNICO",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 140008,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "TECNICO EN ENFERMERIA"
+            }
+        ],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 141999,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "GUILLERMO ALMENARA",
+                "carreraNoUni": "TECNICO EN ENFERMERIA",
+                "concluidoNoUni": "1",
+                "idHojaVida": 140008,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 160494,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2190,
+            "orgPolRenunciaOp": "VAMOS PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 140008,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 187000,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 7000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 140008,
+                "idEstado": 1,
+                "totalIngresos": 7000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 230113,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "PREDIO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "PLAYA LLOSTAY MZ H LT 10",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 22224080.0,
+                "idHojaVida": 140008,
+                "idEstado": 1,
+                "flValor": "22224080"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 190779,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "Z3S343 ",
+                "valor": 10000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA HONDA COLOR GUINDA",
+                "comentario": null,
+                "idHojaVida": 140008,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

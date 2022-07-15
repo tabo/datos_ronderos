@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 17407,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2680,
+        "txOrganizacionPolitica": "MOVIMIENTO REGIONAL SIERRA Y SELVA CONTIGO JUNIN",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/74768c3e-24a0-475f-be10-df3f43aec89b.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/ad54da89-82cc-4119-9e44-121f34349afe.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 195708,
+            "txPgProblema": "INADECUADO INFRAESTRUCTURA Y EQUIPAMIENTO DEL PUESTO DE SALUD.",
+            "txPgObjetivo": "ACCESO DE LA POBLACIÓN A LOS SERVICIOS DE SALUD CON CALIDAD ESTÁNDAR.",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN ATENDIDA EN PUESTO DE SALUD.",
+            "txPgMeta": "INCREMENTAR DEL 35% AL\n90%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 195726,
+            "txPgProblema": "ESPACIOS EDUCATIVOS, INFRAESTRUCTURA Y MOBILIARIO ESCOLAR EN CONDICIONES DETERIORADAS.",
+            "txPgObjetivo": "ACCESO DE LA POBLACIÓN A LOS SERVICIOS EDUCATIVOS DE CALIDAD",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN ATENDIDA CON EDUCACIÓN DE CALIDAD.",
+            "txPgMeta": "INCREMENTAR DEL 70% AL 90%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 195736,
+            "txPgProblema": "LIMITADO Y INADECUADO ACCESO A LOS SERVICIOS PÚBLICOS DE AGUA, DESAGÜE Y\nELECTRICIDAD.",
+            "txPgObjetivo": "POBLACIÓN DOTADA DE SERVICIOS PÚBLICOS DE CALIDAD.",
+            "txPgIndicador": "PORCENTAJE DE VIVIENDAS CON ACCESO A LOS SERVICIOS PÚBLICOS.",
+            "txPgMeta": "INCREMENTAR DEL 75% AL 98%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 195748,
+            "txPgProblema": "HECTÁREAS DE TIERRAS AGRÍCOLAS SIN RIEGO.",
+            "txPgObjetivo": "AMPLIACIÓN Y MEJORAMIENTO SISTEMA DE RIEGO.",
+            "txPgIndicador": "PORCENTAJE DE TIERRAS AGRÍCOLAS IRRIGADAS.",
+            "txPgMeta": "INCREMENTAR DEL 20% AL 80%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 195753,
+            "txPgProblema": "MINIFUNDIO.",
+            "txPgObjetivo": "FOMENTAR ASOCIACIÓN DE PRODUCTORES",
+            "txPgIndicador": "NUMERO DE ASOCIACIONES",
+            "txPgMeta": "INCREMENTAR DEL 10% AL 80%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 195766,
+            "txPgProblema": "DEFICIENTE ACCESO A LA ASISTENCIA TÉCNICA.",
+            "txPgObjetivo": "FOMENTAR ESPACIOS DE CAPACITACIÓN TÉCNICA",
+            "txPgIndicador": "PORCENTAJE DE PRODUCTORES QUE SON BENEFICIADOS POR ESTE PROYECTO",
+            "txPgMeta": "INCREMENTAR DEL 15% AL 80%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 195774,
+            "txPgProblema": "ESCASO PROCESO DE FORESTACIÓN.",
+            "txPgObjetivo": "FORESTAR CON 50 000 PLANTACIONES DE PINOS PARA GENERAR AGUA EN ÉPOCAS DE SEQUÍA.",
+            "txPgIndicador": "PORCENTAJE DE HAS. FORESTACIÓN",
+            "txPgMeta": "INCREMENTAR DEL 20% AL 50%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 195785,
+            "txPgProblema": "EXISTENCIA DE ZONAS VULNERABLES DE INUNDACIONES",
+            "txPgObjetivo": "PROTECCIÓN DE ZONAS PROPENSO A INUNDACIONES, DERRUMBES O COLAPSO",
+            "txPgIndicador": "PORCENTAJE DE ZONAS PROTEGIDAS CON RIESGO O COLAPSO",
+            "txPgMeta": "INCREMENTAR DEL 15% AL 70%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 195799,
+            "txPgProblema": "DEFICIENTE TRATAMIENTO DE RESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "RESIDUOS SÓLIDOS TRATADOS.",
+            "txPgIndicador": "PORCENTAJE DE RESIDUOS SÓLIDOS TRATADOS.",
+            "txPgMeta": "INCREMENTAR DEL 05% AL 95%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 195810,
+            "txPgProblema": "TRABAJADORES MUNICIPALES CON ESCASA ESPECIALIZACIÓN",
+            "txPgObjetivo": "TRABAJADORES BRINDA SERVICIOS MUNICIPALES EFICIENTEMENTE Y\nEFICAZMENTE",
+            "txPgIndicador": "PORCENTAJE DE SATISFACCIÓN DE LOS POBLADORES ATENDIDOS.",
+            "txPgMeta": "INCREMENTAR DEL 05% AL 95%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 195818,
+            "txPgProblema": "GOBIERNO LOCAL BUROCRÁTICO, OBSOLETO Y POCO TRANSPARENTE",
+            "txPgObjetivo": "DISMINUIR DEL TIEMPO EN LOS TRÁMITES ADMINISTRATIVOS.",
+            "txPgIndicador": "PORCENTAJE DE DISMINUYE DEL TIEMPO DE TRÁMITE ADMINISTRATIVO.",
+            "txPgMeta": "INCREMENTAR DEL 10% AL 50%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 195834,
+            "txPgProblema": "DEFICIENTE GESTIÓN DE LOS LIMITES DISTRITALES.",
+            "txPgObjetivo": "PLENO EJERCICIO DEL DERECHO DE LA AUTONOMÍA POLÍTICA, ECONÓMICA Y ADMINISTRATIVA.",
+            "txPgIndicador": "PORCENTAJE DE LÍMITES DISTRITALES CONCILIADOS MONUMENTADOS.",
+            "txPgMeta": "INCREMENTAR DEL 00% AL 70%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

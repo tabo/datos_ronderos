@@ -1,0 +1,59 @@
+{
+    "pageIndex": 1,
+    "pageSize": 9999999,
+    "count": 2.0,
+    "messageLog": null,
+    "data": [
+        {
+            "totalRows": 2,
+            "rowNumber": 1,
+            "txJuradoCompetencia": "LIMA CENTRO",
+            "txCodExpedienteExt": "ERM.2022017885",
+            "feRegistro": "17/06/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "SOLICITUD DE INSCRIPCIÓN",
+            "txResponsable": "STEPHANIE YINETT DIAZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 166014,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA CENTRO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE BERNARDO GARRO DIAZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 2,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "LIMA CENTRO",
+            "txCodExpedienteExt": "ERM.2022019998",
+            "feRegistro": "30/06/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "BALDOMERO ROBERTO CHAVEZ",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 168268,
+            "idExpedientePadre": 166014,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA CENTRO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE BERNARDO GARRO DIAZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        }
+    ],
+    "totalPages": 1
+}

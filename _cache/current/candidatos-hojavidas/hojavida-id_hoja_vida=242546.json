@@ -1,0 +1,173 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 242546.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "46474463",
+        "nombres": "NEPTALI",
+        "apellidoPaterno": "QUISPE",
+        "apellidoMaterno": "QUISPE",
+        "sexo": "1",
+        "feNacimiento": "13/04/1990",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "070902",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "LA CONVENCION",
+        "naciDistrito": "ECHARATE",
+        "ubigeoDomicilio": "070902",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "LA CONVENCION",
+        "domiDistrito": "ECHARATE",
+        "domicilioDirecc": "SAN MIGUEL - ECHARATI",
+        "ubigeoPostula": "070902",
+        "postulaDepartamento": "CUSCO",
+        "postulaProvincia": "LA CONVENCION",
+        "postulaDistrito": "ECHARATE",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/242546.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2164.0,
+        "organizacionPolitica": "FUERZA INKA AMAZONICA",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 11:12:03",
+        "txGuidFormatoHojaVida": "4acd4003-bef4-4cd6-b256-2ca953639f07",
+        "idSolicitudLista": 30453.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 252233,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INVERSIONES EL OLIMPO",
+            "ocupacionProfesion": "PROPIETARIO",
+            "rucTrabajo": "10464744636",
+            "direccionTrabajo": "ECHARATI - SAN MIGUEL",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "070902",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CUSCO",
+            "trabajoProvincia": "LA CONVENCION",
+            "trabajoDistrito": "ECHARATE",
+            "idHojaVida": 242546,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "PERIODO DEL SETIEMBRE HASTA LA ACTUALIDAD"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 223983,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 242546,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 188207,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD ALAS PERUANAS",
+                "carreraUni": "X SEMESTRE",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "CURSOS POR CONCLUIR"
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 143570,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 2164,
+                "orgPolCargoPartidario": "MOVIMIENTO REGIONAL O DEPARTAMENTAL FUERZA INKA AMAZONICA",
+                "cargoPartidario": "SECRETARIO DE ORGANIZACION (DISTRITO DE ECHARATI -  LA CONVENCION)",
+                "anioCargoPartiDesde": "2018",
+                "anioCargoPartiHasta": "2021",
+                "idHojaVida": 242546,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 167552,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2173,
+            "orgPolRenunciaOp": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 242546,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 201535,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 55520.0,
+                "idHojaVida": 242546,
+                "idEstado": 1,
+                "totalIngresos": 55520.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 203067,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "27891X ",
+                "valor": 2800.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL WANXIN/ COLOR NARANJA /MOTOR 200",
+                "comentario": null,
+                "idHojaVida": 242546,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

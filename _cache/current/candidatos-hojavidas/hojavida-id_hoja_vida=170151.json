@@ -1,0 +1,158 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 170151.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43194103",
+        "nombres": "CRISTIAM ANDRES",
+        "apellidoPaterno": "MILACHAY",
+        "apellidoMaterno": "GARCIA",
+        "sexo": "1",
+        "feNacimiento": "10/12/1979",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "100101",
+        "naciDepartamento": "ICA",
+        "naciProvincia": "ICA",
+        "naciDistrito": "ICA",
+        "ubigeoDomicilio": "100108",
+        "domiDepartamento": "ICA",
+        "domiProvincia": "ICA",
+        "domiDistrito": "SAN JUAN BAUTISTA",
+        "domicilioDirecc": "CASERIO DEL OLIVO D-01 A",
+        "ubigeoPostula": "100108",
+        "postulaDepartamento": "ICA",
+        "postulaProvincia": "ICA",
+        "postulaDistrito": "SAN JUAN BAUTISTA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/170151.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 05:20:40",
+        "txGuidFormatoHojaVida": "7f471fed-9474-4111-9eb4-f7bbbf2faf4f",
+        "idSolicitudLista": 27523.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 223171,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "I.E. FE Y ALEGRIA 70",
+            "ocupacionProfesion": "DOCENTE",
+            "rucTrabajo": "20410016070",
+            "direccionTrabajo": "CENTRO POBLADO VILLA ROTARY",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "100101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ICA",
+            "trabajoProvincia": "ICA",
+            "trabajoDistrito": "ICA",
+            "idHojaVida": 170151,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 196722,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 170151,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 173710,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL SAN LUIS GONZAGA DE ICA",
+                "carreraUni": "LICENCIADO EN MATEMATICA E INFORMATICA",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2009",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 158415,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 38,
+            "orgPolRenunciaOp": "PARTIDO REGIONAL DE INTEGRACION",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 170151,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 180453,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 28740.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 170151,
+                "idEstado": 1,
+                "totalIngresos": 28740.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 187193,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "6888WB ",
+                "valor": 4000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "6888WB MOTOTAXI",
+                "comentario": null,
+                "idHojaVida": 170151,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

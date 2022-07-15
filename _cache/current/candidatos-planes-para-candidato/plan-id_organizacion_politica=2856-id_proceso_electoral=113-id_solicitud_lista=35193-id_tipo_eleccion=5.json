@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 28519,
+        "idTipoEleccion": 5,
+        "txTipoEleccion": "MUNICIPAL PROVINCIAL",
+        "idOrganizacionPolitica": 2856,
+        "txOrganizacionPolitica": "ALIANZA GOBIERNO UNIDAD Y ACCION",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/c347a3b7-3e9d-4038-b16a-915db89715b6.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/afe29936-ba64-4817-bbd6-0a5b24fcc687.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 176667,
+            "txPgProblema": "ALTOS NIVELES DE POBREZA EN LA POBLACIÓN RURAL.",
+            "txPgObjetivo": "REDUCIR LA POBREZA TOTAL Y EXTREMA EN LA POBLACIÓN RURAL",
+            "txPgIndicador": "POBREZA MONETARIA A NIVEL DISTRITAL.",
+            "txPgMeta": "REDUCCIÓN A 15%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 176680,
+            "txPgProblema": "DESNUTRICIÓN CRÓNICA INFANTIL",
+            "txPgObjetivo": "REDUCIR LA DESNUTRICIÓN CRÓNICA INFANTIL",
+            "txPgIndicador": "DCI A NIVEL DISTRITAL",
+            "txPgMeta": "REDUCCIÓN A 5%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 176712,
+            "txPgProblema": "LIMITADO ACCESO A LOS SERVICIOS BÁSICOS (AGUA, SANEAMIENTO Y ELECTRICIDAD).",
+            "txPgObjetivo": "CERRAR LAS BRECHAS DE COBERTURA DE LOS SERVICIOS BÁSICOS.",
+            "txPgIndicador": "VIVIENDAS CON LOS TRES SERVICIOS BÁSICOS A NIVEL DISTRITAL.",
+            "txPgMeta": "INCREMENTO DE LA COBERTURA A 95%.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 176751,
+            "txPgProblema": "DESEMPLEO JUVENIL.",
+            "txPgObjetivo": "REDUCIR EL DESEMPLEO JUVENIL.",
+            "txPgIndicador": "DESEMPLEO JUVENIL A NIVEL DISTRITAL.",
+            "txPgMeta": "REDUCCIÓN A 5%.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 176789,
+            "txPgProblema": "BAJA PRODUCTIVIDAD DE LAS ACTIVIDADES ECONÓMICAS PREDOMINANTES.",
+            "txPgObjetivo": "INCREMENTAR LA PRODUCTIVIDAD.",
+            "txPgIndicador": "PRODUCTIVIDAD DE LA ACTIVIDAD AGRARIA.",
+            "txPgMeta": "INCREMENTO DE LOS RENDIMIENTOS AGRÍCOLAS EN UN 10%.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 176827,
+            "txPgProblema": "ESCASO FINANCIAMIENTO PARA LA INNOVACIÓN TECNOLÓGICA.",
+            "txPgObjetivo": "INCREMENTAR EL FINANCIAMIENTO PRODUCTIVO INNOVADOR.",
+            "txPgIndicador": "FINANCIAMIENTO DE PROYECTOS PRODUCTIVOS INNOVADORES.",
+            "txPgMeta": "PROYECTOS DE INNOVACIÓN TECNOLÓGICA FINANCIADOS: DIEZ.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 176848,
+            "txPgProblema": "CONTAMINACIÓN DEL MEDIO AMBIENTE POR MAL MANEJO DE LOS RESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "MEJORAR LA CALIDAD AMBIENTAL.",
+            "txPgIndicador": "DESTINO FINAL ADECUADO DE LOS RESIDUOS SÓLIDOS.",
+            "txPgMeta": "100%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 176906,
+            "txPgProblema": "MAL MANEJO DEL RECURSO HÍDRICO.",
+            "txPgObjetivo": "MEJORAR LA PROTECCIÓN DE LAS FUENTES DE AGUA.",
+            "txPgIndicador": "PROYECTOS PARA LA PROTECCIÓN DE LAS FUENTES DE AGUA.",
+            "txPgMeta": "PROYECTOS IMPLEMENTADOS: CINCO.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 176931,
+            "txPgProblema": "ESCASO DESARROLLO DE LAS ENERGÍAS RENOVABLES.",
+            "txPgObjetivo": "INCREMENTAR EL FINANCIAMIENTO PARA EL DESARROLLO DE LAS ENERGÍAS RENOVABLES.",
+            "txPgIndicador": "PROYECTOS PARA EL DESARROLLO DE LAS ENERGÍAS RENOVABLES.",
+            "txPgMeta": "PROYECTOS IMPLEMENTADOS: CINCO.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 176974,
+            "txPgProblema": "BAJO NIVEL DE PARTICIPACIÓN CIUDADANA.",
+            "txPgObjetivo": "INSTITUCIONALIZAR LA PARTICIPACIÓN CIUDADANA EN ASUNTOS PÚBLICOS.",
+            "txPgIndicador": "ORGANIZACIONES SOCIALES PARTICIPANTES EN ASUNTOS PÚBLICOS.",
+            "txPgMeta": "ORGANIZACIONES SOCIALES PARTICIPANTES: VEINTE.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 177003,
+            "txPgProblema": "BAJOS NIVELES DE COOPERACIÓN PÚBLICO – PRIVADO.",
+            "txPgObjetivo": "FOMENTAR LA COOPERACIÓN PÚBLICA Y PÚBLICA – PRIVADA.",
+            "txPgIndicador": "CONVENIOS Y MECANISMOS DE COOPERACIÓN IMPLEMENTADOS.",
+            "txPgMeta": "CONVENIOS IMPLEMENTADOS: DIEZ.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 177045,
+            "txPgProblema": "ESCASO DESARROLLO DEL CAPITAL SOCIAL.",
+            "txPgObjetivo": "FOMENTAR EL DESARROLLO DEL CAPITAL SOCIAL TERRITORIAL.",
+            "txPgIndicador": "REDES DE COOPERACIÓN ENTRE ORGANIZACIONES SOCIALES.",
+            "txPgMeta": "REDES CONSTITUIDAS: DIEZ.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

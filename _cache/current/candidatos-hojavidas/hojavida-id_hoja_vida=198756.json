@@ -1,0 +1,158 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 198756.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44177159",
+        "nombres": "JOHONY RENEE",
+        "apellidoPaterno": "NIZAMA",
+        "apellidoMaterno": "REYES",
+        "sexo": "1",
+        "feNacimiento": "05/12/1981",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "190104",
+        "naciDepartamento": "PIURA",
+        "naciProvincia": "PIURA",
+        "naciDistrito": "CATACAOS",
+        "ubigeoDomicilio": "190104",
+        "domiDepartamento": "PIURA",
+        "domiProvincia": "PIURA",
+        "domiDistrito": "CATACAOS",
+        "domicilioDirecc": "CALLE SAN FRANCISCO 105 CASERIO MONTECASTILLO",
+        "ubigeoPostula": "190104",
+        "postulaDepartamento": "PIURA",
+        "postulaProvincia": "PIURA",
+        "postulaDistrito": "CATACAOS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/198756.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2869.0,
+        "organizacionPolitica": "PARTIDO PATRIOTICO DEL PERU",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 11:44:15",
+        "txGuidFormatoHojaVida": "02d79882-1d13-4eb9-b1e6-72db0653ebdb",
+        "idSolicitudLista": 31344.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 234081,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "IE JOSE GABRIEL CONDORCANQUI",
+            "ocupacionProfesion": "PROFESOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "HA TUPAC AMARU 1RA ETAPA",
+            "anioTrabajoDesde": "2017",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "190104",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PIURA",
+            "trabajoProvincia": "PIURA",
+            "trabajoDistrito": "CATACAOS",
+            "idHojaVida": 198756,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 206646,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 198756,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 152733,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "INSTITUTO PERUANO DEPERT",
+                "carreraTecnico": "TECNICO DEPORTIVO",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 198756,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 178924,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD CAJAMARCA",
+                "carreraUni": "LICENCIATURA",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": null,
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 187711,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 27000.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 198756,
+                "idEstado": 1,
+                "totalIngresos": 27000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 192879,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "38433P ",
+                "valor": 3500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO ITALIKA",
+                "comentario": "COLOR GRIS",
+                "idHojaVida": 198756,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

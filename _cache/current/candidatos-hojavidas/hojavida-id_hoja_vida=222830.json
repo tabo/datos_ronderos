@@ -1,0 +1,128 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 222830.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43528679",
+        "nombres": "PABLO MISAEL",
+        "apellidoPaterno": "ADRIANZEN",
+        "apellidoMaterno": "DOMINGUEZ",
+        "sexo": "1",
+        "feNacimiento": "05/05/1972",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "190406",
+        "naciDepartamento": "PIURA",
+        "naciProvincia": "MORROPON",
+        "naciDistrito": "SANTA CATALINA DE MOSSA",
+        "ubigeoDomicilio": "130204",
+        "domiDepartamento": "LAMBAYEQUE",
+        "domiProvincia": "FERREÑAFE",
+        "domiDistrito": "PITIPO",
+        "domicilioDirecc": "CASERIO SAN LUCAS",
+        "ubigeoPostula": "130204",
+        "postulaDepartamento": "LAMBAYEQUE",
+        "postulaProvincia": "FERREÑAFE",
+        "postulaDistrito": "PITIPO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/222830.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2857.0,
+        "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 22:49:09",
+        "txGuidFormatoHojaVida": "872c432c-00c4-44bb-8d36-adbc7bbfccec",
+        "idSolicitudLista": 34319.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 168291,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASERIO SAN LUCAS S/N",
+            "anioTrabajoDesde": "1990",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "130204",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LAMBAYEQUE",
+            "trabajoProvincia": "FERREÑAFE",
+            "trabajoDistrito": "PITIPO",
+            "idHojaVida": 222830,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 147262,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 222830,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 143677,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 4200.0,
+                "idHojaVida": 222830,
+                "idEstado": 1,
+                "totalIngresos": 4200.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 156090,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "MOTOTAXI",
+                "marca": null,
+                "placa": "4138CM",
+                "valor": 4300.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "VEHICULO MENOR",
+                "comentario": null,
+                "idHojaVida": 222830,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

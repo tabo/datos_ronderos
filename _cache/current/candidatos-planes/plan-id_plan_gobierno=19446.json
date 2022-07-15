@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 19446,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1688,
+        "juradoElectoral": "ICA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/8a818411-70e9-432b-b4fa-4e61c5a30611.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/1dfdc29a-92a3-406f-9ced-0bc2bf08bda1.pdf",
+        "txCodExpedienteExt": "ERM.2022009352",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 215164,
+            "txPgProblema": "DEFICIENTE SERVICIO DE AGUA POTABLE Y ALCANTARILLADO EN EL DISTRITO.",
+            "txPgObjetivo": "CULMINAR Y MEJORAR EL SISTEMA DE ABASTECIMIENTO DE AGUA POTABLE Y ALCANTARILLADO VIZCAS – CARLOS TIJERO.\n.",
+            "txPgIndicador": "% DE HORAS AL DÍA SIN SERVICIO DE AGUA POTABLE.",
+            "txPgMeta": "MEJORAREMOS HASTA UN 60% LAS HORAS DEL DE SERVICIO DE AGUA POTABLE EN LOS SECTORES DEL DISTRITO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 215184,
+            "txPgProblema": "CARENCIA DE INFRAESTRUCTURA PARA EL TRATAMIENTO DE LAS AGUAS RESIDUALES.",
+            "txPgObjetivo": "CONSTRUCCIÓN DE UNA PLANTA DE TRATAMIENTO DE AGUAS RESIDUALES, PARA LA REUTILIZACIÓN DEL AGUA EN PARQUES, JARDINES Y ESTADIO MUNICIPAL.",
+            "txPgIndicador": "% DE VOLUMEN DE AGUAS RESIDUALES NO TRATADAS.",
+            "txPgMeta": "REUTILIZAREMOS HASTA UN 90% EL AGUA TRATADA, EL CUAL, TENDRÁ LA CALIDAD ADECUADA PARA EL RIEGO DE PARQUES, JARDINES Y ESTADIO MUNICIPAL.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 215209,
+            "txPgProblema": "INADECUADAS CONDICIONES DE LA PRESTACIÓN DEL SERVICIO DE SALUD EN EL DISTRITO.",
+            "txPgObjetivo": "INADECUADAS CONDICIONES DE LA PRESTACIÓN DEL SERVICIO DE SALUD EN EL DISTRITO.",
+            "txPgIndicador": "% DE NIÑOS MENORES DE 5 AÑOS CON DESNUTRICIÓN CRÓNICA INFANTIL",
+            "txPgMeta": "% DE NIÑOS MENORES DE 5 AÑOS CON DESNUTRICIÓN CRÓNICA INFANTIL",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 215246,
+            "txPgProblema": "ESCASO APOYO DEL GOBIERNO A LOS COMERCIANTES DE FRUTAS LOCALES, USANDO ASÍ LAS VÍAS PÚBLICAS PARA SU ACTIVIDAD ECONÓMICA.",
+            "txPgObjetivo": "GESTIONAR LA CREACIÓN E IMPLEMENTACIÓN DEL MERCADO DE FRUTAS EN EL SECTOR DE LLIPATA.",
+            "txPgIndicador": "% ESTABLECIMIENTOS COMERCIALES MEJORADOS EN LA PROVINCIA.",
+            "txPgMeta": "MEJORAR LAS CONDICIONES EN LA QUE SE ENCUENTRAN LAS COMERCIANTES DE FRUTAS DE LLIPATA.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 215275,
+            "txPgProblema": "ESCASO APOYO DEL GOBIERNO A LOS PRODUCTORES GANADEROS Y LECHEROS, PARA LA TRANSFORMACIÓN DE MATERIAS PRIMAS EN PRODUCTOS.",
+            "txPgObjetivo": "GESTIONAR LA CONSTRUCCIÓN, IMPLEMENTACIÓN DE LA PLANTA PROCESADORA DE CARNES, Y PRODUCTOS LÁCTEOS.",
+            "txPgIndicador": "PORCENTAJE DE PRODUCTORES GANADEROS QUE ACCEDEN A TECNOLOGÍA PARA LA MEJORA DE SUS PROCESOS PRODUCTIVOS.",
+            "txPgMeta": "MEJORAR, TRANSFORMAR Y DARLE VALOR A AGREGADO A LA MATERIA PRIMA DE LOS PRODUCTORES LOCALES.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 215307,
+            "txPgProblema": "ESCASO APOYO DEL GOBIERNO A LOS PRODUCTORES DE FRUTA, PARA LA TRANSFORMACIÓN DE MATERIAS PRIMAS EN PRODUCTOS TERMINADOS.",
+            "txPgObjetivo": "GESTIONAR LA PLANTA PROCESADORA DE FRUTAS.",
+            "txPgIndicador": "PORCENTAJE DE PRODUCTORES DE FRUTA QUE ACCEDEN A TECNOLOGÍA, PARA LA MEJORA DE SUS PROCESOS PRODUCTIVOS",
+            "txPgMeta": "MEJORAR, TRANSFORMAR Y DARLE VALOR AGREGADO A LA MATERIA PRIMA DE LOS PRODUCTOS LOCALES DE FRUTA.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 215339,
+            "txPgProblema": "CONTAMINACIÓN AMBIENTAL, POR EL MAL MANEJO DE LOS RESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "MEJORAR EL TRATAMIENTO DE RESIDUOS SÓLIDOS, MEDIANTE LA CONSTRUCCIÓN DE UNA PLANTA DE RECICLAJE MUNICIPAL.",
+            "txPgIndicador": "PORCENTAJE DE ÁREAS DEGRADADAS POR RESIDUOS SÓLIDOS SIN INTERVENCIÓN.",
+            "txPgMeta": "REDUCIREMOS A 0% LAS ÁREAS AFECTADAS POR EL NO TRATAMIENTO DE RESIDUOS SÓLIDOS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 215368,
+            "txPgProblema": "CONTAMINACIÓN AMBIENTAL, MALOS OLORES OCASIONADOS POR LOS RESIDUOS, PROVENIENTES DE CRIADEROS DE CERDOS CERCANOS A LA CUIDAD.",
+            "txPgObjetivo": "CONSTRUIR, IMPLEMENTAR LA GRANJA MUNICIPAL, PARA LA REUBICACIÓN DE LOS CERDOS, PREVIA COORDINACIÓN CON LOS PRODUCTORES LOCALES.\nGESTIONAR LA IMPLEMENTACIÓN DE BIODIGESTORES, PARA EL TRATAMIENTO DE LOS RESIDUOS GENERADOS POR LOS CERDOS.",
+            "txPgIndicador": "PORCENTAJE DE ÁREAS DEGRADAS POR RESIDUOS SÓLIDOS SIN INTERVENCIÓN",
+            "txPgMeta": "REDUCIR AL 0% LA CONTAMINACIÓN, Y LOS MALOS OLORES PROVENIENTE DE LOS CRIADEROS DE CERDOS CERCANOS A LA CUIDAD",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 215394,
+            "txPgProblema": ". POCAS ACCIONES EN GESTIÓN DE DESASTRES",
+            "txPgObjetivo": "FORTALECER LAS INSTITUCIONES Y ORGANIZACIONES EN CULTURA DE ESTIMACIÓN, PREVENCIÓN Y REDUCCIÓN DE RIESGO.",
+            "txPgIndicador": "N° DE PROYECTOS DE DEFENSA RIBEREÑA EN ZONAS VULNERABLES DE DESASTRES.",
+            "txPgMeta": "MEJORAR LA CANTIDAD DE DEFENSAS RIVEREÑAS HASTA UN  50 %",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 215426,
+            "txPgProblema": "GESTIONAR LA IMPLEMENTACIÓN DE BIODIGESTORES, PARA EL TRATAMIENTO DE LOS RESIDUOS GENERADOS POR LOS CERDOS.",
+            "txPgObjetivo": "BRINDAR UNA EFICIENTE Y ADECUADA ATENCIÓN AL CUIDADO EN LA MUNICIPALIDAD.",
+            "txPgIndicador": "% DE SERVICIOS OPERATIVOS O MISIONALES INSTITUCIONALES CON CAPACIDAD OPERATIVA INADECUADA.",
+            "txPgMeta": "SATISFACER LAS NECESIDADES DEL CIUDADANO EN LAS CONSULTAS, TRAMITES, A TRAVÉS DE LA EVALUACIÓN DEL PROPIO CIUDADANO HACIA EL TRATO DEL SERVIDOR PÚBLICO.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 215451,
+            "txPgProblema": "DELINCUENCIA E INSEGURIDAD CIUDADANA",
+            "txPgObjetivo": "REDUCIR LOS ÍNDICES DE INSEGURIDAD CIUDADANA EN EL DISTRITO.\nGESTIONAR LA CONSTRUCCIÓN E IMPLEMENTACIÓN DEL PUESTO DE AUXILIO RÁPIDO EN CARLOS TIJERO, EN CONVENIO CON LA COMISARIA DE PALPA.",
+            "txPgIndicador": "PORCENTAJE DE SECTORES A NIVEL DE DISTRITO QUE NO CUENTA CON MEDIOS DE VIGILANCIA ADECUADA PARA BRINDAR EL SERVICIO DE SEGURIDAD CIUDADANA.",
+            "txPgMeta": "REDUCCIÓN DEL ÍNDICE DE ROBOS EN 50% EN EL DISTRITO.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 215480,
+            "txPgProblema": "FORTALECIMIENTO INSTITUCIONAL DE LA SOCIEDAD CIVIL.",
+            "txPgObjetivo": "ESTABLECER ESTRATEGIAS PARA LA LUCHA CONTRA LA DELINCUENCIA.\nTRABAJAR DE MANERA DIRECTA Y PARTICIPATIVA CON LAS ORGANIZACIONES DE DESARROLLO SOCIAL.\nORGANIZAR Y FORTALECER LAS ORGANIZACIONES DE BASE, PARA GARANTIZAR UNA GESTIÓN COMPARTIDA Y RECIBIR LAS CAPACITACIONES SOBRE LIDERAZGO.",
+            "txPgIndicador": "FALTA INTERVENCIÓN DE LA POBLACIÓN Y TOMA DE CONSCIENCIA PARA GARANTIZAR LA PARTICIPACIÓN EN PRESUPUESTO PARTICIPATIVO.",
+            "txPgMeta": "PARTICIPACIÓN CIUDADANA HASTA UN 70% DE POBLACIÓN.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

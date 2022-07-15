@@ -1,0 +1,172 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 198423.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "07240899",
+        "nombres": "LEONARDO",
+        "apellidoPaterno": "SANCHEZ",
+        "apellidoMaterno": "RIOS",
+        "sexo": "1",
+        "feNacimiento": "15/12/1957",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "190701",
+        "naciDepartamento": "PIURA",
+        "naciProvincia": "TALARA",
+        "naciDistrito": "PARIÑAS",
+        "ubigeoDomicilio": "190703",
+        "domiDepartamento": "PIURA",
+        "domiProvincia": "TALARA",
+        "domiDistrito": "LA BREA",
+        "domicilioDirecc": "CALLE LIBERTAD 465 NEGRITOS",
+        "ubigeoPostula": "190703",
+        "postulaDepartamento": "PIURA",
+        "postulaProvincia": "TALARA",
+        "postulaDistrito": "LA BREA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/198423.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 1411.0,
+        "organizacionPolitica": "REGION PARA TODOS",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 18:20:58",
+        "txGuidFormatoHojaVida": "22a95faa-bc7e-4c9f-afca-1197dce216ee",
+        "idSolicitudLista": 31303.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 192966,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "ESPECIALISTA EN ELECTRONICA GENERAL",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE LIBERTAD #465",
+            "anioTrabajoDesde": "2012",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "190703",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PIURA",
+            "trabajoProvincia": "TALARA",
+            "trabajoDistrito": "LA BREA",
+            "idHojaVida": 198423,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "PROFESOR EN EDUCACION RELEGIOSA"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 169990,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 198423,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 143283,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "INSTITUTO METROPOLITANO",
+                "carreraTecnico": "TECNICO ESPECIALISTA EN ELECTRONICA GENERAL",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 198423,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 138552,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "ODEC",
+                "carreraNoUni": "PROFESOR EN EDUCACION RELIGIOSA",
+                "concluidoNoUni": "1",
+                "idHojaVida": 198423,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 160398,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 12000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 198423,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 249851,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "INMUEBLE",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CALLE LIBERTAD #465",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "65255314",
+                "fichaTomoSunarp": null,
+                "autovaluo": 50000.0,
+                "idHojaVida": 198423,
+                "idEstado": 1,
+                "flValor": "50000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 137545,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "0500-1999-0-3102-JP-FC-01",
+            "txOrganoJuridicialObliga": "JUZGADO DE  PAZ",
+            "txFalloObliga": "SENTENCIADO POR CONCILIACION",
+            "idEstado": 1,
+            "idHojaVida": 198423,
+            "txComentario": null
+        }
+    ]
+}

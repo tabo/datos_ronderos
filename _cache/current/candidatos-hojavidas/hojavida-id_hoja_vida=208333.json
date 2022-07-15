@@ -1,0 +1,146 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 208333.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43527693",
+        "nombres": "MARTHA",
+        "apellidoPaterno": "BEIZAGA",
+        "apellidoMaterno": "AQUINO",
+        "sexo": "2",
+        "feNacimiento": "18/08/1979",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "070901",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "LA CONVENCION",
+        "naciDistrito": "SANTA ANA",
+        "ubigeoDomicilio": "070902",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "LA CONVENCION",
+        "domiDistrito": "ECHARATE",
+        "domicilioDirecc": "ECHARATE-CALLE RAMON CASTILLA S/N",
+        "ubigeoPostula": "070900",
+        "postulaDepartamento": "CUSCO",
+        "postulaProvincia": "LA CONVENCION",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/208333.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2368.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL INKA PACHAKUTEQ",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 06:44:22",
+        "txGuidFormatoHojaVida": "d1af2684-834c-4a3b-9882-5b562ed45e55",
+        "idSolicitudLista": 32557.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 227763,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MUNICIPALIDAD DISTRITAL DE ECHARATE",
+            "ocupacionProfesion": "DOCENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "RAMON CASTILLA",
+            "anioTrabajoDesde": "2022",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "070901",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CUSCO",
+            "trabajoProvincia": "LA CONVENCION",
+            "trabajoDistrito": "SANTA ANA",
+            "idHojaVida": 208333,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 200942,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 208333,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 175853,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "ASOCIACIÓN CIVIL UNIVERSIDAD CATÓLICA DE TRUJILLO BENEDICTO XVI",
+                "carreraUni": "BACHILLER EN EDUCACIÓN",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2022",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 183636,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 2000.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 500.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 208333,
+                "idEstado": 1,
+                "totalIngresos": 2500.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 189576,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "85223X ",
+                "valor": 5000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA HONDA SCOOTER",
+                "comentario": null,
+                "idHojaVida": 208333,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

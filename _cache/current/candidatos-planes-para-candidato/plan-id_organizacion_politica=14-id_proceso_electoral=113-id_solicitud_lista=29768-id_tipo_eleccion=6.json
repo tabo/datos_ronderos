@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23094,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/516cd60e-494a-4c5b-bbff-49537b42e737.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/01048705-f6c3-4b38-83cc-f11d935fdd4d.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 140221,
+            "txPgProblema": "BAJO NIVEL EDUCATIVO E INFRAESTRUCTURA Y EQUIPAMIENTO DEFICIENTE Y LIMITADO",
+            "txPgObjetivo": "AMPLIACIÓN Y/O CONSTRUCCIÓN DE INFRAESTRUCTURA DE UN CENTRO EDUCATIVO",
+            "txPgIndicador": "% DE NIÑOS ESTUDIANDO EN UN CENTRO EDUCATIVO",
+            "txPgMeta": "EL 100 % DE COBERTURA, (NINGÚN NIÑO EN EL DISTRITO SE QUEDE SIN ESTUDIAR.)",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 140227,
+            "txPgProblema": "DEFICIENTES SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO.",
+            "txPgObjetivo": "MEJORAMIENTO PAULATINO DE LOS SERVICIOS BÁSICOS, IDENTIFICANDO LOS LUGARES MAS URGENTES PARA SU ATENCIÓN",
+            "txPgIndicador": "% DE POBLACIÓN CON ACCESO A FUENTES DE AGUA POTABLE Y ALCANTARILLADO MEJORADOS",
+            "txPgMeta": "EL 80% DE ACCESO UNIVERSAL Y DE CALIDAD A LOS SERVICIOS BÁSICOS HACIA LA POBLACIÓN DEL DISTRITO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 140230,
+            "txPgProblema": "CRECIMIENTO DE LA ANEMIA Y LA DESNUTRICIÓN EN LAS ZONAS PERIFÉRICAS",
+            "txPgObjetivo": "INSTRUIR Y/O DIFUNDIR EN LA ELABORACIÓN DE PLATOS NUTRITIVOS EN LA POBLACIÓN, INSTITUCIONES EDUCATIVAS Y HACER SEGUIMIENTOS Y ESTADÍSTICAS DE AVANCE Y DESARROLLO DE LA PROBLEMÁTICA TRATADA.",
+            "txPgIndicador": "% DE POBLACIÓN CON ÍNDICE DE DESNUTRICIÓN Y ANEMIA",
+            "txPgMeta": "BAJAR EL ÍNDICE DE DESNUTRICIÓN AL 05 % Y ANEMIA AL 03%.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 140238,
+            "txPgProblema": "DESEMPLEO Y/O FALTA DE OPORTUNIDADES LABORALES LOCALES",
+            "txPgObjetivo": "ELABORACIÓN DE CURSOS DE EXTENSIÓN AGRÍCOLA E INFORMACIÓN DE MERCADOS Y ESTADÍSTICAS.",
+            "txPgIndicador": "% DE PERSONAS CON DESEMPLEO Y/O FALTA DE OPORTUNIDADES",
+            "txPgMeta": "BAJAR EL ÍNDICE DE DESEMPLEO INFORMAL AL 30%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 140242,
+            "txPgProblema": "LAS INSTITUCIONES INVOLUCRADAS EN EL TURISMO ESTÁN DESARTICULADAS Y NO HAY ESPÍRITU DE ESTAR ORGANIZADAS",
+            "txPgObjetivo": "INCENTIVAR LA PRESENCIA DE EMPRESAS ESPECIALIZADAS EN TURISMO LOCAL, QUE ORIENTE LA PROMOCIÓN TURÍSTICA",
+            "txPgIndicador": "CANTIDAD DE TURISTAS QUE VISITAN EL DISTRITO",
+            "txPgMeta": "50 % DE NUESTRA PROMOCIÓN TURÍSTICA INSTALADA Y PROMOCIONANDO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 140244,
+            "txPgProblema": "NULO APOYO A LOS PEQUEÑOS EMPRESARIOS LOCALES",
+            "txPgObjetivo": "IMPLEMENTAR FERIAS DONDE LOS PEQUEÑOS PRODUCTORES AGROPECUARIOS Y ARTESANOS PUEDAN OFRECER Y VENDER SUS PRODUCTOS.",
+            "txPgIndicador": "NÚMERO DE FERIAS ORGANIZADAS POR EL DISTRITO",
+            "txPgMeta": "CIUDAD LIBRE DE AMBULANTES (CERO AMBULANTES) Y ORDEN EN LAS CALLES",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 140247,
+            "txPgProblema": "INSUFICIENTE SERVICIO DE RECOLECCIÓN Y DISPOSICIÓN FINAL DE RESIDUOS SÓLIDOS",
+            "txPgObjetivo": "PROMOVER, DESARROLLAR E IMPLEMENTAR UN SISTEMA INTEGRAL AMIGABLE AL ECOSISTEMA DE RESIDUOS SÓLIDOS EN EL DISTRITO.",
+            "txPgIndicador": "% DE RECOLECCIÓN DE RESIDUOS SÓLIDOS.",
+            "txPgMeta": "100% DE COBERTURA EN LA RECOLECCIÓN DE RESIDUOS SÓLIDOS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 140249,
+            "txPgProblema": "CONTAMINACIÓN DEL RIO HUAURA",
+            "txPgObjetivo": "DISEÑAR Y/O CONSTRUIR RESERVORIOS DE TRATAMIENTO DE AGUAS SERVIDAS EN LA JURISDICCIÓN TERRITORIAL",
+            "txPgIndicador": "% DE POBLACIÓN QUE VIERTE AGUAS RESIDUALES AL RIO HUAURA",
+            "txPgMeta": "0 M3 DE VERTER AGUAS RESIDUALES AL RIO HUAURA.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 140251,
+            "txPgProblema": "PLAN DE INTERVENCIÓN DE DESASTRES NATURALES Y LA TOMA DE ACCIONES DESACTUALIZADO.",
+            "txPgObjetivo": "ACTUALIZAR EL PLAN DE INTERVENCIÓN DE DESASTRES NATURALES CON LA TOMA DE ACCIONES INMEDIATAS.",
+            "txPgIndicador": "NUMERO DE ZONAS CRITICAS A DESASTRES",
+            "txPgMeta": "100 % DE LA POBLACIÓN PREPARADA PARA LOS DESASTRES NATURALES MEDIANTE UNA CULTURA DE PREVENCIÓN DEL DISTRITO.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 140253,
+            "txPgProblema": "MARCADO MACHISMO EN LA SOCIEDAD LOCAL",
+            "txPgObjetivo": "IMPLEMENTACIÓN DE TALLERES DE IGUALDAD DE GÉNEROS Y HACERLE PARTICIPE AL MIDIS, PARA ELABORAR UN PLAN DE ACTIVIDADES",
+            "txPgIndicador": "% DE CASOS DE ABUSOS DE VARONES HACIA LAS MUJERES",
+            "txPgMeta": "REDUCCIÓN EN 50 % DE CASOS DE ABUSOS DE HOMBRES HACIA LAS MUJERES SEGÚN MINDES Y/O POLICÍA NACIONAL.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 140255,
+            "txPgProblema": "DEFICIENTE ATENCIÓN A LAS NECESIDADES, DEMANDAS Y/O SERVICIOS A LA POBLACIÓN LOCAL.",
+            "txPgObjetivo": "FORTALECER LA CAPACIDAD DE GESTIÓN Y LIDERAZGO DEL GOBIERNO LOCAL.",
+            "txPgIndicador": "% DE POBLACIÓN QUE SOLICITAN ACCESO A LA INFORMACIÓN PÚBLICA LOCAL.",
+            "txPgMeta": "SATISFACCIÓN AL 90% EN LA CALIDAD DE SERVICIOS BRINDADOS EN LAS OFICINAS DE LA MUNICIPALIDAD DISTRITAL DE CALETA DE CARQUIN",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 140257,
+            "txPgProblema": "CASI NULA ACCESIBILIDAD A LA INFORMACIÓN PUBLICA",
+            "txPgObjetivo": "IMPLEMENTAR LA PÁGINA DE TRANSPARENCIA CON INFORMACIÓN OPORTUNA Y ACTUALIZADA, ASÍ COMO UNA OFICINA DE ATENCIÓN PÚBLICA DONDE SE BRINDE ATENCIÓN PERSONALIZADA.",
+            "txPgIndicador": "% DE LA POBLACIÓN QUE SOLICITAN ACCESO A LA INFORMACIÓN PÚBLICA LOCAL.",
+            "txPgMeta": "ACCESIBILIDAD FÁCIL Y UNIVERSAL AL 100 % DE LA INFORMACIÓN PÚBLICA LOCAL.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

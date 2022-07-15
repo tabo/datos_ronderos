@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23535,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2716,
+        "txOrganizacionPolitica": "JUNIN RENACE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1690,
+        "juradoElectoral": "JAUJA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/37062b99-224d-4e32-8f24-40e1a52d5519.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/cc3bc511-f639-480e-a113-72a90dc9e511.pdf",
+        "txCodExpedienteExt": "ERM.2022013144",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 132366,
+            "txPgProblema": "DEFICIENCIA EN SERVICIOS DE AGUA Y DESAGÜE",
+            "txPgObjetivo": "IMPLEMENTACIÓN DE UN PROYECTO DE AMPLIACIÓN Y MEJORAMIENTO DE SISTEMA DE SANEAMIENTO",
+            "txPgIndicador": "DEMANDA INSATISFECHA DE 50%",
+            "txPgMeta": "MEJORA EN EL SERVICIO DE AGUA Y DESAGÜE EN 40 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132376,
+            "txPgProblema": "DEFICIENCIA EN INSTRAESTRUCTURA Y DEPORTE",
+            "txPgObjetivo": "PROMOVER PROGRAMAS PARA LA PRÁCTICA DEL DEPORTE",
+            "txPgIndicador": "POBLACIÓN EN DEPORTE 30%",
+            "txPgMeta": "MEJORA DE POBLACIÓN EN DEPORTE EN 90%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132452,
+            "txPgProblema": "PÉRDIDA DE VALORES E IDENTIDAD CULTURAL",
+            "txPgObjetivo": "IMPLEMENTAR PROGRAMAS DE RECUPERACIÓN DE LOS VALORES Y LA IDENTIDAD CULTURAL",
+            "txPgIndicador": "DESINTERÉS DE LA POBLACIÓN EN TEMAS DE VALORES EN UN 30%",
+            "txPgMeta": "FORTALECIMIENTO A LA POBLACIÓN EN 10 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 132463,
+            "txPgProblema": "DISMINUCIÓN DEL TURISMO",
+            "txPgObjetivo": "PROGRAMAS DE FORTALECIMIENTO AL TURISMO",
+            "txPgIndicador": "DISMINUCIÓN DE VISITAS EN 50%",
+            "txPgMeta": "MEJORA DE VISITAS DE TURISMO 50%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132488,
+            "txPgProblema": "DEFICIENCIA EN LA PRODUCCIÓN AGROPECUARIA",
+            "txPgObjetivo": "CONSTRUCCIÓN DE SISTEMA DE RIEGO TECNIFICADO",
+            "txPgIndicador": "DISMINUCIÓN DE PRODUCCIÓN AGROPECUARIA UN 50%",
+            "txPgMeta": "MEJORA EN LA PRODUCCION AGROPECUARIA EN 50%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132517,
+            "txPgProblema": "PUESTA EN EL MERCADO DE LOS PRODUCTOS AGROPECUARIOS SIN TRANSFORMACIÓN",
+            "txPgObjetivo": "PROCESAMIENTO DE PRODUCTOS LÁCTEOS Y OTROS",
+            "txPgIndicador": "PROCESAMIENTO ARTESANAL EN 10%",
+            "txPgMeta": "PROCESAMIENTO EN 10 PRODUCTOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 132523,
+            "txPgProblema": ".DEFICIENTE MANEJO DE CONSERVACIÓN DE BOSQUES",
+            "txPgObjetivo": "INSTALACIÓN DE VIVEROS AGROFORESTALES",
+            "txPgIndicador": "DEFORESTACIÓN PERMANENTE AL 5%",
+            "txPgMeta": "PLANTACIÓN DE 500,000 PLANTONES AGROFORESTALES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132528,
+            "txPgProblema": "FALTA DE CONCIENCIA AMBIENTAL RESIDUOS SOLIDOS",
+            "txPgObjetivo": "MEJORA EN LA SENSIBILIZACIÓN, RECOJO Y TRATAMIENTO DE LOS RESIDUOS SOLIDOS",
+            "txPgIndicador": "INCREMENTO DE LA CANTIDAD DE RESIDUOS SÓLIDOS EN 30%",
+            "txPgMeta": "MEJORA EN EL TRATAMIENTO EN 50 %",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132531,
+            "txPgProblema": "PÈRDIDA DE ESPECIES FORESTALES NATIVAS",
+            "txPgObjetivo": "IMPLEMENTACIÓN DE VIVEROS CON ESPECIES NATIVAS DE LA ZONA",
+            "txPgIndicador": "PERDIDA DE ESPECIES FORESTALES EN 15% ANUALES",
+            "txPgMeta": "INSTALACIÓN DE 200,000 PLANTONES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 132537,
+            "txPgProblema": "SISTEMA ADMINISTRATIVO DESACTUALIZADO",
+            "txPgObjetivo": "ACTUALIZACIÓN DE SISTEMAS ADMINISTRATIVOS",
+            "txPgIndicador": "SISTEMA ADMINISTRATIVO CON MEJORAS DE ACTUALIZACIÓN EN 10% ANUALES",
+            "txPgMeta": "MEJORA EN LA GESTIÓN ADMINISTRATIVA EN 50%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132547,
+            "txPgProblema": "FALTA DE EQUIPAMIENTO EN ÁREAS SENSIBLES DE LA MUNICIPALIDAD",
+            "txPgObjetivo": "EQUIPAMIENTO INSTITUCIONAL EN ÁREAS PRIORITARIAS DE ATENCIÓN AL CIUDADANO",
+            "txPgIndicador": "FALTA DE EQUIPAMIENTO EN UN 60%",
+            "txPgMeta": "MEJORA EN LA ATENCIÓN EN 50%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132582,
+            "txPgProblema": "ORGANIZACIONES DE BASE EN DESORDEN Y DESINFORMADAS",
+            "txPgObjetivo": "FORTALECIMIENTO DE LAS ORGANIZACIONES SOCIALES DE BASE",
+            "txPgIndicador": "DESORGANIZACIÓN EN INSTITUCIONES DE BASE EN 50%",
+            "txPgMeta": "MEJORA DE 10 ORGANIZACIONES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

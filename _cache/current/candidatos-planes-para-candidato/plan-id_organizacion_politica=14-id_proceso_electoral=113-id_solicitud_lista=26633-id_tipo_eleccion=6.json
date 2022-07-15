@@ -1,0 +1,125 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 19959,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/be8f2ae8-3e07-4413-950b-a2f5e351a893.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/18b3ce86-934d-47aa-a5f7-dce367db9289.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 156825,
+            "txPgProblema": "PREVENCIÓN Y PROMOCIÓN DEL SERVICIO DE SALUD.",
+            "txPgObjetivo": "PREVENIR Y PROMOCIONAR ACCIONES PARA EL CUIDADO DE LA SALUD PÚBLICA.",
+            "txPgIndicador": "NÚMERO DE PUESTOS DE SALUD EN EL ÁMBITO DISTRITAL.",
+            "txPgMeta": "100 % DE PUESTOS DE SALUD. \n10 BOTIQUINES EN COMUNIDADES.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156838,
+            "txPgProblema": "INSUFICIENTE COBERTURA DE SERVICIOS DE SANEAMIENTO BÁSICO.",
+            "txPgObjetivo": "MEJORAR LA INFRAESTRUCTURA DE REDES DE AGUA Y DESAGÜE",
+            "txPgIndicador": "NUMERO DE SISTEMAS DE AGUA POTABLE.",
+            "txPgMeta": "100% DE LA POBLACIÓN BENEFICIADA.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156856,
+            "txPgProblema": "BAJO ÍNDICE DE PARTICIPACIÓN DE LA CIUDADANÍA EN SEGURIDAD CIUDADANA.",
+            "txPgObjetivo": "IMPLEMENTAR LA UNIDAD ORGÁNICA A CARGO DE SEGURIDAD CIUDADANA.",
+            "txPgIndicador": "UNA UNIDAD ORGÁNICA EN EL DISTRITO.",
+            "txPgMeta": "CREAR UNIDAD ORGÁNICA.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 156935,
+            "txPgProblema": "1. DETERIORO DE LA PRODUCCIÓN EN LAS ACTIVIDADES AGROPECUARIAS TRADICIONALES.",
+            "txPgObjetivo": "GESTIONAR CONVENIO CON LA GERENCIA REGIONAL DE AGRICULTURA PARA CAPACITACIÓN Y ASISTENCIA TÉCNICA A AGRICULTORES.",
+            "txPgIndicador": "NUMERO DE TALLERES DE CAPACITACIÓN DESARROLLADOS",
+            "txPgMeta": "500 AGRICULTORES HAN RECIBIDO CAPACITACIÓN Y ASISTENCIA TÉCNICA",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156950,
+            "txPgProblema": "2.  FALTA DE RESERVORIOS PARA COSECHA DE AGUA.",
+            "txPgObjetivo": "CONSTRUIR Y PROMOVER LA CONSTRUCCIÓN DE MICRO RESERVORIOS DE AGUA.",
+            "txPgIndicador": "NUMERO DE MICRO RESERVORIOS DE AGUA.",
+            "txPgMeta": "CONTAR AL 100 MICRO RESERVORIOS EN BENEFICIO DE LOS FRUTICULTORES.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156970,
+            "txPgProblema": "3.INEXISTECIA DE PROMOCIÓN TURÍSTICA DEL DISTRITO DE TONGOD.",
+            "txPgObjetivo": "CONVENIO CON GRLL PARA IMPLEMENTAR PROGRAMA DE PROMOCIÓN EMPRESARIAL TURÍSTICA.",
+            "txPgIndicador": "UNIDADES ORGÁNICA DE PROMOCIÓN TURÍSTICA.",
+            "txPgMeta": "PROMOCIONAR 3 CIRCUITOS TURÍSTICOS EN EL ÁMBITO DISTRITAL.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 156988,
+            "txPgProblema": "1. DEFICIENTE PRESTACIÓN DEL SERVICIO DE MANEJO DE RESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "GESTIONAR E IMPLEMENTAR LA CONSTRUCCIÓN DE UNA PLANTA DE RESIDUOS SÓLIDOS.",
+            "txPgIndicador": "PLANTA DE MANEJO.",
+            "txPgMeta": "100 % POBLACIÓN ATENDIDA CON EL SERVICIO DE LIMPIEZA PÚBLICA.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 157003,
+            "txPgProblema": "2. INSUFICIENTE SERVICIO DE RIEGO PARA LA POBLACIÓN.",
+            "txPgObjetivo": "GESTIONAR LA CONSTRUCCIÓN DE SISTEMAS DE RIEGO.",
+            "txPgIndicador": "- NUMERO DE MICRO RESERVORIOS.\n- NUMERO DE SISTEMAS DE RIEGO POR ASPERSIÓN.",
+            "txPgMeta": "100% DE POBLACIÓN CON SISTEMAS DE RIEGO.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 157020,
+            "txPgProblema": "1. FALTA DE PLANIFICACIÓN EN EL CRECIMIENTO URBANO DISTRITAL.",
+            "txPgObjetivo": "ELABORAR EL PLAN DE DESARROLLO URBANO EN EL DISTRITO",
+            "txPgIndicador": "PLAN DE DESARROLLO URBANO",
+            "txPgMeta": "PDU APROBADO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 157037,
+            "txPgProblema": "2. DEFICIENTE ATENCIÓN INSTITUCIONAL A LAS ORGANIZACIONES SOCIALES DEL DISTRITO.",
+            "txPgObjetivo": "MEJORAR LA ATENCIÓN INSTITUCIONAL A LA POBLACIÓN.",
+            "txPgIndicador": "- SERVIDORES CAPACITADOS.\n- MODERNIZACIÓN CON EQUIPOS TECNOLÓGICOS.",
+            "txPgMeta": "MEJORAR LA INFRAESTRUCTURA Y EQUIPOS MUNICIPALES.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

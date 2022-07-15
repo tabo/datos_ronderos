@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 24246,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1264,
+        "txOrganizacionPolitica": "JUNTOS POR EL PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1727,
+        "juradoElectoral": "SANTA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/d825cb62-624e-480d-86f0-dee97c67e62a.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/bc47d23e-27f2-4bcb-824b-5515cc2b8488.pdf",
+        "txCodExpedienteExt": "ERM.2022018540",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 134846,
+            "txPgProblema": "FALTA DE DESAGÜE EN LOS CASERIOS",
+            "txPgObjetivo": "COBERTURA EN LOS ANEXOS, DESAGÚE A LAS VIVIENDAS",
+            "txPgIndicador": "ENFERMEDADES GASTROINTESTINALES PARASITARIAS Y DIARREICAS.",
+            "txPgMeta": "COBERTURA LOS SERVICIOS EN UN 95% DE CASERÍOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134863,
+            "txPgProblema": "FALTA DE SERVICIO DE ENERGÍA ELÉCTRICA EN ANEXOS",
+            "txPgObjetivo": "CONEXIÓN A CADA UNA DE LAS VIVIENDAS",
+            "txPgIndicador": "ENFERMEDADES RESPIRATORIAS Y GASTOS ELEVADOS EN COMBUSTIBLE",
+            "txPgMeta": "COBERTURA LOS SERVICIOS DE LUZ AL 100% DE ANEXOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134877,
+            "txPgProblema": "EN EL CENTRO DE SALUD JIMBE, NO HAY ATENCIÓN EN LA NOCHE",
+            "txPgObjetivo": "ELEVAR EL NIVEL A 1.4 Y DOTA DE MÉDICOS Y PERSONAL NECESARIO",
+            "txPgIndicador": "LAS OCURRENCIAS GRAVES DE SALUD EN LAS NOCHES NO SON ATENDIDOS",
+            "txPgMeta": "ATENDER LAS EMERGENCIAS EN LAS NOCHES AL 90%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 134900,
+            "txPgProblema": "DEFICIENTE DESARROLLO AGRAGRIO, ABANDONO DE CULTIVO DE QUINA, FALTA DE PROYECTOS DE SOSTENIBILIDAD.",
+            "txPgObjetivo": "DESARROLLAR EL AGRO CON TECNOLOGÍA Y PLANIFICACIÓN, DOTANDO DE ASISTENCIA TÉCNICA Y REFORZANDO LOS DIQUES DE LAS LAGUNAS PARA TENER AGUA NECESARIA",
+            "txPgIndicador": "INCREMENTO DE TERRENOS SIN CULTIVAR, ESCASES DE ALIMENTOS",
+            "txPgMeta": "RECUPERAR EL 95% DE ÁREAS DE CULTIVO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134910,
+            "txPgProblema": "FALTA FOMENTAR EL TURISMO E IDUSTRIA SIN CHIMENEAS.",
+            "txPgObjetivo": "HABILITACIÓN DEL ACCESO A LAS CATARATAS, A LAS ZONAS ARQUEOLÓGICAS Y LAGUNAS.",
+            "txPgIndicador": "MIGRACIÓN DE LOS JÓVENES A LA CIUDAD.",
+            "txPgMeta": "DISMINUCIÓN DE LA MIGRACIÓN, INCREMENTO DE INFRAESTRUCTURA DE RESTAURANTES Y HOTELES",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134924,
+            "txPgProblema": "FALTA PROMOCIÓN DE LAS FERIAS DE ALIMENTOS DE LOS VIERNES Y SÁBADOS, Y FALTA DE CENTRO DE ACOPIO.",
+            "txPgObjetivo": "DIFUSIÓN Y PROMOCIÓN EN LAS CIUDADES CERCANAS DE LAS FERIAS DE VENTA Y PREPARACIÓN DE ALIMENTOS DE LA ZONA Y CONSTRUCCIÓN DE UN CENTRO DE ACOPIO.",
+            "txPgIndicador": "FALTA DEMANDA DE ALIMENTOS DE LA ZONA, DESALIENTA EL CULTIVO DE ALIMENTOS GENERA POBREZA.",
+            "txPgMeta": "INCREMENTO EL TURISMO EN 75% BENEFICIANDO A LOS PRODUCTORES.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 134931,
+            "txPgProblema": "FALTA DE VIVEROS PARA REFORESTAR",
+            "txPgObjetivo": "IMPLEMENTACIÓN DE VIVEROS DE EUCALIPTO Y ALISO",
+            "txPgIndicador": "ESCASES DE ÁRBOLES PARA PROTEGER LA HUMEDAD DE LA TIERRA Y USOS EN EL CAMPO",
+            "txPgMeta": "RECUPERAR LAS ÁREAS FORESTALES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134965,
+            "txPgProblema": "CARENCIA DE UN PLAN DE ORDENAMIENTO TERRITORIAL Y ZONIFICACIÓN ECOLÓGICA AMBIENTAL",
+            "txPgObjetivo": "DISEÑAR E IMPLEMENTAR EL PLAN DE ORDENAMIENTO TERRITORIAL Y LA ZONIFICACIÓN ECONÓMICA AMBIENTAL, RESPETANDO LAS CABECERAS DE CUENCA.",
+            "txPgIndicador": "CRECIMIENTO DESORDENADO DEL DISTRITO",
+            "txPgMeta": "CONTAR CON UN PLAN DE ORDENAMIENTO TERRITORIAL E IMPLEMENTADO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135071,
+            "txPgProblema": "EL CAUDAL DE LOS RÍOS HA BAJADO, DEBIDO A LA FILTRACIÓN POR DESGASTE DE LOS DIQUES EN LAS LAGUNAS",
+            "txPgObjetivo": "RECONSTRUIR LOS DIQUES, SEGÚN DIRECCIÓN TÉCNICA",
+            "txPgIndicador": "FALTA DE AGUA PARA EL CULTIVO AGRARIO SOBRE TODO LOS MESES DE JUNIO A NOVIEMBRE",
+            "txPgMeta": "95% DE RECONSTRUCCIÓN DE DIQUES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 135094,
+            "txPgProblema": "POCA PARTICIPACIÓN DE LAS ORGANIZACIONES DE BASE",
+            "txPgObjetivo": "FOMENTAR LA PARTICIÁCIÓN DE TODAS LAS ORGANIZACIONES DE BASE Y COMPROMETERLOS EN LOS PROYECTOS DE DESARROLLO",
+            "txPgIndicador": "RESULTADOS NEGATIVOS DE LAS AUDIENCIAS Y TALLERES DE PARTICIPACIÓN CIUDADANA",
+            "txPgMeta": "100% CAPACITACIÓN Y DESARROLLO EN TODOS LOS TALLERES DE PARTICIPACIÓN CIUDADANA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135109,
+            "txPgProblema": "DEMASIADA BUROCRACIA EN EL SISTEMA ADMINISTRATIVO MUNICIPAL",
+            "txPgObjetivo": "CAPACITAREMOS A TODO EL PERSONAL, ELIMINAR BARRERAS BUROCRÁTICAS, HAREMOS DE UN GOBIERNO CARA AL PUEBLO",
+            "txPgIndicador": "FALTA DE PLANES DE DESARROLLO CONCERTADO LOCAL",
+            "txPgMeta": "SE GARANTIZARA LA PARTICIPACIÓN ACTIVA, TRANSPARENTE Y ORGANIZADA, LAS FAMILIAS POBRES SERÁN PRIMERO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135151,
+            "txPgProblema": "POCA PARTICIPACIÓN DE REGIDORES, GENERA POCA FISCALIZACION ADMINISTRAT3IVA",
+            "txPgObjetivo": "CAPACITACION PERMANENTE DE REGIDORES Y TRABAJADORES POR MEDIO DE ESPECIALISTAS Y MOTIVADORES",
+            "txPgIndicador": "FALTA DE CAPACITACION Y MOTIVACIÓN PERSONAL",
+            "txPgMeta": "REGIDORES Y FUNCIONARIOS LÍDERES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

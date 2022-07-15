@@ -1,0 +1,168 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 216661.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "02362431",
+        "nombres": "CASIMIRO",
+        "apellidoPaterno": "PARI",
+        "apellidoMaterno": "TICONA",
+        "sexo": "1",
+        "feNacimiento": "05/03/1952",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "200506",
+        "naciDepartamento": "PUNO",
+        "naciProvincia": "HUANCANE",
+        "naciDistrito": "PUSI",
+        "ubigeoDomicilio": "200506",
+        "domiDepartamento": "PUNO",
+        "domiProvincia": "HUANCANE",
+        "domiDistrito": "PUSI",
+        "domicilioDirecc": "PARC. JATUN AYLLO SECTOR CCOMPI",
+        "ubigeoPostula": "200506",
+        "postulaDepartamento": "PUNO",
+        "postulaProvincia": "HUANCANE",
+        "postulaDistrito": "PUSI",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/216661.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2338.0,
+        "organizacionPolitica": "PODER ANDINO",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 20:21:13",
+        "txGuidFormatoHojaVida": "33c20de0-93eb-44fa-a993-b41db332f9e9",
+        "idSolicitudLista": 33616.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 251293,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "JULIACA",
+            "ocupacionProfesion": "CHOFER",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JULIACA",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "200901",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PUNO",
+            "trabajoProvincia": "SAN ROMAN",
+            "trabajoDistrito": "JULIACA",
+            "idHojaVida": 216661,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 222750,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "NO",
+            "eduSecundaria": null,
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 216661,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 142942,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 4,
+                "orgPolCargoPartidario": "PARTIDO POLÍTICO ACCION POPULAR",
+                "cargoPartidario": "SECRETARIO GENERAL DISTRITAL",
+                "anioCargoPartiDesde": "2000",
+                "anioCargoPartiHasta": "2006",
+                "idHojaVida": 216661,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 200321,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 12000.0,
+                "idHojaVida": 216661,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 240243,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "LOTE",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "FUNDO MOROGACHI LOTE NRO.1 MANZANA C",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 35.0,
+                "idHojaVida": 216661,
+                "idEstado": 1,
+                "flValor": "250"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 135604,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "00164-2007-0-2105-JR-PE-01",
+            "feSentenciaPenal": "08/09/2016",
+            "txOrganoJudiPenal": "JUZGADO MIXTO SEDE COLLAO",
+            "txDelitoPenal": "FALSIFICACION DE DOCUMENTOS EN GENERAL",
+            "txFalloPenal": "4 AÑOS",
+            "idParamModalidad": 11,
+            "txModalidad": "SUSPENDIDA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 216661,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": []
+}

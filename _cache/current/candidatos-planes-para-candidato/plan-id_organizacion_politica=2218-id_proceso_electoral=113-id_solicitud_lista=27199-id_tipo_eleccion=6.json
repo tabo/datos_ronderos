@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20525,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/b4fe45b2-3bfe-4942-8d70-d4a975a1081a.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/2c695f0b-5358-4866-ae5e-a57ad0a58275.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 221124,
+            "txPgProblema": "1º INSEGURIDAD CIUDADANA",
+            "txPgObjetivo": "REDUCIR LOS ROBOS Y ASALTOS EN EL DISTRITO",
+            "txPgIndicador": "INDICE EN INCREMENTO",
+            "txPgMeta": "REDUCIR EN EL PRIMER AÑO 20%, EL SEGUNDO AÑO 20% EL TERCER AÑO 20% Y EL CUARTO AÑO 20%, QUE HACE UN TOTAL DEL 80%.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 221211,
+            "txPgProblema": "INFORMALIDAD ECONOMICA",
+            "txPgObjetivo": "1º REDUCIR LA INFOMALIDAD .DE NEGOCIOS EN TODO EL DISTRITO, 2º CAPACITAR A LOS COMERCIANTES INFORMALES, PARA SU FORMALIZACION",
+            "txPgIndicador": "1º TASA DE INFORMALIDAD EN EL DISTRITO ES UN 70%, - 2º PORCENTAGE DE CAPACITACION POR COMERCIO INFORMAL",
+            "txPgMeta": "REDUCIR EN UN 50% DE LA INFORMALIDAD EN LOS  COMERCION Y SERVICIOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 221361,
+            "txPgProblema": "CONTAMINACION DEL MEDIO AMBIENTE POR DESECHOS SOLOIDOS CREADOS POR LOS AMBULANTES Y FALTA DE CONCIENCIA AMBIENTAL",
+            "txPgObjetivo": "MEJORAR LA COBERTURA DE RECOJO DE DESECHO SOLIDO Y CONSIENTIZAR A LAS CIUDADANIA SOBRE EL RECICLAJE",
+            "txPgIndicador": "ACOMULACION DE BASURA EN LAS CALLES EN FORMA PERMANENTE",
+            "txPgMeta": "COBERTURA DE RECOJO DE DESECHO SOLIDO AL  100% , EN FORMA DIARIA Y ADQUISISION DE CAMIONES RECOLECTORES DE BASURA.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 221551,
+            "txPgProblema": "FALTA DE COMPROMISO DE LOS CIUDADANOS CON EL DISTRITO",
+            "txPgObjetivo": "1º ORGANIZAR A LA POBLACION A LA PARTICIPACION ACTIVA EN LA MUNICIPALIDAD - 2º CAPACITACION Y ELECION DEMOCRATICA DE DELEGADOS ZONALES Y SECTORIALES DEL DISTRITO.",
+            "txPgIndicador": "1º TASA DE PARTICIPACION DE LA POBLACION ZONIFICADA - 2º FALTA DE COBERTURA DE REPRESENTACION DE LOS DIRIGENTES ZONALES.",
+            "txPgMeta": "1º INCREMENTAR EN UN 80% LA PARTICIPACION VECINAL EN EL DISTRITO - 2º CUBRIR EN UN 100% A LOS REPRESENTANTES ZONALES Y  SECTORIALES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

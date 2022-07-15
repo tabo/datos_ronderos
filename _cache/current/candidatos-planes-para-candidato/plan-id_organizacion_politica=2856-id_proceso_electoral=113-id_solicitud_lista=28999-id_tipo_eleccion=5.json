@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 22325,
+        "idTipoEleccion": 5,
+        "txTipoEleccion": "MUNICIPAL PROVINCIAL",
+        "idOrganizacionPolitica": 2856,
+        "txOrganizacionPolitica": "ALIANZA GOBIERNO UNIDAD Y ACCION",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/c3ed9a84-19ca-4684-9e58-4e8236eef1a5.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/eb48a2a4-7561-4ea7-9bb3-a6db417c46cc.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 219896,
+            "txPgProblema": "INADECUADA INFRAESTRUCTURA DE CENTROS EDUCATIVOS.",
+            "txPgObjetivo": "NUEVA INFRAESTRUCTURA Y CONSTRUCCIÓN DE CENTROS EDUCATIVOS",
+            "txPgIndicador": "PORCENTAJE DE CONSTRUCCIÓN DE I.E.",
+            "txPgMeta": "100% DE LA POBLACIÓN ESCOLAR BENEFICIADA.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 219939,
+            "txPgProblema": "EXISTE BRECHA EN EL SERVICIO DE AGUA Y DESAGÜE, GRAVES",
+            "txPgObjetivo": "EJECUCIÓN DE OBRAS DE AGUA Y DESAGÜE.",
+            "txPgIndicador": "PORCENTAJE DE OBRAS EJECUTADAS",
+            "txPgMeta": "80% DEL TERRITORIO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 219975,
+            "txPgProblema": "ACTIVIDADES DE DELINCUENCIA PERMANENTE EN TODA NUESTRA PROVINCIA DE PALLASCA. .",
+            "txPgObjetivo": "CREACIÓN DE RONDAS CAMPESINAS Y URBANAS.",
+            "txPgIndicador": "PORCENTAJE DE CREACIÓN DE RONDAS CAMPESINAS Y URBANAS",
+            "txPgMeta": "70% DEL TERRITORIO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 220021,
+            "txPgProblema": "FALTA DE MAYOR CAPACITACIÓN DE LOS GESTORES EN EMPRENDIMIENTO ECONÓMICO.",
+            "txPgObjetivo": "CREACIÓN DEL PROGRAMA DE CAPACITACIÓN DE EMPRENDEDORES.",
+            "txPgIndicador": "PORCENTAJE DE CREACIÓN DE PROGRAMAS",
+            "txPgMeta": "90% DE LA POBLACIÓN BENEFICIADA.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 220055,
+            "txPgProblema": "FALTA DE UN ADECUADO PROGRAMA DE DIFUSIÓN DE NUESTRAS BONDADES TURÍSTICAS.",
+            "txPgObjetivo": "CREACIÓN DEL PLAN TURÍSTICO PROVINCIAL",
+            "txPgIndicador": "PORCENTAJE DE ELABORACIÓN DEL PLAN TURÍSTICO",
+            "txPgMeta": "100% DE ELABORACIÓN",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 220098,
+            "txPgProblema": "FALTA DE DINÁMICA DE GESTIÓN PARA EL ACCESO A CRÉDITOS Y BENEFICIOS OTORGADOS POR EL ESTADO.",
+            "txPgObjetivo": "GESTIONAR EL ACCESO DE LA POBLACIÓN A LOS PROGRAMAS CON CRÉDITOS OTORGADOS POR EL ESTADO",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN SUJETO A CRÉDITO",
+            "txPgMeta": "80% DE LA POBLACIÓN BENEFICIADA.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 220129,
+            "txPgProblema": "FALTA DE ADECUADA GESTIÓN DE AGUAS RESIDUALES.",
+            "txPgObjetivo": "CREACIÓN DE PLANTA DE TRATAMIENTO DE AGUAS RESIDUALES (PTAR).",
+            "txPgIndicador": "PORCENTAJE DE CONSTRUCCIÓN DE LA PLANTA",
+            "txPgMeta": "50% DE CONSTRUCCIÓN",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 220167,
+            "txPgProblema": "PRESENCIA ESTACIONAL DE MALOS OLORES PROVENIENTES DE AGUAS NEGRAS NO TRATADAS",
+            "txPgObjetivo": "ERRADICACIÓN DE MALOS OLORES MEDIANTE EL BIOMANEJO DE CIANOBACTERIAS.",
+            "txPgIndicador": "PORCENTAJE DE ERRADICACIÓN",
+            "txPgMeta": "70% BENEFICIADA LA POBLACIÓN.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 220208,
+            "txPgProblema": "PRESENCIA DE MULADARES.",
+            "txPgObjetivo": "ERRADICACIÓN DE MULADARES MEDIANTE UN ÓPTIMO SERVICIO DE LIMPIEZA PÚBLICA Y GESTIÓN DE RESIDUOS SÓLIDOS CON RELLENOS SANITARIOS ALEJADOS DE LA POBLACIÓN.",
+            "txPgIndicador": "PORCENTAJE DE ERRADICACIÓN.",
+            "txPgMeta": "80% DE ERRADICACIÓN.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 220230,
+            "txPgProblema": "POCO DIÁLOGO ENTRE ACTORES DE LA SOCIEDAD Y SU GOBIERNO LOCAL.",
+            "txPgObjetivo": "FOMENTAR LA PARTICIPACIÓN CIUDADANA MEDIANTE PARTICIPACIÓN CIUDADANA",
+            "txPgIndicador": "PORCENTAJE DE PARTICIPACIÓN DE LA POBLACIÓN.",
+            "txPgMeta": "100% DE PARTICIPACIÓN.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 220255,
+            "txPgProblema": "POCA ATENCIÓN DIRECTA DEL PEDIDO CIUDADANO DE SER ATENDIDO POR FUNCIONARIOS DE LA MUNICIPALIDAD.",
+            "txPgObjetivo": "ELABORACIÓN DE DIRECTIVA PARA ATENCIÓN A CIUDADANOS",
+            "txPgIndicador": "PORCENTAJE DE ELABORACIÓN.",
+            "txPgMeta": "100% DE ELABORACIÓN.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 220280,
+            "txPgProblema": "DESFASE DE ACTUALIZACIÓN DE LOS SISTEMAS ADMINISTRATIVOS.",
+            "txPgObjetivo": "CAPACITACIÓN PARA ACTUALIZACIÓN DELOS SISTEMAS ADMINISTRATIVOS.",
+            "txPgIndicador": "PORCENTAJE DE CAPACITACIONES.",
+            "txPgMeta": "100% DE CAPACITACIÓN AL PERSONAL.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

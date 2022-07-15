@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 222785.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42080830",
+        "nombres": "JANET",
+        "apellidoPaterno": "RODAS",
+        "apellidoMaterno": "PAUCAR",
+        "sexo": "2",
+        "feNacimiento": "15/11/1983",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "061006",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "SAN MIGUEL",
+        "naciDistrito": "NIEPOS",
+        "ubigeoDomicilio": "061006",
+        "domiDepartamento": "CAJAMARCA",
+        "domiProvincia": "SAN MIGUEL",
+        "domiDistrito": "NIEPOS",
+        "domicilioDirecc": "CALLE SAN MARTIN 7",
+        "ubigeoPostula": "061006",
+        "postulaDepartamento": "CAJAMARCA",
+        "postulaProvincia": "SAN MIGUEL",
+        "postulaDistrito": "NIEPOS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/222785.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 1464.0,
+        "organizacionPolitica": "CAJAMARCA SIEMPRE VERDE",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 17:31:33",
+        "txGuidFormatoHojaVida": "89145ca3-4f01-4727-b2f1-6b4e90ebc08b",
+        "idSolicitudLista": 34312.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 170149,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "I.E VICTOR ANDRES BELAUNDE",
+            "ocupacionProfesion": "PROFESORA(CONTRATADA)",
+            "rucTrabajo": null,
+            "direccionTrabajo": "NIEPOS",
+            "anioTrabajoDesde": "2022",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "061006",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CAJAMARCA",
+            "trabajoProvincia": "SAN MIGUEL",
+            "trabajoDistrito": "NIEPOS",
+            "idHojaVida": 222785,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 148987,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 222785,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 136432,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "INSTITUTO PEDAGOCIO FRANCISCISCO GONZALES BURGA",
+                "carreraNoUni": "CIENCIAS NATURALES",
+                "concluidoNoUni": "1",
+                "idHojaVida": 222785,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 140737,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 222785,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 145091,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 32400.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 222785,
+                "idEstado": 1,
+                "totalIngresos": 32400.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

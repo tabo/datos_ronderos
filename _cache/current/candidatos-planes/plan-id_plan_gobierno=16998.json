@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 16998,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2862,
+        "txOrganizacionPolitica": "CONTIGO REGION",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1715,
+        "juradoElectoral": "PIURA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/37885726-4d93-49bc-a2d4-1c7929fc0369.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/f4b4d8b1-a36f-41b8-925f-bf4bd4e9274e.pdf",
+        "txCodExpedienteExt": "ERM.2022008062",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 142704,
+            "txPgProblema": "DEFICIENTES CONDICIONES PARA LA PRESTACIÓN DEL SERVICIO DE SALUD Y SALUBRIDAD EN EL DISTRITO",
+            "txPgObjetivo": "ADECUADAS CONDICIONES PARA LA PRESTACIÓN DEL SERVICIO DE SALUD Y SALUBRIDAD DISTRITAL",
+            "txPgIndicador": "100% DE ESTABLECIMIENTOS DE SALUD DEL PRIMER NIVEL DE ATENCIÓN CON CAPACIDAD INSTALADA INADECUADA",
+            "txPgMeta": "60% DE ESTABLE-CIMIENTOS DE SALUD DEL PRIMER NIVEL DE ATENCIÓN CON CAPACIDAD INSTALADA INADECUADA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 142718,
+            "txPgProblema": "NADECUADAS CONDICIONES FÍSICAS PARA LA PRESTACIÓN DEL SERVICIO EDUCATIVO BÁSICO REGULAR Y ESPECIAL",
+            "txPgObjetivo": "ADECUADAS CONDICIONES FÍSICAS PARA LA PRESTACIÓN DEL SERVICIO EDUCATIVO BÁSICO REGULAR Y ESPECIAL",
+            "txPgIndicador": "70% DE UNIDADES PRODUCTORAS CON EL SERVICIO DE EDUCA-CIÓN CON CAPACIDAD INSTALADA INADECUADA",
+            "txPgMeta": "50% DE UNIDADES PRODUCTORAS CON EL SERVICIO DE EDUCA-CIÓN CON CAPACIDAD INSTALADA INADECUADA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 142733,
+            "txPgProblema": "DEFICIENTE E INADECUADO SERVICIO DE AGUA POTABLE, DISPOSICIÓN SANITARIA DE EXCRETAS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Y TRATAMIENTO DE AGUAS RESIDUALES",
+            "txPgObjetivo": "MEJORAR SERVICIO DE AGUA POTABLE, ALCANTARILLADO Y TRATAMIENTO DE AGUAS RESIDUALES",
+            "txPgIndicador": "58% DE LA POBLACIÓN SIN ACCESO A LOS SERVICIOS DE AGUA POTABLE, DISPOSICIÓN SANITARIA DE EXCRETAS Y TRATAMIENTO DE AGUAS RESIDUALES",
+            "txPgMeta": "40% DE LA POBLACIÓN SIN ACCESO A LOS SERVICIOS DE AGUA POTABLE, DISPOSICIÓN SANITARIA DE EXCRETAS Y TRATAMIENTO DE AGUAS RESIDUALES",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 142764,
+            "txPgProblema": "INADECUADAS CONDICIONES PARA EL SERVICIO DE PROVISIÓN DE AGUA PARA RIEGO Y DE TRANSFERENCIA TECNOLÓGICA PRODUCTIVA AGROPECUARIA EN EL DISTRITO",
+            "txPgObjetivo": "ADECUADAS CONDICIONES PARA EL SERVICIO DE PROVISIÓN DE AGUA PARA RIEGO Y DE TRANSFERENCIA TECNOLÓGICA PRODUCTIVA AGROPECUARIA EN EL DISTRITO",
+            "txPgIndicador": "57% DE SISTEMA DE RIEGO QUE OPERAN EN CONDICIONES INADECUADAS",
+            "txPgMeta": "40% DE SISTEMA DE RIEGO QUE OPERAN EN CONDICIONES INADECUADAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 142781,
+            "txPgProblema": "DEFICIENTES CONDICIONES DE TRANSITABILIDAD VEHICULAR Y PEATONAL EN EL DISTRITO",
+            "txPgObjetivo": "ADECUADAS CONDICIONES DE TRANSITABILIDAD VEHICULAR Y PEATONAL EN EL DISTRITO",
+            "txPgIndicador": "68% DE LA RED VIAL VECINAL NO PAVIMENTADA CON INADECUADOS NIVELES DE SERVICIO",
+            "txPgMeta": "50% DE LA RED VIAL VECINAL NO PAVIMENTADA CON INADECUADOS NIVELES DE SERVICIO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 142814,
+            "txPgProblema": "INADECUADOS SERVICIOS DE ELECTRIFICACIÓN",
+            "txPgObjetivo": "ADECUADA PROVISIÓN DE SERVICIOS DE ENERGÍA ELÉCTRICA",
+            "txPgIndicador": "21% DE VIVIENDAS QUE TIENEN SERVICIO ELÉCTRICO INADECUADO",
+            "txPgMeta": "12% DE VIVIENDAS QUE TIENEN SERVICIO ELÉCTRICO INADECUADO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 142871,
+            "txPgProblema": "INADECUADO SISTEMA DE DRENAJE PLUVIAL EN LA ZONA URBANA Y RURAL.",
+            "txPgObjetivo": "MEJORAR EL SISTEMA DE DRENAJE PLUVIAL EN LA ZONA URBANA Y RURAL DEL DISTRITO.",
+            "txPgIndicador": "70% DE SISTEMA DE DRENAJE PLUVIAL EN LA ZONA URBANA Y RURAL INADECUADO",
+            "txPgMeta": "55% DE SISTEMA DE DRENAJE PLUVIAL EN LA ZONA URBANA Y RURAL INADECUADO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 142904,
+            "txPgProblema": "DEFICIENTE CONTROL Y MONITOREO AMBIENTAL",
+            "txPgObjetivo": "CONTROLAR Y REDUCIR LA CONTAMINACIÓN DE LOS RECURSOS NATURALES CON ADECUADO\nSEGUIMIENTO Y MONITOREO",
+            "txPgIndicador": "90% DE CONTROL Y MONITOREO AMBIENTAL DEFICIENTE",
+            "txPgMeta": "70% DE CONTROL Y MONITOREO AMBIENTAL DEFICIENTE",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 142933,
+            "txPgProblema": "DÉBIL PROMOCIÓN DE LA CONCIENCIA ECOLÓGICA",
+            "txPgObjetivo": "PROMOVER UNA CONCIENCIA ECOLÓGICA Y PRÁCTICAS DE CONSERVACIÓN DEL MEDIO\nAMBIENTE",
+            "txPgIndicador": "85% DE PROMOCIÓN DE CONCIENCIA ECOLÓGICA POR FORTALECER",
+            "txPgMeta": "65% DE PROMOCIÓN DE CONCIENCIA ECOLÓGICA POR FORTALECER",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 142980,
+            "txPgProblema": "DEFICIENTE PRESTACIÓN DE SERVICIOS MUNICIPALES",
+            "txPgObjetivo": "MEJORAMIENTO DE LA PRESTACIÓN DE SERVICIOS MUNICIPALES",
+            "txPgIndicador": "65% DE PRESTACIÓN DE SERVICIOS MUNICIPALES DEFICIENTES",
+            "txPgMeta": "40% DE PRESTACIÓN DE SERVICIOS MUNICIPALES DEFICIENTES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 143011,
+            "txPgProblema": "DÉBIL ORGANIZACIÓN Y GESTIÓN DE LAS INSTITUCIONES DE BASE DEL DISTRITO",
+            "txPgObjetivo": "FORTALECIMIENTO EN LA ORGANIZACIÓN Y GESTIÓN DE LAS INSTITUCIONES DE BASE DEL DISTRITO",
+            "txPgIndicador": "60% DE ORGANIZACIÓN Y GESTIÓN DE LAS INSTITUCIONES DE BASE DEL DISTRITO POR FORTALECER",
+            "txPgMeta": "40% DE ORGANIZACIÓN Y GESTIÓN DE LAS INSTITUCIONES DE BASE DEL DISTRITO POR FORTALECER",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 143026,
+            "txPgProblema": "INADECUADA PLANIFICACIÓN DEL DESARROLLO URBANO Y RURAL DEL DISTRITO",
+            "txPgObjetivo": "MEJORAR LA PLANIFICACIÓN DEL DESARROLLO URBANO RURAL.",
+            "txPgIndicador": "75% DE PLANIFICACIÓN DEL DESARROLLO URBANO Y RURAL DEL DISTRITO INADECUADA",
+            "txPgMeta": "55% DE PLANIFICACIÓN DEL DESARROLLO URBANO Y RURAL DEL DISTRITO INADECUADA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

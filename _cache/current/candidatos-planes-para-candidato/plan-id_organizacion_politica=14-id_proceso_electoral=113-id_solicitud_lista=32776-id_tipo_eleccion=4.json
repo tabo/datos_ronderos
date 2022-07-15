@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 26102,
+        "idTipoEleccion": 4,
+        "txTipoEleccion": "REGIONAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/aad4112d-0d2b-4a34-ac1e-cf2e75f12a22.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/225fe262-9c5b-41e3-b6bd-b43da5f38121.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 233241,
+            "txPgProblema": "ALTOS ÍNDICES DE ANEMIA Y DESNUTRICIÓN CRÓNICA INFANTIL.",
+            "txPgObjetivo": "REDUCIR LA DESNUTRICIÓN CRÓNICA Y ANEMIA.",
+            "txPgIndicador": "TASA DE DESNUTRICIÓN CRÓNICA INFANTIL",
+            "txPgMeta": "3% DESNUTRICIÓN\n30% ANEMIA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 233348,
+            "txPgProblema": "BAJA CALIDAD DE LOS SERVICIOS EDUCATIVOS.",
+            "txPgObjetivo": "MEJORAR LA CALIDAD EDUCATIVA EN LAS INSTITUCIONES EDUCATIVAS",
+            "txPgIndicador": "PROPORCIÓN DE ESTUDIANTES DE 2DO GRADO DE PRIMARIA CON NIVEL SATISFACTORIO EN MATEMÁTICAS Y RAZONAMIENTO LÓGICO",
+            "txPgMeta": "70% DE ESTUDIANTES DE 2DO GRADO DE PRIMARIA CON NIVEL SATISFACTORIO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 233355,
+            "txPgProblema": "BAJA COBERTURA DE LOS SERVICIOS BÁSICOS DE AGUA Y SANEAMIENTO EN ÁREAS RURALES Y ZONAS PERIFÉRICAS DE LA CIUDAD.",
+            "txPgObjetivo": "REDUCIR LA BRECHA DE ACCESO AL SERVICIO DE AGUA Y SANEAMIENTO EN ÁREAS RURALES Y ZONAS PERIFÉRICAS.",
+            "txPgIndicador": "PORCENTAJE DE COBERTURA DE AGUA POTABLE Y SANEAMIENTO A LA POBLACIÓN RURAL.",
+            "txPgMeta": "80% AGUA\n\n60% DESAGÜE",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 233264,
+            "txPgProblema": "CAMINOS VECINALES EN MAL ESTADO NO PERMITE LA ARTICULACIÓN Y COMERCIO DE PRODUCTOS AGRARIOS.",
+            "txPgObjetivo": "MEJORAR LA ARTICULACIÓN DE LOS CENTROS POBLADOS DE LA REGIÓN MEDIANTE LA REHABILITACIÓN Y CONSTRUCCIÓN VIAL.",
+            "txPgIndicador": "PORCENTAJE DE KM. REHABILITADOS.\n\nASFALTADO BÁSICO",
+            "txPgMeta": "80% DE CAMINOS REHABILITADOS.\n\n50% ASFALTADO DE VÍAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 233373,
+            "txPgProblema": "LA PESCA INDISCRIMINADA Y EL IMPACTO DE LAS ACTIVIDADES MINERA, HA REDUCIDO SEVERAMENTE LA POBLACIÓN DE PECES EN LOS RÍOS Y LAGOS.",
+            "txPgObjetivo": "PROMOVER LA ACUICULTURA PARA CONTRIBUIR CON LA SEGURIDAD ALIMENTARIA REGIONAL Y GENERAR NUEVAS FUENTES DE TRABAJO.",
+            "txPgIndicador": "NÚMERO DE ALEVINOS PRODUCIDOS Y VENDIDOS.",
+            "txPgMeta": "2,000 MILLARES DE ALEVINOS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 233381,
+            "txPgProblema": "LIMITADO ESFUERZO EN EL SANEAMIENTO FÍSICO LEGAL DE LA PROPIEDAD RURAL, LIMITA LA SEGURIDAD JURÍDICA DE LOS PROPIETARIOS.",
+            "txPgObjetivo": "IMPULSAR LA TITULACIÓN Y FORMALIZACIÓN DE LOS PREDIOS RURALES PARA DAR SEGURIDAD JURÍDICA A LOS PROPIETARIOS.",
+            "txPgIndicador": "PORCENTAJE DE PREDIOS RURALES FORMALIZADOS Y TITULADOS.",
+            "txPgMeta": "100% DE PROPIEDADES TITULADAS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 233291,
+            "txPgProblema": "LA DEFORESTACIÓN EN LA REGIÓN CONTRIBUYE AL CAMBIO CLIMÁTICO Y LA RESERVA DE AGUA.",
+            "txPgObjetivo": "PROMOVER LA RECUPERACIÓN DE ÁREAS DEGRADAS MEDIANTE PROGRAMAS DE REFORESTACIÓN.",
+            "txPgIndicador": "NÚMERO DE HAS REFORESTADAS.",
+            "txPgMeta": "50,000 HAREAS REFORESTADAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 233392,
+            "txPgProblema": "NO HAY UN ADECUADO MANEJO DE RESIDUOS SÓLIDOS, GENERANDO PROBLEMAS DE CONTAMINACIÓN URBANA.",
+            "txPgObjetivo": "GARANTIZAR UN ADECUADO MANEJO DE RESIDUOS SÓLIDOS CON LOS MUNICIPIOS DISTRITALES.",
+            "txPgIndicador": "NÚMERO DE MUNICIPIOS QUE CUENTAN CON RELLENOS SANITARIOS.",
+            "txPgMeta": "11 MUNICIPIOS DE LA REGIÓN CUENTAN CON RELLENOS SANITARIOS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 233332,
+            "txPgProblema": "NO EXISTE BUENA ATENCIÓN AL CIUDADANO EN LAS INSTITUCIONES REGIONALES.",
+            "txPgObjetivo": "MEJORAR LA CALIDAD DE ATENCIÓN AL CIUDADANO EN LAS DEPENDENCIAS DEL GOBIERNO REGIONAL",
+            "txPgIndicador": "APLICACIÓN DEL MANUAL Y ENCUESTA AL CIUDADANO.",
+            "txPgMeta": "80% DE SATISFACCIÓN DE LOS CIUDADANOS POR LA BUENA ATENCIÓN DEL GOREMAD",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 233402,
+            "txPgProblema": "LA CIUDADANÍA PERCIBE ALTOS NIVELES DE CORRUPCIÓN EN LAS INSTITUCIONES PÚBLICAS DE LA REGIÓN.",
+            "txPgObjetivo": "IMPULSAR LA REACTIVACIÓN Y OPERATIVIDAD DEL CONSEJO REGIONAL ANTICORRUPCIÓN.",
+            "txPgIndicador": "REUNIONES DE LOS MIEMBROS DEL C.R.A.",
+            "txPgMeta": "4 ACTAS ANUALES DEL CONSEJO REGIONAL ANTICORRUPCIÓN.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 233415,
+            "txPgProblema": "LENTO PROCESO DE EJECUCIÓN DE LAS OBRAS PÚBLICAS EN TODA LA REGIÓN.",
+            "txPgObjetivo": "MEJORAR LA EFICIENCIA EN LA EJECUCIÓN DE LOS PROYECTOS DE INVERSIÓN EN LA REGIÓN.",
+            "txPgIndicador": "PORCENTAJE DE EJECUCIÓN DE LAS OBRAS PÚBLICA PROGRAMADAS ANUALMENTE.",
+            "txPgMeta": "90% DE EJECUCIÓN DE LAS METAS DE LOS PROYECTOS PROGRAMADOS ANUALMENTE.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

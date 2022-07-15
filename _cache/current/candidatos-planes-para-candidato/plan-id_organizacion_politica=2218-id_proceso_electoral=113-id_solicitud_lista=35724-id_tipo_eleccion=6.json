@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 29050,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/70d3d6ea-a14b-4459-8ba5-989c7a056c69.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/e08c1a85-fce2-4c9f-97a7-c5e5a704e2bc.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 154139,
+            "txPgProblema": "EDUCACION",
+            "txPgObjetivo": "MINEDU, UGEL, APAFAS Y DOCENTES",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "LIBRE ANALFABETISMO, PROMOCIÓN DEL DEPORTE E INFRAESTRUCTURA, CAPACITACIÓN CONSTANTE DE DOCENTES",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 154152,
+            "txPgProblema": "SALUD",
+            "txPgObjetivo": "MINSA, DISA, CENTROS DE SALUD, DIFUSIÓN DE PROGRAMAS SOCIALES Y CONTROL",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "DISMINUCIÓN DE ANEMIA, SALUD MENTAL, VACUNACIÓN AL 100% E INFRAESTRUCTURAS.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 154157,
+            "txPgProblema": "SANEAMIENTO BASICO",
+            "txPgObjetivo": "INTEGRAR A NIVEL DISTRITAL DE ONGOY CON LA IMPLEMENTACIÓN DE PLANTAS DE TRATAMIENTOS DE AGUAS SERVIDAS Y MEJORAR EL MANTENIMIENTO Y\nTRATAMIENTO DE AGUA POTABLE. RECATEGORIZACION DE LOS CENTROS DE SALUD",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "COBERTURAR AL 100% DE SERVICIOS BÁSICOS. CONTAR CON UN CENTRO DE SALUD DE MAYOR NIVEL QUE CONTROLE LA RED DISTRITAL",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 154161,
+            "txPgProblema": "DESARROLLO ECONOMICO Y\nAGROPECUARIO",
+            "txPgObjetivo": "IMPLEMENTACIÓN E INCORPORACIÓN DE PROGRAMAS (PRODUCCIÓN, SEMILLAS, Y GENÉTICO), LABORATORIO DE SUELOS Y MEJORAMIENTO EL SISTEMA DE RIEGO",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "CONTAR CON LABORATORIO DE SUELOS, SE INCREMENTARÁ LA PRODUCCIÓN AGRÍCOLA Y CENTRO GENÉTICO. CREACIÓN DE LOS CENTROS DE ACOPIO Y CONVENIO CON EMPRESAS EXPORTADORAS. ESTUDIO INTEGRAL DE RIEGO TECNIFICADO Y REPRESAMIENTO DE AGUAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 154166,
+            "txPgProblema": "AGROINDUSTRIA",
+            "txPgObjetivo": "FORTALECER, LAS HERRAMIENTAS DE GESTIÓN AMBIENTAL E IMPLEMENTACIÓN DEL PLAN DE REDUCCIÓN DISTRITAL, SOBRE LOS IMPACTOS DEL\nMEDIO AMBIENTALES Y EXTRACTIVAS.",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "MITIGACIÓN CONSTANTE DE CONTAMINACIÓN AMBIENTAL Y RESPONSABLE",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 154169,
+            "txPgProblema": "MINERIA",
+            "txPgObjetivo": "FORTALECER, LAS HERRAMIENTAS DE GESTIÓN AMBIENTAL E IMPLEMENTACIÓN DEL PLAN DE REDUCCIÓN DISTRITAL, SOBRE LOS IMPACTOS DEL\nMEDIO AMBIENTALES Y EXTRACTIVAS.",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "MITIGACIÓN CONSTANTE DE CONTAMINACIÓN AMBIENTAL Y RESPONSABLE",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 154174,
+            "txPgProblema": "SERVICIOS DE TRANSPORTE Y COMUNICACIONES",
+            "txPgObjetivo": "MININTRAN, DIRECCIÓN DE TRANSPORTE CHANKA, IMPLEMENTAR EL PLAN VIAL, IVP, APERTURAR LOS\nCAMINOS VECINALES Y RURALES",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "CONTAR CON VÍA DE EVITAMIENTO, TERMINAL TERRESTRE Y HABILITAR EL PLAN DE CAMINOS VECINALES, Y RURALES DENTRO DEL DISTRITO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 154180,
+            "txPgProblema": "ORDENAMIENTO TERRITORIAL",
+            "txPgObjetivo": "PLANIFICAR Y GESTIONAR EL DESARROLLO DISTRITAL MEDIANTE ZONIFICACIÓN ECONÓMICA Y\nECOLÓGICA",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "TENER EL PLAN DE ORDENAMIENTO TERRITORIAL IMPLEMENTADO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 154214,
+            "txPgProblema": "PROTECCION AMBIENTAL",
+            "txPgObjetivo": "FORTALECER UNA CULTURA DE PREVENCIÓN AMBIENTAL DE\nPROYECTO REFORÉSTALES Y SUELOS",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "REDUCCIÓN DE LOS NIVELES DE CONTAMINACIÓN ÁREAS RECUPERADAS POR DEGRADACIÓN Y DE PASIVOS AMBIENTALES.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 154239,
+            "txPgProblema": "SEGURIDAD CIUDADANA",
+            "txPgObjetivo": "FORTALECIMIENTO DE LÍDERES, DIRIGENTES Y AUTORIDADES",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "PARTICIPACIÓN ACTIVA DE LA POBLACIÓN EN GENERAL Y LAS AUTORIDADES (PNP Y MP)PLAN CUADRANTE, VIDEO VIGILANCIA Y PRESENCIA POLICIAL/SERENAZGO(PATRULLAJE)",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 154257,
+            "txPgProblema": "TRANSPARENCIA EN\nLA GESTION",
+            "txPgObjetivo": "IMPLEMENTAR EL TRANSPARENCIA Y ACCESO A LA INFORMACIÓN",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "INSTITUCIONALIZACIÓN DE RENDICIÓN DE CUENTAS Y LA IMPLEMENTACIÓN DEL SISTEMA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 154267,
+            "txPgProblema": "CONTRA LA CORRUPCIÓN",
+            "txPgObjetivo": "COMUNICACIÓN CONTRALORÍA Y MP",
+            "txPgIndicador": "INEI",
+            "txPgMeta": "LA MUNICIPALIDAD DEBERÁ LIBERARSE DE LA OCI, Y LA DEPENDENCIA DE LA CONTRALORÍA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

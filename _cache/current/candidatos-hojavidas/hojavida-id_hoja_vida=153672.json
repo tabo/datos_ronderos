@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 153672.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "09681133",
+        "nombres": "ALEJANDRO",
+        "apellidoPaterno": "QUISPE",
+        "apellidoMaterno": "PILLPE",
+        "sexo": "1",
+        "feNacimiento": "12/12/1968",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050704",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "VICTOR FAJARDO",
+        "naciDistrito": "CANARIA",
+        "ubigeoDomicilio": "050704",
+        "domiDepartamento": "AYACUCHO",
+        "domiProvincia": "VICTOR FAJARDO",
+        "domiDistrito": "CANARIA",
+        "domicilioDirecc": "CAL LIMA S/N",
+        "ubigeoPostula": "050704",
+        "postulaDepartamento": "AYACUCHO",
+        "postulaProvincia": "VICTOR FAJARDO",
+        "postulaDistrito": "CANARIA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/153672.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2694.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL GANA AYACUCHO",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 13:09:00",
+        "txGuidFormatoHojaVida": "776936f6-64ab-41df-8114-617cdfb0bd0e",
+        "idSolicitudLista": 25271.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 233910,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "EMPRESA COMUNAL RIN TIN TIN",
+            "ocupacionProfesion": "CAPATAS",
+            "rucTrabajo": null,
+            "direccionTrabajo": "TACA CANARIA",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "050704",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AYACUCHO",
+            "trabajoProvincia": "VICTOR FAJARDO",
+            "trabajoDistrito": "CANARIA",
+            "idHojaVida": 153672,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 206436,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 153672,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 187590,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 1500.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 153672,
+                "idEstado": 1,
+                "totalIngresos": 1500.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 232590,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA CANARIA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CANARIA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 50.0,
+                "idHojaVida": 153672,
+                "idEstado": 1,
+                "flValor": "20000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 192732,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "B3D174 ",
+                "valor": 30000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTO COLOR PLATEADO",
+                "comentario": "HE VENDIDO A SAUL GUTIERREZ  YA NO ES MI PROPIEDAD",
+                "idHojaVida": 153672,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

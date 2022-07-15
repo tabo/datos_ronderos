@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 27780,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/9a0b05ab-96e3-4769-8235-d0e65c417e93.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/6772caef-e8d0-4ac2-ac5e-6920d84e6347.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 234244,
+            "txPgProblema": "LA DELINCUENCIA Y EL CRIMEN ORGANIZADO, SE PERCIBE UN INCREMENTO PAULATINO DEL PROBLEMA LO QUE ORIGINA INSEGURIDAD Y DESCONFIANZA EN LA POBLACIÓN",
+            "txPgObjetivo": "LA DELINCUENCIA Y EL CRIMEN ORGANIZADO, SE PERCIBE UN INCREMENTO PAULATINO DEL PROBLEMA LO QUE ORIGINA INSEGURIDAD Y DESCONFIANZA EN LA POBLACIÓN",
+            "txPgIndicador": "PORCENTAJE DE JUNTAS VECINALES REACTIVADAS Y FUNCIONANDO.",
+            "txPgMeta": "90% DE JUNTAS VECINALES FUNCIONANDO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 234295,
+            "txPgProblema": "CARENCIA DE PLANES QUE PROMUEVAN EL DESARROLLO DE LAS COMUNIDADES NATIVAS DE LA LOCALIDAD.",
+            "txPgObjetivo": "APOYAR A LAS COMUNIDADES NATIVAS DEL DISTRITO DE MADRE DE DIOS MEDIANTE APOYO PROYECTOS ARTESANALES, TURÍSTICOS Y AGRICULTURA ORGÁNICA.",
+            "txPgIndicador": "NÚMERO DE COMUNIDADES NATIVAS ASISTIDAS POR EL MUNICIPIO",
+            "txPgMeta": "6 COMUNIDADES NATIVAS ASISTIDAS CON PROYECTOS PRODUCTIVOS.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 234296,
+            "txPgProblema": "LA CIUDADANÍA (EN ESPECIAL LA JUVENTUD, Y LA NIÑEZ) NO CUENTAN CON ESPACIOS NI INFRAESTRUCTURA ADECUADA PARA EL DESARROLLO DE SUS CAPACIDADES Y TALENTOS ARTÍSTICOS Y DEPORTIVOS.",
+            "txPgObjetivo": "CONSTRUIR LA INFRAESTRUCTURA PARA EL DESARROLLO DE SUS CAPACIDADES Y TALENTOS DE LA JUVENTUD DE LA PROVINCIA",
+            "txPgIndicador": "NÚMERO DE PROYECTOS PARA LA CONSTRUCCIÓN DE INFRAESTRUCTURA PARA EL DESARROLLO DE TALENTOS DE LA JUVENTUD.",
+            "txPgMeta": "CONSTRUCCIÓN DE 4 CENTROS DE DESARROLLO CULTURAL Y DEPORTIVO PARA LA JUVENTUD EN 4 CENTROS POBLADOS.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 234275,
+            "txPgProblema": "DÉFICIT DE EMPLEO E INICIATIVAS EMPRESARIA DESDE LOS JÓVENES Y OTROS SEGMENTOS DE LA SOCIEDAD",
+            "txPgObjetivo": "PROMOVER Y APOYAR INICIATIVAS EMPRESARIALES A JÓVENES Y MUJERES EMPRENDEDORAS.",
+            "txPgIndicador": "NÚMERO DE PROYECTOS DE APOYO AL\nEMPRENDIMIENTO DE JÓVENES",
+            "txPgMeta": "4 PLANES DE NEGOCIOS PARA IGUAL NÚMERO DE JÓVENES EMPRENDEDORES.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 234300,
+            "txPgProblema": "FALTA DE FOMENTO DE TURISMO LOCAL SOSTENIBLE, PARA EL USO ADECUADO DE LOS RECURSOS Y GENERACIÓN DE EMPLEO PERMANENTE",
+            "txPgObjetivo": "PROMOVER EL DESARROLLO DE TURISMO LOCAL SOSTENIBLE CON LA PARTICIPACIÓN DE COMUNIDADES NATIVAS.",
+            "txPgIndicador": "NÚMERO DE PROYECTOS DESARROLLADOS Y APOYADOS POR EL MUNICIPIO.",
+            "txPgMeta": "6 PROYECTOS DE TURISMO SOSTENIBLES FORMULADOS Y EJECUTADOS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 234303,
+            "txPgProblema": "FALTA DE FOMENTO DE LA INVERSIÓN PRIVADA, EN PROYECTOS DE INTERÉS LOCAL",
+            "txPgObjetivo": "IMPULSAR PROYECTOS DE DESARROLLO LOCAL PARA MEJORAR LOS SERVICIOS MEDIANTE OBRAS POR IMPUESTOS.",
+            "txPgIndicador": "NÚMERO DE PROYECTOS FINANCIADOS CON MECANISMOS DE\nOBRAS POR IMPUESTOS.",
+            "txPgMeta": "3 PROYECTOS DESARROLLADOS CON EL MECANISMO DE OBRAS POR IMPUESTOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 234282,
+            "txPgProblema": "NO SE RECOGEN ADECUADAMENTE Y OPORTUNAMENTE LOS DESECHOS SÓLIDOS LO QUE SE PERCIBE EN LA ACUMULACIÓN DE BASURA EN LAS CALLES Y AVENIDAS DE LA CIUDAD.",
+            "txPgObjetivo": "MEJORAR EL SISTEMA DE RECOJO OPORTUNO DE RESIDUOS SÓLIDOS DE LAS VIVIENDAS CON CLASIFICACIÓN PARA FACILITAR SU RECICLAJE.",
+            "txPgIndicador": "NÚMERO DE VEHÍCULOS Y PERSONAL DE RECOJO DE BASURA.",
+            "txPgMeta": "INCREMENTAR AL 100% EL SISTEMA DE RECOJO DE BASURAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 234304,
+            "txPgProblema": "CREACIÓN DE ASOCIACIONES. SIN PLANIFICACIÓN CON URBANIZACIONES QUE SE REGULAN A SU MANERA SIN USO DE LA NORMATIVIDAD DEL SECTOR VIVIENDA.",
+            "txPgObjetivo": "REALIZAR ESQUEMAS DE DESARROLLO URBANO EN TODOS LOS CENTROS POBLADOS DEL DISTRITO DE MADRE DE DIOS, REGULAR LA ORGANIZACIÓN DE URBANIZACIONES POPULARES.",
+            "txPgIndicador": "NÚMERO DE ESQUEMAS DE DESARROLLO URBANO.",
+            "txPgMeta": "INTERVENCIÓN EN 3 CENTROS POBLADOS DEL DISTRITO PARA EL DESARROLLO DE SUS ESQUEMAS URBANOS Y LA ORGANIZACIÓN DE NUEVAS\nURBANIZACIONES.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 234306,
+            "txPgProblema": "NO EXISTE UN PLAN DE MANEJO AMBIENTAL DE RESIDUOS Y DESECHOS QUE ARTICULE LAS CAPACIDADES DEL SECTOR PRIVADO Y PÚBLICO PARA LA ADOPCIÓN DE MECANISMOS QUE PUEDAN\nHACER SOSTENIBLE EL MANEJO DE RESIDUOS Y DESECHOS",
+            "txPgObjetivo": "REALIZAR ESTUDIOS DE CARACTERIZACIÓN A NIVEL DISTRITAL PARA EL ADECUADO MANEJO DE RESIDUOS SÓLIDO.",
+            "txPgIndicador": "NÚMERO DE VEHÍCULOS, NUMERO DE RELLENO SANITARIO CON EQUIPAMIENTO Y LOGÍSTICA.",
+            "txPgMeta": "INTERVENCIÓN EN TODO EL DISTRITO DE MADRE DE DIOS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 234291,
+            "txPgProblema": "LA POBLACIÓN PERCIBE ALTOS NIVELES DE CORRUPCIÓN EN LOS GOBIERNOS LOCALES",
+            "txPgObjetivo": "PROMOVER LA CONFORMACIÓN DE VEEDURÍAS CIUDADANOS PARA REDUCIR LOS NIVELES DE CORRUPCIÓN EN LA EJECUCIÓN DE OBRAS.",
+            "txPgIndicador": "NÚMERO DE OBRAS EN EJECUCIÓN QUE CUENTAN CON\nVEEDURÍAS CIUDADANAS.",
+            "txPgMeta": "100% DE OBRAS EN EJECUCIÓN QUE CUENTAN CON VEEDURÍA CIUDADANAS.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 234309,
+            "txPgProblema": "POCA PARTICIPACIÓN DE LA CIUDADANÍA EN LOS NIVELES DE COORDINACIÓN PARA EL DESARROLLO LOCAL",
+            "txPgObjetivo": "PROMOVER LA PARTICIPACIÓN DE LA CIUDADANÍA EN LOS NIVELES DE COORDINACIÓN PARA EL DESARROLLO LOCAL",
+            "txPgIndicador": "PORCENTAJE DE COMITÉS DE COORDINACIÓN MUNICIPAL EN FUNCIONAMIENTO.",
+            "txPgMeta": "100% DE LOS COMITÉS DE PARTICIPACIÓN CIUDADANA EN EL DESARROLLO LOCAL\nFUNCIONANDO.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 234311,
+            "txPgProblema": "INEFICIENTE ATENCIÓN A LOS CIUDADANOS EN TODOS LOS MUNICIPIOS. SE PERCIBE ACTITUD BUROCRÁTICA DE LOS FUNCIONARIOS.",
+            "txPgObjetivo": "MEJORAR LA ATENCIÓN AL CIUDADANO EN TODOS LOS MUNICIPIOS MENORES Y LA MUNICIPALIDAD DISTRITAL DE MAADRE DE DIOS, CON\nMENOS ACTITUDES BUROCRÁTICAS.",
+            "txPgIndicador": "ENCUESTA DE PERCEPCIÓN DE LA CIUDADANÍA QUE SIENTE QUE LE ATIENDEN MEJOR\nEN LOS MUNICIPIOS.",
+            "txPgMeta": "90% PERCIBE LA CIUDADANÍA QUE HA MEJORADO LA ATENCIÓN EN LOS MUNICIPIOS.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

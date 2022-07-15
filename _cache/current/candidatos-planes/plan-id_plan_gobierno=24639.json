@@ -1,0 +1,105 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 24639,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2680,
+        "txOrganizacionPolitica": "MOVIMIENTO REGIONAL SIERRA Y SELVA CONTIGO JUNIN",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1690,
+        "juradoElectoral": "JAUJA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/a477c5cd-31f4-4cca-ac9d-b44abfc58c04.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/a49a924d-86b4-444a-8056-f8b6c2dfb96a.pdf",
+        "txCodExpedienteExt": "ERM.2022009611",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 196281,
+            "txPgProblema": "LOCALES DE CENTROS DE SALUD DE PRIMER NIVEL DE ATENCIÓN  CON INADECUADA INFRAESTRUCTURA",
+            "txPgObjetivo": "LOCALES DE CENTROS DE SALUD DE PRIMER NIVEL DE ATENCIÓN  CON ÓPTIMA INFRAESTRUCTURA.",
+            "txPgIndicador": "PORCENTAJE DE LOCALES DE PRIMER NIVEL DE ATENCIÓN QUE REQUIEREN INTERVENCIÓN TOTAL",
+            "txPgMeta": "70%  DE LOCALES DE PRIMER NIVEL DE ATENCIÓN QUE REQUIEREN INTERVENCIÓN TOTAL",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 196300,
+            "txPgProblema": "LOCALES ESCOLARES PÚBLICOS CON INFRAESTRUCTURA INADECUADA.",
+            "txPgObjetivo": "LOCALES ESCOLARES PÚBLICOS CON ÓPTIMA INFRAESTRUCTURA EDUCATIVA",
+            "txPgIndicador": "PORCENTAJE DE LOCALES ESCOLARES PÚBLICOS QUE REQUIEREN ADECUADA INFRAESTRUCTURA.",
+            "txPgMeta": "60%  DE LOCALES ESCOLARES PÚBLICOS CON INFRAESTRUCTURA ADECUADA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 196317,
+            "txPgProblema": "HECTÁREAS DE TIERRAS SIN RIEGO.",
+            "txPgObjetivo": "DOTAR DE SISTEMAS DE RIEGO A TIERRAS AGRÍCOLAS.",
+            "txPgIndicador": "PORCENTAJE DE HECTÁREAS SIN RIEGO",
+            "txPgMeta": "80% DE HECTÁREAS DEL DISTRITO CON SISTEMA DE RIEGO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 196335,
+            "txPgProblema": "EXPANSIÓN URBANA Y RURAL DESORDENADA",
+            "txPgObjetivo": "PROMOVER EL CRECIMIENTO URBANO Y RURAL DE MANERA ORDENADA.",
+            "txPgIndicador": "PORCENTAJE DE PLANES DE DESARROLLO URBANO Y RURAL ACTUALIZADO",
+            "txPgMeta": "100%  DE PLANES DE DESARROLLO URBANO Y RURAL ACTUALIZADO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 196362,
+            "txPgProblema": "CONTAMINACIÓN AMBIENTAL POR RESIDUOS SÓLIDOS GENERADOS POR LA POBLACIÓN",
+            "txPgObjetivo": "VIVIENDAS CON COBERTURA DEL SERVICIO DE RECOLECCIÓN DE RESIDUOS SÓLIDOS",
+            "txPgIndicador": "PORCENTAJE DE VIVIENDAS CON  COBERTURA DEL SERVICIO DE RECOLECCIÓN DE RESIDUO SÓLIDOS EN PREDIOS",
+            "txPgMeta": "95% DE VIVIENDAS CON  COBERTURA DEL SERVICIO DE RECOLECCIÓN DE RESIDUO SÓLIDOS EN PREDIOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 196380,
+            "txPgProblema": "CONTAMINACIÓN POR BOTADEROS DE RESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "REDUCIR LA CONTAMINACIÓN SIGNIFICATIVAMENTE DE BOTADEROS DE RESIDUOS SÓLIDOS",
+            "txPgIndicador": "PORCENTAJE DE IMPLEMENTACIÓN DE PLANTA DE TRATAMIENTO DE RESIDUOS SOLIDOS",
+            "txPgMeta": "100% DE IMPLEMENTACIÓN DE PLANTA DE TRATAMIENTO DE RESIDUOS SOLIDOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 195817,
+            "txPgProblema": "INEFICIENTE SERVICIO DE LA ADMINISTRACIÓN MUNICIPAL",
+            "txPgObjetivo": "OPTIMIZAR LOS SERVICIOS EN LA ADMINISTRACIÓN MUNICIPAL",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN NO CUENTA CON EFICIENTE Y OPORTUNA ATENCIÓN EN LOS SERVICIOS MUNICIPALES",
+            "txPgMeta": "90% DE LA POBLACIÓN CUENTA CON EFICIENTE Y OPORTUNA ATENCIÓN EN LOS SERVICIOS MUNICIPALES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 195842,
+            "txPgProblema": "CARENCIA DE HONESTIDAD, TRANSPARENCIA Y RENDICIÓN DE CUENTAS",
+            "txPgObjetivo": "OPTIMIZAR Y CUMPLIR ESTRICTAMENTE CON LA TRANSPARENCIA Y RENDICIÓN DE CUENTAS",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN NO CONOCE LAS ACTIVIDADES Y EJECUCIÓN DE OBRAS DEL GOBIERNO LOCAL.",
+            "txPgMeta": "95% DE LA POBLACIÓN CONOCE A TRAVÉS DE LA TRANSPARENCIA Y RENDICIÓN DE CUENTAS LAS ACTIVIDADES Y EJECUCIÓN DE OBRAS QUE REALIZA EL GOBIERNO LOCAL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

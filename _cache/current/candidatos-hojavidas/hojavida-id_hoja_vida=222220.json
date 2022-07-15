@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 222220.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40111560",
+        "nombres": "MANUEL DIEGO",
+        "apellidoPaterno": "TESEN",
+        "apellidoMaterno": "VASQUEZ",
+        "sexo": "1",
+        "feNacimiento": "24/01/1979",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "120101",
+        "naciDepartamento": "LA LIBERTAD",
+        "naciProvincia": "TRUJILLO",
+        "naciDistrito": "TRUJILLO",
+        "ubigeoDomicilio": "120807",
+        "domiDepartamento": "LA LIBERTAD",
+        "domiProvincia": "ASCOPE",
+        "domiDistrito": "RAZURI",
+        "domicilioDirecc": "CALLE JOSE OLAYA 0159 PTO.RAZURI",
+        "ubigeoPostula": "120807",
+        "postulaDepartamento": "LA LIBERTAD",
+        "postulaProvincia": "ASCOPE",
+        "postulaDistrito": "RAZURI",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/222220.jpg",
+        "estado": "INSCRITO",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 14:37:40",
+        "txGuidFormatoHojaVida": "4205d366-6299-4531-9314-f561098477e4",
+        "idSolicitudLista": 34241.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 196808,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CFG INVESTMENT SAC",
+            "ocupacionProfesion": "MECANICO SOLDADOR",
+            "rucTrabajo": "20512868046",
+            "direccionTrabajo": "AV. PLAYA LADO NORTE S/N",
+            "anioTrabajoDesde": "2011",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "120807",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LA LIBERTAD",
+            "trabajoProvincia": "ASCOPE",
+            "trabajoDistrito": "RAZURI",
+            "idHojaVida": 222220,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 173427,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 222220,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 161864,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD NACIONAL DE TRUJILLO",
+                "carreraUni": "DERECHO Y CIENCIAS POLITICAS",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "ESTUDIANTE"
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 140580,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 32,
+                "orgPolCargoElec": "PARTIDO APRISTA PERUANO",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2015",
+                "anioCargoElecHasta": "2018",
+                "idHojaVida": 222220,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 162872,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 2400.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 222220,
+                "idEstado": 1,
+                "totalIngresos": 2400.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

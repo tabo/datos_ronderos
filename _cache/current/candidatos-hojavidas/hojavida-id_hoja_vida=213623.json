@@ -1,0 +1,169 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 213623.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "22184899",
+        "nombres": "CARLOS NICOLAS",
+        "apellidoPaterno": "ONCEBAY",
+        "apellidoMaterno": "ROMANI",
+        "sexo": "1",
+        "feNacimiento": "18/02/1971",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "100501",
+        "naciDepartamento": "ICA",
+        "naciProvincia": "PALPA",
+        "naciDistrito": "PALPA",
+        "ubigeoDomicilio": "140137",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "SAN JUAN DE LURIGANCHO",
+        "domicilioDirecc": "URB. LOS JARDINES DE SAN JUAN MZ. C LT. 05",
+        "ubigeoPostula": "100000",
+        "postulaDepartamento": "ICA",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/213623.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2701.0,
+        "organizacionPolitica": "UNO POR ICA",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "ACCESITARIO"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 18:42:51",
+        "txGuidFormatoHojaVida": "db2c00d1-f6ad-4ca5-b946-f1a0ca2950a4",
+        "idSolicitudLista": 33239.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 255039,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "GRIFO PALPA",
+            "ocupacionProfesion": "ADMINISTRADOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. GRAU S/N PALPA",
+            "anioTrabajoDesde": "2004",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "100501",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ICA",
+            "trabajoProvincia": "PALPA",
+            "trabajoDistrito": "PALPA",
+            "idHojaVida": 213623,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 227425,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 213623,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 189767,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD SAN MARTIN DE PORRES",
+                "carreraUni": "PSICOLOGIA",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 203903,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 60000.0,
+                "idHojaVida": 213623,
+                "idEstado": 1,
+                "totalIngresos": 60000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 248472,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "      AA.HH  SAN JUAN DE LURIGANCHO - LIMA - LIMA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "12081731",
+                "fichaTomoSunarp": null,
+                "autovaluo": 40000.0,
+                "idHojaVida": 213623,
+                "idEstado": 1,
+                "flValor": "400000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 204581,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "LQ7089 ",
+                "valor": 5000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTO, MARCA LADA, COLOR BEIGE",
+                "comentario": null,
+                "idHojaVida": 213623,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

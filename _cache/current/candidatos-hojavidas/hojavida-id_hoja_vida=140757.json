@@ -1,0 +1,146 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 140757.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "07510261",
+        "nombres": "EMILIO",
+        "apellidoPaterno": "NICOLICH",
+        "apellidoMaterno": "DELGADO",
+        "sexo": "1",
+        "feNacimiento": "26/03/1975",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140109",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "LA VICTORIA",
+        "ubigeoDomicilio": "140138",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "SAN LUIS",
+        "domicilioDirecc": "JR. RIO UCAYALI 103 URB. LAS MORAS",
+        "ubigeoPostula": "140100",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/140757.jpg",
+        "estado": "INSCRITO",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 23.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 23:33:54",
+        "txGuidFormatoHojaVida": "8b289b10-e88b-4cad-9068-7c2f25ce2b50",
+        "idSolicitudLista": 23552.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 169938,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "COMERCIO",
+            "ocupacionProfesion": "COMERCIANTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR BRANZINO 736 DP 022",
+            "anioTrabajoDesde": "2012",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140140",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "SAN BORJA",
+            "idHojaVida": 140757,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 140911,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 140757,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 136462,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 14,
+                "orgPolCargoPartidario": "PARTIDO POLÍTICO PARTIDO DEMOCRATICO SOMOS PERU",
+                "cargoPartidario": "SECRETARIO DISTRITAL DE SAN LUIS",
+                "anioCargoPartiDesde": "2017",
+                "anioCargoPartiHasta": "2019",
+                "idHojaVida": 140757,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 151840,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "ACX544 ",
+                "valor": 20000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MERCEDES SKL 320",
+                "comentario": null,
+                "idHojaVida": 140757,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 135337,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "43724-2008-0-1801-JR-PE-27",
+            "feSentenciaPenal": "09/03/2012",
+            "txOrganoJudiPenal": "28 JUZGADO PENAL",
+            "txDelitoPenal": "LESIONES",
+            "txFalloPenal": "3 AÑOS",
+            "idParamModalidad": 11,
+            "txModalidad": "SUSPENDIDA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 140757,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": []
+}

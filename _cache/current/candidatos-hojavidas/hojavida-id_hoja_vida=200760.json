@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 200760.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43014642",
+        "nombres": "HUGO ROSARIO",
+        "apellidoPaterno": "HERRERA",
+        "apellidoMaterno": "HUERTA",
+        "sexo": "1",
+        "feNacimiento": "16/12/1976",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "021104",
+        "naciDepartamento": "ANCASH",
+        "naciProvincia": "POMABAMBA",
+        "naciDistrito": "QUINUABAMBA",
+        "ubigeoDomicilio": "021104",
+        "domiDepartamento": "ANCASH",
+        "domiProvincia": "POMABAMBA",
+        "domiDistrito": "QUINUABAMBA",
+        "domicilioDirecc": "CALLE YAMYAN S/N",
+        "ubigeoPostula": "021104",
+        "postulaDepartamento": "ANCASH",
+        "postulaProvincia": "POMABAMBA",
+        "postulaDistrito": "QUINUABAMBA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/200760.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2245.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL EL MAICITO",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 17:57:55",
+        "txGuidFormatoHojaVida": "465fca92-61b9-4b75-9464-dfd740a4311a",
+        "idSolicitudLista": 31605.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 240237,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "COORPORACION ERYHR E.R.L",
+            "ocupacionProfesion": "GERENTE GENERAL",
+            "rucTrabajo": null,
+            "direccionTrabajo": "MZA N LOTE 31 URB. VILLA NORTE LIMA - LIMA- LOS OLIVOS",
+            "anioTrabajoDesde": "2017",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140142",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "LOS OLIVOS",
+            "idHojaVida": 200760,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 162513,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 200760,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 156131,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL SANTIAGO ANTÚNEZ DE MAYOLO",
+                "carreraUni": "BACHILLER EN CIENCIAS AGRONOMIA",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2008",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 191844,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 551328.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 200760,
+                "idEstado": 1,
+                "totalIngresos": 551328.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 165969,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "C8H730 ",
+                "valor": 80000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR PLATA METALICO",
+                "comentario": null,
+                "idHojaVida": 200760,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 5394,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "CORPORACION ERYHR E.R.L",
+                "idParamTipoTitularidad": 88,
+                "txTipoTitularidad": "PARTICIPACIONES",
+                "flCantidad": 100.0,
+                "flValor": 90000.0,
+                "idHojaVida": 200760,
+                "idEstado": 1,
+                "txUsuario": "43530346",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

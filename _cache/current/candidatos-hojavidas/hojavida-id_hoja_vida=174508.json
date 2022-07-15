@@ -1,0 +1,130 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 174508.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "48669091",
+        "nombres": "ROLER",
+        "apellidoPaterno": "DOMINGUEZ",
+        "apellidoMaterno": "MALPARTIDA",
+        "sexo": "1",
+        "feNacimiento": "30/01/1992",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "090102",
+        "naciDepartamento": "HUANUCO",
+        "naciProvincia": "HUANUCO",
+        "naciDistrito": "CHINCHAO",
+        "ubigeoDomicilio": "090113",
+        "domiDepartamento": "HUANUCO",
+        "domiProvincia": "HUANUCO",
+        "domiDistrito": "SAN PABLO DE PILLAO",
+        "domicilioDirecc": "CASERIO VISTA ALEGRE",
+        "ubigeoPostula": "090113",
+        "postulaDepartamento": "HUANUCO",
+        "postulaProvincia": "HUANUCO",
+        "postulaDistrito": "SAN PABLO DE PILLAO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/174508.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2733.0,
+        "organizacionPolitica": "MOVIMIENTO POLITICO CAMBIEMOS X HCO",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 18:21:31",
+        "txGuidFormatoHojaVida": "26010cef-78fb-4b81-a562-b4b2a2957e7a",
+        "idSolicitudLista": 28116.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 185695,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AGRICULTOR",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SAN PABLO DE PILLAO",
+            "anioTrabajoDesde": "2000",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "090113",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "HUANUCO",
+            "trabajoProvincia": "HUANUCO",
+            "trabajoDistrito": "SAN PABLO DE PILLAO",
+            "idHojaVida": 174508,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 163492,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 174508,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 155647,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 10000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 174508,
+                "idEstado": 1,
+                "totalIngresos": 10000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 134712,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "18-81-2011-PE",
+            "feSentenciaPenal": "22/07/2014",
+            "txOrganoJudiPenal": "PENAL",
+            "txDelitoPenal": "HURTO",
+            "txFalloPenal": "PENA",
+            "idParamModalidad": 11,
+            "txModalidad": "SUSPENDIDA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 174508,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": []
+}

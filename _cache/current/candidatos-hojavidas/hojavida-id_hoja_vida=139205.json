@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 139205.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42422275",
+        "nombres": "CONSUELO",
+        "apellidoPaterno": "SILVESTRE",
+        "apellidoMaterno": "DE LA CRUZ",
+        "sexo": "2",
+        "feNacimiento": "15/05/1984",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140511",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "HUAURA",
+        "naciDistrito": "SANTA LEONOR",
+        "ubigeoDomicilio": "140511",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "HUAURA",
+        "domiDistrito": "SANTA LEONOR",
+        "domicilioDirecc": "CALLE LEONCIO PRADO S/N",
+        "ubigeoPostula": "140511",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "HUAURA",
+        "postulaDistrito": "SANTA LEONOR",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/139205.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2731.0,
+        "organizacionPolitica": "PODEMOS PERU",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 19:44:35",
+        "txGuidFormatoHojaVida": "3ee87ead-f389-447a-81d6-c8454860ff11",
+        "idSolicitudLista": 23366.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 174447,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "FONCODES",
+            "ocupacionProfesion": "AGENTE DE CAMPO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SEDE SANTA LEONOR",
+            "anioTrabajoDesde": "2018",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "140511",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "HUAURA",
+            "trabajoDistrito": "SANTA LEONOR",
+            "idHojaVida": 139205,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 153012,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 139205,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 138805,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "PISICOLA INGENIO",
+                "carreraTecnico": "TECNICO PISCICULTOR",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 139205,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 142221,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1366,
+            "orgPolRenunciaOp": "FUERZA POPULAR",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 139205,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 148174,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 14400.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 139205,
+                "idEstado": 1,
+                "totalIngresos": 14400.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 1517,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "ACUASILVER SAC",
+                "idParamTipoTitularidad": 88,
+                "txTipoTitularidad": "PARTICIPACIONES",
+                "flCantidad": 20.0,
+                "flValor": 100.0,
+                "idHojaVida": 139205,
+                "idEstado": 1,
+                "txUsuario": "45307125",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

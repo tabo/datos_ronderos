@@ -1,0 +1,167 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 158793.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "76862142",
+        "nombres": "JESUS",
+        "apellidoPaterno": "GARCIA",
+        "apellidoMaterno": "HUAMAN",
+        "sexo": "1",
+        "feNacimiento": "21/07/1995",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "211004",
+        "naciDepartamento": "SAN MARTIN",
+        "naciProvincia": "EL DORADO",
+        "naciDistrito": "SAN MARTIN",
+        "ubigeoDomicilio": "211004",
+        "domiDepartamento": "SAN MARTIN",
+        "domiProvincia": "EL DORADO",
+        "domiDistrito": "SAN MARTIN",
+        "domicilioDirecc": "CASERIO NUEVA ESPERANZA.",
+        "ubigeoPostula": "211004",
+        "postulaDepartamento": "SAN MARTIN",
+        "postulaProvincia": "EL DORADO",
+        "postulaDistrito": "SAN MARTIN",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/158793.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 04:37:34",
+        "txGuidFormatoHojaVida": "c7fd6c2f-e4cd-41ba-a98f-d74f2300c455",
+        "idSolicitudLista": 25974.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 169466,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AGRICULTOR INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SAN MARTIN DE ALAO",
+            "anioTrabajoDesde": "2017",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "211004",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "SAN MARTIN",
+            "trabajoProvincia": "EL DORADO",
+            "trabajoDistrito": "SAN MARTIN",
+            "idHojaVida": 158793,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "SOY TRABAJADOR-PEON EN AGRICULTURA"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 147874,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 158793,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 144575,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 3600.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 158793,
+                "idEstado": 1,
+                "totalIngresos": 3600.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 181596,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "PREDIO RUSTICO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "LAS FLORES CAYNARACHI",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "04027449",
+                "fichaTomoSunarp": null,
+                "autovaluo": 15000.0,
+                "idHojaVida": 158793,
+                "idEstado": 1,
+                "flValor": "20000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 156572,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "VEHICULO MENOR",
+                "marca": null,
+                "placa": "94603P",
+                "valor": 2500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR AZUL MARCA MAVILA",
+                "comentario": null,
+                "idHojaVida": 158793,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 156564,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "VEHICULO",
+                "marca": null,
+                "placa": "P61589",
+                "valor": 3000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR ROJO MARCA MAVILA",
+                "comentario": null,
+                "idHojaVida": 158793,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

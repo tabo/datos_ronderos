@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 223145.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44030399",
+        "nombres": "ALDERSON MOISES",
+        "apellidoPaterno": "SANCHEZ",
+        "apellidoMaterno": "AVILES",
+        "sexo": "1",
+        "feNacimiento": "30/08/1979",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "090335",
+        "naciDepartamento": null,
+        "naciProvincia": null,
+        "naciDistrito": null,
+        "ubigeoDomicilio": "091006",
+        "domiDepartamento": "HUANUCO",
+        "domiProvincia": "LAURICOCHA",
+        "domiDistrito": "RONDOS",
+        "domicilioDirecc": "JR. DANIEL ALOMIA ROBLES 126 C.P.M PILCOCANCHA",
+        "ubigeoPostula": "091000",
+        "postulaDepartamento": "HUANUCO",
+        "postulaProvincia": "LAURICOCHA",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/223145.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 18:02:32",
+        "txGuidFormatoHojaVida": "f1a7dc60-4855-4add-af91-6883bd1c3f3c",
+        "idSolicitudLista": 34343.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 147455,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 223145,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 137340,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "INSTITUTO SUPERIOR TECNOLOGICOS FELIPE HUAMAN P.A",
+                "carreraTecnico": "TECNICO DE CONSTRUCCION CIVIL",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 223145,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 140162,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 179,
+            "orgPolRenunciaOp": "PARTIDO NACIONALISTA PERUANO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 223145,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 180990,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "JR DANIEL ALOMIA ROBLES S/N",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 80.0,
+                "idHojaVida": 223145,
+                "idEstado": 1,
+                "flValor": "80000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 156202,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "AUTO",
+                "marca": null,
+                "placa": "C9L596",
+                "valor": 8000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA NISSAN,MODELO SENTRA V-16,COLOR GRIS",
+                "comentario": null,
+                "idHojaVida": 223145,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 134856,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "00160-2004",
+            "txOrganoJuridicialObliga": "JUZGADO DE PAZ LETRADO LA UNION",
+            "txFalloObliga": "FUNDADA LA SENTENCIA POR PENSION ALIMENTICIA",
+            "idEstado": 1,
+            "idHojaVida": 223145,
+            "txComentario": null
+        }
+    ]
+}

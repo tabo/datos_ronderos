@@ -1,0 +1,160 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 233847.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42477915",
+        "nombres": "OSCAR ALFREDO",
+        "apellidoPaterno": "QUISPE",
+        "apellidoMaterno": "YUCRA",
+        "sexo": "1",
+        "feNacimiento": "07/12/1983",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040106",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "AREQUIPA",
+        "naciDistrito": "LA JOYA",
+        "ubigeoDomicilio": "040220",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "CAYLLOMA",
+        "domiDistrito": "MAJES",
+        "domicilioDirecc": "EL PEDREGAL MZ.W LT.9",
+        "ubigeoPostula": "040220",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "CAYLLOMA",
+        "postulaDistrito": "MAJES",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/233847.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2307.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL AREQUIPA AVANCEMOS",
+        "numeroCandidato": 7.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 18:57:40",
+        "txGuidFormatoHojaVida": "b199c416-450e-4f93-bde4-3949aa276bc8",
+        "idSolicitudLista": 35582.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 257163,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "OBRERO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "MANZANA W LOTE 9 EL PEDREGAL",
+            "anioTrabajoDesde": "2018",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "040220",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "CAYLLOMA",
+            "trabajoDistrito": "MAJES",
+            "idHojaVida": 233847,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 229946,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 233847,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 205650,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 10800.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 233847,
+                "idEstado": 1,
+                "totalIngresos": 10800.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 205903,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 3,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "V1D910 ",
+                "valor": 20000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "VOLQUETE",
+                "comentario": null,
+                "idHojaVida": 233847,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 205902,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "V2P811 ",
+                "valor": 18000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "VOLQUETE",
+                "comentario": null,
+                "idHojaVida": 233847,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 205901,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "BKF275 ",
+                "valor": 6000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTO",
+                "comentario": "INFORMO QUE ESTE VEHICULO QUE AUN APARECE A MI NOMBRE YO YA LO HE VENDIDO ANTERIORMENTE",
+                "idHojaVida": 233847,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

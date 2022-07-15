@@ -1,0 +1,160 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 203162.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "25308062",
+        "nombres": "HERMITAÑO",
+        "apellidoPaterno": "AUCCAPUMA",
+        "apellidoMaterno": "PUMASUPA",
+        "sexo": "1",
+        "feNacimiento": "15/01/1968",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "071302",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "URUBAMBA",
+        "naciDistrito": "CHINCHERO",
+        "ubigeoDomicilio": "071302",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "URUBAMBA",
+        "domiDistrito": "CHINCHERO",
+        "domicilioDirecc": "COMUNIDAD YANACONA SECTOR OLONES",
+        "ubigeoPostula": "071302",
+        "postulaDepartamento": "CUSCO",
+        "postulaProvincia": "URUBAMBA",
+        "postulaDistrito": "CHINCHERO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/203162.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 2368.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL INKA PACHAKUTEQ",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 08:09:28",
+        "txGuidFormatoHojaVida": "13abdbf9-c4d4-463f-b405-6f2a517d8511",
+        "idSolicitudLista": 31912.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 241134,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CHICHERO",
+            "ocupacionProfesion": "SUPREFECTO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "MANZANARES CON CAHUIDE SIN NUMERO",
+            "anioTrabajoDesde": "2018",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "071302",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CUSCO",
+            "trabajoProvincia": "URUBAMBA",
+            "trabajoDistrito": "CHINCHERO",
+            "idHojaVida": 203162,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 212914,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 203162,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 144408,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 112010,
+                "orgPolCargoElec": "MI URUBAMBA",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "1999",
+                "anioCargoElecHasta": "2002",
+                "idHojaVida": 203162,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 192709,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 14400.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 203162,
+                "idEstado": 1,
+                "totalIngresos": 14400.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 196521,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "X1P844 ",
+                "valor": 25000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "TOYOTA CANTA",
+                "comentario": null,
+                "idHojaVida": 203162,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 196520,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "X2U169 ",
+                "valor": 12000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "STASION AUTO",
+                "comentario": null,
+                "idHojaVida": 203162,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

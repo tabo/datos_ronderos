@@ -1,0 +1,153 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 242600.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "33347483",
+        "nombres": "ANTONIO",
+        "apellidoPaterno": "HUAMAN",
+        "apellidoMaterno": "MOLINA",
+        "sexo": "1",
+        "feNacimiento": "04/05/1959",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "020108",
+        "naciDepartamento": "ANCASH",
+        "naciProvincia": "HUARAZ",
+        "naciDistrito": "OLLEROS",
+        "ubigeoDomicilio": "020108",
+        "domiDepartamento": "ANCASH",
+        "domiProvincia": "HUARAZ",
+        "domiDistrito": "OLLEROS",
+        "domicilioDirecc": "CALLE RAMÓN CASTILLA s/n",
+        "ubigeoPostula": "020108",
+        "postulaDepartamento": "ANCASH",
+        "postulaProvincia": "HUARAZ",
+        "postulaDistrito": "OLLEROS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/242600.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 2245.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL EL MAICITO",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 16:53:47",
+        "txGuidFormatoHojaVida": "46e75e8f-fcc4-4b58-b4e9-f0f3f28bdb9d",
+        "idSolicitudLista": 26097.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 253087,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CONSORCIO SEÑOR DE CHAUCAYAN",
+            "ocupacionProfesion": "CONTADOR",
+            "rucTrabajo": "20608121804",
+            "direccionTrabajo": "AV. VILLON S/N",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "020101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ANCASH",
+            "trabajoProvincia": "HUARAZ",
+            "trabajoDistrito": "HUARAZ",
+            "idHojaVida": 242600,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 225068,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 242600,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 157707,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "ELEAZAR GUZMAN BARRON",
+                "carreraTecnico": "CONTABILIDAD",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 242600,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 188723,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "DANIEL ALCIDES CARRION - HUACHO",
+                "carreraUni": "CONTADOR PUBLICO COLEGIADO",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 167910,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 14,
+            "orgPolRenunciaOp": "PARTIDO DEMOCRATICO SOMOS PERU",
+            "anioRenunciaOp": "2020",
+            "idHojaVida": 242600,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 202075,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 30000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 242600,
+                "idEstado": 1,
+                "totalIngresos": 30000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

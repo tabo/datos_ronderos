@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 16624,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2731,
+        "txOrganizacionPolitica": "PODEMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1670,
+        "juradoElectoral": "CORONEL PORTILLO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/11a395b4-6ba7-4b0d-b567-b8cb321b914b.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/6b402709-1209-4bac-91ec-bed9407c4d9b.pdf",
+        "txCodExpedienteExt": "ERM.2022011814",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 185503,
+            "txPgProblema": "DEFICIENTE SISTEMA EDUCATIVO EN EL DISTRITO.",
+            "txPgObjetivo": "IMPULSAR LA CREACIÓN DE PROYECTOS EDUCATIVOS INTEGRADOS EN EL DISTRITO",
+            "txPgIndicador": "PORCENTAJE DE ALUMNOS DE NIVEL PRIMARIO EN COMPRENSIÓN LECTORA Y RAZONAMIENTO MATEMÁTICO.",
+            "txPgMeta": "REDUCIR LA BRECHA DE COMPRENSIÓN LECTORA EN EL NIVEL PRIMARIA DE 70.1% A 60.1% Y DE 81.5% A 71.5%.EN RAZONAMIENTO LÓGICO MATEMÁTICO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 185561,
+            "txPgProblema": "DEFICIENTE SISTEMA DE SALUD EN EL DISTRITO.",
+            "txPgObjetivo": "PRIORIZAR LA EJECUCIÓN DE PROYECTOS QUE PERMITAN FORTALECER LA CAPACIDAD INSTALADA EN SALUD DENTRO DEL DISTRITO.",
+            "txPgIndicador": "NUMERO DE ESTABLECIMIENTOS DE SALUD DEL PRIMER NIVEL DE ATENCIÓN CON CAPACIDAD INSTALADA INADECUADA.",
+            "txPgMeta": "INCREMENTAR EL PORCENTAJE DE ESTABLECIMIENTOS DE SALUD DEL PRIMER NIVEL DE ATENCIÓN CON CAPACIDAD INSTALADA INADECUADA DE 48.3% A 70%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 185584,
+            "txPgProblema": "INSEGURIDAD CIUDADANA",
+            "txPgObjetivo": "REDUCIR LA INSEGURIDAD CIUDADANA, ASÍ COMO LA TASA DE ASALTOS Y FORTALECER EL SISTEMA DE SEGURIDAD CIUDADANA DEL DISTRITO",
+            "txPgIndicador": "NUMERO DE HECHOS DELICTIVOS DIARIOS EN POBLADORES MAYORES DE 15 AÑOS",
+            "txPgMeta": "REDUCIR EL NÚMERO DE POBLADORES MAYOR DE 15 AÑOS VÍCTIMA DE UN HECHO DELICTIVO, DE 17.7% A 4.9%.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 185623,
+            "txPgProblema": "BAJOS INGRESOS FAMILIARES",
+            "txPgObjetivo": "DESARROLLO DE LAS CAPACIDADES HUMANAS, PROMOVIENDO LA IGUALDAD A LAS OPORTUNIDADES LABORALES Y EL RESPETO DE LOS DERECHOS FUNDAMENTALES DE LAS PERSONAS EN SITUACIÓN DE POBREZA Y ESPECIAL VULNERABILIDAD.",
+            "txPgIndicador": "NÚMERO DE DESEMPLEADOS  POR CADA 10,000 PERSONAS",
+            "txPgMeta": "IMPLEMENTAR PROGRAMAS DE CAPACITACIÓN PARA EL EMPLEO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 185655,
+            "txPgProblema": "FALTA DE OBRAS DE GRAN ENVERGADURA PARA PROMOVER DESARROLLO Y EMPLEO DIRECTO E INDIRECTO",
+            "txPgObjetivo": "PROMOVER LA CULMINACION DEL MERCADO DE ABASTOS DE LA PROVINCIA PARA ORDENAR EL COMERCIO DE CONSUMO DE LA POBLACION",
+            "txPgIndicador": "NO CUENTA CON MERCADO MUNICIPAL",
+            "txPgMeta": "AL 2026 SE DEBE CONSTRUIR E IMPLEMENTAR EL MERCADO MUNICIPAL AL 10%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 185677,
+            "txPgProblema": "ABANDONO EN EL MANTENIMIENTO Y ARREGLO DE CALLES Y CARRETERAS DE LA PROVINCIA",
+            "txPgObjetivo": "MANTENIMIENTO DE LAS VIAS QUE CONECTAN A LOS CASERIOS Y DISTRITOS DE LA PROVINCIA, ASI MISMO CON EL ARREGLO DE PUENTES Y EL ENRIPIADO DE LAS TROCHAS CARROSABLES",
+            "txPgIndicador": "CARRETERAS Y TROCHAS CARROZALES ABANDONADAS Y DETERIORADAS POR EL TRANSCURSO DEL TIEMPO",
+            "txPgMeta": "PARA EL AÑO 2026 SE DEBE HACER EL MANTENIMIENTO GENERAL DE TODAS LAS CARRETERAS, TROCHAS CARROSABLES Y CALLES QUE CONECTAN A TODA LA PROVINCIA",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 185701,
+            "txPgProblema": "DEFICIENTE GESTIÓN DE RECOJO DE LOS RESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "DISPOSICIÓN DE UN RELLENO SANITARIO ADECUADO PARA LA DISPOSICIÓN FINAL DE LOS RESIDUOS SÓLIDOS Y CLAUSURA",
+            "txPgIndicador": "PORCENTAJE DE RESIDUOS SÓLIDOS RECOGIDOS DIARIAMENTE",
+            "txPgMeta": "INCREMENTAR A 100% EL RECOJO DE LOS RESIDUOS SÓLIDOS RECOGIDOS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 185713,
+            "txPgProblema": "LIMITADOS ESPACIOS PÚBLICOS.",
+            "txPgObjetivo": "CONSTRUCCIÓN DE PARQUES.",
+            "txPgIndicador": "NUMERO DE PARQUES EN EL DISTRITO",
+            "txPgMeta": "INCREMENTAR EN 10 EL NUMERO DE PARQUES ORIENTADOS A LA FAMILIA, EL DEPORTE Y LA CULTURA.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 185750,
+            "txPgProblema": "FALTA DES COLMATACIÓN DE QUEBRADAS Y RÍOS",
+            "txPgObjetivo": "IMPLEMENTAR EQUIPOS DE TRABAJO PARA LA DES COLMATACIÓN EN GRUPOS",
+            "txPgIndicador": "NUMEROSAS FUENTES DE AGUA CONTAMINADA POR RESIDUOS SÓLIDOS Y BASURA",
+            "txPgMeta": "LIMPIAR Y DESCONTAMINAR EL AGUA CON UN SISTEMA PERMANENTE DE LIMPIEZA",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 185809,
+            "txPgProblema": "MEJORAR EL ACCESO A SERVICIOS DE AGUA Y SANEAMIENTO BÁSICOS A FAMILIAS VULNERABLE (CASERÍOS Y CENTROS POBLADOS)",
+            "txPgObjetivo": "PRIORIZAR LA EJECUCIÓN DE PROYECTOS DE INVERSIÓN QUE PERMITAN MEJORAR LOS SERVICIOS DE SANEAMIENTO (AGUA Y DESAGÜE).",
+            "txPgIndicador": "NÚMERO DE VIVIENDAS SIN ACCESO A AGUA POTABLE.",
+            "txPgMeta": "REDUCIR LA BRECHA DE VIVIENDAS QUE NO TIENE ACCESO A AGUA POTABLE DE 25.8% A 20.7%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 185834,
+            "txPgProblema": "DEFICIENTE CRECIMIENTO URBANO SOSTENIBLE",
+            "txPgObjetivo": "CREAR LA OFICINA DE CONFLICTOS SOCIALES PARA AGILIZAR LOS PROCESOS DE FORMALIZACIÓN DE PREDIOS.",
+            "txPgIndicador": "NUMERO DE PREDIOS SIN TÍTULOS.",
+            "txPgMeta": "SANEAR EL 35% DE LA PROPIEDAD EN LOS ASENTAMIENTOS HUMANOS.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 185859,
+            "txPgProblema": "FALTA DE CAPACITACION DEL SERVIDOR PUBLICO",
+            "txPgObjetivo": "CAPACITACION PERMANENTE PARA MEJORAR LA ATENCION EN EL SERVICIO PUBLICO EN SUS MULTIBLES FUNCIONES",
+            "txPgIndicador": "EXESIVA BUROCRACIA EN LOS SERVICIOS PUBLICOS QUE BRINDA LA INSTITUCION MUNICIPAL",
+            "txPgMeta": "MANTENER EN COSTANTE CAPACITACION DEL PERSONAL O TRABAJADOR PUBLICO DURANTE TODA LA GESTION",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

@@ -1,0 +1,191 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 192631.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "73030349",
+        "nombres": "MIGUEL ANGEL",
+        "apellidoPaterno": "QUISPE",
+        "apellidoMaterno": "CHANCO",
+        "sexo": "1",
+        "feNacimiento": "01/12/1997",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140133",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "JESUS MARIA",
+        "ubigeoDomicilio": "140132",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "VILLA MARIA DEL TRIUNFO",
+        "domicilioDirecc": "MZ.44 LT.13 MARIANO MELGAR",
+        "ubigeoPostula": "140132",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "VILLA MARIA DEL TRIUNFO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/192631.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2840.0,
+        "organizacionPolitica": "PARTIDO MORADO",
+        "numeroCandidato": 9.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 09:36:03",
+        "txGuidFormatoHojaVida": "554be429-361b-4fb8-92a3-078dd77dd62e",
+        "idSolicitudLista": 30547.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 208370,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "SERVIMYE S.A.C",
+            "ocupacionProfesion": "GERENTE GENERAL",
+            "rucTrabajo": "20603319401",
+            "direccionTrabajo": "SANTA CRUZ DE FLORES 433, URB MARINO MELGAR",
+            "anioTrabajoDesde": "2018",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140132",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "VILLA MARIA DEL TRIUNFO",
+            "idHojaVida": 192631,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 183616,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 192631,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 146826,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "I.I.S RUFFINI",
+                "carreraTecnico": "TOPOGRAFIA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 192631,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "ESTUDIOS DE TOPOGRAFIA REALIZADO EN ITALIA, LIGURIA, IMPERIA."
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 167026,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD RICARDO PALMA",
+                "carreraUni": "EN CURSO",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "NOVENO CICLO"
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 192347,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 12300.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 42000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 6000.0,
+                "idHojaVida": 192631,
+                "idEstado": 1,
+                "totalIngresos": 60300.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 179316,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "C2H541 ",
+                "valor": 16000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMIONETA/ GONOW/ 2011/ PLATA",
+                "comentario": null,
+                "idHojaVida": 192631,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 179315,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "B9V147 ",
+                "valor": 3000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "SEDAN / FIA/ 1980/ AZUL",
+                "comentario": null,
+                "idHojaVida": 192631,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 4116,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "SERVIMYE S.A.C.",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 87.0,
+                "flValor": 3480.0,
+                "idHojaVida": 192631,
+                "idEstado": 1,
+                "txUsuario": "71010724",
+                "txFechaRegistro": null,
+                "txComentario": "87 ACCIONES POR 40 SOLES CADA ACCIONES.",
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

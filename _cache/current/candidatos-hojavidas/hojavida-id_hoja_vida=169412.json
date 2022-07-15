@@ -1,0 +1,144 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 169412.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "21480518",
+        "nombres": "LUIS FRANCISCO",
+        "apellidoPaterno": "HERNANDEZ",
+        "apellidoMaterno": "TIPIANA",
+        "sexo": "1",
+        "feNacimiento": "17/09/1966",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "100113",
+        "naciDepartamento": "ICA",
+        "naciProvincia": "ICA",
+        "naciDistrito": "PACHACUTEC",
+        "ubigeoDomicilio": "100113",
+        "domiDepartamento": "ICA",
+        "domiProvincia": "ICA",
+        "domiDistrito": "PACHACUTEC",
+        "domicilioDirecc": "TUPAC AMARU S/N PACHACUTEC SECTOR 21",
+        "ubigeoPostula": "100113",
+        "postulaDepartamento": "ICA",
+        "postulaProvincia": "ICA",
+        "postulaDistrito": "PACHACUTEC",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/169412.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 19:07:51",
+        "txGuidFormatoHojaVida": "518b4c11-ef67-42e3-ac0b-874b7ea635fd",
+        "idSolicitudLista": 27425.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 224402,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 169412,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 157565,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "INSTITUTO JUAN XXIII",
+                "carreraTecnico": "EDUCACION PRIMARIA",
+                "concluidoEduTecnico": "2",
+                "idHojaVida": 169412,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 167690,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 38,
+            "orgPolRenunciaOp": "PARTIDO REGIONAL DE INTEGRACION",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 169412,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 135849,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "095-97",
+            "feSentenciaPenal": "12/06/1997",
+            "txOrganoJudiPenal": "JUZGADO DE PAZ",
+            "txDelitoPenal": "ESTAFA",
+            "txFalloPenal": "01 AÑO REHABILITADO",
+            "idParamModalidad": 11,
+            "txModalidad": "SUSPENDIDA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 169412,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 137437,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 2,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "536-2001",
+            "txOrganoJuridicialObliga": "JUZGADO",
+            "txFalloObliga": "01 AÑO REHABILITADO",
+            "idEstado": 1,
+            "idHojaVida": 169412,
+            "txComentario": null
+        },
+        {
+            "idHvSentenciaObliga": 137436,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "066-1994",
+            "txOrganoJuridicialObliga": "JUZGADO",
+            "txFalloObliga": "6 MESES REHABILITADO",
+            "idEstado": 1,
+            "idHojaVida": 169412,
+            "txComentario": null
+        }
+    ]
+}

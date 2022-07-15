@@ -1,0 +1,156 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 185623.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44715815",
+        "nombres": "TERBER",
+        "apellidoPaterno": "AREVALO",
+        "apellidoMaterno": "RENGIFO",
+        "sexo": "1",
+        "feNacimiento": "19/04/1980",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "210401",
+        "naciDepartamento": "SAN MARTIN",
+        "naciProvincia": "MARISCAL CACERES",
+        "naciDistrito": "JUANJUI",
+        "ubigeoDomicilio": "150502",
+        "domiDepartamento": "LORETO",
+        "domiProvincia": "UCAYALI",
+        "domiDistrito": "VARGAS GUERRA",
+        "domicilioDirecc": "JR.ZAPATA S/N",
+        "ubigeoPostula": "150502",
+        "postulaDepartamento": "LORETO",
+        "postulaProvincia": "UCAYALI",
+        "postulaDistrito": "VARGAS GUERRA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/185623.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 00:06:20",
+        "txGuidFormatoHojaVida": "ee1073cb-8a23-46ed-85fc-5bbf876241e8",
+        "idSolicitudLista": 29590.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 185426,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "EVANISTA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR. ZAPATA S/N",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "150502",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LORETO",
+            "trabajoProvincia": "UCAYALI",
+            "trabajoDistrito": "VARGAS GUERRA",
+            "idHojaVida": 185623,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 163266,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 185623,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 146134,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 179,
+            "orgPolRenunciaOp": "PARTIDO NACIONALISTA PERUANO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 185623,
+            "idEstado": 1,
+            "txComentario": "RENUNCIA 07/09/2021"
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 155266,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 8000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 185623,
+                "idEstado": 1,
+                "totalIngresos": 8000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 166454,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "0167DU ",
+                "valor": 6100.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR ROJO",
+                "comentario": null,
+                "idHojaVida": 185623,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 166453,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "06780U ",
+                "valor": 6100.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR AZUL",
+                "comentario": null,
+                "idHojaVida": 185623,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

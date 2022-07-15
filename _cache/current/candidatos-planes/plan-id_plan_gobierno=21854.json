@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 21854,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 4,
+        "txOrganizacionPolitica": "ACCION POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1704,
+        "juradoElectoral": "MARISCAL CACERES",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/eae42805-1c29-45c4-b5ea-3ad21d00f668.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/7e0fde04-24bb-498a-b40b-3358b5281ec7.pdf",
+        "txCodExpedienteExt": "ERM.2022015509",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 182469,
+            "txPgProblema": "DESNUTRICIÓN",
+            "txPgObjetivo": "APOYAR COMEDORES POPULARES",
+            "txPgIndicador": "POCO ACCESO",
+            "txPgMeta": "URBANO - RURAL",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182498,
+            "txPgProblema": "POBREZA",
+            "txPgObjetivo": "INTENSIFICAR LA ECONOMÍA AGRICOLA",
+            "txPgIndicador": "CARRETERAS EN MAL ESTADO",
+            "txPgMeta": "MEJORES CARRETERAS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182542,
+            "txPgProblema": "ANALFABETISMO",
+            "txPgObjetivo": "ACONDICIONAR ACCESOS EDUCATIVOS",
+            "txPgIndicador": "ESCUELAS DETERIORADAS",
+            "txPgMeta": "ESCUELAS RURALES CON MÁS APOYO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 182692,
+            "txPgProblema": "NO HAY INVERSIÓN PÚBLICA",
+            "txPgObjetivo": "PROYECTO DE PISTAS Y VEREDAS",
+            "txPgIndicador": "DETERIORO DE CALLES",
+            "txPgMeta": "EJECUTAR PISTAS Y VEREDAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182731,
+            "txPgProblema": "NO HAY TURISMO",
+            "txPgObjetivo": "ACONDICIONAR LUGARES TURISTICO",
+            "txPgIndicador": "0% TURISTAS",
+            "txPgMeta": "5000 TURISTAS (DISTRITAL)",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182806,
+            "txPgProblema": "NO HAY TRABAJO ASOCIATIVO",
+            "txPgObjetivo": "FOMENTAR ASOCIACIONES",
+            "txPgIndicador": "FALTA DE OPORTUNIDADES",
+            "txPgMeta": "DESARROLLO ASOCIATIVO Y COOPERATIVO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 182858,
+            "txPgProblema": "CONTAMINACIÓN DE RESIDUOS",
+            "txPgObjetivo": "PLANTAS DE RESIDUOS",
+            "txPgIndicador": "CONTAMINACIÓN",
+            "txPgMeta": "GENERAR ABONO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182965,
+            "txPgProblema": "DEFORESTACIÓN",
+            "txPgObjetivo": "PROYECTO DE REFORESTACIÓN",
+            "txPgIndicador": "PERDIDA DE BOSQUES",
+            "txPgMeta": "SEMBRAR 200 MIL PLANTAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182999,
+            "txPgProblema": "CAUDALES HIDRICOS",
+            "txPgObjetivo": "REFORESTAR CUENTAS",
+            "txPgIndicador": "SEQUIAS",
+            "txPgMeta": "SEMBRÍO DE BAMBÚ",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 183039,
+            "txPgProblema": "RONDAS CAMPESINAS",
+            "txPgObjetivo": "APOYO LOGÍSTICO",
+            "txPgIndicador": "INSEGURIDAD",
+            "txPgMeta": "100% SEGURIDAD LOCAL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 183065,
+            "txPgProblema": "SALUD Y EDUCACIÓN",
+            "txPgObjetivo": "UNIDADES EJECUTORAS",
+            "txPgIndicador": "GESTIÓN DEFICIENTE",
+            "txPgMeta": "MANEJO PRESUPUESTAL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 183095,
+            "txPgProblema": "DEFICIENCIA MUNICIPAL",
+            "txPgObjetivo": "ADMINISTRACION DEFICIENTE",
+            "txPgIndicador": "SERVICIOS INSUFICIENTES",
+            "txPgMeta": "MUNICIPIO COMPETITIVO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

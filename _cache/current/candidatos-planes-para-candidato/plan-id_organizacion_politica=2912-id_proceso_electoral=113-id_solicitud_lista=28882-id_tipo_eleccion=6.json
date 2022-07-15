@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 22208,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2912,
+        "txOrganizacionPolitica": "REFORMA Y HONRADEZ POR MAS OBRAS",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/f333b137-2221-4e9e-9591-ab49288149ef.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/77f9e8ee-ca50-41a5-9c2c-3749d1d19785.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 223508,
+            "txPgProblema": "ACCESO INADECUADO A LOS SERVICIOS DE AGUA POTABLE Y REDES DE DESAGÜE.",
+            "txPgObjetivo": "MEJORAMIENTO Y AMPLIACIÓN DE LOS SERVICIOS DE AGUA POTABLE, REDES DESAGÜE",
+            "txPgIndicador": "CON ACCESO AL AGUA 50% DE VIVIENDAS",
+            "txPgMeta": "ACCESO AL AGUA Y SANEAMIENTO URBANO EN UN 90%.\nREPRESAMIENTO Y BOMBA SOLAR",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 223516,
+            "txPgProblema": "INADECUADOS ACCESOS A SERVICIOS DE SALUD.",
+            "txPgObjetivo": "MEJORAMIENTO Y AMPLIACIÓN DE LOS SERVICIOS DE SALUD DE LOS ESTABLECIMIENTOS DE SALUD DE PRIMER NIVEL.",
+            "txPgIndicador": "30% DE INFRAESTRUCTURA DE SALUD DETERIORADA",
+            "txPgMeta": "CONSTRUCCIÓN DE CLÍNICA MUNICIPAL",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 223528,
+            "txPgProblema": "INADECUADA ATENCIÓN AL ADULTO MAYOR Y PERSONAS VULNERABLES.",
+            "txPgObjetivo": "PROMOVER A LA INSERCIÓN DE LA POBLACIÓN MÁS VULNERABLE A LOS PROGRAMAS SOCIALES",
+            "txPgIndicador": "60% DE POBLACIÓN VULNERABLE NO ACCEDE A SERVICIOS",
+            "txPgMeta": "INCREMENTAR EN 30% LA COBERTURA DE SERVICIOS CONSTRUCCIÓN DE INFRAESTRUCTURA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 223534,
+            "txPgProblema": "INADECUADOS ESPACIOS PARA EL COMERCIO AMBULATORIO.",
+            "txPgObjetivo": "MEJORAMIENTO DEL MERCADO Y FERIAS.",
+            "txPgIndicador": "90% DE COMERCIANTES AMBULANTES REALIZAN EL COMERCIO EN LAS CALLES.",
+            "txPgMeta": "BRINDAR AL 90% DE COMERCIANTES AMBULANTES LUGARES ADECUADOS PARA EL COMERCIO. ACONDICIONAMIENTO DE ESPACIOS O PLATAFORMAS COMERCIALES EXISTENTES.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 223539,
+            "txPgProblema": "INADECUADO SERVICIO DE TRANSITABILIDAD VEHICULAR EN LOS CAMINOS VECINALES Y TROCHAS CARROZABLES.",
+            "txPgObjetivo": "MEJORAMIENTO Y AMPLIACIÓN DE LOS CAMINOS VECINALES, PUENTES.",
+            "txPgIndicador": "90% DE CAMINOS VECINALES INTRANSITABLES",
+            "txPgMeta": "CONSTRUCCIÓN Y MANTENIMIENTO DE CARRETERAS, PUENTES, PONTONES Y VÍAS DE ACCESO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 223555,
+            "txPgProblema": "ESCASA PROMOCIÓN DE LA ACTIVIDAD MINERA Y CORREDORES ECONÓMICOS",
+            "txPgObjetivo": "PROMOCIÓN CONTINUA DE LA ACTIVIDAD MINERA Y CORREDORES ECONÓMICOS.",
+            "txPgIndicador": "90% DE CORREDORES ECONÓMICOS Y MINEROS NO DESARROLLADOS.",
+            "txPgMeta": "CONSTRUCCIÓN DE CORREDOR ECONÓMICO Y MINEROS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 223560,
+            "txPgProblema": "INADECUADO TRATAMIENTO DE RESIDUOS SÓLIDOS DOMÉSTICOS",
+            "txPgObjetivo": "PROMOVER LA SEGREGACIÓN DE LOS RESIDUOS SÓLIDOS EN FUENTE.",
+            "txPgIndicador": "100% DE RESIDUOS SÓLIDOS NO TRATADOS",
+            "txPgMeta": "100% DE RESIDUOS SÓLIDOS TRATADOS CONSTRUCCIÓN DE UNA PLANTA DE TRATAMIENTO DE RESIDUOS SOLIDOS\nDOMÉSTICOS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 223569,
+            "txPgProblema": "CONTAMINACIÓN DEL MEDIO AMBIENTE.",
+            "txPgObjetivo": "PROMOVER EL TRATAMIENTO ADECUADO DE RESIDUOS.",
+            "txPgIndicador": "REDUCIR AL 45 %CONTAMINACIÓN AMBIENTAL.",
+            "txPgMeta": "CONSTRUCCIÓN DE PLANTAS DE TRATAMIENTO.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 223573,
+            "txPgProblema": "INSTRUMENTOS Y DOCUMENTOS DE GESTIÓN DESACTUALIZADOS.",
+            "txPgObjetivo": "ACTUALIZAR LOS INSTRUMENTOS Y DOCUMENTOS DE GESTIÓN MUNICIPAL.",
+            "txPgIndicador": "80% DE DOCUMENTO DE GESTIÓN MUNICIPAL DESACTUALIZADOS.",
+            "txPgMeta": "ACTUALIZAR EL 100% DE DOCUMENTOS E INSTRUMENTOS DE GESTIÓN MUNICIPAL.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 223580,
+            "txPgProblema": "INADECUADA INFRAESTRUCTURA PÚBLICA MUNICIPAL PARA LA ATENCIÓN AL PÚBLICO.",
+            "txPgObjetivo": "MEJORAR Y AMPLIAR LA INFRAESTRUCTURA PÚBLICA MUNICIPAL PARA LA ATENCIÓN AL PÚBLICO.",
+            "txPgIndicador": "20% DE LOS USUARIOS NO SON ATENDIDOS EN FORMA ÓPTIMA.",
+            "txPgMeta": "MEJORAR EN 80% DE LOS SERVICIOS DE ATENCIÓN AL PÚBLICO.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 223586,
+            "txPgProblema": "PLAN DE DESARROLLO URBANO DESACTUALIZADO.",
+            "txPgObjetivo": "ELABORACIÓN DEL PLAN DE DESARROLLO URBANO.",
+            "txPgIndicador": "PLAN DE DESARROLLO URBANO DESACTUALIZADO.",
+            "txPgMeta": "UN PLAN DE DESARROLLO URBANO ELABORADO Y APROBADO.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

@@ -1,0 +1,126 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 143829.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "01063806",
+        "nombres": "RUBEN BERNARDINO",
+        "apellidoPaterno": "TAPULLIMA",
+        "apellidoMaterno": "GARCIA",
+        "sexo": "1",
+        "feNacimiento": "05/10/1961",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "210301",
+        "naciDepartamento": "SAN MARTIN",
+        "naciProvincia": "LAMAS",
+        "naciDistrito": "LAMAS",
+        "ubigeoDomicilio": "210610",
+        "domiDepartamento": "SAN MARTIN",
+        "domiProvincia": "SAN MARTIN",
+        "domiDistrito": "JUAN GUERRA",
+        "domicilioDirecc": "JR. LOS PROCERES 310",
+        "ubigeoPostula": "210610",
+        "postulaDepartamento": "SAN MARTIN",
+        "postulaProvincia": "SAN MARTIN",
+        "postulaDistrito": "JUAN GUERRA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/143829.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 2722.0,
+        "organizacionPolitica": "UNION REGIONAL",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 17:44:52",
+        "txGuidFormatoHojaVida": "86f6f2a7-ef07-4271-9228-1770384d7b4f",
+        "idSolicitudLista": 23944.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 149667,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 143829,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 145571,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 143829,
+                "idEstado": 1,
+                "totalIngresos": 0.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 157509,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "2150DS ",
+                "valor": 2800.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "ZONGSHEN AZUL",
+                "comentario": null,
+                "idHojaVida": 143829,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 134485,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "2008-304",
+            "feSentenciaPenal": "12/12/2008",
+            "txOrganoJudiPenal": "SEGUNDO JUZGADO PENAL TARAPOTO",
+            "txDelitoPenal": "OMISION ALIMENTARIA FAMILIAR",
+            "txFalloPenal": "11 DIAS",
+            "idParamModalidad": 10,
+            "txModalidad": "EFECTIVA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 143829,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": []
+}

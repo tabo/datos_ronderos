@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 188111.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "03382187",
+        "nombres": "OSCAR",
+        "apellidoPaterno": "MADRID",
+        "apellidoMaterno": "ALVAREZ",
+        "sexo": "1",
+        "feNacimiento": "25/07/1978",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "190401",
+        "naciDepartamento": "PIURA",
+        "naciProvincia": "MORROPON",
+        "naciDistrito": "CHULUCANAS",
+        "ubigeoDomicilio": "190404",
+        "domiDepartamento": "PIURA",
+        "domiProvincia": "MORROPON",
+        "domiDistrito": "MORROPON",
+        "domicilioDirecc": "CASERIO SOLUMBRE MZ. A LT. 76",
+        "ubigeoPostula": "190404",
+        "postulaDepartamento": "PIURA",
+        "postulaProvincia": "MORROPON",
+        "postulaDistrito": "MORROPON",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/188111.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2862.0,
+        "organizacionPolitica": "CONTIGO REGION",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 11:45:26",
+        "txGuidFormatoHojaVida": "9c752bbf-0f18-4e51-a186-14d6f9a3a4d3",
+        "idSolicitudLista": 29932.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 171280,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MADRID SERVICIOS GENERALES",
+            "ocupacionProfesion": "COMERCIANTE",
+            "rucTrabajo": "10033821871",
+            "direccionTrabajo": "CHICLAYO",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "130101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LAMBAYEQUE",
+            "trabajoProvincia": "CHICLAYO",
+            "trabajoDistrito": "CHICLAYO",
+            "idHojaVida": 188111,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 150037,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 188111,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 141122,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 2216,
+            "orgPolRenunciaOp": "MOVIMIENTO REGIONAL SEGURIDAD Y PROSPERIDAD",
+            "anioRenunciaOp": "2019",
+            "idHojaVida": 188111,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 141121,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 188111,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 145814,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 36355.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 188111,
+                "idEstado": 1,
+                "totalIngresos": 36355.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 157745,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "00148F ",
+                "valor": 1500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA ZONGZHEN SPEX 150",
+                "comentario": null,
+                "idHojaVida": 188111,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

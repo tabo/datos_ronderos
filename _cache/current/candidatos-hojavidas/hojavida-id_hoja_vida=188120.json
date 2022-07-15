@@ -1,0 +1,174 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 188120.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "30400087",
+        "nombres": "EULOGIO",
+        "apellidoPaterno": "TARIFA",
+        "apellidoMaterno": "YAMPI",
+        "sexo": "1",
+        "feNacimiento": "13/09/1965",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "070806",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "ESPINAR",
+        "naciDistrito": "PICHIGUA",
+        "ubigeoDomicilio": "040308",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "CAMANA",
+        "domiDistrito": "SAMUEL PASTOR",
+        "domicilioDirecc": "ASOC. VILLA LINARES MZ C LT 11",
+        "ubigeoPostula": "040308",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "CAMANA",
+        "postulaDistrito": "SAMUEL PASTOR",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/188120.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2857.0,
+        "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL",
+            " ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 10:09:18",
+        "txGuidFormatoHojaVida": "484add69-25dc-41a7-9873-6509ab9b2eac",
+        "idSolicitudLista": 29934.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 178949,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "TRABAJO INDEPENDIENTE",
+            "ocupacionProfesion": "TAXISTA CHOFER",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE SAN ROMAN MZ K LOTE 3",
+            "anioTrabajoDesde": "2017",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "040308",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "CAMANA",
+            "trabajoDistrito": "SAMUEL PASTOR",
+            "idHojaVida": 188120,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 157264,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 188120,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 143887,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1668,
+            "orgPolRenunciaOp": "FRENTE DE MOVILIZACION SOCIAL",
+            "anioRenunciaOp": "2011",
+            "idHojaVida": 188120,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 150897,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 12000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 188120,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 162706,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "V4W637 ",
+                "valor": 6000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "V4W637",
+                "comentario": "NISSAN, CARRO DE SEGUNDA",
+                "idHojaVida": 188120,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 134591,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "00971-2019-31-0402-JR-PR-01",
+            "feSentenciaPenal": "23/11/2021",
+            "txOrganoJudiPenal": "JUZGADO UNIPERSONAL CAMANA",
+            "txDelitoPenal": "O.A.F.",
+            "txFalloPenal": "SENTENCIA",
+            "idParamModalidad": 11,
+            "txModalidad": "SUSPENDIDA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 188120,
+            "txComentario": "YA SE PAGÓ LA REPARACIÓN CIVIL Y DEUDA"
+        }
+    ],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 135132,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "00971-2019-0402-JR-PE-01",
+            "txOrganoJuridicialObliga": "SEGUNDO JUZGADO UNIPERSONAL CAMANA",
+            "txFalloObliga": "SENTENCIA CON COMETER DE SUSPENDIDA",
+            "idEstado": 1,
+            "idHojaVida": 188120,
+            "txComentario": "PAGO DE REPARACIÓN CIVIL Y DEUDA"
+        }
+    ]
+}

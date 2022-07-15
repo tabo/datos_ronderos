@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 168622.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43924512",
+        "nombres": "GRECIA ROCIO",
+        "apellidoPaterno": "PAREDES",
+        "apellidoMaterno": "CUBA",
+        "sexo": "2",
+        "feNacimiento": "10/02/1986",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "100403",
+        "naciDepartamento": "ICA",
+        "naciProvincia": "PISCO",
+        "naciDistrito": "HUMAY",
+        "ubigeoDomicilio": "100403",
+        "domiDepartamento": "ICA",
+        "domiProvincia": "PISCO",
+        "domiDistrito": "HUMAY",
+        "domicilioDirecc": "VIA LOS LIBERTADORES KM. 36.5 - C.P PANTAYCO",
+        "ubigeoPostula": "100403",
+        "postulaDepartamento": "ICA",
+        "postulaProvincia": "PISCO",
+        "postulaDistrito": "HUMAY",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/168622.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 01:35:01",
+        "txGuidFormatoHojaVida": "dd9ebc61-69cf-42f9-91a7-bfa1f2725667",
+        "idSolicitudLista": 27313.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 177820,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTORA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "C.P PANTAYCO",
+            "anioTrabajoDesde": "2000",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "100403",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ICA",
+            "trabajoProvincia": "PISCO",
+            "trabajoDistrito": "HUMAY",
+            "idHojaVida": 168622,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 156168,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 168622,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 139583,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "IEI FEDERICO UNANGO",
+                "carreraTecnico": "SECRETARIA EJECUTIVA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 168622,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 150158,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 12000.0,
+                "idHojaVida": 168622,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 189791,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "TERRENO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CA PANTAYCO LT 29",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 168622,
+                "idEstado": 1,
+                "flValor": "7000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 161951,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "X2S483 ",
+                "valor": 1000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "NN",
+                "comentario": null,
+                "idHojaVida": 168622,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

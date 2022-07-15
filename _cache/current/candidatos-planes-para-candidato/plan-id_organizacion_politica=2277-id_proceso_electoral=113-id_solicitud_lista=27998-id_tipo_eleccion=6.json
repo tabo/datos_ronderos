@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 21324,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2277,
+        "txOrganizacionPolitica": "SENTIMIENTO AMAZONENSE REGIONAL",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/fc9bc68d-22f7-4913-8eab-b914ba546c18.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/5dcca14a-2a21-4c47-8dca-1f32d31e972b.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 140352,
+            "txPgProblema": "AUSENCIA DE UN SISTEMA DE AGUA POTABLE Y SANEAMIENTO BÁSICO",
+            "txPgObjetivo": "DOTAR A LA MAYORÍA DE LA POBLACIÓN DE AGUA TRATADA Y SANEAMIENTO BÁSICO",
+            "txPgIndicador": "PORCENTAJE DE COBERTURA DE AGUA POTABLE Y SANEAMIENTO",
+            "txPgMeta": "01 PROYECTOS EJECUTADOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 140356,
+            "txPgProblema": "DEFICIENTE SERVICIO DE SALUD",
+            "txPgObjetivo": "GESTIONAR JUNTAMENTE CON LA DIRESA Y LA RED DE SALUD LA IMPLEMENTACIÓN DE UN CENTRO DE SALUD TIPO I-3",
+            "txPgIndicador": "PORCENTAJE DE CALIDAD DEL SERVICIO DE SALUD EN EL DISTRITO",
+            "txPgMeta": "01 CENTRO DE SALUD I-3 IMPLEMENTADO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 140362,
+            "txPgProblema": "DEFICIENTE E INEXISTENTES VÍAS DE COMUNICACIÓN EN LOS ANEXOS",
+            "txPgObjetivo": "GESTIONAR LA CONSTRUCCIÓN DE VÍAS DE COMUNICACIÓN EN LOS ANEXOS",
+            "txPgIndicador": "PORCENTAJE DE VÍAS DE COMUNICACIÓN GESTIONADAS Y EJECUTADAS",
+            "txPgMeta": "1 GESTIÓN\n1 EJECUCIÓN",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 140371,
+            "txPgProblema": "BAJO NIVEL PRODUCTIVO EN LAS ACTIVIDADES AGRÍCOLAS",
+            "txPgObjetivo": "GESTIÓN DE UN SISTEMA DE RIEGO TECNIFICADO",
+            "txPgIndicador": "PORCENTAJE DE PRODUCCIÓN AGRÍCOLA",
+            "txPgMeta": "1 GESTIÓN\n1 EJECUCIÓN",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 140374,
+            "txPgProblema": "LIMITADA ASIGNACIÓN DE RECURSOS PARA INCENTIVAR LAS ACTIVIDADES PRODUCTIVAS",
+            "txPgObjetivo": "DESTINAR UN PORCENTAJE DEL PRESUPUESTO PROVENIENTE DEL FONCOMUN PARA IMPLEMENTAR PROYECTOS AGROPECUARIOS",
+            "txPgIndicador": "PORCENTAJE DE PRESUPUESTO DEL FONCOMUN DESTINADO",
+            "txPgMeta": "05 PROYECTOS AGROPECUARIOS APOYADOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 140380,
+            "txPgProblema": "CARENCIA DE ASISTENCIA TÉCNICA ESPECIALIZADA EN AGRÍCOLA",
+            "txPgObjetivo": "GESTIONAR EL MEJORAMIENTO GENÉTICO DEL GANADO VACUNO",
+            "txPgIndicador": "PORCENTAJE DE GANADO VACUNO MEJORADO GENÉTICAMENTE",
+            "txPgMeta": "APOYAR AL DESARROLLO GANADERO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 140386,
+            "txPgProblema": "DISMINUCIÓN DE LA CAPACIDAD PRODUCTIVA DE LOS SUELOS AGRÍCOLAS",
+            "txPgObjetivo": "PROMOCIÓN Y APOYO PARA EL USO DE ABONOS ORGÁNICOS",
+            "txPgIndicador": "PORCENTAJE DE ABONOS ORGÁNICOS EMPLEADOS",
+            "txPgMeta": "ACABAR CON LA DEGRADACIÓN DE SUELOS AGRÍCOLAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 140395,
+            "txPgProblema": "MANEJO INADECUADO DE LOS RESIDUOS SOLIDOS",
+            "txPgObjetivo": "TRASLADAR EL RELLENO DE RESIDUOS SÓLIDOS DEL ÁREA HABITADA DE TRITA\nREALIZAR CAMPAÑAS DE SENSIBILIZACIÓN EL USO DE LETRINAS ECOLÓGICAS",
+            "txPgIndicador": "PORCENTAJE DE CONTAMINACIÓN DISMINUIDA",
+            "txPgMeta": "TRITA 100% LIMPIA",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 140399,
+            "txPgProblema": "DEFICIENTE USO DEL RECURSO HÍDRICO",
+            "txPgObjetivo": "MEJORAR EL USO DEL AGUA A TRAVÉS DE LA CONSTRUCCIÓN DE UN SISTEMA DE RIEGO",
+            "txPgIndicador": "PORCENTAJE DE AGUA AHORRADA",
+            "txPgMeta": "01 SISTEMA DE RIEGO GESTIONADO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 140407,
+            "txPgProblema": "DEFICIENTE GESTIÓN DE LAS AUTORIDADES LOCALES",
+            "txPgObjetivo": "CONTAR CON EL EQUIPO TÉCNICO PARA GARANTIZAR LA BUENA GESTIÓN MUNICIPAL",
+            "txPgIndicador": "PORCENTAJE DE METAS MUNICIPALES ALCANZADAS",
+            "txPgMeta": "CUMPLIR CON LAS METAS MUNICIPALIDADES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 140415,
+            "txPgProblema": "ESCASA MOTIVACIÓN EN LA CIUDADANÍA PARA PARTICIPAR EN EVENTOS DE INTERÉS SOCIAL",
+            "txPgObjetivo": "INVOLUCRAR A LA CIUDADANÍA EN LOS DIVERSOS EVENTOS SOCIALES DEL DISTRITO",
+            "txPgIndicador": "PORCENTAJE PARTICIPACIÓN DE LOS CIUDADANOS EN LOS EVENTOS SOCIALES",
+            "txPgMeta": "LOGRAR LA PARTICIPACIÓN ACTIVA DE LOS CIUDADANOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 140420,
+            "txPgProblema": "INFRAESTRUCTURA INADECUADA DEL LOCAL MUNICIPAL",
+            "txPgObjetivo": "MEJORAR LAS INSTALACIONES DE LA MUNICIPALIDAD",
+            "txPgIndicador": "PORCENTAJE DE MEJORA DEL LOCAL MUNICIPAL",
+            "txPgMeta": "MUNICIPALIDAD ÓPTIMA PARA LA ATENCIÓN AL CIUDADANO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

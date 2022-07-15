@@ -1,0 +1,140 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 234567.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "46484465",
+        "nombres": "ANDRE ARTURO",
+        "apellidoPaterno": "NAVARRETE",
+        "apellidoMaterno": "RODRIGUEZ",
+        "sexo": "1",
+        "feNacimiento": "01/08/1990",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140101",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "LIMA",
+        "ubigeoDomicilio": "140104",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "BREÑA",
+        "domicilioDirecc": "JR. TICAPAMPA 130 URB. CHACRA COLORADA",
+        "ubigeoPostula": "140104",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "BREÑA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/234567.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 4.0,
+        "organizacionPolitica": "ACCION POPULAR",
+        "numeroCandidato": 9.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 17:28:20",
+        "txGuidFormatoHojaVida": "8c794748-97d7-4387-91ea-d444e444ca2a",
+        "idSolicitudLista": 35671.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 229786,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "BANCO DE CREDITO DEL PERU",
+            "ocupacionProfesion": "PROMOTOR DE SERVICIOS OPERATIVOS",
+            "rucTrabajo": "20100047218",
+            "direccionTrabajo": "CALLE CENTENARIO N° 156",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "2016",
+            "ubigeoTrabajo": "140110",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "LA MOLINA",
+            "idHojaVida": 234567,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 202698,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 234567,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 151784,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "SUPERIOR TECNOLÓGICO - SAN IGNACIO DE LOYOLA",
+                "carreraTecnico": "PROFESIONAL TÉCNICO EN ADMINISTRACIÓN DE NEGOCIOS INTERNACIONALES",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 234567,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 190594,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "4071WB ",
+                "valor": 17388.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "REGAL RAPTOR DD400E - 6C COLOR NEGRO",
+                "comentario": null,
+                "idHojaVida": 234567,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 190593,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "C15251 ",
+                "valor": 9450.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "KEEWAY  SUPERLIGHT 200CC COLOR NEGRO",
+                "comentario": null,
+                "idHojaVida": 234567,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

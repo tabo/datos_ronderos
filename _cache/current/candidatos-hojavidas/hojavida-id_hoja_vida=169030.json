@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 169030.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "32389952",
+        "nombres": "FRANCISCO ANTONIO",
+        "apellidoPaterno": "CORAJE",
+        "apellidoMaterno": "GUERRERO",
+        "sexo": "1",
+        "feNacimiento": "01/12/1970",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "020703",
+        "naciDepartamento": "ANCASH",
+        "naciProvincia": "HUAYLAS",
+        "naciDistrito": "HUATA",
+        "ubigeoDomicilio": "020701",
+        "domiDepartamento": "ANCASH",
+        "domiProvincia": "HUAYLAS",
+        "domiDistrito": "CARAZ",
+        "domicilioDirecc": "BARRIO ICHOC HUAYLAS S/N",
+        "ubigeoPostula": "020703",
+        "postulaDepartamento": "ANCASH",
+        "postulaProvincia": "HUAYLAS",
+        "postulaDistrito": "HUATA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/169030.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2856.0,
+        "organizacionPolitica": "ALIANZA GOBIERNO UNIDAD Y ACCION",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 18:28:39",
+        "txGuidFormatoHojaVida": "6877bb68-fe13-49d7-aff2-91e145fce5e5",
+        "idSolicitudLista": 27368.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 239093,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "EMPRESA COORPORACIÓN ROOTS",
+            "ocupacionProfesion": "OBRERO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "FUNDO SAN FRANCISCO S/N. HUATA",
+            "anioTrabajoDesde": "1997",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "020703",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ANCASH",
+            "trabajoProvincia": "HUAYLAS",
+            "trabajoDistrito": "HUATA",
+            "idHojaVida": 169030,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 211081,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 169030,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 163211,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 169030,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 191178,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 11160.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 169030,
+                "idEstado": 1,
+                "totalIngresos": 11160.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 236260,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA HABITACIÓN",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CASERIO DE RANCA S/N.",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 2000.0,
+                "idHojaVida": 169030,
+                "idEstado": 1,
+                "flValor": "15000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 195434,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "B50080 ",
+                "valor": 5000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOTAXI",
+                "comentario": null,
+                "idHojaVida": 169030,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

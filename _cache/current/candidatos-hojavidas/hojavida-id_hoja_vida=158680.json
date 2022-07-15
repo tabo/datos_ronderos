@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 158680.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "26683795",
+        "nombres": "JORGE LUIS",
+        "apellidoPaterno": "VALDIVIA",
+        "apellidoMaterno": "NARRO",
+        "sexo": "1",
+        "feNacimiento": "07/10/1971",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "060109",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "CAJAMARCA",
+        "naciDistrito": "MAGDALENA",
+        "ubigeoDomicilio": "060109",
+        "domiDepartamento": "CAJAMARCA",
+        "domiProvincia": "CAJAMARCA",
+        "domiDistrito": "MAGDALENA",
+        "domicilioDirecc": "AV.JORGE CHAVEZ 1292",
+        "ubigeoPostula": "060109",
+        "postulaDepartamento": "CAJAMARCA",
+        "postulaProvincia": "CAJAMARCA",
+        "postulaDistrito": "MAGDALENA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/158680.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 160.0,
+        "organizacionPolitica": "FRENTE REGIONAL DE CAJAMARCA",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 18:16:17",
+        "txGuidFormatoHojaVida": "8a19b2ba-105f-4a5c-9f98-c1f3575495be",
+        "idSolicitudLista": 25960.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 185781,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "I.E 821500 - CASERIO EL PROGRESO JESUS",
+            "ocupacionProfesion": "PROFESOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "EL PROGRESO - JESUS - CAJAMARCA",
+            "anioTrabajoDesde": "2009",
+            "anioTrabajoHasta": "2018",
+            "ubigeoTrabajo": "060106",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CAJAMARCA",
+            "trabajoProvincia": "CAJAMARCA",
+            "trabajoDistrito": "JESUS",
+            "idHojaVida": 158680,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 163590,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 158680,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 137901,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "I.S.P V.E.G. CAJAMARCA",
+                "carreraNoUni": "PROFESOR DE EDUCACION PRIMARIA",
+                "concluidoNoUni": "1",
+                "idHojaVida": 158680,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 146324,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 46,
+            "orgPolRenunciaOp": "PERU POSIBLE",
+            "anioRenunciaOp": "2017",
+            "idHojaVida": 158680,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 155688,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 10000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 158680,
+                "idEstado": 1,
+                "totalIngresos": 10000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 166771,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "ML6347 ",
+                "valor": 2000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR ROJO NEGRO",
+                "comentario": null,
+                "idHojaVida": 158680,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,156 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 205249.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "72271899",
+        "nombres": "PEDRO ORLANDO",
+        "apellidoPaterno": "LENCI",
+        "apellidoMaterno": "PIZARRO",
+        "sexo": "1",
+        "feNacimiento": "12/07/1994",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140801",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "HUARAL",
+        "naciDistrito": "HUARAL",
+        "ubigeoDomicilio": "140804",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "HUARAL",
+        "domiDistrito": "AUCALLAMA",
+        "domicilioDirecc": "LOTIZACION PIZARRO SAN GRACIANO BAJO MZ. A LT. 02",
+        "ubigeoPostula": "140804",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "HUARAL",
+        "postulaDistrito": "AUCALLAMA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/205249.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 00:51:01",
+        "txGuidFormatoHojaVida": "d40a6f6e-fb01-4990-971d-c2b0ad3cfe57",
+        "idSolicitudLista": 32173.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 249350,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "BANCO FALABELLA PERÚ SA",
+            "ocupacionProfesion": "EJECUTIVO INTEGRAL",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. CHANCAY 1248. MEGA PLAZA",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140801",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "HUARAL",
+            "trabajoDistrito": "HUARAL",
+            "idHojaVida": 205249,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 220864,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 205249,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 156566,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "JFFB CERTUS",
+                "carreraTecnico": "ADMINISTRACIÓN BANCARIA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 205249,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 198891,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 45000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 12000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 205249,
+                "idEstado": 1,
+                "totalIngresos": 57000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 201059,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "2176TA ",
+                "valor": 2500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA ITALICA",
+                "comentario": null,
+                "idHojaVida": 205249,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 201058,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "66991F ",
+                "valor": 20000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA YAMAHA",
+                "comentario": null,
+                "idHojaVida": 205249,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

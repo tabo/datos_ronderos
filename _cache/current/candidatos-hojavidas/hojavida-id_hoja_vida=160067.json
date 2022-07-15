@@ -1,0 +1,185 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 160067.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "45015276",
+        "nombres": "MARIO",
+        "apellidoPaterno": "ABANTO",
+        "apellidoMaterno": "CHAVARRIA",
+        "sexo": "1",
+        "feNacimiento": "22/02/1988",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "060201",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "CAJABAMBA",
+        "naciDistrito": "CAJABAMBA",
+        "ubigeoDomicilio": "061202",
+        "domiDepartamento": "CAJAMARCA",
+        "domiProvincia": "SAN MARCOS",
+        "domiDistrito": "ICHOCAN",
+        "domicilioDirecc": "CASERIO LLANUPACHA",
+        "ubigeoPostula": "061200",
+        "postulaDepartamento": "CAJAMARCA",
+        "postulaProvincia": "SAN MARCOS",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/160067.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2857.0,
+        "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "numeroCandidato": 7.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 10:19:28",
+        "txGuidFormatoHojaVida": "f871841e-510e-40b3-8766-ad8240c0afd6",
+        "idSolicitudLista": 26165.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 221668,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "I.E. JUCAT",
+            "ocupacionProfesion": "PROFESOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CENTRO POBLADO JUCAT",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "061204",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CAJAMARCA",
+            "trabajoProvincia": "SAN MARCOS",
+            "trabajoDistrito": "JOSE MANUEL QUIROZ",
+            "idHojaVida": 160067,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 195301,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 160067,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 141016,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "ISPP \"PERUANO CANADIENSE\"",
+                "carreraNoUni": "PROFESOR DE HISTORIA Y GEOGRAFÍA",
+                "concluidoNoUni": "1",
+                "idHojaVida": 160067,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 157916,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2857,
+            "orgPolRenunciaOp": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 160067,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 179622,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 34800.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 160067,
+                "idEstado": 1,
+                "totalIngresos": 34800.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 223960,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "TERRENO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CENTRO POBLADO AGUAS CALIENTES",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 300.0,
+                "idHojaVida": 160067,
+                "idEstado": 1,
+                "flValor": "20000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 136309,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "01364-2011-0-0601-JP-FC-02",
+            "txOrganoJuridicialObliga": "2° JUZGADO DE PAZ LETRADO",
+            "txFalloObliga": "CONCILIACIÓN",
+            "idEstado": 1,
+            "idHojaVida": 160067,
+            "txComentario": null
+        },
+        {
+            "idHvSentenciaObliga": 136310,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 2,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "00237-2019-P-0606-JP-FC-01",
+            "txOrganoJuridicialObliga": "JUZGADO DE PAZ LETRADO - SAN MARCOS",
+            "txFalloObliga": "CONCILIACIÓN",
+            "idEstado": 1,
+            "idHojaVida": 160067,
+            "txComentario": null
+        }
+    ]
+}

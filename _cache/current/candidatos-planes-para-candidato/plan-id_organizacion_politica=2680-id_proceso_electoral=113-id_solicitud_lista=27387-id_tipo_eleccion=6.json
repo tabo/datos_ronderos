@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20713,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2680,
+        "txOrganizacionPolitica": "MOVIMIENTO REGIONAL SIERRA Y SELVA CONTIGO JUNIN",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/b870aed3-77ad-424e-a311-fa583f84561c.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/8f3038fe-fc61-4679-9d1c-4131c5aba3a1.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 162605,
+            "txPgProblema": "ALTOS ÍNDICES DE DESNUTRICIÓN CRÓNICA INFANTIL",
+            "txPgObjetivo": "REDUCIR LOS  ÍNDICES DE DESNUTRICIÓN CRÓNICA INFANTIL",
+            "txPgIndicador": "NÚMERO DE NIÑOS DE 3 A 5 CON ANEMIA TOTAL",
+            "txPgMeta": "REDUCCIÓN EN UN 5%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 162674,
+            "txPgProblema": "ALTOS ÍNDICES DE POBREZA Y EXTREMA POBREZA",
+            "txPgObjetivo": "REDUCIR LOS  ÍNDICES DE POBREZA Y EXTREMA POBREZA",
+            "txPgIndicador": "% DE FAMILIAS CON NECESIDADES BÁSICAS INSATISFECHAS",
+            "txPgMeta": "REDUCCIÓN EN UN 5%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 162743,
+            "txPgProblema": "LIMITADO ACCESO A SERVICIOS DE AGUA Y DESAQÜE",
+            "txPgObjetivo": "INCREMENTO EL ACCESO A SERVICIOS DE AGUA YDESAGÜE",
+            "txPgIndicador": "% DE FAMILIAS CON ACCESO A AQUA V DESAQUE",
+            "txPgMeta": "INCREMENTO EN\nUN 5%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 162915,
+            "txPgProblema": "LIMITADA INFRAESTRUCTURA DE RIEGO Y TRANSFERENCIA TECNOLÓGICA",
+            "txPgObjetivo": "ACCESO A LA INFRAESTRUCTURA DE RIEGO Y TRANSFERENCIA TECNOLÓGICA",
+            "txPgIndicador": "% ÁREA AGRÍCOLA IRRIGADA",
+            "txPgMeta": "INCREMENTO EN UN 20 %",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 162990,
+            "txPgProblema": "BAJA RENTABILIDAD Y PRODUCTIVIDAD AGRÍCOLA Y GANADERA.",
+            "txPgObjetivo": "INCREMENTO DE LA RENTABILIDAD PRODUCTIVA AGRÍCOLA Y GANADERA",
+            "txPgIndicador": "% DE PRODUCCIÓN Y RENTABILIDAD AGROPECUARIA",
+            "txPgMeta": "INCREMENTO EN UN 5%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 163046,
+            "txPgProblema": "DÉBIL PROMOCIÓN Y ACTIVIDADES DEL TURISMO LOCAL",
+            "txPgObjetivo": "MEJORAR LA PROMOCIÓN Y ACTIVIDADES DEL TURISMO LOCAL",
+            "txPgIndicador": "% DE TURISTAS QUE VISITAN AL AÑO",
+            "txPgMeta": "INCREMENTAR EN UN 5 %",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 163246,
+            "txPgProblema": "DÉBIL ACTIVIDAD DE FORESTACION Y REFORESTACION EN LAS COMUNIDADES A NIVEL DE DISTRITO",
+            "txPgObjetivo": "PROMOVER LA ACTIVIDAD DE FORESTACION Y REFORESTACION EN LAS COMUNIDADES A NIVEL DEL DISTRITO",
+            "txPgIndicador": "% DE AREA FORESTADA Y REFORESTADA",
+            "txPgMeta": "INCREMENTO EN 20%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 163362,
+            "txPgProblema": "LIMITADO ACCESO A LA SIEMBRA Y COSECHA DE AGUA EN LOS TERRENOS DE LAS COMUNIDADES CAMPESINAS",
+            "txPgObjetivo": "INPLEMENTAR LA SIEMBRA Y COSECHA DE AGUA EN LOS TERRENOS DE LAS COMUNIDADES CAMPESINAS.",
+            "txPgIndicador": "% PORCENTAJE DESUPERFICIE SIN A ACONDICIONAMIENTO PARA RECARGA HÍDRICA PROVENIENTES DE PRECIPITACIÓN",
+            "txPgMeta": "REDUCCION EN UN 10%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 163416,
+            "txPgProblema": "LIMITADA INFRAESTRUCTURA PARA EL TRATAMIENTO DE RESIDUOS SOLIDOS",
+            "txPgObjetivo": "AMPLIAR LAS INFRAESTRUCTURAS PARA EL TRATAMIENTO DE LOS RESIDUOS SÓLIDOS TRATADOS",
+            "txPgIndicador": "% DE RESIDUOS SOLIDOS TRATADOS",
+            "txPgMeta": "INCREMENTO EN UN 5%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 163474,
+            "txPgProblema": "DEBIL LIDERAZGO DE AUTORIDADES LOCALES Y ORGANIZACIONES DE BASE",
+            "txPgObjetivo": "FORTALECER EL LIDERAZGO DE LAS AUTORIDADES LOCALES Y ORGANIZACION DE BASE",
+            "txPgIndicador": "% DE AUTORIDADES LOCALES LIDERES",
+            "txPgMeta": "INCREMENTO EN 30%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 163522,
+            "txPgProblema": "INCREMENTO DE LA CORRUPCION EN LA ADMINISTRACION PUBLICA",
+            "txPgObjetivo": "DISMINUCION DE LA CORRUPCION EN LA ADMINISTRACION PUBLICA",
+            "txPgIndicador": "% DE CORRUPCION EN LA ADMINISTRACION PUBLICA",
+            "txPgMeta": "DISMINUCION EN UN 50%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 163560,
+            "txPgProblema": "LIMITADA SEGURIDAD CIUDADDANA EN EL DISTRITO",
+            "txPgObjetivo": "FORTALECIMIENTO DE LA SEGURIDAD CIUDADANA EN EL DISTRITO",
+            "txPgIndicador": "% DE DELINCUENCIA EN LA LOCALIDAD",
+            "txPgMeta": "DISMINUCION EN UN 50%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

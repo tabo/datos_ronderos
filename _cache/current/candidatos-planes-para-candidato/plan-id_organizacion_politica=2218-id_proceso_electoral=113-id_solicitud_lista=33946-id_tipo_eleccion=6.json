@@ -1,0 +1,95 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 27272,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/9ab8e923-04ee-4e24-9640-759cd57e14d0.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/688c6233-b627-44b7-9e42-912c4a945ced.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 128315,
+            "txPgProblema": "SALUD",
+            "txPgObjetivo": "ATENCIÓN OPORTUNA Y DE CALIDAD A LOS POBLADORES DEL DISTRITO",
+            "txPgIndicador": "DEMOGRAFICO",
+            "txPgMeta": "IMPLEMENTACIÓN CON UNA AMBULANCIA, EQUIPAMIENTO CON INSUMOS Y EQUIPOS MÉDICOS, RE CATEGORIZACIÓN DEL CENTRO DE SALUD",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128323,
+            "txPgProblema": "EDUCACION",
+            "txPgObjetivo": "EDUCACIÓN DE CALIDAD EN LA FORMACIÓN ACADÉMICA DE LOS ESTUDIANTES DE LAS INSTITUCIONES PRIMARIAS Y SECUNDARIA",
+            "txPgIndicador": "TASA DE ESCOLARIDAD",
+            "txPgMeta": "CONSTRUCCIÓN DE INFRAESTRUCTURA EDUCATIVA (AULAS) EQUIPAMIENTO CON EQUIPOS TECNOLÓGICOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128328,
+            "txPgProblema": "VIAS DE COMUNICACION",
+            "txPgObjetivo": "TRANSITABILIDAD ADECUADA Y DE FORMA SEGURA EN LAS VÍAS DE INTEGRACIÓN PROVINCIAL Y DISTRITAL",
+            "txPgIndicador": "ESTADO DE LA VIA",
+            "txPgMeta": "MANTENIMIENTO PERMANENTE DE LAS VÍAS DE COMUNICACIÓN",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 128333,
+            "txPgProblema": "OPTIMIZACION DE RECURSOS MUNICIPALES",
+            "txPgObjetivo": "GESTIONAR LA ASIGNACIÓN DE RECURSOS PARA LA MUNICIPALIDAD DE TIQUILLACA",
+            "txPgIndicador": "PRESUPUESTO REDUCIDO",
+            "txPgMeta": "INCREMENTAR EN UN 10 % LA ASIGNACIÓN PRESUPUESTAL",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 128335,
+            "txPgProblema": "ORDENAMIENTO TERRITORIAL",
+            "txPgObjetivo": "ESTABLECER UNA POLÍTICA DE ORDENAMIENTO",
+            "txPgIndicador": "CONFLICTOS",
+            "txPgMeta": "ELABORAR UN PLAN DE ORDENAMIENTO TERRITORIAL",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128339,
+            "txPgProblema": "CONTROL MEDIOAMBIENTAL",
+            "txPgObjetivo": "ESTABLECER UNA POLÍTICA DE CUIDADO DEL MEDIO AMBIENTE",
+            "txPgIndicador": "CONTAMINACION",
+            "txPgMeta": "ELABORAR UN PLAN REGULADOR EN MATERIA AMBIENTAL",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 128351,
+            "txPgProblema": "POLITICAS INSTITUCIONALES DE DESARROLLO",
+            "txPgObjetivo": "ASUMIR EL ROL PROTAGÓNICO DE ESTABLECER POLÍTICAS DE DESARROLLO INSTITUCIONAL",
+            "txPgIndicador": "INFORMACION MUNICIPAL",
+            "txPgMeta": "ESTABLECER UN PLAN DE DESARROLLO INSTITUCIONAL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

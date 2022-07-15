@@ -1,0 +1,158 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 204594.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "23976565",
+        "nombres": "WILFREDO",
+        "apellidoPaterno": "VERA",
+        "apellidoMaterno": "CONDORI",
+        "sexo": "1",
+        "feNacimiento": "28/01/1974",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "071201",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "QUISPICANCHI",
+        "naciDistrito": "URCOS",
+        "ubigeoDomicilio": "160204",
+        "domiDepartamento": "MADRE DE DIOS",
+        "domiProvincia": "MANU",
+        "domiDistrito": "HUEPETUHE",
+        "domicilioDirecc": "AV. VILLA CORAZON 102-02",
+        "ubigeoPostula": "160204",
+        "postulaDepartamento": "MADRE DE DIOS",
+        "postulaProvincia": "MANU",
+        "postulaDistrito": "HUEPETUHE",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/204594.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 18:30:12",
+        "txGuidFormatoHojaVida": "880c2291-9bcf-4f1f-b391-c9736319d4de",
+        "idSolicitudLista": 32089.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 157618,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "EBANISTA INDEPENDIENTE",
+            "ocupacionProfesion": "EBANISTA",
+            "rucTrabajo": "10441140245",
+            "direccionTrabajo": "AV, VILLA CORAZON 102-2",
+            "anioTrabajoDesde": "2004",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "160204",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "MADRE DE DIOS",
+            "trabajoProvincia": "MANU",
+            "trabajoDistrito": "HUEPETUHE",
+            "idHojaVida": 204594,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 137633,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 204594,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 145150,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "INSTITUTO SUPERIOR TECNOLOGICO TUPAC AMARU II DEL CUSCO",
+                "carreraTecnico": "ELECTRICIDAD",
+                "concluidoEduTecnico": "2",
+                "idHojaVida": 204594,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 163821,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD ANDINA DEL CUSCO",
+                "carreraUni": "INGENIERIA DE SISTEMAS",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": null,
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 136856,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 39000.0,
+                "idHojaVida": 204594,
+                "idEstado": 1,
+                "totalIngresos": 39000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 175539,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "CAMIONETA KIA SORENTO",
+                "marca": null,
+                "placa": "V3O277",
+                "valor": 30000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR NEGRO",
+                "comentario": null,
+                "idHojaVida": 204594,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

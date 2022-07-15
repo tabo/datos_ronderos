@@ -1,0 +1,150 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 235341.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "16537698",
+        "nombres": "FAUSTO",
+        "apellidoPaterno": "LOZANO",
+        "apellidoMaterno": "SILVA",
+        "sexo": "1",
+        "feNacimiento": "12/10/1965",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "060801",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "JAEN",
+        "naciDistrito": "JAEN",
+        "ubigeoDomicilio": "130112",
+        "domiDepartamento": "LAMBAYEQUE",
+        "domiProvincia": "CHICLAYO",
+        "domiDistrito": "JOSE LEONARDO ORTIZ",
+        "domicilioDirecc": "CALLE ALAN BEAR 830 IV SECTOR URRUNAGA",
+        "ubigeoPostula": "130112",
+        "postulaDepartamento": "LAMBAYEQUE",
+        "postulaProvincia": "CHICLAYO",
+        "postulaDistrito": "JOSE LEONARDO ORTIZ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/235341.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2857.0,
+        "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 21:04:43",
+        "txGuidFormatoHojaVida": "f82979cf-d60c-4927-af43-49b06260f1a1",
+        "idSolicitudLista": 35765.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 170333,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MUNICIPALIDAD DISTRITAL JOSE LEONARDO ORTIZ",
+            "ocupacionProfesion": "OPERADOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SAENZ PEÑA 2151 URB. LATINA",
+            "anioTrabajoDesde": "1993",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "130112",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LAMBAYEQUE",
+            "trabajoProvincia": "CHICLAYO",
+            "trabajoDistrito": "JOSE LEONARDO ORTIZ",
+            "idHojaVida": 235341,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 149150,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 235341,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 140804,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 17,
+            "orgPolRenunciaOp": "RENOVACION NACIONAL",
+            "anioRenunciaOp": "2012",
+            "idHojaVida": 235341,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 145233,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 27600.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 235341,
+                "idEstado": 1,
+                "totalIngresos": 27600.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 134895,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 15,
+            "txMateriaSentencia": "LABORAL",
+            "txExpedienteObliga": "399410",
+            "txOrganoJuridicialObliga": "SEGUNDA FISCALIA PROVINCIAL PENAL COORPORATIVA",
+            "txFalloObliga": "EN INVESTIGACION POR USURPACION DE AUTORIDAD",
+            "idEstado": 1,
+            "idHojaVida": 235341,
+            "txComentario": "ARCHIVO"
+        },
+        {
+            "idHvSentenciaObliga": 134896,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 2,
+            "idParamMateriaSentencia": 15,
+            "txMateriaSentencia": "LABORAL",
+            "txExpedienteObliga": "20202089",
+            "txOrganoJuridicialObliga": "PRIMERA FISCALIA PROVINCIAL PENAL COORPORATIVA",
+            "txFalloObliga": "EN INVESTIGACION",
+            "idEstado": 1,
+            "idHojaVida": 235341,
+            "txComentario": null
+        }
+    ]
+}

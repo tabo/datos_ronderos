@@ -1,0 +1,162 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 145095.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "48049624",
+        "nombres": "WILLY",
+        "apellidoPaterno": "VILLAR",
+        "apellidoMaterno": "MENDIZAVAL",
+        "sexo": "1",
+        "feNacimiento": "26/08/1982",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110707",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "SATIPO",
+        "naciDistrito": "RIO NEGRO",
+        "ubigeoDomicilio": "110708",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "SATIPO",
+        "domiDistrito": "RIO TAMBO",
+        "domicilioDirecc": "CP. MONTE SINAI",
+        "ubigeoPostula": "110708",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "SATIPO",
+        "postulaDistrito": "RIO TAMBO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/145095.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 2680.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL SIERRA Y SELVA CONTIGO JUNIN",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 14:55:43",
+        "txGuidFormatoHojaVida": "68ac9457-3a37-4560-9e06-bc24c1332860",
+        "idSolicitudLista": 24114.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 192892,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CENTRO POBLADO MONTE SINAI",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CENTRO POBLADO MONTE SINAI",
+            "anioTrabajoDesde": "2000",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "110708",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "SATIPO",
+            "trabajoDistrito": "RIO TAMBO",
+            "idHojaVida": 145095,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 169930,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 145095,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 140157,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 122,
+                "orgPolCargoElec": "CAMINEMOS JUNTOS POR JUNIN",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2019",
+                "anioCargoElecHasta": "2022",
+                "idHojaVida": 145095,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 148652,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 122,
+            "orgPolRenunciaOp": "CAMINEMOS JUNTOS POR JUNIN",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 145095,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 160328,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 20000.0,
+                "otroIngresoPublico": 11700.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 145095,
+                "idEstado": 1,
+                "totalIngresos": 31700.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 202207,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "SECCION ESPECIAL DE PREDIOS RU",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CENTRO POBLADO MONTE SINAI",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 145095,
+                "idEstado": 1,
+                "flValor": "250000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

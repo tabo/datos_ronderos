@@ -1,0 +1,128 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 168340.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "29601753",
+        "nombres": "HENRRY EDINSON",
+        "apellidoPaterno": "MOTTA",
+        "apellidoMaterno": "QUISPE",
+        "sexo": "1",
+        "feNacimiento": "20/10/1971",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040403",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "CARAVELI",
+        "naciDistrito": "ATICO",
+        "ubigeoDomicilio": "040403",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "CARAVELI",
+        "domiDistrito": "ATICO",
+        "domicilioDirecc": "AV.AREQUIPA S/N",
+        "ubigeoPostula": "040403",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "CARAVELI",
+        "postulaDistrito": "ATICO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/168340.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 1393.0,
+        "organizacionPolitica": "FUERZA AREQUIPEÑA",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 13:00:00",
+        "txGuidFormatoHojaVida": "d4c2244d-2642-41aa-a6e7-22cb82a9df03",
+        "idSolicitudLista": 27276.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 212850,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 168340,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 154431,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "INSTITUTO SUPERIOR TECNOLOGICO PEDRO P DIAZ",
+                "carreraTecnico": "MECANICA AUTOMOTRIZ",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 168340,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 163761,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 54,
+            "orgPolRenunciaOp": "CON FUERZA PERU",
+            "anioRenunciaOp": "2007",
+            "idHojaVida": 168340,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 192695,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 32000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 168340,
+                "idEstado": 1,
+                "totalIngresos": 32000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 136918,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "073-2006",
+            "txOrganoJuridicialObliga": "JUZGADO PAZ LETRADO",
+            "txFalloObliga": "FUNDADA EN 20 POR CIENTO LOS ALIMENTOS",
+            "idEstado": 1,
+            "idHojaVida": 168340,
+            "txComentario": null
+        }
+    ]
+}

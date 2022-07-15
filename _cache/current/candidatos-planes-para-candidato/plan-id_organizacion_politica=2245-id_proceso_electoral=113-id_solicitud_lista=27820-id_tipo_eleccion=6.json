@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 21146,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2245,
+        "txOrganizacionPolitica": "MOVIMIENTO REGIONAL EL MAICITO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/69a9b710-9d28-4c47-ba9b-27135ad876b0.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/a63cd308-0b24-4aa2-9806-33f6ac8f647d.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 144148,
+            "txPgProblema": "INEFICIENTE SERVICIO DE SALUD Y DE INFRAESTRUCTURA",
+            "txPgObjetivo": "MEJORAMIENTO DEL EQUIPO BÁSICO E INFRAESTRUCTURA DE LOS SERVICIOS DE SALUD A NIVEL DISTRITAL CAPACITACIONES AL PERSONAL.",
+            "txPgIndicador": "PORCENTAJE DE POBLACION BENEFICIADA",
+            "txPgMeta": "MEJOR ATENCIÓN DE SALUD AL 80% DE LA POBLACIÓN",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 144155,
+            "txPgProblema": "MALA CALIDAD EDUCATIVA E INFRAESTRUCTURA DEFICIENTE",
+            "txPgObjetivo": "MEJOR CALIDAD EDUCATIVA CON INCLUSIÓN PARA TODOS Y MEJORAMIENTO E INFRAESTRUCTURA DE LOS SERVICIOS DE EDUCACIÓN CON ACTUALIZACIONES PEDAGÓGICAS AL PERSONAL DOCENTE.",
+            "txPgIndicador": "PORCENTAJE ESTUDIANTES",
+            "txPgMeta": "ATENCIÓN AL 90% DE LA POBLACIÓN ESTUDIANTIL CON INCLUSIÓN.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 144167,
+            "txPgProblema": "POCA COBERTURA DE SERVICIOS DE SANEAMIENTO BÁSICO",
+            "txPgObjetivo": "CONSTRUCCIÓN Y AMPLIACIÓN DE SISTEMAS DE AGUA POTABLE URBANO Y RURAL. INSTALACIÓN DE SISTEMAS DE DESAGÜE.",
+            "txPgIndicador": "POBLACION BENEFICIADA",
+            "txPgMeta": "UN 85% DE LA POBLACIÓN CONTARÁ CON EL SERVICIO DE AGUA POTABLE Y DESAGÜE POR RED PÚBLICA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 144173,
+            "txPgProblema": "DEFICIENTE APOYO AL DESARROLLO PRODUCTIVO DE LOS PEQUEÑOS PRODUCTORES RURALES",
+            "txPgObjetivo": "PROYECTOS PRODUCTIVOS SOSTENIBLES COMO AGRICULTURA, GANADERÍA PRIORIZANDO LOS SISTEMAS DE RIEGO COMO CANALES RESERVORIOS, BEBEDEROS Y COCHAS EN LA CABECERAS. ASISTENCIA TÉCNICA, CAPACITACIÓN A PRODUCTORES. LÍNEA DE CRÉDITO. FOMENTO DE LA AGROINDUSTRIA. ORGANIZACIÓN A LOS COMERCIANTES",
+            "txPgIndicador": "PRODUCCION AGRICOLA",
+            "txPgMeta": "LA PRODUCCIÓN AGRÍCOLA SE VE MEJORADA EN UN 40% .",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 144185,
+            "txPgProblema": "POCO DESARROLLO ECONÓMICO",
+            "txPgObjetivo": "FORTALECER EL MANEJO TÉCNICO DE LOS AGRICULTORES EN TECNOLOGÍAS DE MANEJO Y MEJOR APROVECHAMIENTO DE LAS SIEMBRAS Y COSECHAS DE PRODUCTOS RENTABLES.",
+            "txPgIndicador": "CAPACIDAD PRODUCCION AGRÍCOLA",
+            "txPgMeta": "LOS PRODUCTORES AGRÍCOLAS AUMENTAN SUS CAPACIDADES EN UN 80%.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 144198,
+            "txPgProblema": "POCO MANTENIMIENTO DE LAS CARRETERAS",
+            "txPgObjetivo": "MANTENIMIENTO Y REHABILITACIÓN DE VÍAS DE ACCESO POR LA MUNICIPALIDAD DISTRITAL EN SU JURISDICCIÓN.",
+            "txPgIndicador": "PORCENTAJE DE VIAS HABILITADAS",
+            "txPgMeta": "80% DE LAS VÍAS CARROZABLE Y CARRETERAS DE LA RED VIAL ESTARÁN OPERATIVAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 144213,
+            "txPgProblema": "ALTOS ÍNDICES DE CONTAMINACIÓN AMBIENTAL",
+            "txPgObjetivo": "IMPLEMENTAR UN SISTEMA DE RECICLAJE ADECUADO CON UN ENFOQUE AMBIENTALISTA RESPONSABLE Y SOSTENIBLE",
+            "txPgIndicador": "MANEJO RESIDUOS SOLIDOS",
+            "txPgMeta": "80% DE LOS RESIDUOS SÓLIDOS SERÁN PROCESADOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 144262,
+            "txPgProblema": "INCENDIOS FORESTALES",
+            "txPgObjetivo": "PROTECCIÓN DEL MEDIO AMBIENTE. PROTECCIÓN DE LAS PLANTAS. REFORESTACIÓN CON ESPECIES NATIVAS",
+            "txPgIndicador": "HECTAREAS FORESTADAS",
+            "txPgMeta": "60% DE HECTÁREAS SERÁN FORESTADAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 144283,
+            "txPgProblema": "POCA COORDINACIÓN EN LA SEGURIDAD CIUDADANA",
+            "txPgObjetivo": "GENERAR UN PLAN DE SEGURIDAD CIUDAD EN COORDINACIÓN CON LAS PRINCIPALES AUTORIDADES Y COMUNIDAD EN CONJUNTO.",
+            "txPgIndicador": "SEGURIDAD",
+            "txPgMeta": "1 PLAN DE SEGURIDAD CIUDADANA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 144295,
+            "txPgProblema": "FALTA DE EFICACIA, EFICIENCIA Y TRANSPARENCIA DE LOS RECURSOS PÚBLICOS.",
+            "txPgObjetivo": "FORTALECIMIENTO INSTITUCIONAL MUNICIPAL, PARA UN GOBIERNO DEMOCRÁTICO Y TRANSPARENTE CON INCLUSIÓN SOCIAL.",
+            "txPgIndicador": "ESTRUCTURA DE LA MUNICIPALIDAD",
+            "txPgMeta": "MUNICIPALIDAD DISTRITAL DE CHINGALPO SE ENCUENTRA BIEN ESTRUCTURADA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 144323,
+            "txPgProblema": "INEFICIENCIA EN LOS INSTRUMENTOS DE GESTIÓN MUNICIPAL.",
+            "txPgObjetivo": "PROGRAMA DE FORMACIÓN DE LÍDERES Y CUADROS POLÍTICOS LOCALES. PROMOVER LA PARTICIPACIÓN CIUDADANA Y LA VIGILANCIA CIUDADANA Y EL INVOLUCRAMIENTO DEL SOCIEDAD CIVIL EN LA FISCALIZACIÓN DE LA GESTIÓN DEL GOBIERNO LOCAL PARA MEJORAR EL DESARROLLO LOCAL.",
+            "txPgIndicador": "CIUDADANIA",
+            "txPgMeta": "PARTICIPACIÓN CIUDADANA EN LA PROBLEMÁTICA Y SOLUCIÓN EN LOS ASUNTOS PÚBLICOS DE SU PUEBLO.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

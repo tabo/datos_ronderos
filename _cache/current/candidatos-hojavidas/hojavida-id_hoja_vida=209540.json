@@ -1,0 +1,148 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 209540.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42392936",
+        "nombres": "JUAN",
+        "apellidoPaterno": "MENDOZA",
+        "apellidoMaterno": "VILCA",
+        "sexo": "1",
+        "feNacimiento": "01/12/1983",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "010303",
+        "naciDepartamento": "AMAZONAS",
+        "naciProvincia": "BONGARA",
+        "naciDistrito": "CUISPES",
+        "ubigeoDomicilio": "010303",
+        "domiDepartamento": "AMAZONAS",
+        "domiProvincia": "BONGARA",
+        "domiDistrito": "CUISPES",
+        "domicilioDirecc": "CALLE BONGARA S/N",
+        "ubigeoPostula": "010303",
+        "postulaDepartamento": "AMAZONAS",
+        "postulaProvincia": "BONGARA",
+        "postulaDistrito": "CUISPES",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/209540.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 16:39:28",
+        "txGuidFormatoHojaVida": "481182fa-2ab0-431a-b098-04598d892fd8",
+        "idSolicitudLista": 32721.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 222465,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 209540,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 143454,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 2218,
+                "orgPolCargoPartidario": "PARTIDO POLÍTICO PARTIDO POLITICO NACIONAL PERU LIBRE",
+                "cargoPartidario": "CORDINADOR DISTRITAL",
+                "anioCargoPartiDesde": "2021",
+                "anioCargoPartiHasta": "2021",
+                "idHojaVida": 209540,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 245671,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 2,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "BONGARA-CUISPES- MZ 10 LOTE 4 - CENTRO POBLADO CUISPES",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "11014983",
+                "fichaTomoSunarp": null,
+                "autovaluo": 5000.0,
+                "idHojaVida": 209540,
+                "idEstado": 1,
+                "flValor": "5000"
+            },
+            {
+                "idHvBienInmueble": 245670,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "UBICACION RURAL ALFALFAR PAMPA       CHACHAPOYAS - CHACHAPOYAS - AMAZONAS",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "02009737",
+                "fichaTomoSunarp": null,
+                "autovaluo": 50.0,
+                "idHojaVida": 209540,
+                "idEstado": 1,
+                "flValor": "5000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 137348,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "00166-2015-0-0103",
+            "txOrganoJuridicialObliga": "JP-SE-01",
+            "txFalloObliga": "DECLARO QUE ESTOY PASANDO ALIMENTOS A MI MENOR HIJA Y PAGO DE MANTENSIÓN",
+            "idEstado": 1,
+            "idHojaVida": 209540,
+            "txComentario": null
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 21410,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1666,
+        "juradoElectoral": "CHICLAYO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/69921b9b-0710-41b1-9c04-21d34e5f8e80.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/597fb7b7-6614-4bf3-b0a9-94e4c65d5426.pdf",
+        "txCodExpedienteExt": "ERM.2022010529",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 145697,
+            "txPgProblema": "1.DEFICIENTES SERVICIOS DE AGUA Y ALCANTARILLADO",
+            "txPgObjetivo": "INCREMENTAR LOS SERVICIOS DE AGUA Y ALCANTARILLADO",
+            "txPgIndicador": "NÚMERO DE NUEVOS USUARIOS/N° DE USUARIOS TOTALES X(100)",
+            "txPgMeta": "95% DE LA POBLACIÓN CON COBERTURA DE AGUA Y ALCANTARILLADO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 145708,
+            "txPgProblema": "2. INCREMENTO DELICTIVO",
+            "txPgObjetivo": "DISMINUIR EL ÍNDICE DE CRIMINALIDAD",
+            "txPgIndicador": "DENUNCIAS EN EL MES /DENUNCIAS EN EL AÑO X(100)",
+            "txPgMeta": "REDUCIR EL 20% DEL ÍNDICE CRIMINALIDAD",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 145724,
+            "txPgProblema": "3. DEFICIENCIAS DE LOS PROGRAMAS SOCIALES",
+            "txPgObjetivo": "MEJORAR EL SISTEMA DE SERVICIO.",
+            "txPgIndicador": "NÚMERO DE NUEVOS PROGRAMAS SOCIALES/ MAYOR BENEFICIARIOS",
+            "txPgMeta": "AMPLIAR LA COBERTURA EN UN 100% .",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 145738,
+            "txPgProblema": "1.DEFICIENTE GESTIÓN DE ESTRATEGIAS DE MEJORA DEL TURISMO",
+            "txPgObjetivo": "PROMOVER UNA GESTIÓN INTEGRAL CONCERTADA PARA INCREMENTAR EL NÚMERO DE TURISTAS.",
+            "txPgIndicador": "NÚMERO DE NUEVOS TURISTAS AÑO 2023/NÚMERO TURISTAS DEL AÑO 2022",
+            "txPgMeta": "INCREMENTO DEL 20% DE TURISTAS, MEJORANDO LOS PRODUCTOS Y SERVICIOS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 145748,
+            "txPgProblema": "2. INFORMALIDAD DE NEGOCIOS",
+            "txPgObjetivo": "PROMOVER LA FORMALIZACIÓN DE ACTIVIDADES ECONÓMICAS PARA GENERAR EMPLEO Y DINAMIZAR LA ECONOMÍA.",
+            "txPgIndicador": "NÚMERO DE LICENCIAS DE FUNCIONAMIENTO  ENTREGADAS /NÚMERO DE LICENCIAS DE FUNCIONAMIENTO SOLICITADAS X100",
+            "txPgMeta": "INCREMENTAR EN 20% DE NEGOCIOS FORMALES.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 145755,
+            "txPgProblema": "3. LIMPIEZA PERMANENTE DE PATAPO, POSOPE ALTO, VILLA LA CRIA Y PAMPA LA VICTORIA, CASERIOS PROGRESO, LAS CANTERAS CENTRO CUADRADO, PARA FOMENTAR EL TURISMO.",
+            "txPgObjetivo": "INCREMENTAR EL NÚMERO DE TURNOS DE LIMPIEZA PARA FOMENTAR EL TURISMO.",
+            "txPgIndicador": "INCREMENTAR EN 03 TURNOS LA LIMPIEZA DEL CENTRO DEL DISTRITO.",
+            "txPgMeta": "LIMPIEZA TOTAL EN 03 TURNOS DEL DISTRITO PARA INCREMENTAR EL NÚMERO DE TURISTAS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 145774,
+            "txPgProblema": "1.INADECUADA GESTIÓN DE LOS RESIDUOS SÓLIDOS",
+            "txPgObjetivo": "MEJORAR LA GESTIÓN DEL MANEJO DE GESTIÓN DE RESIDUOS SÓLIDOS Y FOMENTAR LA CULTURA AMBIENTAL EN LA POBLACIÓN PATAPEÑA.",
+            "txPgIndicador": "TONELAJE DE RESIDUOS SÓLIDOS EN DISPOSICIÓN FINAL /SOBRE TONELAJE TOTAL X(100)",
+            "txPgMeta": "MAYOR DEL 90% DE BARRIDO, RECOLECCIÓN, TRANSPORTE Y DISPOSICIÓN FINAL DE LOS RESIDUOS SÓLIDOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 145789,
+            "txPgProblema": "2. CONTAMINACIÓN AMBIENTAL, POR FALTA  DE PLANTA DE TRATAMIENTO DE RELLENO SANITARIO.",
+            "txPgObjetivo": "GESTIONAR ANTE MINAN U OTROS ORGANISMOS COOPERANTES PARA SEGUIR CON EL PROYECTO DE PATAPO LIMPIO CON LA REUBICACIÓN DEL BOTADERO DE RESIDUOS SÓLIDOS Y EL RELLENO SANITARIO",
+            "txPgIndicador": "-\tTM DE RESIDUOS SÓLIDOS DIARIOS EN RELLENO SANITARIO /TM RESIDUOS TOTALES",
+            "txPgMeta": "AL AÑO 2026 PATAPO TENDRÁ UN NUEVO BOTADERO RESIDUOS SÓLIDOS Y SU RELLENO SANITARIO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 145803,
+            "txPgProblema": "3. REDES ANTIGUAS Y COLAPSADAS POR CRECIMIENTO DE LA DEMANDA  DEL SERVICIO.",
+            "txPgObjetivo": "MEJORAMIENTO Y AMPLIACIÓN DE LAS REDES DE ALCANTARILLADO DE POSOPE ALTO, EN CASERIOS URBANOS Y UBS ZONAS RURALES.",
+            "txPgIndicador": "NUEVAS REDES EJECUTADAS DE ALCANTARILLADO /TOTAL DE REDES DE ALCANTARILLADOX100 Y UBS.",
+            "txPgMeta": "95 % DE CAMBIO DE REDES DE ALCANTARILLADO.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 145815,
+            "txPgProblema": "1. DEFICIENTE CAPACIDAD DE GASTO PRESUPUESTAL",
+            "txPgObjetivo": "MEJORAR LA EFICIENCIA DEL GASTO PRESUPUESTAL",
+            "txPgIndicador": "SALDO /PIMX100",
+            "txPgMeta": "LLEGAR AL 95% DE AVANCE DEL PRESUPUESTO.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 145825,
+            "txPgProblema": "2. DEFRAUDACIÓN TRIBUTARIA",
+            "txPgObjetivo": "INCREMENTAR LA PRESIÓN FISCAL",
+            "txPgIndicador": "NÚMERO DE PREDIOS FISCALIZADOS POR ZONA/NÚMERO TOTAL DE PREDIOS POR ZONAX100",
+            "txPgMeta": "INCREMENTO DEL 15% E LA RECAUDACIÓN CONVENCIONAL O HISTÓRICA.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 145839,
+            "txPgProblema": "3. CONTRATACIÓN PERMANENTE DE PERSONAL NO CAPACITADO Y SIN EXPERIENCIA EN CARGOS DE CONFIANZA Y OTRA MODALIDAD DE CONTRATACIÓN.",
+            "txPgObjetivo": "CONTRATAR PERSONAL CAPACITADO Y CON EXPERIENCIA VALORANDO SU MERITOCRACIA EN CUALQUIER MODALIDAD DE CONTRATACIÓN.",
+            "txPgIndicador": "NÚMERO DE DENUNCIAS REALIZADAS POR LA OCI 2023-2026/ NÚMERO DE DENUNCIAS POR OCI AÑO 2018-2022.",
+            "txPgMeta": "REDUCIR TOTALMENTE LAS DENUNCIAS POR OCI, POR INCUMPLIMIENTO DEL PERFIL, EXPERIENCIA, MERITOCRACIA, ACCIONES ADMINISTRATIVAS CONTRARIAS A LA NORMATIVA PÚBLICA.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

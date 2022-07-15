@@ -1,0 +1,154 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 160631.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "09427772",
+        "nombres": "JOSE FELIX",
+        "apellidoPaterno": "PEREDA",
+        "apellidoMaterno": "DIAZ",
+        "sexo": "1",
+        "feNacimiento": "01/06/1968",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "120101",
+        "naciDepartamento": "LA LIBERTAD",
+        "naciProvincia": "TRUJILLO",
+        "naciDistrito": "TRUJILLO",
+        "ubigeoDomicilio": "240107",
+        "domiDepartamento": "CALLAO",
+        "domiProvincia": "CALLAO",
+        "domiDistrito": "MI PERU",
+        "domicilioDirecc": "MZ.A15 LT.24 MI PERU",
+        "ubigeoPostula": "240107",
+        "postulaDepartamento": "CALLAO",
+        "postulaProvincia": "CALLAO",
+        "postulaDistrito": "MI PERU",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/160631.jpg",
+        "estado": "APELACIÓN",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 17:52:27",
+        "txGuidFormatoHojaVida": "eabfc475-37bf-47e2-9f9f-0f55819cf0f8",
+        "idSolicitudLista": 26241.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 212833,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 160631,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 182082,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD DE SAN MARTÍN DE PORRES",
+                "carreraUni": "BACHILLER EN EDUCACION",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2016",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 163765,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1264,
+            "orgPolRenunciaOp": "JUNTOS POR EL PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 160631,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 163764,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 22,
+            "orgPolRenunciaOp": "RENOVACION POPULAR",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 160631,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 193335,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 14600.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 160631,
+                "idEstado": 1,
+                "totalIngresos": 14600.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 237642,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "MZ 35 LOTE 15 - ASENTAMIENTO HUMANO EX-FUNDO MARQUEZ - DPTO: LIMA PROV: CALLAO DIST: CALLAO",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "57018421",
+                "fichaTomoSunarp": null,
+                "autovaluo": 230.0,
+                "idHojaVida": 160631,
+                "idEstado": 1,
+                "flValor": "50000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

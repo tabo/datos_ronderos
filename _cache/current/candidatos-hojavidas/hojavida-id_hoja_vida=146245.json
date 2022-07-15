@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 146245.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "00675245",
+        "nombres": "SANTOS DEMECIO",
+        "apellidoPaterno": "ALAVE",
+        "apellidoMaterno": "LAQUITA",
+        "sexo": "1",
+        "feNacimiento": "19/12/1971",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "220213",
+        "naciDepartamento": "TACNA",
+        "naciProvincia": "TARATA",
+        "naciDistrito": "TICACO",
+        "ubigeoDomicilio": "220213",
+        "domiDepartamento": "TACNA",
+        "domiProvincia": "TARATA",
+        "domiDistrito": "TICACO",
+        "domicilioDirecc": "CALLE MELGAR 20",
+        "ubigeoPostula": "220213",
+        "postulaDepartamento": "TACNA",
+        "postulaProvincia": "TARATA",
+        "postulaDistrito": "TICACO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/146245.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2178.0,
+        "organizacionPolitica": "SIEMPRE TACNA",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 18:12:43",
+        "txGuidFormatoHojaVida": "10b4882d-8aab-479c-996f-6cd95ce78f60",
+        "idSolicitudLista": 24270.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 238602,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MUNICIPALIDAD DISTRITAL DE TICACO",
+            "ocupacionProfesion": "ALMACENERO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE AV. LEGUIA S/N",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "220213",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "TACNA",
+            "trabajoProvincia": "TARATA",
+            "trabajoDistrito": "TICACO",
+            "idHojaVida": 146245,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 210716,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 146245,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 153798,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "I.E.S.T.P. RAMON COPAJA",
+                "carreraTecnico": "TECNICO EN ENFERMERIA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 146245,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 163078,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2872,
+            "orgPolRenunciaOp": "MOVIMIENTO NARANJA",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 146245,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 190927,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 6000.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 146245,
+                "idEstado": 1,
+                "totalIngresos": 6000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 195204,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "3558AZ ",
+                "valor": 1500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA",
+                "comentario": null,
+                "idHojaVida": 146245,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,142 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 203705.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "80511320",
+        "nombres": "MARTIN PABLO",
+        "apellidoPaterno": "CASTILLO",
+        "apellidoMaterno": "CORDOVA",
+        "sexo": "1",
+        "feNacimiento": "07/02/1979",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "021408",
+        "naciDepartamento": "ANCASH",
+        "naciProvincia": "SIHUAS",
+        "naciDistrito": "CASHAPAMPA",
+        "ubigeoDomicilio": "021401",
+        "domiDepartamento": "ANCASH",
+        "domiProvincia": "SIHUAS",
+        "domiDistrito": "SIHUAS",
+        "domicilioDirecc": "JR. CAMINO DEL INCA N S/N CENTRO SIHUAS",
+        "ubigeoPostula": "021400",
+        "postulaDepartamento": "ANCASH",
+        "postulaProvincia": "SIHUAS",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/203705.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 360.0,
+        "organizacionPolitica": "MOVIMIENTO ACCION NACIONALISTA PERUANO",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 11:19:55",
+        "txGuidFormatoHojaVida": "5fd1f1ac-ea24-4198-a7d6-5cbbc20ae655",
+        "idSolicitudLista": 31980.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 167318,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MERCADO MUNICIPAL",
+            "ocupacionProfesion": "COMERCIANTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV.28 DE JULIO S/N",
+            "anioTrabajoDesde": "2011",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "021401",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ANCASH",
+            "trabajoProvincia": "SIHUAS",
+            "trabajoDistrito": "SIHUAS",
+            "idHojaVida": 203705,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 146328,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 203705,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 143060,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 8000.0,
+                "idHojaVida": 203705,
+                "idEstado": 1,
+                "totalIngresos": 8000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 155707,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "6713SB ",
+                "valor": 5500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA RONCO NEGRO",
+                "comentario": null,
+                "idHojaVida": 203705,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 134829,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "590-2021",
+            "txOrganoJuridicialObliga": "JUZGADO PAZ LETRADO",
+            "txFalloObliga": "FUNDADO",
+            "idEstado": 1,
+            "idHojaVida": 203705,
+            "txComentario": null
+        }
+    ]
+}

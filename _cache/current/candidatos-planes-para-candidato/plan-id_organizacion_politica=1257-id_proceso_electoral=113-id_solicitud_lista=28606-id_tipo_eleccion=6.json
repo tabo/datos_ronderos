@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 21932,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1257,
+        "txOrganizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/83c7d9a3-9c28-4133-aab0-68a731c5fd98.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/632f6439-7ca8-4ec0-9dcd-ec5d25a838e9.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 182717,
+            "txPgProblema": "1.\tBAJO RENDIMIENTO ESCOLAR",
+            "txPgObjetivo": "MEJORAR LA CALIDAD DEL SERVICIO EDUCATIVO.",
+            "txPgIndicador": "PORCENTAJE DE LOCALES EDUCATIVOS CON EL SERVICIO DE EDUCACIÓN CON CAPACIDAD INSTALADA ADECUADA",
+            "txPgMeta": "80%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182737,
+            "txPgProblema": "2.\tALTOS  ÍNDICES DE MORBILIDAD.",
+            "txPgObjetivo": "MEJORAR Y AMPLIAR LA COBERTURA DEL SERVICIO DE SALUD.",
+            "txPgIndicador": "PORCENTAJE DE PERSONAS CON ADECUADO TRATAMIENTO DE SALUD",
+            "txPgMeta": "85%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182758,
+            "txPgProblema": "LIMITADO PROMOCIÓN DEL EMPLEO",
+            "txPgObjetivo": "REDUCIR LAS TASAS DE POBREZA Y EXTREMA POBREZA.",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN QUE ACCEDEN A TRABAJAR",
+            "txPgMeta": "90%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 182789,
+            "txPgProblema": "LIMITADA PARTICIPACIÓN DEL GOBIERNO LOCAL EN LA ARTICULACIÓN COMERCIAL",
+            "txPgObjetivo": "INNOVAR E INCREMENTAR LA PRODUCTIVIDAD DE LA AGROINDUSTRIA.",
+            "txPgIndicador": "PORCENTAJE DE PRODUCTORES QUE ACCEDEN ASISTENCIA TÉCNICA",
+            "txPgMeta": "70%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182808,
+            "txPgProblema": "ESCASO HABITO DE INOCUIDAD ALIMENTARIA",
+            "txPgObjetivo": "INCENTIVAR EN LOS PRODUCTORES LOCALES LA PRÁCTICA DE SANIDAD E HIGIENE EN EL PROCESO DE PROCESO DE PRODUCCIÓN Y COMERCIALIZACIÓN.",
+            "txPgIndicador": "PORCENTAJE DE PRODUCTORES QUE PRACTICAN LA INOCUIDAD SANITARIA.",
+            "txPgMeta": "70%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182824,
+            "txPgProblema": "LIMITADA ASISTENCIA TÉCNICA Y DÉBIL ORGANIZACIÓN DE LOS PRODUCTORES",
+            "txPgObjetivo": "COMPETITIVIDAD EN LA PRODUCCIÓN Y TRANSFORMACIÓN AGROPECUARIA ARTICULADO A LAS CADENAS PRODUCTIVAS.",
+            "txPgIndicador": "PORCENTAJE DE ASISTENCIA TÉCNICA ADECUADA",
+            "txPgMeta": "70%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 182845,
+            "txPgProblema": "INCREMENTO DE LA DEGRADACIÓN DE LOS RECURSOS NATURALES.",
+            "txPgObjetivo": "CONSERVAR Y PROTEGER LOS RECURSOS NATURALES.",
+            "txPgIndicador": "% DE RECURSOS NATURALES CON ADECUADO USO",
+            "txPgMeta": "80%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182867,
+            "txPgProblema": "DÉBIL ZONIFICACIÓN URBANÍSTICA",
+            "txPgObjetivo": "ORDENAMIENTO DEL TERRITORIO Y ARTICULACIÓN VIAL.",
+            "txPgIndicador": "% DE ZONIFICACIÓN ADECUADA",
+            "txPgMeta": "80%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182888,
+            "txPgProblema": "LIMITADO ESPACIOS PÚBLICOS.",
+            "txPgObjetivo": "CONSOLIDAR MAYOR CANTIDAD DE ESPACIOS PÚBLICOS",
+            "txPgIndicador": "% DE ESPACIOS PÚBLICOS",
+            "txPgMeta": "80%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 182916,
+            "txPgProblema": "LIMITADO RECURSOS HUMANOS CON CAPACIDAD EN GESTIÓN MUNICIPAL",
+            "txPgObjetivo": "FORTALECER LA CAPACIDAD DE GESTIÓN DE LA MUNICIPALIDAD.",
+            "txPgIndicador": "% RECURSOS HUMANOS CON ADECUADA CAPACIDAD EN GESTIÓN MUNICIPAL",
+            "txPgMeta": "70%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182941,
+            "txPgProblema": "INCREMENTO DE INSEGURIDAD CIUDADANA",
+            "txPgObjetivo": "LOGRAR UNA ADECUADA SEGURIDAD CIUDADANA",
+            "txPgIndicador": "% DE PARTICIPACIÓN EN SEGURIDAD CIUDADANA",
+            "txPgMeta": "95%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 182969,
+            "txPgProblema": "LIMITADA PARTICIPACIÓN DE LA POBLACIÓN",
+            "txPgObjetivo": "FORTALECER LAS CAPACIDADES DE LAS ORGANIZACIONES SOCIALES DE BASE",
+            "txPgIndicador": "% DE PARTICIPACIÓN EN TEMAS MUNICIPALES",
+            "txPgMeta": "80%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

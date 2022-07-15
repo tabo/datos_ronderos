@@ -1,0 +1,285 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 184324.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "09828220",
+        "nombres": "TITO",
+        "apellidoPaterno": "JIMENEZ",
+        "apellidoMaterno": "VALDIVIA",
+        "sexo": "1",
+        "feNacimiento": "18/12/1973",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050615",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "PARINACOCHAS",
+        "naciDistrito": "SAN FRANCISCO DE RAVACAYCO",
+        "ubigeoDomicilio": "050615",
+        "domiDepartamento": "AYACUCHO",
+        "domiProvincia": "PARINACOCHAS",
+        "domiDistrito": "SAN FRANCISCO DE RAVACAYCO",
+        "domicilioDirecc": "RAVACAYCO S/N",
+        "ubigeoPostula": "050615",
+        "postulaDepartamento": "AYACUCHO",
+        "postulaProvincia": "PARINACOCHAS",
+        "postulaDistrito": "SAN FRANCISCO DE RAVACAYCO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/184324.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2710.0,
+        "organizacionPolitica": "ALIANZA POR NUESTRO DESARROLLO",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 09:56:54",
+        "txGuidFormatoHojaVida": "5e179e4e-3222-4d01-a8b8-38eb61ce542a",
+        "idSolicitudLista": 29410.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 157084,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MUNICIPALIDAD DISTRITAL DE CHORILLOS",
+            "ocupacionProfesion": "CONDUCTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. DEFENSORES DEL MORRO 550 (EX. AV. HUAYLAS), CHORRILLOS",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140108",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "CHORRILLOS",
+            "idHojaVida": 184324,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        },
+        {
+            "idHvExpeLaboral": 203896,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 2,
+            "centroTrabajo": "MUNICIPALIDAD DISTRITAL DE SAN FRANCISCO DE RAVACAYCO",
+            "ocupacionProfesion": "ALCALDE DISTRITAL",
+            "rucTrabajo": "20365038407",
+            "direccionTrabajo": "PZA. PLAZA DE ARMAS NRO. S/N - SAN FRANCISCO DE RAVACAYCO",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "2018",
+            "ubigeoTrabajo": "050615",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AYACUCHO",
+            "trabajoProvincia": "PARINACOCHAS",
+            "trabajoDistrito": "SAN FRANCISCO DE RAVACAYCO",
+            "idHojaVida": 184324,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 137198,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 184324,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 134603,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "I.S.T. GARCILAZO DE LA VEGA",
+                "carreraTecnico": "PRODUCCION AGROPECUARIA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 184324,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 142547,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD ALAS PERUANAS",
+                "carreraUni": "EDUCACION Y HUMANIDADES",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 136101,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 32,
+                "orgPolCargoElec": "PARTIDO APRISTA PERUANO",
+                "idCargoEleccion": 10,
+                "cargoEleccion": "ALCALDE DISTRITAL",
+                "anioCargoElecDesde": "2015",
+                "anioCargoElecHasta": "2018",
+                "idHojaVida": 184324,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 135767,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 32,
+            "orgPolRenunciaOp": "PARTIDO APRISTA PERUANO",
+            "anioRenunciaOp": "2020",
+            "idHojaVida": 184324,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 135766,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 47,
+            "orgPolRenunciaOp": "UNION POR EL PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 184324,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 134011,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "TENGO DENUNCIA REALIZADO POR LA SRA TERESA ALVAREZ ALVAREZ A NIVEL FISCAL EN PROCESO DE ARCHIVAMIENTO LUGAR AYACUCHO FISCALIA ANTICORRUPCION",
+            "idHojaVida": 184324,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 136560,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 16800.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 184324,
+                "idEstado": 1,
+                "totalIngresos": 16800.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 170217,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 2,
+                "tipoBienInmueble": "TERRENOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "SAN FRANCISCO RAVACAYO",
+                "comentario": "DOCUMENTO COMPRAVENTA",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 184324,
+                "idEstado": 1,
+                "flValor": "20000"
+            },
+            {
+                "idHvBienInmueble": 170212,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CHORILLOS",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 184324,
+                "idEstado": 1,
+                "flValor": "100000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 149295,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "CAMIONETA",
+                "marca": null,
+                "placa": "I2USO",
+                "valor": 2000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMIONETA TROPER",
+                "comentario": "CAMIONETA MALOGRADA",
+                "idHojaVida": 184324,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 134482,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "17-2018",
+            "txOrganoJuridicialObliga": "JUZGADO PAZ LETRADO PARINACOCHAS",
+            "txFalloObliga": "FUNDADO",
+            "idEstado": 1,
+            "idHojaVida": 184324,
+            "txComentario": null
+        }
+    ]
+}

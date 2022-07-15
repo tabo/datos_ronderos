@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 225762.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "41371307",
+        "nombres": "JUAN CARLOS",
+        "apellidoPaterno": "ARROYO",
+        "apellidoMaterno": "ARGOMEDO",
+        "sexo": "1",
+        "feNacimiento": "18/09/1980",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "021301",
+        "naciDepartamento": "ANCASH",
+        "naciProvincia": "SANTA",
+        "naciDistrito": "CHIMBOTE",
+        "ubigeoDomicilio": "021301",
+        "domiDepartamento": "ANCASH",
+        "domiProvincia": "SANTA",
+        "domiDistrito": "CHIMBOTE",
+        "domicilioDirecc": "AV. BUENOS AIRES MZ.1 LT.4A P.JOVEN EL PORVENIR",
+        "ubigeoPostula": "021308",
+        "postulaDepartamento": "ANCASH",
+        "postulaProvincia": "SANTA",
+        "postulaDistrito": "COISHCO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/225762.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 19:55:21",
+        "txGuidFormatoHojaVida": "b8bc21de-cbdf-4588-b369-da3f524d0532",
+        "idSolicitudLista": 34654.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 248487,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "CONDUCTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR LA CALETA N 176",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "021301",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ANCASH",
+            "trabajoProvincia": "SANTA",
+            "trabajoDistrito": "CHIMBOTE",
+            "idHojaVida": 225762,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 220156,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 225762,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 143248,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 2218,
+                "orgPolCargoPartidario": "PARTIDO POLÍTICO PARTIDO POLITICO NACIONAL PERU LIBRE",
+                "cargoPartidario": "AFILIADO",
+                "anioCargoPartiDesde": "2022",
+                "anioCargoPartiHasta": "HASTA LA ACTUALIDAD",
+                "idHojaVida": 225762,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 198113,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 12000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 225762,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 135697,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "150-2021",
+            "feSentenciaPenal": "03/03/2014",
+            "txOrganoJudiPenal": "JUZGADO DE PAZ LETRADO",
+            "txDelitoPenal": "ALIMENTOS",
+            "txFalloPenal": "DESFAVORABLE",
+            "idParamModalidad": 10,
+            "txModalidad": "EFECTIVA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 21,
+            "txCumpleFallo": "EN CUMPLIMIENTO",
+            "idEstado": 1,
+            "idHojaVida": 225762,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": []
+}

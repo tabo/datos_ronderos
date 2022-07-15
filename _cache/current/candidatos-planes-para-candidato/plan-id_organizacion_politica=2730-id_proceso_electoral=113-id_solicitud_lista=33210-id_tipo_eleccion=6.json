@@ -1,0 +1,105 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 26536,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2730,
+        "txOrganizacionPolitica": "MOVIMIENTO INDEPENDIENTE REGIONAL MI BUEN VECINO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/c9986dbb-b123-4ce8-a4f8-4a07f9eb5b68.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/96a79174-1916-4ca1-954b-a38e9f91d3fb.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 197120,
+            "txPgProblema": "INFRAESTRUCTURA Y MOBILIARIOS EDUCATIVOS DE NIVEL INICIAL, PRIMARIO Y SECUNDARIO EN MAL ESTADO.",
+            "txPgObjetivo": "CREAR, MEJORAR Y AMPLIAR LOS SERVICIOS EDUCATIVOS EN LAS PROVINCIAS Y DISTRITOS DEL ÁMBITO DE LA REGIÓN DE HUÁNUCO.",
+            "txPgIndicador": "PORCENTAJE DE INSTITUCIONES EDUCATIVAS.",
+            "txPgMeta": "CONSTRUIR Y EQUIPAR 15% DE LAS INSTITUCIONES EDUCATIVAS.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 197140,
+            "txPgProblema": "LAS PERSONAS QUE NECESITAN ASISTENCIA MÉDICA NO PUEDEN ATENDERSE OPORTUNAMENTE EN EL CENTRO DE SALUD Y HOSPITAL.",
+            "txPgObjetivo": "CREAR, MEJORAR Y AMPLIAR LOS SERVICIOS DE SALUD (CENTROS DE SALUD Y PUESTOS DE SALUD)",
+            "txPgIndicador": "PORCENTAJE DE POSTAS, CENTROS DE SALUD Y POSTAS DE SALUD",
+            "txPgMeta": "CONSTRUIR Y EQUIPAR EL 15% DE LOS CENTROS Y POSTAS DE SALUD",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 197152,
+            "txPgProblema": "BAJA PRODUCCIÓN Y PRODUCTIVIDAD AGRÍCOLA",
+            "txPgObjetivo": "CREACIÓN DE CANALES DE RIEGO TECNIFICADO EN EL ÁMBITO DEL DISTRITO DE CONCHAMARCA",
+            "txPgIndicador": "PORCENTAJE DE INFRAESTRUCTURA DE RIEGO",
+            "txPgMeta": "INCLUIR MÁS DE 50 HA., DE SUPERFICIE AGRÍCOLA BAJO RIEGO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 197161,
+            "txPgProblema": "BAJO NIVEL DE COBERTURA ELÉCTRICA",
+            "txPgObjetivo": "CREAR Y MEJORAR Y AMPLIAR LOS SERVICIOS ELÉCTRICOS EN EL ÁMBITO DEL DISTRITO DE CONCHAMARCA",
+            "txPgIndicador": "PORCENTAJE DE CONEXIÓN ELÉCTRICA EN VIVIENDAS",
+            "txPgMeta": "13% DE VIVIENDAS CON CONEXIÓN ELÉCTRICA",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 197170,
+            "txPgProblema": "NADECUADO TRATAMIENTO DE RESIDUOS SÓLIDOS MUNICIPALES",
+            "txPgObjetivo": "CREAR PLANTA DE TRATAMIENTO DE RESIDUOS SOLIDOS",
+            "txPgIndicador": "PORCENTAJE DE RESDUOS SOLIDOS TRATADOS",
+            "txPgMeta": "35% DE RESIDUOS SOLIDOS TRATADOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 197181,
+            "txPgProblema": "INCREMENTO DE ENFERMEDADES RESPIRATORIOS DERIVADOS DE LA CONTAMINACIÓN DEL AIRE",
+            "txPgObjetivo": "CUIDAR Y PROTEGER EL MEDIO AMBIENTE",
+            "txPgIndicador": "PORCENTAJE DE PERSONAS CON ENEFERMEDADES RESPIRATORIOS",
+            "txPgMeta": "FORESTAR Y REFORESTAR EL 20% DE LA RIVERA DE LOS RÍOS Y QUEBRADAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 197195,
+            "txPgProblema": "ALTA DESAPROBACIÓN EN LA GESTIÓN DE AUTORIDADES EN LOS CENTROS POBLADOS",
+            "txPgObjetivo": "CREAR, MEJORAR Y EQUIPAR LOCALES COMUNALES EN CENTROS POBLADOS DEL DISTRITO",
+            "txPgIndicador": "PORCENTAJE DE LOCALES COMUNALES CONSTRUIDOS Y EQUIPADOS",
+            "txPgMeta": "CAPACITAR A LAS AUTORIDADES COMUNALES Y CENTROS POBLADOS AL 50%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 197212,
+            "txPgProblema": "DESINTERÉS DE LA POBLACIÓN EN ASISTIR A ESPACIOS DE CAPACITACIÓN Y PLANIFICACIÓN DE LAS LOS VECINOS Y COMUNIDADES.",
+            "txPgObjetivo": "PROMOVER Y FORTALECER LAS ORGANIZACIONES SOCIALES DE BASE.",
+            "txPgIndicador": "PORCENTAJE DE ORGANIZACONES SOCIALES DE BASE FORTALECIDOS",
+            "txPgMeta": "INCENTIVAR LA PARTICIPACIÓN COMUNAL Y VECINAL AL 40%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

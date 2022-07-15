@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 25430,
+        "idTipoEleccion": 4,
+        "txTipoEleccion": "REGIONAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1666,
+        "juradoElectoral": "CHICLAYO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/ca195846-a3f2-405a-af28-62416006eb25.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/ef4e239e-6d0b-4406-b80a-acbacd1a1b17.pdf",
+        "txCodExpedienteExt": "ERM.2022010483",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 214918,
+            "txPgProblema": "PRECARIO SISTEMA DE \nSALUD, FALTA DE \nEQUIPAMIENTO, \nINFRAESTRUCTURA Y \nMEDICINAS, ALTO ÍNDICE \nDE MORTALIDAD MATERNO \nINFANTIL, FALTA DE \nHOSPITALES \nESPECIALIZADOS",
+            "txPgObjetivo": "PRIORIZAR LA ATENCIÓN PRIMARIA DE \nSALUD, CONSTRUCCIÓN DE \nESTABLECIMIENTOS DE SALUD EN \nZONAS ESTRATÉGICAS, REDUCCIÓN DE \nLA MORTALIDAD MATERNO INFANTIL.",
+            "txPgIndicador": "429 MADRES \nFALLECIERON \nDURANTE EL \nPARTO EN AL \nAÑO 2020, \n67.2 MUERTES \nPOR CADA 100 \nMIL NACIDOS \nVIVOS",
+            "txPgMeta": "REDUCIR AL 30% EL \nNUMERO DE MUERTES\nCONSTRUCCIÓN DE 2 \nHOSPITALES \nESPECIALIZADOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 214939,
+            "txPgProblema": "DEFICIENTE ACCESO A \nLA EDUCACIÓN INICIAL Y \nPRIMARIA",
+            "txPgObjetivo": "INCREMENTAR EL ACCESO",
+            "txPgIndicador": "90%",
+            "txPgMeta": "98%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 214951,
+            "txPgProblema": "DEFICIENTE SERVICIO \nDE AGUA POTABLE",
+            "txPgObjetivo": "MEJORAR Y AMPLIAR COBERTURA DE \nAGUA POTABLE",
+            "txPgIndicador": "95.1 %",
+            "txPgMeta": "99%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 214962,
+            "txPgProblema": "RECONCENTRACIÓN DE \nTIERRAS, POCA \nDIVERSIFICACIÓN DE \nCULTIVOS",
+            "txPgObjetivo": "DIVERSIFICACIÓN Y AMPLIACIÓN DE \nLOS CULTIVOS",
+            "txPgIndicador": "ESCASA \nDIVERSIFICACIÓN",
+            "txPgMeta": "INCREMENTAR EN \n40,000 HECTÁREAS \nLOS SEMBRÍOS DE \nCULTIVOS DIFERENTES AL \nARROZ O CAÑA DE \nAZÚCAR",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 214972,
+            "txPgProblema": "PROYECTO OLMOS \nINCONCLUSO",
+            "txPgObjetivo": "CULMINAR LA I ETAPA",
+            "txPgIndicador": "20%",
+            "txPgMeta": "100%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 214990,
+            "txPgProblema": "TERMINAL MARÍTIMO\nDEL PUERTO ETEN",
+            "txPgObjetivo": "ELABORAR PROYECTO, CONSEGUIR \nFINANCIAMIENTO",
+            "txPgIndicador": "1%",
+            "txPgMeta": "100%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 215124,
+            "txPgProblema": "CONTAMINACIÓN \nAMBIENTAL",
+            "txPgObjetivo": "REDUCIR LA CONTAMINACIÓN \nAMBIENTAL, CONVERTIRNOS EN UNA \nREGIÓN VERDE, UTILIZACIÓN DE \nENERGÍAS LIMPIAS (EÓLICA 3%, \nSOLAR 1.6%)",
+            "txPgIndicador": "CASI NULA \nACTIVIDAD \nCONTRA LA \nCONTAMINACIÓN AMBIENTAL",
+            "txPgMeta": "CONTAMINACIÓN \nMÍNIMA, 10 % DE \nENERGÍA LIMPIA DEL \nTOTAL UTILIZADA.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 215138,
+            "txPgProblema": "TALA ILEGAL DE \nBOSQUES SECOS",
+            "txPgObjetivo": "PROTECCIÓN Y MANTENIMIENTO DE \nLOS BOSQUES SECOS",
+            "txPgIndicador": "7,000 \nHECTÁREAS \nANUALES DE \nTALA ILEGAL",
+            "txPgMeta": "0.00 HECTÁREAS \nAFECTADAS POR TALA \nILEGAL",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 215159,
+            "txPgProblema": "SALINIZACIÓN DE \nSUELOS",
+            "txPgObjetivo": "REDUCCIÓN DE ÁREAS SALINIZADAS",
+            "txPgIndicador": "80,000 \nHECTÁREAS\nSALINIZADAS",
+            "txPgMeta": "REDUCIR LA ÁREAS \nSALINIZADAS A \n50,000.00 HA.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 215170,
+            "txPgProblema": ".INEFICIENTE SERVICIO",
+            "txPgObjetivo": "MEJORAR",
+            "txPgIndicador": "REGULAR -\nMALO",
+            "txPgMeta": "BUEN SERVICIO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 215182,
+            "txPgProblema": "PARTICIPACIÓN \nCIUDADANA",
+            "txPgObjetivo": "MEJORAR",
+            "txPgIndicador": "ESCASA O \nNULA",
+            "txPgMeta": "ALTA PARTICIPACIÓN \nCIUDADANA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 215202,
+            "txPgProblema": "CORRUPCIÓN",
+            "txPgObjetivo": "ACABAR CON LA CORRUPCIÓN INTERNA",
+            "txPgIndicador": "CORRUPCIÓN \nMUY ALTA EN \nLAS \nINSTITUCIONES",
+            "txPgMeta": "REDUCIR A NIVELES \nMINIMOS.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

@@ -1,0 +1,150 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 234160.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "48503427",
+        "nombres": "MARY LUZ",
+        "apellidoPaterno": "LEÓN",
+        "apellidoMaterno": "FUENTES - RIVERA",
+        "sexo": "2",
+        "feNacimiento": "19/02/1994",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140115",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "MIRAFLORES",
+        "ubigeoDomicilio": "140106",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "COMAS",
+        "domicilioDirecc": "JR. JOSE DE LA MAR 296 PISO 2 ETAPA 2 MZ. X",
+        "ubigeoPostula": "140106",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "COMAS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/234160.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 1366.0,
+        "organizacionPolitica": "FUERZA POPULAR",
+        "numeroCandidato": 14.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 01:23:01",
+        "txGuidFormatoHojaVida": "4f7dd0c7-f445-4563-9a6a-ccdd48e55e49",
+        "idSolicitudLista": 35622.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 193303,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "PANIFICACIÓN",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JOSÉ DE LA MAR 296  SANTA LUZMILA",
+            "anioTrabajoDesde": "2018",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140106",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "COMAS",
+            "idHojaVida": 234160,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 170357,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 234160,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 143361,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "ARZOBISPO LOAYZA",
+                "carreraTecnico": "ENFERMERA",
+                "concluidoEduTecnico": "2",
+                "idHojaVida": 234160,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 139109,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": -1,
+                "orgPolCargoPartidario": "FUERZA POPULAR",
+                "cargoPartidario": "PERSONERO",
+                "anioCargoPartiDesde": "2018",
+                "anioCargoPartiHasta": "HASTA LA ACTUALIDAD",
+                "idHojaVida": 234160,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 148827,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2649,
+            "orgPolRenunciaOp": "PERU NACION",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 234160,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 160662,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 960.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 234160,
+                "idEstado": 1,
+                "totalIngresos": 960.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 223060.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "70905293",
+        "nombres": "KATERIN",
+        "apellidoPaterno": "CARRION",
+        "apellidoMaterno": "HERRERA",
+        "sexo": "2",
+        "feNacimiento": "17/02/1993",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "030213",
+        "naciDepartamento": "APURIMAC",
+        "naciProvincia": "AYMARAES",
+        "naciDistrito": "TINTAY",
+        "ubigeoDomicilio": "030213",
+        "domiDepartamento": "APURIMAC",
+        "domiProvincia": "AYMARAES",
+        "domiDistrito": "TINTAY",
+        "domicilioDirecc": "TAQUEBAMBA",
+        "ubigeoPostula": "030213",
+        "postulaDepartamento": "APURIMAC",
+        "postulaProvincia": "AYMARAES",
+        "postulaDistrito": "TINTAY",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/223060.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 17:32:02",
+        "txGuidFormatoHojaVida": "2f31d9e2-fc52-41ca-b93c-0e8d7b7bf956",
+        "idSolicitudLista": 34335.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 182399,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "FERRETERIA CARRION",
+            "ocupacionProfesion": "VENDEDORA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV CHILE S/N - ABANCAY",
+            "anioTrabajoDesde": "2014",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "030101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "APURIMAC",
+            "trabajoProvincia": "ABANCAY",
+            "trabajoDistrito": "ABANCAY",
+            "idHojaVida": 223060,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 160499,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 223060,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 155173,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "ASOCIACIÓN CIVIL UNIVERSIDAD CATÓLICA DE TRUJILLO BENEDICTO XVI",
+                "carreraUni": "BACHILLER EN EDUCACIÓN",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2021",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 155917,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 36000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 223060,
+                "idEstado": 1,
+                "totalIngresos": 36000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 193636,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "SECCION ESPECIAL DE PREDIOS RURALES",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "  NUM 40     ABANCAY - ABANCAY - APURIMAC",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "05001557",
+                "fichaTomoSunarp": null,
+                "autovaluo": 200.0,
+                "idHojaVida": 223060,
+                "idEstado": 1,
+                "flValor": "250000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

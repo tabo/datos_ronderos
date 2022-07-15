@@ -1,0 +1,162 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 234961.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40704033",
+        "nombres": "ROBINSON",
+        "apellidoPaterno": "ZUMAETA",
+        "apellidoMaterno": "MENDIETA",
+        "sexo": "1",
+        "feNacimiento": "28/09/1979",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "150602",
+        "naciDepartamento": "LORETO",
+        "naciProvincia": "MARISCAL RAMON CASTILLA",
+        "naciDistrito": "PEBAS",
+        "ubigeoDomicilio": "150111",
+        "domiDepartamento": "LORETO",
+        "domiProvincia": "MAYNAS",
+        "domiDistrito": "PUNCHANA",
+        "domicilioDirecc": "CALLE CUZCO 420",
+        "ubigeoPostula": "150111",
+        "postulaDepartamento": "LORETO",
+        "postulaProvincia": "MAYNAS",
+        "postulaDistrito": "PUNCHANA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/234961.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 61.0,
+        "organizacionPolitica": "FUERZA LORETANA",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 22:41:05",
+        "txGuidFormatoHojaVida": "004643aa-2c0f-400f-8240-6758ed20ea88",
+        "idSolicitudLista": 35721.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 192371,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "RESTAURANT JAKIABAR",
+            "ocupacionProfesion": "GERENTE PROPIETARIO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CUZCO 420 PUNCHANA",
+            "anioTrabajoDesde": "2017",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "150111",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LORETO",
+            "trabajoProvincia": "MAYNAS",
+            "trabajoDistrito": "PUNCHANA",
+            "idHojaVida": 234961,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 169480,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 234961,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 159769,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD CIENTIFICA DEL PERU",
+                "carreraUni": "DERECHO Y CIENCIAS POLITICAS",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "XI CICLO"
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 160015,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 24000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 234961,
+                "idEstado": 1,
+                "totalIngresos": 24000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 170570,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "MY78486",
+                "valor": 2000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "YAMAHA DT175 COLOR AZUL",
+                "comentario": null,
+                "idHojaVida": 234961,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 170569,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "MY75394",
+                "valor": 2000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "HONDA 125",
+                "comentario": "NO OPERATIVA",
+                "idHojaVida": 234961,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

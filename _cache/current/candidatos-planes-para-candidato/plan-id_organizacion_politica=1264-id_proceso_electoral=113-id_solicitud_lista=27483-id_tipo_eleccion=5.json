@@ -1,0 +1,105 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20809,
+        "idTipoEleccion": 5,
+        "txTipoEleccion": "MUNICIPAL PROVINCIAL",
+        "idOrganizacionPolitica": 1264,
+        "txOrganizacionPolitica": "JUNTOS POR EL PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/d92b3f93-d2b8-4dfe-a6b1-c1a656d68f80.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/70446c25-6429-4e07-8ed7-57cf928be994.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 137945,
+            "txPgProblema": "BAJO NIVEL EDUCATIVO EN EDUCACIÓN\nBÁSICA REGULAR (EBR)",
+            "txPgObjetivo": "INCREMENTAR LOS LOGROS DE APRENDIZAJE DE\nLOS ESTUDIANTES DE EBR.",
+            "txPgIndicador": "% DE ESTUDIANTES CON NIVEL SATISFACTORIO\nEN EBR.",
+            "txPgMeta": "¿ INCREMENTAR EN 10% LOS LOGROS DE\nAPRENDIZAJE CON NIVEL SATISFACTORIO EN\nEBR.\n¿ CONSTRUCCIÓN Y EQUIPAMIENTO DE 03\nALBERGUES ESTUDIANTILES.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 137979,
+            "txPgProblema": "LIMITADO ACCESO A SERVICIO DE AGUA\nPOTABLE Y SANEAMIENTO BÁSICO.",
+            "txPgObjetivo": "INCREMENTAR EL ACCESO A AGUA SEGURA Y\nDESAGÜE DE LA POBLACIÓN URBANA Y RURAL.",
+            "txPgIndicador": "% DE HOGARES CON ACCESO A SERVICIOS DE\nAGUA Y SANEAMIENTO",
+            "txPgMeta": "COBERTURAR EN UN 30% DE HOGARES CON\nACCESO SERVICIOS DE AGUA Y\nSANEAMIENTO DE LA PROVINCIA.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 137959,
+            "txPgProblema": "LIMITADA INFRAESTRUCTURA PRODUCTIVA\nDE ACOPIO Y TRANSFORMACIÓN.",
+            "txPgObjetivo": "MEJORAR LA COMPETITIVIDAD DE LOS\nPRODUCTORES AGRÍCOLAS, PECUARIOS,\nPISCÍCOLAS Y FORESTALES DE LA PROVINCIA.",
+            "txPgIndicador": "TM DE PRODUCTOS ACOPIADOS Y/O\nTRANSFORMADOS SEGÚN AÑO Y RUBRO:\nAGRÍCOLA, PECUARIO, PISCÍCOLA Y FORESTAL.",
+            "txPgMeta": "¿ MEJORAR EN 60% EL ACOPIO Y\nTRANSFORMACIÓN DE LOS PRODUCTOS\nPRIMARIOS DE LA ZONA.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 137967,
+            "txPgProblema": "LIMITADAS CONDICIONES DE\nINFRAESTRUCTURA DE VÍAS DE ACCESO Y\nDE PUERTOS DE CARGA Y DESCARGA.",
+            "txPgObjetivo": "MEJORAR LA CONECTIVIDAD VIAL Y FLUVIAL DE LA\nPOBLACIÓN.",
+            "txPgIndicador": "NÚMERO DE KM DE VÍAS DE CONEXIÓN\nCONSTRUIDAS POR AÑO",
+            "txPgMeta": "INCREMENTO EN 30% DE VÍAS DE ACCESO\nY COMUNICACIÓN.\n¿ CREACIÓN Y MEJORAMIENTO DE 03 PUERTOS\nDE CARGA Y DESCARGA EN ZONAS\nESTRATÉGICAS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 137988,
+            "txPgProblema": "INCREMENTO DE LA DEFORESTACIÓN.",
+            "txPgObjetivo": "REDUCIR LA CONTAMINACIÓN AMBIENTAL EN LA\nPROVINCIA.",
+            "txPgIndicador": "TASA DE REPOSICIÓN DE LA SUPERFICIE\nFORESTAL.",
+            "txPgMeta": "EJECUCIÓN DE 01 PROYECTO DE\nREFORESTACIÓN Y APROVECHAMIENTO\nFORESTAL COMUNITARIO QUE INCLUYA LA\nTRANSFORMACIÓN PRIMARIA Y SECUNDARIA\nDE LA MADERA.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 137996,
+            "txPgProblema": "ALTA CONTAMINACIÓN DEL SUELO, AGUA\nY AIRE, POR ACTIVIDADES\nANTROPOGÉNICAS.",
+            "txPgObjetivo": "REDUCIR LA CONTAMINACIÓN AMBIENTAL EN LA\nPROVINCIA.",
+            "txPgIndicador": "TM DE RRSS RECOLECTADOS Y DISPUESTOS\nADECUADAMENTE.",
+            "txPgMeta": "CREACIÓN DE 01 RELLENO SANITARIO PARA LA\nPROVINCIA DE CONDORCANQUI.\n¿ CREACIÓN DE 04 BOTADEROS CONTROLADOS\nEN LOS DISTRITOS DE EL CENEPA, RÍO\nSANTIAGO Y NIEVA.\n¿ CREACIÓN DE 01 ÁREA DE CONSERVACIÓN\nMUNICIPAL DE CABECERAS DE CUENCA,\nPARA LA CONSERVACIÓN DE",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 138021,
+            "txPgProblema": "LIMITADO ACCESO A SERVICIOS\nMUNICIPALES POR CENTRALIZACIÓN\nINSTITUCIONAL Y OPERATIVA DE LA\nGESTIÓN MUNICIPAL",
+            "txPgObjetivo": "FORTALECER LA GESTIÓN DESCENTRALIZADA Y\nPARTICIPATIVA DE LOS SERVICIOS PÚBLICOS",
+            "txPgIndicador": "N° DE PROGRAMAS Y SERVICIOS\nDESCENTRALIZADOS EN LOS CENTROS POBLADOS\nDEL DISTRITO",
+            "txPgMeta": "DESCENTRALIZACIÓN DE SERVICIOS\nMUNICIPALES Y EMPODERAMIENTO DE\nCAPACIDADES OPERATIVAS A LOS\nGOBIERNOS DE CENTRO POBLADO.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138024,
+            "txPgProblema": "DÉBIL GESTIÓN DE LA ORGANIZACIÓN EN\nLAS COMUNIDADES NATIVAS DE LA\nPROVINCIA",
+            "txPgObjetivo": "MEJORAR LA PARTICIPACIÓN ACTIVA DE LA\nCIUDADANÍA.",
+            "txPgIndicador": "% DE PARTICIPACIÓN DE ORGANIZACIONES\nNATIVAS Y SOCIALES EN LOS PROCESOS\nPARTICIPATIVOS.",
+            "txPgMeta": "¿ UN PROGRAMA DE FORTALECIMIENTO\nINSTITUCIONAL EN CADA UNA DE LAS\nCOMUNIDADES NATIVAS.\n¿ IMPULSAR LA ACTUALIZACIÓN Y ADECUACIÓN\nDE LOS INSTRUMENTOS DE GESTIÓN Y\nADMINISTRACIÓN COMUNAL A NIVEL DE\nTODAS LAS COMUNIDADES NATIVAS.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

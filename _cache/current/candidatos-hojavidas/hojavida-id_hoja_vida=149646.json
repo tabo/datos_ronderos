@@ -1,0 +1,150 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 149646.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42159755",
+        "nombres": "VICTOR",
+        "apellidoPaterno": "PAREJA",
+        "apellidoMaterno": "FLORES",
+        "sexo": "1",
+        "feNacimiento": "03/01/1982",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140623",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "HUAROCHIRI",
+        "naciDistrito": "SAN PEDRO DE HUANCAYRE",
+        "ubigeoDomicilio": "140623",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "HUAROCHIRI",
+        "domiDistrito": "SAN PEDRO DE HUANCAYRE",
+        "domicilioDirecc": "SAN PEDRO HUANCAYRE",
+        "ubigeoPostula": "140623",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "HUAROCHIRI",
+        "postulaDistrito": "SAN PEDRO DE HUANCAYRE",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/149646.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 09:03:23",
+        "txGuidFormatoHojaVida": "958a95b7-6ff5-4f8a-9fc4-9c90913cbd30",
+        "idSolicitudLista": 24731.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 240910,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "TRABAJADOR INDEPENDIENTE",
+            "ocupacionProfesion": "OPERARIO ELECTROMECANICO",
+            "rucTrabajo": "10421597559",
+            "direccionTrabajo": "MZ A LT 20 ASOCIACIÓN LOS GANADORES",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140103",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "ATE",
+            "idHojaVida": 149646,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "TRABAJADPOR CON RECIBO POR HONORARIOS"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 212717,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 149646,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 144394,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 5,
+                "orgPolCargoElec": "SIEMPRE UNIDOS",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2007",
+                "anioCargoElecHasta": "2010",
+                "idHojaVida": 149646,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 192574,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 19330.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 149646,
+                "idEstado": 1,
+                "totalIngresos": 19330.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 237534,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "JR TARMA S/N",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 12000.0,
+                "idHojaVida": 149646,
+                "idEstado": 1,
+                "flValor": "12000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

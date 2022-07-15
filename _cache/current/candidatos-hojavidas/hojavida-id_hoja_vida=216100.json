@@ -1,0 +1,147 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 216100.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "04818484",
+        "nombres": "GUILLERMO ARTURO",
+        "apellidoPaterno": "MENACHO",
+        "apellidoMaterno": "GONZALES",
+        "sexo": "1",
+        "feNacimiento": "28/10/1953",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "160302",
+        "naciDepartamento": "MADRE DE DIOS",
+        "naciProvincia": "TAHUAMANU",
+        "naciDistrito": "IBERIA",
+        "ubigeoDomicilio": "160302",
+        "domiDepartamento": "MADRE DE DIOS",
+        "domiProvincia": "TAHUAMANU",
+        "domiDistrito": "IBERIA",
+        "domicilioDirecc": "CALLE JORGE CHAVEZ S/N",
+        "ubigeoPostula": "160000",
+        "postulaDepartamento": "MADRE DE DIOS",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/216100.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2809.0,
+        "organizacionPolitica": "ALIANZA LIBERTAD MADREDIOSENSE",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "CONSEJERO REGIONAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 19:06:37",
+        "txGuidFormatoHojaVida": "e87aabcf-2a7c-4046-bf44-a596d229874a",
+        "idSolicitudLista": 33556.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 239683,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "PROYECTO ESPECIAL MADRE DE DIOS",
+            "ocupacionProfesion": "EMPLEADO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JIRÓN SAN MARTIN 291",
+            "anioTrabajoDesde": "2012",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "160302",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "MADRE DE DIOS",
+            "trabajoProvincia": "TAHUAMANU",
+            "trabajoDistrito": "IBERIA",
+            "idHojaVida": 216100,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 211678,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 216100,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 191815,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 30000.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 216100,
+                "idEstado": 1,
+                "totalIngresos": 30000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 195880,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "24160X ",
+                "valor": 3500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA ROJA Y BLANCA",
+                "comentario": null,
+                "idHojaVida": 216100,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 135513,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "8724-97",
+            "feSentenciaPenal": "22/12/1997",
+            "txOrganoJudiPenal": "SALA PENAL TID CUZCO",
+            "txDelitoPenal": "TRAFICO ILICITO DE ESTUPEFACIENTES",
+            "txFalloPenal": "6 AÑOS",
+            "idParamModalidad": 10,
+            "txModalidad": "EFECTIVA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 216100,
+            "txComentario": "NO REGISTRARON SU NOMBRE EN ARCHIVO RAZÓN POR LA QUE NO SE IDENTIFICA ORGANO JUDICIAL PARA REALIZAR REHABILITACIÓN. SE DEBE APLICAR ARTÍCULO 69 CÓDIGO PENAL"
+        }
+    ],
+    "sentenciaObliga": []
+}

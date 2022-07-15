@@ -1,0 +1,125 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 26310,
+        "idTipoEleccion": 5,
+        "txTipoEleccion": "MUNICIPAL PROVINCIAL",
+        "idOrganizacionPolitica": 22,
+        "txOrganizacionPolitica": "RENOVACION POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/b56e5a84-40f2-43fa-bfe6-e1c91a1544de.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/a19d1301-ed48-4f37-8bea-00f5368724c4.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 218626,
+            "txPgProblema": "SERVICIO\tDE SALUD DEFICIENTES",
+            "txPgObjetivo": "SALUD INCLUSIVA Y DE CALIDAD",
+            "txPgIndicador": "•\tINFRAESTRUCTURA BÁSICA DE CALIDAD.\n•\tMEDICINAS AL ALCANCE DE LA POBLACIÓN",
+            "txPgMeta": "•\t100% INFRA ESTRUCTURA BÁSICA\n•\t100% CONTROL DE SERVICIOS\nFARMACÉUTICOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 218647,
+            "txPgProblema": "DEFICIENTE COBERTURA DEL SERVICIO DE AGUA Y SANEAMIENTO\nAMBIENTAL",
+            "txPgObjetivo": "MEJORAR Y GENERAR SERVICIOS EFICIENTES DE AGUA Y\nSANEAMIENTO",
+            "txPgIndicador": "% DE LA POBLACIÓN SIN SERVICIO",
+            "txPgMeta": "AGUA PARA TODOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 218671,
+            "txPgProblema": "INFRAESTRUCTURA Y NIVEL EDUCATIVO INSUFICIENTES",
+            "txPgObjetivo": "SERVICIOS EDUCATIVOS DE CALIDAD CON ACCESO A LA TECNOLOGÍA EDUCATIVA",
+            "txPgIndicador": "%\tDE\nINFRAESTRUCTURA ADECUADA",
+            "txPgMeta": "80%\tCON INFRAESTRUCTURA ADECUADA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 218691,
+            "txPgProblema": "RECESIÓN ECONÓMICA PRODUCTIVA",
+            "txPgObjetivo": "PROMOVER\tUNA ECONOMÍA PRODUCTIVA\nCOMPETITIVA",
+            "txPgIndicador": "NIVEL DE COMPETITIVIDAD 0 -100%",
+            "txPgMeta": "60% RENDIMIENTO MEJORADO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 218708,
+            "txPgProblema": "FALTA DE EMPLEO PRODUCTIVO",
+            "txPgObjetivo": "PROMOVER EMPLEO PRODUCTIVO",
+            "txPgIndicador": "NIVEL DE DESEMPLEO",
+            "txPgMeta": "FIRMA DE CONVENIOS CON INSTITUCIONES PÚBLICAS Y PRIVADAS GENERADORA DE\nEMPLEO BÁSICO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 218741,
+            "txPgProblema": "DEPREDACIÓN DE RECURSOS\nNATURALES",
+            "txPgObjetivo": "RECUPERACIÓN\tÁREAS DEPREDADAS",
+            "txPgIndicador": "% DE RECUPERACIÓN",
+            "txPgMeta": "VIGILANCIA\tAMBIENTAL SOBRE EL 100% TERRITORIO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 218752,
+            "txPgProblema": "CONTAMINACIÓN AMBIENTAL",
+            "txPgObjetivo": "MANEJO SOSTENIBLE",
+            "txPgIndicador": "% DE CONTAMINACIÓN",
+            "txPgMeta": "PROGRAMA CONCERTADO CON\tEL\tGOBIERNO\nREGIONAL",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 218767,
+            "txPgProblema": "ACTIVAR\tLA ZONIFICACIÓN ECONÓMICA\tY\nECOLÓGICA",
+            "txPgObjetivo": "MANEJO ORDENADO DEL TERRITORIO PROVINCIAL",
+            "txPgIndicador": "% DE ORDENAMIENTO DEL TERRITORIO",
+            "txPgMeta": "PROVINCIA\tCON ZONIFICACIÓN ECONÓMICA\t\tY\nECOLÓGICA RESPETADA",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 218786,
+            "txPgProblema": "NOTABLE GRADO DE CORRUPCIÓN",
+            "txPgObjetivo": "GESTIÓN\tÉTICA\tY TRANSPARENTE",
+            "txPgIndicador": "GRUPOS\nORGANIZADOS PARTICIPATIVOS",
+            "txPgMeta": "POBLACIÓN\t80%\nORGANIZADA PARTICIPATIVA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 218796,
+            "txPgProblema": "INEFICIENTE\nGESTIÓN ADMINISTRATIVA",
+            "txPgObjetivo": "GOBIERNO\tLOCAL\nEFICIENTE\tAL\tSERVICIO DEL PUEBLO",
+            "txPgIndicador": "100% EFICIENTE PROMOTOR Y GESTOR",
+            "txPgMeta": "GESTIÓN\tECOEFICIENTE 100%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

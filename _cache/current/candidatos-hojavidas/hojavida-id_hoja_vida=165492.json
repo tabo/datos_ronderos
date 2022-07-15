@@ -1,0 +1,146 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 165492.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42238466",
+        "nombres": "MARTHA",
+        "apellidoPaterno": "MELENDEZ",
+        "apellidoMaterno": "GONZALES",
+        "sexo": "2",
+        "feNacimiento": "22/02/1983",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "200801",
+        "naciDepartamento": "PUNO",
+        "naciProvincia": "SANDIA",
+        "naciDistrito": "SANDIA",
+        "ubigeoDomicilio": "140615",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "HUAROCHIRI",
+        "domiDistrito": "SAN ANTONIO",
+        "domicilioDirecc": "ASOC. DE POB. EL CERCADO MZ. B LT. 2",
+        "ubigeoPostula": "140615",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "HUAROCHIRI",
+        "postulaDistrito": "SAN ANTONIO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/165492.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 22.0,
+        "organizacionPolitica": "RENOVACION POPULAR",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 11:26:46",
+        "txGuidFormatoHojaVida": "b413c0dd-598a-44d3-9ae4-c98194e17e4b",
+        "idSolicitudLista": 26887.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 252722,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "INFORMATICA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "MZ W LT03 AMPLIACION CERCADO-ANEXO 22",
+            "anioTrabajoDesde": "2017",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140615",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "HUAROCHIRI",
+            "trabajoDistrito": "SAN ANTONIO",
+            "idHojaVida": 165492,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 224518,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 165492,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 167715,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2895,
+            "orgPolRenunciaOp": "PARTIDO DEMOCRATA VERDE",
+            "anioRenunciaOp": "2022",
+            "idHojaVida": 165492,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 201757,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 12000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 165492,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 246834,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "TERRENO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "MZ W LT3 AMPLIACION CERCADO ANEXO 22",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 12000.0,
+                "idHojaVida": 165492,
+                "idEstado": 1,
+                "flValor": "15000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

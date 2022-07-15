@@ -1,0 +1,177 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 145499.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42255367",
+        "nombres": "SANTOS BENITO",
+        "apellidoPaterno": "LLICO",
+        "apellidoMaterno": "CORTEZ",
+        "sexo": "1",
+        "feNacimiento": "04/01/1980",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "060107",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "CAJAMARCA",
+        "naciDistrito": "LOS BAÑOS DEL INCA",
+        "ubigeoDomicilio": "060107",
+        "domiDepartamento": "CAJAMARCA",
+        "domiProvincia": "CAJAMARCA",
+        "domiDistrito": "LOS BAÑOS DEL INCA",
+        "domicilioDirecc": "CPM.PUYLLUCANA",
+        "ubigeoPostula": "060107",
+        "postulaDepartamento": "CAJAMARCA",
+        "postulaProvincia": "CAJAMARCA",
+        "postulaDistrito": "LOS BAÑOS DEL INCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/145499.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2173.0,
+        "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 11:49:30",
+        "txGuidFormatoHojaVida": "002f5f52-cb56-43a0-8b00-078f254ff39b",
+        "idSolicitudLista": 24164.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 161077,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AMERICA TRACTOR CAJAMARCA SRL",
+            "ocupacionProfesion": "GERENTE ADMINISTRATIVO",
+            "rucTrabajo": "20601194148",
+            "direccionTrabajo": "AV. VIA DE EVITAMIENTO SUR 1710",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "060101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CAJAMARCA",
+            "trabajoProvincia": "CAJAMARCA",
+            "trabajoDistrito": "CAJAMARCA",
+            "idHojaVida": 145499,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 140953,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 145499,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 139060,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 73185.0,
+                "idHojaVida": 145499,
+                "idEstado": 1,
+                "totalIngresos": 73185.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 151767,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "M2N726 ",
+                "valor": 20000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMIONETA COLOR BLANCO MARCA GREAT WALL MODELO WINGLE",
+                "comentario": null,
+                "idHojaVida": 145499,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 425,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "AMERICA TRACTOR CAJAMARCA",
+                "idParamTipoTitularidad": 88,
+                "txTipoTitularidad": "PARTICIPACIONES",
+                "flCantidad": 33.0,
+                "flValor": 242500.0,
+                "idHojaVida": 145499,
+                "idEstado": 1,
+                "txUsuario": "46024713",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            },
+            {
+                "idHVTitularidad": 426,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 2,
+                "txPersonaJuridica": "GLOBAL TOSH ICON",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 50.0,
+                "flValor": 25000.0,
+                "idHojaVida": 145499,
+                "idEstado": 1,
+                "txUsuario": "46024713",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            },
+            {
+                "idHVTitularidad": 427,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 3,
+                "txPersonaJuridica": "ENEGINE SPARTS",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 50.0,
+                "flValor": 1.0,
+                "idHojaVida": 145499,
+                "idEstado": 1,
+                "txUsuario": "46024713",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

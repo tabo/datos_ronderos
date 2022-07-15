@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 161124.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "41234597",
+        "nombres": "ARMINDA",
+        "apellidoPaterno": "LAPA",
+        "apellidoMaterno": "PICHIHUA",
+        "sexo": "2",
+        "feNacimiento": "19/03/1981",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "051106",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "SUCRE",
+        "naciDistrito": "SANTIAGO DE PAUCARAY",
+        "ubigeoDomicilio": "030316",
+        "domiDepartamento": "APURIMAC",
+        "domiProvincia": "ANDAHUAYLAS",
+        "domiDistrito": "TUMAY HUARACA",
+        "domicilioDirecc": "PLAZA PRINCIPAL",
+        "ubigeoPostula": "030316",
+        "postulaDepartamento": "APURIMAC",
+        "postulaProvincia": "ANDAHUAYLAS",
+        "postulaDistrito": "TUMAY HUARACA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/161124.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 11:58:52",
+        "txGuidFormatoHojaVida": "e1f97ac6-c409-4450-9403-ec7af867fbd7",
+        "idSolicitudLista": 26302.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 180753,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "PRONOEI",
+            "ocupacionProfesion": "PROMOTORA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "TUMAYHUARACA",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "030316",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "APURIMAC",
+            "trabajoProvincia": "ANDAHUAYLAS",
+            "trabajoDistrito": "TUMAY HUARACA",
+            "idHojaVida": 161124,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 158830,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 161124,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 152058,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 7500.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 161124,
+                "idEstado": 1,
+                "totalIngresos": 7500.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 192266,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "ANDAHUAYLAS-TUMAY HUARACA- MZ C1 LOTE 3 - CENTRO POBLADO UMAMARCA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "11040170",
+                "fichaTomoSunarp": null,
+                "autovaluo": 40.0,
+                "idHojaVida": 161124,
+                "idEstado": 1,
+                "flValor": "6000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 163752,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "C6N619 ",
+                "valor": 18000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "TAXI COLOR BLANCO",
+                "comentario": null,
+                "idHojaVida": 161124,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

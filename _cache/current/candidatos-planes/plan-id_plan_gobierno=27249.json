@@ -1,0 +1,85 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 27249,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1719,
+        "juradoElectoral": "QUISPICANCHI",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/79f52050-6935-44f0-8b5d-032774de882e.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/e21e1d22-05a3-4bb6-8ec7-ce785f90db79.pdf",
+        "txCodExpedienteExt": "ERM.2022009301",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 184782,
+            "txPgProblema": "- ALTA TASA DE MORBILIDAD Y MORTALIDAD MATERNA INFANTIL\n- ALTA TASA DE DESNUTRICIÓN CRÓNICA Y ANEMIA EN NIÑOS MENORES DE CINCO AÑOS",
+            "txPgObjetivo": "REDUCIR LAS TASAS DE MORBILIDAD Y MORTALIDAD EN EL DISTRITO DE HUARO",
+            "txPgIndicador": "PORCENTAJE DE DESNUTRICIÓN CRÓNICA INFANTIL",
+            "txPgMeta": "REDUCIR PORCENTUALMENTE LA ANEMIA EN NIÑOS MENORES DE 5 AÑOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 184843,
+            "txPgProblema": "- REDUCIDAS TASAS DE COMPRENSIÓN LECTORA Y DE RAZONAMIENTO MATEMÁTICO EN EL NIVEL DE EDUCACIÓN SECUNDARIA.\n- REDUCIDAS TASAS DE COMPRENSIÓN LECTORA Y DE RAZONAMIENTO MATEMÁTICO EN EL NIVEL DE EDUCACIÓN PRIMARIA.",
+            "txPgObjetivo": "- INCREMENTAR TASAS DE COMPRENSIÓN LECTORA Y RAZONAMIENTO MATEMÁTICO A NIVEL DEL DISTRITO DE HUARO\n- INCREMENTAR LA CALIDAD EDUCATIVA EN EL DISTRITO DE HUARO",
+            "txPgIndicador": "PORCENTAJE DE INSTITUCIONES EDUCATIVAS CON SERVICIOS EDUCATIVOS DE CALIDAD",
+            "txPgMeta": "ADECUADAS INFRAESTRUCTURAS EDUCATIVAS EN EL DISTRITO DE HUARO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 184874,
+            "txPgProblema": "LIMITADO SERVICIO DE AGUA POTABLE Y DESAGÜE EN EL DISTRITO DE HUARO",
+            "txPgObjetivo": "INCREMENTAR LA CAPACIDAD DEL SERVICIO DE AGUA POTABLE Y DESAGÜE EN EL DISTRITO DE HUARO.",
+            "txPgIndicador": "PORCENTAJE DE VIVIENDAS SIN ACCESO AL SERVICIO DE AGUA POTABLE; \nPORCENTAJE DE VIVIENDAS SIN ACCESO AL SERVICIO DE SANEAMIENTO",
+            "txPgMeta": "REDUCIR LAS VIVIENDAS SIN ACCESO AL SERVICIO DE AGUA POTABLE; \nREDUCIR LAS VIVIENDAS SIN ACCESO AL SERVICIO DE SANEAMIENTO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 184917,
+            "txPgProblema": "- REDUCIDO FORTALECIMIENTO DE ACTIVIDADES AGRÍCOLAS EN EL DISTRITO DE HUARO;\n- REDUCIDO FORTALECIMIENTO DE ACTIVIDADES GANADERAS Y DE CRIANZA DE ANIMALES MENORES;\n- REDUCIDO FORTALECIMIENTO DE ACTIVIDADES COMERCIALES Y PRODUCTIVAS",
+            "txPgObjetivo": "- MEJORAR Y FORTALECER LAS ACTIVIDADES AGROPECUARIAS DEL DISTRITO DE HUARO; \n- MEJORAR Y FORTALECER LAS ACTIVIDADES COMERCIALES Y PRODUCTIVAS DEL DISTRITO DE HUARO",
+            "txPgIndicador": "- PORCENTAJE DE PRODUCTORES AGROPECUARIOS CAPACITADOS ADECUADAMENTE; \n- PORCENTAJE DE COMERCIANTES Y PRODUCTORES CAPACITADOS ADECUADAMENTE",
+            "txPgMeta": "- INCREMENTAR EL PORCENTAJE DE PRODUCTORES AGROPECUARIOS CAPACITADOS ADECUADAMENTE; \n- INCREMENTAR EL PORCENTAJE DE COMERCIANTES Y PRODUCTORES CAPACITADOS ADECUADAMENTE",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 184955,
+            "txPgProblema": "- ÁREAS DEGRADADAS POR INCENDIOS EN EL DISTRITO DE HUARO;\n- CONTAMINACIÓN AMBIENTAL EN EL DISTRITO DE HUARO; \n- INCREMENTO DE INCENDIOS FORESTALES EN EL DISTRITO DE HUARO",
+            "txPgObjetivo": "- REDUCCION DE ÁREAS DEGRADADAS EN EL DISTRITO DE HUARO;\n- REDUCCION DE LA CONTAMINACIÓN MEDIOAMBIENTAL EN EL DISTRITO DE HUARO",
+            "txPgIndicador": "ÁREAS REFORESTADAS EN EL DISTRITO DE HUARO",
+            "txPgMeta": "INCREMENTAR LAS ÁREAS REFORESTADAS EN EL DISTRITO DE HUARO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 184973,
+            "txPgProblema": "REDUCIDO FORTALECIMIENTO DE ORGANIZACIONES CIVILES DE BASE EN EL DISTRITO DE HUARO.",
+            "txPgObjetivo": "INCREMENTAR Y FOMENTAR EL LIDERAZGO DE ORGANIZACIONES CIVILES DE BASE EN EL DISTRITO DE HUARO.",
+            "txPgIndicador": "ORGANIZACIONES CIVILES DE BASE CAPACITADAS ADECUADAMENTE",
+            "txPgMeta": "INCREMENTAR LAS ORGANIZACIONES CIVILES DE BASE CAPACITADAS ADECUADAMENTE",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

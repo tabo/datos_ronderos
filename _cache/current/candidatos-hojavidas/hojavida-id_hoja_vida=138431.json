@@ -1,0 +1,172 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 138431.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "10354412",
+        "nombres": "NELLY",
+        "apellidoPaterno": "CCAHUANTICO",
+        "apellidoMaterno": "CUSI",
+        "sexo": "2",
+        "feNacimiento": "29/05/1965",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "070608",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "CANCHIS",
+        "naciDistrito": "TINTA",
+        "ubigeoDomicilio": "140107",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "CHACLACAYO",
+        "domicilioDirecc": "AV. NICOLAS AYLLON 2398",
+        "ubigeoPostula": "140107",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "CHACLACAYO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/138431.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 01:39:13",
+        "txGuidFormatoHojaVida": "ea31004e-624c-40e2-acea-9f8db6f28479",
+        "idSolicitudLista": 23266.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 157099,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "COMERCIANTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV NICOLAS AYLLON 2398",
+            "anioTrabajoDesde": "2000",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140107",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "CHACLACAYO",
+            "idHojaVida": 138431,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 137213,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 138431,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 134605,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "NICOLAS PIEROLA",
+                "carreraTecnico": "COSMETOLOGA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 138431,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 136526,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 211688.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 138431,
+                "idEstado": 1,
+                "totalIngresos": 211688.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 149290,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 3,
+                "vehiculo": "NISSAN",
+                "marca": null,
+                "placa": "FOF333",
+                "valor": 26250.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "VEHICULO NISSAN PLACA FOF333",
+                "comentario": null,
+                "idHojaVida": 138431,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 149289,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "YUEJIN",
+                "marca": null,
+                "placa": "F7R892",
+                "valor": 45000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "VEHICULO YUEJIN DE PLACA F7R892",
+                "comentario": null,
+                "idHojaVida": 138431,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 149288,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "SUZUKI",
+                "marca": null,
+                "placa": "BTF220",
+                "valor": 60000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTO SUZUKI",
+                "comentario": null,
+                "idHojaVida": 138431,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

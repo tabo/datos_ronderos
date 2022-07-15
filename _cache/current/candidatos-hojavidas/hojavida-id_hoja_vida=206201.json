@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 206201.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "01859093",
+        "nombres": "ALFONSO",
+        "apellidoPaterno": "CALDERON",
+        "apellidoMaterno": "QUISPE",
+        "sexo": "1",
+        "feNacimiento": "26/01/1956",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "201006",
+        "naciDepartamento": "PUNO",
+        "naciProvincia": "YUNGUYO",
+        "naciDistrito": "OLLARAYA",
+        "ubigeoDomicilio": "201006",
+        "domiDepartamento": "PUNO",
+        "domiProvincia": "YUNGUYO",
+        "domiDistrito": "OLLARAYA",
+        "domicilioDirecc": "PAJJANA SAN ISIDRO COMUNIDAD",
+        "ubigeoPostula": "201006",
+        "postulaDepartamento": "PUNO",
+        "postulaProvincia": "YUNGUYO",
+        "postulaDistrito": "OLLARAYA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/206201.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 17:25:50",
+        "txGuidFormatoHojaVida": "d4e82c9f-bb48-4031-b064-5d04ac2c24a9",
+        "idSolicitudLista": 32299.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 230504,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AGRICULTURA",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "C. P. PAJANA SAN ISIDRO",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "201006",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PUNO",
+            "trabajoProvincia": "YUNGUYO",
+            "trabajoDistrito": "OLLARAYA",
+            "idHojaVida": 206201,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 203394,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 206201,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 185396,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 4000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 206201,
+                "idEstado": 1,
+                "totalIngresos": 4000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 230368,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "INMUEBLE",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "C. P. PAJANA SAN ISIDRO",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 206201,
+                "idEstado": 1,
+                "flValor": "4000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 190989,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "47189Z ",
+                "valor": 5000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO CARGA",
+                "comentario": null,
+                "idHojaVida": 206201,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

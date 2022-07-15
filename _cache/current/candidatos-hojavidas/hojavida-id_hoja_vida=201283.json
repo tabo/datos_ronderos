@@ -1,0 +1,175 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 201283.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "07675529",
+        "nombres": "LUCIA LOURDES",
+        "apellidoPaterno": "LAURA",
+        "apellidoMaterno": "GABRIEL",
+        "sexo": "2",
+        "feNacimiento": "22/04/1961",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140632",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "HUAROCHIRI",
+        "naciDistrito": "SAN JUAN DE IRIS",
+        "ubigeoDomicilio": "140632",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "HUAROCHIRI",
+        "domiDistrito": "SAN JUAN DE IRIS",
+        "domicilioDirecc": "JR.JESUS MARIA S/N",
+        "ubigeoPostula": "140632",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "HUAROCHIRI",
+        "postulaDistrito": "SAN JUAN DE IRIS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/201283.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 13:31:47",
+        "txGuidFormatoHojaVida": "1df1a166-fccd-4d0c-b242-c7d33b251db4",
+        "idSolicitudLista": 31669.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 168903,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CENTRO DE SALUD CHOSICA",
+            "ocupacionProfesion": "TECNICA EN ENFERMERIA I",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. LIMA NORTE N° 422 -CHOSICA",
+            "anioTrabajoDesde": "2016",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140112",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "LURIGANCHO",
+            "idHojaVida": 201283,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 147869,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 201283,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 137433,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "DANIEL ALCIDES CARRION",
+                "carreraTecnico": "TECNICA EN ENFERMERIA I",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 201283,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 140286,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1582,
+            "orgPolRenunciaOp": "ALTERNATIVA HUAROCHIRANA",
+            "anioRenunciaOp": "2013",
+            "idHojaVida": 201283,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 144174,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 32340.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 201283,
+                "idEstado": 1,
+                "totalIngresos": 32340.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 181342,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "PASAJE HUAYABAL 322-SANTA EULALIA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 433.44,
+                "idHojaVida": 201283,
+                "idEstado": 1,
+                "flValor": "450000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 156399,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "AUTO",
+                "marca": null,
+                "placa": "F0L-340",
+                "valor": 45000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR ROJO",
+                "comentario": "KIA SEDAN 2014",
+                "idHojaVida": 201283,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

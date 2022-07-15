@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 28371,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2277,
+        "txOrganizacionPolitica": "SENTIMIENTO AMAZONENSE REGIONAL",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1664,
+        "juradoElectoral": "CHACHAPOYAS",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/7a2a8468-9b4c-4823-ac61-e746bea12516.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/aae24ec9-3566-4bba-81c7-9054e009ce43.pdf",
+        "txCodExpedienteExt": "ERM.2022012550",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 134970,
+            "txPgProblema": "DEFICIENTE SERVICIO DE AGUA POTABLE Y SANEAMIENTO ANEXO DE HUACAPAMPA Y CASERÍOS",
+            "txPgObjetivo": "MEJORAMIENTO DE LOS SERVICIOS DE AGUA POTABLE Y SANEAMIENTO BÁSICO",
+            "txPgIndicador": "PORCENTAJE DE COBERTURA DE AGUA POTABLE Y SANEAMIENTO",
+            "txPgMeta": "01 PROYECTOS EJECUTADOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134976,
+            "txPgProblema": "DEFICIENTES SERVICIOS DE CALIDAD PARA ATENDER LA SALUD DE LAS FAMILIAS DEL DISTRITO",
+            "txPgObjetivo": "ACONDICIONAMIENTO E IMPLEMENTACIÓN DE LOS CENTROS DE SALUD.",
+            "txPgIndicador": "PORCENTAJE DE CALIDAD DEL SERVICIO DE SALUD EN EL DISTRITO",
+            "txPgMeta": "01 CENTROS DE SALUD EQUIPADO\n01 AMBULANCIA ADQUIRIDA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134985,
+            "txPgProblema": "INEXISTENCIA DE PISTAS Y VEREDAS",
+            "txPgObjetivo": "GESTIONAR LA CONSTRUCCIÓN DE PISTAS Y VEREDAS EN EL ÁMBITO DISTRITAL",
+            "txPgIndicador": "PORCENTAJE DE PISTAS Y VEREDAS EXISTENTES",
+            "txPgMeta": "1 EJECUCIÓN",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 134990,
+            "txPgProblema": "BAJO NIVEL PRODUCTIVO EN LAS ACTIVIDADES AGRÍCOLAS",
+            "txPgObjetivo": "GESTIÓN DE UN SISTEMA DE RIEGO TECNIFICADO",
+            "txPgIndicador": "PORCENTAJE DE PRODUCCIÓN AGRÍCOLA",
+            "txPgMeta": "1 GESTIÓN\n1 EJECUCIÓN",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 134995,
+            "txPgProblema": "LIMITADO APOYO Y PROMOCIÓN PARA EL TURISMO DISTRITAL",
+            "txPgObjetivo": "GESTIÓN PARA LA PUESTA EN VALOR DE LOS RECURSOS TURÍSTICOS (PURUN LLACTA, CORAZÓN, CALCUNGA)",
+            "txPgIndicador": "PORCENTAJE DE VISITAS DE TURISTAS NACIONALES E INTERNACIONALES",
+            "txPgMeta": "20% DE LOS INGRESOS FAMILIARES PROVIENEN DEL TURISMO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135003,
+            "txPgProblema": "DEFICIENTE COBERTURA DEL SERVICIO ELÉCTRICO",
+            "txPgObjetivo": "AMPLIAR LA COBERTURA DEL SERVICIO ELÉCTRICO",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN CON SERVICIO ELÉCTRICO",
+            "txPgMeta": "90% DE LA POBLACIÓN CUENTA CON SERVICIO ELÉCTRICO DE CALIDAD",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 135024,
+            "txPgProblema": "DEFICIENTES ACCESOS VIALES DEL DISTRITO, SUS ANEXOS Y RESPECTIVOS CASERÍOS ÁREAS AGRÍCOLAS",
+            "txPgObjetivo": "CONSTRUCCIÓN Y MEJORAMIENTO DE LOS SERVICIOS VIALES",
+            "txPgIndicador": "PORCENTAJE DE ACCESOS VIALES ADECUADOS",
+            "txPgMeta": "PORCENTAJE DE ACCESOS VIALES ADECUADOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135031,
+            "txPgProblema": "DEFICIENTE USO DEL RECURSO HÍDRICO",
+            "txPgObjetivo": "MEJORAR EL USO DEL AGUA A TRAVÉS DE LA CONSTRUCCIÓN DE UN SISTEMA DE RIEGO",
+            "txPgIndicador": "PORCENTAJE DE AGUA AHORRADA",
+            "txPgMeta": "01 SISTEMA DE RIEGO GESTIONADO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135043,
+            "txPgProblema": "DÉBIL GESTIÓN PARA EL CUIDADO DE LA BIODIVERSIDAD",
+            "txPgObjetivo": "FOMENTAR LA REFORESTACIÓN Y EL CUIDADO DE LAS ESPECIES",
+            "txPgIndicador": "PORCENTAJE DE VIVEROS Y ÁREAS REFORESTADAS",
+            "txPgMeta": "01 VIVEROS GESTIONADOS\n01 PROYECTO DE REFORESTACIÓN",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 135047,
+            "txPgProblema": "DEFICIENTE GESTIÓN DE LAS AUTORIDADES LOCALES",
+            "txPgObjetivo": "CONTAR CON EL EQUIPO TÉCNICO PARA GARANTIZAR LA BUENA GESTIÓN MUNICIPAL",
+            "txPgIndicador": "PORCENTAJE DE METAS MUNICIPALES ALCANZADAS",
+            "txPgMeta": "CUMPLIR CON LAS METAS MUNICIPALIDADES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135057,
+            "txPgProblema": "ESCASA MOTIVACIÓN EN LA CIUDADANÍA PARA PARTICIPAR EN EVENTOS DE INTERÉS SOCIAL",
+            "txPgObjetivo": "INVOLUCRAR A LA CIUDADANÍA EN LOS DIVERSOS EVENTOS SOCIALES DEL DISTRITO",
+            "txPgIndicador": "PORCENTAJE PARTICIPACIÓN DE LOS CIUDADANOS EN LOS EVENTOS SOCIALES",
+            "txPgMeta": "LOGRAR LA PARTICIPACIÓN ACTIVA DE LOS CIUDADANOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 135066,
+            "txPgProblema": "LOGRAR LA PARTICIPACIÓN ACTIVA DE LOS CIUDADANOS",
+            "txPgObjetivo": "MEJORAR LAS INSTALACIONES E INFRAESTRUCTURA DE LOCALES COMUNALES",
+            "txPgIndicador": "PORCENTAJE DE MEJORA DEL LOCAL MUNICIPAL",
+            "txPgMeta": "MUNICIPALIDAD ÓPTIMA PARA LA ATENCIÓN AL CIUDADANO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

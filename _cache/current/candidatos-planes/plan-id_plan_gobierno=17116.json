@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 17116,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2652,
+        "txOrganizacionPolitica": "CONTIGO CALLAO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1657,
+        "juradoElectoral": "CALLAO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/4c57a14b-5644-4437-9823-7632e000cf68.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/8e093df9-6f78-44f6-8e3c-1199ba4a7971.pdf",
+        "txCodExpedienteExt": "ERM.2022005891",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 126137,
+            "txPgProblema": "REDUCCIÓN DE POBLACIÓN TOTAL E INCREMENTO DE POBLACIÓN ELECTORAL",
+            "txPgObjetivo": "ESTABILIZAR EL VOLUMEN POBLACIONAL",
+            "txPgIndicador": "TASA DE CRECIMIENTO POBLACIONAL INTERCENSAL",
+            "txPgMeta": "DETENER LA REDUCCIÓN POBLACIONAL IMPULSADO LA POLÍTICA LOCAL DE CONDICIONES FAVORABLES PARA LA RESIDENCIA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126140,
+            "txPgProblema": "ENVEJECIMIENTO DE LA POBLACIÓN Y DISCAPACIDAD",
+            "txPgObjetivo": "SERVICIOS ADECUADOS PARA LA POBLACIÓN ADULTA, ADULTA MAYOR Y DISCAPACIDAD",
+            "txPgIndicador": "NÚMERO DE SERVICIOS ÓPTIMOS QUE USAN LOS ADULTOS MAYORES",
+            "txPgMeta": "CAPACITACIÓN Y RECREACIÓN PARA ADULTO MAYOR.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126142,
+            "txPgProblema": "POBLACIÓN “FLOTANTE”",
+            "txPgObjetivo": "FIJAR RESIDENCIA EN EL DISTRITO",
+            "txPgIndicador": "PROPORCIÓN DE POBLACIÓN FLOTANTE QUE RESIDA EN EL DISTRITO",
+            "txPgMeta": "ALCANZAR QUE EL 50% DE LA POBLACIÓN TOTAL FLOTANTE QUE RESIDA EN EL DISTRITO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 126143,
+            "txPgProblema": "CAPITAL HUMANO",
+            "txPgObjetivo": "PRESTAR SERVICIOS TECNOLÓGICOS Y DIGITALES DE CALIDAD",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN DE EDUCACIÓN SUPERIOR QUE PRESTA SERVICIOS DIGITALES",
+            "txPgMeta": "LOGRAR QUE EL 25% DE LA POBLACIÓN DE EDUCACIÓN SUPERIOR PRESTE SERVICIOS DIGITALES.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126144,
+            "txPgProblema": "POTENCIAL TURÍSTICO",
+            "txPgObjetivo": "DISTRITO TURÍSTICO PERMANENTE",
+            "txPgIndicador": "PORCENTAJE DE VISITANTES PERMANENTES",
+            "txPgMeta": "LOGRAR INCREMENTAR EN UN 30% LA DEMANDA CON RESPECTO A LOS RECURSOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126145,
+            "txPgProblema": "POTENCIAL GASTRONÓMICO",
+            "txPgObjetivo": "MALECÓN GASTRONÓMICO MARINO",
+            "txPgIndicador": "NÚMERO DE COMENSALES QUE LLEGAN AL MALECÓN GASTRONÓMICO",
+            "txPgMeta": "INCORPORARLOS EN EL PLAN ESTRATÉGICO DE DESARROLLO TURÍSTICO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 126146,
+            "txPgProblema": "CONTAMINACIÓN MODERADA DE LAS PLAYAS",
+            "txPgObjetivo": "PLAYAS LIMPIAS",
+            "txPgIndicador": "ÍNDICE DE CALIDAD DE PLAYAS",
+            "txPgMeta": "LOGRAR QUE EL 100% DE LAS PLAYAS SEAN LIMPIAS Y SALUDABLES.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126148,
+            "txPgProblema": "RESIDUOS SÓLIDOS NO RECICLADOS",
+            "txPgObjetivo": "RECICLAJE Y RECUPERACIÓN DE LOS RESIDUOS SÓLIDOS",
+            "txPgIndicador": "VOLÚMEN DE RESIDUOS SÓLIDOS RECICLADOS.",
+            "txPgMeta": "RECICLAR EL 100% DE LOS RESIDUOS SÓLIDOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126149,
+            "txPgProblema": "ZONAS DE ALTO RIESGO",
+            "txPgObjetivo": "PLAN TSUNAMI ACTUALIZADO Y DIGITALIZADO",
+            "txPgIndicador": "PROPORCIÓN DE POBLACIÓN CON PLENO CONOCIMIENTO DEL PLAN TSUNAMI",
+            "txPgMeta": "LOGRAR QUE EL 100% DE LA POBLACIÓN CONOZCA Y ASUMA EL PLAN TSUNAMI",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 126151,
+            "txPgProblema": "ESTRUCTURA ORGÁNICA",
+            "txPgObjetivo": "NUEVA GESTIÓN PÚBLICA EN EL GOBIERNO LOCAL DE PROCESOS POR RESULTADOS",
+            "txPgIndicador": "TIEMPO DE TRÁMITE DE ATENCIÓN DE EXPEDIENTES Y DE ACTOS ADMINISTRATIVOS.",
+            "txPgMeta": "LOGRAR QUE EL 50% DE LAS AREAS ADMINISTRATIVAS DIGITALICEN.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126154,
+            "txPgProblema": "DEBILIDAD INSTITUCIONAL SOBRE LA EFECTIVA PARTICIPACIÓN VECINAL",
+            "txPgObjetivo": "FUNCIONAMIENTO DE MECANISMOS QUE GARANTIZAN LA EFECTIVA PARTICIPACIÓN CIUDADANA EN LA TOMA DE DECISIONES",
+            "txPgIndicador": "NÚMERO DE ORGANIZACIONES VECINALES Y CIUDADANAS QUE PARTICIPAN EN LA TOMA DE DECISIONES SOBRE PROYECTOS",
+            "txPgMeta": "CONTAR CON UN PLAN ESTRATÉGICO DE PARTICIPACIÓN VECINAL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 126155,
+            "txPgProblema": "FALTA DE PARTICIPACIÓN ORGANIZADA DE LOS VECINOS EN EL DESARROLLO Y EJECUCIÓN DE OBRAS.",
+            "txPgObjetivo": "FUNCIONAMIENTO DE COMITÉS DE GESTIONES DE DESARROLLO",
+            "txPgIndicador": "PORCENTAJE DE ZONAS ORGANIZADAS EN COMITÉS DE GESTIÓN DE DESARROLLO",
+            "txPgMeta": "LOGRAR UN MÍNIMO DE TRES COMITÉS DE GESTIÓN DE DESARROLLO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

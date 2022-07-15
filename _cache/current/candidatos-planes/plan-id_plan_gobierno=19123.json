@@ -1,0 +1,95 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 19123,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1366,
+        "txOrganizacionPolitica": "FUERZA POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1728,
+        "juradoElectoral": "SULLANA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/788f8264-056c-43d7-8496-86f57e019f89.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/ca4d2480-874f-4820-b5a6-aa5959ddd4ba.pdf",
+        "txCodExpedienteExt": "ERM.2022016504",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 228357,
+            "txPgProblema": "- EXISTE UN ALTO NÚMERO DE HOGARES QUE CARECEN DE AGUA, DESAGÜE Y ENERGÍA ELÉCTRICA.",
+            "txPgObjetivo": "- FOMENTAR PROYECTOS DE AGUA, ENERGÍA ELÉCTRICA Y DESAGÜE EN EL DISTRITO DE LOS ÓRGANOS.",
+            "txPgIndicador": "- PORCENTAJE DEL ACCESO DE PERSONAS A LOS SERVICIOS BÁSICOS.",
+            "txPgMeta": "- INCREMENTO AL 20%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 228366,
+            "txPgProblema": "- EL NIVEL DE POBREZA Y DE DESIGUALDAD HA INCREMENTADO.",
+            "txPgObjetivo": "- SE PROPONE FOMENTAR INICIATIVAS PRODUCTIVAS PARA GENERAR PUESTOS DE TRABAJO.\n- FORTALECER ESPACIOS DE CONCERTACIÓN CON ORGANIZACIONES CIVILES PARA CONTRIBUIR A LA DISMINUCIÓN DE BRECHAS DE DESIGUALDAD.",
+            "txPgIndicador": "- PORCENTAJE PEA",
+            "txPgMeta": "- INCREMENTO DEL 4%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 228372,
+            "txPgProblema": "- INCREMENTO DEL MALTRATO A LA MUJER Y CADA DÍA ES ESCASO EL APOYO A LAS PERSONAS MÁS VULNERABLES.",
+            "txPgObjetivo": "- IMPLEMENTAR CASA REFUGIO MUNICIPAL PARA MUJERES MALTRATADAS Y SUS FAMILIAS. CREAR PROGRAMAS DE APOYO SOCIAL PARA LA MUJER.",
+            "txPgIndicador": "- PORCENTAJE DE MUJERES MALTRATADAS.",
+            "txPgMeta": "- DISMINUCIÓN DEL 30%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 228379,
+            "txPgProblema": "- LAS PRINCIPALES ACTIVIDADES PRODUCTIVAS QUE DINAMIZAN LA ECONOMÍA DEL DISTRITO, SE HAN VISTO AFECTADAS EN LOS ÚLTIMOS AÑOS PRINCIPALMENTE POR EL ESCASO APOYO DE LAS AUTORIDADES.",
+            "txPgObjetivo": "- IMPLEMENTACIÓN DEL PROCOMPITE DISTRITAL PERMITIRÁ MEJORAR LA COMPETITIVIDAD PRODUCTIVA DE LAS ORGANIZACIONES DE PRODUCTORES.",
+            "txPgIndicador": "- PORCENTAJE DE PRESUPUESTO DESTINADO AL FONDO PROCOMPITE",
+            "txPgMeta": "- DEL 6-10% DEL PRESUPUESTO DESTINADO A PROYECTOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 228382,
+            "txPgProblema": "- ESCASA INFRAESTRUCTURA DE PARA REALIZAR ACTIVIDADES PESQUERAS Y AGRÍCOLAS.",
+            "txPgObjetivo": "- IMPLEMENTACIÓN DE PROGRAMAS Y PROYECTOS PARA MEJORAR LA ACTIVIDAD AGRÍCOLA Y PESQUERA DEL DISTRITO.",
+            "txPgIndicador": "- NUMERO DE PESCADORES QUE COMERCIALIZAN PRODUCTOS HIDROBIOLÓGICOS EN EL DISTRITO.",
+            "txPgMeta": "- INCREMENTO AL 50%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 228387,
+            "txPgProblema": "- AFECTACIÓN DE ECOSISTEMAS PRODUCTO DE LA MANO DEL HOMBRE.",
+            "txPgObjetivo": "- ORDENAMIENTO URBANO DEL DISTRITO Y PROYECTOS DE VIVIENDAS SOCIALES.",
+            "txPgIndicador": "- DISMINUCIÓN DEL PORCENTAJE DEL CRECIMIENTO URBANO INFORMAL.",
+            "txPgMeta": "- 2.5% ANUAL DE DISMINUCIÓN DE PORCENTAJE DEL CRECIMIENTO URBANO INFORMAL.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 228391,
+            "txPgProblema": "- ALTOS NIVELES DE INSEGURIDAD CIUDADANA.",
+            "txPgObjetivo": "- CREACIÓN DE UN SISTEMA EFECTIVO DE SEGURIDAD CIUDADANA.",
+            "txPgIndicador": "- ÍNDICE DE CRIMINALIDAD.",
+            "txPgMeta": "- AL 2023 EL ÍNDICE DE CRIMINALIDAD SE REDUCIRÁ AL 8 %.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

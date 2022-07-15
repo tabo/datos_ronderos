@@ -1,0 +1,146 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 201022.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40017791",
+        "nombres": "JOSE ANTONIO",
+        "apellidoPaterno": "BUSTINZA",
+        "apellidoMaterno": "LUPINTA",
+        "sexo": "1",
+        "feNacimiento": "17/08/1978",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040211",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "CAYLLOMA",
+        "naciDistrito": "LLUTA",
+        "ubigeoDomicilio": "040211",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "CAYLLOMA",
+        "domiDistrito": "LLUTA",
+        "domicilioDirecc": "CENTRO POBLADO DE TAYA",
+        "ubigeoPostula": "040211",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "CAYLLOMA",
+        "postulaDistrito": "LLUTA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/201022.jpg",
+        "estado": "APELACIÓN",
+        "idOrganizacionPolitica": 2257.0,
+        "organizacionPolitica": "JUNTOS POR EL DESARROLLO DE AREQUIPA",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 17:47:52",
+        "txGuidFormatoHojaVida": "4716ce10-7af8-4063-8727-6b3c8db1a711",
+        "idSolicitudLista": 31639.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 172618,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CENTRO POBLADO DE TAYA",
+            "anioTrabajoDesde": "2000",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "040211",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "CAYLLOMA",
+            "trabajoDistrito": "LLUTA",
+            "idHojaVida": 201022,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 151325,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 201022,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 150203,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD NACIONAL DE SAN AGUSTIN",
+                "carreraUni": "SIGLO I",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 146753,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 60000.0,
+                "idHojaVida": 201022,
+                "idEstado": 1,
+                "totalIngresos": 60000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 158572,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "81192V ",
+                "valor": 3000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO ROJA USADA",
+                "comentario": null,
+                "idHojaVida": 201022,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

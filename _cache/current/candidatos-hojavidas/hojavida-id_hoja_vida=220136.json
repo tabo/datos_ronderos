@@ -1,0 +1,153 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 220136.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40664901",
+        "nombres": "PAUL CRISTHIAN",
+        "apellidoPaterno": "YAUYOS",
+        "apellidoMaterno": "LANDEO",
+        "sexo": "1",
+        "feNacimiento": "20/05/1980",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140109",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "LA VICTORIA",
+        "ubigeoDomicilio": "140625",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "HUAROCHIRI",
+        "domiDistrito": "SANTA EULALIA",
+        "domicilioDirecc": "MZ. I LT. 2 C.P. SAN PEDRO DE MAMA",
+        "ubigeoPostula": "140625",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "HUAROCHIRI",
+        "postulaDistrito": "SANTA EULALIA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/220136.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL",
+            " ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 11:30:32",
+        "txGuidFormatoHojaVida": "0f667d21-242a-401c-ae8b-13fcdfc9d783",
+        "idSolicitudLista": 34003.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 196799,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "EDIFICACIONES",
+            "rucTrabajo": null,
+            "direccionTrabajo": "PSJE. EL SOL  MZ. I , LT 2",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140625",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "HUAROCHIRI",
+            "trabajoDistrito": "SANTA EULALIA",
+            "idHojaVida": 220136,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 173364,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 220136,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 144117,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "CAPECO",
+                "carreraTecnico": "CONSTRUCCIÓN CIVIL",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 220136,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 149988,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 220136,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 162855,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 30000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 220136,
+                "idEstado": 1,
+                "totalIngresos": 30000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 173000,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "A6Y228 ",
+                "valor": 3400.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTO  - MARCA HONDA MOD CIVIL",
+                "comentario": null,
+                "idHojaVida": 220136,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

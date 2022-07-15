@@ -1,0 +1,105 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 19568,
+        "idTipoEleccion": 5,
+        "txTipoEleccion": "MUNICIPAL PROVINCIAL",
+        "idOrganizacionPolitica": 1366,
+        "txOrganizacionPolitica": "FUERZA POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1734,
+        "juradoElectoral": "TUMBES",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/f227111b-e5f2-4c20-a850-8040cd485df7.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/15cf5ab1-6145-41b6-b33b-37bc01a6dac3.pdf",
+        "txCodExpedienteExt": "ERM.2022017796",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 151094,
+            "txPgProblema": "1.FALTA DE AGUA, DESDE HACE MUCHOS AÑOS TODA LA PROVINCIA SUFRE POR LA FALTA DE AGUA LO CUAL HACE QUE MUCHOS DE LOS PROYECTOS DE DESARROLLO SE TRUNQUEN POR LA FALTA DE SERVICIOS BÁSICOS",
+            "txPgObjetivo": "MEJORAR EL SISTEMA DE AGUA POTABLE EN LA PROVINCIA",
+            "txPgIndicador": "N° VIVIENDAS CON SERVICIO",
+            "txPgMeta": "90%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 151121,
+            "txPgProblema": ".FALTA DE ALCANTARILLADO, LOS SISTEMAS DE ALCANTARILLADO CON LOS QUE CUENTA LA PROVINCIA NO FUERON PENSADOS PARA UN CRECIMIENTO DE LAS CIUDADES LO CUAL HA COLAPSADO Y SE DEBE DE PENSAR EN U SISTEMA INTEGRAL",
+            "txPgObjetivo": "MEJORAL ELSISTEMA DE ALCANTARILLADO Y LAS LAGUNAS DE OXIDACION",
+            "txPgIndicador": "N° VIVIENDAS CON SERVICIO",
+            "txPgMeta": "80%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 151145,
+            "txPgProblema": "1.\tMEJORAMIENTO DE LAS ZONAS AGRICOLAS, EN LOS ÚLTIMOS AÑOS NO SE A REALIZADO NADA PARA PODER AMPLIAR LA FRONTERA AGRÍCOLA",
+            "txPgObjetivo": "AMPLIACION DE LA FRONTERA AGRICOLA EN LA PROVINCIA",
+            "txPgIndicador": "HA",
+            "txPgMeta": "200 HA",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 151161,
+            "txPgProblema": "2.\tPROMOCIÓN DE LOS ATRACTIVOS TURÍSTICOS DE LA PROVINCIA PARA INCREMENTAR EL TURISMO Y GENERAR NUEVAS FUENTES DE TRABAJO",
+            "txPgObjetivo": "INCREMENTAR LA CANTIDAD DE TURISTAS QUE VISITAN LA ZONA",
+            "txPgIndicador": "N° DE TURISTAS QUE VISITAN LA ZONA",
+            "txPgMeta": "50% INCREMENTO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 151171,
+            "txPgProblema": "MEJORAR LA DISPOSICIÓN FINAL DE LOS DESAGÜES DE LA PROVINCIA EN LOS ÚLTIMOS AÑOS EL SISTEMA DE ALCANTARILLADO A COLAPSADO LO CUAL HACE QUE LA CONTAMINACIÓN SE INCREMENTE POR LA FALTA DE INTERÉS DE NUESTRAS AUTORIDADES",
+            "txPgObjetivo": "DISMINUIR LA CONTAMINACIÓN DE LA NAPA FREÁTICA DE LA PROVINCIA",
+            "txPgIndicador": "ENCUESTAS",
+            "txPgMeta": "100% DE LAS POZAS DE OXIDACIÓN INTERVENIDAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 151192,
+            "txPgProblema": "MEJORAMIENTO DE LAS CONDICIONES DE SALUBRIDAD DE LAS PLAYAS PARA DESTACAR COMO DESTINO TURÍSTICO, EN LA ACTUALIDAD MUCHAS DE LAS PLAYAS DEL LITORAL NO ESTÁN IMPLEMENTADAS CON LAS  CONDICIONES DE SALUBRIDAD",
+            "txPgObjetivo": "MEJORAR LA OFERTA TURÍSTICA DE LA PROVINCIA",
+            "txPgIndicador": "ENCUESTAS A LOS VISITANTES",
+            "txPgMeta": "100 % DE LAS PLAYAS Y DESTINOS TURÍSTICOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 151228,
+            "txPgProblema": "FORTALECIMIENTO DE LAS ORGANIZACIONES DE BASE,",
+            "txPgObjetivo": "PARA TRABAJAR DE MANERA ARTICULADA CON CADA INSTITUCIÓN",
+            "txPgIndicador": "UND",
+            "txPgMeta": "LOGRAR EL RECONOCIMIENTO DEL 80 % DE LAS ORGANIZACIONES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 151251,
+            "txPgProblema": "MEJORAR  Y ACTUALIZAR LOS  DOCUMENTOS DE GESTIÓN",
+            "txPgObjetivo": "LOGRAR UN DESARROLLO SOSTENIBLE Y ADECUADO",
+            "txPgIndicador": "DOC DE GESTION",
+            "txPgMeta": "100% DE LOS DOCUMENTOS DE GESTIÓN ACTUALIZADOS Y MEJORADOS PDU, PDT, PDI, PDC, OTROS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

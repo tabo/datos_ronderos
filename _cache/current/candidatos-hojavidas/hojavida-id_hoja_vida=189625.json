@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 189625.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40691731",
+        "nombres": "FELICIANO",
+        "apellidoPaterno": "ESCATE",
+        "apellidoMaterno": "TAIPE",
+        "sexo": "1",
+        "feNacimiento": "20/10/1980",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050804",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "HUANCA SANCOS",
+        "naciDistrito": "CARAPO",
+        "ubigeoDomicilio": "050804",
+        "domiDepartamento": "AYACUCHO",
+        "domiProvincia": "HUANCA SANCOS",
+        "domiDistrito": "CARAPO",
+        "domicilioDirecc": "ACCOSA S/N",
+        "ubigeoPostula": "050804",
+        "postulaDepartamento": "AYACUCHO",
+        "postulaProvincia": "HUANCA SANCOS",
+        "postulaDistrito": "CARAPO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/189625.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2710.0,
+        "organizacionPolitica": "ALIANZA POR NUESTRO DESARROLLO",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 19:59:23",
+        "txGuidFormatoHojaVida": "54598140-12d1-4045-a2db-7ea61d57b108",
+        "idSolicitudLista": 30142.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 189664,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "ACCOSA",
+            "ocupacionProfesion": "INDEPENDIENTE AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "PUEBLO DE ACCOSA",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "050804",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AYACUCHO",
+            "trabajoProvincia": "HUANCA SANCOS",
+            "trabajoDistrito": "CARAPO",
+            "idHojaVida": 189625,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 167110,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 189625,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 158211,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 12500.0,
+                "idHojaVida": 189625,
+                "idEstado": 1,
+                "totalIngresos": 12500.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 199687,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": " SECTOR LA VENTA BAJA MZ A LOTE 12   SANTIAGO - ICA - ICA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "11138875",
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 189625,
+                "idEstado": 1,
+                "flValor": "35000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 169030,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "D4K524 ",
+                "valor": 12000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTO",
+                "comentario": null,
+                "idHojaVida": 189625,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

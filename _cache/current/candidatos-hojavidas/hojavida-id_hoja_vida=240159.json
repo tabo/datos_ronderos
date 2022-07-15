@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 240159.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "45726110",
+        "nombres": "ELBER",
+        "apellidoPaterno": "VILLANUEVA",
+        "apellidoMaterno": "BAZAN",
+        "sexo": "1",
+        "feNacimiento": "12/02/1989",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "010204",
+        "naciDepartamento": "AMAZONAS",
+        "naciProvincia": "BAGUA",
+        "naciDistrito": "EL PARCO",
+        "ubigeoDomicilio": "010204",
+        "domiDepartamento": "AMAZONAS",
+        "domiProvincia": "BAGUA",
+        "domiDistrito": "EL PARCO",
+        "domicilioDirecc": "CASERIO SAN JOSE",
+        "ubigeoPostula": "010204",
+        "postulaDepartamento": "AMAZONAS",
+        "postulaProvincia": "BAGUA",
+        "postulaDistrito": "EL PARCO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/240159.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2878.0,
+        "organizacionPolitica": "VICTORIA AMAZONENSE",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 21:28:13",
+        "txGuidFormatoHojaVida": "bac4432b-04e9-46be-91ca-a732ea2c70fa",
+        "idSolicitudLista": 25815.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 176101,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "MOTOTAXISTA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASERIO SAN JOSE",
+            "anioTrabajoDesde": "2018",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "010204",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AMAZONAS",
+            "trabajoProvincia": "BAGUA",
+            "trabajoDistrito": "EL PARCO",
+            "idHojaVida": 240159,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "NO TIENE RUC"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 154489,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 240159,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 149011,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 7200.0,
+                "idHojaVida": 240159,
+                "idEstado": 1,
+                "totalIngresos": 7200.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 188431,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CASERIO SAN JOSE",
+                "comentario": "NO PAGA AUTOVALUO",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 240159,
+                "idEstado": 1,
+                "flValor": "10000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 160941,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "MOTO TAXI",
+                "marca": null,
+                "placa": "7755-7S",
+                "valor": 3500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR ROJA",
+                "comentario": null,
+                "idHojaVida": 240159,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,168 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 239779.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "41163544",
+        "nombres": "JONY MICHEL",
+        "apellidoPaterno": "HUAMAN",
+        "apellidoMaterno": "MONTENEGRO",
+        "sexo": "1",
+        "feNacimiento": "13/04/1981",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "061303",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "SAN PABLO",
+        "naciDistrito": "SAN LUIS",
+        "ubigeoDomicilio": "061303",
+        "domiDepartamento": "CAJAMARCA",
+        "domiProvincia": "SAN PABLO",
+        "domiDistrito": "SAN LUIS",
+        "domicilioDirecc": "CERCADO SAN LUIS",
+        "ubigeoPostula": "061303",
+        "postulaDepartamento": "CAJAMARCA",
+        "postulaProvincia": "SAN PABLO",
+        "postulaDistrito": "SAN LUIS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/239779.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 13:02:24",
+        "txGuidFormatoHojaVida": "49449787-c457-4c5f-bf9b-dfb08a225991",
+        "idSolicitudLista": 36295.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 172746,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CASERIO EL CHORRO",
+            "ocupacionProfesion": "DOCENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASERIO EL CHORRO",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "061304",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CAJAMARCA",
+            "trabajoProvincia": "SAN PABLO",
+            "trabajoDistrito": "TUMBADEN",
+            "idHojaVida": 239779,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 151493,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 239779,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 136680,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "ISP 13 DE JULIO DE 1882",
+                "carreraNoUni": "PROFESOR DE EDUCACION PRIMARIA",
+                "concluidoNoUni": "1",
+                "idHojaVida": 239779,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 141612,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 46,
+            "orgPolRenunciaOp": "PERU POSIBLE",
+            "anioRenunciaOp": "2017",
+            "idHojaVida": 239779,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 177558,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 35700.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 239779,
+                "idEstado": 1,
+                "totalIngresos": 35700.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 158764,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "7281WM ",
+                "valor": 6000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": null,
+                "idHojaVida": 239779,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 158763,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "5354DM ",
+                "valor": 2000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL COLOR ROJA MARCA",
+                "comentario": null,
+                "idHojaVida": 239779,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

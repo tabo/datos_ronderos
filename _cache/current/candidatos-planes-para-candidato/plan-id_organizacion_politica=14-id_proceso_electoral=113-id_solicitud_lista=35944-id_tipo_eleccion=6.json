@@ -1,0 +1,125 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 29270,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/ebde85f6-f709-46d6-b9d6-2a98f3078665.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/134df76f-938a-4d0d-8c3e-640ecb626125.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 179706,
+            "txPgProblema": "ALTA PREVALENCIA DE ANEMIA EN NIÑOS ENTRE 6 A 35 MESES, COMO EN MADRES GESTANTES.",
+            "txPgObjetivo": "DISMINUIR LA ANEMIA EN NIÑOS ENTRE 6 A 35 MESES, COMO EN MADRES GESTANTES.",
+            "txPgIndicador": "PROPORCIÓN DE NIÑOS ENTRE 6 Y 35 MESES CON ANEMIA, COMO EN MADRES GESTANTES.",
+            "txPgMeta": "30% - 5%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 179718,
+            "txPgProblema": "BAJOS NIVELES DE LOGROS DE APRENDIZAJE DE ESTUDIANTES DE NIVEL PRIMARIA Y SECUNDARIA.",
+            "txPgObjetivo": "INCREMENTAR LOS NIVELES DE LOGROS DE APRENDIZAJE DE ESTUDIANTES DE NIVEL PRIMARIA Y SECUNDARIA.",
+            "txPgIndicador": "PORCENTAJE DE ESTUDIANTES DE NIVEL PRIMARIA Y SECUNDARIA CON INDICES DE FRACASO ESCOLAR.",
+            "txPgMeta": "4.6% - 1%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 179731,
+            "txPgProblema": "ALTOS NIVELES DE HOGARES CON INADECUADOS SERVICIOS PÚBLICOS DE AGUA Y SANEAMIENTOS",
+            "txPgObjetivo": "DISMINUIR LOS NIVELES DE HOGARES CON INADECUADOS SERVICIOS DE AGUA Y SANEAMIENTOS",
+            "txPgIndicador": "PORCENTAJE DE HOGARES RURALES CON  SERVICIO DE AGUA CON CLORO RESIDUAL MENOR AL LIMITE PERMITIDO.",
+            "txPgMeta": "89% - 10%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 179738,
+            "txPgProblema": "ALTOS NIVELES DE VULNERABILIDAD ECONÓMICA",
+            "txPgObjetivo": "DISMINUIR LOS NIVELES DE VULNERABILIDAD ECONÓMICA",
+            "txPgIndicador": "PORCENTAJE DE POBREZA MONETARIA",
+            "txPgMeta": "31% - 20%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 179754,
+            "txPgProblema": "ALTOS NIVELES DE POBLACIÓN DESOCUPADA (PEA DESOCUPADA)",
+            "txPgObjetivo": "DISMINUIR LOS NIVELES DE POBLACIÓN DESOCUPADA (PEA DESOCUPADA)",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN ECONÓMICAMENTE ACTIVA (PEA)",
+            "txPgMeta": "22% - 28%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 179768,
+            "txPgProblema": "ALTOS NIVELES DE DESARTICULACIÓN VIAL",
+            "txPgObjetivo": "INCREMENTAR LOS NIVELES DE ARTICULACIÓN VIAL",
+            "txPgIndicador": "PORCENTAJE DE VÍAS VECINALES NO PAVIMENTADAS Y CON POCO MANTENIMIENTO.",
+            "txPgMeta": "90% - 60%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 179783,
+            "txPgProblema": "INADECUADA DISPOSICIÓN DE RESIDUOS SÓLIDOS",
+            "txPgObjetivo": "ADECUADA DISPOSICIÓN DE RESIDUOS SÓLIDOS",
+            "txPgIndicador": "PORCENTAJE DE TONELADAS DE RESIDUOS SÓLIDOS DISPUESTOS ADECUADAMENTE EN BOTADEROS",
+            "txPgMeta": "25% - 75%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 179798,
+            "txPgProblema": "LIMITADOS NIVELES DE FORESTACIÓN Y REFORESTACIÓN",
+            "txPgObjetivo": "INCREMENTAR LOS NIVELES DE FORESTACIÓN Y REFORESTACIÓN",
+            "txPgIndicador": "NÚMERO DE (HAS) DE FORESTACIÓN Y REFORESTACIÓN POR AÑO",
+            "txPgMeta": "2% - 6%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 179816,
+            "txPgProblema": "BAJOS NIVELES DE EJECUCIÓN PRESUPUESTAL",
+            "txPgObjetivo": "INCREMENTAR OS NIVELES DE EJECUCIÓN PRESUPUESTARIA",
+            "txPgIndicador": "PORCENTAJE DE EJECUCIÓN PRESUPUESTAL",
+            "txPgMeta": "70% - 95%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 179860,
+            "txPgProblema": "LIMITADOS ESPACIOS DE PARTICIPACIÓN CIUDADANA",
+            "txPgObjetivo": "INCREMENTAR LOS ESPACIOS DE PARTICIPACIÓN CIUDADANA",
+            "txPgIndicador": "PORCENTAJE DE ORGANIZACIONES QUE ASISTEN A ESPACIOS DE PARTICIPACIÓN CIUDADANA",
+            "txPgMeta": "50% - 90%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

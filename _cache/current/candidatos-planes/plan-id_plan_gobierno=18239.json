@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 18239,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2173,
+        "txOrganizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1680,
+        "juradoElectoral": "HUANUCO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/992f6a00-4c78-409d-8a7c-14c45e13b5e8.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/b3e7666c-67ed-4e11-b020-9948667ab870.pdf",
+        "txCodExpedienteExt": "ERM.2022006933",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 132596,
+            "txPgProblema": "ALTOS ÍNDICES DE ENFERMEDADES DIARREICAS, GASTROINTESTINALES Y DÉRMICAS EN LA POBLACIÓN EN SITUACIÓN DE VULNERABILIDAD.",
+            "txPgObjetivo": "CREACIÓN, MEJORAMIENTO Y AMPLIACIÓN DE LOS SERVICIOS DE AGUA POTABLE, ALCANTARILLADO Y UNIDADES BÁSICAS DE SANEAMIENTO (UBS) EN EL ÁMBITO DEL DISTRITO DE MARGOS.",
+            "txPgIndicador": "PORCENTAJE DE INCIDENCIA DE ENFERMADES DE DIARREICAS, GASTROINTESTINALES Y DÉRMICAS",
+            "txPgMeta": "MEJORAR LOS SERVICIOS DE AGUA POTABLE, DESAGÜE, ALCANTARILLADO Y UNIDADES BÁSICAS DE SANEAMIENTO (UBS) EN UN 10% CADA AÑO EN EL ÁMBITO DISTRITAL.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132606,
+            "txPgProblema": "BAJO NIVEL DE RENDIMIENTO ACADÉMICO Y INFRAESTRUCTURAS INADECUADAS EN EL ÁMBITO DISTRITAL DE MARGOS.",
+            "txPgObjetivo": "CREACIÓN, MEJORAMIENTO Y AMPLIACIÓN EL SERVICIO DE INSTITUCIONES EDUCATIVAS DE NIVEL INICIAL, PRIMARIA Y SECUNDARIA EN AL ÁMBITO DEL DISTRITO DE MARGOS.",
+            "txPgIndicador": "PORCENTAJE DE RENDIMIENTO ACADEMICO Y PORCENTAJE DE INFRAESTRUCTURAS EDUCATIVA EN BUENAS CONDICIONES",
+            "txPgMeta": "MEJORAR LA INFRAESTRUCTURAS E EQUIPAMIENTO EDUCATIVAS EN UN 10% CADA AÑO EN EL ÁMBITO DISTRITAL.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132615,
+            "txPgProblema": "DEFICIENCIA HOSPITALARIA Y EQUIPAMIENTO DE LOS PUESTOS DE SALUD EN EL ÁMBITO DEL DISTRITO DE MARGOS.",
+            "txPgObjetivo": "CREACIÓN, MEJORAMIENTO Y AMPLIACIÓN, CENTROS DE SALUD Y PUESTOS DE SALUD EN AL ÁMBITO DEL DISTRITO DE MARGOS.",
+            "txPgIndicador": "REDUCIR LA BRECHA DE INFRAESTRUCTURAS E EQUIPAMIENTO DE SERVICIOS DE SALUD EN UN 8% CADA AÑO.",
+            "txPgMeta": "MEJORAR LA INFRAESTRUCTURAS E EQUIPAMIENTO DE SALUD EN UN 8% CADA AÑO EN EL ÁMBITO DISTRITAL.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 132630,
+            "txPgProblema": "BAJA PRODUCCIÓN AGRÍCOLA Y PECUARIA EN LAS ZONAS RURALES DEL DISTRITO DE MARGOS.",
+            "txPgObjetivo": "CREACIÓN, MEJORAMIENTO Y AMPLIACIÓN DE RESERVORIOS Y CANALES DE SISTEMAS DE RIEGO TECNIFICADO EN EL ÁMBITO DEL DISTRITO DE MARGOS.",
+            "txPgIndicador": "PORCENTAJE DE PRODUCCION DE AGRICULTURA Y PECUARIA",
+            "txPgMeta": "INCLUIR MÁS DE 500 HA. DE SUPERFICIE AGRÍCOLA BAJO RIEGO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132642,
+            "txPgProblema": "INFRAESTRUCTURA VIAL EN MAL ESTADO DE TRANSITABILIDAD",
+            "txPgObjetivo": "CREACIÓN, MEJORAMIENTO Y AMPLIACIÓN DE TROCHAS CARROZABLES Y CAMINOS VECINALES EN EL ÁMBITO DEL DISTRITO DE MARGOS.",
+            "txPgIndicador": "PORCENTAJE DE INFRAESTRUCTURA VIAL EN BUEN ESTADO",
+            "txPgMeta": "80 KILÓMETROS DE INFRAESTRUCTURA VIAL EN BUEN ESTADO DE TRANSITABILIDAD",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132655,
+            "txPgProblema": "LIMITA ACCESO AL SERVICIO DE TITULACION DE TIERRAS",
+            "txPgObjetivo": "PROMEVER LA TITULACION DE TIERRAS CON FINES AGRICOLAS EN EL ÁMBITO DEL DISTRITO DE MARGOS.",
+            "txPgIndicador": "PORCENTAJE DE POBLADORES QUE CUENTAN CON TITULO",
+            "txPgMeta": "40% DE SUPERFICIE DE TIERRAS TITULADAS EN EL AMBITO DISTRITAL.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 132671,
+            "txPgProblema": "INADECUADA GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "PROMOVER LA GESTION INTEGRAL DE RESIDUO SOLIDOS EN EL AMBITO DEL DISTRITO",
+            "txPgIndicador": "TONELADAS METRICAS DE RESIDUOS SOLIDOS TRATADOS",
+            "txPgMeta": "126 TONELADAS METRICAS DE RESIDUOS SOLIDOS TRATADOS ANUALMENTE",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132681,
+            "txPgProblema": "PRACTICAS INADECUADAS DE CONSERVACION AMBIENTAL.",
+            "txPgObjetivo": "FORESTAR Y REFORESTAR LAS RIBERAS DE LOS RÍOS, QUEBRADAS, CUENCAS Y CERROS EN EL ÁMBITO DEL DISTRITO DE MARGOS",
+            "txPgIndicador": "PORCENTAJE DE SUPERFICIE REFORESTADA",
+            "txPgMeta": "65% DE SUPERFICIE REFORESTADAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132717,
+            "txPgProblema": "CONTAMINACION AMBIENTAL CON PRESENCIA DE PARTICULAS SUSPENDIDOS EN EL AIRE (POLVO)",
+            "txPgObjetivo": "MEJORAMIENTO DE PLAZAS DE ARMAS DE LOS CENTROS POBLADOS DE COCHAS, COLPASHPAMPA Y PACAYHUA.",
+            "txPgIndicador": "REDUCIR LA CONTAMINACION DEL AIRE",
+            "txPgMeta": "03 OBRAS EJECUTADAS – PISTAS Y VEREDAS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 132734,
+            "txPgProblema": "ESPACIOS PÚBLICOS INEXISTENTES, DETERIORADOS EN DIVERSOS CENTROS POBLADOS Y ANEXOS.",
+            "txPgObjetivo": "CREACIÓN, MEJORAMIENTO Y AMPLIACIÓN DEL PALACIO MUNICIPAL Y LOCALES COMUNALES EN EL ÁMBITO DEL DISTRITO DE MARGOS.",
+            "txPgIndicador": "PORCENTAJE DE INSTITUCIONES PUBLICAS EN BUEN ESTADO",
+            "txPgMeta": "60% DE LOCALES COMUNALES DEL ÁMBITO DE DISTRITAL.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132746,
+            "txPgProblema": "DEFICIENTE SISTEMA DE SEGURIDAD EN EL AMBITO DEL DISTRITO",
+            "txPgObjetivo": "GARANTIZAR LA SEGURIDAD DE LA POBLACION DISTRITAL Y DE SU ENTORNO",
+            "txPgIndicador": "PORCENTAJE DE POBLACION QUE TRANSITA DE MANERA SEGURA",
+            "txPgMeta": "60% DE LA POBLACION QUE TRANSITA DE MANERA SEGURA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132757,
+            "txPgProblema": "DEFICIENTES SERVICIOS ADMINISTRATIVOS Y DE ATENCIÓN A LOS USUARIOS",
+            "txPgObjetivo": "MEJORAR LOS SERVICIOS ADMINISTRATIVOS Y ATENCIÓN AL USUARIO EN EL DISTRITO DE MARGOS.",
+            "txPgIndicador": "REDUCIR LA EXCESIVA BUROCRACIA EN LA MUNICIPALIDAD DE MARGOS.",
+            "txPgMeta": "SIMPLIFICACIÓN ADMINISTRATIVA Y DESBUROCRATIZACIÓN AL 50%.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

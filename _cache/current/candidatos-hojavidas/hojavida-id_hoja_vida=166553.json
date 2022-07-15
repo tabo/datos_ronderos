@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 166553.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42575566",
+        "nombres": "ALICIA",
+        "apellidoPaterno": "RAYMUNDO",
+        "apellidoMaterno": "BARRIENTOS",
+        "sexo": "2",
+        "feNacimiento": "14/07/1984",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050704",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "VICTOR FAJARDO",
+        "naciDistrito": "CANARIA",
+        "ubigeoDomicilio": "050704",
+        "domiDepartamento": "AYACUCHO",
+        "domiProvincia": "VICTOR FAJARDO",
+        "domiDistrito": "CANARIA",
+        "domicilioDirecc": "C.P.M.DE TACA",
+        "ubigeoPostula": "050704",
+        "postulaDepartamento": "AYACUCHO",
+        "postulaProvincia": "VICTOR FAJARDO",
+        "postulaDistrito": "CANARIA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/166553.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2861.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL AGUA",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 14:14:17",
+        "txGuidFormatoHojaVida": "a71dd953-4211-439f-87ae-2b1b64ff8108",
+        "idSolicitudLista": 27028.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 234939,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "TACA",
+            "ocupacionProfesion": "NEGOCIANTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CP TACA",
+            "anioTrabajoDesde": "2017",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "050704",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AYACUCHO",
+            "trabajoProvincia": "VICTOR FAJARDO",
+            "trabajoDistrito": "CANARIA",
+            "idHojaVida": 166553,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 207341,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 166553,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 160771,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 8,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2007",
+            "idHojaVida": 166553,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 160770,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 179,
+            "orgPolRenunciaOp": "PARTIDO NACIONALISTA PERUANO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 166553,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 188204,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 8000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 166553,
+                "idEstado": 1,
+                "totalIngresos": 8000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 191288,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "M1N235 ",
+                "valor": 60000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMIONETA 4X4 CERRADO COLOR AZUL",
+                "comentario": "VWHICULO FAMILIAR",
+                "idHojaVida": 166553,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

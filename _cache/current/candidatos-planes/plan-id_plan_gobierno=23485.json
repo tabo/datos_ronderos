@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23485,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 4,
+        "txOrganizacionPolitica": "ACCION POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1704,
+        "juradoElectoral": "MARISCAL CACERES",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/ca3d66e3-4c9b-4d2e-ac26-e3b9e734a927.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/3167fa28-29ef-4f67-aa03-30c401db669f.pdf",
+        "txCodExpedienteExt": "ERM.2022015693",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 199881,
+            "txPgProblema": "PESIMA ADMINISTRACIÒN\nBAJA POLICIA\nVIOLENCIA FAMILIAR",
+            "txPgObjetivo": "REINGENIERÌA\nTRASLADO DE BASURA / MOTOCAR\nAPOYO FISCALIA PNP",
+            "txPgIndicador": "INEFICIENTE\nNO HAY\nVIOLACIONES",
+            "txPgMeta": "EFICIENTE 100%\nGENERACIÒN TRABAJO\nCASAS REFUGIO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 200001,
+            "txPgProblema": "DATA NO EXISTE\nDEBIL ECONOMÌA\nPYMES",
+            "txPgObjetivo": "SUB GERENCIA DESARROLLO AGROPECUARIO\nCONSTRUCCIÒN CARRETERRAS Y PONTONES\nAPOYO BUSQUEDA DE MERCADO",
+            "txPgIndicador": "FALTA PLANIFICACIÒN\nNO HAY EMPLEO\nPEA SIN APOYO",
+            "txPgMeta": "100%\nTRABAJO PARA 40% PEA\n50 %",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 200054,
+            "txPgProblema": "SUELOS CONTAMINADOS\nAGUA NO POTABLE\nINUNDACIONES",
+            "txPgObjetivo": "RELLENO SANITARIO, RECICLAJE\nPOTABILIZACIÒN\nDEFENSAS RIBEREÑAS",
+            "txPgIndicador": "BAJA PRODUCTIVIDAD\nANEMIA\nPELIGRO CONSTANTE",
+            "txPgMeta": "60%\n100%\n50%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 200150,
+            "txPgProblema": "CORRUPCIÒN\nMUNICIPALIDAD / CASERÌOS\nRONDAS CAMPESINAS",
+            "txPgObjetivo": "PROCURADOR, OCI\nNÙCLEOS EJECUTADORES\nSEGURIDAD CIUDADANA",
+            "txPgIndicador": "CONTRATOS\nFALTA DE OBRAS\nROBOS DE PALMERAS",
+            "txPgMeta": "100%\n100%\n100%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

@@ -1,0 +1,156 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 234474.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42572909",
+        "nombres": "LEONARDO MARTIN",
+        "apellidoPaterno": "HIDALGO",
+        "apellidoMaterno": "MACEDO",
+        "sexo": "1",
+        "feNacimiento": "13/08/1984",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "210601",
+        "naciDepartamento": "SAN MARTIN",
+        "naciProvincia": "SAN MARTIN",
+        "naciDistrito": "TARAPOTO",
+        "ubigeoDomicilio": "210621",
+        "domiDepartamento": "SAN MARTIN",
+        "domiProvincia": "SAN MARTIN",
+        "domiDistrito": "LA BANDA DE SHILCAYO",
+        "domicilioDirecc": "CALLE MIGUEL GRAU MZ.9 LT.12 ASENT.H. SATELITE",
+        "ubigeoPostula": "210621",
+        "postulaDepartamento": "SAN MARTIN",
+        "postulaProvincia": "SAN MARTIN",
+        "postulaDistrito": "LA BANDA DE SHILCAYO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/234474.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 2722.0,
+        "organizacionPolitica": "UNION REGIONAL",
+        "numeroCandidato": 6.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 17:11:19",
+        "txGuidFormatoHojaVida": "f9291ea8-f69c-4c69-82bf-01b85b1d1e8b",
+        "idSolicitudLista": 35663.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 205638,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "RADIO CASETTE",
+            "ocupacionProfesion": "MUSICO BATERISTA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "TARAPOTO",
+            "anioTrabajoDesde": "2014",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "210601",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "SAN MARTIN",
+            "trabajoProvincia": "SAN MARTIN",
+            "trabajoDistrito": "TARAPOTO",
+            "idHojaVida": 234474,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 180965,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 234474,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 152712,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 59,
+            "orgPolRenunciaOp": "PARTIDO RECONSTRUCCION DEMOCRATICA",
+            "anioRenunciaOp": "2007",
+            "idHojaVida": 234474,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 168670,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 10800.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 234474,
+                "idEstado": 1,
+                "totalIngresos": 10800.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 177669,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "1563JS ",
+                "valor": 1500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOKAR",
+                "comentario": null,
+                "idHojaVida": 234474,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 177668,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "80353D ",
+                "valor": 10000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": null,
+                "idHojaVida": 234474,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

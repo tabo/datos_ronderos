@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 22527,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1366,
+        "txOrganizacionPolitica": "FUERZA POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/ee508858-7c79-4187-b475-33128b31bbb4.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/bc863043-002e-4919-b7e3-60f7c5f1108c.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 224251,
+            "txPgProblema": "INFRAESTRUCTURA INADECUADA PARA GARANTIZAR LA CALIDAD EDUCATIVA",
+            "txPgObjetivo": "IE CON PRESUPUESTO ADECUADO PARA EL MANTENIMIENTO DE LA INFRAESTRUCTURA E IMPLEMENTACION OPORTUNA DE LOS SERVICIOS EDUCATIVOS",
+            "txPgIndicador": "NUMERO DE IE CON PRESUPUESTO ADECUADO",
+            "txPgMeta": "70%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 224308,
+            "txPgProblema": "IE NO CUENTAN CON SERVICIO DE INTERNET",
+            "txPgObjetivo": "IE URBANAS Y RURALES CON SERVICIOS DE TELECOMUNICACION EN TIEMPO REAL",
+            "txPgIndicador": "NUMERO DE IE CON SERVICIO DE TELECOMUNICACION OPERATIVOS",
+            "txPgMeta": "100%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 224331,
+            "txPgProblema": "DOCENTES NO ACTUALIZADOS",
+            "txPgObjetivo": "DOCENTES DEBIDAMENTE ACTUALIZADOS EN CONOCIMIENTOS ACORDE AL DESARROLLO TECNOLOGICO",
+            "txPgIndicador": "NUMERO DE DOCENTES CAPACITADOS",
+            "txPgMeta": "100%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 224362,
+            "txPgProblema": "FALTA DE RIEGO",
+            "txPgObjetivo": "CONSTRUCCION DE RESERVORIOS EN ZONAS ESTRATEGICAS",
+            "txPgIndicador": "NUMERO DE RESERVORIOS CONSTRUIDOS Y OPERATIVOS",
+            "txPgMeta": "20 RESERVORIOS CONSTRUIDOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 224388,
+            "txPgProblema": "FALTA DE VALOR AGREGADO A PRODUCCION AGRICOLA",
+            "txPgObjetivo": "CREACION, IMPLEMENTACION Y PUESTA EN MARCHA DE MICROPLANTAS PROCESADORAS",
+            "txPgIndicador": "NUMERO DE MICROPLANTAS DE PROCESAMIENTO CONSTRUIDAS Y OPERATIVAS",
+            "txPgMeta": "10 MICROPLANTAS PROCESADORAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 224428,
+            "txPgProblema": "AGRICULTURA AFECTADA POR LOS EMBATES DE LA NATURALEZA",
+            "txPgObjetivo": "CREACION DE LA AUTORIDAD AUTONOMA DE PROTECCION AGRICOLA",
+            "txPgIndicador": "UNIDAD IMPLEMENTADA Y OPERATIVA",
+            "txPgMeta": "AAPA OPERATIVA",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 224461,
+            "txPgProblema": "CONTAMINACION AMBIENTAL DE CUENCAS HIDROGRAFICAS",
+            "txPgObjetivo": "IMPLEMENTAR Y OPERATIVIZAR LA NORMATIVA ADECUADA",
+            "txPgIndicador": "PORCENTAJE DE DISMINUCION DE CONTAMINACION",
+            "txPgMeta": "30%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 224487,
+            "txPgProblema": "CONTAMINACION AMBIENTAL DE RESERVAS Y MEDIOAMBIENTE",
+            "txPgObjetivo": "IMPLEMENTAR Y OPERATIVIZAR  LA NORMATIVA ADECUADA",
+            "txPgIndicador": "PORCENTAJE DE DISMINUCION DE CONTAMINACION",
+            "txPgMeta": "30%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 224514,
+            "txPgProblema": "MANEJO INADECUADO DE LAS CUENCAS HIDROGRAFICAS",
+            "txPgObjetivo": "IMPLEMENTAR Y OPERATIVIZAR LA NORMATIVA ADECUADA",
+            "txPgIndicador": "PORCENTAJE DE MANEJO ADECUADO Y UTIL DE CUENCAS",
+            "txPgMeta": "40%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 224551,
+            "txPgProblema": "EXCESIVA BUROCRATIZACION EN LA SOLUCION DE DEMANDAS DE LA POBLACION",
+            "txPgObjetivo": "DESCONGESTIONAR LOS PROCESOS OPERATIVOS EN SUS DIVERSAS INSTANCIAS",
+            "txPgIndicador": "PORCENTAJE DE ATENCION ADECUADA",
+            "txPgMeta": "80%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 224590,
+            "txPgProblema": "CENTRALIZACION DE COMPETENCIAS",
+            "txPgObjetivo": "DESCONCENTRACION Y DELEGACION DE FACULTADES EN LOS DIFERENTES NIVELES",
+            "txPgIndicador": "PORCENTAJE EN EFICIENCIA DE ATENCION",
+            "txPgMeta": "90%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 224609,
+            "txPgProblema": "CORRUPCION EN DIFERENTES NIVELES DE GESTION INSTITUCIONAL",
+            "txPgObjetivo": "FORTALECER OCI",
+            "txPgIndicador": "PORCENTAJE EN DISMINUCION DE INCIDENCIAS",
+            "txPgMeta": "60%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

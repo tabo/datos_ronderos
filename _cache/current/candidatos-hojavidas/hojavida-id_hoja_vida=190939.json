@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 190939.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "15947437",
+        "nombres": "YONGALEN JOSE",
+        "apellidoPaterno": "FIGUEROA",
+        "apellidoMaterno": "BUENO",
+        "sexo": "1",
+        "feNacimiento": "06/09/1966",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140811",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "HUARAL",
+        "naciDistrito": "SANTA CRUZ DE ANDAMARCA",
+        "ubigeoDomicilio": "140119",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "PUENTE PIEDRA",
+        "domicilioDirecc": "MZ.J LT.1 LOS JAZMINES LA ENSENADA",
+        "ubigeoPostula": "140811",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "HUARAL",
+        "postulaDistrito": "SANTA CRUZ DE ANDAMARCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/190939.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 4.0,
+        "organizacionPolitica": "ACCION POPULAR",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 18:09:36",
+        "txGuidFormatoHojaVida": "95104705-42fd-4bed-a04a-e84ee3a9cb9a",
+        "idSolicitudLista": 30314.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 172224,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MARSH REHDER SAC",
+            "ocupacionProfesion": "TECNICO INFORMATICO",
+            "rucTrabajo": "20100126193",
+            "direccionTrabajo": "LAS ORQUIDEAS N 675",
+            "anioTrabajoDesde": "2001",
+            "anioTrabajoHasta": "2018",
+            "ubigeoTrabajo": "140124",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "SAN ISIDRO",
+            "idHojaVida": 190939,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 150991,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 190939,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 138310,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "SOCIEDAD NACIONAL DE INFORMATICA",
+                "carreraTecnico": "TECNICO INFORMATICO",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 190939,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 146501,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 18000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 190939,
+                "idEstado": 1,
+                "totalIngresos": 18000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 185278,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "MZ J LOTE 1 - ASENTAMIENTO HUMANO LOS JAZMINES - DPTO: LIMA PROV: LIMA DIST: PUENTE PIEDRA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "55614672",
+                "fichaTomoSunarp": null,
+                "autovaluo": 200.0,
+                "idHojaVida": 190939,
+                "idEstado": 1,
+                "flValor": "200000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 158365,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "UO5215 ",
+                "valor": 15000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "BLANCO",
+                "comentario": null,
+                "idHojaVida": 190939,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

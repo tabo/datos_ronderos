@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 26581,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2712,
+        "txOrganizacionPolitica": "TODOS POR EL GRAN CAMBIO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/4c9b302e-d855-4af8-978b-6a60b40a4c77.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/3001b407-13b6-4db7-bd14-9499f8c2827b.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 198546,
+            "txPgProblema": "INFRAESTRUCTURA Y MOBILIARIOS EDUCATIVOS DE NIVEL INICIAL, PRIMARIO Y SECUNDARIO EN MAL ESTADO.",
+            "txPgObjetivo": "CREAR, MEJORAR Y AMPLIAR LOS SERVICIOS EDUCATIVOS EN EL ÁMBITO DISTRITAL.",
+            "txPgIndicador": "PORCENTAJE DE INSTITUCIONES EDUCATIVAS.",
+            "txPgMeta": "CONSTRUIR Y EQUIPAR 20% DE LAS INSTITUCIONES EDUCATIVAS.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 198560,
+            "txPgProblema": "LAS PERSONAS QUE NECESITAN ASISTENCIA MÉDICA NO PUEDEN ATENDERSE     OPORTUNAMENTE EN EL CENTRO DE SALUD Y HOSPITAL.",
+            "txPgObjetivo": "CREAR, MEJORAR Y AMPLIAR LOS SERVICIOS DE SALUD EN EL ÁMBITO DISTRITAL.",
+            "txPgIndicador": "PORCENTAJE DE CENTROS Y PUESTOS DE SALUD.",
+            "txPgMeta": "CONSTRUIR Y EQUIPAR EL 20% DE LOS CENTROS Y POSTAS DE SALUD",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 198579,
+            "txPgProblema": "ALTOS ÍNDICES DE ENFERMEDADES DIARREICAS, GASTROINTESTINALES Y DÉRMICAS EN LA POBLACIÓN EN\nSITUACIÓN DE VULNERABILIDAD.",
+            "txPgObjetivo": "CREAR, MEJORAR Y AMPLIAR LOS SERVICIOS DE AGUA POTABLE, ALCANTARILLADO Y UNIDADES BÁSICAS DE SANEAMIENTO EN EL ÁMBITO DISTRITAL.",
+            "txPgIndicador": "PORCENTAJE SISTEMA DE AGUA Y SANEAMIENTO",
+            "txPgMeta": "CONSTRUIR, AMPLIAR Y MEJORAR EL 20% DE LOS SERVICIOS DE AGUA Y SANEAMIENTO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 198591,
+            "txPgProblema": "BAJA PRODUCCIÓN Y PRODUCTIVIDAD AGRÍCOLA",
+            "txPgObjetivo": "CREACIÓN DE INFRAESTRUCTURAS DE RIEGO TECNIFICADO EN EL ÁMBITO DISTRITAL.",
+            "txPgIndicador": "PORCENTAJE DE INFRAESTRUCTURA DE RIEGO",
+            "txPgMeta": "INCLUIR MÁS DE 50 HAS., DE SUPERFICIE AGRÍCOLA BAJO RIEGO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 198607,
+            "txPgProblema": "BAJO NIVEL DE TRANSITABILIDAD VEHICULAR EN LAS VÍAS DEPARTAMENTALES",
+            "txPgObjetivo": "CREAR, MEJORAR Y AMPLIAS LOS CAMINOS VECINALES EN EL ÁMBITO DISTRITAL.",
+            "txPgIndicador": "PORCENTAJE DE CAMINOS VECINALES",
+            "txPgMeta": "20% DE CAMINOS VECINALES EN BUEN ESTADO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 198620,
+            "txPgProblema": "BAJO NIVEL DE ELECTRIFICACIÓN RURAL",
+            "txPgObjetivo": "CREAR, MEJORAR Y AMPLIAR LOS SERVICIOS DE ELECTRIFICACIÓN EN EL ÁMBITO DISTRITAL.",
+            "txPgIndicador": "PORCENTAJE DE VIVIENDAS ELECTRIFICADAS",
+            "txPgMeta": "20% DE ELECTRIFICACIÓN RURAL.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 198634,
+            "txPgProblema": "ALTOS ÍNDICES DE CONTAMINACIÓN AMBIENTAL POR RESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "CREACIÓN E IMPLEMENTACIÓN DE UNA PLANTA DE TRATAMIENTO DE RESIDUOS SÓLIDOS",
+            "txPgIndicador": "PORCENTAJE DE RESIDUOS SÓLIDOS TRATADOS",
+            "txPgMeta": "25% DE RESIDUOS SÓLIDOS TRATADOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 198650,
+            "txPgProblema": "INCREMENTO DE ENFERMEDADES RESPIRATORIOS DERIVADOS DE LA CONTAMINACIÓN DEL AIRE",
+            "txPgObjetivo": "FORESTACIÓN Y REFORESTACIÓN DE LOS BORDES DE LAS CARRETERAS VECINALES DEL ÁMBITO DISTRITAL (MITIGAR LOS ACCIDENTES DE TRÁNSITO).",
+            "txPgIndicador": "PORCENTAJE DE PERSONAS CON ENFERMEDADES RESPIRATORIOS",
+            "txPgMeta": "FORESTAR Y REFORESTAR EL 20% DE LA RIVERA DE LOS RÍOS Y QUEBRADAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 198664,
+            "txPgProblema": "INCREMENTO DE ZONA DE RIESGO EN LA RIBERA DE LOS RÍOS Y QUEBRADAS",
+            "txPgObjetivo": "FORESTACIÓN Y REFORESTACIÓN DE CERROS, QUEBRADAS, CUENCA Y RIBERAS DE LOS RÍOS Y TRATAMIENTO PAISAJÍSTICO EN EL ÁMBITO DISTRITAL.",
+            "txPgIndicador": "PORCENTAJE DE DEFENSAS RIBEREÑAS Y TRATAMIENTO PAISAJÍSTICO",
+            "txPgMeta": "20% DE CONSTRUCCIÓN DE DEFENSAS RIBEREÑAS Y TRATAMIENTO PAISAJÍSTICO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 198680,
+            "txPgProblema": "BAJO NIVEL DE EJECUCIÓN DE INVERSIÓN PUBLICA",
+            "txPgObjetivo": "IMPLEMENTACIÓN DEL PLAN DE DESARROLLO URBANO EN EL ÁMBITO DISTRITAL.",
+            "txPgIndicador": "PORCENTAJE DE PLANES DE DESARROLLO URBANO",
+            "txPgMeta": "100% DE PLANIFICACIÓN URBANA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 198688,
+            "txPgProblema": "ESCASA PLANIFICACIÓN EN LA GESTIÓN MUNICIPAL",
+            "txPgObjetivo": "ELABORACIÓN DE LOS DOCUMENTOS DE GESTIÓN PARA MODERNIZACIÓN DE LA GESTIÓN MUNICIPAL.",
+            "txPgIndicador": "PORCENTAJE DE DOCUMENTOS DE GESTIÓN ELABORADOS",
+            "txPgMeta": "100% DE DOCUMENTOS DE GESTIÓN ELABORADOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 198706,
+            "txPgProblema": "BAJO NIVEL DE REPRESENTATIVIDAD DE LOS POBLADORES DE LOS CENTROS POBLADOS",
+            "txPgObjetivo": "CREACIÓN DEL CENTRO POBLADO.",
+            "txPgIndicador": "PORCENTAJE DE CENTROS POBLADOS",
+            "txPgMeta": "15% DE CENTROS POBLADOS CREADOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

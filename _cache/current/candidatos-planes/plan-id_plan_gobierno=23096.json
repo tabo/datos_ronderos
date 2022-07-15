@@ -1,0 +1,105 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23096,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 4,
+        "txOrganizacionPolitica": "ACCION POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1685,
+        "juradoElectoral": "HUAURA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/903bf847-6766-4880-9a4b-2b40b08bfb47.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/d4849c7b-f94b-4f41-9c3e-9265d819d2cb.pdf",
+        "txCodExpedienteExt": "ERM.2022008269",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 183766,
+            "txPgProblema": "ALTO INDICE DE DESNUTRICION",
+            "txPgObjetivo": "INCENTIVAR EL USO DE HIERRO Y ACIDO FOLICO PARA GESTANTES, CON LA FINALIDAD DE REDUCIR EL BAJO PESO DE LOS RECIEN NACIDOS (CAUSA DE MUERTE MAS FRECUENTE EN POBLACIONES VULNERABLES).",
+            "txPgIndicador": "PORCENTAJE DE DESNUTRICION 37 %",
+            "txPgMeta": "PORCENTAJE DE DESNUTRICION 20 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 183821,
+            "txPgProblema": "DEFICIENTE SISTEMA DE SALUD.",
+            "txPgObjetivo": "GESTIONAR LA MEJORA DE LA INFRAESTRUCTURA Y EQUIPAMIENTO DE PUESTOS Y CENTROS DE SALUD EN LAS ZONAS DE POBREZA Y EXTREMA POBREZA.",
+            "txPgIndicador": "POSTAS CON DEFICIENTE INFRAESTRUCTURA: 11",
+            "txPgMeta": "POSTAS CON DEFICIENTE INFRAESTRUCTURA: 0",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 183994,
+            "txPgProblema": "ALTO INDICE DE COMERCIO AMBULATORIO.",
+            "txPgObjetivo": "REORDENAMIENTO Y FORMALIZACION DEL COMERCIO AMBULATORIO.",
+            "txPgIndicador": "CANTIDAD DE PUESTOS DE COMERCIO AMBULATORIO: 1500",
+            "txPgMeta": "CANTIDAD DE PUESTOS DE COMERCIO AMBULATORIO: 500",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 184089,
+            "txPgProblema": "DEFICIENTE COBERTURA TURISTICA EN LA PROVINCIA DE HUAURA.",
+            "txPgObjetivo": "GESTIONAR CON LAS AGENCIAS DE TURISMO A NIVEL NACIONAL, PARA QUE HUAURA SEA CONSIDERADA SITIO TURISTICO POR LAS RIQUEZAS CULTURALES QUE PRESENTA,",
+            "txPgIndicador": "AGENCIAS TURISTICAS COMPROMETIDAS EN EL TURISMO DE LA PROVINCIA DE HUAURA: 0",
+            "txPgMeta": "AGENCIAS TURISTICAS COMPROMETIDAS EN EL TURISMO DE LA PROVINCIA DE HUAURA: 5",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 184141,
+            "txPgProblema": "DEFICIENTE ACONDICIONAMIENTO DE LA LINEA COSTERA DE LA PROVINCIA DE HUAURA.",
+            "txPgObjetivo": "PUESTA EN VALOR DE LA LINEA COSTERA DE LA PROVINCIA DE HUAURA.",
+            "txPgIndicador": "PROYECTOS INVIERTE.PE EN LINEA COSTERA: 0",
+            "txPgMeta": "PROYECTOS INVIERTE.PE EN LINEA COSTERA: 3",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 184206,
+            "txPgProblema": "DEFICIENTE ESTRUCTURAS DE ESPARCIMIENTO Y OCIO EN LA PROVINCIA DE HUAURA.",
+            "txPgObjetivo": "PROYECTO CENTRO RECREACIONAL-ECOLOGICO-CONSERVACIONISTA EN SANTA MARIA O AMAY, QUE PERMITA LA CONSERVACION DE LOS RECURSOS NATURALES QUE SE ENCUENTRAN EN PELIGRO DE EXTINCION, ASI COMO PERMITIR A LAS FAMILIAS DE LA PROVINCIA DE HUAURA, PASAR ALGUNOS MOMENTOS GRATOS FAMILIARES QUE PERMITAN UN SANO ESPARCIMIENTO.",
+            "txPgIndicador": "PROYECTO : 0",
+            "txPgMeta": "PROYECTO : 1",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 184284,
+            "txPgProblema": "DEFICIENCIA ORGANIZACIONAL DE LA MUNICIPALIDAD PROVINCIAL DE HUAURA.",
+            "txPgObjetivo": "REORDENAMIENTO Y REORGANIZACION DE LA MUNICIPALIDAD PROVINCIAL DE HUAURA, CON ENFOQUE A DINAMIZAR Y SISTEMATIZAR EL AREA ADMINISTRATIVA.",
+            "txPgIndicador": "MODIFICACION DE LA ESTRUCTURA ORGANIZACIONAL DE LA MPH: 0",
+            "txPgMeta": "MODIFICACION DE LA ESTRUCTURA ORGANIZACIONAL DE LA MPH: 1",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 184412,
+            "txPgProblema": "DEFICIENTE GESTION VIRTUAL EN LOS PROCEDIMIENTOS ADMINISTRATIVOS.",
+            "txPgObjetivo": "GESTIONAR E IMPLEMENTAR EL GOBIERNO LOCAL VIRTUAL, QUE PERMITA AGILIZAR LOS TRAMITES QUE SE REALIZAN EN LA MUNICIPALIDAD.",
+            "txPgIndicador": "IMPLEMENTACION DEL GOBIERNO VIRTUAL: 0",
+            "txPgMeta": "IMPLEMENTACION DEL GOBIERNO VIRTUAL: 1",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

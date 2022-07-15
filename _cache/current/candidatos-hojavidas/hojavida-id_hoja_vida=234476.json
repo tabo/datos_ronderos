@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 234476.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "41777963",
+        "nombres": "LUCIO",
+        "apellidoPaterno": "CAUSILLAS",
+        "apellidoMaterno": "QUISPE",
+        "sexo": "1",
+        "feNacimiento": "14/08/1982",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "080506",
+        "naciDepartamento": "HUANCAVELICA",
+        "naciProvincia": "TAYACAJA",
+        "naciDistrito": "COLCABAMBA",
+        "ubigeoDomicilio": "080506",
+        "domiDepartamento": "HUANCAVELICA",
+        "domiProvincia": "TAYACAJA",
+        "domiDistrito": "COLCABAMBA",
+        "domicilioDirecc": "CALLE VISTA ALEGRE JABONILLO S/N",
+        "ubigeoPostula": "080506",
+        "postulaDepartamento": "HUANCAVELICA",
+        "postulaProvincia": "TAYACAJA",
+        "postulaDistrito": "COLCABAMBA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/234476.jpg",
+        "estado": "INSCRITO",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 18:07:34",
+        "txGuidFormatoHojaVida": "467fd7ca-3dfa-4c7a-b68f-e92917b2a980",
+        "idSolicitudLista": 35664.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 207201,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "EMPRESARIO",
+            "rucTrabajo": "20541485695",
+            "direccionTrabajo": "PASJE LOS CLAVELES S/N GPM UÑAS",
+            "anioTrabajoDesde": "2011",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "110101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "HUANCAYO",
+            "trabajoDistrito": "HUANCAYO",
+            "idHojaVida": 234476,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 182352,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 234476,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 146511,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "IETP SAN JOSE",
+                "carreraTecnico": "PRODUCCION AGROPECUARIA",
+                "concluidoEduTecnico": "2",
+                "idHojaVida": 234476,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "ESTUDIANTE CURSANDO EL V SEMESTRE"
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 153256,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 226,
+            "orgPolRenunciaOp": "MOVIMIENTO INDEPENDIENTE TRABAJANDO PARA TODOS",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 234476,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 169713,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 44126.0,
+                "idHojaVida": 234476,
+                "idEstado": 1,
+                "totalIngresos": 44126.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 4004,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "EMPRESA CAUSILLAS SAC",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 3610.0,
+                "flValor": 36100.0,
+                "idHojaVida": 234476,
+                "idEstado": 1,
+                "txUsuario": "74611025",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

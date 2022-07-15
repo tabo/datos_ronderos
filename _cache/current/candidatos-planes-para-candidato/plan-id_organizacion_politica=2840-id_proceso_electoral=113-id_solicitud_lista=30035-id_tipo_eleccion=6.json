@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23361,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2840,
+        "txOrganizacionPolitica": "PARTIDO MORADO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/2d17b5e7-7e42-4422-8d67-b67c2039ee95.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/f64b21ec-2b1a-484c-8910-2f00999bd5ab.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 131382,
+            "txPgProblema": "SANEAMIENTO DEFICIENTE E INSUFICIENTE.",
+            "txPgObjetivo": "DOTAR DEL SERVICIO DE SANEAMIENTO A TODA LA POBLACIÓN DEL DISTRITO DE MORALES.",
+            "txPgIndicador": "PORCENTAJE DE HOGARES CON SERVICIOS DE AGUA Y DESAGÜE.\nPORCENTAJE DE FAMILIAS DEL ÁREA RURAL CON SUMINISTRO DE AGUA Y BIODIGESTORES.",
+            "txPgMeta": "100 % DE HOGARES CON SERVICIOS DE AGUA Y DESAGÜE EN EL ÁREA URBANA.\n100% DE HOGARES DEL ÁREA RURAL CON SUMINISTRO DE AGUA Y BIODIGESTORES",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 131383,
+            "txPgProblema": "INCREMENTO DE LA DELINCUENCIA Y EL CRIMEN ORGANIZADO.",
+            "txPgObjetivo": "LOGRAR UNA SENSACIÓN DE SEGURIDAD PERMANENTE EN TODA LA POBLACIÓN DE MORALES..",
+            "txPgIndicador": "DENUNCIAS POR ACTOS DELINCUENCIALES EN EL DISTRITO DE MORALES.",
+            "txPgMeta": "REDUCCIÓN A 0% DEL NÚMERO DE DENUNCIAS POR ACTOS DELINCUENCIALES Y CRIMINALES.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 131384,
+            "txPgProblema": "DEFICIENTE ATENCIÓN DE SALUD A LA POBLACIÓN.",
+            "txPgObjetivo": "CONSTRUCCIÓN DE UN HOSPITAL Y NUEVAS POSTAS MÉDICAS.",
+            "txPgIndicador": "PORCENTAJE DE COBERTURA DE SALUD EN MORALES.",
+            "txPgMeta": "CUBRIR LA ATENCIÓN DE SALUD AL 100 % DE LA POBLACIÓN DE MORALES.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 131385,
+            "txPgProblema": "LA POBLACIÓN EN PROMEDIO TIENE UNA BAJA CALIDAD DE VIDA",
+            "txPgObjetivo": "MEJORAR LA CALIDAD DE VIDA DE LA POBLACIÓN DE MORALES.",
+            "txPgIndicador": "ÍNDICE DE EXTREMA POBREZA.",
+            "txPgMeta": "REDUCIR A CERO EL ÍNDICE DE EXTREMA POBREZA EN LA POBLACIÓN DE MORALES.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 131386,
+            "txPgProblema": "DEFICIENTE GESTIÓN DEL POTENCIAL TURÍSTICO Y RECREACIONAL DE MORALES.",
+            "txPgObjetivo": "ESTABLECER UN SISTEMA DE DESARROLLO INTEGRAL TURÍSTICO Y RECREACIONAL DEL DISTRITO QUE PERMITA LA EJECUCIÓN DE PLANES DE CRECIMIENTO, ORDENAMIENTO Y SEGURIDAD.",
+            "txPgIndicador": "AFLUENCIA DE TURISTAS LOCALES, NACIONALES E INTERNACIONALES.",
+            "txPgMeta": "INCREMENTAR EN 500 % LA ASISTENCIA DE TURISTAS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 131387,
+            "txPgProblema": "DEFICIENTE PARTICIPACIÓN DEL GOBIERNO LOCAL EN EL DESARROLLO Y PRODUCTIVIDAD AGRÍCOLA DEL DISTRITO.",
+            "txPgObjetivo": "CONVERTIR AL GOBIERNO LOCAL DE MORALES EN UN ENTE PROMOTOR, FACILITADOR Y GESTOR DEL DESARROLLO AGRÍCOLA DISTRITAL.",
+            "txPgIndicador": "CANTIDAD DE PRODUCCIÓN AGRÍCOLA DEL DISTRITO.",
+            "txPgMeta": "LOGRAR UN INCREMENTO EN LA PRODUCCIÓN AGRÍCOLA DISTRITAL EN UN 300%.\nMEJORAR LOS NIVELES DE PRODUCTIVIDAD AGRÍCOLA A ESTÁNDARES INTERNACIONALES.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 131388,
+            "txPgProblema": "CONTAMINACIÓN DEL RÍO CUMBAZA.",
+            "txPgObjetivo": "REDUCIR A CERO LA CONTAMINACIÓN DEL RÍO CUMBAZA DURANTE SU PASO POR EL DISTRITO DE MORALES.",
+            "txPgIndicador": "NIVEL DE CONTAMINACIÓN DEL RÍO.",
+            "txPgMeta": "REDUCIR A CERO LA CONTRIBUCIÓN DE MORALES EN LA CONTAMINACIÓN DEL CUMBAZA.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 131389,
+            "txPgProblema": "DEFICIENCIA DE PISTAS, VEREDAS, CUNETAS, ALUMBRADO PÚBLICO, PARQUES Y JARDINES.",
+            "txPgObjetivo": "CONVERTIR A MORALES EN UN DISTRITO ECOLÓGICO Y ORDENADO.",
+            "txPgIndicador": "PORCENTAJE DE SATISFACCIÓN DE LA POBLACIÓN.",
+            "txPgMeta": "TENER UN 100% DE POBLACIÓN SATISFECHA CON LA GESTIÓN MUNICIPAL EN CUANTO AL PROBLEMA IDENTIFICADO.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 131390,
+            "txPgProblema": "- CONTAMINACIÓN SONORA POR DISCOTECAS Y LUGARES DE RECREACIÓN.\n- DEFICIENTE DE RECOJO DE BASURA EN TODO EL DISTRITO DE MORALES.",
+            "txPgObjetivo": "- REDUCIR LA CONTAMINACIÓN SONORA A NIVELES DE ESTÁNDARES NACIONALES PARA CIUDADES.\n- ESTABLECER UN SISTEMA ECOLÓGICO Y EFICIENTE EN EL RECOJO Y TRATAMIENTO DE LA BASURA.",
+            "txPgIndicador": "- NIVELES DE RUIDO.\n- PORCENTAJE DE BASURA RECOGIDA Y TRATADA.",
+            "txPgMeta": "- NIVEL DE RUIDO PERMISIBLE DE 55 DB EN EL DÍA Y 50 DB EN LA NOCHE.\n- 100 % DE LA BASURA SERÁ RECOGIDA Y DISPUESTA ECOLÓGICAMENTE.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 131391,
+            "txPgProblema": "ELEVADOS ÍNDICES DE CORRUPCIÓN EN LOS GOBIERNOS LOCALES.",
+            "txPgObjetivo": "ELIMINAR LOS ACTOS DE CORRUPCIÓN EN EL GOBIERNO LOCAL DE MORALES.",
+            "txPgIndicador": "CASOS DE CORRUPCIÓN DETECTADOS.",
+            "txPgMeta": "CERO CORRUPCIONES EN LA GESTIÓN MUNICIPAL DE MORALES.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 131392,
+            "txPgProblema": "LA POBLACIÓN DE MORALES NO RECIBE LA ATENCIÓN ADECUADA A LA SOLUCIÓN DE SUS PROBLEMAS DEPARTE DE LA MUNICIPALIDAD DE MORALES.",
+            "txPgObjetivo": "LA MUNICIPALIDAD DE MORALES MONITOREE Y GESTIONE INSTITUCIONALMENTE EN FORMA INTERNA Y EXTERNA, LOS SERVICIOS QUE SE PROVEEN A LA POBLACIÓN.\nMEJORA EN LA ATENCIÓN AL CIUDADANO QUE ACUDE A LA MUNICIPALIDAD.",
+            "txPgIndicador": "CANTIDAD DE QUEJAS Y RECLAMOS RECIBIDOS EN LA MUNICIPALIDAD.\nNIVEL DE SATISFACCIÓN ÓPTIMO DE LA POBLACIÓN EN CUANTO A LA ATENCIÓN PÚBLICA DE LA MUNICIPALIDAD.",
+            "txPgMeta": "REDUCIR AL MÍNIMO (0%) LA CANTIDAD DE QUEJAS Y RECLAMOS DE LA POBLACIÓN.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 131394,
+            "txPgProblema": "EL SISTEMA DE GESTIÓN MUNICIPAL ES INEFICIENTE.",
+            "txPgObjetivo": "ESTABLECER UN SISTEMA DE GESTIÓN MUNICIPAL ÁGIL, MODERNO E INCLUSIVO.",
+            "txPgIndicador": "TIEMPOS DE EJECUCIÓN OPERATIVA DE LAS DIFERENTES GESTIONES MUNICIPALES.",
+            "txPgMeta": "NIVELES DE SATISFACCIÓN DE LOS ADMINISTRADOS AL 100%.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

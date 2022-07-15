@@ -1,0 +1,132 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 172345.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "48835014",
+        "nombres": "ALEX",
+        "apellidoPaterno": "REYES",
+        "apellidoMaterno": "TOCTO",
+        "sexo": "1",
+        "feNacimiento": "16/09/1985",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "190307",
+        "naciDepartamento": "PIURA",
+        "naciProvincia": "HUANCABAMBA",
+        "naciDistrito": "SAN MIGUEL DE EL FAIQUE",
+        "ubigeoDomicilio": "190307",
+        "domiDepartamento": "PIURA",
+        "domiProvincia": "HUANCABAMBA",
+        "domiDistrito": "SAN MIGUEL DE EL FAIQUE",
+        "domicilioDirecc": "CASERIO LA CAPILLA",
+        "ubigeoPostula": "190307",
+        "postulaDepartamento": "PIURA",
+        "postulaProvincia": "HUANCABAMBA",
+        "postulaDistrito": "SAN MIGUEL DE EL FAIQUE",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/172345.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2711.0,
+        "organizacionPolitica": "ORGANIZACION POLITICA UNIDAD REGIONAL",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "11/06/2022 10:45:52",
+        "txGuidFormatoHojaVida": "8c3ff55f-0c1d-42d2-9196-97f3f792135b",
+        "idSolicitudLista": 27817.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 195783,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "TECNICO EN CONTABILIDAD",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASERIO LA CAPILLA",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "190307",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PIURA",
+            "trabajoProvincia": "HUANCABAMBA",
+            "trabajoDistrito": "SAN MIGUEL DE EL FAIQUE",
+            "idHojaVida": 172345,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "TRABAJO INDEPENDIENTE"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 172498,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 172345,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 143861,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "INSTITUTO SUPERIOR TECNOLOGICO PUBLICO CANCHAQUE",
+                "carreraTecnico": "TECNICO EN CONTABILIDAD",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 172345,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "CONCLUIDO Y EN PROCESO DE TITULACION"
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 139700,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "LOS INGRESOS CONSIGNADOS ES PRODUCTO DEL TRABAJO INDEPENDIENTE DE MOTOTAXISTA",
+            "idHojaVida": 172345,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 162210,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 6000.0,
+                "idHojaVida": 172345,
+                "idEstado": 1,
+                "totalIngresos": 6000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

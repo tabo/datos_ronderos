@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 19427,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 332,
+        "txOrganizacionPolitica": "CONCERTACION PARA EL DESARROLLO REGIONAL - LIMA",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1661,
+        "juradoElectoral": "CAÑETE",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/c0697210-c8e7-4e89-9452-e0cef9e474fd.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/001f0a59-c761-44e1-95bf-0bee017aefa1.pdf",
+        "txCodExpedienteExt": "ERM.2022007421",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 152490,
+            "txPgProblema": "COBERTURA DE AGUA POTABLE",
+            "txPgObjetivo": "100%",
+            "txPgIndicador": "12% DE POBLACIÓN SIN AGUA",
+            "txPgMeta": "LLEGAR AL 100% DE COBERTURA DE AGUA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 152494,
+            "txPgProblema": "COBERTURA DE ALCANTARILLADO",
+            "txPgObjetivo": "100%",
+            "txPgIndicador": "35% DE POBLACIÓN SIN ALCANTARILLADO",
+            "txPgMeta": "LLEGAR AL 100% DE COBERTURA DE ALCANTARILLADO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 152497,
+            "txPgProblema": "COBERTURA DE ELECTRICIDAD",
+            "txPgObjetivo": "100%",
+            "txPgIndicador": "10% DE POBLACIÓN SIN CONEXIÓN ELÉCTRICA",
+            "txPgMeta": "LLEGAR AL 100% DE COBERTURA ELÉCTRICA O SOLAR",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 152503,
+            "txPgProblema": "COBERTURA DEL SIS",
+            "txPgObjetivo": "100% A LAS PERSONAS VULNERABLES",
+            "txPgIndicador": "NÚMEROS DE USUARIOS",
+            "txPgMeta": "COBERTURA AL 100% DE PERSONAS VULNERABLES",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 152515,
+            "txPgProblema": "COBERTURA DE PENSIÓN 65",
+            "txPgObjetivo": "100% A LAS PERSONAS VULNERABLES",
+            "txPgIndicador": "NÚMEROS DE USUARIOS",
+            "txPgMeta": "COBERTURA AL 100% DE PERSONAS VULNERABLES EN ESA EDAD",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 152519,
+            "txPgProblema": "FALTA DE MERCADO LOCAL",
+            "txPgObjetivo": "CREACIÓN DEL MERCADO MUNICIPAL",
+            "txPgIndicador": "NÚMEROS DE USUARIOS",
+            "txPgMeta": "CONSTRUCCIÓN DEL MERCADO MUNICIPAL",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 152526,
+            "txPgProblema": "CONTAMINACION DEL RIO",
+            "txPgObjetivo": "ELIMINAR LA CONTAMINACIÓN",
+            "txPgIndicador": "PLANTA DE TRATAMIENTO DE AGUAS RESIDUALES",
+            "txPgMeta": "100 % DE VERTIMIENTO TRATADO (PTAR)",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 152536,
+            "txPgProblema": "SEGREGACION DE RESIDUOS",
+            "txPgObjetivo": "SEGREGAR LOS RESIDUOS PARA RECICLAJE AL 100%",
+            "txPgIndicador": "TONELADAS AL MES",
+            "txPgMeta": "LLEGAR A RECICLAR Y SEGREGAR AL 100%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 152545,
+            "txPgProblema": "TRATAMIENTO DE RESIDUOS ORGÁNICOS",
+            "txPgObjetivo": "LLEGAR A TENER UNA PLANTA DE RELLENO SANITARIO",
+            "txPgIndicador": "TONELADAS AL MES",
+            "txPgMeta": "LLEGAR A TENER UNA PLANTA DE RELLENO SANITARIO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 152556,
+            "txPgProblema": "TITULACION DE PREDIOS URBANOS",
+            "txPgObjetivo": "TÍTULOS DE PROPIEDAD AL 60% DE LA POBLACIÓN",
+            "txPgIndicador": "NÚMEROS DE TITULO POR AÑO",
+            "txPgMeta": "LLEGAR AL 60% DE LA POBLACIÓN TITULADA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 152563,
+            "txPgProblema": ". TITULACIÓN DE PREDIOS RURALES",
+            "txPgObjetivo": "TÍTULOS DE PROPIEDAD AL 70% DE LA POBLACIÓN",
+            "txPgIndicador": "NÚMEROS DE TÍTULOS POR AÑO",
+            "txPgMeta": "LLEGAR AL 70% DE LA POBLACIÓN TITULADA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 152571,
+            "txPgProblema": "COBERTURA DE INTERNET",
+            "txPgObjetivo": "COBERTURA DE INTERNET AL 100% DE INTERNET A LA POBLACIÓN",
+            "txPgIndicador": "NÚMEROS DE BENEFICIARIOS",
+            "txPgMeta": "LLEGAR AL 100% DE COBERTURA DE INTERNET",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

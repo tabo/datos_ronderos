@@ -1,0 +1,166 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 145650.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "72784891",
+        "nombres": "KELWIN",
+        "apellidoPaterno": "PIZARRO",
+        "apellidoMaterno": "SAAVEDRA",
+        "sexo": "1",
+        "feNacimiento": "26/12/1994",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "010105",
+        "naciDepartamento": "AMAZONAS",
+        "naciProvincia": "CHACHAPOYAS",
+        "naciDistrito": "CHILIQUIN",
+        "ubigeoDomicilio": "010105",
+        "domiDepartamento": "AMAZONAS",
+        "domiProvincia": "CHACHAPOYAS",
+        "domiDistrito": "CHILIQUIN",
+        "domicilioDirecc": "CHILIQUIN",
+        "ubigeoPostula": "010105",
+        "postulaDepartamento": "AMAZONAS",
+        "postulaProvincia": "CHACHAPOYAS",
+        "postulaDistrito": "CHILIQUIN",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/145650.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 22.0,
+        "organizacionPolitica": "RENOVACION POPULAR",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "08/06/2022 09:36:54",
+        "txGuidFormatoHojaVida": "dab4d1d4-3660-4c48-9942-c4252d62a519",
+        "idSolicitudLista": 24184.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 158394,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "PARCELA TRANCAHUAICO",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ANEXO DE SENGACHE",
+            "anioTrabajoDesde": "2012",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "010105",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AMAZONAS",
+            "trabajoProvincia": "CHACHAPOYAS",
+            "trabajoDistrito": "CHILIQUIN",
+            "idHojaVida": 145650,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "CULTIVO TERRENOS AGRICOLAS"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 138322,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 145650,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 136246,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 2277,
+            "orgPolRenunciaOp": "SENTIMIENTO AMAZONENSE REGIONAL",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 145650,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 136245,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1258,
+            "orgPolRenunciaOp": "MOVIMIENTO REGIONAL FUERZA AMAZONENSE",
+            "anioRenunciaOp": "2022",
+            "idHojaVida": 145650,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 134149,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "FORMACION ACADEMICA HASTA PRIMER GRADO DE SECUNDARIA",
+            "idHojaVida": 145650,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 137322,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 7200.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 145650,
+                "idEstado": 1,
+                "totalIngresos": 7200.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 171037,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "INMUBLE",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "PARCELA TRACAHUAICO, ANEXO DE SENGACHE, DISTRITO DE CHILIQUIN",
+                "comentario": "CERTIFICADO DE POSECION",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 145650,
+                "idEstado": 1,
+                "flValor": "15000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,125 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 21062,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2173,
+        "txOrganizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/f2b96fb4-b83e-4847-88bd-18af9b286c02.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/da16283d-918a-4827-a7b3-93a6474569d1.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 171183,
+            "txPgProblema": "EL SECTOR EDUCATIVO NO SE ENCUENTRA IMPLEMENTADO EN EQUIPOS, INSTRUMENTOS Y OTROS MEDIOS DE ENSEÑANZA.",
+            "txPgObjetivo": "EQUIPAMIENTO DE I. E., MOBILIARIO, LABORATORIOS, BIBLIOTECA, INFRAESTRUCTURA, SOFTWARE EDUCATIVO, BIBLIOTECA, DE PREFERENCIA ZONAS RURALES.",
+            "txPgIndicador": "PORCENTAJE DE INSTITUCIONES EDUCATIVAS EN BUEN ESTADO Y CON ADECUADO MOBILIARIO Y EQUIPAMIENTO.",
+            "txPgMeta": "30% DE INSTITUCIONES EDUCATIVAS EN BUEN ESTADO Y CON ADECUADO EQUIPAMIENTO Y MOBILIARIO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 171207,
+            "txPgProblema": "DEFICIENTE ATENCIÓN SANITARIA.",
+            "txPgObjetivo": "IMPLEMENTACIÓN DE TALLERES DE CAPACITACIÓN AL PERSONAL DEL SECTOR SALUD.",
+            "txPgIndicador": "N° DE TALLERES DE CAPACITACION",
+            "txPgMeta": "25 TALLERES DE CAPACITACION DURANTE EL AÑO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 171220,
+            "txPgProblema": "ALTO ÍNDICE DE DESNUTRICIÓN INFANTIL, GENERADO POR PROBLEMAS DE FALTA DE SANEAMIENTO BÁSICO EN ZONAS PERIFÉRICAS RURALES",
+            "txPgObjetivo": "LOGRAR QUE LA GRAN PARTE DE LA POBLACIÓN URBANA Y RURAL CUENTE CON SISTEMAS DE AGUA POTABLE Y DESAGÜE.",
+            "txPgIndicador": "PORCENTAJE DE VIVIENDAS CON SERVICIO DE AGUA POTABLE Y ALCANTARILLADO",
+            "txPgMeta": "EL 80 % DE LAS VIVIENDAS DEBE CONTAR CONEL SERVICIO DE AGUA POTABLE Y SANEAMIENTO BASICO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 171247,
+            "txPgProblema": "BAJOS NIVELES DE PRODUCCIÓN Y PRODUCTIVIDAD DE LAS PRINCIPALES LÍNEAS AGROPECUARIAS DEL DISTRITO.",
+            "txPgObjetivo": "CREAR UN PROGRAMA DE DESARROLLO PRODUCTIVO Y ECONÓMICO",
+            "txPgIndicador": "PORCENTAJE DE PARTICIPACION",
+            "txPgMeta": "100% DE PARTICIPACION AL PROGRAMA DE DESARROLLO PRODUCTIVO Y ECONOMICO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 171262,
+            "txPgProblema": "INADECUADO E INSUFICIENTE SERVICIO TURISTICO",
+            "txPgObjetivo": "PROMOCIONAR LOS DIFERENTES LUGARES TURÍSTICOS DEL DISTRITO.",
+            "txPgIndicador": "PORCENTAJE DE VISITAS TURISTICAS",
+            "txPgMeta": "70% DE VISITAS TURISTICAS EN EL AMBITO DEL DISTRITO DE SANTO DOMINGO DE ANDA",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 171277,
+            "txPgProblema": "INADECUADO SERVICIO DE TRANSITABILIDAD VEHICULAR",
+            "txPgObjetivo": "CREAR, AMPLIAR Y MEJORAR LOS SERVICIOS DE TRANSITABILIDAD VEHICULAR Y PEATONAL EN EL AMBITO DEL DISTRITO DE SANTO DOMINGO DE ANDA",
+            "txPgIndicador": "PORCENTAJE DE VIAS VECINALES EN BUEN ESTADO",
+            "txPgMeta": "30% DE VIAS VECINALES EN BUEN ESTADO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 171290,
+            "txPgProblema": "EXISTENCIA DE ÁREAS DEFORESTADAS POR INSTALACIÓN DE CULTIVO DE LA HOJA DE COCA, TALA ILEGAL DE MADERA.",
+            "txPgObjetivo": "REALIZAR UN PROYECTO DE REFORESTACIÓN PARA LA RECUPERACIÓN DE SUELOS DEGRADADOS",
+            "txPgIndicador": "PORCENTAJE DE AREAS REFORESTADA",
+            "txPgMeta": "30% DE AREAS REFORESTADAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 171550,
+            "txPgProblema": "NO EXISTE COMUNICACIÓN FLUIDA Y EFECTIVA ENTRE LAS AUTORIDADES Y LA POBLACIÓN EN GENERAL.",
+            "txPgObjetivo": "PROPICIAR QUE LAS AUTORIDADES SE COMUNIQUEN EFICIENTEMENTE CON LA POBLACIÓN EN GENERAL",
+            "txPgIndicador": "POCENTAJE DE POBLACION ATENDIDA",
+            "txPgMeta": "ATENDER EFICIENTEMENTE AL 100% DE LA POBLACIÓN DE SANTO DOMINGO DE ANDA.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 171586,
+            "txPgProblema": "IMPLEMENTACIÓN Y ASIGNACIÓN DE FUNCIONES AL ÁREA DE SERENAZGO Y SEGURIDAD CIUDADANA",
+            "txPgObjetivo": "REESTRUCTURACIÓN E IMPLEMENTACIÓN A LAS ÁREAS DE SERENAZGO Y SEGURIDAD CIUDADANA (PERSONAL, MOTOS LINEALES, CASETAS EN ZONAS ESTRATÉGICAS)",
+            "txPgIndicador": "PORCENTAJE DE DENUNCIAS POR ROBO, SECUESTRO, ASESINATO Y/O VIOLENCIA EN EL AMBITO DEL DISTRITO",
+            "txPgMeta": "REDUCIR EN UN 40% LAS DENUNCIAS POR ROBO, SECUESTRO, ASESINATO Y/O VIOLENCIA EN EL AMBITO DEL DISTRITO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 171600,
+            "txPgProblema": "DEFICIENTE DOCUMENTOS DE GESTION",
+            "txPgObjetivo": "DOCUMENTOS DE GESTIÓN. APROBADO SEGÚN NORMAS LEGALES VIGENTES.",
+            "txPgIndicador": "PORCENTAJE DE DOCUMENTO DE GESTION APROBADOS",
+            "txPgMeta": "100% DE DOCUMENTOS DE GESTION APROBADO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

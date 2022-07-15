@@ -1,0 +1,128 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 234481.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42332384",
+        "nombres": "ALFREDO",
+        "apellidoPaterno": "LIZARBE",
+        "apellidoMaterno": "ALIAGA",
+        "sexo": "1",
+        "feNacimiento": "17/02/1983",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "080506",
+        "naciDepartamento": "HUANCAVELICA",
+        "naciProvincia": "TAYACAJA",
+        "naciDistrito": "COLCABAMBA",
+        "ubigeoDomicilio": "080506",
+        "domiDepartamento": "HUANCAVELICA",
+        "domiProvincia": "TAYACAJA",
+        "domiDistrito": "COLCABAMBA",
+        "domicilioDirecc": "ANEXO HUANCAYOCCASA",
+        "ubigeoPostula": "080506",
+        "postulaDepartamento": "HUANCAVELICA",
+        "postulaProvincia": "TAYACAJA",
+        "postulaDistrito": "COLCABAMBA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/234481.jpg",
+        "estado": "INSCRITO",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 14:46:14",
+        "txGuidFormatoHojaVida": "a8318280-b167-43ec-a949-6957684fb305",
+        "idSolicitudLista": 35664.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 254343,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ANEXO HUANCAYOCCASA",
+            "anioTrabajoDesde": "2005",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "080506",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "HUANCAVELICA",
+            "trabajoProvincia": "TAYACAJA",
+            "trabajoDistrito": "COLCABAMBA",
+            "idHojaVida": 234481,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 226600,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "NO",
+            "eduSecundaria": null,
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 234481,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 203212,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 700.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 234481,
+                "idEstado": 1,
+                "totalIngresos": 700.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 204115,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "30563W ",
+                "valor": 2500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA SUMO ROJO",
+                "comentario": "MOTOCICLETA SUMO ROJO",
+                "idHojaVida": 234481,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

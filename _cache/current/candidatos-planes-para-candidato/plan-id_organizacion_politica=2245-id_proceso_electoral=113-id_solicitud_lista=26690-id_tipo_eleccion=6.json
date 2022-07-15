@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20016,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2245,
+        "txOrganizacionPolitica": "MOVIMIENTO REGIONAL EL MAICITO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/880abdf3-e523-4a77-8222-17683cc5fce1.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/f8838929-4cf1-407c-b0a7-f9dcde4d3424.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 183249,
+            "txPgProblema": "ELEVADA DESNUTRICION \nCRONICA Y ANEMIA EN ÑIÑOS.",
+            "txPgObjetivo": "GENERAR UN PLAN DE SALUD PARAR REDUCIR\n LA DESNUTRICION CRONICA Y ANEMIA.",
+            "txPgIndicador": "% DE NIÑOS CON DESNUTRICION \nCRONICA Y ANEMIA.",
+            "txPgMeta": "REDUCIR LA DESNUTRICION \nCRONICA Y ANEMIA A UN 10%.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 183285,
+            "txPgProblema": "FALTA LA COBERTURA DE \nSANEAMIENTO BASICO.",
+            "txPgObjetivo": "MANTENIMIENTO Y AMPLIACION \nDE LOS SERVICIOS BASICOS.",
+            "txPgIndicador": "% DE VIVIENDAS SIN EL \nSERVICIO BASICO DE CALIDAD.",
+            "txPgMeta": "CERRAR LA BRECHA DE FALTA DE COBERTURA\n  DE LOS SERVICIOS BASICOS AL 100%.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 183310,
+            "txPgProblema": "POCA INCENTIVACION DE LA \nMUNICIPALIDAD AL DEPORTE.",
+            "txPgObjetivo": "IMPLEMENTAR LOS SEMILLEROS \nDEPORTIVOS PARA LA JUVENTUD.",
+            "txPgIndicador": "% DE LA JUVENTUD SIN \nMOTIVACION EN EL DEPORTE.",
+            "txPgMeta": "CREACION DE LA ESCUELA\nMUNICIPAL DEL DEPORTE.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 183335,
+            "txPgProblema": "DEFICIENTE APOYO AGROPECUARIO\nA LOS AGRICULTORES.",
+            "txPgObjetivo": "IMPLEMENTAR PROYECTOR DE \nDESARROLLO AGROPECUARIO.",
+            "txPgIndicador": "% DE AGRICULTOR SIN CONTAR\nCON APOYO EN LA PRODUCCION \nAGROPECUARIA.",
+            "txPgMeta": "CAPACITACION PERMANENTE Y CRECION\nDE PROYECTOS PRODUCTIVOS CON RIEGO \nTECNIFICADO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 183359,
+            "txPgProblema": "FALTA DE MANTENIMIENTO DE \nVIAS VECINALES.",
+            "txPgObjetivo": "NTENIMIENTO Y REABILITACION DE\nLAS VIAS VECINALES.",
+            "txPgIndicador": "% DE VIAS VECINALES EN \nMAL ESTADO.",
+            "txPgMeta": "MANTENIMIENTO Y REABILITACION \nPERMANENTE DE VIAS VECINALES.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 183377,
+            "txPgProblema": "FALTA DE EMPLEO PARA LA\nPOBLACION.",
+            "txPgObjetivo": "GENERACION DE EMPLEOS ATRAVES DE LA\nPROMOCION DEL TURISMO Y EJECUCION DE \nOBRAS POR LA MUNICIPALIDAD Y CONVENIOS.",
+            "txPgIndicador": "% DE LA POBLACION SIN \nEMPLEO.",
+            "txPgMeta": "EL 80% DE LA POBLACION EMPLEADA\nEN DIFERENTES PROYECTOS Y ACTIVIDADES.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 183433,
+            "txPgProblema": "FALTA REALIZAR EL ORDENAMIENTO \nTERRITORIAL.",
+            "txPgObjetivo": "TOMAR ACCIONES NECESARIAS PARA \nREALIZAR EL ORDENAMIENTO TERRITORIAL.",
+            "txPgIndicador": "% DE LA POBLACION CON\nVIVIENDAS EN FORMA DESORDENADA.",
+            "txPgMeta": "LA MUNICIPALIDAD CUENTA CON UN \nPLAN DE ORDENAMIENTO TERRITORIAL.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 183455,
+            "txPgProblema": "INADECUADA DISPOSICION DE \nRESIDUOS SOLIDOS.",
+            "txPgObjetivo": "IMPLEMENTACION DEL MANEJO \nADECUADO DE RESIDUOS SOLIDOS.",
+            "txPgIndicador": "% DE LA POBLACION\nDESCONOCE EL MANEJO DE LOS \nRESIDUOS SOLIDOS.",
+            "txPgMeta": "LA MUNICIPALIDAD CUENTA CON UNA \nPLANTA DE DISPOSICION FINAL DE\n RESIDUOS SOLIDOS Y UN PLAN DE \nCAPACITACION PARA LA POBLACION.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 183496,
+            "txPgProblema": "ALTA VULNERABILIDAD ANTE \nRIESGO DE DESASTRE.",
+            "txPgObjetivo": "REDUCIR LA VULNERABILIDAD ANTE EL \n RIESGO DE DESASTRES NATURALES.",
+            "txPgIndicador": "% DE VIVIENDAS CON \nEXTERIORES DE MATERIAL DE \nADOBE Y TAPIA.",
+            "txPgMeta": "SE CUENTA CON UN PROYECTO\n IMPLEMENTADO PARA REDUCIR LA VULNERABILIDAD DE DESASTRES NATURALES.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 183537,
+            "txPgProblema": "DEBIL ORGANIZACIÓN Y ESPACIOS DE CONCERTACION \nMULTI ACTOR DISTRITAL.",
+            "txPgObjetivo": "GENERAR ESPACIOS DE PARTICIPACION  CIUDADANA.",
+            "txPgIndicador": "% DE PRECEPCION DE ALTA\nCONFIANZA INSTITUCIONAL.",
+            "txPgMeta": "DISTRITO ORGANIZADO CON \nPARTICIPACION ACTIVA DE TODAS SUS \nORGANIZACIONES.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 183575,
+            "txPgProblema": "NO SE PROMUEVE LA RENDICION\n DE CUENTAS .",
+            "txPgObjetivo": "REALIZAR RENDICIONES DE CUENTAS.",
+            "txPgIndicador": "% DE LA POBLACION DESCONOCE EL MANEJO ECONOMICO DE LA \nMUNICIPALIDAD.",
+            "txPgMeta": "LA MUNICIPALIDAD REALIZA\nRENDICIÓN DE CUENTA DOS VECES AL AÑO.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 183631,
+            "txPgProblema": "INSTRUMENTOS DE \nGESTION DESACTUALIZADOS.",
+            "txPgObjetivo": "ACTUALIZAR LOS INSTRUMENTOS DE GESTION.",
+            "txPgIndicador": "% DE INSTRUMENTOS DE \nGESTION DESACTUALIZADOS.",
+            "txPgMeta": "TODOS LOS INSTRUMENTOS DE \nGESTION DE LA MUNICIPALIDAD \nACTUALIZADOS.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

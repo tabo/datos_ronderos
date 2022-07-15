@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 146701.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40343510",
+        "nombres": "HEBER JESUS",
+        "apellidoPaterno": "RAMOS",
+        "apellidoMaterno": "CHECCLLO",
+        "sexo": "1",
+        "feNacimiento": "02/10/1976",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050517",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "LUCANAS",
+        "naciDistrito": "OTOCA",
+        "ubigeoDomicilio": "170101",
+        "domiDepartamento": "MOQUEGUA",
+        "domiProvincia": "MARISCAL NIETO",
+        "domiDistrito": "MOQUEGUA",
+        "domicilioDirecc": "CA. MOQUEGUA 304",
+        "ubigeoPostula": "170000",
+        "postulaDepartamento": "MOQUEGUA",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/146701.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2857.0,
+        "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "ACCESITARIO"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 16:52:41",
+        "txGuidFormatoHojaVida": "a2b0ab3a-2dc7-4b81-8892-f3a1431a4657",
+        "idSolicitudLista": 24329.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 171647,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "GOBIERNO REGIONAL DE MOQUEGUA",
+            "ocupacionProfesion": "INGENIERO CIVIL",
+            "rucTrabajo": null,
+            "direccionTrabajo": "MARISCAL DOMINGO NIETO S/N",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "170101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "MOQUEGUA",
+            "trabajoProvincia": "MARISCAL NIETO",
+            "trabajoDistrito": "MOQUEGUA",
+            "idHojaVida": 146701,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 150427,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 146701,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 149714,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL SAN LUIS GONZAGA DE ICA",
+                "carreraUni": "INGENIERO CIVIL",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2004",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 146103,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 72000.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 146701,
+                "idEstado": 1,
+                "totalIngresos": 72000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 183754,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CALLE LIMA NUM 102     MOQUEGUA - MARISCAL NIETO - MOQUEGUA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "05011943",
+                "fichaTomoSunarp": null,
+                "autovaluo": 1000.0,
+                "idHojaVida": 146701,
+                "idEstado": 1,
+                "flValor": "160000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

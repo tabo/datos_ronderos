@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 19716,
+        "idTipoEleccion": 4,
+        "txTipoEleccion": "REGIONAL",
+        "idOrganizacionPolitica": 2918,
+        "txOrganizacionPolitica": "MOVIMIENTO REGIONAL MOQUEGUA AVANZA SEGURA",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1705,
+        "juradoElectoral": "MARISCAL NIETO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/70152e59-98eb-4ac9-a44c-3d6f26f433a0.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/68e6f8ec-1c06-4081-9a97-f75973571e41.pdf",
+        "txCodExpedienteExt": "ERM.2022009668",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 217042,
+            "txPgProblema": "DESIGUALDAD SOCIAL",
+            "txPgObjetivo": "PLANTEAR ACCIONES QUE EQUIPAREN DERECHOS Y OPORTUNIDADES",
+            "txPgIndicador": "MAYOR PORCENTAJE DE POBLACION CON IGUALDAD DE DERECHOS",
+            "txPgMeta": "50% DE POBLACION CON MEJORES CONDICIONES SOCIALES",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 217124,
+            "txPgProblema": "MENORES INGRESOS ECONOMICOS",
+            "txPgObjetivo": "GENERACION DE ACCIONES QUE PERMITAN LOGRAR MAYORES INGRESOS PARA LA POBLACION",
+            "txPgIndicador": "MAYORES NIVELES DE INGRESO PARA LA POBLACION EN RAZON A MEDIDAS TOMADAS EN NUESTRO PLANTEAMINETO DE GOBIERNO",
+            "txPgMeta": "ALCANZAR MEJORES PORCENTAJES DE POBLACION CON MEJORES INGRESOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 217185,
+            "txPgProblema": "CONTAMINACION AMBIENTAL PRODUCTO DE CRECIENTE INVERSION MINERA",
+            "txPgObjetivo": "REDUCIR LOS NIVELES DE CONTAMINACION AMBIENTAL, ANALISIS CONCRETO DE DAÑO OCASIONADO POR LAS MINERAS",
+            "txPgIndicador": "REDUCCION DE PORCENTAJE DE CONTAMINACION PRESENTE Y FUTURA",
+            "txPgMeta": "CONVIVENCIA PACIFICA CON INVERSION MINERA SOCIALMENTE RESPONSABLE Y CERO CONTAMINACION AMBIENTAL",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 217314,
+            "txPgProblema": "PERCEPCION  SOCIAL DESFAVORABLE HACIA LA GESTION DEL GORE",
+            "txPgObjetivo": "REALIZAR UNA GESTION MAS VINCULADA A LA POBLACION",
+            "txPgIndicador": "CANTIDAD DE POBLACION QUE CAMBIE DE PERCEPCION RESPECTO DE LA GESTION DEL GORE",
+            "txPgMeta": "MEJORA INSTITUCIONAL ALCANZADA AL FINAL DE LA GESTION",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

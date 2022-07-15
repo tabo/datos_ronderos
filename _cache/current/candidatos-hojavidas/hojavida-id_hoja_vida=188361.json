@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 188361.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "09356090",
+        "nombres": "ABIUD",
+        "apellidoPaterno": "PALOMINO",
+        "apellidoMaterno": "MARTINEZ",
+        "sexo": "1",
+        "feNacimiento": "07/08/1967",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050101",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "HUAMANGA",
+        "naciDistrito": "AYACUCHO",
+        "ubigeoDomicilio": "140411",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "CAÑETE",
+        "domiDistrito": "QUILMANA",
+        "domicilioDirecc": "ASENT. H. 03 DE AGOSTO MZ. B LT. 15",
+        "ubigeoPostula": "140400",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "CAÑETE",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/188361.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2306.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL UNIDAD CIVICA LIMA",
+        "numeroCandidato": 9.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 18:25:50",
+        "txGuidFormatoHojaVida": "cf69cfc9-de72-4530-a999-02ca77fce37f",
+        "idSolicitudLista": 29964.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 173384,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "TECNICO CIVIL",
+            "rucTrabajo": null,
+            "direccionTrabajo": "DENTRO DE LA PROVINCIA DE CAÑETE",
+            "anioTrabajoDesde": "1993",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140401",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "CAÑETE",
+            "trabajoDistrito": "SAN VICENTE DE CAÑETE",
+            "idHojaVida": 188361,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 152042,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 188361,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 138530,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "SENCICO",
+                "carreraTecnico": "TECNICO CIVIL",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 188361,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 147271,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 12000.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 188361,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 186237,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "UCV 24 LOTE 6    ZONA DE VIVIENDA ZONA B - PUEBLO JOVEN PROYECTO ESPECIAL HUAYCAN - DPTO: LIMA PROV: LIMA DIST: ATE",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "55254346",
+                "fichaTomoSunarp": null,
+                "autovaluo": 15000.0,
+                "idHojaVida": 188361,
+                "idEstado": 1,
+                "flValor": "40000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 159263,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "3536KA ",
+                "valor": 12000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO BAJAJ",
+                "comentario": null,
+                "idHojaVida": 188361,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

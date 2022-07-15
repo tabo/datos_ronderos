@@ -1,0 +1,180 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 213175.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "29688908",
+        "nombres": "QUINTIN NICOLAS",
+        "apellidoPaterno": "TICLLA",
+        "apellidoMaterno": "QUISPE",
+        "sexo": "1",
+        "feNacimiento": "31/10/1974",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040805",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "LA UNION",
+        "naciDistrito": "PAMPAMARCA",
+        "ubigeoDomicilio": "040805",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "LA UNION",
+        "domiDistrito": "PAMPAMARCA",
+        "domicilioDirecc": "CALLE JOSE OLAYA S/N",
+        "ubigeoPostula": "040805",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "LA UNION",
+        "postulaDistrito": "PAMPAMARCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/213175.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2744.0,
+        "organizacionPolitica": "YO AREQUIPA",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 11:41:49",
+        "txGuidFormatoHojaVida": "29a955ed-99f6-4d43-84be-9315ac365af7",
+        "idSolicitudLista": 33176.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 160464,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "I.E. 40547 TECCA",
+            "ocupacionProfesion": "PERSONAL ADMINISTRATIVO",
+            "rucTrabajo": "20601770971",
+            "direccionTrabajo": "ANEXO TECCA",
+            "anioTrabajoDesde": "1998",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "040805",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "LA UNION",
+            "trabajoDistrito": "PAMPAMARCA",
+            "idHojaVida": 213175,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 140233,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 213175,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 135419,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "CEO HUAMAN POMA",
+                "carreraTecnico": "MECANICA AUTOMOTRIZ",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 213175,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 147784,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1264,
+            "orgPolRenunciaOp": "PARTIDO POLÍTICO JUNTOS POR EL PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 213175,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 138652,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 15000.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 213175,
+                "idEstado": 1,
+                "totalIngresos": 15000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 173761,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 2,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "PAMPAMARCA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 3000.0,
+                "idHojaVida": 213175,
+                "idEstado": 1,
+                "flValor": "3000"
+            },
+            {
+                "idHvBienInmueble": 173755,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "TERRENO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "PAMPAMARCA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 5000.0,
+                "idHojaVida": 213175,
+                "idEstado": 1,
+                "flValor": "5000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,162 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 219371.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "74239068",
+        "nombres": "JEBINS EDUN",
+        "apellidoPaterno": "LEON",
+        "apellidoMaterno": "MOSTACERO",
+        "sexo": "1",
+        "feNacimiento": "05/05/1999",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "021301",
+        "naciDepartamento": "ANCASH",
+        "naciProvincia": "SANTA",
+        "naciDistrito": "CHIMBOTE",
+        "ubigeoDomicilio": "121203",
+        "domiDepartamento": "LA LIBERTAD",
+        "domiProvincia": "VIRU",
+        "domiDistrito": "GUADALUPITO",
+        "domicilioDirecc": "C.POBLADO MENOR CAMPO NUEVO BAJO MZ. T LT. 16",
+        "ubigeoPostula": "121203",
+        "postulaDepartamento": "LA LIBERTAD",
+        "postulaProvincia": "VIRU",
+        "postulaDistrito": "GUADALUPITO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/219371.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 67.0,
+        "organizacionPolitica": "SUMATE",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 09:00:42",
+        "txGuidFormatoHojaVida": "f11f8602-bb97-4f66-aef5-06f5d74da6a1",
+        "idSolicitudLista": 33916.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 204044,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CP. CAMPO NUEVO MZ T LT16",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "121203",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LA LIBERTAD",
+            "trabajoProvincia": "VIRU",
+            "trabajoDistrito": "GUADALUPITO",
+            "idHojaVida": 219371,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 179638,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 219371,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 165033,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERCIDAD DE SAN PEDRO",
+                "carreraUni": "INGENERIA AGRONOMA",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 167719,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 18000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 219371,
+                "idEstado": 1,
+                "totalIngresos": 18000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 176921,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "63992H ",
+                "valor": 10000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO CARGUERA",
+                "comentario": null,
+                "idHojaVida": 219371,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 176920,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "28003H ",
+                "valor": 5250.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": null,
+                "idHojaVida": 219371,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

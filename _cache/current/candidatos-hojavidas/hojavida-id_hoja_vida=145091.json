@@ -1,0 +1,158 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 145091.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "27279936",
+        "nombres": "JORGE ATILANO",
+        "apellidoPaterno": "DELGADO",
+        "apellidoMaterno": "POSADAS",
+        "sexo": "1",
+        "feNacimiento": "16/02/1967",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "060514",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "CUTERVO",
+        "naciDistrito": "SOCOTA",
+        "ubigeoDomicilio": "130115",
+        "domiDepartamento": "LAMBAYEQUE",
+        "domiProvincia": "CHICLAYO",
+        "domiDistrito": "LA VICTORIA",
+        "domicilioDirecc": "CALLE LOS TAMBOS 1706",
+        "ubigeoPostula": "130115",
+        "postulaDepartamento": "LAMBAYEQUE",
+        "postulaProvincia": "CHICLAYO",
+        "postulaDistrito": "LA VICTORIA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/145091.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 22.0,
+        "organizacionPolitica": "RENOVACION POPULAR",
+        "numeroCandidato": 7.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 12:46:28",
+        "txGuidFormatoHojaVida": "66671807-14a3-4bcb-bec8-785f54d33895",
+        "idSolicitudLista": 24113.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 174534,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "I.E \" CARLOS AUGUSTO SALAVERRY\" - N° 10796",
+            "ocupacionProfesion": "DOCENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE CAHUIDE 320",
+            "anioTrabajoDesde": "1994",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "130115",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LAMBAYEQUE",
+            "trabajoProvincia": "CHICLAYO",
+            "trabajoDistrito": "LA VICTORIA",
+            "idHojaVida": 145091,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 153078,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 145091,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 151096,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD TECNICA DE CAJAMARCA",
+                "carreraUni": "EDUCACION",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": null,
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 142192,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 13,
+            "orgPolRenunciaOp": "PARTIDO POR LA DEMOCRACIA SOCIAL - COMPROMISO PERU",
+            "anioRenunciaOp": "2007",
+            "idHojaVida": 145091,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 147978,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 33720.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 145091,
+                "idEstado": 1,
+                "totalIngresos": 33720.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 159933,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "M29117 ",
+                "valor": 3500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR: AZUL /  MARCA: WANXIN / MODELO: WX125-A",
+                "comentario": null,
+                "idHojaVida": 145091,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,190 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 163544.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "40744950",
+        "nombres": "JUAN HUBERTO",
+        "apellidoPaterno": "GALARZA",
+        "apellidoMaterno": "AMARILLO",
+        "sexo": "1",
+        "feNacimiento": "22/06/1979",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110504",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "TARMA",
+        "naciDistrito": "HUASAHUASI",
+        "ubigeoDomicilio": "110504",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "TARMA",
+        "domiDistrito": "HUASAHUASI",
+        "domicilioDirecc": "CASERIO TONGO",
+        "ubigeoPostula": "110504",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "TARMA",
+        "postulaDistrito": "HUASAHUASI",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/163544.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2680.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL SIERRA Y SELVA CONTIGO JUNIN",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 21:56:15",
+        "txGuidFormatoHojaVida": "057e8f23-6e14-48ba-bfb2-28d2b2f1478d",
+        "idSolicitudLista": 26635.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 211613,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "RESTAURANT SEÑOR DE MURUHUAY",
+            "ocupacionProfesion": "PROVEEDOR DE SERVICIOS",
+            "rucTrabajo": null,
+            "direccionTrabajo": "FUNDO POMALLACTA, HUASAHUASI",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "110504",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "TARMA",
+            "trabajoDistrito": "HUASAHUASI",
+            "idHojaVida": 163544,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 186372,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 163544,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 154652,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 163544,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 154651,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 2218,
+            "orgPolRenunciaOp": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 163544,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 172675,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 30000.0,
+                "idHojaVida": 163544,
+                "idEstado": 1,
+                "totalIngresos": 30000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 216238,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "PREDIO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "FUNDO POMALLACTA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 163544,
+                "idEstado": 1,
+                "flValor": "130000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 180902,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "CAMION",
+                "marca": null,
+                "placa": "XE1695",
+                "valor": 25000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "IZUSU",
+                "comentario": "TRANSFERENCIA VEHICULAR",
+                "idHojaVida": 163544,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 180892,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "AUTO",
+                "marca": null,
+                "placa": "W1N145",
+                "valor": 9000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "KIA PRIDE",
+                "comentario": "TRANSFERENCIA VEHICULAR",
+                "idHojaVida": 163544,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

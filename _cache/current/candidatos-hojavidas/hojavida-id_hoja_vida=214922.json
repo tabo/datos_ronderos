@@ -1,0 +1,162 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 214922.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "47549459",
+        "nombres": "MARIA ESTELA",
+        "apellidoPaterno": "ACOSTA",
+        "apellidoMaterno": "LARA",
+        "sexo": "2",
+        "feNacimiento": "06/01/1993",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "120503",
+        "naciDepartamento": "LA LIBERTAD",
+        "naciProvincia": "PACASMAYO",
+        "naciDistrito": "GUADALUPE",
+        "ubigeoDomicilio": "120503",
+        "domiDepartamento": "LA LIBERTAD",
+        "domiProvincia": "PACASMAYO",
+        "domiDistrito": "GUADALUPE",
+        "domicilioDirecc": "CALLE INDOAMERICA 760 BARR. SAN AGUSTIN",
+        "ubigeoPostula": "120500",
+        "postulaDepartamento": "LA LIBERTAD",
+        "postulaProvincia": "PACASMAYO",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/214922.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 10.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 16:01:09",
+        "txGuidFormatoHojaVida": "64325b89-6970-4d75-9a1f-55deb501a253",
+        "idSolicitudLista": 33410.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 249427,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "COMERCIANTE POR INTERNET",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. INDOAMERICA 680 GUADALUPE",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "120503",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LA LIBERTAD",
+            "trabajoProvincia": "PACASMAYO",
+            "trabajoDistrito": "GUADALUPE",
+            "idHojaVida": 214922,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 220937,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 214922,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 186767,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD NACIONAL DE TRUJILLO",
+                "carreraUni": "EGRESADA",
+                "concluidoEduUni": null,
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2018",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 199154,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 10000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 214922,
+                "idEstado": 1,
+                "totalIngresos": 10000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 201271,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "1917EB ",
+                "valor": 6500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOTAXI",
+                "comentario": null,
+                "idHojaVida": 214922,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 201270,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "AYY630 ",
+                "valor": 20000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "TUYOTA COROLA",
+                "comentario": null,
+                "idHojaVida": 214922,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

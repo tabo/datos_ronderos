@@ -1,0 +1,177 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 163036.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42392301",
+        "nombres": "JUAN GRIMALDO",
+        "apellidoPaterno": "TAPIA",
+        "apellidoMaterno": "VELASQUEZ",
+        "sexo": "1",
+        "feNacimiento": "16/09/1979",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "100304",
+        "naciDepartamento": "ICA",
+        "naciProvincia": "NASCA",
+        "naciDistrito": "MARCONA",
+        "ubigeoDomicilio": "100304",
+        "domiDepartamento": "ICA",
+        "domiProvincia": "NASCA",
+        "domiDistrito": "MARCONA",
+        "domicilioDirecc": "AA.HH. RUTA DEL SOL MZ. 25 LT. 10",
+        "ubigeoPostula": "100304",
+        "postulaDepartamento": "ICA",
+        "postulaProvincia": "NASCA",
+        "postulaDistrito": "MARCONA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/163036.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL",
+            " ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 02:04:35",
+        "txGuidFormatoHojaVida": "1d3570e7-885e-47d8-8aca-3a8b22ef69fd",
+        "idSolicitudLista": 26564.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 178767,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "PESCA ARTESANAL",
+            "rucTrabajo": null,
+            "direccionTrabajo": "PLAYA KILOMETRO 9",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "100304",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ICA",
+            "trabajoProvincia": "NASCA",
+            "trabajoDistrito": "MARCONA",
+            "idHojaVida": 163036,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 157099,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 163036,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 143811,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 103,
+            "orgPolRenunciaOp": "DESPERTAR NACIONAL",
+            "anioRenunciaOp": "2012",
+            "idHojaVida": 163036,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 143810,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 163036,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 137119,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "RUTA DEL SOL MZ A POR REGULARIZAR PAPELES",
+            "idHojaVida": 163036,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 150774,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 30000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 163036,
+                "idEstado": 1,
+                "totalIngresos": 30000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 162588,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "15092Y ",
+                "valor": 10000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "HH",
+                "comentario": null,
+                "idHojaVida": 163036,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 162587,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "Y17442 ",
+                "valor": 3000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "HH",
+                "comentario": null,
+                "idHojaVida": 163036,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

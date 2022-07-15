@@ -1,0 +1,165 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 209840.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "47677883",
+        "nombres": "CARMEN ROSA",
+        "apellidoPaterno": "CARDENAS",
+        "apellidoMaterno": "HUAYTA",
+        "sexo": "2",
+        "feNacimiento": "17/01/1993",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050308",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "HUANTA",
+        "naciDistrito": "SIVIA",
+        "ubigeoDomicilio": "050308",
+        "domiDepartamento": "AYACUCHO",
+        "domiProvincia": "HUANTA",
+        "domiDistrito": "SIVIA",
+        "domicilioDirecc": "BQ ROSARIO ACON",
+        "ubigeoPostula": "050308",
+        "postulaDepartamento": "AYACUCHO",
+        "postulaProvincia": "HUANTA",
+        "postulaDistrito": "SIVIA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/209840.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2710.0,
+        "organizacionPolitica": "ALIANZA POR NUESTRO DESARROLLO",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL",
+            " REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 10:08:17",
+        "txGuidFormatoHojaVida": "83ce8db1-035d-4961-8290-94f42f2aef15",
+        "idSolicitudLista": 32758.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 180323,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MUNICIPALIDAD DISTRITAL DE PICHARI",
+            "ocupacionProfesion": "ASISTENTE ADMINISTRATIVO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "PLAZA PRINCIPAL",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "070910",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CUSCO",
+            "trabajoProvincia": "LA CONVENCION",
+            "trabajoDistrito": "PICHARI",
+            "idHojaVida": 209840,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 158454,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 209840,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 154111,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD NACIONAL DE SAN CRISTOBAL DE HUAMANGA",
+                "carreraUni": "BACHILLER",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2021",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "BACHILLER"
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 144360,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2694,
+            "orgPolRenunciaOp": "MOVIMIENTO REGIONAL GANA AYACUCHO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 209840,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 151817,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 21000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 209840,
+                "idEstado": 1,
+                "totalIngresos": 21000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 191961,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "VIVIENDA RUSTICA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "ROSARIO ACON",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 209840,
+                "idEstado": 1,
+                "flValor": "20000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

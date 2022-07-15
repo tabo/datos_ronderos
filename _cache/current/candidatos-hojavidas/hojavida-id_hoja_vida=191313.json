@@ -1,0 +1,146 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 191313.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44557784",
+        "nombres": "ALEX",
+        "apellidoPaterno": "JULIAN",
+        "apellidoMaterno": "GONZALEZ",
+        "sexo": "1",
+        "feNacimiento": "09/02/1987",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "050802",
+        "naciDepartamento": "AYACUCHO",
+        "naciProvincia": "HUANCA SANCOS",
+        "naciDistrito": "SACSAMARCA",
+        "ubigeoDomicilio": "050802",
+        "domiDepartamento": "AYACUCHO",
+        "domiProvincia": "HUANCA SANCOS",
+        "domiDistrito": "SACSAMARCA",
+        "domicilioDirecc": "JR.SAN MARTIN S/N COLCABAMBA",
+        "ubigeoPostula": "050802",
+        "postulaDepartamento": "AYACUCHO",
+        "postulaProvincia": "HUANCA SANCOS",
+        "postulaDistrito": "SACSAMARCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/191313.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2861.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL AGUA",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 22:36:22",
+        "txGuidFormatoHojaVida": "a3fa46cf-4fde-4cfb-9f8a-71f35f5845dc",
+        "idSolicitudLista": 30364.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 253438,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "SACSAMARCA",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SACSAMARCA",
+            "anioTrabajoDesde": "2005",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "050802",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AYACUCHO",
+            "trabajoProvincia": "HUANCA SANCOS",
+            "trabajoDistrito": "SACSAMARCA",
+            "idHojaVida": 191313,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 225537,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 191313,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 168042,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1421,
+            "orgPolRenunciaOp": "PARTIDO DESCENTRALISTA FUERZA SOCIAL",
+            "anioRenunciaOp": "2012",
+            "idHojaVida": 191313,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 202416,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 6000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 191313,
+                "idEstado": 1,
+                "totalIngresos": 6000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 247268,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "TERRENO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "SACSAMARCA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 15000.0,
+                "idHojaVida": 191313,
+                "idEstado": 1,
+                "flValor": "7000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

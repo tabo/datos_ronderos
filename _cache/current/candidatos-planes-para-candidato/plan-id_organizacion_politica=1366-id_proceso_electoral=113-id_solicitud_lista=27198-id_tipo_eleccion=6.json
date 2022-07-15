@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20524,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1366,
+        "txOrganizacionPolitica": "FUERZA POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/f6c399b4-6b71-49e4-a5cf-e9689388999a.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/d0ad624a-daff-4833-a34e-f3013d99217e.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 179114,
+            "txPgProblema": "ZONAS MARGINALES SIN SERVIOS BÁSICOS DE AGUA POTABLE",
+            "txPgObjetivo": "COORDINAR Y PROMOVER ANTE ENTIDADES CORRESPONDIENTES DEL ESTADO, LA CONEXIÓN DE LUZ, AGUA Y DESAGUE PARA LAS ZONAS MARFINALES",
+            "txPgIndicador": "NÚMERO DE NUEVAS CONEXIONES",
+            "txPgMeta": "INCREMENTO DEL 50% DE CONEXIONES DE SERVICIO BÁSICO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 179207,
+            "txPgProblema": "CRECIMIENTO DESMEDIDO DE COMERCIANTES INFORMALES",
+            "txPgObjetivo": "PROMOVER LA PARTICIPACIÓN DE INSTITUCIONES FINANCIERAS NACIONALES Y EXTRANJERAS",
+            "txPgIndicador": "NÚMERO DE NUEVOS CRÉDITOS DISPONIBLES",
+            "txPgMeta": "INCREMENTO DEL 50% DE INSTALACIONES DE COMERCIO FORMAL.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 179338,
+            "txPgProblema": "ACUMULACIÓN DESMEDIDO DE DESMONTE Y RESIDUOS SÓLIDOS EN EL DISTRITO Y EN EL RÍO HUAYCLORO",
+            "txPgObjetivo": "REORGANIZAR EL RECOJO DE DESMONTE Y DE RESIDUOS SÓLIDOS",
+            "txPgIndicador": "NÚMERO DE PROCEDIMIENTOS IMPLEMENTADOS PARA EL TRATAMIENTO DE RESIDUOS SÓLIDOS Y DESMONTE",
+            "txPgMeta": "DISMINUCIÓN DEL 30% DEL DESMONTE ANUAL",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 179420,
+            "txPgProblema": "PERSONAL DE LA MUNICIPALIDAD NO ESTÁ CAPACITADO PARA BRINDAR UN SERVICIO EFICIENTE",
+            "txPgObjetivo": "REORGANIZAR EL SISTEMA ADMINISTRATIVO DE Y DE SERVICIOS DE LA COMUNA",
+            "txPgIndicador": "NÚMERO DE PROPUESTAS DE MEJORA Y ORGANIGRAMA Y ROF",
+            "txPgMeta": "DISMINUIR EN 50% LAS QUEJAS POR MALA ATENCIÓN AL VECINO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

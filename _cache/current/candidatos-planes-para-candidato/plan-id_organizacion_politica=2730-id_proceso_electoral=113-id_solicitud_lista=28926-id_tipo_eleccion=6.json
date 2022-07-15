@@ -1,0 +1,105 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 22252,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2730,
+        "txOrganizacionPolitica": "MOVIMIENTO INDEPENDIENTE REGIONAL MI BUEN VECINO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/df123200-e754-4276-905f-f7f5d31f39b3.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/dca448d6-e44a-4fea-8085-f1dcad978b8f.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 178814,
+            "txPgProblema": "1.\tALTA TASA DE DESNUTRICIÓN CRÓNICA, CENTROS DE SALUD CON LIMITADA CAPACIDAD RESOLUTIVA.",
+            "txPgObjetivo": "DESCENTRALIZAR LOS SERVICIOS DE SALUD Y GARANTIZAR LA ATENCIÓN INTEGRAL.",
+            "txPgIndicador": "DESNUTRICIÓN CRÓNICA INFANTIL",
+            "txPgMeta": "LOGRAR REDUCIR LA TASA DE DESNUTRICIÓN",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 178852,
+            "txPgProblema": "ALTA TASA DE ANALFABETISMO E INADECUADA INFRAESTRUCTURA Y EQUIPAMIENTO.",
+            "txPgObjetivo": "DESCENTRALIZAR LOS SERVICIOS EDUCATIVOS Y GARANTIZAR EL ACCESO UNIVERSAL A LA EDUCACIÓN",
+            "txPgIndicador": "TASA DE ANALFABETISMO",
+            "txPgMeta": "REDUCIR LA TASA DE ANALFABETISMO Y GARANTIZAR UNA ADECUADA INFRAESTRUCTURA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 178874,
+            "txPgProblema": "BAJO NIVEL DE PRODUCTIVIDAD AGRICULTURA Y ESCASOS RECURSOS TECNOLÓGICOS.",
+            "txPgObjetivo": "DESARROLLAR UNA ECONOMÍA DINÁMICA Y SOSTENIBLE A LA ECONOMÍA REGIONAL",
+            "txPgIndicador": "AGRICULTURA",
+            "txPgMeta": "TENER AGRICULTORES CAPACITADOS EN PRODUCCIÓN Y MANEJO DE RECURSOS TECNOLÓGICOS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 178910,
+            "txPgProblema": "CARENCIA DE SOPORTE TÉCNICO EN EL ÁMBITO DE CRIANZA DE ANIMALES MENORES",
+            "txPgObjetivo": "IMPLEMENTAR SOPORTE TÉCNICO PARA MEJORAR LA PRODUCTIVIDAD",
+            "txPgIndicador": "SOPORTE TÉCNICO",
+            "txPgMeta": "CONTAR CON PRODUCTORES ESPECIALIZADOS EN LA CRIANZA DE ANIMALES MENOR.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 178943,
+            "txPgProblema": "INADECUADA EVACUACIÓN DE AGUAS SERVIDAS.",
+            "txPgObjetivo": "MEJORAMIENTO DE LA PLANTA DE TRATAMIENTO DE AGUAS SERVIDAS.",
+            "txPgIndicador": "PLANTA DE TRATAMIENTO.",
+            "txPgMeta": "CONTAR CON PLANTA DE TRATAMIENTO DE AGUAS SERVIDAS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 178963,
+            "txPgProblema": "2.\tBAJA CONCIENCIA AMBIENTAL.",
+            "txPgObjetivo": "PROMOVER EL CUIDADO DEL MEDIO AMBIENTE.",
+            "txPgIndicador": "IMPACTO AMBIENTAL",
+            "txPgMeta": "TENER UNA POBLACIÓN QUE PRACTICA EL CUIDADO DEL MEDIO AMBIENTE.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 178989,
+            "txPgProblema": "1.\tAUSENCIA DEL GOBIERNO LOCAL EN LAS ACTIVIDADES EXTRACURRICULARES DE LAS INSTITUCIONES EDUCATIVAS.",
+            "txPgObjetivo": "MEJORAR LA ATENCIÓN PARTICIPATIVA DEL GOBIERNO LOCAL EN LAS ACTIVIDADES DE LAS INSTITUCIONES EDUCATIVAS.",
+            "txPgIndicador": "EDUCACIÓN",
+            "txPgMeta": "INSTITUCIONES CON PARTICIPACIÓN ACTIVA EN LAS DIVERSAS ACTIVIDADES EDUCATIVAS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 179010,
+            "txPgProblema": "2.\tDEFICIENTE APOYO A LAS DIVERSAS SECTAS RELIGIOSAS DEL DISTRITO.",
+            "txPgObjetivo": "PROMOVER LA PARTICIPACIÓN ACTIVA DE LAS DIVERSAS SECTAS RELIGIOSAS DEL DISTRITO.",
+            "txPgIndicador": "IGLESIA",
+            "txPgMeta": "CONTAR CON INFRAESTRUCTURA Y EQUIPAMIENTO ADECUADO EN LAS DIVERSAS SECTAS RELIGIOSAS.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 160223.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42271251",
+        "nombres": "BLAS",
+        "apellidoPaterno": "COTRINA",
+        "apellidoMaterno": "VARGAS",
+        "sexo": "1",
+        "feNacimiento": "03/02/1979",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "060804",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "JAEN",
+        "naciDistrito": "CHONTALI",
+        "ubigeoDomicilio": "060805",
+        "domiDepartamento": "CAJAMARCA",
+        "domiProvincia": "JAEN",
+        "domiDistrito": "POMAHUACA",
+        "domicilioDirecc": "CASERIO MORERILLO",
+        "ubigeoPostula": "060805",
+        "postulaDepartamento": "CAJAMARCA",
+        "postulaProvincia": "JAEN",
+        "postulaDistrito": "POMAHUACA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/160223.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 12:17:25",
+        "txGuidFormatoHojaVida": "6a4da627-bbed-48e6-b780-96349a0fb82c",
+        "idSolicitudLista": 26188.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 161060,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE (ACTIVIDADES DE TRANSPORTE)",
+            "ocupacionProfesion": "CHOFER",
+            "rucTrabajo": "10422712513",
+            "direccionTrabajo": "CASERIO MORERILLO- PALO BLANCO",
+            "anioTrabajoDesde": "2016",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "060805",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CAJAMARCA",
+            "trabajoProvincia": "JAEN",
+            "trabajoDistrito": "POMAHUACA",
+            "idHojaVida": 160223,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 140751,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 160223,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 139040,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 8300.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 160223,
+                "idEstado": 1,
+                "totalIngresos": 8300.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 174230,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "TERRENO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "AVENIDA PRINCIPAL C.P. PALO BLANCO- POMAHUACA- JAEN- CAJAMARCA",
+                "comentario": "BIEN INDIVISO - INMATRICULADO, RAZONES POR LAS CUALES NO SE ENCUENTRA INSCRITA EN SUNARP, NI EN LA MUNICIPALIDAD DE POMAHUACA",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 160223,
+                "idEstado": 1,
+                "flValor": "50000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 151751,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "S1S817 ",
+                "valor": 80000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMIONETA TOYOTA HILUX",
+                "comentario": null,
+                "idHojaVida": 160223,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

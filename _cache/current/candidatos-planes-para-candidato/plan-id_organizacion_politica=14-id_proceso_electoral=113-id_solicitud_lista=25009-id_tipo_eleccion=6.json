@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 18335,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/42ab5b6c-e185-4f94-a4b0-e073618f209b.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/e78b32f6-51ff-4db4-9897-ff75036df737.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 128694,
+            "txPgProblema": "1.\tDEFICIENTE INFRAESTRUCTURA Y EQUIPAMIENTO EN EL SECTOR SALUD",
+            "txPgObjetivo": "MEJORAR LA INFRAESTRUCTURA Y EQUIPAMIENTO DE SALUD",
+            "txPgIndicador": "¿\tNÚMERO DE PUESTOS DE SALUD SATÉLITE INSTALADOS\n¿\tNÚMERO DE PUESTOS DE SALUD MEJORADOS",
+            "txPgMeta": "¿\t01 PUESTO DE SALUD IMPLEMENTADO Y EQUIPADO\n¿\t03 PUESTOS DE SALUD SATÉLITE IMPLEMENTADOS.\n¿\t02 PUESTO DE SALUD MEJORADO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128703,
+            "txPgProblema": "1.\tDEFICIENTE INFRAESTRUCTURA EDUCATIVA EN EL DISTRITO DE CHANCAY",
+            "txPgObjetivo": "MEJORAR LA INFRAESTRUCTURA Y EQUIPAMIENTO DEL SECTOR EDUCACIÓN EN EL DISTRITO DE CHANCAY",
+            "txPgIndicador": "¿\tNÚMERO DE II.EE. DEL NIVEL INICIAL MEJORADOS. \n¿\tNÚMERO DE II.EE. DEL NIVEL PRIMARIO MEJORADAS",
+            "txPgMeta": "¿\t02 INSTITUCIÓN EDUCATIVA DE NIVEL PRIMARIO MEJORADA Y EQUIPADA. \n¿\t02 II.EE. DEL NIVEL INICIAL MEJORADAS Y EQUIPADAS.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128709,
+            "txPgProblema": "3.\tESCASO IMPULSO AL DEPORTE Y LA CULTURA EN EL DISTRITO DE CHANCAY",
+            "txPgObjetivo": "PROMOVER EL DEPORTE Y LA CULTURA EN EL DISTRITO DE CHANCAY",
+            "txPgIndicador": "¿\tNÚMERO DE LOCALES MULTIUSOS CONSTRUIDOS \n¿\tNÚMERO DE CAMPOS DEPORTIVOS REUBICADOS \n¿\tNÚMERO DE CAMPOS DEPORTIVOS MEJORADOS",
+            "txPgMeta": "¿\t03 LOCALES MULTIUSOS CONSTRUIDOS.\n¿\t01 CAMPO DEPORTIVO REUBICADO.\n¿\t01 CAPO DEPORTIVO MEJORADO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 128719,
+            "txPgProblema": "1.\tESCASO APOYO A LOS PRODUCTORES ARTESANALES DEL DISTRITO DE CHANCAY",
+            "txPgObjetivo": "PROMOVER EL DESARROLLO DE CAPACIDADES COMERCIALES EN LOS PRODUCTORES",
+            "txPgIndicador": "¿\tNÚMERO DE PROGRAMAS DE COMERCIALIZACIÓN EJECUTADOS",
+            "txPgMeta": "¿\t01 PROGRAMA DE COMERCIALIZACIÓN DE PRODUCTOS ARTESANALES PRODUCIDOS EN LA ZONA EJECUTADO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128724,
+            "txPgProblema": "2.\tBAJO VALOR AGREGADO A LA PRODUCCIÓN AGRÍCOLA Y GANADERA EN DISTRITO DE CHANCAY",
+            "txPgObjetivo": "IMPULSAR EL VALOR AGREGADO A LA PRODUCCIÓN AGRÍCOLA Y GANADERA",
+            "txPgIndicador": "¿\tNÚMERO DE PROYECTOS TÉCNICO – PRODUCTIVO EJECUTADOS",
+            "txPgMeta": "¿\t01 PROYECTO TÉCNICO – PRODUCTIVO DESTINADO A LOS AGRICULTORES Y GANADEROS EJECUTADO.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128730,
+            "txPgProblema": "3.\tESCASO APOYO A LAS COMUNIDADES CON POTENCIAL TURÍSTICO VIVENCIAL EN EL DISTRITO DE CHANCAY",
+            "txPgObjetivo": "IMPULSAR EL TURISMO VIVENCIAL Y APOYO A LAS FAMILIAS",
+            "txPgIndicador": "¿\tNÚMERO DE COMUNIDADES CON RECURSOS TURÍSTICOS PUESTO EN VALOR",
+            "txPgMeta": "¿\t3 COMUNIDADES HAN PUESTO EN VALOR SUS RECURSOS TURÍSTICOS DESTINADOS AL TURISMO VIVENCIAL",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 128740,
+            "txPgProblema": "1.\tLIMITADA COBERTURA DEL SERVICIO DE ENERGÍA ELÉCTRICA EN EL DISTRITO DE CHANCAY",
+            "txPgObjetivo": "COBERTURA EL SERVICIO DE ENERGÍA ELÉCTRICA EN EL DISTRITO DE CHANCAY",
+            "txPgIndicador": "¿\tPORCENTAJE DE LA RED DE ENERGÍA ELÉCTRICA COBERTURADA",
+            "txPgMeta": "¿\t90% DE COBERTURA CON RED DE ENERGÍA ELÉCTRICA EN EL DISTRITO.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128745,
+            "txPgProblema": "2.\tDEFICIENTE INFRAESTRUCTURA DE LOS ESPACIOS PÚBLICOS EN EL DISTRITO DE CHANCAY",
+            "txPgObjetivo": "MEJORAR LA INFRAESTRUCTURA DE LOS ESPACIOS PÚBLICOS",
+            "txPgIndicador": "¿\tNÚMERO DE ESPACIOS PÚBLICOS CONSTRUIDAS",
+            "txPgMeta": "¿\t01 ESPACIO PÚBLICO PARA ESPARCIMIENTO CONSTRUIDO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128750,
+            "txPgProblema": "3.\tINADECUADA INFRAESTRUCTURA DE LOS CAMPOS SANTOS",
+            "txPgObjetivo": "MEJORAR LA INFRAESTRUCTURA DE LOS CAMPOS SANTOS",
+            "txPgIndicador": "¿\tNÚMERO DE CAMPOS SANTOS MEJORADOS\n¿\tNÚMERO DE CAMPOS SANTOS CON CERCO PERIMÉTRICO",
+            "txPgMeta": "¿\t01 CAMPO SANTO MEJORADO.\n¿\t02 CERCOS PERIMÉTRICOS DEL CAMPO SANTO CONSTRUIDOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 128757,
+            "txPgProblema": "1.\tDÉBIL ORGANIZACIÓN COMUNAL EN EL DISTRITO DE CHANCAY",
+            "txPgObjetivo": "FORTALECER LA ORGANIZACIÓN COMUNAL EN EL DISTRITO DE CHANCAY",
+            "txPgIndicador": "¿\tPORCENTAJE DE ORGANIZACIONES SOCIALES DE BASE FORTALECIDAS",
+            "txPgMeta": "¿\t90% DE LAS ORGANIZACIONES SOCIALES DE BASE (JUNTAS VECINALES, RONDAS, ETC.)  FORTALECIDAS PARA CONTRIBUIR A LA SEGURIDAD CIUDADANA DEL DISTRITO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128760,
+            "txPgProblema": "2.\tDEFICIENTE ATENCIÓN EN LOS SERVICIOS MUNICIPALES",
+            "txPgObjetivo": "MODERNIZAR LA GESTIÓN MUNICIPAL EN EL DISTRITO DE CHANCAY",
+            "txPgIndicador": "¿\tNÚMERO DE PORTALES WEBS ACTUALIZADOS\n¿\tPORCENTAJE DE FUNCIONARIOS CAPACITADOS +\n¿\tNÚMERO DE DOCUMENTOS DE GESTIÓN ACTUALIZADOS \n¿\tPORCENTAJE DE INSTRUMENTOS DE GESTIÓN ACTUALIZADOS",
+            "txPgMeta": "¿\t01 PORTAL WEB ACTUALIZADO PERMANENTE \n¿\t90% DE FUNCIONARIOS MUNICIPALES CAPACITADOS EN GESTIÓN PÚBLICA, TICS Y GOBERNABILIDAD \n¿\t03 DOCUMENTOS DE GESTIÓN ACTUALIZADOS (MOF, ROP, TUPA)\n¿\t98% DE INSTRUMENTOS DE GESTIÓN ACTUALIZADOS (PDDC, PEI, POI)",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128766,
+            "txPgProblema": "3.\tDÉBIL PARTICIPACIÓN DE LOS CIUDADANOS EN LOS ESPACIOS DE COORDINACIÓN Y TOMA DE DECISIÓN MUNICIPAL",
+            "txPgObjetivo": "FORTALECER LA PARTICIPACIÓN CIUDADANA Y EL EMPODERAMIENTO EN LOS DIFERENTES ESPACIOS DE COORDINACIÓN Y TOMA DE DECISIÓN MUNICIPAL",
+            "txPgIndicador": "¿\tNÚMERO DE PROYECTOS PLANTEADOS EN LOS PPRS \n¿\tNÚMERO DE CCLS EN FUNCIONAMIENTO",
+            "txPgMeta": "¿\t90% DE LOS PROYECTOS POR PPR SON ELABORADOS TENIENDO EN CUENTA LA PARTICIPACIÓN DE LOS ACTORES SOCIALES \n¿\t01 CCL EN FUNCIONAMIENTO PERMANENTE",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

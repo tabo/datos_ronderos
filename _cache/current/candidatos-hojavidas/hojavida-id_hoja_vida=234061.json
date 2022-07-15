@@ -1,0 +1,134 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 234061.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42619293",
+        "nombres": "JUAN",
+        "apellidoPaterno": "QUISPE",
+        "apellidoMaterno": "MAMANI",
+        "sexo": "1",
+        "feNacimiento": "06/10/1979",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "201303",
+        "naciDepartamento": "PUNO",
+        "naciProvincia": "MOHO",
+        "naciDistrito": "TILALI",
+        "ubigeoDomicilio": "201303",
+        "domiDepartamento": "PUNO",
+        "domiProvincia": "MOHO",
+        "domiDistrito": "TILALI",
+        "domicilioDirecc": "PARC.AYNACHA HUATASANI",
+        "ubigeoPostula": "201303",
+        "postulaDepartamento": "PUNO",
+        "postulaProvincia": "MOHO",
+        "postulaDistrito": "TILALI",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/234061.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 2731.0,
+        "organizacionPolitica": "PODEMOS PERU",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 10:14:49",
+        "txGuidFormatoHojaVida": "072e83f8-cebb-4d0d-92ae-d46997d6d398",
+        "idSolicitudLista": 35611.0,
+        "txComentario": "CANDIDATO A REGIDOR DISTRITAL"
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 232481,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AGRICULTOR",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "PARCIALIDAD AYNACHA HUATASANI",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "201303",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PUNO",
+            "trabajoProvincia": "MOHO",
+            "trabajoDistrito": "TILALI",
+            "idHojaVida": 234061,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "TRABAJO EN AGRICULTURA"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 205174,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 234061,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 186628,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 5000.0,
+                "idHojaVida": 234061,
+                "idEstado": 1,
+                "totalIngresos": 5000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 231589,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "PREDIO RURAL",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "PARCIALIDAD AYNACHA HUATASANI",
+                "comentario": "EL VALOR ES ESTIMADO,PRECIO EN SOLES",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 234061,
+                "idEstado": 1,
+                "flValor": "5000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

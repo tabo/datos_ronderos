@@ -1,0 +1,162 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 187522.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "71132742",
+        "nombres": "GEORGE ALEXANDER",
+        "apellidoPaterno": "GUEVARA",
+        "apellidoMaterno": "VILLANUEVA",
+        "sexo": "1",
+        "feNacimiento": "26/04/1996",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140901",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "BARRANCA",
+        "naciDistrito": "BARRANCA",
+        "ubigeoDomicilio": "140903",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "BARRANCA",
+        "domiDistrito": "PATIVILCA",
+        "domicilioDirecc": "CALLE GRAU S/N",
+        "ubigeoPostula": "140903",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "BARRANCA",
+        "postulaDistrito": "PATIVILCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/187522.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 553.0,
+        "organizacionPolitica": "PATRIA JOVEN",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 09:31:24",
+        "txGuidFormatoHojaVida": "10954868-32c6-4938-9740-2956f71f71e0",
+        "idSolicitudLista": 29857.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 178553,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "SUBPREFECTURA DISTRITAL DE PATIVILCA",
+            "ocupacionProfesion": "SUB PREFECTO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. BOLIVAR N° 219 - SEGUNDO PISO",
+            "anioTrabajoDesde": "2018",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140903",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "BARRANCA",
+            "trabajoDistrito": "PATIVILCA",
+            "idHojaVida": 187522,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 156903,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 187522,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 153267,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": null,
+                "universidad": "UNIVERSIDAD NACIONAL DE BARRANCA",
+                "carreraUni": "ESTUDIANTE",
+                "concluidoEduUni": "NO",
+                "egresadoEduUni": "NO",
+                "bachillerEduUni": null,
+                "anioBachiller": null,
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "ACTUALMENTE ESTOY EN EL X CICLO"
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 150650,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 30000.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 20400.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 187522,
+                "idEstado": 1,
+                "totalIngresos": 50400.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 162456,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "F2D600 ",
+                "valor": 3100.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTO KJA",
+                "comentario": null,
+                "idHojaVida": 187522,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 162455,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "D1M569 ",
+                "valor": 9500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTO TOYOTA COLOR BLANCO",
+                "comentario": null,
+                "idHojaVida": 187522,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

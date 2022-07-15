@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 203934.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43789249",
+        "nombres": "ZUELY FRANCISCA",
+        "apellidoPaterno": "RAMIREZ",
+        "apellidoMaterno": "RIMAC",
+        "sexo": "2",
+        "feNacimiento": "01/10/1986",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140501",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "HUAURA",
+        "naciDistrito": "HUACHO",
+        "ubigeoDomicilio": "140506",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "HUAURA",
+        "domiDistrito": "HUALMAY",
+        "domicilioDirecc": "PRL.JUAN BARRETO 426",
+        "ubigeoPostula": "140506",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "HUAURA",
+        "postulaDistrito": "HUALMAY",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/203934.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2173.0,
+        "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 07:39:29",
+        "txGuidFormatoHojaVida": "61e26740-cddd-45a3-b9dc-b4efca9c58d0",
+        "idSolicitudLista": 31999.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 183504,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 203934,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 146781,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "CENTRO DOMINGO MANDAMIENTO SIPAN",
+                "carreraTecnico": "TECNICO EN COMPUTACION",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 203934,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 170591,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 7500.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 203934,
+                "idEstado": 1,
+                "totalIngresos": 7500.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 135056,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "1006014500-2017-2549-0",
+            "feSentenciaPenal": "27/06/2017",
+            "txOrganoJudiPenal": "MINISTERIO PUBLICO",
+            "txDelitoPenal": "OMISION DE ASISTENSIA FAMILIAR",
+            "txFalloPenal": "FAVORABLE",
+            "idParamModalidad": 10,
+            "txModalidad": "EFECTIVA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 203934,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 135985,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "1916-2013",
+            "txOrganoJuridicialObliga": "4TO JUZGADO DE FAMILIA",
+            "txFalloObliga": "FUNDADA LA DEMANDA",
+            "idEstado": 1,
+            "idHojaVida": 203934,
+            "txComentario": null
+        }
+    ]
+}

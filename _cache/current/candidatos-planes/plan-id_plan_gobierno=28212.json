@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 28212,
+        "idTipoEleccion": 5,
+        "txTipoEleccion": "MUNICIPAL PROVINCIAL",
+        "idOrganizacionPolitica": 1257,
+        "txOrganizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1683,
+        "juradoElectoral": "HUARI",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/17d8dad4-bc60-40da-953a-8c8c866bf833.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/a2337695-3789-438b-8307-7542e01a6e40.pdf",
+        "txCodExpedienteExt": "ERM.2022010979",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 183596,
+            "txPgProblema": "FALTA DE COBERTURA DE DIVERSAS LOCALIDADES CON SERVICIOS BÁSICOS",
+            "txPgObjetivo": "MEJORAMIENTO DE SERVICIOS BÁSICOS DE AGUA Y DESAGÜE, SERVICIO DE ELECTRIFICACIÓN",
+            "txPgIndicador": "IDENTIFICACIÓN DE TODAS LAS LOCALIDADES SIN SERVICIO DE AGUA Y ELECTRIFICACIÓN",
+            "txPgMeta": "SERVICIO DE AGUA Y ELECTRIFICACIÓN AL 100%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 183623,
+            "txPgProblema": "ESCASA CAPACITACIÓN Y FORTALECIMIENTO DE CAPACIDADES EN USO DE TECNOLOGÍAS DE INFORMACIÓN",
+            "txPgObjetivo": "FORTALECIMIENTO DE CAPACIDADES DOCENTES PARA INCREMENTAR EL NIVEL EDUCATIVO EN EL USO DE TECNOLOGÍAS DE INFORMACIÓN Y OTROS TEMAS DE INTERÉS.",
+            "txPgIndicador": "SERVICIO DE INTERNET EN TODA LA PROVINCIA.\nCAPACITACIÓN DOCENTE PERMANENTE",
+            "txPgMeta": "TODAS LAS INSTITUCIONES EDUCATIVAS CON SERVICIO DE INTERNET",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 183638,
+            "txPgProblema": "ESCASO APOYO CON EQUIPOS MÉDICO.",
+            "txPgObjetivo": "EQUIPAMIENTO CON EQUIPOS DE ÚLTIMA GENERACIÓN A TODAS LAS POSTAS MÉDICAS",
+            "txPgIndicador": "TODAS LAS POSTAS MÉDICAS CON EQUIPAMIENTO MODERNO",
+            "txPgMeta": "POSTAS MÉDICAS EQUIPADAS AL 100%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 183667,
+            "txPgProblema": "ESCASO APOYO A LOS PRODUCTORES GANADEROS LOCALES",
+            "txPgObjetivo": "MEJORAMIENTO DE LAS RAZAS DE DIVERSOS GANADOS PARA INCREMENTAR LA PRODUCCIÓN DE LOS GANADEROS LOCALES",
+            "txPgIndicador": "INCREMENTAR LOS ANIMALES GRANDES Y PEQUEÑOS (CUYES, CONEJOS, GALLINAS)",
+            "txPgMeta": "LOGRAR LA PRODUCCIÓN LOCAL ORGANIZADA AL 40%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 183684,
+            "txPgProblema": "ZONAS DE PRODUCCIÓN NO CUENTAN CON CLASIFICACIÓN DE ACUERDO A SUS POTENCIALIDADES",
+            "txPgObjetivo": "CLASIFICACIÓN DE LAS DIVERSAS LOCALIDADES EN ZONAS FORESTALES, PRODUCCIÓN DE PASTOS Y PRODUCCIÓN DE ALIMENTOS (FRUTALES, LEGUMBRES Y TUBÉRCULOS)",
+            "txPgIndicador": "ORGANIZACIÓN DE PRODUCTORES BIEN CONSTITUIDAS Y ORGANIZADAS",
+            "txPgMeta": "PRODUCTORES ORGANIZADAS Y BIEN DIRIGIDAS AL 50%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 183696,
+            "txPgProblema": "ESCASO APOYO A LOS PRODUCTORES LOCALES EN LA VENTA DE SUS PRODUCTOS",
+            "txPgObjetivo": "PROMOVER FERIAS PARA PRODUCTORES PYMES POR LOCALIDADES EN CHAVÍN, SAN MARCOS, HUARI, MASIN, UCO Y DEMÁS DISTRITOS",
+            "txPgIndicador": "FERIAS SEMANALES Y EN FECHAS FESTIVAS",
+            "txPgMeta": "PRODUCCIÓN LOCAL DE LOS PYMES AL 70 %",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 183716,
+            "txPgProblema": "ABANDONO DE LOS BIOHUERTOS LOCALES",
+            "txPgObjetivo": "IMPLEMENTACIÓN Y MEJORAMIENTO DE BIOHUERTOS COMUNALES Y DE CENTROS POBLADOS",
+            "txPgIndicador": "PRODUCCIÓN Y OPERATIVIDAD DE LOS BIOHUERTOS",
+            "txPgMeta": "PRODUCCIÓN DE LOS BIOHUERTOS AL 100%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 183729,
+            "txPgProblema": "ESCASO RECOJO DE DESECHOS Y DESPERDICIOS",
+            "txPgObjetivo": "CAPTACIÓN Y RECOJO DE DESECHOS Y DESPERDICIOS POR LOCALIDADES Y CENTROS POBLADOS",
+            "txPgIndicador": "RECOLECTORES EN CADA LOCALIDAD",
+            "txPgMeta": "PLAN CERO PLÁSTICOS AL 100%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 183744,
+            "txPgProblema": "ESCASA IMPLEMENTACIÓN DE VIVEROS FORESTALES LOCALES",
+            "txPgObjetivo": "IMPLEMENTAR VIVEROS DE FORESTACIÓN EN LOS CENTROS POBLADOS",
+            "txPgIndicador": "IDENTIFICAR ZONAS APTAS PARA LA FORESTACIÓN",
+            "txPgMeta": "PLANTACIONES DE FORESTACIÓN DE 10,000 PLANTONES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 183759,
+            "txPgProblema": "POCA COHESIÓN Y UNIDAD DE LOS TRABAJADORES",
+            "txPgObjetivo": "INTEGRACIÓN DE LOS TRABAJADORES PARA PRESTAR UN MEJOR SERVICIO INTEGRAL E INTERCULTURAL",
+            "txPgIndicador": "UNIDAD DE TODOS LOS TRABAJADORES",
+            "txPgMeta": "INTEGRACIÓN AL 100%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 183773,
+            "txPgProblema": "ESCASA INTERACCIÓN DE LAS ORGANIZACIONES SOCIALES",
+            "txPgObjetivo": "PROMOVER E INTEGRAR LAS DIVERSAS ORGANIZACIONES SOCIALES DE BASE",
+            "txPgIndicador": "IDENTIFICACIÓN DE LIDERES LOCALES",
+            "txPgMeta": "ORGANIZACIONES DE BASE INTEGRADAS AL 90%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 183799,
+            "txPgProblema": "FALTA DE COMUNICACIÓN OPORTUNA CON LA CIUDADANÍA",
+            "txPgObjetivo": "IMPLEMENTACIÓN DEL GOBIERNO ELECTRÓNICO",
+            "txPgIndicador": "ACCESO A LA INFORMACIÓN DE CUALQUIER LUGAR DEL PAÍS Y DEL MUNDO.",
+            "txPgMeta": "COBERTURA DEL SERVICIO EN UN 70%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

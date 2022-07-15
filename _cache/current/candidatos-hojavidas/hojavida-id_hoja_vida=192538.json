@@ -1,0 +1,160 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 192538.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "25185394",
+        "nombres": "GREGORIO",
+        "apellidoPaterno": "CHILLIHUANI",
+        "apellidoMaterno": "HUAMAN",
+        "sexo": "1",
+        "feNacimiento": "11/03/1968",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "071201",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "QUISPICANCHI",
+        "naciDistrito": "URCOS",
+        "ubigeoDomicilio": "160101",
+        "domiDepartamento": "MADRE DE DIOS",
+        "domiProvincia": "TAMBOPATA",
+        "domiDistrito": "TAMBOPATA",
+        "domicilioDirecc": "JR. CAOBA MZ.01 LT.27 UPIS LAS LOMAS DE LA JOYA",
+        "ubigeoPostula": "160100",
+        "postulaDepartamento": "MADRE DE DIOS",
+        "postulaProvincia": "TAMBOPATA",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/192538.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 8.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 09:09:12",
+        "txGuidFormatoHojaVida": "dfa048f9-62ae-43d0-bc4b-f44e8b2aa0c2",
+        "idSolicitudLista": 30534.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 214748,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "ASOC TRANSPORTE TRES ISLAS",
+            "ocupacionProfesion": "MOTOTAXISTA INDEPENDIENTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SECTOR LA JOYA",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "160101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "MADRE DE DIOS",
+            "trabajoProvincia": "TAMBOPATA",
+            "trabajoDistrito": "TAMBOPATA",
+            "idHojaVida": 192538,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 189254,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 192538,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 174755,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 18000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 192538,
+                "idEstado": 1,
+                "totalIngresos": 18000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 182664,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 3,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "5761EX ",
+                "valor": 5000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "SENDA ROJO",
+                "comentario": null,
+                "idHojaVida": 192538,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 182663,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "X52509 ",
+                "valor": 1000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOCICLETA",
+                "comentario": null,
+                "idHojaVida": 192538,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 182662,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "MV24100",
+                "valor": 3000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "DAYUN ROJO",
+                "comentario": null,
+                "idHojaVida": 192538,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

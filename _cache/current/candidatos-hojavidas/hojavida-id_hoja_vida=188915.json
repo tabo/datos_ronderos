@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 188915.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "03231114",
+        "nombres": "ERADIO",
+        "apellidoPaterno": "CAMPOS",
+        "apellidoMaterno": "ZURITA",
+        "sexo": "1",
+        "feNacimiento": "15/09/1969",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "190306",
+        "naciDepartamento": "PIURA",
+        "naciProvincia": "HUANCABAMBA",
+        "naciDistrito": "EL CARMEN DE LA FRONTERA",
+        "ubigeoDomicilio": "190302",
+        "domiDepartamento": "PIURA",
+        "domiProvincia": "HUANCABAMBA",
+        "domiDistrito": "CANCHAQUE",
+        "domicilioDirecc": "CASERIO MARAYPAMPA S/N",
+        "ubigeoPostula": "190302",
+        "postulaDepartamento": "PIURA",
+        "postulaProvincia": "HUANCABAMBA",
+        "postulaDistrito": "CANCHAQUE",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/188915.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2711.0,
+        "organizacionPolitica": "ORGANIZACION POLITICA UNIDAD REGIONAL",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 08:17:03",
+        "txGuidFormatoHojaVida": "c5892c4f-05aa-45ae-a4fb-38c6784e0465",
+        "idSolicitudLista": 30038.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 206713,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CANCHAQUE",
+            "anioTrabajoDesde": "2000",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "190302",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PIURA",
+            "trabajoProvincia": "HUANCABAMBA",
+            "trabajoDistrito": "CANCHAQUE",
+            "idHojaVida": 188915,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 181924,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 188915,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 153074,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 32,
+            "orgPolRenunciaOp": "PARTIDO APRISTA PERUANO",
+            "anioRenunciaOp": "2010",
+            "idHojaVida": 188915,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 153073,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 179,
+            "orgPolRenunciaOp": "PARTIDO NACIONALISTA PERUANO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 188915,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 169405,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 2000.0,
+                "idHojaVida": 188915,
+                "idEstado": 1,
+                "totalIngresos": 2000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 178224,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "M64010 ",
+                "valor": 3000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": null,
+                "idHojaVida": 188915,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

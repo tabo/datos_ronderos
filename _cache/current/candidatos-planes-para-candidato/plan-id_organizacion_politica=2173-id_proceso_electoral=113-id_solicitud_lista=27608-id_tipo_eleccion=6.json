@@ -1,0 +1,125 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20934,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2173,
+        "txOrganizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/89a514f4-d2d3-437c-8e5a-0102b83be9ef.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/ed1f3501-0a14-4f3f-945d-858e6061596d.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 168146,
+            "txPgProblema": "EL INCREMENTO DE INSEGURIDAD CIUDADANA EN EL DISTRITO DE LA ESPERANZA",
+            "txPgObjetivo": "DISMINUIR LA PERCEPCIÓN DE INSEGURIDAD CIUDADANA DEL DISTRITO COMO UNO DE LOS MÁS PELIGROSOS DE LA CIUDAD.",
+            "txPgIndicador": "PORCENTAJE DE PARTICIPACIÓN DE LOS MENORES DE EDAD EN LOS ASESINATOS Y SICARIATO.",
+            "txPgMeta": "REDUCCIÓN EN EL 80% (20% ANUAL)",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 168170,
+            "txPgProblema": "BAJA COBERTURA Y ACCESO A LOS SERVICIOS DE SALUD",
+            "txPgObjetivo": "MEJORAR EL ACCESO Y CALIDAD DE LOS SERVICIOS DE SALUD DE LA POBLACIÓN DEL DISTRITO",
+            "txPgIndicador": "PORCENTAJE DE ESTABLECIMIENTOS DE SALUD DE PRIMER NIVEL DE ATENCIÓN CON CAPACIDAD INSTALADA INADECUADA",
+            "txPgMeta": "ALCANZAR AL 100% LA COBERTURA DE LOS SERVICIOS DE SALUD (30% ANUAL Y EL ÚLTIMO AÑO DE GESTIÓN EL 10%).",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 168219,
+            "txPgProblema": "INSTITUCIONES EDUCATIVAS CON FALTA DE INFRAESTRUCTURA MODERNA Y CON EQUIPAMIENTO INADECUADO; ALUMNOS CON INSUFICIENTE FORMACIÓN ACADÉMICA, ALTO NIVEL DE DESERCIÓN Y DOCENTES CON CAPACITACIÓN INSUFICIENTE.",
+            "txPgObjetivo": "MEJORAR EL ACCESO Y CALIDAD DE LA EDUCACIÓN DE LA POBLACIÓN ESCOLAR DEL DISTRITO.",
+            "txPgIndicador": "PORCENTAJE DE UNIDADES PRODUCTORAS (IIEE) CON EL SERVICIO DE EDUCACIÓN INICIAL, PRIMARIA Y SECUNDARIA CON CAPACIDAD INSTALADA ADECUADA (100%).",
+            "txPgMeta": "INCREMENTAR AL 2026 EN UN 40% DE IIEE QUE CUENTAN CON CAPACIDAD INSTALADA ADECUADA.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 168243,
+            "txPgProblema": "BAJOS NIVELES DE COMPETITIVIDAD EN LA PRODUCCIÓN CON EL USO DE TECNOLOGÍA E INFRAESTRUCTURA.",
+            "txPgObjetivo": "MEJORAR LA COMPETITIVIDAD DE LAS PRINCIPALES ACTIVIDADES ECONÓMICAS DEL DISTRITO",
+            "txPgIndicador": "INCREMENTO DE LA PRODUCCIÓN Y PRODUCTIVIDAD EN LAS CADENAS PRODUCTIVAS DE LAS PRINCIPALES ACTIVIDADES ECONÓMICAS.",
+            "txPgMeta": "-\tAL 2026 EL 80% DE LAS UNIDADES PRODUCTORAS MEJORAR SU PRODUCCIÓN Y COMPETIVIDAD.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 168251,
+            "txPgProblema": "-\tALTO CONGESTIONAMIENTO VEHICULAR EN AVENIDAS PRINCIPALES.",
+            "txPgObjetivo": "-\tMEJORAR EL ESTADO DE LA INFRAESTRUCTURA VIAL, DE TELECOMUNICACIONES, DE ENERGÍA ELÉCTRICA E INCREMENTAR LOS ACCESOS A VÍA RÁPIDA",
+            "txPgIndicador": "-\tPORCENTAJE DE VÍAS CON ASFALTO Y MANTENIMIENTO PERMANENTE.",
+            "txPgMeta": "-\tAL 2026 ALCANZAR EL 80% DE VÍAS (CALLES AVENIDAS) CON ASFALTO Y MANTENIMIENTO. 20% ANUAL).",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 168263,
+            "txPgProblema": "-\tALTA DEMANDA DE TIEMPO DE TRANSPIRABILIDAD DE UN LUGAR A OTRO EN EL MISMO DISTRITO",
+            "txPgObjetivo": "-\tMEJORAR EL ESTADO DE LA INFRAESTRUCTURA VIAL, DE TELECOMUNICACIONES, DE ENERGÍA ELÉCTRICA E INCREMENTAR LOS ACCESOS A VÍA RÁPIDA",
+            "txPgIndicador": "-\tPORCENTAJE DE POBLACIÓN SIN ACCESO A ELECTRIFICACIÓN INTERNA Y PUBLICA.",
+            "txPgMeta": "-\tAL 2026 ALCANZAR UNA COBERTURA DEL 100% DE LA POBLACIÓN CON ACCESO A ENERGÍA ELÉCTRICA.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 168273,
+            "txPgProblema": "-\tFALTA DE INFRAESTRUCTURA VIAL CON ÁREAS VERDES Y ARBORIZACIÓN.",
+            "txPgObjetivo": "-\tMEJORAR  LA  INFRAESTRUCTURA  VIAL,  CON  ÁREAS  VERDES  Y  ARBORIZACIÓN  PARA  CONTRARRESTAR  LA  CONTAMINACIÓN AMBIENTAL.",
+            "txPgIndicador": "-\tPORCENTAJE DE QUEJAS DE RUPTURA DEL SISTEMA DE ALCANTARILLADO DOMÉSTICO",
+            "txPgMeta": "-\tDISMINUCIÓN DE QUEJAS DE RUPTURA Y COLAPSO DEL SISTEMA DE ALCANTARILLADO DOMÉSTICO EN UN 50%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 168319,
+            "txPgProblema": "-\tCONTAMINACIÓN POR LA INADECUADA RECOLECCIÓN Y TRATAMIENTO DE LOS RESIDUOS SÓLIDOS DOMÉSTICOS E INDUSTRIALES DEL DISTRITO.",
+            "txPgObjetivo": "-\tFOMENTAR EL ADECUADA RECOLECCIÓN Y TRATAMIENTO DE LOS RESIDUOS SÓLIDOS DOMÉSTICOS E INDUSTRIALES DEL DISTRITO.",
+            "txPgIndicador": "-\tDISMINUCIÓN DE LA CONTAMINACIÓN AMBIENTAL, Y CREACIÓN DE PUESTOS DE EMPLEO EN LO QUE CONCIERNE A MANO DE OBRA NO CALIFICADA.\n-\tFOMENTAR LA PARTICIPACIÓN DE LOS VECINOS\tEN LA IMPORTANCIA DE LA\tSEPARACIÓN DE LA BASURA EN ORGÁNICA E INORGÁNICA A TRAVÉS DE UNA CAPACITACIÓN.\n-\tGESTIONAR LA CONCESION DE\tUNA EMPRESA ESPECIALISTA EN EL RECOJO Y TRATAMIENTO PARA LA INDUSTRIALIZACIÓN DE LA BASURA EN EL DISTRITO DE LA ESPERANZA.",
+            "txPgMeta": "-\tAL 2026 AUMENTAR LA PARTICIPACIÓN DE LA POBLACIÓN EN UN 80 EN LA SEPARACIÓN DE LOS RESIDUOS SÓLIDOS.\n-\tCONCESIÓN DE UNA EMPRESA ESPECIALISTA EN RECOJO Y TRATAMIENTO DE BASURA.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 168333,
+            "txPgProblema": "-\tGESTIÓN SIN ENFOQUE A RESULTADOS.",
+            "txPgObjetivo": "-\tMEJORAR LA GOBERNANZA EN EL ÁMBITO DISTRITAL DE LA ESPERANZA",
+            "txPgIndicador": "-\tCREACIÓN DE UN EQUIPO TÉCNICO ESPECIALIZADO PARA LA CREACIÓN DE PROYECTOS PÚBLICOS.",
+            "txPgMeta": "-\tAL 2026 EL EQUIPO TÉCNICO HA FORMULADO PROYECTOS PÚBLICOS CON BASE A LA BRECHAS DEL DISTRITO.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 168355,
+            "txPgProblema": "-\tGESTIÓN SIN ENFOQUE A LA MODERNIZACIÓN DE LA GESTIÓN PÚBLICA, GOBIERNO ABIERTO Y RENDICIONES DE CUENTAS.",
+            "txPgObjetivo": "INSTITUCIONALIZACIÓN  DE  LA TRANSPARENCIA  Y  LA  RENDICIÓN  DE CUENTAS,  A  TRAVÉS  DE  TECNOLOGÍAS DE LA COMUNICACIÓN  E  INFORMACIÓN APROPIADAS  PARA  UN  GOBIERNO ELECTRÓNICO EFECTIVO Y ABIERTO.",
+            "txPgIndicador": "-\tCONFORMACIÓN DE ALIANZAS ESTRATÉGICAS PÚBLICAS-PRIVADAS PARA IMPLEMENTAR, OPERAR Y MONITOREAR LOS SISTEMAS DE GESTIÓN. \n-\tCREACIÓN DE LA ESCUELA ESPECIALIZADA PARA LA CAPACITACIÓN DE SEGURIDAD CIUDADANA.",
+            "txPgMeta": "-\tAL 2026 EL DISTRITO CUENTA CON 2 ALIANZAS ESTRATÉGICAS QUE OPERAR Y MONITOREAN LOS PRINCIPALES SISTEMAS IMPLEMENTADOS.\n-\tAL 2026 EL DISTRO CUENTA CON LA ESCUELA ESPECIALIZADA SOBRE CAPACITACIÓN EN SEGURIDAD CIUDADANA.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

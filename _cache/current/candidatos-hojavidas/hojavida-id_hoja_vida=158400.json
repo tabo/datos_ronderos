@@ -1,0 +1,150 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 158400.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "10212048",
+        "nombres": "LUIS",
+        "apellidoPaterno": "TAMAYO",
+        "apellidoMaterno": "BENITES",
+        "sexo": "1",
+        "feNacimiento": "24/06/1958",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "030202",
+        "naciDepartamento": "APURIMAC",
+        "naciProvincia": "AYMARAES",
+        "naciDistrito": "CAPAYA",
+        "ubigeoDomicilio": "030202",
+        "domiDepartamento": "APURIMAC",
+        "domiProvincia": "AYMARAES",
+        "domiDistrito": "CAPAYA",
+        "domicilioDirecc": "CAPAYA S/N.",
+        "ubigeoPostula": "030202",
+        "postulaDepartamento": "APURIMAC",
+        "postulaProvincia": "AYMARAES",
+        "postulaDistrito": "CAPAYA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/158400.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2886.0,
+        "organizacionPolitica": "HATARIY APURIMAC",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 13:08:32",
+        "txGuidFormatoHojaVida": "704d9720-5a6c-4179-a7c1-7488f9cb0ca6",
+        "idSolicitudLista": 25920.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 222627,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "CURTIEMBRE LA UNION",
+            "ocupacionProfesion": "CURTIDOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR ACOMAYO 222",
+            "anioTrabajoDesde": "1985",
+            "anioTrabajoHasta": "2000",
+            "ubigeoTrabajo": "140101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "LIMA",
+            "idHojaVida": 158400,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 196206,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 158400,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 143002,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 46,
+                "orgPolCargoElec": "PERU POSIBLE",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2003",
+                "anioCargoElecHasta": "2006",
+                "idHojaVida": 158400,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 158250,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 4,
+            "orgPolRenunciaOp": "ACCION POPULAR",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 158400,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 158249,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 158400,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 180167,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 15000.0,
+                "idHojaVida": 158400,
+                "idEstado": 1,
+                "totalIngresos": 15000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

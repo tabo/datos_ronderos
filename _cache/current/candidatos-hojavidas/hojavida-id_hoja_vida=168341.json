@@ -1,0 +1,179 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 168341.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "45064336",
+        "nombres": "MELISSA",
+        "apellidoPaterno": "LAZARO",
+        "apellidoMaterno": "TOHALINO",
+        "sexo": "2",
+        "feNacimiento": "04/05/1988",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140133",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "JESUS MARIA",
+        "ubigeoDomicilio": "040403",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "CARAVELI",
+        "domiDistrito": "ATICO",
+        "domicilioDirecc": "ASENTAMIENTO HUMANO LAS LOMAS DE LA FLORIDA LOT 5 MZ 64",
+        "ubigeoPostula": "040403",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "CARAVELI",
+        "postulaDistrito": "ATICO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/168341.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 1393.0,
+        "organizacionPolitica": "FUERZA AREQUIPEÑA",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 12:57:40",
+        "txGuidFormatoHojaVida": "9bc08f0f-2f69-41d0-979d-8a0b3fc1347a",
+        "idSolicitudLista": 27276.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 241273,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "EULEN DEL PERU",
+            "ocupacionProfesion": "OPERADOR DE LIMPIEZA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE UGARTE Y MOSCOSO N. 290",
+            "anioTrabajoDesde": "2016",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140114",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "MAGDALENA DEL MAR",
+            "idHojaVida": 168341,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 213085,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 168341,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 154481,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "INSTITUTO HIPOLITO UNANUE",
+                "carreraTecnico": "ENFERMERIA TECNICA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 168341,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 192937,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 11160.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 168341,
+                "idEstado": 1,
+                "totalIngresos": 11160.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 237855,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "VIVIENDA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "AAHH LAS LOMAS DE LA FLORIDA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 300.0,
+                "idHojaVida": 168341,
+                "idEstado": 1,
+                "flValor": "70000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 196701,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "MOTOTAXI",
+                "marca": null,
+                "placa": "4533-NA",
+                "valor": 6000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOTAXI",
+                "comentario": null,
+                "idHojaVida": 168341,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 196616,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "4533NA ",
+                "valor": 20000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "ARTSUN COLOR AZUL",
+                "comentario": null,
+                "idHojaVida": 168341,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

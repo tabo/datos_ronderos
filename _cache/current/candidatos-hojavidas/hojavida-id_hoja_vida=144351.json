@@ -1,0 +1,156 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 144351.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "16790045",
+        "nombres": "ENRIQUE ANTONIO",
+        "apellidoPaterno": "LARREA",
+        "apellidoMaterno": "BARRETO",
+        "sexo": "1",
+        "feNacimiento": "10/09/1973",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "130101",
+        "naciDepartamento": "LAMBAYEQUE",
+        "naciProvincia": "CHICLAYO",
+        "naciDistrito": "CHICLAYO",
+        "ubigeoDomicilio": "130118",
+        "domiDepartamento": "LAMBAYEQUE",
+        "domiProvincia": "CHICLAYO",
+        "domiDistrito": "POMALCA",
+        "domicilioDirecc": "CENT POMALCA MZ. 96 LT. 11",
+        "ubigeoPostula": "130118",
+        "postulaDepartamento": "LAMBAYEQUE",
+        "postulaProvincia": "CHICLAYO",
+        "postulaDistrito": "POMALCA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/144351.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 22.0,
+        "organizacionPolitica": "RENOVACION POPULAR",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 19:15:41",
+        "txGuidFormatoHojaVida": "01dd4b21-900a-4efa-bfe4-576fe13f72a3",
+        "idSolicitudLista": 24009.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 164105,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "ROCA FUERTE CORREDORES DE SEGURO S.A.C",
+            "ocupacionProfesion": "PROMOTOR DE SEGUROS",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE ELIAS AGUIRRE 748",
+            "anioTrabajoDesde": "2019",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "130118",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LAMBAYEQUE",
+            "trabajoProvincia": "CHICLAYO",
+            "trabajoDistrito": "POMALCA",
+            "idHojaVida": 144351,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 143432,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 144351,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 138440,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 32,
+            "orgPolRenunciaOp": "PARTIDO APRISTA PERUANO",
+            "anioRenunciaOp": "2020",
+            "idHojaVida": 144351,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 140966,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 4211.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 144351,
+                "idEstado": 1,
+                "totalIngresos": 4211.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 153674,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "0072LM ",
+                "valor": 4200.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MODELO 125ZEURO III - MARCA ITALIKA - COLOR NEGRO ROJO",
+                "comentario": null,
+                "idHojaVida": 144351,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 153673,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "MB2517 ",
+                "valor": 4500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR ROJO - MARCA WANXIN - MODELO WX150-K",
+                "comentario": null,
+                "idHojaVida": 144351,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

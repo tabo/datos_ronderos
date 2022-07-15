@@ -1,0 +1,142 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 215344.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "23009020",
+        "nombres": "AUGUSTO BARTOLOME",
+        "apellidoPaterno": "JORGE",
+        "apellidoMaterno": "MORALES",
+        "sexo": "1",
+        "feNacimiento": "14/09/1974",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "090314",
+        "naciDepartamento": "HUANUCO",
+        "naciProvincia": "DOS DE MAYO",
+        "naciDistrito": "PACHAS",
+        "ubigeoDomicilio": "090603",
+        "domiDepartamento": "HUANUCO",
+        "domiProvincia": "LEONCIO PRADO",
+        "domiDistrito": "HERMILIO VALDIZAN",
+        "domicilioDirecc": "CASERIO MARIANO BUSTAMANTE",
+        "ubigeoPostula": "090603",
+        "postulaDepartamento": "HUANUCO",
+        "postulaProvincia": "LEONCIO PRADO",
+        "postulaDistrito": "HERMILIO VALDIZAN",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/215344.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 09:48:41",
+        "txGuidFormatoHojaVida": "7b11cbf1-bd7d-4d68-aa18-ab5df7197f94",
+        "idSolicitudLista": 33469.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 206024,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 215344,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 143824,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 1352,
+                "orgPolCargoElec": "MOVIMIENTO POLITICO FRENTE AMPLIO REGIONAL PAISANOCUNA",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2015",
+                "anioCargoElecHasta": "2018",
+                "idHojaVida": 215344,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 192527,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "53372W ",
+                "valor": 4000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "TORITO BAJAJ",
+                "comentario": null,
+                "idHojaVida": 215344,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 192526,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "W38763 ",
+                "valor": 3000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": null,
+                "idHojaVida": 215344,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 135383,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "00269-2016",
+            "feSentenciaPenal": "30/05/2018",
+            "txOrganoJudiPenal": "LEONCIO PRADO",
+            "txDelitoPenal": "ACTOS CONTRA EL PUDOR",
+            "txFalloPenal": "SENTENCIADO",
+            "idParamModalidad": 11,
+            "txModalidad": "SUSPENDIDA",
+            "txOtraModalidad": null,
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 215344,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": []
+}

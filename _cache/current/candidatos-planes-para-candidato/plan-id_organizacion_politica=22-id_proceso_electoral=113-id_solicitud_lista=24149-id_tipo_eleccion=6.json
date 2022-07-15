@@ -1,0 +1,105 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 17475,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 22,
+        "txOrganizacionPolitica": "RENOVACION POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/eab491e6-fe1c-4024-8d3d-1675f219bb61.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/05788e5e-4cfc-42be-8472-0736bc7b54c9.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 188160,
+            "txPgProblema": "1.\tDEFICIENTE E INEFICIENTE SISTEMA DE AGUA Y DESAGUE.",
+            "txPgObjetivo": "PRIORIZAR SERVICIOS DE AGUA, DESAGÜE Y ANEXOS Y CASERÍOS QUE AÚN NO CUENTAN CON EL SERVICIO",
+            "txPgIndicador": "-\t% DE FAMILIAS QUE ACCEDEN A SERVICIOS DE AGUA Y DESAGÜE",
+            "txPgMeta": "-\t90% DE FAMILIAS ACCEDEN AL SERVICIO DE AGUA\n-\t80% DE FAMILIAS CUENTAN CON SERVICIO DE DESAGÜE",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 188188,
+            "txPgProblema": "2.\tDEFICIENTE SISTEMA DE DRENAJE PLUVIAL",
+            "txPgObjetivo": "2.1.\tDOTAR DE UN ADECUADO SISTEMA DE DRENAJE PLUVIAL.",
+            "txPgIndicador": "-\tN.° DE CANALETAS EN ZONAS URBANAS",
+            "txPgMeta": "-\t90% MEJORAMIENTO Y AMPLIACIÓN DEL SISTEMA DE DRENAJE PLUVIAL EN LAS PARTES ALTAS DEL SECTOR EN LAS ZONAS URBANAS.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 188271,
+            "txPgProblema": "3.\tINADECUADA INFRAESTRUCTURA, DISTRIBUCIÓN DEL ESTABLECIMIENTO DE SALUD",
+            "txPgObjetivo": "3.1.\tDOTAR DE UN ESTABLECIMIENTO DE SALUD DE PRIMER NIVEL EN ATENCIÓN EN LOS SERVICIOS DE ODONTOLOGÍA Y OBSTETRICIA.\n3.2.\tMEJORAMIENTO DE LOS SERVICIOS DE SALUD CON INFRAESTRUCTURA DE CALIDAD Y EQUIPAMIENTO MODERNO.",
+            "txPgIndicador": "-\t% DE EQUIPAMIENTO EN SALUD",
+            "txPgMeta": "-\t30% DE MEJORA EN EQUIPAMIENTO E INFRAESTRUCTURA EN LOS PUESTOS DE SALUD",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 188348,
+            "txPgProblema": "1.\tINCAPACIDAD TÉCNICA PARA DESARROLLAR ACTIVIDADES AGROPECUARIAS",
+            "txPgObjetivo": "1.1.\t FORTALECER LA PRODUCCIÓN AGRÍCOLA Y SU COMERCIALIZACIÓN \n1.2.\tINCREMENTAR LA COMERCIALIZACIÓN DE LA PITAJAYA\n1.3.\tBRINDAR ASISTENCIA TÉCNICO - PRODUCTIVA CON INSERCIÓN DE JÓVENES TÉCNICOS Y PROFESIONALES.",
+            "txPgIndicador": "-\tINGRESO PER CÁPITA\n-\tN.° DE ASISTENCIAS TÉCNICAS\n-\tN.° DE FERIAS REALIZADAS",
+            "txPgMeta": "-\t10% DE INCREMENTO DEL INGRESO PER CÁPITA \n-\tPOBLADORES CON MAYOR CAPACIDAD PRODUCTIVA\n-\t1 FERIAS AGROPECUARIAS ANUALES PARA ESTIMULAR LA MEJORA EN CALIDAD Y PRODUCTIVIDAD",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 188373,
+            "txPgProblema": "2.\tDEFICIENTE PROMOCIÓN TURÍSTICA",
+            "txPgObjetivo": "2.1.\tFORTALECER LA DIFUSIÓN DEL POTENCIAL TURÍSTICO DE LA ZONA \n2.2.\tMEJORAR LA ACCESIBILIDAD PARA EL DESARROLLO DE BARRANQUISMO\n2.3.\tIMPULSAR LA IMPLEMENTACIÓN DE SERVICIOS TURÍSTICOS EN EL DISTRITO",
+            "txPgIndicador": "-\tN.° DE VISITANTES\n-\tN.° DE EVENTOS DE DIFUSIÓN\n-\tN.° DE SERVICIOS IMPLEMENTADOS",
+            "txPgMeta": "-\tAUMENTAR EN UN 40% LAS VISITAS A ATRACTIVOS TURÍSTICOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 188454,
+            "txPgProblema": "1.\tDEFICIENTE GESTIÓN DE RESIDUOS SÓLIDOS Y LIMPIEZA PÚBLICA",
+            "txPgObjetivo": "1.1.\t DAR SOSTENIBILIDAD AL SERVICIO DE RECOJO DE RESIDUOS SÓLIDOS Y LIMPIEZA PÚBLICA\n\n1.2.\tDESARROLLAR PROGRAMAS Y ACTIVIDADES DE SEGREGACIÓN EN LOS DOMICILIOS",
+            "txPgIndicador": "-\t% DE PORTE ECONÓMICO DE LA POBLACIÓN\n-\t% DE APORTE DE LA MUNICIPALIDAD\n-\tTONELADAS DE RECICLABLES POR AÑO",
+            "txPgMeta": "-\tMANTENER EL SERVICIO DE  RECOJO DE RESIDUOS CON FRECUENCIA DE 2 DÍAS POR SEMANA\n-\t5 TM DE RECICLABLES COMERCIALIZADOS ANUALMENTE",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 188515,
+            "txPgProblema": "1.\tFALTA DE IMPLEMENTACIÓN DE LA LEY DE MODERNIZACIÓN DE LA GESTIÓN",
+            "txPgObjetivo": "1.1.\tACTUALIZACIÓN PARTICIPATIVA DE LOS DOCUMENTOS DE GESTIÓN MUNICIPAL",
+            "txPgIndicador": "-\tN.° DE DOCUMENTOS DE GESTIÓN ACTUALIZADOS\n-\tGRADO DE SATISFACCIÓN DE LOS POBLADORES",
+            "txPgMeta": "-\tROF ACTUALIZADO\n-\tMPP ACTUALIZADO\n-\tMAPRO SIMPLIFICADO\n-\tCAP PROVISIONAL ACTUALIZADO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 188531,
+            "txPgProblema": "2.\tCARENCIA DE PROGRAMAS PARA FORTALECIMIENTO DE CAPACIDADES",
+            "txPgObjetivo": "2.1.\tDESARROLLAR PROGRAMAS DE FORTALECIMIENTO DE CAPACIDADES",
+            "txPgIndicador": "-\tN.° DE CAPACITACIONES REALIZADAS",
+            "txPgMeta": "-\t50% DE LOS SERVIDORES CON MEJORES HERRAMIENTAS PARA EL CUMPLIMIENTO DE SUS FUNCIONES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

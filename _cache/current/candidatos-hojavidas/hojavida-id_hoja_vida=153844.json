@@ -1,0 +1,170 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 153844.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "45986644",
+        "nombres": "ADMIR STALIN",
+        "apellidoPaterno": "MANRIQUE",
+        "apellidoMaterno": "LORENZO",
+        "sexo": "1",
+        "feNacimiento": "21/10/1989",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "022010",
+        "naciDepartamento": "ANCASH",
+        "naciProvincia": "OCROS",
+        "naciDistrito": "SANTIAGO DE CHILCAS",
+        "ubigeoDomicilio": "022010",
+        "domiDepartamento": "ANCASH",
+        "domiProvincia": "OCROS",
+        "domiDistrito": "SANTIAGO DE CHILCAS",
+        "domicilioDirecc": "CALLE COMERCIO S/N",
+        "ubigeoPostula": "022010",
+        "postulaDepartamento": "ANCASH",
+        "postulaProvincia": "OCROS",
+        "postulaDistrito": "SANTIAGO DE CHILCAS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/153844.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2881.0,
+        "organizacionPolitica": "SOCIOS POR ANCASH",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 20:50:30",
+        "txGuidFormatoHojaVida": "36f41ff0-57c9-4326-97e7-1a6582e2e0e0",
+        "idSolicitudLista": 25293.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 190453,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MUNICIPALIDAD DISTRITAL DE ACAS",
+            "ocupacionProfesion": "CONDUCTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "PLAZA DE ARMAS S/N",
+            "anioTrabajoDesde": "2014",
+            "anioTrabajoHasta": "2018",
+            "ubigeoTrabajo": "022001",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "ANCASH",
+            "trabajoProvincia": "OCROS",
+            "trabajoDistrito": "ACAS",
+            "idHojaVida": 153844,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 167890,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 153844,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 142724,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "CESIG",
+                "carreraTecnico": "COMPUTACION E INFORMATICA",
+                "concluidoEduTecnico": "2",
+                "idHojaVida": 153844,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 138339,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "SENATI",
+                "carreraNoUni": "ELECTRICISTA INDUSTRIAL",
+                "concluidoNoUni": "2",
+                "idHojaVida": 153844,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 147831,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 179,
+            "orgPolRenunciaOp": "PARTIDO NACIONALISTA PERUANO",
+            "anioRenunciaOp": "2017",
+            "idHojaVida": 153844,
+            "idEstado": 1,
+            "txComentario": "RENUNCIA -06-JUN-2017"
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 158841,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 5000.0,
+                "idHojaVida": 153844,
+                "idEstado": 1,
+                "totalIngresos": 5000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 200446,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "TERRENO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "BARRANCA- BARRANCA - LIMA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 5000.0,
+                "idHojaVida": 153844,
+                "idEstado": 1,
+                "flValor": "5000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

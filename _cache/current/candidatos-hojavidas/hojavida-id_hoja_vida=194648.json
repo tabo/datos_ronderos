@@ -1,0 +1,155 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 194648.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "10691380",
+        "nombres": "NICOL ORLANDO",
+        "apellidoPaterno": "AGUADO",
+        "apellidoMaterno": "ALVA",
+        "sexo": "1",
+        "feNacimiento": "20/12/1976",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "020324",
+        "naciDepartamento": "ANCASH",
+        "naciProvincia": "BOLOGNESI",
+        "naciDistrito": "LA PRIMAVERA",
+        "ubigeoDomicilio": "020324",
+        "domiDepartamento": "ANCASH",
+        "domiProvincia": "BOLOGNESI",
+        "domiDistrito": "LA PRIMAVERA",
+        "domicilioDirecc": "CALLE SAN LORENZO. S N",
+        "ubigeoPostula": "020324",
+        "postulaDepartamento": "ANCASH",
+        "postulaProvincia": "BOLOGNESI",
+        "postulaDistrito": "LA PRIMAVERA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/194648.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 10:39:01",
+        "txGuidFormatoHojaVida": "644b0121-ce46-4905-8434-4a1b0996c0a1",
+        "idSolicitudLista": 30826.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 232880,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "CONDUCTOR TAXISTA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "LIMA",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "LIMA",
+            "idHojaVida": 194648,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 205524,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 194648,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 142093,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 55,
+                "orgPolCargoPartidario": "PARTIDO POLÍTICO PERU PATRIA SEGURA",
+                "cargoPartidario": "MILITANTE",
+                "anioCargoPartiDesde": "2010",
+                "anioCargoPartiHasta": "2021",
+                "idHojaVida": 194648,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 161318,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 55,
+            "orgPolRenunciaOp": "PERU PATRIA SEGURA",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 194648,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 186900,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 12000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 194648,
+                "idEstado": 1,
+                "totalIngresos": 12000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 192190,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "RGO586 ",
+                "valor": 40000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COMBI DEL AÑO 95 MARCA TOYOTA",
+                "comentario": null,
+                "idHojaVida": 194648,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

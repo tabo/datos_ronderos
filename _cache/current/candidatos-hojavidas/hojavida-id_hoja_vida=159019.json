@@ -1,0 +1,180 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 159019.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43695633",
+        "nombres": "DARIO",
+        "apellidoPaterno": "ROSALES",
+        "apellidoMaterno": "JIMENEZ",
+        "sexo": "1",
+        "feNacimiento": "15/08/1986",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "061107",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "SAN IGNACIO",
+        "naciDistrito": "TABACONAS",
+        "ubigeoDomicilio": "061107",
+        "domiDepartamento": "CAJAMARCA",
+        "domiProvincia": "SAN IGNACIO",
+        "domiDistrito": "TABACONAS",
+        "domicilioDirecc": "C.POBLADO GUAYABAL",
+        "ubigeoPostula": "061107",
+        "postulaDepartamento": "CAJAMARCA",
+        "postulaProvincia": "SAN IGNACIO",
+        "postulaDistrito": "TABACONAS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/159019.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 4.0,
+        "organizacionPolitica": "ACCION POPULAR",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 02:23:51",
+        "txGuidFormatoHojaVida": "cf909490-2d0e-47f7-8b79-fe687309ac1f",
+        "idSolicitudLista": 26010.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 204863,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 159019,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 161112,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 47,
+            "orgPolRenunciaOp": "UNION POR EL PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 159019,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 186459,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 50000.0,
+                "idHojaVida": 159019,
+                "idEstado": 1,
+                "totalIngresos": 50000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 231382,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 2,
+                "tipoBienInmueble": "PREDIO AGRICOLA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CASERIO CHARAPE-CC.PP GUAYABAL-DISTRITO TABACONAS",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 159019,
+                "idEstado": 1,
+                "flValor": "70000"
+            },
+            {
+                "idHvBienInmueble": 231330,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "SAN IGNACIO-TABACONAS- MZ 8 LOTE 19 - CENTRO POBLADO GUAYABAL",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "11066481",
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 159019,
+                "idEstado": 1,
+                "flValor": "90000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 191854,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "7045FM ",
+                "valor": 80000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMIONETA COLOR NEGRA, MARCA TOYOTA, MODELO HILUX",
+                "comentario": null,
+                "idHojaVida": 159019,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 191853,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "P3J802 ",
+                "valor": 90000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMIONETA COLOR NEGRA, MARCA TOYOTA, MODELO HILUX",
+                "comentario": null,
+                "idHojaVida": 159019,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

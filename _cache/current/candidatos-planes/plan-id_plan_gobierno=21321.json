@@ -1,0 +1,85 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 21321,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1366,
+        "txOrganizacionPolitica": "FUERZA POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1695,
+        "juradoElectoral": "LIMA ESTE 2",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/2bd45ba7-68e3-437e-8316-7ef93f7f32f6.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/028d393e-fcc4-4eb6-8855-a179f53bb89e.pdf",
+        "txCodExpedienteExt": "ERM.2022011484",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 228780,
+            "txPgProblema": "1. ALTO ÍNDICE DE\nINSEGURIDAD",
+            "txPgObjetivo": "DESARROLLAR UN PLAN INTEGRAL\nDE SEGURIDAD DE LOS\nCIUDADANOS EN COLABORACIÓN\nCON LA POLICÍA NACIONAL Y LA\nPOBLACIÓN.",
+            "txPgIndicador": "ÍNDICE DE\nSEGURIDAD",
+            "txPgMeta": "DISMINUIR <=\n20 % EL ÍNDICE\nDE SEGURIDAD",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 228785,
+            "txPgProblema": "1.BAJO NIVEL DE\nEMPLEABILIDAD DE\nPOBLACIÓN\nVULNERABLES",
+            "txPgObjetivo": "- IMPULSAR Y PROMOVER\nPROGRAMAS INNOVADORES DE\nEMPRENDIMIENTO PARA\nEXPANDIR IDEAS DE NEGOCIOS\nINDIVIDUALES O COLECTIVOS\n(MICRO, PEQUEÑA Y MEDIANA\nEMPRESA )",
+            "txPgIndicador": "NÚMERO DE\nEMPRENDEDORES",
+            "txPgMeta": ">=130\nEMPRENDEDORES",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 228793,
+            "txPgProblema": "1.FALTA DE\nFORESTASTACIÓN DE LOS\nCERROS DEL DISTRITO Y DE\nLA RIVERA DEL RÍO RIMAC",
+            "txPgObjetivo": "INCREMENTAR EL ÁREA FOLIAR PARA\nMEJORAR LA CALIDAD DEL MEDIO\nAMBIENTE",
+            "txPgIndicador": "NÚMERO DE\nPLANTONES DE\nÁRBOLES FORESTALES\nSEMBRADOS",
+            "txPgMeta": "SEMBRAR >=13000\nPLANTONES DE\nÁRBOLES FORESTALES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 228807,
+            "txPgProblema": "3.DEFICIENTE\nMANTENIMIENTO DE\nÁREAS VERDES",
+            "txPgObjetivo": "REHABILITACIÓN DEL VIVERO\nMUNICIPAL PARA LA PRODUCCIÓN\nDE PLANTONES DE FRUTALES,\nFORESTALES Y PLANTAS\nORNAMENTALES\n. INSTALAR RIEGO TECNIFICADO EN\nPARQUES Y JARDINES\n-RECUPERACIÓN DE ESPACIOS\nABANDONADOS",
+            "txPgIndicador": "ÁREA\nRECUPERADA (M2)",
+            "txPgMeta": "INCREMENTAR\n>=20% DE ÁREA\nRECUPERADA (M2)",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 228796,
+            "txPgProblema": "1.GESTIÓN MUNICIPAL\nBUROCRÁTICA",
+            "txPgObjetivo": "EMPLEAR UN SISTEMA DE\nGESTIÓN POR OBJETIVOS CON\nMETAS DE LOS FUNCIONARIOS\nMUNICIPALES PARA COMBATIR LA\nBUROCRACIA",
+            "txPgIndicador": "% DE\nCUMPLIMIENTO DE\nLOS OBJETIVOS\nMUNICIPALES",
+            "txPgMeta": ">=85%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 228801,
+            "txPgProblema": "2.FALTA DE\nTRANSPARENCIA",
+            "txPgObjetivo": "IMPLEMENTAR EL SISTEMA\nGESTIÓN ANTI SOBORNO ISO\n37001",
+            "txPgIndicador": "CERTIFICACIÓN\nDE LA GESTIÓN\nANTI SOBORNO DE\nLA MUNICIPALIDAD",
+            "txPgMeta": "2024",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

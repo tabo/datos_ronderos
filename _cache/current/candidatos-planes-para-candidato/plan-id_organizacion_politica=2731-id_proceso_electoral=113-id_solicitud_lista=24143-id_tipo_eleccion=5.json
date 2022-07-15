@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 17469,
+        "idTipoEleccion": 5,
+        "txTipoEleccion": "MUNICIPAL PROVINCIAL",
+        "idOrganizacionPolitica": 2731,
+        "txOrganizacionPolitica": "PODEMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/dc63e1cf-38d0-45bd-ac4f-898ec6c550be.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/51224f6a-da36-4a00-94b0-8bb6e6400829.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 234249,
+            "txPgProblema": "DESNUTRICIÓN CRÓNICA INFANTIL",
+            "txPgObjetivo": "ERRADICACIÓN",
+            "txPgIndicador": "16%",
+            "txPgMeta": "12%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 234254,
+            "txPgProblema": "SOSTENIBILIDAD MYPES Y CADENAS PRODUCTIVAS",
+            "txPgObjetivo": "MAXIMIZAR USO DE FONDOS CONCURSABLES",
+            "txPgIndicador": "SIN BASE",
+            "txPgMeta": "100 MILLONES DE SOLES",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 234262,
+            "txPgProblema": "INSUFICIENTE RECOJO Y PROCESO DE RESIDUOS SÓLIDOS",
+            "txPgObjetivo": "PROCESO INTEGRAL DE RESIDUOS SÓLIDOS HACIA ECONOMÍA CIRCULAR",
+            "txPgIndicador": "PORCENTAJE\nACTUAL DE PROCESO: 5%\n\nPORCENTAJE ACTUAL DE RECOJO: 35%",
+            "txPgMeta": "PROCESO DEL 30% DE RESIDUOS E INCREMENTO DE RECOJO A 75%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 234270,
+            "txPgProblema": "INSUFICIENTE APOYO A PNP E LUCHA CONTRA LA INSEGURIDAD CIUDADANA",
+            "txPgObjetivo": "MEJORAR ESTRATEGIA DE APOYO A PNP PARA MEJORAR PERCEPCIÓN DE SEGURIDAD DE LA POBLACIÓN",
+            "txPgIndicador": "EVALUACIÓN TRIMESTRAL DE VELOCIDAD DE RESPUESTA DE PNP ANTE EVENTOS DELINCUNCIALES",
+            "txPgMeta": "15 MINUTOS DEL EVENTO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

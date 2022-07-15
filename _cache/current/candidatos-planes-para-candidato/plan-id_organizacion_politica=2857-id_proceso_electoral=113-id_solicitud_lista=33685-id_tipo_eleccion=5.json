@@ -1,0 +1,115 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 27011,
+        "idTipoEleccion": 5,
+        "txTipoEleccion": "MUNICIPAL PROVINCIAL",
+        "idOrganizacionPolitica": 2857,
+        "txOrganizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/142cbd06-2a52-4f57-b857-3f18e03e891f.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/10d0d230-c5a6-4ab6-8efc-8585c9188313.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 132885,
+            "txPgProblema": ".CARENCIA DE ELECTRIFICACIÓN",
+            "txPgObjetivo": "DOTAR DE ENERGÍA",
+            "txPgIndicador": "VIVIENDAS",
+            "txPgMeta": "1078",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132887,
+            "txPgProblema": "CENTROS EDUCATIVOS EN MAL ESTADO",
+            "txPgObjetivo": "MEJORA DE LA EDUCACIÓN",
+            "txPgIndicador": "%",
+            "txPgMeta": "30 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132898,
+            "txPgProblema": "FALTA DE SERVICIO DE SALUD",
+            "txPgObjetivo": "CONSTRUCCIÓN HOSPITAL",
+            "txPgIndicador": "UNIDAD",
+            "txPgMeta": "HOSPITAL",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 132906,
+            "txPgProblema": "TRANSPORTE",
+            "txPgObjetivo": "MEJORA DE CARRETERAS",
+            "txPgIndicador": "KMS",
+            "txPgMeta": "10 KMS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132911,
+            "txPgProblema": "ELECTRIFICACIÓN",
+            "txPgObjetivo": "MEJORA DE LA ELECTRIFICACIÓN",
+            "txPgIndicador": "PROYECTO",
+            "txPgMeta": "PROYECTO HIDROENÉRGETICO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 132917,
+            "txPgProblema": "VULNERAVILIDAD DEL MEDIO AMBIENTE",
+            "txPgObjetivo": "MEDIO AMBIENTE PROTEGIDO",
+            "txPgIndicador": "ENCAUSAMIENTO RIO",
+            "txPgMeta": "100 %  PUREZA",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132926,
+            "txPgProblema": "DISTRITO CON MEDIO AMBIENTE INSEGURO",
+            "txPgObjetivo": "CARRETERAS PROTEGIDOS",
+            "txPgIndicador": "MEJORA CARRETERAS",
+            "txPgMeta": "100% PROTEGIDOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 132930,
+            "txPgProblema": "SEGURIDAD CIUDADADA",
+            "txPgObjetivo": "CIUDAD SEGURA",
+            "txPgIndicador": "URBANO Y RURAL",
+            "txPgMeta": "100 % SEGUROS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 132938,
+            "txPgProblema": "MUNICIPALIDAD EQUIPADA",
+            "txPgObjetivo": "EQUIPAMIENTO",
+            "txPgIndicador": "MUNICIPALIDAD EQUIPADA",
+            "txPgMeta": "100 % EQUIPADAS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

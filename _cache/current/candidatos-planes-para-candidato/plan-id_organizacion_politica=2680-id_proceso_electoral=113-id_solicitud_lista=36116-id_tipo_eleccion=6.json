@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 29442,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2680,
+        "txOrganizacionPolitica": "MOVIMIENTO REGIONAL SIERRA Y SELVA CONTIGO JUNIN",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/0a579324-53d8-4ad9-bb7d-9d7d7b058266.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/ae4a5188-1596-4482-8198-2c34849d72d2.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 156777,
+            "txPgProblema": "PROBLEMAS SOCIALES",
+            "txPgObjetivo": "PROGRAMA\tDE\tDESARROLLO\tY\nCAPACITACIÓN SOCIO ECONÓMICO",
+            "txPgIndicador": "INCREMENTO DE LA PROBLEMAS SOCIALES 10% POR\nAÑO",
+            "txPgMeta": "REDUCCIÓN DE PROBLEMAS SOCIALES EN 20%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156807,
+            "txPgProblema": "PRESENCIA DE DESNUTRICIÓN CRÓNICA\nINFANTIL",
+            "txPgObjetivo": "PROMOVER\tPROGRAMAS\tALIMENTARIOS\nPARA LOS NIÑOS",
+            "txPgIndicador": "19.6 %",
+            "txPgMeta": "MEJORA DE LA ALIMENTACIÓN EN 10%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156844,
+            "txPgProblema": "PÉRDIDA DE VALORES E IDENTIDAD CULTURAL",
+            "txPgObjetivo": "IMPLEMENTAR PROGARAMAS DE RECUPERACION DE VALORES E IDENTIDAD CULTURAL",
+            "txPgIndicador": "DESINTERÉS DE LA POBLACIÓN EN\nVALORES EN 30%",
+            "txPgMeta": "FORTALECIMIENTO A LA POBLACIÓN EN 10 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 156875,
+            "txPgProblema": "BAJA PRODUCCIÓN AGROPECUANA",
+            "txPgObjetivo": "FORTALECIMIENTO AL PRODUCTOR AGROPECUARIO",
+            "txPgIndicador": "DISMINUCIÓN DE LA PRODUCTIVIDAD\nEN UN 20%",
+            "txPgMeta": "MEJORA DE LA PRODU CCIÓN 20%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156902,
+            "txPgProblema": "INCREMENTO DEL COSTO DE INSUMOS AGROPECUARIOS",
+            "txPgObjetivo": "APERTURA DE LA CASA AGROPECUARIA",
+            "txPgIndicador": "INCREMENTO DE PRECIOS DE MSUMOS AGROPECUARIOS\nEN UN 70%",
+            "txPgMeta": "REDUCCIÓN DE COSTOS EN 10%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156932,
+            "txPgProblema": "PRODUCTOS AGROPECUARIOS SIN TRANSFORMACIÓN",
+            "txPgObjetivo": "PROCESAMIENTO DE PRODUCTOS DEL AGRO",
+            "txPgIndicador": "PROCESAMIENTO ARTESANAL EN 10%",
+            "txPgMeta": "PROCESAMIENTO DE 10 PRODUCTOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 156956,
+            "txPgProblema": "DEFORESTACIÓN Y OTROS PROBLEMAS AMBIENTALES",
+            "txPgObjetivo": "PRODUCCIÓN DE PLANTONES AGROFORESTALES",
+            "txPgIndicador": "REPOSICIÓN A LA EXTRACCION  EN 10%",
+            "txPgMeta": "PLANTACIÓN DE 200,00 PLANTONES AGROFORESTALES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 156985,
+            "txPgProblema": "FALTA DE CONCIENCIA\nAMBIENTAL RESIDUOS SOLIDOS",
+            "txPgObjetivo": "MEJORA EN LA SENSIBILIZACIÓN, RECOJO\nY TRATAMIENTO DE LOS RESIDUOS SOLIDOS",
+            "txPgIndicador": "INCREMENTO DE RESIDUOS SÓLIDOS EN 30%",
+            "txPgMeta": "MEJORA EN EL TRATAMIENTO EN 50%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 157004,
+            "txPgProblema": "PERDIDA DE ESPECIES FORESTALES NATIVAS",
+            "txPgObjetivo": "IMPLEMENTACIÓN DE VIVEROS CON ESPECIES NATIVAS DE LA ZONA",
+            "txPgIndicador": "PERDIDA DE ESPECIES FORESTALES EN\n15% ANUALES",
+            "txPgMeta": "INSTALACIÓN DE 200,000\nPLANTONES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 157026,
+            "txPgProblema": "SISTEMA ADMINISTRATIVO DESACTUALIZADA",
+            "txPgObjetivo": "ACTUALIZACIÓN DE SISTEMAS ADMINISTRATIVOS",
+            "txPgIndicador": "SISTEMA ADMINISTRATIVO CON MEJORAS DE ACTUALIZACIÓN EN\n10% ANUALES",
+            "txPgMeta": "MEJORA EN LA GESTIÓN ADMINIS TRATIVA EN 50 %",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 157044,
+            "txPgProblema": "FALTA DE EQUIPAMIENTO EN ÁREAS SENSIBLES DE LA MUNICIPALIDAD",
+            "txPgObjetivo": "EQUIPAMIENTO INSTITUCIONAL EN ÁREAS PRIORITARIAS DE ATENCIÓN AL\nCIUDADANO",
+            "txPgIndicador": "FALTA DE EQUIPAMIENTO EN\nUN 60%",
+            "txPgMeta": "MEJORA EN LA ATENCIÓN EN\n50%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 157058,
+            "txPgProblema": "ORGANIZACIONES DE BASE EN DESORDEN Y\nDESINFORMADAS",
+            "txPgObjetivo": "FO1TALECIMIENTO DE LAS ORGANIZACIONES SOCIALES DE BASE",
+            "txPgIndicador": "DESORGANIZACIÓN EN INSTITUCIONES\nDE BASE  EN 50%",
+            "txPgMeta": "MEJORA DE 10 ORGANIZACIONES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

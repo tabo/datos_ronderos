@@ -1,0 +1,95 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 26776,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1257,
+        "txOrganizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1705,
+        "juradoElectoral": "MARISCAL NIETO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/6200d8da-02fa-4767-b8c0-b49aeb925817.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/c03acec6-3dc6-4121-bd8f-a8e542ffb660.pdf",
+        "txCodExpedienteExt": "ERM.2022011450",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 216260,
+            "txPgProblema": "DEFICIENTE COBERTURA DEL SERVICIO DE AGUA POTABLE, SISTEMA DE DESAGÜE U OTRAS FORMAS DE DISPOSICIÓN SANITARIA DE EXCRETAS EN EL DISTRITO DE CUCHUMBAYA.",
+            "txPgObjetivo": "MEJORAR LAS CONDICIONES DE VIDA DE LA POBLACIÓN",
+            "txPgIndicador": "PORCENTAJE (%) DE VIVIENDAS SIN SERVICIOS BASICOS",
+            "txPgMeta": "INTEGRAR EL SERVICIO DE AGUA POTABLE Y SISTEMA DE DESAGÜE DEL DISTRITO DE CUCHUMBAYA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 216293,
+            "txPgProblema": "DEFICIENTE COBERTURA DE ASISTENCIA DE SALUD.",
+            "txPgObjetivo": "MEJORAR LAS CONDICIONES DE VIDA DE LA POBLACIÓN.",
+            "txPgIndicador": "PORCENTAJE (%) PACIENTES ATENDIDOS EN CENTROS DE SALUD",
+            "txPgMeta": "COBERTURAR EN 30% LA ATENCIÓN DE SALUD EN EL DISTRITO Y SUS ANEXOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 216317,
+            "txPgProblema": "DEFICIENTE ESTADO DE INFRAESTRUCTURA DEPORTIVA, QUE LIMITA LA PRÁCTICA DEPORTIVA",
+            "txPgObjetivo": "MEJORAR LAS CONDICIONES DE VIDA DE LA POBLACIÓN.",
+            "txPgIndicador": "PORCENTAJE (%) INFRAESTRUCTURA DEPORTIVA",
+            "txPgMeta": "INCREMENTOS DE ESPACIOS DEPORTIVOS EN TODO LOS ANEXOS DEL DISTRITO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 216334,
+            "txPgProblema": "DÉBIL CAPACIDAD DE ORGANIZACIÓN, PRODUCCIÓN Y COMERCIALIZACIÓN DE LOS PRODUCTORES AGRARIOS, DÉBIL CAPACIDAD DE MANEJO DEL SISTEMA DE PRODUCCIÓN AGRARIA; LIMITADA CAPACIDAD DE MANEJO DEL SISTEMA PECUARIO.\nUSO DEFICIENTE DE LOS RECURSOS HÍDRICOS. DÉBIL FORTALECIMIENTO EN LAS ACTIVIDADES AGRÍCOLAS A NIVEL DEL DISTRITO.",
+            "txPgObjetivo": "PROMOVER LA COMPETITIVIDAD AGROPECUARIA EN EL DISTRITO.",
+            "txPgIndicador": "PORCENTAJE (%) DE AGRICULTORES QUE CUENTAN CON SISTEMAS INNOVADORES DE PRODUCCIÓN",
+            "txPgMeta": "ALCANZAR UN 20 % DE AGRICULTORES UTILICEN LA TÉCNICAS MODERNAS DE PRODUCCIÓN",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 216363,
+            "txPgProblema": "DÉBIL PROMOCIÓN DE LOS ATRACTIVOS TURÍSTICOS DEL DISTRITO Y LIMITADA REVALORACIÓN DEL PATRIMONIO HISTÓRICO CULTURAL.",
+            "txPgObjetivo": "MEJORAR LA COMPETITIVIDAD TURÍSTICA EN EL DISTRITO.",
+            "txPgIndicador": "PORCENTAJE (%) DE BUENA PERCEPCIÓN DE LOS SERVICIOS TURÍSTICOS",
+            "txPgMeta": "LOGRAR UN 20 % DE INCREMENTO DE VISITANTES TURÍSTICOS EN EL DISTRITO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 216388,
+            "txPgProblema": "INADECUADO MANEJO Y GESTIÓN DE RESIDUOS SÓLIDOS A NIVEL DE TODO EL DISTRITO.",
+            "txPgObjetivo": "MEJORAR LA CALIDAD AMBIENTAL EN EL DISTRITO, PROMOVIENDO UNA \nGESTIÓN AMBIENTAL\nA TRAVÉS DE LA INFORMACIÓN, SENSIBILIZACIÓN,\nORGANIZACIÓN Y PARTICIPACIÓN\nDE LA POBLACIÓN.",
+            "txPgIndicador": "PORCENTAJE DE RESIDUOS SOLIDOS SIN TRATAMIENTO",
+            "txPgMeta": "LOGRAR EL 100% DE CONTROL DE RESIDUOS SOLIDOS EN EL DISTRITO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 216419,
+            "txPgProblema": "PRESTACIÓN DE SERVICIOS MUNICIPALES DEFICIENTES E INADECUADA Y BAJA CREDIBILIDAD POR PARTE DE LOS CIUDADANOS EN AUTORIDADES Y DIRIGENTES.",
+            "txPgObjetivo": "FORTALECER LA INSTITUCIONALIDAD LOCAL,\nCONSOLIDANDO A SUS ORGANIZACIONES;\nDESARROLLANDO SUS CAPACIDADES DE PARTICIPACIÓN, GESTIÓN Y CONCERTACIÓN; IMPULSADO UNA CULTURA QUE EMPODERE A LA CIUDADANÍA Y GENERE LIDERAZGOS",
+            "txPgIndicador": "PORCENTAJE DE SATISFACCION DE LOS CIUDADANOS DEL DISTRITO",
+            "txPgMeta": "INFRAESTRUCTURA Y EQUIPAMIENTO MEJORADOS EN LA MUNICIPALIDAD.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

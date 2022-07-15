@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 26166,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2277,
+        "txOrganizacionPolitica": "SENTIMIENTO AMAZONENSE REGIONAL",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/d972f5d5-2eec-4f93-a5ba-c761675b152f.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/390774a8-838b-400a-9fdd-a373991ad72b.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 133632,
+            "txPgProblema": "FALTA DE SERVICIOS BÁSICOS EN GRAN PARTE DE LOS CASERÍOS DEL DISTRITO",
+            "txPgObjetivo": "GESTIÓN Y FINANCIAMIENTO EN LAS ENTIDADES CORRESPONDIENTES",
+            "txPgIndicador": "% DE POBLACIÓN ACCEDE A SERVICIOS BÁSICOS DE CALIDAD",
+            "txPgMeta": "CONSUMO DE AGUA DE CALIDAD PARA TODO EL DISTRITO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 133637,
+            "txPgProblema": "DEFICIENTE INFRAESTRUCTURA Y EQUIPAMIENTO DE LOS ESTABLECIMIENTOS DE SALUD",
+            "txPgObjetivo": "MEJORAMIENTO DE LA INFRAESTRUCTURA DE LOS CENTROS DE SALUD",
+            "txPgIndicador": "% DE POBLACIÓN ATENDIDA",
+            "txPgMeta": "MEJORAR LA ATENCIÓN DEL SERVICIO DE SALUD",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 133639,
+            "txPgProblema": "DEFICIENTE CALIDAD EDUCATIVA",
+            "txPgObjetivo": "MEJORAMIENTO Y EQUIPAMIENTO DE LAS INSTITUCIONES EDUCATIVAS DEL DISTRITO",
+            "txPgIndicador": "% DE INSTITUCIONES EDUCATIVAS MEJORADAS Y EQUIPADAS",
+            "txPgMeta": "100% DE INSTITUCIONES MEJORADAS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 133657,
+            "txPgProblema": "ALTA VULNERABILIDAD DEL PRODUCTOR AGRARIO ANTE LA PRESENCIA DE ENFERMEDADES Y PLAGAS, ASÍ COMO DESASTRES NATURALES",
+            "txPgObjetivo": "ASESORAMIENTO PROFESIONAL, ADQUISICIÓN DE PRODUCTOS QUÍMICOS, CONSEGUIR FINANCIAMIENTO PARA QUE EL AGRICULTOR TENGA EL ACCESO EN MENOR PRECIO.",
+            "txPgIndicador": "% DE ACCESO A LOS SERVICIOS AGRÍCOLAS Y ASESORAMIENTO BRINDADOS",
+            "txPgMeta": "ERRADICACIÓN DE LAS PLAGAS AL 100%, INCREMENTO DE INGRESOS AL AGRICULTOR",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 133659,
+            "txPgProblema": "ESCASA ASISTENCIA TÉCNICA Y APOYO A PRODUCTORES AGROPECUARIO",
+            "txPgObjetivo": "CONVENIOS PARA ATRAER ASISTENCIA TÉCNICA A LA COMUNIDAD",
+            "txPgIndicador": "% DE CONVENIOS FIRMADOS",
+            "txPgMeta": "100% DE AGRICULTORES RECIBIERON ASISTENCIAS TÉCNICAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 133662,
+            "txPgProblema": "LIMITADO SERVICIO DE TELEFONÍA E INTERNET",
+            "txPgObjetivo": "AMPLIAR LA COBERTURA TELEFÓNICA Y DE INTERNET",
+            "txPgIndicador": "% DE POBLACIÓN CON ACCESO A TELEFONÍA E INTERNET",
+            "txPgMeta": "100% CON ACCESO A TELEFONÍA E INTERNET",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 133665,
+            "txPgProblema": "MANEJO INADECUADO DE LOS RESIDUOS SOLIDOS",
+            "txPgObjetivo": "GESTIONAR MINI RELLENOS SANITARIOS\nELABORACIÓN DE ABONO ORGÁNICO",
+            "txPgIndicador": "% DE RESIDUOS SÓLIDOS DESECHADOS ADECUADAMENTE Y RECICLADO",
+            "txPgMeta": "01 MINI RELLENOS GESTIONADO\n10T DE ABONO ORGÁNICO ELABORADO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 133667,
+            "txPgProblema": "DEFICIENTE USO DEL RECURSO HÍDRICO",
+            "txPgObjetivo": "MEJORAR EL USO DEL AGUA A TRAVÉS DE LA CONSTRUCCIÓN DE UN SISTEMA DE RIEGO",
+            "txPgIndicador": "% DE AGUA USADA",
+            "txPgMeta": "01 SISTEMA DE RIEGO GESTIONADO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 133670,
+            "txPgProblema": "DÉBIL GESTIÓN PARA EL CUIDADO DE LA BIODIVERSIDAD",
+            "txPgObjetivo": "FOMENTAR LA REFORESTACIÓN Y EL CUIDADO DE LAS ESPECIES",
+            "txPgIndicador": "% DE VIVEROS Y ÁREAS REFORESTADAS",
+            "txPgMeta": "01 VIVEROS GESTIONADOS\n01 PROYECTO DE REFORESTACIÓN",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 133674,
+            "txPgProblema": "DEFICIENTE GESTIÓN DE LAS AUTORIDADES LOCALES",
+            "txPgObjetivo": "CONTAR CON EL EQUIPO TÉCNICO PARA GARANTIZAR LA BUENA GESTIÓN MUNICIPAL",
+            "txPgIndicador": "% DE METAS MUNICIPALES ALCANZADAS",
+            "txPgMeta": "CUMPLIR CON LAS METAS MUNICIPALIDADES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 133676,
+            "txPgProblema": "ESCASA MOTIVACIÓN EN LA CIUDADANÍA PARA PARTICIPAR EN EVENTOS DE INTERÉS SOCIAL",
+            "txPgObjetivo": "INVOLUCRAR A LA CIUDADANÍA EN LOS DIVERSOS EVENTOS SOCIALES DEL DISTRITO",
+            "txPgIndicador": "% PARTICIPACIÓN DE LOS CIUDADANOS EN LOS EVENTOS SOCIALES",
+            "txPgMeta": "LOGRAR LA PARTICIPACIÓN ACTIVA DE LOS CIUDADANOS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 133680,
+            "txPgProblema": "INFRAESTRUCTURA INADECUADA DEL LOCAL MUNICIPAL",
+            "txPgObjetivo": "MEJORAR LAS INSTALACIONES DE LA MUNICIPALIDAD",
+            "txPgIndicador": "% DE MEJORA DEL LOCAL MUNICIPAL",
+            "txPgMeta": "MUNICIPALIDAD ÓPTIMA PARA LA ATENCIÓN AL CIUDADANO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

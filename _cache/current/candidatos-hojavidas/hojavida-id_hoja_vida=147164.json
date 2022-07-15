@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 147164.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "71845080",
+        "nombres": "NOEMI",
+        "apellidoPaterno": "GARCIA",
+        "apellidoMaterno": "TAPULLIMA",
+        "sexo": "2",
+        "feNacimiento": "14/04/2000",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "210401",
+        "naciDepartamento": "SAN MARTIN",
+        "naciProvincia": "MARISCAL CACERES",
+        "naciDistrito": "JUANJUI",
+        "ubigeoDomicilio": "210401",
+        "domiDepartamento": "SAN MARTIN",
+        "domiProvincia": "MARISCAL CACERES",
+        "domiDistrito": "JUANJUI",
+        "domicilioDirecc": "JR. LA MERCED / C-1 LA MERCED",
+        "ubigeoPostula": "210400",
+        "postulaDepartamento": "SAN MARTIN",
+        "postulaProvincia": "MARISCAL CACERES",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/147164.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2722.0,
+        "organizacionPolitica": "UNION REGIONAL",
+        "numeroCandidato": 8.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 18:36:14",
+        "txGuidFormatoHojaVida": "f23441d7-7fe8-4a4d-969d-24fd5a04ee26",
+        "idSolicitudLista": 24391.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 221027,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "I.E. NRO. 0639 JORGE BASADRE GROUMAN",
+            "ocupacionProfesion": "DOCENTE SECUNDARIA",
+            "rucTrabajo": "20198752453",
+            "direccionTrabajo": "CASERÍO SANTA INES",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "210403",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "SAN MARTIN",
+            "trabajoProvincia": "MARISCAL CACERES",
+            "trabajoDistrito": "HUICUNGO",
+            "idHojaVida": 147164,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 194733,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 147164,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [
+            {
+                "idHvNoUniversitaria": 140977,
+                "tengoNoUniversitaria": "SI",
+                "eduNoUniversitaria": null,
+                "centroEstudioNoUni": "INSTITUTO SUPERIOR PEDAGÓGICO PUBLICO GRAN PAJATEN",
+                "carreraNoUni": "DOCENTE EN CIENCIAS SOCIALES",
+                "concluidoNoUni": "2",
+                "idHojaVida": 147164,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)"
+            }
+        ],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 141255,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 2863,
+                "orgPolCargoPartidario": "PARTIDO POLÍTICO NUEVO PERU, POR DEMOCRACIA, SOBERANIA Y JUSTICIA",
+                "cargoPartidario": "AFILIADA SIN PROCESO DE INSCRIPCIÓN",
+                "anioCargoPartiDesde": "2021",
+                "anioCargoPartiHasta": "2021",
+                "idHojaVida": 147164,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 157770,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2863,
+            "orgPolRenunciaOp": "NUEVO PERU, POR DEMOCRACIA, SOBERANIA Y JUSTICIA",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 147164,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 186196,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "8131IS ",
+                "valor": 9500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTOKARS",
+                "comentario": null,
+                "idHojaVida": 147164,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

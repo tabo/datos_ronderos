@@ -1,0 +1,136 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 200323.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44721524",
+        "nombres": "MICHAEL",
+        "apellidoPaterno": "POLO",
+        "apellidoMaterno": "LLAVILLA",
+        "sexo": "1",
+        "feNacimiento": "15/01/1987",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "070901",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "LA CONVENCION",
+        "naciDistrito": "SANTA ANA",
+        "ubigeoDomicilio": "160203",
+        "domiDepartamento": "MADRE DE DIOS",
+        "domiProvincia": "MANU",
+        "domiDistrito": "MADRE DE DIOS",
+        "domicilioDirecc": "SAN JUAN GRANDE",
+        "ubigeoPostula": "160203",
+        "postulaDepartamento": "MADRE DE DIOS",
+        "postulaProvincia": "MANU",
+        "postulaDistrito": "MADRE DE DIOS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/200323.jpg",
+        "estado": "INSCRITO",
+        "idOrganizacionPolitica": 2300.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL FUERZA POR MADRE DE DIOS - MR FMDD",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 16:20:58",
+        "txGuidFormatoHojaVida": "e955d1e5-2b4e-4d61-9543-1d9d5021df71",
+        "idSolicitudLista": 31545.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 250223,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "EMPRESA DE TRANSPORTE NUEVO SAN JUAN",
+            "ocupacionProfesion": "TRANSPORTISTA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CCPP SAN JUAN",
+            "anioTrabajoDesde": "2016",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "160203",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "MADRE DE DIOS",
+            "trabajoProvincia": "MANU",
+            "trabajoDistrito": "MADRE DE DIOS",
+            "idHojaVida": 200323,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 219992,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 200323,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 156292,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "INSTITUTO SUPERIOR PEDRO PERIAS DE AREQUIPA",
+                "carreraTecnico": "ELECTROTECNIA INDUSTRIAL",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 200323,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 166228,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 200323,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 200416,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "BBE718 ",
+                "valor": 30000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR GRIS METALICO, MARCA TOYOTA MODELO HILUX 4X4 GL",
+                "comentario": null,
+                "idHojaVida": 200323,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23287,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/e34548ac-042c-48dd-8ae0-cd80972df5e6.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/c62d6609-4115-43de-803e-242e81f00fa0.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 230260,
+            "txPgProblema": "INSEGURIDAD CIUDADANA EN EL TODO EL DISTRITO",
+            "txPgObjetivo": "MEJORAR IMPLEMENTAR LA SEGURIDAD CIUDADANA EN EL ÁMBITO DEL DISTRITO",
+            "txPgIndicador": "PORCENTAJE DE COMISARÍAS Y INFRAESTRUCTURA DE SERENAZGO BÁSICAS QUE NO CUENTAN CON CAPACIDAD DE OPERACIÓN NI COMUNICACIÓN ADECUADA.",
+            "txPgMeta": "50%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 230268,
+            "txPgProblema": "INADECUADAS CONDICIONES DE TRANSITABILIDAD VEHICULAR EN LAS VIAS VECINALES DEL DISTRITO",
+            "txPgObjetivo": "MEJORAR LAS VIAS VECINALES DE INTERCONEXIÓN PARA UNA EFICIENTE MOVILIZACIÓN DE PERSONAS Y PRODUCTOS AGROPECUARIOS Y OTROS",
+            "txPgIndicador": "PORCENTAJE DE LA RED VIAL VECINAL NO PAVIMENTADA CON INADECUADOS NIVELES DE SERVICIO",
+            "txPgMeta": "35%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 230270,
+            "txPgProblema": "DEFICIENTE SERVICIO DE LIMPIEZA PÚBLICA",
+            "txPgObjetivo": "MEJORAR EL SERVICIO DE LIMPIEZA PÚBLICA",
+            "txPgIndicador": "CREACION Y IMPLEMENTACION DE PLANTA DE RECICLAJE CON INTERVENCION EN TODO EL DISTRITO",
+            "txPgMeta": "100%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 230276,
+            "txPgProblema": "DÉBIL INSTITUCIONALIDAD, ORGANIZACIÓN Y ESCASA CULTURA DE CONCERTACIÓN ENTRE AUTORIDADES",
+            "txPgObjetivo": "FORTALECER E INSTITUCIONALIZAR ESPACIOS DE TRABAJO CONJUNTO PARA EL DESARROLLO TERRITORIAL",
+            "txPgIndicador": "IMPLEMENTACION DE NORMATIVAS DE GESTION PARA MEJORAR LA ATENCION AL CIUDADANO",
+            "txPgMeta": "100%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 17688,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2162,
+        "txOrganizacionPolitica": "MOVIMIENTO INDEPENDIENTE REGIONAL HUANUCO PRIMERO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1692,
+        "juradoElectoral": "LEONCIO PRADO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/1723815d-df57-4fe2-a228-d37d698750be.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/fcf3afde-e6db-489e-9fe8-d578f5f2a288.pdf",
+        "txCodExpedienteExt": "ERM.2022005731",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 138354,
+            "txPgProblema": "1.\tINFRAESTRUCTURAS DE SALUD INADECUADAS",
+            "txPgObjetivo": "INFRAESTRUCTURA Y EQUIPAMIENTO DE LOS ESTABLECIMIENTOS DE SALUD DE NIVEL 1-L  DE VILLAMAR Y FRAYLE RUMY",
+            "txPgIndicador": "PORCENTAJE DE INFRAESTRUCTURAS CONSTRUIDAS",
+            "txPgMeta": "INFRAESTRUCTURAS CONSTRUIDAS Y EQUIPADOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138363,
+            "txPgProblema": "2.\tACCESO Y CALIDAD A LOS SERVICIOS DE SALUD",
+            "txPgObjetivo": "CONTRIBUIR CON LA CALIDAD DE LOS SERVICIOS DE SALUD EN EL DISTRITO DE SAN BUENAVENTURA.",
+            "txPgIndicador": "PORCENTAJE DE LA POBLACIÓN SIN ANEMIA Y DESNUTRICIÓN CRÓNICA",
+            "txPgMeta": "POBLACIÓN CON ESTILOS DE VIDA SALUDABLE.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138368,
+            "txPgProblema": "3.\tINFRAESTRUCTURAS ANTIPEDAGÓGICAS Y DE RIESGO.",
+            "txPgObjetivo": "EJECUCIÓN DE PROYECTOS DE INFRAESTRUCTURA EDUCATIVA Y MEJORAR LA CALIDAD DE LOS SERVICIOS EDUCATIVOS EN EL DISTRITO DE SAN BUENAVENTURA.",
+            "txPgIndicador": "PORCENTAJE DE INSTITUCIONES EDUCATIVAS CUENTAN CON INFRAESTRUCTURA Y EQUIPAMIENTO",
+            "txPgMeta": "INSTITUCIONES EDUCATIVAS CON INFRAESTRUCTURA Y EQUIPAMIENTO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 138377,
+            "txPgProblema": "1.\tSISTEMA DE RIEGO INCIPIENTE Y ESCASO",
+            "txPgObjetivo": "CREACIÓN Y MEJORAMIENTO DE SISTEMAS DE RIEGO TECNIFICADO CON MIRAS A MEJORAR EL NIVEL DE PRODUCCIÓN PARA EL MERCADO LOCAL.",
+            "txPgIndicador": "PORCENTAJE DE CANALES DE RIEGO EXISTENTES AL SERVICIO DE LOS AGRICULTORES",
+            "txPgMeta": "NIVEL DE PRODUCTIVIDAD Y COMPETITIVIDAD AGRARIA",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138394,
+            "txPgProblema": "2.\tINCIPIENTE PRODUCCIÓN DE LOS PRODUCTORES AGROPECUARIOS SOLO PARA AUTOCONSUMO",
+            "txPgObjetivo": "CONTRIBUIR EN EL ACCESO AL MERCADO DE LOS PRODUCTORES AGROPECUARIOS DEL DISTRITO DE SAN BUENAVENTURA.",
+            "txPgIndicador": "NÚMERO DE PRODUCTORES QUE ACCEDEN AL MERCADO LOCAL, REGIONAL Y NACIONAL.",
+            "txPgMeta": "PRODUCTORES AGROPECUARIOS CON ACCESO AL MERCADO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138407,
+            "txPgProblema": "3.\tASOCIACIONES AGROPECUARIOS SIN APOYO FINANCIERO PARA PARTICIPAR A FONDOS CONCURSABLES",
+            "txPgObjetivo": "PLANES DE NEGOCIOS IMPLEMENTADOS PARA EL ACCESO AL MERCADO DE PRODUCTORES AGROPECUARIOS DEL DISTRITO.",
+            "txPgIndicador": "NUMERO DE PLANES DE NEGOCIOS IMPLEMENTADOS",
+            "txPgMeta": "ASOCIACIONES AGROPECUARIOS CON ACCESO A FONDOS CONCURSABLES",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 138423,
+            "txPgProblema": "1.\tPOCO INTERÉS DE LOS VECINOS  EN RECOLECCIÓN DE RESIDUOS SOLIDOS",
+            "txPgObjetivo": "SEGREGACIÓN EN LA FUENTE Y RECOLECCIÓN SELECTIVA DE RESIDUOS SÓLIDOS EN EL DISTRITO.",
+            "txPgIndicador": "NUMERO DE TONELADAS DE RESIDUOS SÓLIDOS CONVERTIDOS EN CAMPUS.",
+            "txPgMeta": "TONELADAS DE RESIDUOS SÓLIDOS REUTILIZADOS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138433,
+            "txPgProblema": "2.\tCONTAMINACIÓN AMBIENTAL MASIVO",
+            "txPgObjetivo": "PROMOVER LA GESTIÓN AMBIENTAL EN EL DISTRITO DE SAN BUENAVENTURA.",
+            "txPgIndicador": "CANTIDAD DE CIUDADANOS CON CONOCIMIENTO AMBIENTAL",
+            "txPgMeta": "EDUCACIÓN AMBIENTAL A VECINOS PARA LA SEGREGACIÓN",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138441,
+            "txPgProblema": "3.\tEJECUCIÓN DE PROYECTOS SIN ESTUDIO AMBIENTAL",
+            "txPgObjetivo": "EJECUCIÓN DE PROYECTOS DE INVERSIÓN RESPETANDO EL IMPACTO AMBIENTAL",
+            "txPgIndicador": "NÚMERO DE PROYECTOS CON ESTUDIO DE IMPACTO AMBIENTAL",
+            "txPgMeta": "PROYECTOS CON IMPACTO AMBIENTAL",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 138456,
+            "txPgProblema": "1.\tINCAPACIDAD DE GASTO FRENTE A LAS NECESIDADES BÁSICAS DE LA POBLACIÓN",
+            "txPgObjetivo": "FORTALECER LA GESTIÓN INSTITUCIONAL",
+            "txPgIndicador": "PORCENTAJE DE EJECUCIÓN DEL PRESUPUESTO INSTITUCIONAL",
+            "txPgMeta": "PRESUPUESTO MUNICIPAL EJECUTADO EFICIENTEMENTE",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138467,
+            "txPgProblema": "2.\tTRABAJO INEFICIENTE DEL PERSONAL MUNICIPAL",
+            "txPgObjetivo": "PLAN DE CAPACIDADES FORTALECIDAS AL PERSONAL DE LA MUNICIPALIDAD DISTRITAL DE SAN BUENAVENTURA.",
+            "txPgIndicador": "PORCENTAJE DE PERSONAL CAPACITADO.",
+            "txPgMeta": "DESARROLLO DE FUNCIONES EFICIENTES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138480,
+            "txPgProblema": "3.\tDESCONOCIMIENTO DE LA CIUDADANÍA EN ASUNTOS LOCALES",
+            "txPgObjetivo": "ESPACIOS Y MECANISMOS DE PARTICIPACIÓN CIUDADANA EN ASUNTOS DEL GOBIERNO LOCAL.",
+            "txPgIndicador": "NUMERO DE TALLERES Y REUNIONES DESARROLLADAS CON LA PARTICIPACIÓN DE LA CIUDADANÍA",
+            "txPgMeta": "CIUDADANOS (AS) PARTICIPAN EN P.P Y RENDICIÓN DE CUENTAS",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

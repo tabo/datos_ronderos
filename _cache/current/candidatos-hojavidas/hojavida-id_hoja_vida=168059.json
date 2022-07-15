@@ -1,0 +1,162 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 168059.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "01101826",
+        "nombres": "ROEL",
+        "apellidoPaterno": "CHUJANDAMA",
+        "apellidoMaterno": "LEVEAU",
+        "sexo": "1",
+        "feNacimiento": "17/09/1960",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "210906",
+        "naciDepartamento": "SAN MARTIN",
+        "naciProvincia": "PICOTA",
+        "naciDistrito": "SAN CRISTOBAL",
+        "ubigeoDomicilio": "210906",
+        "domiDepartamento": "SAN MARTIN",
+        "domiProvincia": "PICOTA",
+        "domiDistrito": "SAN CRISTOBAL",
+        "domicilioDirecc": "SAN CRISTOBAL",
+        "ubigeoPostula": "210906",
+        "postulaDepartamento": "SAN MARTIN",
+        "postulaProvincia": "PICOTA",
+        "postulaDistrito": "SAN CRISTOBAL",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/168059.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL",
+            " REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 03:27:13",
+        "txGuidFormatoHojaVida": "35847881-dfba-4039-95cd-bcce76483f52",
+        "idSolicitudLista": 27238.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 138347,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 168059,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 136203,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 131,
+                "orgPolCargoPartidario": "MOVIMIENTO REGIONAL O DEPARTAMENTAL ACCION REGIONAL",
+                "cargoPartidario": "MILITANTE",
+                "anioCargoPartiDesde": "2006",
+                "anioCargoPartiHasta": "2021",
+                "idHojaVida": 168059,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 136284,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": -1,
+            "orgPolRenunciaOp": null,
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 168059,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 136277,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 131,
+            "orgPolRenunciaOp": "ACCION REGIONAL",
+            "anioRenunciaOp": "2019",
+            "idHojaVida": 168059,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 137383,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 4000.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 168059,
+                "idEstado": 1,
+                "totalIngresos": 4000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 150057,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "MOTOKAR",
+                "marca": null,
+                "placa": "MX20638",
+                "valor": 3000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "M20638",
+                "comentario": null,
+                "idHojaVida": 168059,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 150034,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "MX20638",
+                "valor": 3000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "M20638",
+                "comentario": null,
+                "idHojaVida": 168059,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

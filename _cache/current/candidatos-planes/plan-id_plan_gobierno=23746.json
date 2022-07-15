@@ -1,0 +1,135 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23746,
+        "idTipoEleccion": 5,
+        "txTipoEleccion": "MUNICIPAL PROVINCIAL",
+        "idOrganizacionPolitica": 22,
+        "txOrganizacionPolitica": "RENOVACION POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1658,
+        "juradoElectoral": "CAMANA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/49219e0f-0c6f-44bf-a4d9-2d86110116a6.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/542a1b3c-4b03-4f44-acae-f91edab68b42.pdf",
+        "txCodExpedienteExt": "ERM.2022010144",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 138593,
+            "txPgProblema": "LIMITADO ACCESO A SERVICIOS PUBLICOS",
+            "txPgObjetivo": "PROMOVER ACCESOS A SERVICIOS PUBLICOS",
+            "txPgIndicador": "CALIDAD SERVICIO",
+            "txPgMeta": "75%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138613,
+            "txPgProblema": "SERVICIOS DE SALUD POCO EFICIENTES",
+            "txPgObjetivo": "IMPLEMENTAR PROGRAMA DE SALUD PREVENTIVA",
+            "txPgIndicador": "CALIDAD DE VIDA",
+            "txPgMeta": "DISMINUCION DE DESNUTRICION Y MORTANDAD",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138626,
+            "txPgProblema": "ACCESO A VIVIENDA INSATISFECHA",
+            "txPgObjetivo": "PROMOVER EL SANEAMIENTO URBANO",
+            "txPgIndicador": "PROGRAMAS",
+            "txPgMeta": "70%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 138643,
+            "txPgProblema": "BAJA COMPETITIVIDAD PRODUCTIVA",
+            "txPgObjetivo": "MEJORAMIENTO DE LOS SERVICIOS MUNICIPALES A TRAVES DE LAS GERENCIAS CORRESPONDIENTES A CADA SECTOR ECONOMICO",
+            "txPgIndicador": "CAPACITACION E INTERVENCIONES",
+            "txPgMeta": "80%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138657,
+            "txPgProblema": "LA FORMALIZACIÓN Y REGULARIZACIÓN DE LOS EMPRENDEDORES Y MYPES.",
+            "txPgObjetivo": "CAPACITACION Y ASISTENCIA A EMPRENDEDORES",
+            "txPgIndicador": "PROGRAMAS",
+            "txPgMeta": "70%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138666,
+            "txPgProblema": "FALTA LA REGULARIZACIÓN Y ORDENAMIENTO DEL TRANSPORTE PÚBLICO INTERPROVINCIAL (MINIVAN Y COLECTIVOS) SERVICIO RÁPIDO.",
+            "txPgObjetivo": "ORDENAMIENTO DEL TRANSPORTE PUBLICO",
+            "txPgIndicador": "ORDENANZAS Y REGLAMENTOS",
+            "txPgMeta": "80%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 138678,
+            "txPgProblema": "EN LAS RIBERAS DE LOS RÍOS QUE CIRCUNDAN EN ALGUNOS DISTRITOS SE ENCUENTRAN ASENTADOS MUCHOS POBLADORES, LOS QUE ANTE UN SISMO DE GRADO CONSIDERABLE ESTÁN EN EMINENTE PELIGRO POR DERRUMBES.",
+            "txPgObjetivo": "FORTALECER LA GESTIÓN DE RIESGOS MEDIANTE LA IMPLEMENTACIÓN DE INSTRUMENTOS TÉCNICOS Y NORMATIVOS QUE PERMITAN LA REDUCCIÓN DE DESASTRES, ASÍ COMO LA MEJORA DE LA ORGANIZACIÓN DE LA POBLACIÓN PARA ATENDER Y DAR RESPUESTA A UN DESASTRE.",
+            "txPgIndicador": "CAPACITACION EN RIESGOS",
+            "txPgMeta": "QUE LA PROVINCIA DE CARAVELÍ, SE ENCUENTRE ADSCRITO AL PROGRAMA DE CIUDADES SOSTENIBLES, CON PARTICIPACIÓN DE LA POBLACIÓN ORGANIZADA Y EL GOBIERNO LOCAL.\nLOGRAR UNA CIUDAD EN PAZ Y SEGURA.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138693,
+            "txPgProblema": "DEFICIENTE GESTION DE RESIDUOS SOLIDOS",
+            "txPgObjetivo": "FORTALECER LA GESTION DE LOS RESIDUOS SOLIDOS",
+            "txPgIndicador": "CAPACITACIONES AMBIENTALES",
+            "txPgMeta": "100%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 138713,
+            "txPgProblema": "LIMITADO ACCESO A LOS SERVICIOS MUNICIPALES",
+            "txPgObjetivo": "DIGITALIZACION DE LOS SERVICIOS MUNICIPALES",
+            "txPgIndicador": "NUMERO DE ATENCIONES VIRTUALES",
+            "txPgMeta": "100%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138728,
+            "txPgProblema": "DESCENTRALIZACION ADMINISTRATIVA Y ECONOMICA",
+            "txPgObjetivo": "CENTROS DE ATENCION SOCIAL E INVERSION PUBLICA DESCENTRALIZADA",
+            "txPgIndicador": "PROYECTOS",
+            "txPgMeta": "100%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 138740,
+            "txPgProblema": "GESTION MUNICIPAL SIN TRANSPARENCIA",
+            "txPgObjetivo": "TRANSPARENTAR LA GESTION MUNICIPAL",
+            "txPgIndicador": "RENDICION DE CUENTAS",
+            "txPgMeta": "ACCESO GOBIERNO ABIERTO",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

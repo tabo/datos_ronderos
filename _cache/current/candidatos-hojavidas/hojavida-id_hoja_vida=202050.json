@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 202050.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "07497791",
+        "nombres": "JOSE",
+        "apellidoPaterno": "CRUZ",
+        "apellidoMaterno": "BAYLON",
+        "sexo": "1",
+        "feNacimiento": "27/01/1973",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "090105",
+        "naciDepartamento": "HUANUCO",
+        "naciProvincia": "HUANUCO",
+        "naciDistrito": "QUISQUI",
+        "ubigeoDomicilio": "140109",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "LA VICTORIA",
+        "domicilioDirecc": "ST.17 LT.52 PSJ.CERRO EL PINO",
+        "ubigeoPostula": "140109",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "LA VICTORIA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/202050.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2869.0,
+        "organizacionPolitica": "PARTIDO PATRIOTICO DEL PERU",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 05:01:47",
+        "txGuidFormatoHojaVida": "abe534da-db47-4b49-a949-97ca2d7a400b",
+        "idSolicitudLista": 31769.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 246211,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "EDISON - ISAIAS",
+            "ocupacionProfesion": "NEGOCIO PROPIO",
+            "rucTrabajo": "10074977915",
+            "direccionTrabajo": "AV, 28 DE JULIO 2763 PTO 231",
+            "anioTrabajoDesde": "2009",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140109",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "LA VICTORIA",
+            "idHojaVida": 202050,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 217982,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 202050,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 155764,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "I.S.T.H",
+                "carreraTecnico": "MECÁNICA AUTOMOTRIZ",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 202050,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 165479,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": -1,
+            "orgPolRenunciaOp": "PARTIDO DEMOCRATICO EDUCA PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 202050,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 196557,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 1200.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 202050,
+                "idEstado": 1,
+                "totalIngresos": 1200.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 199406,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "BFE670 ",
+                "valor": 20000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MODELO SONATA, MARCA HYUNDAI, COLOR NEGRO",
+                "comentario": null,
+                "idHojaVida": 202050,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,180 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 162527.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "21550983",
+        "nombres": "PEDRO FREDDY",
+        "apellidoPaterno": "PEREZ",
+        "apellidoMaterno": "PALOMINO",
+        "sexo": "1",
+        "feNacimiento": "19/05/1968",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "100104",
+        "naciDepartamento": "ICA",
+        "naciProvincia": "ICA",
+        "naciDistrito": "PARCONA",
+        "ubigeoDomicilio": "051109",
+        "domiDepartamento": "AYACUCHO",
+        "domiProvincia": "SUCRE",
+        "domiDistrito": "HUACAÑA",
+        "domicilioDirecc": "HUACAÑA S/N",
+        "ubigeoPostula": "051109",
+        "postulaDepartamento": "AYACUCHO",
+        "postulaProvincia": "SUCRE",
+        "postulaDistrito": "HUACAÑA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/162527.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2861.0,
+        "organizacionPolitica": "MOVIMIENTO REGIONAL AGUA",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 09:36:21",
+        "txGuidFormatoHojaVida": "6c18207e-7af7-4e47-b93f-8eab67950981",
+        "idSolicitudLista": 26493.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 178652,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "I.E. MARIA PARADO DE BELLIDO HUACAÑA",
+            "ocupacionProfesion": "LIC. CIENCIA DE LA EDUCACION",
+            "rucTrabajo": null,
+            "direccionTrabajo": "MARIA PARADO DE BELLIDO",
+            "anioTrabajoDesde": "1992",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "051109",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AYACUCHO",
+            "trabajoProvincia": "SUCRE",
+            "trabajoDistrito": "HUACAÑA",
+            "idHojaVida": 162527,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 156984,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 162527,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 153302,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL SAN LUIS GONZAGA DE ICA",
+                "carreraUni": "LICENCIADO EN CIENCIAS DE LA EDUCACION, ESPECIALIDAD: LENGUA Y LITERATURA",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2002",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 138528,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 14,
+                "orgPolCargoElec": "PARTIDO DEMOCRATICO SOMOS PERU",
+                "idCargoEleccion": 11,
+                "cargoEleccion": "REGIDOR DISTRITAL",
+                "anioCargoElecDesde": "2003",
+                "anioCargoElecHasta": "2006",
+                "idHojaVida": 162527,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 143768,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 32,
+            "orgPolRenunciaOp": "PARTIDO APRISTA PERUANO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 162527,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 150682,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 30360.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 162527,
+                "idEstado": 1,
+                "totalIngresos": 30360.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 190421,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": " LOS ANGELES MZ Ñ LOTE 16   PARCONA - ICA - ICA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "11081053",
+                "fichaTomoSunarp": null,
+                "autovaluo": 7000.0,
+                "idHojaVida": 162527,
+                "idEstado": 1,
+                "flValor": "20000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

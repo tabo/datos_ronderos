@@ -1,0 +1,130 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 140218.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44828743",
+        "nombres": "NILSER",
+        "apellidoPaterno": "VACALLA",
+        "apellidoMaterno": "AGUIRRE",
+        "sexo": "1",
+        "feNacimiento": "09/01/1988",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "010418",
+        "naciDepartamento": "AMAZONAS",
+        "naciProvincia": "LUYA",
+        "naciDistrito": "SAN JUAN DE LOPECANCHA",
+        "ubigeoDomicilio": "010418",
+        "domiDepartamento": "AMAZONAS",
+        "domiProvincia": "LUYA",
+        "domiDistrito": "SAN JUAN DE LOPECANCHA",
+        "domicilioDirecc": "ANEXO SAN MARTIN DEL MANGO",
+        "ubigeoPostula": "010418",
+        "postulaDepartamento": "AMAZONAS",
+        "postulaProvincia": "LUYA",
+        "postulaDistrito": "SAN JUAN DE LOPECANCHA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/140218.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2277.0,
+        "organizacionPolitica": "SENTIMIENTO AMAZONENSE REGIONAL",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 10:27:28",
+        "txGuidFormatoHojaVida": "96f3d1f2-d657-4942-9326-51f9b54bd0c3",
+        "idSolicitudLista": 23492.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 167726,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MERCADO YERBABUENA",
+            "ocupacionProfesion": "NEGOCIANTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "SAN MARTIN DEL MANGO",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "010418",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AMAZONAS",
+            "trabajoProvincia": "LUYA",
+            "trabajoDistrito": "SAN JUAN DE LOPECANCHA",
+            "idHojaVida": 140218,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 146705,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 140218,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 144462,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 23000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 140218,
+                "idEstado": 1,
+                "totalIngresos": 23000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 134419,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "1206145000-2021-23-0",
+            "feSentenciaPenal": "30/06/2021",
+            "txOrganoJudiPenal": "MINISTERIO PUBLICO",
+            "txDelitoPenal": "CONTRA LA VIDA EL CUERPO Y LA SALUD",
+            "txFalloPenal": "SE DISPONE NO CONTINUAR CON LA INVESTIGACION PREPA",
+            "idParamModalidad": 13,
+            "txModalidad": "OTRO",
+            "txOtraModalidad": "SE DISPONE NO CONTINUAR CON LA INVESTIGACION PREPA",
+            "idParamCumpleFallo": 21,
+            "txCumpleFallo": "EN CUMPLIMIENTO",
+            "idEstado": 1,
+            "idHojaVida": 140218,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": []
+}

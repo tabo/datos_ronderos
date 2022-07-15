@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 196152.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42069128",
+        "nombres": "JOSELITO",
+        "apellidoPaterno": "COTRINA",
+        "apellidoMaterno": "SALAZAR",
+        "sexo": "1",
+        "feNacimiento": "03/05/1983",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "060906",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "SANTA CRUZ",
+        "naciDistrito": "PULAN",
+        "ubigeoDomicilio": "060906",
+        "domiDepartamento": "CAJAMARCA",
+        "domiProvincia": "SANTA CRUZ",
+        "domiDistrito": "PULAN",
+        "domicilioDirecc": "CALLE MARISCAL CASTILLA S/N",
+        "ubigeoPostula": "060906",
+        "postulaDepartamento": "CAJAMARCA",
+        "postulaProvincia": "SANTA CRUZ",
+        "postulaDistrito": "PULAN",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/196152.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2857.0,
+        "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "08/06/2022 16:35:38",
+        "txGuidFormatoHojaVida": "1cfb6fb5-2ffd-413b-9b6f-94cfc5973f4e",
+        "idSolicitudLista": 31009.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 161522,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "TRABAJADOR INDEPENDIENTE",
+            "ocupacionProfesion": "COMUNICADOR SOCIAL",
+            "rucTrabajo": "10420691284",
+            "direccionTrabajo": "PULAN",
+            "anioTrabajoDesde": "2010",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "060906",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CAJAMARCA",
+            "trabajoProvincia": "SANTA CRUZ",
+            "trabajoDistrito": "PULAN",
+            "idHojaVida": 196152,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 141164,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 196152,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 135650,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "CETPRO - CECAT CHICLAYO",
+                "carreraTecnico": "TECNICO ELECTRONICO",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 196152,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 137468,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 32,
+            "orgPolRenunciaOp": "PARTIDO APRISTA PERUANO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 196152,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 139342,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 30000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 196152,
+                "idEstado": 1,
+                "totalIngresos": 30000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 152051,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "3204FM ",
+                "valor": 3900.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": null,
+                "idHojaVida": 196152,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

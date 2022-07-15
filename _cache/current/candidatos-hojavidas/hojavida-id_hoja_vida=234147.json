@@ -1,0 +1,236 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 234147.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "09474845",
+        "nombres": "PEDRO GUSTAVO",
+        "apellidoPaterno": "CASTRO",
+        "apellidoMaterno": "BURGOS",
+        "sexo": "1",
+        "feNacimiento": "06/12/1968",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140106",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "COMAS",
+        "ubigeoDomicilio": "140106",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "COMAS",
+        "domicilioDirecc": "JR.ALEJANDRO IGLESIAS 180 AÑO NUEVO",
+        "ubigeoPostula": "140106",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "COMAS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/234147.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 1366.0,
+        "organizacionPolitica": "FUERZA POPULAR",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 20:28:00",
+        "txGuidFormatoHojaVida": "0a6e76fd-d7c6-4c58-81e5-608dd143aad5",
+        "idSolicitudLista": 35622.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 190789,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "UNIVERSIDAD NACIONAL JOSÉ FAUSTINO SÁNCHEZ CARRIÓN",
+            "ocupacionProfesion": "CONTADOR",
+            "rucTrabajo": "20172299742",
+            "direccionTrabajo": "AV MERCEDES INDACOCHEA  609 -HUACHO PRÚ",
+            "anioTrabajoDesde": "2018",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140501",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "HUAURA",
+            "trabajoDistrito": "HUACHO",
+            "idHojaVida": 234147,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "DOCENTE AUXILIAR NOMBRADO"
+        },
+        {
+            "idHvExpeLaboral": 227303,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 2,
+            "centroTrabajo": "FUERZA AREA DEL PERU",
+            "ocupacionProfesion": "INDEPENDIENTE",
+            "rucTrabajo": "20144364059",
+            "direccionTrabajo": "JR ALEJANDRO IGLESIAS 180",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "2021",
+            "ubigeoTrabajo": "140106",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "COMAS",
+            "idHojaVida": 234147,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 168096,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 234147,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 159025,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD DE SAN MARTÍN DE PORRES",
+                "carreraUni": "CONTADOR PUBLICO",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2011",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [
+            {
+                "idHvPosgrado": 137259,
+                "tengoPosgrado": "SI",
+                "nuItemPosgrado": 1,
+                "txCenEstudioPosgrado": "UNIVERSIDAD DE SAN MARTÍN DE PORRES",
+                "txEspecialidadPosgrado": "DOCTOR EN CIENCIAS CONTABLES Y FINANCIERAS",
+                "concluidoPosgrado": "SI",
+                "egresadoPosgrado": "SI",
+                "esMaestro": null,
+                "esDoctor": "SI",
+                "txAnioPosgrado": "2020",
+                "idHojaVida": 234147,
+                "idEstado": 1,
+                "txEstado": "ACTIVO (R)",
+                "fgRegistroManual": 2,
+                "txComentario": null,
+                "fgRegistro": null
+            },
+            {
+                "idHvPosgrado": 137260,
+                "tengoPosgrado": "SI",
+                "nuItemPosgrado": 2,
+                "txCenEstudioPosgrado": "UNIVERSIDAD DE SAN MARTÍN DE PORRES",
+                "txEspecialidadPosgrado": "MAESTRO EN CONTABILIDAD Y FINANZAS, ESPECIALIDAD: AUDITORIA Y CONTROL DE GESTION EMPRESARIAL",
+                "concluidoPosgrado": "SI",
+                "egresadoPosgrado": "SI",
+                "esMaestro": "SI",
+                "esDoctor": null,
+                "txAnioPosgrado": "2016",
+                "idHojaVida": 234147,
+                "idEstado": 1,
+                "txEstado": "ACTIVO (R)",
+                "fgRegistroManual": 2,
+                "txComentario": null,
+                "fgRegistro": null
+            }
+        ],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 138962,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": -1,
+                "orgPolCargoPartidario": "FUERZA POPULAR",
+                "cargoPartidario": "COORDINADOR DE CENTRO DE VOTACIÓN",
+                "anioCargoPartiDesde": "2016",
+                "anioCargoPartiHasta": "HASTA LA ACTUALIDAD",
+                "idHojaVida": 234147,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 148137,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2649,
+            "orgPolRenunciaOp": "PERU NACION",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 234147,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 159831,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 31200.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 40000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 234147,
+                "idEstado": 1,
+                "totalIngresos": 71200.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 201570,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "CASA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "CALLE W MZ I2 LOTE 18  URBANIZACIÓN SANTO DOMINGO 6TA ETAPA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "11336647",
+                "fichaTomoSunarp": null,
+                "autovaluo": 80561.0,
+                "idHojaVida": 234147,
+                "idEstado": 1,
+                "flValor": "400000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

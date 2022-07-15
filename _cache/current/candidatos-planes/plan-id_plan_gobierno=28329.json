@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 28329,
+        "idTipoEleccion": 5,
+        "txTipoEleccion": "MUNICIPAL PROVINCIAL",
+        "idOrganizacionPolitica": 1670,
+        "txOrganizacionPolitica": "FRENTE AMPLIO PARA EL DESARROLLO DEL PUEBLO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1652,
+        "juradoElectoral": "AZANGARO",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/7426662a-b6b6-4200-9792-a393de3d06e5.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/df93cd99-f049-483a-9172-8ed9fd4543b5.pdf",
+        "txCodExpedienteExt": "ERM.2022016765",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 226833,
+            "txPgProblema": "DESIGUALDAD Y LIMITADO ACCESO A LOS SERVICIOS BÁSICOS EN LA PROVINCIA.",
+            "txPgObjetivo": "ASEGURAR LA COBERTURA Y CALIDAD DE LOS SERVICIOS BÁSICOS.\nTEMATICA:\n-VIVIENDA\n-SALUD\n-EDUCACIÓN\n-POBREZA\n-VIOLENCIA FAMILIAR\n-SEGURIDAD CIUDADANA",
+            "txPgIndicador": "PORCENTAJE DE VIVIENDAS SIN SERVICIO DE AGUA POTABLE\nPORCENTAJE DE VIVIENDAS SIN SERVICIO DE DESAGÜE\nPORCENTAJE DE VIVIENDAS SIN SERVICIO DE ENERGÍA ELÉCTRICA\n\nHOSPITALES CON CAPACIDAD INSTALADA INADECUADA\nESTABLECIMIENTO 1ER NIVEL DE ATENCIÓN, CAPACIDAD INSTALADA INADECUADA\n\nSERVICIO EDUCACIÓN INICIAL CON CAPACIDAD INSTALADA INADECUADA\nSERVICIO EDUCACIÓN PRIMARIA CON CAPACIDAD INSTALADA INADECUADA\n\nSERVICIO EDUCACIÓN SECUNDARIA CON CAPACIDAD INSTALADA INADECUADA\nINSTITUCIONES EDUCATIVAS PUBLICAS SIN CONDICIONES ADECUADAS PARA LA ALIMENTACIÓN\n\nPORCENTAJE DE LA POBLACIÓN EN SITUACIÓN DE POBREZA\nPORCENTAJE DE LA POBLACIÓN EN SITUACIÓN DE POBREZA EXTREMA \n\nNÚMERO DE DENUNCIAS POR VIOLENCIA FAMILIAR AGRESIÓN FÍSICA (X10000HAB)\n\nSECTORES QUE NO CUENTAN CON MEDIOS DE VIGILANCIA ADECUADA",
+            "txPgMeta": "20.0%\n20.0%\n10.0%\n\n50.0%\n50.0%\n\n40.0%\n40.0%\n40.0%\n40.0%\n\n30.0%\n10.0%\n\n10.0\n\n50.0%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 226862,
+            "txPgProblema": "ECONOMÍA POCO COMPETITIVA, INCIPIENTE NIVEL DE ACUMULACIÓN INTERNA, POCO GENERADORA DE EMPLEO Y BAJA PRODUCTIVIDAD",
+            "txPgObjetivo": "PROMOVER LA COMPETITIVIDAD, LA ACUMULACIÓN INTERNA Y EL CRECIMIENTO ECONÓMICO.\nTEMATICA\n-POLÍTICAS PÚBLICAS LOCALES\n-EMPLEO\n-INNOVACIÓN Y DESARROLLO TECNOLÓGICO",
+            "txPgIndicador": "-POLÍTICAS PÚBLICAS QUE PROMUEVAN LA ACUMULACIÓN INTERNA Y EL CRECIMIENTO ECONÓMICO\n-PORCENTAJE DE POBLACIÓN ECONÓMICAMENTE ACTIVA DESOCUPADA\n-PORCENTAJE DE INDUSTRIALES Y PRODUCTORES QUE ACCEDEN A INNOVACIÓN Y DESARROLLO TECNOLÓGICO",
+            "txPgMeta": "-4\n-10.0%\n-20,0%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 226872,
+            "txPgProblema": "CALIDAD AMBIENTAL POCO SALUDABLE",
+            "txPgObjetivo": "MEJORAR LA CALIDAD AMBIENTAL.\nTEMATICA:\n-CONTAMINACIÓN DEL AIRE\n-RESIDUOS SÓLIDOS",
+            "txPgIndicador": "-PORCENTAJE DE CONTAMINACIÓN GENERADO POR QUEMA DE BASURA\n-PORCENTAJE DE RESIDUOS SÓLIDOS APROVECHABLES RECUPERADOS",
+            "txPgMeta": "10.0%\n90.0%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 226879,
+            "txPgProblema": "LIMITADA INSTITUCIONALIZACIÓN DE LA TRANSPARENCIA Y PARTICIPACIÓN CIUDADANA EN LA GESTIÓN PUBLICA",
+            "txPgObjetivo": "ASEGURAR LA GOBERNANZA DEL GOBIERNO LOCAL, MEJORANDO LA TRANSPARENCIA Y LA PARTICIPACIÓN CIUDADANA.\nTEMATICA:\n-EJECUCIÓN PRESUPUESTAL\n-PROCESOS DE ADQUISICIONES",
+            "txPgIndicador": "-PORCENTAJE DE CIUDADANÍA INFORMADA\n-PORCENTAJE DE CIUDADANÍA INFORMADA",
+            "txPgMeta": "50.0%\n50.0%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 23390,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2716,
+        "txOrganizacionPolitica": "JUNIN RENACE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1690,
+        "juradoElectoral": "JAUJA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/a4f9c317-a417-48d7-9c3f-abba85f8a9f8.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/f55cb59a-8aa1-4331-97b5-659c507e1d39.pdf",
+        "txCodExpedienteExt": "ERM.2022012852",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 128388,
+            "txPgProblema": "PROBLEMAS SOCIALES DE LA DELINCUENCIA",
+            "txPgObjetivo": "IMPLEMENTACIÓN DE UN PLAN DE SEGURIDAD CIUDADANA Y PROYECTO DESARROLLO SOCIAL, CULTURA Y DEPORTE",
+            "txPgIndicador": "INCREMENTO DE LA DELINCUENCIA EN UN 30% POR AÑO",
+            "txPgMeta": "REDUCCIÓN DE PROBLEMAS DE DELINCUENCIA EN 5 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128389,
+            "txPgProblema": "ALTA INCIDENCIA DE LA DESNUTRICIÓN CRÓNICA INFANTIL",
+            "txPgObjetivo": "PROMOVER PROGRAMAS PARA MEJORAR LA ALIMENTACIÓN DE LOS NIÑOS",
+            "txPgIndicador": "20.4 % DE NIÑOS CON DESNUTRICIÓN CRÓNICA INFANTIL",
+            "txPgMeta": "REDUCCIÓN DEL 2 % DE DESNUTRICIÓN CRÓNICA INFANTIL",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128390,
+            "txPgProblema": "PÉRDIDA DE VALORES E IDENTIDAD CULTURAL",
+            "txPgObjetivo": "IMPLEMENTAR PROGRAMAS DE RECUPERACIÓN DE LOS VALORES Y LA IDENTIDAD CULTURAL",
+            "txPgIndicador": "DESINTERÉS DE LA POBLACIÓN EN TEMAS DE VALORES EN UN 30%",
+            "txPgMeta": "FORTALECIMIENTO A LA POBLACIÓN EN 10 %",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 128391,
+            "txPgProblema": "PRODUCCIÓN AGROPECUARIA DEFICIENTE",
+            "txPgObjetivo": "PROGRAMAS DE FORTALECIMIENTO AL PRODUCTOR AGROPECUARIO CON LA METODOLOGÍA ESCUELAS DE CAMPO",
+            "txPgIndicador": "DISMINUCIÓN DE LA PRODUCTIVIDAD EN UN 20%",
+            "txPgMeta": "MEJORA DE LA PRODUCCIÓN 80%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128393,
+            "txPgProblema": "ALTO COSTO DE INSUMOS AGROPECUARIOS",
+            "txPgObjetivo": "BRINDAR ASESORAMIENTO TÉCNICO A LOS PEQUEÑOS AGRICULTORES Y GANADEROS EN LA PRODUCCIÓN DE ABONO ORGÁNICO PARA PODER CONTRARRESTAR EL ALTO COSTO DE LOS ABONOS QUÍMICOS Y LOS FERTILIZANTES.",
+            "txPgIndicador": "INCREMENTO DEL COSTO DE PRODUCCIÓN AGRÍCOLA POR LA ALZA DE  PRECIOS DE INSUMOS AGROPECUARIOS EN UN 70%",
+            "txPgMeta": "REDUCCIÓN DEL COSTO DE PRODUCCIÓN CON LA UTILIZACIÓN DE ABONO ORGÁNICO EN UN 80%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128395,
+            "txPgProblema": "PUESTA EN EL MERCADO DE LOS PRODUCTOS AGROPECUARIOS SIN TRANSFORMACIÓN",
+            "txPgObjetivo": "PROCESAMIENTO DE PRODUCTOS LÁCTEOS Y OTROS",
+            "txPgIndicador": "PROCESAMIENTO ARTESANAL EN 10%",
+            "txPgMeta": "PROCESAMIENTO DE PRODUCTOS LÁCTEOS CON TECNOLOGÍA EN UN 90%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 128398,
+            "txPgProblema": "CALENTAMIENTO GLOBAL Y OTROS PROBLEMAS AMBIENTALES",
+            "txPgObjetivo": "INSTALACIÓN DE VIVEROS FAMILIARES",
+            "txPgIndicador": "REPOSICIÓN FORESTAL ES 0%",
+            "txPgMeta": "PLANTACIÓN DE 100,000 PLANTONES AGROFORESTALES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128399,
+            "txPgProblema": "FALTA DE CONCIENCIA AMBIENTAL RESIDUOS SOLIDOS",
+            "txPgObjetivo": "MEJORA EN LA SENSIBILIZACIÓN, RECOJO Y TRATAMIENTO DE LOS RESIDUOS SOLIDOS",
+            "txPgIndicador": "PORCENTAJE EN LA RECOLECCIÓN DE RESIDUOS SÓLIDOS EN 7.8 %",
+            "txPgMeta": "MEJORA EN LA RECOLECCIÓN DE RESIDUOS SÓLIDOS EN 90%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128400,
+            "txPgProblema": "PÈRDIDA DE ESPECIES FORESTALES NATIVAS",
+            "txPgObjetivo": "IMPLEMENTACIÓN DE VIVEROS CON ESPECIES NATIVAS DE LA ZONA",
+            "txPgIndicador": "PERDIDA DE ESPECIES FORESTALES EN 15% ANUALES",
+            "txPgMeta": "INSTALACIÓN DE 50,000 PLANTONES",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 128403,
+            "txPgProblema": "SISTEMA ADMINISTRATIVO DESACTUALIZADO",
+            "txPgObjetivo": "ACTUALIZACIÓN DE SISTEMAS ADMINISTRATIVOS",
+            "txPgIndicador": "SISTEMA ADMINISTRATIVO CON MEJORAS DE ACTUALIZACIÓN EN 10% ANUALES",
+            "txPgMeta": "MEJORA EN LA GESTIÓN ADMINISTRATIVA EN 80%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128405,
+            "txPgProblema": "FALTA DE EQUIPAMIENTO EN ÁREAS SENSIBLES DE LA MUNICIPALIDAD",
+            "txPgObjetivo": "EQUIPAMIENTO INSTITUCIONAL EN ÁREAS PRIORITARIAS DE ATENCIÓN AL CIUDADANO",
+            "txPgIndicador": "FALTA DE EQUIPAMIENTO EN UN 60%",
+            "txPgMeta": "MEJORA EN LA ATENCIÓN EN 90%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 128406,
+            "txPgProblema": "ORGANIZACIONES DE BASE EN DESORDEN Y DESINFORMADAS",
+            "txPgObjetivo": "FORTALECIMIENTO DE LAS ORGANIZACIONES SOCIALES DE BASE",
+            "txPgIndicador": "DESORGANIZACIÓN EN INSTITUCIONES DE BASE EN 50%",
+            "txPgMeta": "MEJORA DE 8 ORGANIZACIONES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

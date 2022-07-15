@@ -1,0 +1,163 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 217780.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "20442897",
+        "nombres": "ROSA MARIA",
+        "apellidoPaterno": "MESTANZA",
+        "apellidoMaterno": "RAMOS",
+        "sexo": "2",
+        "feNacimiento": "10/01/1978",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110201",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "CONCEPCION",
+        "naciDistrito": "CONCEPCION",
+        "ubigeoDomicilio": "110201",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "CONCEPCION",
+        "domiDistrito": "CONCEPCION",
+        "domicilioDirecc": "AV. LEOPOLDO PEÑA PANDO URB. EL PEDREGAL ETAPA 1 MZ. D LT. 7",
+        "ubigeoPostula": "110200",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "CONCEPCION",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/217780.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 12:46:52",
+        "txGuidFormatoHojaVida": "16e77765-397c-4471-a3e4-60cc6fa14886",
+        "idSolicitudLista": 33744.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 218287,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "COMERCIANTE",
+            "ocupacionProfesion": "VENTA DE ROPA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "AV. LEOPOLDO PEÑA",
+            "anioTrabajoDesde": "2011",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "110201",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "CONCEPCION",
+            "trabajoDistrito": "CONCEPCION",
+            "idHojaVida": 217780,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 192359,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 217780,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 156878,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1259,
+            "orgPolRenunciaOp": "MOVIMIENTO POLITICO REGIONAL PERU LIBRE",
+            "anioRenunciaOp": "2019",
+            "idHojaVida": 217780,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 177268,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 10000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 217780,
+                "idEstado": 1,
+                "totalIngresos": 10000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 221409,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "TERRENO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "AV. LEOPOLDO PEÑA PANDO URB. EL PEDREGAL ETAPA 1 MZ D LOTE 07",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 96.0,
+                "idHojaVida": 217780,
+                "idEstado": 1,
+                "flValor": "45000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 184533,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "D0I186 ",
+                "valor": 37000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "URBAN CRUISER TOYOTA COLOR ROJO MICA",
+                "comentario": null,
+                "idHojaVida": 217780,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

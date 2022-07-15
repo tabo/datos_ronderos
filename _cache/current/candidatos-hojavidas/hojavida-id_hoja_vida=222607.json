@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 222607.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43518019",
+        "nombres": "EUFEMIO",
+        "apellidoPaterno": "CONZA",
+        "apellidoMaterno": "APAZA",
+        "sexo": "1",
+        "feNacimiento": "20/03/1986",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "200216",
+        "naciDepartamento": "PUNO",
+        "naciProvincia": "AZANGARO",
+        "naciDistrito": "SANTIAGO DE PUPUJA",
+        "ubigeoDomicilio": "200216",
+        "domiDepartamento": "PUNO",
+        "domiProvincia": "AZANGARO",
+        "domiDistrito": "SANTIAGO DE PUPUJA",
+        "domicilioDirecc": "PARCIALIDAD IQUILO PALANGANA",
+        "ubigeoPostula": "200216",
+        "postulaDepartamento": "PUNO",
+        "postulaProvincia": "AZANGARO",
+        "postulaDistrito": "SANTIAGO DE PUPUJA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/222607.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "16/06/2022 19:00:37",
+        "txGuidFormatoHojaVida": "d4d0b543-77db-49e8-8703-cc409a4ad855",
+        "idSolicitudLista": 34288.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 249610,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MEDIO RURAL",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "PARCIALIDAD EQUILO PALANCANA",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "200216",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "PUNO",
+            "trabajoProvincia": "AZANGARO",
+            "trabajoDistrito": "SANTIAGO DE PUPUJA",
+            "idHojaVida": 222607,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 221108,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 222607,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 199424,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 180000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 222607,
+                "idEstado": 1,
+                "totalIngresos": 180000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 244620,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "TERRENO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "SANTIAGO DE PUPUJA",
+                "comentario": null,
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 222607,
+                "idEstado": 1,
+                "flValor": "25000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 201146,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "B82383 ",
+                "valor": 5000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MOTO LINEAL",
+                "comentario": null,
+                "idHojaVida": 222607,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

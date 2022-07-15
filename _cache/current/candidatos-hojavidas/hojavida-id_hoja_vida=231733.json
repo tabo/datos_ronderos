@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 231733.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "74043232",
+        "nombres": "MAX JERSON",
+        "apellidoPaterno": "MONZON",
+        "apellidoMaterno": "ROJAS",
+        "sexo": "1",
+        "feNacimiento": "14/08/1997",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110501",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "TARMA",
+        "naciDistrito": "TARMA",
+        "ubigeoDomicilio": "110501",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "TARMA",
+        "domiDistrito": "TARMA",
+        "domicilioDirecc": "BQ SAN JUAN CRUZ BARR SAN JUAN CRUZ",
+        "ubigeoPostula": "110500",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "TARMA",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/231733.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 2716.0,
+        "organizacionPolitica": "JUNIN RENACE",
+        "numeroCandidato": 7.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 11:38:33",
+        "txGuidFormatoHojaVida": "4c75c801-aa6f-4a9f-ba54-b0be31b9ad25",
+        "idSolicitudLista": 35345.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 240649,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "EMPRESA ZAFIRO EQUIPOS Y SERVICIOS SAC",
+            "ocupacionProfesion": "SUPERVISOR MECANICO",
+            "rucTrabajo": "20550315174",
+            "direccionTrabajo": "CAL. LA CAÑADA N° 246",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140110",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "LA MOLINA",
+            "idHojaVida": 231733,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "EMPRESA DEDICADA AL SECTOR MINERO Y CONSTRUCCION"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 212466,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 231733,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 154342,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "CEP SENATI",
+                "carreraTecnico": "MECANICO DE MAQUINARIA PESADA",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 231733,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 163653,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2680,
+            "orgPolRenunciaOp": "MOVIMIENTO REGIONAL SIERRA Y SELVA CONTIGO JUNIN",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 231733,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 192428,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 30000.0,
+                "rentaIndividualPublico": 7000.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 231733,
+                "idEstado": 1,
+                "totalIngresos": 37000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 6478,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "EMPRESA TARUMAS CORPORACION PERU SAC",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 50.0,
+                "flValor": 5000.0,
+                "idHojaVida": 231733,
+                "idEstado": 1,
+                "txUsuario": "48471980",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

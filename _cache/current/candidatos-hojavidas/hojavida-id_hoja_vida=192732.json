@@ -1,0 +1,152 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 192732.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "15441355",
+        "nombres": "JUAN ANTONIO",
+        "apellidoPaterno": "ARIAS",
+        "apellidoMaterno": "QUISPE",
+        "sexo": "1",
+        "feNacimiento": "21/07/1974",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140401",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "CAÑETE",
+        "naciDistrito": "SAN VICENTE DE CAÑETE",
+        "ubigeoDomicilio": "140403",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "CAÑETE",
+        "domiDistrito": "CERRO AZUL",
+        "domicilioDirecc": "C.P.M. IHUANCO MZ. L LT. 01",
+        "ubigeoPostula": "140403",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "CAÑETE",
+        "postulaDistrito": "CERRO AZUL",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/192732.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 20:50:52",
+        "txGuidFormatoHojaVida": "1bb33af6-014d-46c3-9d7d-f2a7bf1ebe71",
+        "idSolicitudLista": 30562.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 251449,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "J  Y A CONSTRUCCIONES, BIENES Y SERVICIOS EIRL",
+            "ocupacionProfesion": "CONSTRUCTOR",
+            "rucTrabajo": "20491390981",
+            "direccionTrabajo": "JR BOLIVAR S/N",
+            "anioTrabajoDesde": "2011",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140403",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "CAÑETE",
+            "trabajoDistrito": "CERRO AZUL",
+            "idHojaVida": 192732,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 223102,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 192732,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [
+            {
+                "idHvEduTecnico": 157114,
+                "tengoEduTecnico": "SI",
+                "cenEstudioTecnico": "CAPECO",
+                "carreraTecnico": "TECNICO EN CONSTRUCCION",
+                "concluidoEduTecnico": "1",
+                "idHojaVida": 192732,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 167187,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1455,
+            "orgPolRenunciaOp": "POR EL DESARROLLO DE CERRO AZUL",
+            "anioRenunciaOp": "2011",
+            "idHojaVida": 192732,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 200494,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 48000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 192732,
+                "idEstado": 1,
+                "totalIngresos": 48000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 202391,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "CAMIONETA",
+                "marca": null,
+                "placa": "AJD  604",
+                "valor": 8000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMIONETA AZUL",
+                "comentario": "EN PROCESO DE INSCRIPCION EN RRPP",
+                "idHojaVida": 192732,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

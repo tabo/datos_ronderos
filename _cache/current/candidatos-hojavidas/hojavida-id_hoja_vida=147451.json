@@ -1,0 +1,157 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 147451.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42311499",
+        "nombres": "JEVER",
+        "apellidoPaterno": "TORREJON",
+        "apellidoMaterno": "RAMIREZ",
+        "sexo": "1",
+        "feNacimiento": "27/03/1981",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "010112",
+        "naciDepartamento": "AMAZONAS",
+        "naciProvincia": "CHACHAPOYAS",
+        "naciDistrito": "MAGDALENA",
+        "ubigeoDomicilio": "010112",
+        "domiDepartamento": "AMAZONAS",
+        "domiProvincia": "CHACHAPOYAS",
+        "domiDistrito": "MAGDALENA",
+        "domicilioDirecc": "JR.ALFONSO UGARTE",
+        "ubigeoPostula": "010112",
+        "postulaDepartamento": "AMAZONAS",
+        "postulaProvincia": "CHACHAPOYAS",
+        "postulaDistrito": "MAGDALENA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/147451.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 22.0,
+        "organizacionPolitica": "RENOVACION POPULAR",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "08/06/2022 11:43:10",
+        "txGuidFormatoHojaVida": "c1f474f2-ea81-4ffb-9161-e42cd8a3b3f5",
+        "idSolicitudLista": 24430.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 159097,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "SU TERRERO",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "MAGDALENA",
+            "anioTrabajoDesde": "2000",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "010112",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AMAZONAS",
+            "trabajoProvincia": "CHACHAPOYAS",
+            "trabajoDistrito": "MAGDALENA",
+            "idHojaVida": 147451,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "PODUCTOR DE PAPAS, MAIZ Y OTROS"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 139028,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "NO",
+            "eduSecundaria": null,
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 147451,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 136543,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 46,
+            "orgPolRenunciaOp": "PERU POSIBLE",
+            "anioRenunciaOp": "2017",
+            "idHojaVida": 147451,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 136542,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1258,
+            "orgPolRenunciaOp": "MOVIMIENTO REGIONAL FUERZA AMAZONENSE",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 147451,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 137771,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 10080.0,
+                "idHojaVida": 147451,
+                "idEstado": 1,
+                "totalIngresos": 10080.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 171767,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "VIVIENDA",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "JR BOLIVAR N°577",
+                "comentario": "VIVIENDA DE ADOBE DE UN PISO QUE CONSTA CON UN AREA TOTAL DE 100M2",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 147451,
+                "idEstado": 1,
+                "flValor": "30000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

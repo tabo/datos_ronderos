@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 146443.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "41513380",
+        "nombres": "ROBERTO",
+        "apellidoPaterno": "VILLEGAS",
+        "apellidoMaterno": "MEDINA",
+        "sexo": "1",
+        "feNacimiento": "01/03/1982",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "060306",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "CELENDIN",
+        "naciDistrito": "JOSE GALVEZ",
+        "ubigeoDomicilio": "060306",
+        "domiDepartamento": "CAJAMARCA",
+        "domiProvincia": "CELENDIN",
+        "domiDistrito": "JOSE GALVEZ",
+        "domicilioDirecc": "CASERIO HUAÑAMBRA",
+        "ubigeoPostula": "060306",
+        "postulaDepartamento": "CAJAMARCA",
+        "postulaProvincia": "CELENDIN",
+        "postulaDistrito": "JOSE GALVEZ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/146443.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 1264.0,
+        "organizacionPolitica": "JUNTOS POR EL PERU",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "10/06/2022 23:06:47",
+        "txGuidFormatoHojaVida": "a5eff978-d886-4750-b3af-feb5b9b9ca03",
+        "idSolicitudLista": 24300.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 192711,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "EJERCICIO INDEPENDIENTE",
+            "ocupacionProfesion": "ALBAÑIL",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASERIO HUAÑAMBRA",
+            "anioTrabajoDesde": "2013",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "060306",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CAJAMARCA",
+            "trabajoProvincia": "CELENDIN",
+            "trabajoDistrito": "JOSE GALVEZ",
+            "idHojaVida": 146443,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 169764,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 146443,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 160210,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 15000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 146443,
+                "idEstado": 1,
+                "totalIngresos": 15000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 202112,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "TERRENO",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "SECTOR LOS BLANCOS HUAÑAMBA",
+                "comentario": "1 HECTAREA CON CASA",
+                "inmuebleSunarp": "2",
+                "inmuebleSunarpDesc": "NO",
+                "partidaSunarp": null,
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 146443,
+                "idEstado": 1,
+                "flValor": "90000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 170729,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "MOTOTAXI",
+                "marca": null,
+                "placa": "5298-1B",
+                "valor": 8000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR AZUL",
+                "comentario": "DOCUMENTOS EN TRAMITE",
+                "idHojaVida": 146443,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

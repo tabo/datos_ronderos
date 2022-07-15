@@ -1,0 +1,130 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 178728.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "20643341",
+        "nombres": "MIGUEL FERNANDO",
+        "apellidoPaterno": "SUAREZ",
+        "apellidoMaterno": "CHALE",
+        "sexo": "1",
+        "feNacimiento": "21/02/1960",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "110301",
+        "naciDepartamento": "JUNIN",
+        "naciProvincia": "JAUJA",
+        "naciDistrito": "JAUJA",
+        "ubigeoDomicilio": "110334",
+        "domiDepartamento": "JUNIN",
+        "domiProvincia": "JAUJA",
+        "domiDistrito": "YAUYOS",
+        "domicilioDirecc": "JR. SAN FABIAN 480",
+        "ubigeoPostula": "110334",
+        "postulaDepartamento": "JUNIN",
+        "postulaProvincia": "JAUJA",
+        "postulaDistrito": "YAUYOS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/178728.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2716.0,
+        "organizacionPolitica": "JUNIN RENACE",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "15/06/2022 10:03:09",
+        "txGuidFormatoHojaVida": "38f17a90-ce01-4e44-8a0a-76c8b70d4976",
+        "idSolicitudLista": 28650.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 240249,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MERCADO GALACIO HIDALGO",
+            "ocupacionProfesion": "COMERCIANTE",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR. CIRO LANDA",
+            "anioTrabajoDesde": "2020",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "110334",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "JUNIN",
+            "trabajoProvincia": "JAUJA",
+            "trabajoDistrito": "YAUYOS",
+            "idHojaVida": 178728,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 212131,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 178728,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 192282,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 36000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 178728,
+                "idEstado": 1,
+                "totalIngresos": 36000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [
+        {
+            "idHvSentenciaPenal": 135529,
+            "tengoSentenciaPenal": "SI",
+            "nuItemSentenciaPenal": 1,
+            "txExpedientePenal": "134-05",
+            "feSentenciaPenal": "21/06/2006",
+            "txOrganoJudiPenal": "JUZGADO PENAL DE JAUJA",
+            "txDelitoPenal": "LESIONES LEVES",
+            "txFalloPenal": "PENA",
+            "idParamModalidad": 13,
+            "txModalidad": "OTRO",
+            "txOtraModalidad": "PRIVACION DE LIBERTAD CONDICIONAL",
+            "idParamCumpleFallo": 20,
+            "txCumpleFallo": "PENA CUMPLIDA",
+            "idEstado": 1,
+            "idHojaVida": 178728,
+            "txComentario": null
+        }
+    ],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 18895,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 4,
+        "txOrganizacionPolitica": "ACCION POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/aa307405-73b2-4099-8aa5-ecf055c00a79.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/33cc8523-62b4-452b-a553-ef320971bdde.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 170102,
+            "txPgProblema": "LIMITADA ATENCIÓN DE LOS SERVICIOS DE SALUD A LA POBLACIÓN ESPECIALMENTE LOS DISCAPACITADOS Y SEÑORES DE LA TERCERA EDAD",
+            "txPgObjetivo": "MEJOR ATENCIÓN DE LOS SERVICIOS DE SALUD A LA POBLACIÓN ESPECIALMENTE LOS DISCAPACITADOS Y SEÑORES DE LA TERCERA EDAD",
+            "txPgIndicador": "% PORCENTAJE DE LA POBLACIÓN QUE NO RECIBE ATENCIÓN MEDICA",
+            "txPgMeta": "10 CAMPAÑAS DE SALUD ORIENTADAS A LOS POBLADORES DE BAJO RECURSOS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 170110,
+            "txPgProblema": "INSUFICIENTE SERVICIO DE LAS AGUA POTABLE Y ALCANTARILLADO EN LOS ASENTAMIENTOS HUMANOS",
+            "txPgObjetivo": "SUFICIENTE SERVICIO DE LAS AGUA POTABLE Y ALCANTARILLADO EN LOS ASENTAMIENTOS HUMANOS",
+            "txPgIndicador": "% PORCENTAJE DE POBLACIÓN QUE CARECE DEL SERVICIO DE AGUA POTABLE Y ALCANTARILLADO NO ATENDIDA",
+            "txPgMeta": "1500 CONEXIONES DOMICILIARIAS DE AGUA POTABLE Y ALCANTARILLADO EN LOS ASENTAMIENTO HUMANO",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 170115,
+            "txPgProblema": "INADECUADAS PRACTICA PARA IMPULSAR EL DESARROLLO DE ACTIVIDADES CULTURALES Y EDUCATIVAS",
+            "txPgObjetivo": "IMPULSAR EL DESARROLLO DE ACTIVIDADES CULTURALES EDUCATIVAS",
+            "txPgIndicador": "% PORCENTAJE  DE POBLACIÓN ESCOLAR NO ATENDIDA PARA EL DESARROLLO DE ACTIVIDADES CULTURALES Y EDUCATIVO",
+            "txPgMeta": "4 ACTIVIDADES PARA IMPULSAR EL DESARROLLO DE ACTIVIDADES CULTURALES Y EDUCATIVAS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 170122,
+            "txPgProblema": "DEFICIENTE PROGRAMAS Y/O PROYECTOS PRODUCTIVOS",
+            "txPgObjetivo": "EFICIENTES PROGRAMAS Y/O PROYECTOS PRODUCTIVOS",
+            "txPgIndicador": "% PORCENTAJE DE PRODUCTORES AGRÍCOLAS NO ATENDIDOS",
+            "txPgMeta": "16 PROGRAMAS PRODUCTIVOS PROMOVIDOS POR EL GOBIERNO LOCAL",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 170128,
+            "txPgProblema": "DEFICIENTE PROMOCIÓN AL TURISMO EN LOS BALNEARIOS DE LA ZONA",
+            "txPgObjetivo": "EFICIENTE PROMOCIÓN AL TURISMO EN LOS BALNEARIOS DE LA ZONA",
+            "txPgIndicador": "% PORCENTAJE DE ÁREAS DE TURISMO NO PROMOCIONADAS",
+            "txPgMeta": "4 ACTIVIDADES DE PROMOCIÓN AL TURISMO EN BALNEARIO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 170131,
+            "txPgProblema": "DEFICIENTE IMPULSO DE PROGRAMAS DE VIVIENDAS EN ZONAS DE BALNEARIO",
+            "txPgObjetivo": "IMPULSO A PROGRAMAS DE VIVIENDAS EN ZONAS DE BALNEARIOS",
+            "txPgIndicador": "% PORCENTAJE DE VIVIENDAS EN LA ZONA",
+            "txPgMeta": "4  ACTIVIDADES PARA PROMOCIÓN AL IMPULSO A DESARROLLO ECONÓMICO",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 170136,
+            "txPgProblema": "DEFICIENTES ORNATO PÚBLICO Y ÁREAS VERDES  EN NUESTRO DISTRITO.",
+            "txPgObjetivo": "CREAR ÁREAS VERDES Y JUEGOS PARA LOS NIÑOS, ARBORIZACIÓN DEL DISTRITO PARA UN MEJOR ORNAMENTO.",
+            "txPgIndicador": "EL 70% DEL DISTRITO CARECE DE ÁREAS VERDES Y ÁRBOLES.",
+            "txPgMeta": "CONSTRUCCIÓN DE 1000 M2 ÁREAS DE VERDES PARA EMBELLECIMIENTO DEL DISTRITO.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 170138,
+            "txPgProblema": "AUMENTO DE LA CONTAMINACIÓN  AMBIENTAL, DESCUIDO  DEL MOBILIARIO URBANO",
+            "txPgObjetivo": "DISMINUCIÓN DE LA CONTAMINACIÓN AMBIENTAL CUIDADO  DEL MOBILIARIO URBANO",
+            "txPgIndicador": "EL 80% DE LA POBLACIÓN NO TIENE CONCIENCIA AMBIENTAL",
+            "txPgMeta": "REALIZAR 4 EVALUACIÓN DEL IMPACTO AMBIENTAL QUE CONLLEVE A PLANIFICAR Y EJECUTAR MEDIDAS CORRECTIVAS",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 170143,
+            "txPgProblema": "AUSENCIA DE PROGRAMAS DE PREVENCIÓN Y CUIDADO AL MEDIO AMBIENTE",
+            "txPgObjetivo": "IMPLEMENTACIÓN DE PROGRAMAS DE PREVENCIÓN Y CUIDADO AL MEDIO AMBIENTE",
+            "txPgIndicador": "% PORCENTAJE DE PROGRAMAS NO ATENDIDAS",
+            "txPgMeta": "5 PROGRAMAS DE PREVENCIÓN POR AÑO",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 170146,
+            "txPgProblema": "DEFICIENTE EQUIPO DE LA INSTITUCIÓN MUNICIPAL",
+            "txPgObjetivo": "EFICIENTE EQUIPO DE LA  INSTITUCIÓN MUNICIPAL",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN NO ATENDIDA",
+            "txPgMeta": "COMPRA DE 5 COMPUTADORAS 2 IMPRESORA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 170152,
+            "txPgProblema": "INADECUADAS ATENCIONES EN LAS DEMANDAS Y NECESIDADES DEL DISTRITO",
+            "txPgObjetivo": "ADECUADAS ATENCIONES EN LAS DEMANDAS Y NECESIDADES DEL DISTRITO",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN NO ATENDIDA SUS DEMANDAS",
+            "txPgMeta": "4 CAPACITACIONES EN GESTIÓN PUBLICA AL PERSONAL EDIL",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 170156,
+            "txPgProblema": "AUSENCIA DE PLANES ESTRATÉGICOS DE SEGURIDAD CIUDADANA",
+            "txPgObjetivo": "IMPLEMENTACIÓN DE PLANES ESTRATÉGICOS DE SEGURIDAD CIUDADANA",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN NO ATENDIDAS EN SEGURIDAD",
+            "txPgMeta": "4 PLANES DE SEGURIDAD AL AÑO PARA MEJORAR LA SEGURIDAD CIUDADANA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

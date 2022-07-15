@@ -1,0 +1,105 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 20085,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 14,
+        "txOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1663,
+        "juradoElectoral": "CAYLLOMA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/09622cfb-7bb9-4fac-90dd-c55106204108.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/14dcda16-13c0-4ff8-8bcf-23b87a31971b.pdf",
+        "txCodExpedienteExt": "ERM.2022015397",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 211433,
+            "txPgProblema": "INSUFICIENTE MANTENIMIENTO A NIVEL DE INFRAESTRUCTURA E INSTALACIONES DEPORTIVAS",
+            "txPgObjetivo": ". MANTENIMIENTO DE LA INFRAESTRUCTURA Y OPTIMIZACIÓN DE LAS INSTALACIONES E IMPLEMENTACIÓN DE RECURSOS Y MEDIOS PARA EL DEPORTE",
+            "txPgIndicador": "% DE INFRAESTRUCTURA ATENDIDA",
+            "txPgMeta": "100% DE ATENCIÓN DE LA INFRAESTRUCTURA DE\nLAS INSTITUCIONES\nEDUCATIVAS PÚBLICAS",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211448,
+            "txPgProblema": "INSUFICIENTE COBERTURA DEL SERVICIO POR PARTE DE LAS POSTAS Y CENTROS DE SALUD.",
+            "txPgObjetivo": "IMPLEMENTACIÓN LA POSTA MEDICA EN LARI.",
+            "txPgIndicador": "% DE COBERTURA DEL SERVICIO",
+            "txPgMeta": "OPTIMIZACIÓN DEL\nSERVICIO DE ATENCIÓN DE SALUD EN UN 40% SOBRE LA AMPLIACIÓN DE\nLA INFRAESTRUCTURA\nE IMPLEMENTACIÓN",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 211454,
+            "txPgProblema": "DESATENCIÓN A LA PROMOCIÓN DE LOS POTENCIALES TURÍSTICOS",
+            "txPgObjetivo": "PROMOVER EL DESARROLLO TURÍSTICO Y CULTURAL DEL DISTRITO",
+            "txPgIndicador": "% VISITANTES",
+            "txPgMeta": "INCREMENTO DE VISITANTES TURÍSTICOS DEL DISTRITO DE LARI EN UN 90%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211459,
+            "txPgProblema": "INCIPIENTES CAPACIDADES OPERATIVAS DE LOS OPERADORES TURÍSTICOS",
+            "txPgObjetivo": "EMPADRONAR Y FORTALECER LAS CAPACIDADES DE LOS OPERADORES PARA PRESTAR UN SERVICIO DE CALIDAD.",
+            "txPgIndicador": "% DE OPERADORES DEBIDAMENTE CAPACITADOS Y EMPADRONADOS",
+            "txPgMeta": "100% DE OPERADORES CAPACITADOS Y CAPACITADOS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 211469,
+            "txPgProblema": "NECESIDADES INSATISFECHAS EN LOS\nSERVICIOS DE SANEAMIENTO",
+            "txPgObjetivo": "SE CONSTRUIRÁ EL SISTEMA DE SANEAMIENTO BÁSICO DE AGUA Y DESAGÜE EN DISTRITO DE LARI",
+            "txPgIndicador": "% DE COBERTURA DEL SERVICIO",
+            "txPgMeta": "60% DE COBERTURA",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211476,
+            "txPgProblema": "AUSENCIA DE PLAN DE DESARROLLO URBANO ACTUALIZADO",
+            "txPgObjetivo": "ELABORACIÓN DE UN PLAN DE DESARROLLO URBANO ACTUALIZADO EN RELACIÓN A CONSTRUCCIONES PRIVADAS, EJES VIALES DE CALLES, AVENIDAS ETC.",
+            "txPgIndicador": "% DEL PLAN ACTUALIZADO",
+            "txPgMeta": "EJECUCIÓN DE UN PLAN DE DESARROLLO URBANO\nACTUALIZADO EN UN 98%\nRELACIÓN A CONSTRUCCIONES PRIVADAS,\nEJES VIALES DE CALLES,\nAVENIDAS ETC.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 211484,
+            "txPgProblema": "DEFICIENTES INSTRUMENTOS DE GESTIÓN MUNICIPAL PARA EL DESARROLLO DE LAS ACTIVIDADES OPERACIONALES.",
+            "txPgObjetivo": "GENERAR INSTRUMENTOS NORMATIVOS Y PROCEDIMENTALES ADMIRATIVOS",
+            "txPgIndicador": "% DE SATISFACCIÓN",
+            "txPgMeta": "70% DE SATISFACCIÓN",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211491,
+            "txPgProblema": "FALTA DE TRANSPARENCIA PARA LA RENDICIÓN DE CUENTAS TRIMESTRALES Y DE LOS INFORMES ECONÓMICOS EN LAS COMPRAS PÚBLICAS",
+            "txPgObjetivo": "FORTALECER LOS MECANISMOS DE CONTROL, A TRAVÉS DE LOS COMITÉS DE LAS VEEDURÍAS VECINALES.",
+            "txPgIndicador": "% DE ACCESO A LA INFORMACIÓN Y VEEDURÍA",
+            "txPgMeta": "ACCESO A LA INFORMACIÓN PÚBLICA AL 100%. VEEDORES DE LOS\nPROCESOS DE GESTIÓN\nPÚBLICA AL 100%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

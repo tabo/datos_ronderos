@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 22065,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 2878,
+        "txOrganizacionPolitica": "VICTORIA AMAZONENSE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/4a9083a7-cd1f-4f12-8f7a-2e452df1e4ae.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/4ac3c73c-bf2c-401e-850b-06837d547331.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 180643,
+            "txPgProblema": "1. ALTA INCIDENCIA DE ANEMIA EN NIÑOS MENORES DE 36 MESES.",
+            "txPgObjetivo": "IMPLEMENTAR PROGRAMAS DE NUTRICIÓN PARA LAS GESTANTES Y LOS NIÑOS Y NIÑAS MENORES DE 5 AÑOS EN LAS COMUNIDADES MÁS AFECTADAS Y EN LAS INSTITUCIONES EDUCATIVAS.",
+            "txPgIndicador": "% DE NIÑOS Y NIÑAS MENORES DE 3 AÑOS CON ANEMIA.",
+            "txPgMeta": "DISMINUIR A UN 5% LA ANEMIA INFANTIL EN EL DISTRITO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 180742,
+            "txPgProblema": "2. ALTA PREVALENCIA DE DESNUTRICIÓN CRÓNICA INFANTIL (DCI).",
+            "txPgObjetivo": "IMPLEMENTAR ACTIVIDADES PARA MEJORAR EL ESTADO DE SALUD, PRIORIZANDO LA POBLACIÓN INFANTIL DE MENORES DE 5 AÑOS, MUJERES GESTANTES, CON INCLUSIÓN Y EQUIDAD SOCIAL.",
+            "txPgIndicador": "% DE NIÑOS MENORES DE 5 AÑOS CON DESNUTRICIÓN CRÓNICA INFANTIL.",
+            "txPgMeta": "REDUCIR A  UN 5% LA DESNUTRICIÓN CRÓNICA INFANTIL EN EL DISTRITO DE LIMABAMBA.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 180774,
+            "txPgProblema": "3. ALTA PREVALENCIA DE PARASITOSIS INTESTINAL E INCREMENTO DE ENFERMEDADES DIARREICAS.",
+            "txPgObjetivo": "IMPLEMENTAR UN PROGRAMA DE EDUCACIÓN SANITARIA Y TRATAMIENTO DE AGUAS PARA LA PREVENCIÓN DE ENFERMEDADES DE PARASITOSIS Y DIARREICAS EN LA POBLACIÓN DE RODRÍGUEZ DE MENDOZA.",
+            "txPgIndicador": "% DE INSTITUCIONES EDUCATIVAS CON PROGRAMAS DE EDUCACIÓN SANITARIA.",
+            "txPgMeta": "REDUCIR LA PARASITOSIS A UN 5% EN LA POBLACIÓN INFANTIL DEL DISTRITO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 180879,
+            "txPgProblema": "PROCEDIMIENTOS DE MANTENIMIENTO Y MEJORAMIENTO DE VÍAS NO ADECUADAS PARA LA GEOGRAFÍA Y CLIMA DE LA PROVINCIA.",
+            "txPgObjetivo": "MEJORAR LA RED VIAL DISTRITAL CON METODOLOGÍAS QUE GARANTICEN UN PERIODO PROLOGADO DE VIDA ÚTIL.",
+            "txPgIndicador": "NÚMERO DE KILÓMETROS, EN CONDICIONES DE TRANSITABILIDAD Y SEGURIDAD ÓPTIMA",
+            "txPgMeta": "10 KM DE LA RED VIAL DISTRITAL SE ENCUENTRA EN CONDICIONES DE TRANSITABILIDAD Y SEGURIDAD ÓPTIMA",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 180962,
+            "txPgProblema": "PRÁCTICAS EN LA CRIANZA DE GANADO SIN APROVECHAMIENTO DE TECNOLOGÍAS ACTUALES, GENERA IMPACTOS NEGATIVOS EN EL ECOSISTEMA Y UNA BAJA PRODUCCIÓN DE CARNE Y LECHE.",
+            "txPgObjetivo": "GESTIONAR PROYECTOS DE MEJORAMIENTO EN LAS METODOLOGÍAS DE CRIANZA DE GANADO QUE REDUZCAN LOS IMPACTOS ECOSISTÉMICOS NEGATIVOS Y GENEREN MAYOR RENTABILIDAD.",
+            "txPgIndicador": "% DE PARTICIPANTES BENEFICIADOS DEL DISTRITO",
+            "txPgMeta": "100% DE LAS ASOCIACIONES CAPACITADAS Y ASESORADAS.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 180983,
+            "txPgProblema": "ZONAS PRODUCTIVAS QUE NO CUENTAN CON VÍA DE ACCESO VEHICULAR",
+            "txPgObjetivo": "CREAR VÍAS DE ACCESO PARA ZONAS AGRÍCOLAS CON POTENCIAL PRODUCTIVO",
+            "txPgIndicador": "% DE HECTÁREAS DE TERRENO AGRÍCOLA CUENTA CON VÍA DE ACCESO VEHICULAR",
+            "txPgMeta": "50% DE HECTÁREAS DE TERRENO AGRÍCOLA CUENTA CON  VÍAS DE ACCESO VEHICULAR",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 181003,
+            "txPgProblema": "LIMITADAS ACCIONES PUBLICO PRIVADAS PARA LA SOSTENIBILIDAD DE SUELOS, PROTECCIÓN Y MEJORAMIENTO DE ECOSISTEMAS PRESENTES EN EL DISTRITO   .",
+            "txPgObjetivo": "GESTIONAR PROYECTOS PUBLICO PRIVADOS PARA EL MEJORAMIENTO Y PROTECCIÓN DE ECOSISTEMAS A TRAVÉS ACTIVIDADES DE AGRO FORESTACIÓN Y REFORESTACIÓN.",
+            "txPgIndicador": "N° DE HECTÁREAS FOCALIZADAS BENEFICIADAS.",
+            "txPgMeta": "20  HECTÁREAS CUENTAN CON FORESTALES Y AGROFORESTALES.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 181017,
+            "txPgProblema": "CABECERAS DE CUENCA DEFORESTADAS Y CONVERTIDAS EN PASTIZALES PARA LA CRIANZA DE GANADO PONE EN RIESGO LA CALIDAD DE AGUA CAPTADA PARA EL CONSUMO HUMANO.",
+            "txPgObjetivo": "PROMOVER Y GESTIONAR ÁREAS  DE CONSERVACIÓN MUNICIPAL Y PRIVADAS, INTEGRANDO PROYECTOS DE CRIANZA DE GANADO CON PRÁCTICAS MODERNAS Y SOSTENIBLES EN BENEFICIO DE LOS ECOSISTEMAS SALUDABLES.",
+            "txPgIndicador": "% DE ÁREAS FOCALIZADAS, PROTEGIDAS.",
+            "txPgMeta": "100% DE ÁREAS FOCALIZADAS, PROTEGIDAS.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 181413,
+            "txPgProblema": "LOS INCENDIOS FORESTALES AFECTAN CONSIDERABLEMENTE EL ECOSISTEMA",
+            "txPgObjetivo": "PROGRAMAS DE CONCIENTIZACIÓN EN LA PRESERVACIÓN DE LA FLORA Y EL BUEN USO DE LOS RECURSOS NATURALES.",
+            "txPgIndicador": "% DE PERSONAS IDENTIFICADAS CAPACITADAS PARA PREVENIR Y ACTUAR EN CASO DE INCENDIOS",
+            "txPgMeta": "100% DE PERSONAS IDENTIFICADAS CAPACITADAS PARA PREVENIR Y ACTUAR EN CASO DE INCENDIOS FORESTALES.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 181587,
+            "txPgProblema": "DÉBIL ARTICULACIÓN INTERINSTITUCIONAL",
+            "txPgObjetivo": "FORTALECER LA ARTICULACIÓN INTERINSTITUCIONAL.",
+            "txPgIndicador": "N° DE ENCUENTROS INTERINSTITUCIONALES LOCALES",
+            "txPgMeta": "4 ENCUENTROS INTERINSTITUCIONALES ANUALES POR AÑO HASTA EL 2026.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 181623,
+            "txPgProblema": "INSTRUMENTO DE GESTIÓN INSTITUCIONAL NO ALINEADOS.",
+            "txPgObjetivo": "FOMENTAR LA ALINEACIÓN INTEGRAL DE LOS INSTRUMENTOS DE GESTIÓN.",
+            "txPgIndicador": "% DE INSTRUMENTOS DE GESTIÓN INSTITUCIONAL ALINEADOS COHERENTEMENTE.",
+            "txPgMeta": "100% DE INSTRUMENTOS DE GESTIÓN INSTITUCIONAL ALINEADOS COHERENTEMENTE.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 181664,
+            "txPgProblema": "REDUCIDO ANCHO DE BANDA DE INTERNET DIFICULTA LA COMUNICACIÓN DIGITAL",
+            "txPgObjetivo": "GESTIONAR A TRAVÉS DEL MTC Y EMPRESAS PRIVADAS AMPLIAR LA COBERTURA DISTRITAL",
+            "txPgIndicador": "% DE ANCHO DE BANDA INCREMENTADO",
+            "txPgMeta": "50% DE ANCHO DE BANDA INCREMENTADO AL 2026.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

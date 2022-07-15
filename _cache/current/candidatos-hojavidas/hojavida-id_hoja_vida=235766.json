@@ -1,0 +1,159 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 235766.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "08212924",
+        "nombres": "WALTER DOUGLAS",
+        "apellidoPaterno": "SALAZAR",
+        "apellidoMaterno": "LINDLEY",
+        "sexo": "1",
+        "feNacimiento": "27/05/1952",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140115",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "LIMA",
+        "naciDistrito": "MIRAFLORES",
+        "ubigeoDomicilio": "140115",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "LIMA",
+        "domiDistrito": "MIRAFLORES",
+        "domicilioDirecc": "JR. GONZALES VIGIL 131 DPTO. D",
+        "ubigeoPostula": "140110",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "LIMA",
+        "postulaDistrito": "LA MOLINA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/235766.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2895.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATA VERDE",
+        "numeroCandidato": 8.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 10:09:57",
+        "txGuidFormatoHojaVida": "239a93da-c80e-444e-a95e-fcd00948ba02",
+        "idSolicitudLista": 35822.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 158645,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "KORA TELEVISION",
+            "ocupacionProfesion": "PRODUCTOR/CONDUCTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "JR WALKUSKY N° 143",
+            "anioTrabajoDesde": "2015",
+            "anioTrabajoHasta": "2020",
+            "ubigeoTrabajo": "140101",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "LIMA",
+            "idHojaVida": 235766,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 138548,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 235766,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 150190,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "NQ3162 ",
+                "valor": 2500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR VERDE",
+                "comentario": null,
+                "idHojaVida": 235766,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 150189,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "A8H121 ",
+                "valor": 11000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR ROJO",
+                "comentario": null,
+                "idHojaVida": 235766,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 190,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "CORP.JOSE R LINDLEY",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 20409.0,
+                "flValor": 76533.0,
+                "idHojaVida": 235766,
+                "idEstado": 1,
+                "txUsuario": "77282067",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 134537,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "1782-04",
+            "txOrganoJuridicialObliga": "2DO JUZGADO DE  PAZ , SANTA ANITA",
+            "txFalloObliga": "CONCILIACION",
+            "idEstado": 1,
+            "idHojaVida": 235766,
+            "txComentario": null
+        }
+    ]
+}

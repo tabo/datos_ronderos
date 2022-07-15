@@ -1,0 +1,193 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 225349.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 5.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43222899",
+        "nombres": "HECTOR JESUS",
+        "apellidoPaterno": "CARDENAS",
+        "apellidoMaterno": "DENEGRI",
+        "sexo": "1",
+        "feNacimiento": "21/10/1981",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040402",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "CARAVELI",
+        "naciDistrito": "ACARI",
+        "ubigeoDomicilio": "040402",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "CARAVELI",
+        "domiDistrito": "ACARI",
+        "domicilioDirecc": "AV. RICARDO PALMA S/N",
+        "ubigeoPostula": "040400",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "CARAVELI",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/225349.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 1257.0,
+        "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR PROVINCIAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 07:20:12",
+        "txGuidFormatoHojaVida": "27dcd9ec-36ba-4b7b-afe3-72908448389a",
+        "idSolicitudLista": 34605.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 233318,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "ALFAJORES MILY",
+            "ocupacionProfesion": "COMERCIANTE",
+            "rucTrabajo": "10432228997",
+            "direccionTrabajo": "AV. RICARDO PALMA S/N",
+            "anioTrabajoDesde": "2017",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "040401",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "CARAVELI",
+            "trabajoDistrito": "CARAVELI",
+            "idHojaVida": 225349,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 205904,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 225349,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 178513,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD NACIONAL SAN LUIS GONZAGA DE ICA",
+                "carreraUni": "BACHILLER EN CONTABILIDAD",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2008",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 187238,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 13200.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 225349,
+                "idEstado": 1,
+                "totalIngresos": 13200.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 192472,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "BUN441 ",
+                "valor": 65000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMIONETA MITSUBISHI",
+                "comentario": null,
+                "idHojaVida": 225349,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 192471,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "A3U815 ",
+                "valor": 18000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMIONETA NISSAN PICK AP",
+                "comentario": null,
+                "idHojaVida": 225349,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 6033,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "INVERCIONES VIRGEN DE CHAPIOTAPARA S.A.C",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 3.0,
+                "flValor": 1.0,
+                "idHojaVida": 225349,
+                "idEstado": 1,
+                "txUsuario": "29521182",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 136669,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "00031-2020-0-1408-JP-FC-01",
+            "txOrganoJuridicialObliga": "CIVIL",
+            "txFalloObliga": "EN PROCESO",
+            "idEstado": 1,
+            "idHojaVida": 225349,
+            "txComentario": "EN PROCESO"
+        }
+    ]
+}

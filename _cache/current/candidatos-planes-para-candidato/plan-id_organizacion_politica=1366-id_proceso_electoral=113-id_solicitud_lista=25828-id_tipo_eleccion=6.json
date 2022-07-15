@@ -1,0 +1,65 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 19154,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1366,
+        "txOrganizacionPolitica": "FUERZA POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/c30ec111-cce4-44c9-926f-0df84ddb0281.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/c2f119ec-84fe-481d-9cbc-b218247a78e9.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 202029,
+            "txPgProblema": "BAJA ATENCION DE LA COBERTURA MEDICA",
+            "txPgObjetivo": "UNIVERSALIZAR EL SEGURO MEDICO",
+            "txPgIndicador": "INEI SOLO EL 50% TIENE COBERTURA MEDICA",
+            "txPgMeta": "AUMENTAR DEL 50 AL 100%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 202061,
+            "txPgProblema": "INFORMALIDAD CRECIENTE",
+            "txPgObjetivo": "FORMALIZACION E INCENTIVO PARA CREACION DE MYPES",
+            "txPgIndicador": "50% DEL COMERCIO ES INFORMAL",
+            "txPgMeta": "INFORMALIDAD AL 10%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 202095,
+            "txPgProblema": "CRECIMIENTO URBANO INFORMAL",
+            "txPgObjetivo": "PLANIFICACION Y MODERNIZACION DEL CATASTRO",
+            "txPgIndicador": "EDIFICACIONES IMPROVISADAS",
+            "txPgMeta": "REORDENAMIENTO CATASTRAL AL 100%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 202164,
+            "txPgProblema": "ENREJADO DE CALLES Y PRIVATIZACION DE ESPACIOS PÚBLICOS",
+            "txPgObjetivo": "VIAS CIRC ULABLES Y SEGURAS",
+            "txPgIndicador": "CALLES CERRADAS USADAS COMO CO CHERAS",
+            "txPgMeta": "ELEIMINACION DEL ENREJADO AL 100%",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

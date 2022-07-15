@@ -1,0 +1,156 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 188993.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "43725017",
+        "nombres": "RUBEN",
+        "apellidoPaterno": "APOLINARIO",
+        "apellidoMaterno": "CASTILLO",
+        "sexo": "1",
+        "feNacimiento": "09/09/1985",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "080509",
+        "naciDepartamento": "HUANCAVELICA",
+        "naciProvincia": "TAYACAJA",
+        "naciDistrito": "DANIEL HERNANDEZ",
+        "ubigeoDomicilio": "080506",
+        "domiDepartamento": "HUANCAVELICA",
+        "domiProvincia": "TAYACAJA",
+        "domiDistrito": "COLCABAMBA",
+        "domicilioDirecc": "ANEXO DE SAN VICENTE DE YANAYACU",
+        "ubigeoPostula": "080506",
+        "postulaDepartamento": "HUANCAVELICA",
+        "postulaProvincia": "TAYACAJA",
+        "postulaDistrito": "COLCABAMBA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/188993.jpg",
+        "estado": "PUBLICADO PARA TACHAS",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 16:39:45",
+        "txGuidFormatoHojaVida": "11541cfb-cc89-45a8-9e1e-098462c68070",
+        "idSolicitudLista": 30051.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 232756,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "TRABAJADOR INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "ANEXO VISTA ALEGRE C.P SAN VICENTE YANAYACO",
+            "anioTrabajoDesde": "2003",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "080506",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "HUANCAVELICA",
+            "trabajoProvincia": "TAYACAJA",
+            "trabajoDistrito": "COLCABAMBA",
+            "idHojaVida": 188993,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 205459,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "NO",
+            "idHojaVida": 188993,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 161281,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2218,
+            "orgPolRenunciaOp": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 188993,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 186804,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 30000.0,
+                "idHojaVida": 188993,
+                "idEstado": 1,
+                "totalIngresos": 30000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 192120,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "96985W ",
+                "valor": 70000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMION COLOR VERDE",
+                "comentario": null,
+                "idHojaVida": 188993,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 192119,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "62182W ",
+                "valor": 80000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMION COLOR PLOMO",
+                "comentario": null,
+                "idHojaVida": 188993,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 167024.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "31537323",
+        "nombres": "HERMOGENES",
+        "apellidoPaterno": "RAFAELE",
+        "apellidoMaterno": "ANCCO",
+        "sexo": "1",
+        "feNacimiento": "07/07/1960",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "030608",
+        "naciDepartamento": "APURIMAC",
+        "naciProvincia": "GRAU",
+        "naciDistrito": "PATAYPAMPA",
+        "ubigeoDomicilio": "030613",
+        "domiDepartamento": "APURIMAC",
+        "domiProvincia": "GRAU",
+        "domiDistrito": "SANTA ROSA",
+        "domicilioDirecc": "ANEXO PALCCA",
+        "ubigeoPostula": "030613",
+        "postulaDepartamento": "APURIMAC",
+        "postulaProvincia": "GRAU",
+        "postulaDistrito": "SANTA ROSA",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/167024.jpg",
+        "estado": "RECIBIDO",
+        "idOrganizacionPolitica": 2886.0,
+        "organizacionPolitica": "HATARIY APURIMAC",
+        "numeroCandidato": 4.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 21:19:20",
+        "txGuidFormatoHojaVida": "55b38eb5-6e8f-4a0a-83ef-c1c0df81e52a",
+        "idSolicitudLista": 27099.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 182305,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 167024,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 140263,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 2731,
+                "orgPolCargoPartidario": "PARTIDO POLÍTICO PODEMOS PERU",
+                "cargoPartidario": "AFILIADO",
+                "anioCargoPartiDesde": "2018",
+                "anioCargoPartiHasta": "2021",
+                "idHojaVida": 167024,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": "DESAFILIADO"
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 153606,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 2731,
+            "orgPolRenunciaOp": "PODEMOS PERU",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 167024,
+            "idEstado": 1,
+            "txComentario": "DESAFILIADO"
+        },
+        {
+            "idHvRenunciaOp": 153605,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 467,
+            "orgPolRenunciaOp": "MOVIMIENTO POPULAR KALLPA",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 167024,
+            "idEstado": 1,
+            "txComentario": "DESAFILIADO"
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 170818,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 6000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 167024,
+                "idEstado": 1,
+                "totalIngresos": 6000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 213772,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "REGISTRO DE PREDIOS",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "GRAU-SANTA ROSA- MZ F LOTE 9 - CENTRO POBLADO SANTA ROSA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "11062478",
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 167024,
+                "idEstado": 1,
+                "flValor": "20000"
+            }
+        ],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

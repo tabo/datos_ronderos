@@ -1,0 +1,178 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 219990.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "72322080",
+        "nombres": "RAFAEL ANTONIO",
+        "apellidoPaterno": "GAYTAN",
+        "apellidoMaterno": "GONZALES",
+        "sexo": "1",
+        "feNacimiento": "20/10/1995",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "150107",
+        "naciDepartamento": "LORETO",
+        "naciProvincia": "MAYNAS",
+        "naciDistrito": "PUTUMAYO",
+        "ubigeoDomicilio": "150901",
+        "domiDepartamento": "LORETO",
+        "domiProvincia": "PUTUMAYO",
+        "domiDistrito": "PUTUMAYO",
+        "domicilioDirecc": "COMUNIDAD HUAPAPA",
+        "ubigeoPostula": "150904",
+        "postulaDepartamento": "LORETO",
+        "postulaProvincia": "PUTUMAYO",
+        "postulaDistrito": "YAGUAS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/219990.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 0.0,
+        "cargo": [
+            "ALCALDE DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 19:26:26",
+        "txGuidFormatoHojaVida": "f7c2ee7e-8936-4273-8c1a-faa86bbdaaa8",
+        "idSolicitudLista": 33983.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 208361,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MUNICIPALIDAD PROVINCIAL DEL PUTUMAYO",
+            "ocupacionProfesion": "APOYO ADMINISTRATIVO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE AREQUIPA S/N",
+            "anioTrabajoDesde": "2021",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "150901",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LORETO",
+            "trabajoProvincia": "PUTUMAYO",
+            "trabajoDistrito": "PUTUMAYO",
+            "idHojaVida": 219990,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "SERVICIO POR LOCACION DE SERVICIO"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 183437,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 219990,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [
+            {
+                "idHvEduUniversitaria": 166884,
+                "tengoEduUniversitaria": "SI",
+                "itemEduUni": "1",
+                "eduUniversitaria": "1",
+                "universidad": "UNIVERSIDAD CIENTÍFICA DEL PERÚ",
+                "carreraUni": "BACHILLER EN INGENIERÍA AMBIENTAL",
+                "concluidoEduUni": "SI",
+                "egresadoEduUni": "SI",
+                "bachillerEduUni": null,
+                "anioBachiller": "2021",
+                "tituloUni": null,
+                "anioTitulo": null,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 170506,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 16500.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 219990,
+                "idEstado": 1,
+                "totalIngresos": 16500.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 179117,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 3,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "46418L ",
+                "valor": 5400.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "HONDA ROJO",
+                "comentario": null,
+                "idHojaVida": 219990,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 179116,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "25958L ",
+                "valor": 6000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "HONDA NEGRO",
+                "comentario": null,
+                "idHojaVida": 219990,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 179115,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "67087L ",
+                "valor": 6500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "HONDA ROJO",
+                "comentario": null,
+                "idHojaVida": 219990,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

@@ -1,0 +1,137 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 224396.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "15288959",
+        "nombres": "JUAN CARLOS",
+        "apellidoPaterno": "ZEVALLOS",
+        "apellidoMaterno": "CHIRRE",
+        "sexo": "1",
+        "feNacimiento": "28/01/1958",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "140305",
+        "naciDepartamento": "LIMA",
+        "naciProvincia": "CANTA",
+        "naciDistrito": "LACHAQUI",
+        "ubigeoDomicilio": "140305",
+        "domiDepartamento": "LIMA",
+        "domiProvincia": "CANTA",
+        "domiDistrito": "LACHAQUI",
+        "domicilioDirecc": "JR DEL CARMEN 102",
+        "ubigeoPostula": "140305",
+        "postulaDepartamento": "LIMA",
+        "postulaProvincia": "CANTA",
+        "postulaDistrito": "LACHAQUI",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/224396.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 1366.0,
+        "organizacionPolitica": "FUERZA POPULAR",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 17:30:12",
+        "txGuidFormatoHojaVida": "d4d00360-4ffe-4640-9e1b-69859fa66d4f",
+        "idSolicitudLista": 34491.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 195801,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AGRICULTOR",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "LACHAQUI",
+            "anioTrabajoDesde": "1992",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "140305",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "CANTA",
+            "trabajoDistrito": "LACHAQUI",
+            "idHojaVida": 224396,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 172509,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 224396,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 149643,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 5,
+            "orgPolRenunciaOp": "RENACIMIENTO UNIDO NACIONAL",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 224396,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 162208,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 42000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 224396,
+                "idEstado": 1,
+                "totalIngresos": 42000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": [
+        {
+            "idHvSentenciaObliga": 135623,
+            "tengoSentenciaObliga": "SI",
+            "nuItemSentenciaObliga": 1,
+            "idParamMateriaSentencia": 16,
+            "txMateriaSentencia": "FAMILIA / ALIMENTARIA",
+            "txExpedienteObliga": "00051-2015-0-0902",
+            "txOrganoJuridicialObliga": "CONO NORTE - CANTA",
+            "txFalloObliga": "SENTENCIA POR ALIMENTOS",
+            "idEstado": 1,
+            "idHojaVida": 224396,
+            "txComentario": "ESTYO PAGANDO POR ALIMENTOS"
+        }
+    ]
+}

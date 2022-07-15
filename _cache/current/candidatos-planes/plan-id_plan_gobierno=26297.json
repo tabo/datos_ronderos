@@ -1,0 +1,105 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 26297,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 4,
+        "txOrganizacionPolitica": "ACCION POPULAR",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1688,
+        "juradoElectoral": "ICA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/b53d61aa-4e37-4261-aed8-0608fea9c1c7.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/cd312c86-985c-4b74-baf5-d09b8214b5d8.pdf",
+        "txCodExpedienteExt": "ERM.2022015175",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 215976,
+            "txPgProblema": "SANEAMIENTO",
+            "txPgObjetivo": "DE AGUA Y DESAGUE",
+            "txPgIndicador": "AUMENTO DE PRODUCCIÓN",
+            "txPgMeta": "80%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 216017,
+            "txPgProblema": "EDUCACIÓN",
+            "txPgObjetivo": "REFORZAR LA INFRAESTRUCTURA\nDE LOS COLEGIOS",
+            "txPgIndicador": "DETERIORO DE AGUA   POR PANDEMIA",
+            "txPgMeta": "75%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 216058,
+            "txPgProblema": "SALUD",
+            "txPgObjetivo": "FARMACIA MUNICIPAL MEJORAR LA SALUD, 24 HORAS ATENCIÓN POSTA DE LA POBLACIÓN",
+            "txPgIndicador": "NUMERO DE FARMACIAS",
+            "txPgMeta": "60%",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 216083,
+            "txPgProblema": "TURISMO",
+            "txPgObjetivo": "INCREMENTAR EL FLUJO DE TURISTAS",
+            "txPgIndicador": "RECUPERACIÓN O RESERVACIÓN DEL TURISMO",
+            "txPgMeta": "80%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 216108,
+            "txPgProblema": "AGRICULTURA",
+            "txPgObjetivo": "TECNIFICAR EL RIEGO",
+            "txPgIndicador": "DEFICIENTE PRODUCCIÓN",
+            "txPgMeta": "85%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 216251,
+            "txPgProblema": "DEFORESTACIÓN",
+            "txPgObjetivo": "PLANTACIÓN DE ARBOLES",
+            "txPgIndicador": "CALENTAMIENTO GLOBAL",
+            "txPgMeta": "70%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 216276,
+            "txPgProblema": "QUEMA DE RAMAS",
+            "txPgObjetivo": "INDUSTRIALIZAR \nMADERAS Y RAMAS",
+            "txPgIndicador": "CONTAMINACIÓN DEL AMBIENTE POR HUMO",
+            "txPgMeta": "60%",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 216344,
+            "txPgProblema": "TRÁMITES\nADMINISTRATIVOS\nBUROCRÁTICOS.",
+            "txPgObjetivo": "SIMPLIFICAR LOS TRÁMITES\nADMINISTRATIVOS EXISTENTES",
+            "txPgIndicador": "PORCENTAJE  DE TRAMITES INCONCLUSOS",
+            "txPgMeta": "REDUCIR LOS\nREQUISITOS EN LOS\nTRÁMITES\nFRECUENTES, PARA\nACORTAR PLAZO Y\nCOSTO QUE\nBENEFICIE A LA\nPOBLACIÓN",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

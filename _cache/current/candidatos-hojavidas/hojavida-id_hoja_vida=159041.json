@@ -1,0 +1,156 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 159041.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "44019667",
+        "nombres": "SEBASTIAN",
+        "apellidoPaterno": "FLORES",
+        "apellidoMaterno": "MAQUERA",
+        "sexo": "1",
+        "feNacimiento": "05/01/1987",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "200102",
+        "naciDepartamento": "PUNO",
+        "naciProvincia": "PUNO",
+        "naciDistrito": "ACORA",
+        "ubigeoDomicilio": "220104",
+        "domiDepartamento": "TACNA",
+        "domiProvincia": "TACNA",
+        "domiDistrito": "INCLAN",
+        "domicilioDirecc": "INCLAN ALTO RAYO S/N",
+        "ubigeoPostula": "220104",
+        "postulaDepartamento": "TACNA",
+        "postulaProvincia": "TACNA",
+        "postulaDistrito": "INCLAN",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/159041.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2868.0,
+        "organizacionPolitica": "JUNTOS POR TACNA",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "13/06/2022 10:58:37",
+        "txGuidFormatoHojaVida": "e7da685b-ed71-4936-bd10-12d69fbabfa4",
+        "idSolicitudLista": 26013.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 189478,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR Y GANADERO",
+            "rucTrabajo": null,
+            "direccionTrabajo": "PROTER S/N",
+            "anioTrabajoDesde": "2012",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "220104",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "TACNA",
+            "trabajoProvincia": "TACNA",
+            "trabajoDistrito": "INCLAN",
+            "idHojaVida": 159041,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 166943,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 159041,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 147475,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 179,
+            "orgPolRenunciaOp": "PARTIDO NACIONALISTA PERUANO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 159041,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 158050,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 15000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 159041,
+                "idEstado": 1,
+                "totalIngresos": 15000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 168894,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "X1Y451 ",
+                "valor": 15000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA HYUNDAI MODELO ACCENT COLOR PLATA",
+                "comentario": null,
+                "idHojaVida": 159041,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 168893,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "Z1B857 ",
+                "valor": 8000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "MARCA TOYOTA MODELO TOWNACE COLOR PLATA",
+                "comentario": null,
+                "idHojaVida": 159041,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

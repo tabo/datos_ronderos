@@ -1,0 +1,153 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 208553.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42199726",
+        "nombres": "ERICK",
+        "apellidoPaterno": "GARCIA",
+        "apellidoMaterno": "AVILA",
+        "sexo": "1",
+        "feNacimiento": "11/05/1982",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "120305",
+        "naciDepartamento": "LA LIBERTAD",
+        "naciProvincia": "SANCHEZ CARRION",
+        "naciDistrito": "MARCABAL",
+        "ubigeoDomicilio": "120305",
+        "domiDepartamento": "LA LIBERTAD",
+        "domiProvincia": "SANCHEZ CARRION",
+        "domiDistrito": "MARCABAL",
+        "domicilioDirecc": "CASERIO NARANJOPAMPA",
+        "ubigeoPostula": "120305",
+        "postulaDepartamento": "LA LIBERTAD",
+        "postulaProvincia": "SANCHEZ CARRION",
+        "postulaDistrito": "MARCABAL",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/208553.jpg",
+        "estado": "INSCRITO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "08/06/2022 21:53:21",
+        "txGuidFormatoHojaVida": "4de0afca-ca0c-4236-95c7-e14eda6ba52a",
+        "idSolicitudLista": 32589.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 164847,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "INDEPENDIENTE",
+            "ocupacionProfesion": "AGRICULTOR",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CASERIO NARANJOPAMPA",
+            "anioTrabajoDesde": "2002",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "120305",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LA LIBERTAD",
+            "trabajoProvincia": "SANCHEZ CARRION",
+            "trabajoDistrito": "MARCABAL",
+            "idHojaVida": 208553,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "NO EMITO BOLETAS NI RECIBOS POR HONORARIOS PORQUE SON INGRESOS MENORES A LA DECLARACION ANUAL DE SUNAT"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 144054,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 208553,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [
+        {
+            "idHvInfoAdicional": 135054,
+            "idTengoInfoAdicional": "1",
+            "tengoInfoAdicional": "SI",
+            "infoAdicional": "MIS INGRESOS NO SON DECLARABLES EN SUNAT PORQUE NO SUPERAN LA RENTA ANUAL.",
+            "idHojaVida": 208553,
+            "idEstado": 1
+        }
+    ],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 141399,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 20000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 208553,
+                "idEstado": 1,
+                "totalIngresos": 20000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 154129,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "81584M ",
+                "valor": 4500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AZUL CON BLANCO",
+                "comentario": null,
+                "idHojaVida": 208553,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 154128,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "M70353 ",
+                "valor": 3500.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "ROJO CON NEGRO",
+                "comentario": null,
+                "idHojaVida": 208553,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

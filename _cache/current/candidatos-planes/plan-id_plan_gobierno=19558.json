@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 19558,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 1257,
+        "txOrganizacionPolitica": "ALIANZA PARA EL PROGRESO",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1692,
+        "juradoElectoral": "LEONCIO PRADO",
+        "txRutaCompleto": null,
+        "txRutaResumen": null,
+        "txCodExpedienteExt": "ERM.2022011328",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 178844,
+            "txPgProblema": "DEFICIENTE INFRAESTRUCTURA PARA EL SERVICIO DE SALUD PÚBLICA",
+            "txPgObjetivo": "CONSTRUCCIÓN Y MEJORAMIENTO DE INFRAESTRUCTURA DE LOS CENTROS DE SALUD Y POSTAS MÉDICAS A NIVEL DISTRITAL.",
+            "txPgIndicador": "N° DE CENTROS DE SALUD CREADOS, MEJORADOS Y CONSTRUIDOS",
+            "txPgMeta": "3",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 178879,
+            "txPgProblema": "DEFICIENTE INFRAESTRUCTURA, EQUIPAMIENTO EDUCATIVO, PARA UNA EDUCACIÓN DE CALIDAD.",
+            "txPgObjetivo": "MEJORAMIENTO DE LA CALIDAD EDUCATIVA MEDIANTE MODERNIZACIÓN DE LA INFRAESTRUCTURA, EQUIPAMIENTO EDUCATIVO",
+            "txPgIndicador": "N° DE IE CONSTRUIDOS E IMPLEMENTADOS",
+            "txPgMeta": "4",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 178931,
+            "txPgProblema": "POCA COBERTURA DEL SERVICIO DE AGUA POTABLE Y SANEAMIENTO BÁSICO",
+            "txPgObjetivo": "INSTALACIÓN DE SERVICIOS DE AGUA Y SANEAMIENTO BÁSICO",
+            "txPgIndicador": "N° DE SISTEMAS DE AGUA POTABLE INSTALADOS Y FUNCIONANDO.",
+            "txPgMeta": "4",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 178970,
+            "txPgProblema": "BAJA PRODUCCIÓN AGRÍCOLA",
+            "txPgObjetivo": "FORTALECIMIENTO DE LA PRODUCCIÓN AGRÍCOLA A TRAVÉS DE UN PROGRAMA DE FERTILIZACIÓN.",
+            "txPgIndicador": "HAS DE SUELOS FERTILIZADOS",
+            "txPgMeta": "1000",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 178988,
+            "txPgProblema": "BAJOS INGRESOS ECONÓMICOS POR LA VENTA DE LOS PRODUCTOS AGRÍCOLAS",
+            "txPgObjetivo": "TRANSFORMACIÓN DE LOS PRODUCTOS AGRÍCOLAS, DÁNDOLE VALOR AGREGADO",
+            "txPgIndicador": "% DE INCREMENTO DE LOS INGRESOS ECONÓMICOS POR LA VENTA DE LOS PRODUCTOS AGRÍCOLAS.",
+            "txPgMeta": "20",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 179021,
+            "txPgProblema": "INSUFICIENTE SERVICIO AL TURISTA",
+            "txPgObjetivo": "ORGANIZACIÓN DE OPERADORES TURÍSTICOS, CAPACITACIÓN Y MEJORAMIENTO DE LOS SERVICIOS BÁSICOS.",
+            "txPgIndicador": "N° DE OPERADORES TURÍSTICOS CONSTITUIDOS Y FUNCIONANDO",
+            "txPgMeta": "3",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 179074,
+            "txPgProblema": "DEFICIENTE COBERTURA DE LA ATENCIÓN DE RECOJO DE RESIDUOS SÓLIDOS.",
+            "txPgObjetivo": "AMPLIAR LA COBERTURA DE RECOJO DE RESIDUOS SÓLIDOS",
+            "txPgIndicador": "HA DE TERRENO ADQUIRIDO PARA LA CONSTRUCCIÓN DE COMPOSTERAS",
+            "txPgMeta": "1",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 179098,
+            "txPgProblema": "DEFORESTACIÓN DE LAS ÁREAS FRÁGILES",
+            "txPgObjetivo": "PROMOCIÓN DE LA RECUPERACIÓN DE SUELOS DEGRADADOS, MANEJO DE CUENCAS Y BOSQUES.",
+            "txPgIndicador": "HA DE ÁREAS FRÁGILES REFORESTADOS",
+            "txPgMeta": "500",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 179119,
+            "txPgProblema": "DESBORDE DEL RIO HUALLAGA (CAYUMBA, CHONTAPLAYA Y CUEVA DE LAS PAVAS), EL RIO MONZÓN (INTI, BELLA Y SAN ANDRÉS)",
+            "txPgObjetivo": "GESTIÓN DE LA CONSTRUCCIÓN DE DEFENSA RIBEREÑA EN 6 SECTORES",
+            "txPgIndicador": "METROS DE DEFENSA RIBEREÑA GESTIONADA PARA SU CONSTRUCCIÓN.",
+            "txPgMeta": "2400",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 179148,
+            "txPgProblema": "DIVERSAS ORGANIZACIONES SE ENCUENTRAN INOPERATIVAS POR FALTA DE CAPACITACIÓN E IMPLEMENTACIÓN",
+            "txPgObjetivo": "CAPACITACIÓN A LAS DIFERENTES ORGANIZACIONES EN GESTIÓN ORGANIZACIONES.",
+            "txPgIndicador": "N° DE ORGANIZACIONES FUNCIONANDO Y GESTIONANDO DE ACUERDO A SUS FUNCIONES",
+            "txPgMeta": "10",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 179169,
+            "txPgProblema": "ELEVADO ÍNDICE DE DELITOS EN EL DISTRITO MARIANO DAMASO BERAÚN",
+            "txPgObjetivo": "FORTALECIMIENTO E IMPLEMENTACIÓN DEL SERENAZGO Y CAPACITACIÓN EN SEGURIDAD CIUDADANA E IMPLEMENTACIÓN A LAS JUNTAS VECINALES",
+            "txPgIndicador": "DISMINUCIÓN DEL % DEL ÍNDICE DE DELITOS",
+            "txPgMeta": "50",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 179206,
+            "txPgProblema": "FALTA DE CAPACITACIÓN Y COMPROMISO DEL PERSONAL QUE LABORA DENTRO DE LA MUNICIPALIDAD.",
+            "txPgObjetivo": "REALIZAR UN PROGRAMA CAPACITACIÓN Y SENSIBILIZACIÓN PARA LOS SERVIDORES PÚBLICOS.",
+            "txPgIndicador": "% DE SATISFACCIÓN DE LA POBLACIÓN CON LA ATENCIÓN DEL PERSONAL",
+            "txPgMeta": "90",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

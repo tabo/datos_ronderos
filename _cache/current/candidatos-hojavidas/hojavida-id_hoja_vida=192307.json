@@ -1,0 +1,150 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 192307.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "42458741",
+        "nombres": "LIZBETH PAOLA",
+        "apellidoPaterno": "COAQUERA",
+        "apellidoMaterno": "COLQUE",
+        "sexo": "2",
+        "feNacimiento": "25/01/1983",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "220101",
+        "naciDepartamento": "TACNA",
+        "naciProvincia": "TACNA",
+        "naciDistrito": "TACNA",
+        "ubigeoDomicilio": "220205",
+        "domiDepartamento": "TACNA",
+        "domiProvincia": "TARATA",
+        "domiDistrito": "HEROES ALBARRACIN",
+        "domicilioDirecc": "CALLE BOLOGNESI S/N",
+        "ubigeoPostula": "220205",
+        "postulaDepartamento": "TACNA",
+        "postulaProvincia": "TARATA",
+        "postulaDistrito": "HEROES ALBARRACIN",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/192307.jpg",
+        "estado": "INADMISIBLE",
+        "idOrganizacionPolitica": 2708.0,
+        "organizacionPolitica": "FRENTE ESPERANZA POR TACNA",
+        "numeroCandidato": 5.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "12/06/2022 23:02:49",
+        "txGuidFormatoHojaVida": "9ed5b131-a106-4608-baa3-18ac14526112",
+        "idSolicitudLista": 30503.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 173680,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "AGRICULTORA",
+            "ocupacionProfesion": "AGRICULTORA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CALLE BOLOGNESI S/N",
+            "anioTrabajoDesde": "2018",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "220205",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "TACNA",
+            "trabajoProvincia": "TARATA",
+            "trabajoDistrito": "HEROES ALBARRACIN",
+            "idHojaVida": 192307,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "CHUCATAMANI"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 152330,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 192307,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": [
+            {
+                "idHvcargoEleccion": 138012,
+                "tengoCargoEleccion": "SI",
+                "itemCargoEleccion": 1,
+                "idOrgPolCargoElec": 1257,
+                "orgPolCargoElec": "PARTIDO POLÍTICO ALIANZA PARA EL PROGRESO",
+                "idCargoEleccion": 10,
+                "cargoEleccion": "ALCALDE DISTRITAL",
+                "anioCargoElecDesde": "2011",
+                "anioCargoElecHasta": "2012",
+                "idHojaVida": 192307,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ]
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 141960,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 2,
+            "idOrgPolRenunciaOp": 228,
+            "orgPolRenunciaOp": "ARRIBA TACNA",
+            "anioRenunciaOp": "2012",
+            "idHojaVida": 192307,
+            "idEstado": 1,
+            "txComentario": null
+        },
+        {
+            "idHvRenunciaOp": 141959,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 1257,
+            "orgPolRenunciaOp": "ALIANZA PARA EL PROGRESO",
+            "anioRenunciaOp": "2021",
+            "idHojaVida": 192307,
+            "idEstado": 1,
+            "txComentario": null
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 147502,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 13200.0,
+                "idHojaVida": 192307,
+                "idEstado": 1,
+                "totalIngresos": 13200.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

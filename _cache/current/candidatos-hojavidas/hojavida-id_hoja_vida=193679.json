@@ -1,0 +1,151 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 193679.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "27857894",
+        "nombres": "REYNALDO",
+        "apellidoPaterno": "ALVARADO",
+        "apellidoMaterno": "CORREA",
+        "sexo": "1",
+        "feNacimiento": "02/10/1976",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "061107",
+        "naciDepartamento": "CAJAMARCA",
+        "naciProvincia": "SAN IGNACIO",
+        "naciDistrito": "TABACONAS",
+        "ubigeoDomicilio": "061107",
+        "domiDepartamento": "CAJAMARCA",
+        "domiProvincia": "SAN IGNACIO",
+        "domiDistrito": "TABACONAS",
+        "domicilioDirecc": "C. POBLADO LA BERMEJA",
+        "ubigeoPostula": "061107",
+        "postulaDepartamento": "CAJAMARCA",
+        "postulaProvincia": "SAN IGNACIO",
+        "postulaDistrito": "TABACONAS",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/193679.jpg",
+        "estado": "ADMITIDO",
+        "idOrganizacionPolitica": 14.0,
+        "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "numeroCandidato": 3.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 07:22:32",
+        "txGuidFormatoHojaVida": "cf1913c7-85e7-41c3-89ac-8053c0d92f53",
+        "idSolicitudLista": 30691.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 240125,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "COMERCIANTE",
+            "ocupacionProfesion": "VENTA DE ROPA , ZAPATERIA, LOCERIA",
+            "rucTrabajo": null,
+            "direccionTrabajo": "CENTRO POBLADO LA BERMEJA DISTRITO Y PROVINCIA DE SAN IGNACIO",
+            "anioTrabajoDesde": "2012",
+            "anioTrabajoHasta": "0000",
+            "ubigeoTrabajo": "061107",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "CAJAMARCA",
+            "trabajoProvincia": "SAN IGNACIO",
+            "trabajoDistrito": "TABACONAS",
+            "idHojaVida": 193679,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 212067,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "NO",
+            "concluidoEduSecundaria": null,
+            "idHojaVida": 193679,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 192051,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 0.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 60000.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 193679,
+                "idEstado": 1,
+                "totalIngresos": 60000.0
+            }
+        ],
+        "bienInmueble": [
+            {
+                "idHvBienInmueble": 237043,
+                "idTengoinmueble": "1",
+                "tengoInmueble": "SI",
+                "itemInmueble": 1,
+                "tipoBienInmueble": "SECCION ESPECIAL DE PREDIOS RURALES",
+                "ubigeoInmueble": null,
+                "inmueblePais": null,
+                "inmuebleDepartamento": null,
+                "inmuebleProvincia": null,
+                "inmuebleDistrito": null,
+                "inmuebleDireccion": "UBICACION RURAL SECTOR GUAYAQUILES/PREDIO LA PALMA   AREA Ha. 2.98 U.C. 31005 TABACONAS - SAN IGNACIO - CAJAMARCA",
+                "comentario": null,
+                "inmuebleSunarp": "1",
+                "inmuebleSunarpDesc": "SI",
+                "partidaSunarp": "02097105",
+                "fichaTomoSunarp": null,
+                "autovaluo": 0.0,
+                "idHojaVida": 193679,
+                "idEstado": 1,
+                "flValor": "8000"
+            }
+        ],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 196019,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "M35622 ",
+                "valor": 3000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "COLOR PLATA",
+                "comentario": "VEHICULO TRANSFERIDO (DECLARACION JURADA)",
+                "idHojaVida": 193679,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}
