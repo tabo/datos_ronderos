@@ -1,8 +1,89 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 0.0,
+    "count": 3.0,
     "messageLog": null,
-    "data": [],
-    "totalPages": 0
+    "data": [
+        {
+            "totalRows": 3,
+            "rowNumber": 1,
+            "txJuradoCompetencia": "CUSCO",
+            "txCodExpedienteExt": "ERM.2022024540",
+            "feRegistro": "21/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "GABY MARGOT VILLAFUERTE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 172949,
+            "idExpedientePadre": 165994,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CUSCO",
+            "partes": [
+                {
+                    "txNombresApellidos": "WILLIANS ALFREDO SEDANO MALCA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "CUSCO",
+            "txCodExpedienteExt": "ERM.2022026411",
+            "feRegistro": "30/07/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTRAS PETICIONES CONTRA PRONUNCIAMIENTOS DEL JNE / JEE",
+            "txResponsable": "GABY MARGOT VILLAFUERTE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 174887,
+            "idExpedientePadre": 165994,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CUSCO",
+            "partes": [
+                {
+                    "txNombresApellidos": "VIOLETA ESCALANTE VALENCIA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "WILLIANS ALFREDO SEDANO MALCA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "CUSCO",
+            "txCodExpedienteExt": "ERM.2022032177",
+            "feRegistro": "11/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "GABY MARGOT VILLAFUERTE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 180741,
+            "idExpedientePadre": 165994,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CUSCO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JORGE LADRON DE GUEVARA MUÑIZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        }
+    ],
+    "totalPages": 1
 }

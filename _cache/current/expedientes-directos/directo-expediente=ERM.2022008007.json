@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 1.0,
+    "count": 2.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 1,
+            "totalRows": 2,
             "rowNumber": 1,
             "txJuradoCompetencia": "MARISCAL NIETO",
             "txCodExpedienteExt": "ERM.2022020749",
@@ -13,8 +13,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
             "txResponsable": "FIORELLA PAMELA ALARCON",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 169015,
             "idExpedientePadre": 155630,
             "txImportancia": "NO MEDIÁTICO",
@@ -23,6 +23,36 @@
             "partes": [
                 {
                     "txNombresApellidos": "CAROL ROXANA LAURA MAMANI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 2,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "MARISCAL NIETO",
+            "txCodExpedienteExt": "ERM.2022033613",
+            "feRegistro": "13/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "FIORELLA PAMELA ALARCON",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 182203,
+            "idExpedientePadre": 155630,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL NIETO",
+            "partes": [
+                {
+                    "txNombresApellidos": "CAROL ROXANA LAURA MAMANI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JESUS ENRIQUE ESPEZUA ORTIZ",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

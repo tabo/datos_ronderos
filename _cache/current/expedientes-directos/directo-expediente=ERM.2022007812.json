@@ -1,8 +1,59 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 0.0,
+    "count": 2.0,
     "messageLog": null,
-    "data": [],
-    "totalPages": 0
+    "data": [
+        {
+            "totalRows": 2,
+            "rowNumber": 1,
+            "txJuradoCompetencia": "HUAMANGA",
+            "txCodExpedienteExt": "ERM.2022029325",
+            "feRegistro": "06/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JHON LOAYZA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 177860,
+            "idExpedientePadre": 155441,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUAMANGA",
+            "partes": [
+                {
+                    "txNombresApellidos": "SANTOS EMILIANO INGA AGUILAR",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 2,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "HUAMANGA",
+            "txCodExpedienteExt": "ERM.2022033995",
+            "feRegistro": "14/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JHON LOAYZA",
+            "txEtapa": "PRONUNCIAMIENTO",
+            "txEstado": "EN PRONUNCIAMIENTO",
+            "idExpediente": 182586,
+            "idExpedientePadre": 155441,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUAMANGA",
+            "partes": [
+                {
+                    "txNombresApellidos": "PERSY CALLE YANASUPO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        }
+    ],
+    "totalPages": 1
 }

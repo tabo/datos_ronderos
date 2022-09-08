@@ -1,8 +1,39 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 0.0,
+    "count": 1.0,
     "messageLog": null,
-    "data": [],
-    "totalPages": 0
+    "data": [
+        {
+            "totalRows": 1,
+            "rowNumber": 1,
+            "txJuradoCompetencia": "PACASMAYO",
+            "txCodExpedienteExt": "ERM.2022036434",
+            "feRegistro": "17/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "YOSELINY PAMELA CARI",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 185078,
+            "idExpedientePadre": 163897,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PACASMAYO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ALEXIS BRYAN ATENCIO DIAZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "AARON EDGARDO RODRIGUEZ MENDOZA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        }
+    ],
+    "totalPages": 1
 }

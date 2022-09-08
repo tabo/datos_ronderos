@@ -1,21 +1,71 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 1.0,
+    "count": 3.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 1,
+            "totalRows": 3,
             "rowNumber": 1,
             "txJuradoCompetencia": "BOLOGNESI",
             "txCodExpedienteExt": "ERM.2022021161",
             "feRegistro": "06/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "YANET MERCEDES LEON",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "OFELIA MEDALY ROMERO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 169459,
+            "idExpedientePadre": 155065,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "BOLOGNESI",
+            "partes": [
+                {
+                    "txNombresApellidos": "HERWIN DAMASO VALDIVIA HUAMAN",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "BOLOGNESI",
+            "txCodExpedienteExt": "ERM.2022029920",
+            "feRegistro": "08/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "MAYRA VANESSA RODRIGUEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 178461,
+            "idExpedientePadre": 155065,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "BOLOGNESI",
+            "partes": [
+                {
+                    "txNombresApellidos": "HERWIN DAMASO VALDIVIA HUAMAN",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "BOLOGNESI",
+            "txCodExpedienteExt": "ERM.2022036834",
+            "feRegistro": "18/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "MAYRA VANESSA RODRIGUEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 185469,
             "idExpedientePadre": 155065,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",

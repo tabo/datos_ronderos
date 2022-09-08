@@ -1,8 +1,44 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 0.0,
+    "count": 1.0,
     "messageLog": null,
-    "data": [],
-    "totalPages": 0
+    "data": [
+        {
+            "totalRows": 1,
+            "rowNumber": 1,
+            "txJuradoCompetencia": "HUAYTARA",
+            "txCodExpedienteExt": "ERM.2022033387",
+            "feRegistro": "13/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "CESAR ANTONIO GAMEROS",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 181980,
+            "idExpedientePadre": 160717,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUAYTARA",
+            "partes": [
+                {
+                    "txNombresApellidos": "YULLY MARLENY MONTES HILARIO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "PERCY CABRERA CHAMPE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "ELIZABETH KARINA HERNANDEZ CASTILLO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        }
+    ],
+    "totalPages": 1
 }

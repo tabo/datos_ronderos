@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 2.0,
+    "count": 6.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 2,
+            "totalRows": 6,
             "rowNumber": 1,
             "txJuradoCompetencia": "LIMA NORTE 2",
             "txCodExpedienteExt": "ERM.2022020343",
@@ -13,8 +13,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "TACHA DE CANDIDATO",
             "txResponsable": "ADELA SEGUNDA PAJUELO",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168594,
             "idExpedientePadre": 155719,
             "txImportancia": "NO MEDIÁTICO",
@@ -27,7 +27,7 @@
                     "idEstadoPersonalJurado": null
                 },
                 {
-                    "txNombresApellidos": "JOSE MERCEDES AMAYA DEDIOS",
+                    "txNombresApellidos": "JOSE MERCEDES AMAYA DEDIOS,",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }
@@ -35,7 +35,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 2,
+            "totalRows": 6,
             "rowNumber": 2,
             "txJuradoCompetencia": "LIMA NORTE 2",
             "txCodExpedienteExt": "ERM.2022020352",
@@ -43,8 +43,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "TACHA DE CANDIDATO",
             "txResponsable": "ADELA SEGUNDA PAJUELO",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168620,
             "idExpedientePadre": 155719,
             "txImportancia": "NO MEDIÁTICO",
@@ -57,7 +57,122 @@
                     "idEstadoPersonalJurado": null
                 },
                 {
-                    "txNombresApellidos": "JOSE MERCEDES AMAYA DEDIOS",
+                    "txNombresApellidos": "JOSE MERCEDES AMAYA DEDIOS,",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 6,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022027608",
+            "feRegistro": "03/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ADELA SEGUNDA PAJUELO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176113,
+            "idExpedientePadre": 155719,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "CLEOFE AURORA LUJAN CABRERA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JOSE MERCEDES AMAYA DEDIOS,",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 6,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022027776",
+            "feRegistro": "03/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "WALTER PARDO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176276,
+            "idExpedientePadre": 155719,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE MERCEDES AMAYA DEDIOS,",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 6,
+            "rowNumber": 5,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022031409",
+            "feRegistro": "10/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ADELA SEGUNDA PAJUELO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 179965,
+            "idExpedientePadre": 155719,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "CLEOFE AURORA LUJAN CABRERA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JOSE MERCEDES AMAYA DEDIOS,",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 6,
+            "rowNumber": 6,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022035835",
+            "feRegistro": "16/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ADELA SEGUNDA PAJUELO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 184453,
+            "idExpedientePadre": 155719,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "CLEOFE AURORA LUJAN CABRERA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JOSE MERCEDES AMAYA DEDIOS,",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

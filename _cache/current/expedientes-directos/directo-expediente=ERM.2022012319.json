@@ -1,8 +1,89 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 0.0,
+    "count": 3.0,
     "messageLog": null,
-    "data": [],
-    "totalPages": 0
+    "data": [
+        {
+            "totalRows": 3,
+            "rowNumber": 1,
+            "txJuradoCompetencia": "CUSCO",
+            "txCodExpedienteExt": "ERM.2022023326",
+            "feRegistro": "16/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JHON CRISTIAN CANCHARI",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 171722,
+            "idExpedientePadre": 160204,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CUSCO",
+            "partes": [
+                {
+                    "txNombresApellidos": "YOAO EMERSON ROJAS ARIAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "CUSCO",
+            "txCodExpedienteExt": "ERM.2022023689",
+            "feRegistro": "18/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JHON CRISTIAN CANCHARI",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 172072,
+            "idExpedientePadre": 160204,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CUSCO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ISIDORA ESTRADA BOLAÑOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "YOAO EMERSON ROJAS ARIAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "CUSCO",
+            "txCodExpedienteExt": "ERM.2022032726",
+            "feRegistro": "12/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JHON CRISTIAN CANCHARI",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 181295,
+            "idExpedientePadre": 160204,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CUSCO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ISIDORA ESTRADA BOLAÑOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        }
+    ],
+    "totalPages": 1
 }

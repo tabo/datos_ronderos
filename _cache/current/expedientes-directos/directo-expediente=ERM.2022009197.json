@@ -1,8 +1,99 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 0.0,
+    "count": 3.0,
     "messageLog": null,
-    "data": [],
-    "totalPages": 0
+    "data": [
+        {
+            "totalRows": 3,
+            "rowNumber": 1,
+            "txJuradoCompetencia": "CALLAO",
+            "txCodExpedienteExt": "ERM.2022028149",
+            "feRegistro": "04/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "EDISON JUAN HUANCA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176648,
+            "idExpedientePadre": 156900,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CALLAO",
+            "partes": [
+                {
+                    "txNombresApellidos": "VICTOR MIGUEL SOTO REMUZGO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "IRVING JONATHAN FERMIN VALDEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "CALLAO",
+            "txCodExpedienteExt": "ERM.2022028144",
+            "feRegistro": "04/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "EDISON JUAN HUANCA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176661,
+            "idExpedientePadre": 156900,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CALLAO",
+            "partes": [
+                {
+                    "txNombresApellidos": "VICTOR MIGUEL SOTO REMUZGO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "IRVING JONATHAN FERMIN VALDEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "CALLAO",
+            "txCodExpedienteExt": "ERM.2022029433",
+            "feRegistro": "07/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "EDISON JUAN HUANCA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 177966,
+            "idExpedientePadre": 156900,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CALLAO",
+            "partes": [
+                {
+                    "txNombresApellidos": "VICTOR MIGUEL SOTO REMUZGO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "RONALD QUINE MENDOZA ROJAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        }
+    ],
+    "totalPages": 1
 }

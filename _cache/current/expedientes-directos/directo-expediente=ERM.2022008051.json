@@ -1,8 +1,39 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 0.0,
+    "count": 1.0,
     "messageLog": null,
-    "data": [],
-    "totalPages": 0
+    "data": [
+        {
+            "totalRows": 1,
+            "rowNumber": 1,
+            "txJuradoCompetencia": "MORROPON",
+            "txCodExpedienteExt": "ERM.2022030245",
+            "feRegistro": "08/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "SHIRLEY MERCEDES LOPEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 178772,
+            "idExpedientePadre": 155672,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MORROPON",
+            "partes": [
+                {
+                    "txNombresApellidos": "SANTOS AVELINO VENTURA CAJO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JOSE ANGEL CASTRO TAVARA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        }
+    ],
+    "totalPages": 1
 }

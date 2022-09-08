@@ -1,8 +1,96 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 0.0,
+    "count": 4.0,
     "messageLog": null,
-    "data": [],
-    "totalPages": 0
+    "data": [
+        {
+            "totalRows": 4,
+            "rowNumber": 1,
+            "txJuradoCompetencia": "MAYNAS",
+            "txCodExpedienteExt": "ERM.2022025279",
+            "feRegistro": "25/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "TACHA DE CANDIDATO",
+            "txResponsable": "CLAIRETH IDROGO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 173695,
+            "idExpedientePadre": 157356,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MAYNAS",
+            "partes": [
+                {
+                    "txNombresApellidos": "ALEXIS BRYAN ATENCIO DIAZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "VICTORIA FATIMA REYES CULQUI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "MAYNAS",
+            "txCodExpedienteExt": "ERM.2022037046",
+            "feRegistro": "18/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "CLAIRETH IDROGO",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 185687,
+            "idExpedientePadre": 157356,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MAYNAS",
+            "partes": [],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "MAYNAS",
+            "txCodExpedienteExt": "ERM.2022038648",
+            "feRegistro": "24/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "FIORELLA MONTALVAN",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 187363,
+            "idExpedientePadre": 157356,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MAYNAS",
+            "partes": [],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "MAYNAS",
+            "txCodExpedienteExt": "ERM.2022038992",
+            "feRegistro": "25/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "CLAIRETH IDROGO",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 187714,
+            "idExpedientePadre": 157356,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MAYNAS",
+            "partes": [],
+            "tienePersonalJurado": false
+        }
+    ],
+    "totalPages": 1
 }

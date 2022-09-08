@@ -1,8 +1,39 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 0.0,
+    "count": 1.0,
     "messageLog": null,
-    "data": [],
-    "totalPages": 0
+    "data": [
+        {
+            "totalRows": 1,
+            "rowNumber": 1,
+            "txJuradoCompetencia": "CAÑETE",
+            "txCodExpedienteExt": "ERM.2022025600",
+            "feRegistro": "26/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ANTHONY ROEL VICENTE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 174012,
+            "idExpedientePadre": 157398,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CAÑETE",
+            "partes": [
+                {
+                    "txNombresApellidos": "PAULA MARGARITA NAPAN LOPEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JOSE EDUARDO ALVINO CARRAZCO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        }
+    ],
+    "totalPages": 1
 }

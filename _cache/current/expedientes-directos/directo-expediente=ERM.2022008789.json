@@ -1,8 +1,39 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 0.0,
+    "count": 1.0,
     "messageLog": null,
-    "data": [],
-    "totalPages": 0
+    "data": [
+        {
+            "totalRows": 1,
+            "rowNumber": 1,
+            "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
+            "txCodExpedienteExt": "ERM.2022036292",
+            "feRegistro": "17/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "CLAUDIA SOFIA TENAZOA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 184915,
+            "idExpedientePadre": 156468,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL RAMON CASTILLA",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "ALICIA EUGENIA RIOS MENDEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        }
+    ],
+    "totalPages": 1
 }

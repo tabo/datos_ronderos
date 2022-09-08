@@ -1,26 +1,132 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 1.0,
+    "count": 5.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 1,
+            "totalRows": 5,
             "rowNumber": 1,
             "txJuradoCompetencia": "URUBAMBA",
             "txCodExpedienteExt": "ERM.2022019964",
             "feRegistro": "30/06/2022",
             "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
-            "txMateria": "OTRAS PETICIONES CONTRA PRONUNCIAMIENTOS DEL JNE / JEE",
+            "txMateria": "OTROS",
             "txResponsable": "RICHARD SAMUEL IPENZA",
-            "txEtapa": "ASIGNACION",
-            "txEstado": "ASIGNADO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168229,
             "idExpedientePadre": 161371,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "URUBAMBA",
-            "partes": [],
+            "partes": [
+                {
+                    "txNombresApellidos": "FRANCK DANNY RAURAU VARGAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "URUBAMBA",
+            "txCodExpedienteExt": "ERM.2022025607",
+            "feRegistro": "26/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "RICHARD SAMUEL IPENZA",
+            "txEtapa": "PRONUNCIAMIENTO",
+            "txEstado": "EN FIRMAS",
+            "idExpediente": 174017,
+            "idExpedientePadre": 161371,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "URUBAMBA",
+            "partes": [
+                {
+                    "txNombresApellidos": "FRANCK DANNY RAURAU VARGAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "URUBAMBA",
+            "txCodExpedienteExt": "ERM.2022028841",
+            "feRegistro": "05/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTRAS PETICIONES CONTRA PRONUNCIAMIENTOS DEL JNE / JEE",
+            "txResponsable": "RICHARD SAMUEL IPENZA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 177351,
+            "idExpedientePadre": 161371,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "URUBAMBA",
+            "partes": [
+                {
+                    "txNombresApellidos": "FRANCK DANNY RAURAU VARGAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "URUBAMBA",
+            "txCodExpedienteExt": "ERM.2022028844",
+            "feRegistro": "05/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTRAS PETICIONES CONTRA PRONUNCIAMIENTOS DEL JNE / JEE",
+            "txResponsable": "RICHARD SAMUEL IPENZA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 177369,
+            "idExpedientePadre": 161371,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "URUBAMBA",
+            "partes": [
+                {
+                    "txNombresApellidos": "FRANCK DANNY RAURAU VARGAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 5,
+            "txJuradoCompetencia": "URUBAMBA",
+            "txCodExpedienteExt": "ERM.2022034821",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "RICHARD SAMUEL IPENZA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183430,
+            "idExpedientePadre": 161371,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "URUBAMBA",
+            "partes": [
+                {
+                    "txNombresApellidos": "FRANCK DANNY RAURAU VARGAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
             "tienePersonalJurado": false
         }
     ],

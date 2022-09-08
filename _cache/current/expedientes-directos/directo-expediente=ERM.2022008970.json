@@ -1,8 +1,39 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 0.0,
+    "count": 1.0,
     "messageLog": null,
-    "data": [],
-    "totalPages": 0
+    "data": [
+        {
+            "totalRows": 1,
+            "rowNumber": 1,
+            "txJuradoCompetencia": "SANTA",
+            "txCodExpedienteExt": "ERM.2022024977",
+            "feRegistro": "23/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "TACHA DE CANDIDATO",
+            "txResponsable": "EDER JHON ESTRADA",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 173377,
+            "idExpedientePadre": 156664,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "SANTA",
+            "partes": [
+                {
+                    "txNombresApellidos": "WILDER COSCOL LLATAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "YARELIN YANELI CASTILLO VELASQUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        }
+    ],
+    "totalPages": 1
 }

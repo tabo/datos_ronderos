@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 4.0,
+    "count": 23.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 4,
+            "totalRows": 23,
             "rowNumber": 1,
             "txJuradoCompetencia": "LIMA NORTE 2",
             "txCodExpedienteExt": "ERM.2022008238",
@@ -13,8 +13,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "ADELA SEGUNDA PAJUELO",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 155918,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 4,
+            "totalRows": 23,
             "rowNumber": 2,
             "txJuradoCompetencia": "LIMA NORTE 2",
             "txCodExpedienteExt": "ERM.2022008639",
@@ -55,7 +55,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 4,
+            "totalRows": 23,
             "rowNumber": 3,
             "txJuradoCompetencia": "LIMA NORTE 2",
             "txCodExpedienteExt": "ERM.2022008645",
@@ -80,7 +80,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 4,
+            "totalRows": 23,
             "rowNumber": 4,
             "txJuradoCompetencia": "LIMA NORTE 2",
             "txCodExpedienteExt": "ERM.2022019702",
@@ -88,8 +88,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "TACHA DE CANDIDATO",
             "txResponsable": "ADELA SEGUNDA PAJUELO",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 167958,
             "idExpedientePadre": 155918,
             "txImportancia": "NO MEDIÁTICO",
@@ -98,6 +98,566 @@
             "partes": [
                 {
                     "txNombresApellidos": "ALVARO GONZALO GUTIERREZ ROJAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JOSEPH JACOB HARO FAJARDO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 23,
+            "rowNumber": 5,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022022723",
+            "feRegistro": "14/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "ADELA SEGUNDA PAJUELO",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 171105,
+            "idExpedientePadre": 167958,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "ALVARO GONZALO GUTIERREZ ROJAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JOSEPH JACOB HARO FAJARDO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 23,
+            "rowNumber": 6,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022027647",
+            "feRegistro": "03/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "EDI DIOMEDES CARBAJAL",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176134,
+            "idExpedientePadre": 156305,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "CLEOFE AURORA LUJAN CABRERA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JOSEPH JACOB HARO FAJARDO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 23,
+            "rowNumber": 7,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022027651",
+            "feRegistro": "03/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "MARBELLA ALONDRA CORDOVA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176152,
+            "idExpedientePadre": 156305,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "CLEOFE AURORA LUJAN CABRERA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JOSEPH JACOB HARO FAJARDO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 23,
+            "rowNumber": 8,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022027671",
+            "feRegistro": "03/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "MARBELLA ALONDRA CORDOVA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176168,
+            "idExpedientePadre": 156305,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "CLEOFE AURORA LUJAN CABRERA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JOSEPH JACOB HARO FAJARDO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 23,
+            "rowNumber": 9,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022027685",
+            "feRegistro": "03/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "WALTER PARDO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176186,
+            "idExpedientePadre": 156305,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "CLEOFE AURORA LUJAN CABRERA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JOSEPH JACOB HARO FAJARDO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 23,
+            "rowNumber": 10,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022027700",
+            "feRegistro": "03/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ADELA SEGUNDA PAJUELO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176210,
+            "idExpedientePadre": 156302,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSEPH JACOB HARO FAJARDO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "CLEOFE AURORA LUJAN CABRERA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 23,
+            "rowNumber": 11,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022027758",
+            "feRegistro": "03/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "MARBELLA ALONDRA CORDOVA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176266,
+            "idExpedientePadre": 155745,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "CLEOFE AURORA LUJAN CABRERA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JOSEPH JACOB HARO FAJARDO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 23,
+            "rowNumber": 12,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022027845",
+            "feRegistro": "03/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ADELA SEGUNDA PAJUELO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176336,
+            "idExpedientePadre": 155745,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSEPH JACOB HARO FAJARDO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 23,
+            "rowNumber": 13,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022031393",
+            "feRegistro": "10/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ADELA SEGUNDA PAJUELO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 179936,
+            "idExpedientePadre": 155918,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "CLEOFE AURORA LUJAN CABRERA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JOSEPH JACOB HARO FAJARDO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 23,
+            "rowNumber": 14,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022031434",
+            "feRegistro": "10/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "WALTER PARDO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 179998,
+            "idExpedientePadre": 155918,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "CLEOFE AURORA LUJAN CABRERA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JOSEPH JACOB HARO FAJARDO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 23,
+            "rowNumber": 15,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022031469",
+            "feRegistro": "10/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "MARBELLA ALONDRA CORDOVA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 180017,
+            "idExpedientePadre": 156302,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "CLEOFE AURORA LUJAN CABRERA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JOSEPH JACOB HARO FAJARDO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 23,
+            "rowNumber": 16,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022033097",
+            "feRegistro": "12/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ADELA SEGUNDA PAJUELO",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 181677,
+            "idExpedientePadre": 156305,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "CLEOFE AURORA LUJAN CABRERA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JOSEPH JACOB HARO FAJARDO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 23,
+            "rowNumber": 17,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022033781",
+            "feRegistro": "13/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTRAS PETICIONES CONTRA PRONUNCIAMIENTOS DEL JNE / JEE",
+            "txResponsable": "EDI DIOMEDES CARBAJAL",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 182366,
+            "idExpedientePadre": 155745,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSEPH JACOB HARO FAJARDO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 23,
+            "rowNumber": 18,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022034007",
+            "feRegistro": "14/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTRAS PETICIONES CONTRA PRONUNCIAMIENTOS DEL JNE / JEE",
+            "txResponsable": "EDI DIOMEDES CARBAJAL",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 182606,
+            "idExpedientePadre": 155745,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "CLEOFE AURORA LUJAN CABRERA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JOSEPH JACOB HARO FAJARDO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 23,
+            "rowNumber": 19,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022035820",
+            "feRegistro": "16/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ADELA SEGUNDA PAJUELO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 184434,
+            "idExpedientePadre": 156302,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "CLEOFE AURORA LUJAN CABRERA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JOSEPH JACOB HARO FAJARDO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 23,
+            "rowNumber": 20,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022036684",
+            "feRegistro": "18/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ADELA SEGUNDA PAJUELO",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 185317,
+            "idExpedientePadre": 156302,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "CLEOFE AURORA LUJAN CABRERA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JOSEPH JACOB HARO FAJARDO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 23,
+            "rowNumber": 21,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022037462",
+            "feRegistro": "20/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ADELA SEGUNDA PAJUELO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 186117,
+            "idExpedientePadre": 156302,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSEPH JACOB HARO FAJARDO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "CLEOFE AURORA LUJAN CABRERA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 23,
+            "rowNumber": 22,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022038840",
+            "feRegistro": "25/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "EDI DIOMEDES CARBAJAL",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 187554,
+            "idExpedientePadre": 155745,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "CLEOFE AURORA LUJAN CABRERA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JOSEPH JACOB HARO FAJARDO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 23,
+            "rowNumber": 23,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022038855",
+            "feRegistro": "25/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "MARBELLA ALONDRA CORDOVA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 187576,
+            "idExpedientePadre": 156851,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "CLEOFE AURORA LUJAN CABRERA",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 },

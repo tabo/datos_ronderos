@@ -1,8 +1,91 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 0.0,
+    "count": 4.0,
     "messageLog": null,
-    "data": [],
-    "totalPages": 0
+    "data": [
+        {
+            "totalRows": 4,
+            "rowNumber": 1,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022031082",
+            "feRegistro": "09/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "CLAUDIA FIORELLA ZAPATA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "idExpediente": 179640,
+            "idExpedientePadre": 166022,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS ERNESTO RAMIREZ VERDE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022034558",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "CLAUDIA FIORELLA ZAPATA",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 183157,
+            "idExpedientePadre": 166022,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022034561",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "CLAUDIA FIORELLA ZAPATA",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 183160,
+            "idExpedientePadre": 166022,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022034571",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "CLAUDIA FIORELLA ZAPATA",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 183180,
+            "idExpedientePadre": 166022,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [],
+            "tienePersonalJurado": false
+        }
+    ],
+    "totalPages": 1
 }

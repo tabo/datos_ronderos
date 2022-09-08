@@ -1,8 +1,84 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 0.0,
+    "count": 3.0,
     "messageLog": null,
-    "data": [],
-    "totalPages": 0
+    "data": [
+        {
+            "totalRows": 3,
+            "rowNumber": 1,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022035547",
+            "feRegistro": "16/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "DANIEL MALCA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 184155,
+            "idExpedientePadre": 153923,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "DALYN ELKY SANCHEZ MEDINA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022035731",
+            "feRegistro": "16/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ELENA ELIZABETH CARRASCO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "idExpediente": 184360,
+            "idExpedientePadre": 153923,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS ARMANDO AZABACHE MORILLAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022039125",
+            "feRegistro": "26/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ELENA ELIZABETH CARRASCO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "idExpediente": 187855,
+            "idExpedientePadre": 153923,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS ARMANDO AZABACHE MORILLAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        }
+    ],
+    "totalPages": 1
 }

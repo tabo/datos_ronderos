@@ -13,14 +13,20 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "TACHA DE CANDIDATO",
             "txResponsable": "GRETTEL PURIZAGA",
-            "txEtapa": "ASIGNACION",
-            "txEstado": "ASIGNADO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 169965,
             "idExpedientePadre": 153213,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "PACASMAYO",
-            "partes": [],
+            "partes": [
+                {
+                    "txNombresApellidos": "EDDY JULIANA VARAS VARGAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
             "tienePersonalJurado": false
         }
     ],

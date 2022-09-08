@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 4.0,
+    "count": 9.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 4,
+            "totalRows": 9,
             "rowNumber": 1,
             "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
             "txCodExpedienteExt": "ERM.2022005836",
@@ -45,7 +45,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 4,
+            "totalRows": 9,
             "rowNumber": 2,
             "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
             "txCodExpedienteExt": "ERM.2022010899",
@@ -53,8 +53,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "CLAUDIA SOFIA TENAZOA",
-            "txEtapa": "RESUELTO",
-            "txEstado": "RESUELTO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
             "idExpediente": 158677,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -65,12 +65,17 @@
                     "txNombresApellidos": "DALIN FRANCISCO MALCA PEÑALOZA",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "WILLIAM SEGUNDO PÉREZ BONIFAZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
                 }
             ],
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 4,
+            "totalRows": 9,
             "rowNumber": 3,
             "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
             "txCodExpedienteExt": "ERM.2022010952",
@@ -78,8 +83,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "CLAUDIA SOFIA TENAZOA",
-            "txEtapa": "RESUELTO",
-            "txEstado": "RESUELTO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
             "idExpediente": 158759,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -95,7 +100,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 4,
+            "totalRows": 9,
             "rowNumber": 4,
             "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
             "txCodExpedienteExt": "ERM.2022013418",
@@ -103,8 +108,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "CLAUDIA SOFIA TENAZOA",
-            "txEtapa": "RESUELTO",
-            "txEstado": "RESUELTO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
             "idExpediente": 161345,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -113,6 +118,186 @@
             "partes": [
                 {
                     "txNombresApellidos": "DALIN FRANCISCO MALCA PEÑALOZA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 9,
+            "rowNumber": 5,
+            "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
+            "txCodExpedienteExt": "ERM.2022021343",
+            "feRegistro": "07/07/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "CLAUDIA SOFIA TENAZOA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 169658,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL RAMON CASTILLA",
+            "partes": [
+                {
+                    "txNombresApellidos": "MARTIN ENRIQUE SALAZAR ROJAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JANETH CHOQUE JUSTINIANI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "DALIN FRANCISCO MALCA PEÑALOZA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JULIO GONZALO FARRO CUMPA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 9,
+            "rowNumber": 6,
+            "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
+            "txCodExpedienteExt": "ERM.2022025140",
+            "feRegistro": "24/07/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "CLAUDIA SOFIA TENAZOA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 173555,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL RAMON CASTILLA",
+            "partes": [
+                {
+                    "txNombresApellidos": "JANETH CHOQUE JUSTINIANI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "DALIN FRANCISCO MALCA PEÑALOZA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "RODOLFO DIAZ SOTO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JULIO GONZALO FARRO CUMPA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "ANA MARIA CORDOVA CAPUCHO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 9,
+            "rowNumber": 7,
+            "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
+            "txCodExpedienteExt": "ERM.2022036334",
+            "feRegistro": "17/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "CLAUDIA SOFIA TENAZOA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 184956,
+            "idExpedientePadre": 158759,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL RAMON CASTILLA",
+            "partes": [
+                {
+                    "txNombresApellidos": "DALIN FRANCISCO MALCA PEÑALOZA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "ALICIA EUGENIA RIOS MENDEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 9,
+            "rowNumber": 8,
+            "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
+            "txCodExpedienteExt": "ERM.2022038341",
+            "feRegistro": "23/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "CLAUDIA SOFIA TENAZOA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 187029,
+            "idExpedientePadre": 184920,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL RAMON CASTILLA",
+            "partes": [
+                {
+                    "txNombresApellidos": "DALIN FRANCISCO MALCA PEÑALOZA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "TOMAS LOPEZ PANAIFO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 9,
+            "rowNumber": 9,
+            "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
+            "txCodExpedienteExt": "ERM.2022040341",
+            "feRegistro": "02/09/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "RAYMA LIZET ZAPATA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 189296,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL RAMON CASTILLA",
+            "partes": [
+                {
+                    "txNombresApellidos": "JANETH CHOQUE JUSTINIANI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "DALIN FRANCISCO MALCA PEÑALOZA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JULIO GONZALO FARRO CUMPA",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

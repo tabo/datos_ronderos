@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 1.0,
+    "count": 3.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 1,
+            "totalRows": 3,
             "rowNumber": 1,
             "txJuradoCompetencia": "LIMA OESTE 1",
             "txCodExpedienteExt": "ERM.2022020066",
@@ -13,8 +13,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "TACHA DE CANDIDATO",
             "txResponsable": "NATHALY VILMA VALLE",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168326,
             "idExpedientePadre": 154862,
             "txImportancia": "NO MEDIÁTICO",
@@ -27,7 +27,62 @@
                     "idEstadoPersonalJurado": null
                 },
                 {
-                    "txNombresApellidos": "JOSE MERCEDES AMAYA DEDIOS",
+                    "txNombresApellidos": "JOSE MERCEDES AMAYA DEDIOS,",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "LIMA OESTE 1",
+            "txCodExpedienteExt": "ERM.2022028261",
+            "feRegistro": "04/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "NATHALY VILMA VALLE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176779,
+            "idExpedientePadre": 154862,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 1",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE MERCEDES AMAYA DEDIOS,",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "LIMA OESTE 1",
+            "txCodExpedienteExt": "ERM.2022032722",
+            "feRegistro": "12/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "NATHALY VILMA VALLE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 181267,
+            "idExpedientePadre": 154862,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 1",
+            "partes": [
+                {
+                    "txNombresApellidos": "CHRISTIAM ANTONIO RAYO VELA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JOSE MERCEDES AMAYA DEDIOS,",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

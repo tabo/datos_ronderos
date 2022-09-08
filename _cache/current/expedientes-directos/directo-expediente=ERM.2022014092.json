@@ -1,8 +1,89 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 0.0,
+    "count": 3.0,
     "messageLog": null,
-    "data": [],
-    "totalPages": 0
+    "data": [
+        {
+            "totalRows": 3,
+            "rowNumber": 1,
+            "txJuradoCompetencia": "AREQUIPA",
+            "txCodExpedienteExt": "ERM.2022026481",
+            "feRegistro": "30/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "JAVIER ALONSO RAMOS",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 174964,
+            "idExpedientePadre": 162065,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "AREQUIPA",
+            "partes": [
+                {
+                    "txNombresApellidos": "ALEXIS BRYAN ATENCIO DIAZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "AREQUIPA",
+            "txCodExpedienteExt": "ERM.2022029743",
+            "feRegistro": "07/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JAVIER ALONSO RAMOS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 178269,
+            "idExpedientePadre": 162065,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "AREQUIPA",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOEL HUILLCA CHIPANA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "ROBERT ELISEO CUADROS MEDINA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "AREQUIPA",
+            "txCodExpedienteExt": "ERM.2022033504",
+            "feRegistro": "13/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "GEORGES MORGAN OTAZU",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 182094,
+            "idExpedientePadre": 162065,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "AREQUIPA",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROBERT ELISEO CUADROS MEDINA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        }
+    ],
+    "totalPages": 1
 }

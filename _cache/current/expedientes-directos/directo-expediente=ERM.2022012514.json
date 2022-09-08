@@ -1,20 +1,20 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 2.0,
+    "count": 3.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 2,
+            "totalRows": 3,
             "rowNumber": 1,
             "txJuradoCompetencia": "CALLAO",
             "txCodExpedienteExt": "ERM.2022020037",
             "feRegistro": "30/06/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "TOMAS ALEJANDRO TELLO",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "DANIEL ERNESTO RODRIGUEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168290,
             "idExpedientePadre": 160421,
             "txImportancia": "NO MEDIÁTICO",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 2,
+            "totalRows": 3,
             "rowNumber": 2,
             "txJuradoCompetencia": "CALLAO",
             "txCodExpedienteExt": "ERM.2022020036",
@@ -41,6 +41,31 @@
             "txEtapa": "RESUELTO",
             "txEstado": "RESUELTO",
             "idExpediente": 168305,
+            "idExpedientePadre": 160421,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CALLAO",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARMEN MARGARITA NEYRA JIMENEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "CALLAO",
+            "txCodExpedienteExt": "ERM.2022027735",
+            "feRegistro": "03/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "DANIEL ERNESTO RODRIGUEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176243,
             "idExpedientePadre": 160421,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",

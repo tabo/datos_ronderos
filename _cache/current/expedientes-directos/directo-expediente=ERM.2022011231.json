@@ -1,8 +1,97 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 0.0,
+    "count": 4.0,
     "messageLog": null,
-    "data": [],
-    "totalPages": 0
+    "data": [
+        {
+            "totalRows": 4,
+            "rowNumber": 1,
+            "txJuradoCompetencia": "MOYOBAMBA",
+            "txCodExpedienteExt": "ERM.2022022631",
+            "feRegistro": "13/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "TACHA DE CANDIDATO",
+            "txResponsable": "YESICA PAOLA CIEZA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 171006,
+            "idExpedientePadre": 159061,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MOYOBAMBA",
+            "partes": [
+                {
+                    "txNombresApellidos": "FERMIN ANDRES PEREZ PAIMA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "MOYOBAMBA",
+            "txCodExpedienteExt": "ERM.2022035163",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTRAS PETICIONES CONTRA PRONUNCIAMIENTOS DEL JNE / JEE",
+            "txResponsable": "PAMELA DEL ROCIO JIMENEZ",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 183778,
+            "idExpedientePadre": 159061,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MOYOBAMBA",
+            "partes": [],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "MOYOBAMBA",
+            "txCodExpedienteExt": "ERM.2022035246",
+            "feRegistro": "16/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTRAS PETICIONES CONTRA PRONUNCIAMIENTOS DEL JNE / JEE",
+            "txResponsable": "PAMELA DEL ROCIO JIMENEZ",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 183863,
+            "idExpedientePadre": 159061,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MOYOBAMBA",
+            "partes": [],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "MOYOBAMBA",
+            "txCodExpedienteExt": "ERM.2022037526",
+            "feRegistro": "20/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "YESICA PAOLA CIEZA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 186202,
+            "idExpedientePadre": 159061,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MOYOBAMBA",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN CARLOS TENAZOA LUNA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        }
+    ],
+    "totalPages": 1
 }

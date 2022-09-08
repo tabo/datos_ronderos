@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 7.0,
+    "count": 9.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 7,
+            "totalRows": 9,
             "rowNumber": 1,
             "txJuradoCompetencia": "PACASMAYO",
             "txCodExpedienteExt": "ERM.2022010130",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 9,
             "rowNumber": 2,
             "txJuradoCompetencia": "PACASMAYO",
             "txCodExpedienteExt": "ERM.2022012215",
@@ -55,7 +55,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 9,
             "rowNumber": 3,
             "txJuradoCompetencia": "PACASMAYO",
             "txCodExpedienteExt": "ERM.2022015915",
@@ -80,7 +80,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 9,
             "rowNumber": 4,
             "txJuradoCompetencia": "PACASMAYO",
             "txCodExpedienteExt": "ERM.2022015941",
@@ -105,7 +105,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 9,
             "rowNumber": 5,
             "txJuradoCompetencia": "PACASMAYO",
             "txCodExpedienteExt": "ERM.2022020387",
@@ -130,7 +130,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 9,
             "rowNumber": 6,
             "txJuradoCompetencia": "PACASMAYO",
             "txCodExpedienteExt": "ERM.2022020591",
@@ -155,7 +155,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 9,
             "rowNumber": 7,
             "txJuradoCompetencia": "PACASMAYO",
             "txCodExpedienteExt": "ERM.2022020593",
@@ -167,6 +167,56 @@
             "txEstado": "RESUELTO",
             "idExpediente": 168862,
             "idExpedientePadre": 157882,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PACASMAYO",
+            "partes": [
+                {
+                    "txNombresApellidos": "SANDRA PATRICIA MIÑANO GUARNIZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 9,
+            "rowNumber": 8,
+            "txJuradoCompetencia": "PACASMAYO",
+            "txCodExpedienteExt": "ERM.2022021291",
+            "feRegistro": "07/07/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "QUEJA POR DENEGATORIA DE APELACIÓN",
+            "txResponsable": "PEDRO ELIAS RAMOS",
+            "txEtapa": "INICIO",
+            "txEstado": "REGISTRADO",
+            "idExpediente": 169602,
+            "idExpedientePadre": 168862,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PACASMAYO",
+            "partes": [
+                {
+                    "txNombresApellidos": "SANDRA PATRICIA MIÑANO GUARNIZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 9,
+            "rowNumber": 9,
+            "txJuradoCompetencia": "PACASMAYO",
+            "txCodExpedienteExt": "ERM.2022021368",
+            "feRegistro": "07/07/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "QUEJA POR DENEGATORIA DE APELACIÓN",
+            "txResponsable": "PEDRO ELIAS RAMOS",
+            "txEtapa": "INICIO",
+            "txEstado": "REGISTRADO",
+            "idExpediente": 169672,
+            "idExpedientePadre": 168861,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "PACASMAYO",

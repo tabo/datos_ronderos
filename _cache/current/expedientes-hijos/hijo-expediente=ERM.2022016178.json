@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 2.0,
+    "count": 5.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 2,
+            "totalRows": 5,
             "rowNumber": 1,
             "txJuradoCompetencia": "PUNO",
             "txCodExpedienteExt": "ERM.2022012173",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 2,
+            "totalRows": 5,
             "rowNumber": 2,
             "txJuradoCompetencia": "PUNO",
             "txCodExpedienteExt": "ERM.2022012175",
@@ -42,6 +42,81 @@
             "txEstado": "RESUELTO",
             "idExpediente": 160078,
             "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PUNO",
+            "partes": [
+                {
+                    "txNombresApellidos": "WHEELER OSCAR PAUCAR GUTIERREZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "PUNO",
+            "txCodExpedienteExt": "ERM.2022023087",
+            "feRegistro": "15/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "RUBI MARIBEL CABRERA",
+            "txEtapa": "PRONUNCIAMIENTO",
+            "txEstado": "EN PRONUNCIAMIENTO",
+            "idExpediente": 171466,
+            "idExpedientePadre": 160036,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PUNO",
+            "partes": [
+                {
+                    "txNombresApellidos": "WHEELER OSCAR PAUCAR GUTIERREZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "PUNO",
+            "txCodExpedienteExt": "ERM.2022024116",
+            "feRegistro": "19/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "RUBI MARIBEL CABRERA",
+            "txEtapa": "PRONUNCIAMIENTO",
+            "txEstado": "EN PRONUNCIAMIENTO",
+            "idExpediente": 172496,
+            "idExpedientePadre": 164244,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PUNO",
+            "partes": [
+                {
+                    "txNombresApellidos": "WHEELER OSCAR PAUCAR GUTIERREZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 5,
+            "txJuradoCompetencia": "PUNO",
+            "txCodExpedienteExt": "ERM.2022028748",
+            "feRegistro": "05/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTRAS PETICIONES CONTRA PRONUNCIAMIENTOS DEL JNE / JEE",
+            "txResponsable": "PEDRO ELIAS RAMOS",
+            "txEtapa": "PRONUNCIAMIENTO",
+            "txEstado": "EN PRONUNCIAMIENTO",
+            "idExpediente": 177278,
+            "idExpedientePadre": 171466,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "PUNO",

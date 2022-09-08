@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 1.0,
+    "count": 5.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 1,
+            "totalRows": 5,
             "rowNumber": 1,
             "txJuradoCompetencia": "CANCHIS",
             "txCodExpedienteExt": "ERM.2022020085",
@@ -23,6 +23,106 @@
             "partes": [
                 {
                     "txNombresApellidos": "JUAN CARLOS PFUTURI CHOQQUE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "CANCHIS",
+            "txCodExpedienteExt": "ERM.2022021946",
+            "feRegistro": "10/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "WILDER BELLIDO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 170282,
+            "idExpedientePadre": 161912,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CANCHIS",
+            "partes": [
+                {
+                    "txNombresApellidos": "RENE CAYLLAHUA HUALLPA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "CANCHIS",
+            "txCodExpedienteExt": "ERM.2022021953",
+            "feRegistro": "10/07/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTRAS PETICIONES CONTRA PRONUNCIAMIENTOS DEL JNE / JEE",
+            "txResponsable": "WILDER BELLIDO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 170287,
+            "idExpedientePadre": 161912,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CANCHIS",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN CARLOS PFUTURI CHOQQUE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "CANCHIS",
+            "txCodExpedienteExt": "ERM.2022022574",
+            "feRegistro": "13/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "TACHA DE LISTA",
+            "txResponsable": "WILDER BELLIDO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 170949,
+            "idExpedientePadre": 161912,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CANCHIS",
+            "partes": [
+                {
+                    "txNombresApellidos": "HEIDY INGRITH GALLEGOS PERALTA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 5,
+            "txJuradoCompetencia": "CANCHIS",
+            "txCodExpedienteExt": "ERM.2022023200",
+            "feRegistro": "15/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "TACHA DE LISTA",
+            "txResponsable": "WILDER BELLIDO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 171600,
+            "idExpedientePadre": 161912,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CANCHIS",
+            "partes": [
+                {
+                    "txNombresApellidos": "HEIDY INGRITH GALLEGOS PERALTA",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

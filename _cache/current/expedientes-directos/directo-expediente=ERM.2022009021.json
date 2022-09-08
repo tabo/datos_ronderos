@@ -1,8 +1,84 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 0.0,
+    "count": 3.0,
     "messageLog": null,
-    "data": [],
-    "totalPages": 0
+    "data": [
+        {
+            "totalRows": 3,
+            "rowNumber": 1,
+            "txJuradoCompetencia": "POMABAMBA",
+            "txCodExpedienteExt": "ERM.2022038599",
+            "feRegistro": "24/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "RUSBER ENRIQUE CERNA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 187302,
+            "idExpedientePadre": 156723,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "POMABAMBA",
+            "partes": [
+                {
+                    "txNombresApellidos": "JESUS MARTIN BERMUDEZ NINAQUISPE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "POMABAMBA",
+            "txCodExpedienteExt": "ERM.2022038722",
+            "feRegistro": "24/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "RUSBER ENRIQUE CERNA",
+            "txEtapa": "PRONUNCIAMIENTO",
+            "txEstado": "EN FIRMAS",
+            "idExpediente": 187427,
+            "idExpedientePadre": 156723,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "POMABAMBA",
+            "partes": [
+                {
+                    "txNombresApellidos": "JESUS MARTIN BERMUDEZ NINAQUISPE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "POMABAMBA",
+            "txCodExpedienteExt": "ERM.2022040225",
+            "feRegistro": "01/09/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "RUSBER ENRIQUE CERNA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 189115,
+            "idExpedientePadre": 156723,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "POMABAMBA",
+            "partes": [
+                {
+                    "txNombresApellidos": "JESUS MARTIN BERMUDEZ NINAQUISPE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        }
+    ],
+    "totalPages": 1
 }

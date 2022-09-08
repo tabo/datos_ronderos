@@ -1,8 +1,53 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 0.0,
+    "count": 2.0,
     "messageLog": null,
-    "data": [],
-    "totalPages": 0
+    "data": [
+        {
+            "totalRows": 2,
+            "rowNumber": 1,
+            "txJuradoCompetencia": "PUNO",
+            "txCodExpedienteExt": "ERM.2022024119",
+            "feRegistro": "19/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "RUBI MARIBEL CABRERA",
+            "txEtapa": "PRONUNCIAMIENTO",
+            "txEstado": "EN PRONUNCIAMIENTO",
+            "idExpediente": 172518,
+            "idExpedientePadre": 160720,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PUNO",
+            "partes": [
+                {
+                    "txNombresApellidos": "RICARDO TACURI TACURI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 2,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "PUNO",
+            "txCodExpedienteExt": "ERM.2022040674",
+            "feRegistro": "05/09/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JUAN DIEGO CRUZADO",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 189761,
+            "idExpedientePadre": 160720,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PUNO",
+            "partes": [],
+            "tienePersonalJurado": false
+        }
+    ],
+    "totalPages": 1
 }

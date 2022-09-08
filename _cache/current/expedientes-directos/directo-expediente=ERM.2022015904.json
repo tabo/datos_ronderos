@@ -1,21 +1,71 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 1.0,
+    "count": 3.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 1,
+            "totalRows": 3,
             "rowNumber": 1,
             "txJuradoCompetencia": "HUANCAVELICA",
             "txCodExpedienteExt": "ERM.2022019391",
             "feRegistro": "27/06/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "ALONSO MANUEL ENCARNACION",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "LIZBET CORTEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 167596,
+            "idExpedientePadre": 163956,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUANCAVELICA",
+            "partes": [
+                {
+                    "txNombresApellidos": "FERNANDO LUIS ARIAS STELLA CASTILLO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "HUANCAVELICA",
+            "txCodExpedienteExt": "ERM.2022024979",
+            "feRegistro": "23/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "LIZBET CORTEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 173399,
+            "idExpedientePadre": 163956,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUANCAVELICA",
+            "partes": [
+                {
+                    "txNombresApellidos": "FERNANDO LUIS ARIAS STELLA CASTILLO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "HUANCAVELICA",
+            "txCodExpedienteExt": "ERM.2022025927",
+            "feRegistro": "27/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "LIZBET CORTEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 174395,
             "idExpedientePadre": 163956,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",

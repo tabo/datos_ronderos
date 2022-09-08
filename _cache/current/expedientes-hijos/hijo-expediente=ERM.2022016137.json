@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 3.0,
+    "count": 5.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 3,
+            "totalRows": 5,
             "rowNumber": 1,
             "txJuradoCompetencia": "TACNA",
             "txCodExpedienteExt": "ERM.2022016023",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 3,
+            "totalRows": 5,
             "rowNumber": 2,
             "txJuradoCompetencia": "TACNA",
             "txCodExpedienteExt": "ERM.2022016168",
@@ -38,8 +38,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "ARMIDA KAREN PONCE",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 164214,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -55,17 +55,67 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 3,
+            "totalRows": 5,
             "rowNumber": 3,
+            "txJuradoCompetencia": "TACNA",
+            "txCodExpedienteExt": "ERM.2022016154",
+            "feRegistro": "17/06/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "SOLICITUD DE INSCRIPCIÓN",
+            "txResponsable": "YESEENIA LIZBETH LEON",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 164235,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TACNA",
+            "partes": [
+                {
+                    "txNombresApellidos": "ANIBAL VICTOR JULI MONROY",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 4,
             "txJuradoCompetencia": "TACNA",
             "txCodExpedienteExt": "ERM.2022017997",
             "feRegistro": "17/06/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "MARIA DE FATIMA GARCIA",
-            "txEtapa": "PRONUNCIAMIENTO",
-            "txEstado": "EN PRONUNCIAMIENTO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 166112,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TACNA",
+            "partes": [
+                {
+                    "txNombresApellidos": "ANIBAL VICTOR JULI MONROY",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 5,
+            "txJuradoCompetencia": "TACNA",
+            "txCodExpedienteExt": "ERM.2022023832",
+            "feRegistro": "18/07/2022",
+            "txTipoExpediente": "RECONOCIMIENTO DE PERSONEROS",
+            "txMateria": "SOLICITUD DE RECONOCIMIENTO",
+            "txResponsable": "MARIA DE FATIMA GARCIA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 172239,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",

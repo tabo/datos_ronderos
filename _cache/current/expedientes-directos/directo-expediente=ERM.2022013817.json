@@ -13,14 +13,20 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
             "txResponsable": " ",
-            "txEtapa": "INICIO",
-            "txEstado": "REGISTRADO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
             "idExpediente": 169870,
             "idExpedientePadre": 161772,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "HUANUCO",
-            "partes": [],
+            "partes": [
+                {
+                    "txNombresApellidos": "ARTURO GERARDO PULGAR LUCAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
             "tienePersonalJurado": false
         }
     ],

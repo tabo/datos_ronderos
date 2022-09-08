@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 8.0,
+    "count": 19.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 8,
+            "totalRows": 19,
             "rowNumber": 1,
             "txJuradoCompetencia": "RECUAY",
             "txCodExpedienteExt": "ERM.2022005511",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 8,
+            "totalRows": 19,
             "rowNumber": 2,
             "txJuradoCompetencia": "RECUAY",
             "txCodExpedienteExt": "ERM.2022009030",
@@ -55,7 +55,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 8,
+            "totalRows": 19,
             "rowNumber": 3,
             "txJuradoCompetencia": "RECUAY",
             "txCodExpedienteExt": "ERM.2022009037",
@@ -80,7 +80,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 8,
+            "totalRows": 19,
             "rowNumber": 4,
             "txJuradoCompetencia": "RECUAY",
             "txCodExpedienteExt": "ERM.2022009050",
@@ -105,14 +105,14 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 8,
+            "totalRows": 19,
             "rowNumber": 5,
             "txJuradoCompetencia": "RECUAY",
             "txCodExpedienteExt": "ERM.2022009049",
             "feRegistro": "15/06/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
-            "txResponsable": "MARIA MARLENY ACEVEDO",
+            "txResponsable": "VITALIANO ORLANDO COSCO",
             "txEtapa": "ESTUDIO",
             "txEstado": "EN TRÁMITE",
             "idExpediente": 156745,
@@ -130,7 +130,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 8,
+            "totalRows": 19,
             "rowNumber": 6,
             "txJuradoCompetencia": "RECUAY",
             "txCodExpedienteExt": "ERM.2022009599",
@@ -155,7 +155,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 8,
+            "totalRows": 19,
             "rowNumber": 7,
             "txJuradoCompetencia": "RECUAY",
             "txCodExpedienteExt": "ERM.2022012577",
@@ -180,22 +180,307 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 8,
+            "totalRows": 19,
             "rowNumber": 8,
             "txJuradoCompetencia": "RECUAY",
             "txCodExpedienteExt": "ERM.2022018633",
             "feRegistro": "21/06/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": " ",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "MARIA MARLENY ACEVEDO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 166797,
             "idExpedientePadre": 156745,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "RECUAY",
             "partes": [
+                {
+                    "txNombresApellidos": "TANIA MONICA LEON ESPADA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 9,
+            "txJuradoCompetencia": "RECUAY",
+            "txCodExpedienteExt": "ERM.2022026046",
+            "feRegistro": "28/07/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "VITALIANO ORLANDO COSCO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 174517,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "RECUAY",
+            "partes": [
+                {
+                    "txNombresApellidos": "TANIA MONICA LEON ESPADA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "CRISTIAN ERICK ALBA CARRION",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 10,
+            "txJuradoCompetencia": "RECUAY",
+            "txCodExpedienteExt": "ERM.2022026913",
+            "feRegistro": "01/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "OSCAR GUALBERTO BETETA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 175377,
+            "idExpedientePadre": 156745,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "RECUAY",
+            "partes": [
+                {
+                    "txNombresApellidos": "TANIA MONICA LEON ESPADA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 11,
+            "txJuradoCompetencia": "RECUAY",
+            "txCodExpedienteExt": "ERM.2022026917",
+            "feRegistro": "01/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "OSCAR GUALBERTO BETETA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 175419,
+            "idExpedientePadre": 156706,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "RECUAY",
+            "partes": [
+                {
+                    "txNombresApellidos": "TANIA MONICA LEON ESPADA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 12,
+            "txJuradoCompetencia": "RECUAY",
+            "txCodExpedienteExt": "ERM.2022028544",
+            "feRegistro": "05/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTROS",
+            "txResponsable": "MARIA MARLENY ACEVEDO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 177062,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "RECUAY",
+            "partes": [
+                {
+                    "txNombresApellidos": "TANIA MONICA LEON ESPADA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 13,
+            "txJuradoCompetencia": "RECUAY",
+            "txCodExpedienteExt": "ERM.2022029030",
+            "feRegistro": "06/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTROS",
+            "txResponsable": "MARIA MARLENY ACEVEDO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 177551,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "RECUAY",
+            "partes": [
+                {
+                    "txNombresApellidos": "TANIA MONICA LEON ESPADA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 14,
+            "txJuradoCompetencia": "RECUAY",
+            "txCodExpedienteExt": "ERM.2022029031",
+            "feRegistro": "06/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTROS",
+            "txResponsable": "MARIA MARLENY ACEVEDO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 177566,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "RECUAY",
+            "partes": [
+                {
+                    "txNombresApellidos": "TANIA MONICA LEON ESPADA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 15,
+            "txJuradoCompetencia": "RECUAY",
+            "txCodExpedienteExt": "ERM.2022030526",
+            "feRegistro": "09/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "VITALIANO ORLANDO COSCO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 179079,
+            "idExpedientePadre": 157317,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "RECUAY",
+            "partes": [
+                {
+                    "txNombresApellidos": "TANIA MONICA LEON ESPADA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 16,
+            "txJuradoCompetencia": "RECUAY",
+            "txCodExpedienteExt": "ERM.2022032037",
+            "feRegistro": "11/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "MARIA MARLENY ACEVEDO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 180599,
+            "idExpedientePadre": 157317,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "RECUAY",
+            "partes": [
+                {
+                    "txNombresApellidos": "TANIA MONICA LEON ESPADA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 17,
+            "txJuradoCompetencia": "RECUAY",
+            "txCodExpedienteExt": "ERM.2022034490",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "VITALIANO ORLANDO COSCO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183098,
+            "idExpedientePadre": 156739,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "RECUAY",
+            "partes": [
+                {
+                    "txNombresApellidos": "TANIA MONICA LEON ESPADA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 18,
+            "txJuradoCompetencia": "RECUAY",
+            "txCodExpedienteExt": "ERM.2022034673",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "VITALIANO ORLANDO COSCO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183278,
+            "idExpedientePadre": 157317,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "RECUAY",
+            "partes": [
+                {
+                    "txNombresApellidos": "TANIA MONICA LEON ESPADA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 19,
+            "txJuradoCompetencia": "RECUAY",
+            "txCodExpedienteExt": "ERM.2022036781",
+            "feRegistro": "18/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "VITALIANO ORLANDO COSCO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 185404,
+            "idExpedientePadre": 156706,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "RECUAY",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROCIO ANGELA ESPINOZA ZORRILLA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
                 {
                     "txNombresApellidos": "TANIA MONICA LEON ESPADA",
                     "idPersonalJurado": null,

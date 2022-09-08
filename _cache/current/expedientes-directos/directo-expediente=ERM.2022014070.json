@@ -1,8 +1,64 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 0.0,
+    "count": 2.0,
     "messageLog": null,
-    "data": [],
-    "totalPages": 0
+    "data": [
+        {
+            "totalRows": 2,
+            "rowNumber": 1,
+            "txJuradoCompetencia": "BAGUA",
+            "txCodExpedienteExt": "ERM.2022022625",
+            "feRegistro": "13/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JAIME VILLEGAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 171002,
+            "idExpedientePadre": 162053,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "BAGUA",
+            "partes": [
+                {
+                    "txNombresApellidos": "JAMMER ANCER OLANO BECERRA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 2,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "BAGUA",
+            "txCodExpedienteExt": "ERM.2022025950",
+            "feRegistro": "27/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "TACHA DE CANDIDATO",
+            "txResponsable": "ANALI GUISELA PAUCAR",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 174417,
+            "idExpedientePadre": 162053,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "BAGUA",
+            "partes": [
+                {
+                    "txNombresApellidos": "MERCY YASELY CORONEL RUIZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JAMMER ANCER OLANO BECERRA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        }
+    ],
+    "totalPages": 1
 }

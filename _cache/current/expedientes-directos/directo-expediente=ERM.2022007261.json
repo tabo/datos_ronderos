@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 1.0,
+    "count": 4.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 1,
+            "totalRows": 4,
             "rowNumber": 1,
             "txJuradoCompetencia": "PASCO",
             "txCodExpedienteExt": "ERM.2022015656",
@@ -16,6 +16,81 @@
             "txEtapa": "RESUELTO",
             "txEstado": "RESUELTO",
             "idExpediente": 163705,
+            "idExpedientePadre": 154860,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PASCO",
+            "partes": [
+                {
+                    "txNombresApellidos": "GODOFREDO GREGORIO MUÑOZ PALACIOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "PASCO",
+            "txCodExpedienteExt": "ERM.2022023068",
+            "feRegistro": "15/07/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTRAS PETICIONES CONTRA PRONUNCIAMIENTOS DEL JNE / JEE",
+            "txResponsable": "JHAZMYNA MILAGROS REYES",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 171451,
+            "idExpedientePadre": 154860,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PASCO",
+            "partes": [
+                {
+                    "txNombresApellidos": "GODOFREDO GREGORIO MUÑOZ PALACIOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "PASCO",
+            "txCodExpedienteExt": "ERM.2022025061",
+            "feRegistro": "23/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JHAZMYNA MILAGROS REYES",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 173469,
+            "idExpedientePadre": 154860,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PASCO",
+            "partes": [
+                {
+                    "txNombresApellidos": "GODOFREDO GREGORIO MUÑOZ PALACIOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "PASCO",
+            "txCodExpedienteExt": "ERM.2022025993",
+            "feRegistro": "28/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JHAZMYNA MILAGROS REYES",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 174449,
             "idExpedientePadre": 154860,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",

@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 7.0,
+    "count": 17.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 7,
+            "totalRows": 17,
             "rowNumber": 1,
             "txJuradoCompetencia": "PUNO",
             "txCodExpedienteExt": "ERM.2022013229",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 17,
             "rowNumber": 2,
             "txJuradoCompetencia": "PUNO",
             "txCodExpedienteExt": "ERM.2022013912",
@@ -55,7 +55,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 17,
             "rowNumber": 3,
             "txJuradoCompetencia": "PUNO",
             "txCodExpedienteExt": "ERM.2022014554",
@@ -63,8 +63,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "JUAN DIEGO CRUZADO",
-            "txEtapa": "PRONUNCIAMIENTO",
-            "txEstado": "EN PRONUNCIAMIENTO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 162563,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -80,7 +80,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 17,
             "rowNumber": 4,
             "txJuradoCompetencia": "PUNO",
             "txCodExpedienteExt": "ERM.2022016282",
@@ -88,8 +88,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "JUAN DIEGO CRUZADO",
-            "txEtapa": "PRONUNCIAMIENTO",
-            "txEstado": "EN PRONUNCIAMIENTO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 164337,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -105,7 +105,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 17,
             "rowNumber": 5,
             "txJuradoCompetencia": "PUNO",
             "txCodExpedienteExt": "ERM.2022017952",
@@ -130,7 +130,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 17,
             "rowNumber": 6,
             "txJuradoCompetencia": "PUNO",
             "txCodExpedienteExt": "ERM.2022018042",
@@ -155,7 +155,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 17,
             "rowNumber": 7,
             "txJuradoCompetencia": "PUNO",
             "txCodExpedienteExt": "ERM.2022018180",
@@ -173,6 +173,286 @@
             "partes": [
                 {
                     "txNombresApellidos": "JOSE WALTER LIMA MAMANI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 17,
+            "rowNumber": 8,
+            "txJuradoCompetencia": "PUNO",
+            "txCodExpedienteExt": "ERM.2022020802",
+            "feRegistro": "05/07/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "JUAN DIEGO CRUZADO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "idExpediente": 169083,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PUNO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE WALTER LIMA MAMANI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "ROSA CHAVEZ MAMANI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 17,
+            "rowNumber": 9,
+            "txJuradoCompetencia": "PUNO",
+            "txCodExpedienteExt": "ERM.2022021904",
+            "feRegistro": "10/07/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "RONY EDISON MAMANI",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 170229,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PUNO",
+            "partes": [
+                {
+                    "txNombresApellidos": "OMAR ANTONIO QUISPE ESPEZUA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JOSE WALTER LIMA MAMANI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 17,
+            "rowNumber": 10,
+            "txJuradoCompetencia": "PUNO",
+            "txCodExpedienteExt": "ERM.2022024110",
+            "feRegistro": "19/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "RUBI MARIBEL CABRERA",
+            "txEtapa": "PRONUNCIAMIENTO",
+            "txEstado": "EN PRONUNCIAMIENTO",
+            "idExpediente": 172495,
+            "idExpedientePadre": 162563,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PUNO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE WALTER LIMA MAMANI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 17,
+            "rowNumber": 11,
+            "txJuradoCompetencia": "PUNO",
+            "txCodExpedienteExt": "ERM.2022024852",
+            "feRegistro": "22/07/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "RONY EDISON MAMANI",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 173263,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PUNO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE WALTER LIMA MAMANI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "OMAR ANTONIO QUISPE ESPEZUA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 17,
+            "rowNumber": 12,
+            "txJuradoCompetencia": "PUNO",
+            "txCodExpedienteExt": "ERM.2022025079",
+            "feRegistro": "23/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "RUBI MARIBEL CABRERA",
+            "txEtapa": "PRONUNCIAMIENTO",
+            "txEstado": "EN PRONUNCIAMIENTO",
+            "idExpediente": 173477,
+            "idExpedientePadre": 162566,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PUNO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE WALTER LIMA MAMANI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 17,
+            "rowNumber": 13,
+            "txJuradoCompetencia": "PUNO",
+            "txCodExpedienteExt": "ERM.2022028569",
+            "feRegistro": "05/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JUAN DIEGO CRUZADO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 177098,
+            "idExpedientePadre": 161919,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PUNO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE WALTER LIMA MAMANI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 17,
+            "rowNumber": 14,
+            "txJuradoCompetencia": "PUNO",
+            "txCodExpedienteExt": "ERM.2022036097",
+            "feRegistro": "16/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JUAN DIEGO CRUZADO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 184715,
+            "idExpedientePadre": 166339,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PUNO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE WALTER LIMA MAMANI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 17,
+            "rowNumber": 15,
+            "txJuradoCompetencia": "PUNO",
+            "txCodExpedienteExt": "ERM.2022038348",
+            "feRegistro": "23/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "RONY EDISON MAMANI",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 187038,
+            "idExpedientePadre": 161138,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PUNO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE WALTER LIMA MAMANI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "YESSICA CALLUARI FLORES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "SIMON HUANCA SEJE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 17,
+            "rowNumber": 16,
+            "txJuradoCompetencia": "PUNO",
+            "txCodExpedienteExt": "ERM.2022039679",
+            "feRegistro": "28/08/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "HUBER IVAN MACHACA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 188464,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PUNO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE WALTER LIMA MAMANI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 17,
+            "rowNumber": 17,
+            "txJuradoCompetencia": "PUNO",
+            "txCodExpedienteExt": "ERM.2022040648",
+            "feRegistro": "05/09/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "RONY EDISON MAMANI",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 189713,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PUNO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE WALTER LIMA MAMANI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "OMAR ANTONIO QUISPE ESPEZUA",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

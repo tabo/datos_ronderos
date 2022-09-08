@@ -1,8 +1,59 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 0.0,
+    "count": 2.0,
     "messageLog": null,
-    "data": [],
-    "totalPages": 0
+    "data": [
+        {
+            "totalRows": 2,
+            "rowNumber": 1,
+            "txJuradoCompetencia": "ABANCAY",
+            "txCodExpedienteExt": "ERM.2022024703",
+            "feRegistro": "21/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "ROSSMERY NUÑEZ",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 173123,
+            "idExpedientePadre": 161764,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "ABANCAY",
+            "partes": [
+                {
+                    "txNombresApellidos": "EDWIN CACERES CERVANTES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 2,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "ABANCAY",
+            "txCodExpedienteExt": "ERM.2022024705",
+            "feRegistro": "21/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "ROSSMERY NUÑEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 173125,
+            "idExpedientePadre": 161764,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "ABANCAY",
+            "partes": [
+                {
+                    "txNombresApellidos": "EDWIN CACERES CERVANTES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        }
+    ],
+    "totalPages": 1
 }

@@ -12,7 +12,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "43221930",
             "nombreCompleto": "EDWIN SANTIAGO NIETO HUAMANI",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2706.0,
             "organizacionPolitica": "MOVIMIENTO REGIONAL WARI LLAQTA",
             "numeroCandidato": 0.0,
@@ -22,7 +22,8 @@
             "postulaDistrito": "SAN SALVADOR DE QUIJE",
             "cargo": [
                 "ALCALDE DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 161215.0,
@@ -32,7 +33,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "70503635",
             "nombreCompleto": "MANUEL CRISTOBAL SOSA GASPAR",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2706.0,
             "organizacionPolitica": "MOVIMIENTO REGIONAL WARI LLAQTA",
             "numeroCandidato": 1.0,
@@ -42,7 +43,8 @@
             "postulaDistrito": "SAN SALVADOR DE QUIJE",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 161216.0,
@@ -52,7 +54,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "09586298",
             "nombreCompleto": "LIDUVINA CUENCA MENDOZA",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2706.0,
             "organizacionPolitica": "MOVIMIENTO REGIONAL WARI LLAQTA",
             "numeroCandidato": 2.0,
@@ -62,47 +64,8 @@
             "postulaDistrito": "SAN SALVADOR DE QUIJE",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 161218.0,
-            "feNacimiento": "1997-09-20T00:00:00",
-            "txSexo": "F",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "72115029",
-            "nombreCompleto": "ALIDA DE LA CRUZ NIETO",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2706.0,
-            "organizacionPolitica": "MOVIMIENTO REGIONAL WARI LLAQTA",
-            "numeroCandidato": 4.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/161218.jpg",
-            "postulaDepartamento": "AYACUCHO",
-            "postulaProvincia": "SUCRE",
-            "postulaDistrito": "SAN SALVADOR DE QUIJE",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 161219.0,
-            "feNacimiento": "1997-01-22T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "70888550",
-            "nombreCompleto": "GERTZON ALEXANDER GUTIERREZ SOSA",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2706.0,
-            "organizacionPolitica": "MOVIMIENTO REGIONAL WARI LLAQTA",
-            "numeroCandidato": 5.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/161219.jpg",
-            "postulaDepartamento": "AYACUCHO",
-            "postulaProvincia": "SUCRE",
-            "postulaDistrito": "SAN SALVADOR DE QUIJE",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 241265.0,
@@ -112,7 +75,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "70616991",
             "nombreCompleto": "ARCENIO ELEODORO HUAMANI CABANA",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2706.0,
             "organizacionPolitica": "MOVIMIENTO REGIONAL WARI LLAQTA",
             "numeroCandidato": 3.0,
@@ -122,7 +85,50 @@
             "postulaDistrito": "SAN SALVADOR DE QUIJE",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 161218.0,
+            "feNacimiento": "1997-09-20T00:00:00",
+            "txSexo": "F",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "72115029",
+            "nombreCompleto": "ALIDA DE LA CRUZ NIETO",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2706.0,
+            "organizacionPolitica": "MOVIMIENTO REGIONAL WARI LLAQTA",
+            "numeroCandidato": 4.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/161218.jpg",
+            "postulaDepartamento": "AYACUCHO",
+            "postulaProvincia": "SUCRE",
+            "postulaDistrito": "SAN SALVADOR DE QUIJE",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 161219.0,
+            "feNacimiento": "1997-01-22T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "70888550",
+            "nombreCompleto": "GERTZON ALEXANDER GUTIERREZ SOSA",
+            "estado": "EXCLUSION",
+            "idOrganizacionPolitica": 2706.0,
+            "organizacionPolitica": "MOVIMIENTO REGIONAL WARI LLAQTA",
+            "numeroCandidato": 5.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/161219.jpg",
+            "postulaDepartamento": "AYACUCHO",
+            "postulaProvincia": "SUCRE",
+            "postulaDistrito": "SAN SALVADOR DE QUIJE",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
         }
     ],
     "totalPages": 0

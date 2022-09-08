@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 4.0,
+    "count": 6.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 4,
+            "totalRows": 6,
             "rowNumber": 1,
             "txJuradoCompetencia": "TUMBES",
             "txCodExpedienteExt": "ERM.2022015817",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 4,
+            "totalRows": 6,
             "rowNumber": 2,
             "txJuradoCompetencia": "TUMBES",
             "txCodExpedienteExt": "ERM.2022017733",
@@ -55,7 +55,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 4,
+            "totalRows": 6,
             "rowNumber": 3,
             "txJuradoCompetencia": "TUMBES",
             "txCodExpedienteExt": "ERM.2022017726",
@@ -80,7 +80,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 4,
+            "totalRows": 6,
             "rowNumber": 4,
             "txJuradoCompetencia": "TUMBES",
             "txCodExpedienteExt": "ERM.2022017988",
@@ -91,6 +91,56 @@
             "txEtapa": "RESUELTO",
             "txEstado": "RESUELTO",
             "idExpediente": 166136,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TUMBES",
+            "partes": [
+                {
+                    "txNombresApellidos": "RUBEN MENESES VEGA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 6,
+            "rowNumber": 5,
+            "txJuradoCompetencia": "TUMBES",
+            "txCodExpedienteExt": "ERM.2022032543",
+            "feRegistro": "11/08/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "DEIDAMIA BETHANY ETTY CARRASCO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 181108,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TUMBES",
+            "partes": [
+                {
+                    "txNombresApellidos": "RUBEN MENESES VEGA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 6,
+            "rowNumber": 6,
+            "txJuradoCompetencia": "TUMBES",
+            "txCodExpedienteExt": "ERM.2022039686",
+            "feRegistro": "29/08/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "DEIDAMIA BETHANY ETTY CARRASCO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 188468,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",

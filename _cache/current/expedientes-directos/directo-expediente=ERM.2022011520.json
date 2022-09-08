@@ -1,8 +1,72 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 0.0,
+    "count": 3.0,
     "messageLog": null,
-    "data": [],
-    "totalPages": 0
+    "data": [
+        {
+            "totalRows": 3,
+            "rowNumber": 1,
+            "txJuradoCompetencia": "MAYNAS",
+            "txCodExpedienteExt": "ERM.2022038593",
+            "feRegistro": "24/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "FIORELLA MONTALVAN",
+            "txEtapa": "PRONUNCIAMIENTO",
+            "txEstado": "EN FIRMAS",
+            "idExpediente": 187291,
+            "idExpedientePadre": 159371,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MAYNAS",
+            "partes": [
+                {
+                    "txNombresApellidos": "DENYS ALFREDO MANAYALLE MENA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "MAYNAS",
+            "txCodExpedienteExt": "ERM.2022038634",
+            "feRegistro": "24/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "FIORELLA MONTALVAN",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 187342,
+            "idExpedientePadre": 159371,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MAYNAS",
+            "partes": [],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "MAYNAS",
+            "txCodExpedienteExt": "ERM.2022038714",
+            "feRegistro": "24/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "FIORELLA MONTALVAN",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 187422,
+            "idExpedientePadre": 159371,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MAYNAS",
+            "partes": [],
+            "tienePersonalJurado": false
+        }
+    ],
+    "totalPages": 1
 }

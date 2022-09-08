@@ -1,8 +1,59 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 0.0,
+    "count": 2.0,
     "messageLog": null,
-    "data": [],
-    "totalPages": 0
+    "data": [
+        {
+            "totalRows": 2,
+            "rowNumber": 1,
+            "txJuradoCompetencia": "LEONCIO PRADO",
+            "txCodExpedienteExt": "ERM.2022028428",
+            "feRegistro": "04/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "SHARON STEFHANY MORY",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176943,
+            "idExpedientePadre": 161988,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LEONCIO PRADO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ARTURO GERARDO PULGAR LUCAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 2,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "LEONCIO PRADO",
+            "txCodExpedienteExt": "ERM.2022029923",
+            "feRegistro": "08/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "SHARON STEFHANY MORY",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 178462,
+            "idExpedientePadre": 161988,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LEONCIO PRADO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ARTURO GERARDO PULGAR LUCAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        }
+    ],
+    "totalPages": 1
 }

@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 7.0,
+    "count": 10.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 7,
+            "totalRows": 10,
             "rowNumber": 1,
             "txJuradoCompetencia": "CALLAO",
             "txCodExpedienteExt": "ERM.2022005374",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 10,
             "rowNumber": 2,
             "txJuradoCompetencia": "CALLAO",
             "txCodExpedienteExt": "ERM.2022005869",
@@ -55,7 +55,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 10,
             "rowNumber": 3,
             "txJuradoCompetencia": "CALLAO",
             "txCodExpedienteExt": "ERM.2022010183",
@@ -80,7 +80,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 10,
             "rowNumber": 4,
             "txJuradoCompetencia": "CALLAO",
             "txCodExpedienteExt": "ERM.2022010768",
@@ -105,7 +105,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 10,
             "rowNumber": 5,
             "txJuradoCompetencia": "CALLAO",
             "txCodExpedienteExt": "ERM.2022010781",
@@ -130,7 +130,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 10,
             "rowNumber": 6,
             "txJuradoCompetencia": "CALLAO",
             "txCodExpedienteExt": "ERM.2022013074",
@@ -155,7 +155,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 10,
             "rowNumber": 7,
             "txJuradoCompetencia": "CALLAO",
             "txCodExpedienteExt": "ERM.2022013196",
@@ -167,6 +167,81 @@
             "txEstado": "RESUELTO",
             "idExpediente": 161115,
             "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CALLAO",
+            "partes": [
+                {
+                    "txNombresApellidos": "NICANOR MARCIANO SANDONAS MILLA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 10,
+            "rowNumber": 8,
+            "txJuradoCompetencia": "CALLAO",
+            "txCodExpedienteExt": "ERM.2022026018",
+            "feRegistro": "28/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "DANIEL ERNESTO RODRIGUEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 174499,
+            "idExpedientePadre": 160989,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CALLAO",
+            "partes": [
+                {
+                    "txNombresApellidos": "NICANOR MARCIANO SANDONAS MILLA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 10,
+            "rowNumber": 9,
+            "txJuradoCompetencia": "CALLAO",
+            "txCodExpedienteExt": "ERM.2022026025",
+            "feRegistro": "28/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "DANIEL ERNESTO RODRIGUEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 174520,
+            "idExpedientePadre": 158001,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CALLAO",
+            "partes": [
+                {
+                    "txNombresApellidos": "NICANOR MARCIANO SANDONAS MILLA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 10,
+            "rowNumber": 10,
+            "txJuradoCompetencia": "CALLAO",
+            "txCodExpedienteExt": "ERM.2022028178",
+            "feRegistro": "04/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "DANIEL ERNESTO RODRIGUEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176684,
+            "idExpedientePadre": 158579,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "CALLAO",

@@ -1,20 +1,20 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 1.0,
+    "count": 3.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 1,
+            "totalRows": 3,
             "rowNumber": 1,
             "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
             "txCodExpedienteExt": "ERM.2022020081",
             "feRegistro": "01/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "MANUEL SAMUEL SALAZAR",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "RAYMA LIZET ZAPATA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168334,
             "idExpedientePadre": 156182,
             "txImportancia": "NO MEDIÁTICO",
@@ -23,6 +23,55 @@
             "partes": [
                 {
                     "txNombresApellidos": "TOMAS LOPEZ PANAIFO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
+            "txCodExpedienteExt": "ERM.2022023218",
+            "feRegistro": "16/07/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTRAS PETICIONES CONTRA PRONUNCIAMIENTOS DEL JNE / JEE",
+            "txResponsable": "MANUEL SAMUEL SALAZAR",
+            "txEtapa": "INICIO",
+            "txEstado": "REGISTRADO",
+            "idExpediente": 171618,
+            "idExpedientePadre": 156182,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL RAMON CASTILLA",
+            "partes": [],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
+            "txCodExpedienteExt": "ERM.2022027602",
+            "feRegistro": "03/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "RAYMA LIZET ZAPATA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176091,
+            "idExpedientePadre": 156182,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL RAMON CASTILLA",
+            "partes": [
+                {
+                    "txNombresApellidos": "TOMAS LOPEZ PANAIFO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "ALICIA EUGENIA RIOS MENDEZ",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 2.0,
+    "count": 4.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 2,
+            "totalRows": 4,
             "rowNumber": 1,
             "txJuradoCompetencia": "LIMA NORTE 1",
             "txCodExpedienteExt": "ERM.2022021514",
@@ -13,8 +13,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "TACHA DE CANDIDATO",
             "txResponsable": "JUAN ENRIQUE CHAMBERS",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 169834,
             "idExpedientePadre": 158206,
             "txImportancia": "NO MEDIÁTICO",
@@ -35,7 +35,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 2,
+            "totalRows": 4,
             "rowNumber": 2,
             "txJuradoCompetencia": "LIMA NORTE 1",
             "txCodExpedienteExt": "ERM.2022021586",
@@ -43,9 +43,59 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
             "txResponsable": "JUAN ENRIQUE CHAMBERS",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 169908,
+            "idExpedientePadre": 158206,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 1",
+            "partes": [
+                {
+                    "txNombresApellidos": "ALDO FABRIZIO BORRERO ROJAS,",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "LIMA NORTE 1",
+            "txCodExpedienteExt": "ERM.2022033701",
+            "feRegistro": "13/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JUAN ENRIQUE CHAMBERS",
             "txEtapa": "RESUELTO",
             "txEstado": "RESUELTO",
-            "idExpediente": 169908,
+            "idExpediente": 182301,
+            "idExpedientePadre": 158206,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 1",
+            "partes": [
+                {
+                    "txNombresApellidos": "ALDO FABRIZIO BORRERO ROJAS,",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "LIMA NORTE 1",
+            "txCodExpedienteExt": "ERM.2022035206",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JUAN ENRIQUE CHAMBERS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183816,
             "idExpedientePadre": 158206,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",

@@ -1,8 +1,88 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 0.0,
+    "count": 3.0,
     "messageLog": null,
-    "data": [],
-    "totalPages": 0
+    "data": [
+        {
+            "totalRows": 3,
+            "rowNumber": 1,
+            "txJuradoCompetencia": "LIMA OESTE 3",
+            "txCodExpedienteExt": "ERM.2022021879",
+            "feRegistro": "10/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "TACHA DE CANDIDATO",
+            "txResponsable": "JAM ABRAHAM WHU",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 170203,
+            "idExpedientePadre": 154668,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 3",
+            "partes": [
+                {
+                    "txNombresApellidos": "ISABEL LOPEZ AMARI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JOSE MERCEDES AMAYA DEDIOS,",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "LIMA OESTE 3",
+            "txCodExpedienteExt": "ERM.2022035809",
+            "feRegistro": "16/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JAM ABRAHAM WHU",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "idExpediente": 184430,
+            "idExpedientePadre": 154668,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 3",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE MERCEDES AMAYA DEDIOS,",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "EDGARD JOSE ROSADO TAQUIRI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "LIMA OESTE 3",
+            "txCodExpedienteExt": "ERM.2022036796",
+            "feRegistro": "18/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JORGE ENRIQUE DONAYRE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 185414,
+            "idExpedientePadre": 154668,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 3",
+            "partes": [],
+            "tienePersonalJurado": false
+        }
+    ],
+    "totalPages": 1
 }

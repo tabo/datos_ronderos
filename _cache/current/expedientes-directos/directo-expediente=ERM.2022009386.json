@@ -1,20 +1,20 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 1.0,
+    "count": 3.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 1,
+            "totalRows": 3,
             "rowNumber": 1,
             "txJuradoCompetencia": "QUISPICANCHI",
             "txCodExpedienteExt": "ERM.2022020522",
             "feRegistro": "03/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "YANET MERCEDES LEON",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "OMAR LADRON DE GUEVARA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168789,
             "idExpedientePadre": 157103,
             "txImportancia": "NO MEDIÁTICO",
@@ -23,6 +23,66 @@
             "partes": [
                 {
                     "txNombresApellidos": "ANIBAL FARFAN RAMOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "QUISPICANCHI",
+            "txCodExpedienteExt": "ERM.2022026078",
+            "feRegistro": "28/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "OMAR LADRON DE GUEVARA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 174559,
+            "idExpedientePadre": 157103,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "QUISPICANCHI",
+            "partes": [
+                {
+                    "txNombresApellidos": "ANIBAL FARFAN RAMOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "YUDI HUAMAN ZANABRIA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "QUISPICANCHI",
+            "txCodExpedienteExt": "ERM.2022036571",
+            "feRegistro": "17/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "OMAR LADRON DE GUEVARA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 185206,
+            "idExpedientePadre": 157103,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "QUISPICANCHI",
+            "partes": [
+                {
+                    "txNombresApellidos": "OSCAR CUSI USANDIVARES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "YUDI HUAMAN ZANABRIA",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

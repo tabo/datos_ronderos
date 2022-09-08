@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 8.0,
+    "count": 12.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 8,
+            "totalRows": 12,
             "rowNumber": 1,
             "txJuradoCompetencia": "CAJAMARCA",
             "txCodExpedienteExt": "ERM.2022011427",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 8,
+            "totalRows": 12,
             "rowNumber": 2,
             "txJuradoCompetencia": "CAJAMARCA",
             "txCodExpedienteExt": "ERM.2022016661",
@@ -55,7 +55,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 8,
+            "totalRows": 12,
             "rowNumber": 3,
             "txJuradoCompetencia": "CAJAMARCA",
             "txCodExpedienteExt": "ERM.2022017093",
@@ -80,7 +80,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 8,
+            "totalRows": 12,
             "rowNumber": 4,
             "txJuradoCompetencia": "CAJAMARCA",
             "txCodExpedienteExt": "ERM.2022017097",
@@ -105,7 +105,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 8,
+            "totalRows": 12,
             "rowNumber": 5,
             "txJuradoCompetencia": "CAJAMARCA",
             "txCodExpedienteExt": "ERM.2022017116",
@@ -130,7 +130,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 8,
+            "totalRows": 12,
             "rowNumber": 6,
             "txJuradoCompetencia": "CAJAMARCA",
             "txCodExpedienteExt": "ERM.2022017134",
@@ -155,7 +155,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 8,
+            "totalRows": 12,
             "rowNumber": 7,
             "txJuradoCompetencia": "CAJAMARCA",
             "txCodExpedienteExt": "ERM.2022017112",
@@ -180,7 +180,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 8,
+            "totalRows": 12,
             "rowNumber": 8,
             "txJuradoCompetencia": "CAJAMARCA",
             "txCodExpedienteExt": "ERM.2022017121",
@@ -198,6 +198,116 @@
             "partes": [
                 {
                     "txNombresApellidos": "NILBERTO CHUQUIRUNA DIAZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 12,
+            "rowNumber": 9,
+            "txJuradoCompetencia": "CAJAMARCA",
+            "txCodExpedienteExt": "ERM.2022025752",
+            "feRegistro": "26/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "SONIA IVETH LATORRE",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 174173,
+            "idExpedientePadre": 165213,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CAJAMARCA",
+            "partes": [
+                {
+                    "txNombresApellidos": "NILBERTO CHUQUIRUNA DIAZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 12,
+            "rowNumber": 10,
+            "txJuradoCompetencia": "CAJAMARCA",
+            "txCodExpedienteExt": "ERM.2022026361",
+            "feRegistro": "29/07/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "QUEJA POR DENEGATORIA DE APELACIÓN",
+            "txResponsable": "MYRIAM VIDAL",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 174842,
+            "idExpedientePadre": 174173,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CAJAMARCA",
+            "partes": [
+                {
+                    "txNombresApellidos": "NILBERTO CHUQUIRUNA DIAZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "RONAL ARTURO REQUELME QUILICHE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 12,
+            "rowNumber": 11,
+            "txJuradoCompetencia": "CAJAMARCA",
+            "txCodExpedienteExt": "ERM.2022028346",
+            "feRegistro": "04/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTRAS PETICIONES CONTRA PRONUNCIAMIENTOS DEL JNE / JEE",
+            "txResponsable": "MYRIAM VIDAL",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 176835,
+            "idExpedientePadre": 174173,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CAJAMARCA",
+            "partes": [
+                {
+                    "txNombresApellidos": "NILBERTO CHUQUIRUNA DIAZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 12,
+            "rowNumber": 12,
+            "txJuradoCompetencia": "CAJAMARCA",
+            "txCodExpedienteExt": "ERM.2022040591",
+            "feRegistro": "04/09/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "JOSE ABEL BOÑON",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 189646,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CAJAMARCA",
+            "partes": [
+                {
+                    "txNombresApellidos": "NILBERTO CHUQUIRUNA DIAZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JUAN CARLOS RODRIGUEZ HUAMAN",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 2.0,
+    "count": 5.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 2,
+            "totalRows": 5,
             "rowNumber": 1,
             "txJuradoCompetencia": "LIMA SUR 1",
             "txCodExpedienteExt": "ERM.2022020212",
@@ -13,8 +13,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
             "txResponsable": "GIULIANA MILAGROS CARRASCO",
-            "txEtapa": "ASIGNACION",
-            "txEstado": "ASIGNADO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168484,
             "idExpedientePadre": 155718,
             "txImportancia": "NO MEDIÁTICO",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 2,
+            "totalRows": 5,
             "rowNumber": 2,
             "txJuradoCompetencia": "LIMA SUR 1",
             "txCodExpedienteExt": "ERM.2022020254",
@@ -38,8 +38,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "TACHA DE CANDIDATO",
             "txResponsable": "GIULIANA MILAGROS CARRASCO",
-            "txEtapa": "ASIGNACION",
-            "txEstado": "ASIGNADO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168513,
             "idExpedientePadre": 155718,
             "txImportancia": "NO MEDIÁTICO",
@@ -48,6 +48,96 @@
             "partes": [
                 {
                     "txNombresApellidos": "VICTOR HUGO QUIJADA TACURI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JUAN CARLOS GONZALES HIDALGO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "LIMA SUR 1",
+            "txCodExpedienteExt": "ERM.2022024042",
+            "feRegistro": "19/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "GIULIANA MILAGROS CARRASCO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 172442,
+            "idExpedientePadre": 155718,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA SUR 1",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN CARLOS GONZALES HIDALGO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "KEVIN STEVE CASTILLO ROJAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "LIMA SUR 1",
+            "txCodExpedienteExt": "ERM.2022024706",
+            "feRegistro": "21/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "GIULIANA MILAGROS CARRASCO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 173126,
+            "idExpedientePadre": 155718,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA SUR 1",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN CARLOS GONZALES HIDALGO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 5,
+            "txJuradoCompetencia": "LIMA SUR 1",
+            "txCodExpedienteExt": "ERM.2022034090",
+            "feRegistro": "14/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "GIULIANA MILAGROS CARRASCO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 182681,
+            "idExpedientePadre": 155718,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA SUR 1",
+            "partes": [
+                {
+                    "txNombresApellidos": "MARCO ANTONIO LUCAS AGUIRRE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JUAN CARLOS GONZALES HIDALGO",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

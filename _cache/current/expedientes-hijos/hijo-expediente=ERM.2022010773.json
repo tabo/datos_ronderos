@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 5.0,
+    "count": 16.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 5,
+            "totalRows": 16,
             "rowNumber": 1,
             "txJuradoCompetencia": "HUARAZ",
             "txCodExpedienteExt": "ERM.2022005243",
@@ -40,7 +40,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 16,
             "rowNumber": 2,
             "txJuradoCompetencia": "RECUAY",
             "txCodExpedienteExt": "ERM.2022005271",
@@ -70,7 +70,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 16,
             "rowNumber": 3,
             "txJuradoCompetencia": "HUARAZ",
             "txCodExpedienteExt": "ERM.2022010258",
@@ -78,8 +78,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "MIRIAM JOHAN BARRETO",
-            "txEtapa": "PRONUNCIAMIENTO",
-            "txEstado": "EN PRONUNCIAMIENTO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
             "idExpediente": 158005,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -100,7 +100,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 16,
             "rowNumber": 4,
             "txJuradoCompetencia": "BOLOGNESI",
             "txCodExpedienteExt": "ERM.2022017841",
@@ -125,21 +125,296 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 16,
             "rowNumber": 5,
             "txJuradoCompetencia": "RECUAY",
             "txCodExpedienteExt": "ERM.2022018806",
             "feRegistro": "22/06/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": " ",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "MARIA MARLENY ACEVEDO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 166974,
             "idExpedientePadre": 158550,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "RECUAY",
+            "partes": [
+                {
+                    "txNombresApellidos": "GIELDY YAMELI GONZALES COLLAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 16,
+            "rowNumber": 6,
+            "txJuradoCompetencia": "HUARAZ",
+            "txCodExpedienteExt": "ERM.2022021465",
+            "feRegistro": "08/07/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTROS",
+            "txResponsable": "MIRIAM JOHAN BARRETO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 169781,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUARAZ",
+            "partes": [
+                {
+                    "txNombresApellidos": "GIELDY YAMELI GONZALES COLLAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 16,
+            "rowNumber": 7,
+            "txJuradoCompetencia": "HUARAZ",
+            "txCodExpedienteExt": "ERM.2022026583",
+            "feRegistro": "31/07/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTROS",
+            "txResponsable": "MIRIAM JOHAN BARRETO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 175064,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUARAZ",
+            "partes": [
+                {
+                    "txNombresApellidos": "GIELDY YAMELI GONZALES COLLAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 16,
+            "rowNumber": 8,
+            "txJuradoCompetencia": "HUARAZ",
+            "txCodExpedienteExt": "ERM.2022027909",
+            "feRegistro": "03/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTROS",
+            "txResponsable": "MIRIAM JOHAN BARRETO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 176412,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUARAZ",
+            "partes": [
+                {
+                    "txNombresApellidos": "GIELDY YAMELI GONZALES COLLAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 16,
+            "rowNumber": 9,
+            "txJuradoCompetencia": "HUARAZ",
+            "txCodExpedienteExt": "ERM.2022027908",
+            "feRegistro": "03/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTROS",
+            "txResponsable": "MIRIAM JOHAN BARRETO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 176418,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUARAZ",
+            "partes": [
+                {
+                    "txNombresApellidos": "GIELDY YAMELI GONZALES COLLAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 16,
+            "rowNumber": 10,
+            "txJuradoCompetencia": "HUARAZ",
+            "txCodExpedienteExt": "ERM.2022027910",
+            "feRegistro": "03/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTROS",
+            "txResponsable": "MIRIAM JOHAN BARRETO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 176419,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUARAZ",
+            "partes": [
+                {
+                    "txNombresApellidos": "GIELDY YAMELI GONZALES COLLAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 16,
+            "rowNumber": 11,
+            "txJuradoCompetencia": "HUARAZ",
+            "txCodExpedienteExt": "ERM.2022027911",
+            "feRegistro": "03/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTROS",
+            "txResponsable": "MIRIAM JOHAN BARRETO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 176420,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUARAZ",
+            "partes": [
+                {
+                    "txNombresApellidos": "GIELDY YAMELI GONZALES COLLAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 16,
+            "rowNumber": 12,
+            "txJuradoCompetencia": "HUARAZ",
+            "txCodExpedienteExt": "ERM.2022030095",
+            "feRegistro": "08/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTRAS PETICIONES CONTRA PRONUNCIAMIENTOS DEL JNE / JEE",
+            "txResponsable": "MIRIAM JOHAN BARRETO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 178638,
+            "idExpedientePadre": 172370,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUARAZ",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN SILVA HUERTAS,",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 16,
+            "rowNumber": 13,
+            "txJuradoCompetencia": "RECUAY",
+            "txCodExpedienteExt": "ERM.2022030524",
+            "feRegistro": "09/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "VITALIANO ORLANDO COSCO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 179063,
+            "idExpedientePadre": 158550,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "RECUAY",
+            "partes": [
+                {
+                    "txNombresApellidos": "GIELDY YAMELI GONZALES COLLAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 16,
+            "rowNumber": 14,
+            "txJuradoCompetencia": "HUARAZ",
+            "txCodExpedienteExt": "ERM.2022034619",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "MIRIAM JOHAN BARRETO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 183209,
+            "idExpedientePadre": 158005,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUARAZ",
+            "partes": [
+                {
+                    "txNombresApellidos": "GIELDY YAMELI GONZALES COLLAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 16,
+            "rowNumber": 15,
+            "txJuradoCompetencia": "HUARAZ",
+            "txCodExpedienteExt": "ERM.2022034648",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "MIRIAM JOHAN BARRETO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183259,
+            "idExpedientePadre": 157198,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUARAZ",
+            "partes": [
+                {
+                    "txNombresApellidos": "GIELDY YAMELI GONZALES COLLAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 16,
+            "rowNumber": 16,
+            "txJuradoCompetencia": "HUARAZ",
+            "txCodExpedienteExt": "ERM.2022039796",
+            "feRegistro": "30/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "ARNALDO YNCA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 188570,
+            "idExpedientePadre": 175064,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUARAZ",
             "partes": [
                 {
                     "txNombresApellidos": "GIELDY YAMELI GONZALES COLLAS",

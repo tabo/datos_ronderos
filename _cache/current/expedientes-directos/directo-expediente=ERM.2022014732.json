@@ -1,20 +1,20 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 1.0,
+    "count": 4.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 1,
+            "totalRows": 4,
             "rowNumber": 1,
             "txJuradoCompetencia": "TRUJILLO",
             "txCodExpedienteExt": "ERM.2022020715",
             "feRegistro": "04/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "TEOFILA AMELIA HERNÁNDEZ",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "GLADYS EULITA ESPINOZA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168991,
             "idExpedientePadre": 162731,
             "txImportancia": "NO MEDIÁTICO",
@@ -23,6 +23,86 @@
             "partes": [
                 {
                     "txNombresApellidos": "ALEXIS BRYAN ATENCIO DIAZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022028452",
+            "feRegistro": "04/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "TACHA DE LISTA",
+            "txResponsable": "GLADYS EULITA ESPINOZA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176978,
+            "idExpedientePadre": 162731,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "TANIA JACKELINE SOLANO PASACHE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022028862",
+            "feRegistro": "05/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "TACHA DE LISTA",
+            "txResponsable": "GLADYS EULITA ESPINOZA",
+            "txEtapa": "PRONUNCIAMIENTO",
+            "txEstado": "EN FIRMAS",
+            "idExpediente": 177377,
+            "idExpedientePadre": 162731,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ALEXIS BRYAN ATENCIO DIAZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "NATHALY ANTHOANET RODRIGUEZ ALFARO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022028881",
+            "feRegistro": "05/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "TACHA DE CANDIDATO",
+            "txResponsable": "GLADYS EULITA ESPINOZA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 177408,
+            "idExpedientePadre": 162731,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "NATHALY ANTHOANET RODRIGUEZ ALFARO",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

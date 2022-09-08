@@ -12,7 +12,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "47656150",
             "nombreCompleto": "MARGOD PEREZ JARATA",
-            "estado": "INADMISIBLE",
+            "estado": "IMPROCEDENTE",
             "idOrganizacionPolitica": 2218.0,
             "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
             "numeroCandidato": 0.0,
@@ -22,7 +22,8 @@
             "postulaDistrito": "AYAPATA",
             "cargo": [
                 "ALCALDE DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 203655.0,
@@ -32,7 +33,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "40362515",
             "nombreCompleto": "GODOFREDO GONZALES QUISPE",
-            "estado": "INADMISIBLE",
+            "estado": "IMPROCEDENTE",
             "idOrganizacionPolitica": 2218.0,
             "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
             "numeroCandidato": 1.0,
@@ -42,67 +43,8 @@
             "postulaDistrito": "AYAPATA",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 203657.0,
-            "feNacimiento": "1982-02-23T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "42359852",
-            "nombreCompleto": "ZENON MILQUE CACERES CONDORI",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2218.0,
-            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
-            "numeroCandidato": 3.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/203657.jpg",
-            "postulaDepartamento": "PUNO",
-            "postulaProvincia": "CARABAYA",
-            "postulaDistrito": "AYAPATA",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 203658.0,
-            "feNacimiento": "1997-02-07T00:00:00",
-            "txSexo": "F",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "71984055",
-            "nombreCompleto": "VANESA MOLLO LAURAMARCA",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2218.0,
-            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
-            "numeroCandidato": 4.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/203658.jpg",
-            "postulaDepartamento": "PUNO",
-            "postulaProvincia": "CARABAYA",
-            "postulaDistrito": "AYAPATA",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 203659.0,
-            "feNacimiento": "1969-10-30T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "01699001",
-            "nombreCompleto": "DEMESIO APOCOSI HUAMAN",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2218.0,
-            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
-            "numeroCandidato": 5.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/203659.jpg",
-            "postulaDepartamento": "PUNO",
-            "postulaProvincia": "CARABAYA",
-            "postulaDistrito": "AYAPATA",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 242359.0,
@@ -112,7 +54,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "72120675",
             "nombreCompleto": "MARIELA MARIZA FUENTES CHOQUE",
-            "estado": "INADMISIBLE",
+            "estado": "IMPROCEDENTE",
             "idOrganizacionPolitica": 2218.0,
             "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
             "numeroCandidato": 2.0,
@@ -122,7 +64,71 @@
             "postulaDistrito": "AYAPATA",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 203657.0,
+            "feNacimiento": "1982-02-23T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "42359852",
+            "nombreCompleto": "ZENON MILQUE CACERES CONDORI",
+            "estado": "IMPROCEDENTE",
+            "idOrganizacionPolitica": 2218.0,
+            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "numeroCandidato": 3.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/203657.jpg",
+            "postulaDepartamento": "PUNO",
+            "postulaProvincia": "CARABAYA",
+            "postulaDistrito": "AYAPATA",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 203658.0,
+            "feNacimiento": "1997-02-07T00:00:00",
+            "txSexo": "F",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "71984055",
+            "nombreCompleto": "VANESA MOLLO LAURAMARCA",
+            "estado": "IMPROCEDENTE",
+            "idOrganizacionPolitica": 2218.0,
+            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "numeroCandidato": 4.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/203658.jpg",
+            "postulaDepartamento": "PUNO",
+            "postulaProvincia": "CARABAYA",
+            "postulaDistrito": "AYAPATA",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 203659.0,
+            "feNacimiento": "1969-10-30T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "01699001",
+            "nombreCompleto": "DEMESIO APOCOSI HUAMAN",
+            "estado": "IMPROCEDENTE",
+            "idOrganizacionPolitica": 2218.0,
+            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "numeroCandidato": 5.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/203659.jpg",
+            "postulaDepartamento": "PUNO",
+            "postulaProvincia": "CARABAYA",
+            "postulaDistrito": "AYAPATA",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
         }
     ],
     "totalPages": 0

@@ -1,21 +1,46 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 1.0,
+    "count": 2.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 1,
+            "totalRows": 2,
             "rowNumber": 1,
             "txJuradoCompetencia": "PIURA",
             "txCodExpedienteExt": "ERM.2022020539",
             "feRegistro": "03/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "LUCIO ARMANDO GONZALES",
+            "txResponsable": "PIERINA HAYDEE RODRIGUEZ",
+            "txEtapa": "PRONUNCIAMIENTO",
+            "txEstado": "EN FIRMAS",
+            "idExpediente": 168820,
+            "idExpedientePadre": 163077,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PIURA",
+            "partes": [
+                {
+                    "txNombresApellidos": "ANGELICA MARIA CHORRES VILLEGAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 2,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "PIURA",
+            "txCodExpedienteExt": "ERM.2022031727",
+            "feRegistro": "10/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "LUIS ALBERTO JAIR CORDOVA",
             "txEtapa": "RESUELTO",
             "txEstado": "RESUELTO",
-            "idExpediente": 168820,
+            "idExpediente": 180283,
             "idExpedientePadre": 163077,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",

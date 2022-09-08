@@ -12,7 +12,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "41080045",
             "nombreCompleto": "WEIMAR VALENTINO YUPANQUI HUAMAN",
-            "estado": "ADMITIDO",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 1264.0,
             "organizacionPolitica": "JUNTOS POR EL PERU",
             "numeroCandidato": 0.0,
@@ -22,7 +22,8 @@
             "postulaDistrito": "CAMANTI",
             "cargo": [
                 "ALCALDE DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 175379.0,
@@ -32,7 +33,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "43038072",
             "nombreCompleto": "MARIELA PRADA MOSQUEIRA",
-            "estado": "ADMITIDO",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 1264.0,
             "organizacionPolitica": "JUNTOS POR EL PERU",
             "numeroCandidato": 1.0,
@@ -42,7 +43,8 @@
             "postulaDistrito": "CAMANTI",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 175380.0,
@@ -62,47 +64,8 @@
             "postulaDistrito": "CAMANTI",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 175382.0,
-            "feNacimiento": "1963-07-01T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "24964373",
-            "nombreCompleto": "LEONIDAS AIMA LAUREL",
-            "estado": "ADMITIDO",
-            "idOrganizacionPolitica": 1264.0,
-            "organizacionPolitica": "JUNTOS POR EL PERU",
-            "numeroCandidato": 4.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/175382.jpg",
-            "postulaDepartamento": "CUSCO",
-            "postulaProvincia": "QUISPICANCHI",
-            "postulaDistrito": "CAMANTI",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 175383.0,
-            "feNacimiento": "1998-06-11T00:00:00",
-            "txSexo": "F",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "74355953",
-            "nombreCompleto": "SHEYLA SOLAN QUISPE AGUILAR",
-            "estado": "ADMITIDO",
-            "idOrganizacionPolitica": 1264.0,
-            "organizacionPolitica": "JUNTOS POR EL PERU",
-            "numeroCandidato": 5.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/175383.jpg",
-            "postulaDepartamento": "CUSCO",
-            "postulaProvincia": "QUISPICANCHI",
-            "postulaDistrito": "CAMANTI",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 241784.0,
@@ -112,7 +75,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "47956144",
             "nombreCompleto": "ROSMERY ALVAREZ HUALLPA",
-            "estado": "ADMITIDO",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 1264.0,
             "organizacionPolitica": "JUNTOS POR EL PERU",
             "numeroCandidato": 3.0,
@@ -122,7 +85,50 @@
             "postulaDistrito": "CAMANTI",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 175382.0,
+            "feNacimiento": "1963-07-01T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "24964373",
+            "nombreCompleto": "LEONIDAS AIMA LAUREL",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 1264.0,
+            "organizacionPolitica": "JUNTOS POR EL PERU",
+            "numeroCandidato": 4.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/175382.jpg",
+            "postulaDepartamento": "CUSCO",
+            "postulaProvincia": "QUISPICANCHI",
+            "postulaDistrito": "CAMANTI",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 175383.0,
+            "feNacimiento": "1998-06-11T00:00:00",
+            "txSexo": "F",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "74355953",
+            "nombreCompleto": "SHEYLA SOLAN QUISPE AGUILAR",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 1264.0,
+            "organizacionPolitica": "JUNTOS POR EL PERU",
+            "numeroCandidato": 5.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/175383.jpg",
+            "postulaDepartamento": "CUSCO",
+            "postulaProvincia": "QUISPICANCHI",
+            "postulaDistrito": "CAMANTI",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
         }
     ],
     "totalPages": 0

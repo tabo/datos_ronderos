@@ -1,18 +1,18 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 2.0,
+    "count": 3.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 2,
+            "totalRows": 3,
             "rowNumber": 1,
             "txJuradoCompetencia": "LIMA CENTRO",
             "txCodExpedienteExt": "ERM.2022019332",
             "feRegistro": "26/06/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "TACHA DE CANDIDATO",
-            "txResponsable": "LUIS ANGEL CABOSMALON",
+            "txResponsable": "DENISSE ASTRID DIAZ",
             "txEtapa": "RESUELTO",
             "txEstado": "RESUELTO",
             "idExpediente": 167551,
@@ -30,16 +30,16 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 2,
+            "totalRows": 3,
             "rowNumber": 2,
             "txJuradoCompetencia": "LIMA CENTRO",
             "txCodExpedienteExt": "ERM.2022019343",
             "feRegistro": "26/06/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "TACHA DE LISTA",
-            "txResponsable": "LUIS ANGEL CABOSMALON",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "DANIEL FRANCISCO VEGA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 167570,
             "idExpedientePadre": 160579,
             "txImportancia": "NO MEDIÁTICO",
@@ -48,6 +48,41 @@
             "partes": [
                 {
                     "txNombresApellidos": "NICANOR ALVARADO GUZMAN",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "LIMA CENTRO",
+            "txCodExpedienteExt": "ERM.2022034876",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "GIANCARLO CANO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183485,
+            "idExpedientePadre": 160579,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA CENTRO",
+            "partes": [
+                {
+                    "txNombresApellidos": "DIANA LUISA ACEVEDO MARTINEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JOSE MERCEDES AMAYA DEDIOS,",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JOSE LUIS AUSEJO SANCHEZ",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

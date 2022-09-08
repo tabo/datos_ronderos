@@ -12,7 +12,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "00516096",
             "nombreCompleto": "SERGIO ROQUE MAQUERA",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2702.0,
             "organizacionPolitica": "MOVIMIENTO DE INTEGRACION Y REVOLUCION ANDINA",
             "numeroCandidato": 0.0,
@@ -22,7 +22,8 @@
             "postulaDistrito": null,
             "cargo": [
                 "ALCALDE PROVINCIAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 229741.0,
@@ -32,7 +33,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "74086327",
             "nombreCompleto": "WILBER HERNAN QUISPE QUISO",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2702.0,
             "organizacionPolitica": "MOVIMIENTO DE INTEGRACION Y REVOLUCION ANDINA",
             "numeroCandidato": 1.0,
@@ -42,7 +43,8 @@
             "postulaDistrito": null,
             "cargo": [
                 "REGIDOR PROVINCIAL"
-            ]
+            ],
+            "nativo": "SI"
         },
         {
             "idHojaVida": 229742.0,
@@ -52,7 +54,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "42001904",
             "nombreCompleto": "MARIA MAGDALENA FLORES MAMANI",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2702.0,
             "organizacionPolitica": "MOVIMIENTO DE INTEGRACION Y REVOLUCION ANDINA",
             "numeroCandidato": 2.0,
@@ -62,7 +64,8 @@
             "postulaDistrito": null,
             "cargo": [
                 "REGIDOR PROVINCIAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 229743.0,
@@ -72,7 +75,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "01865009",
             "nombreCompleto": "SAMUEL TICONA CRUZ",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2702.0,
             "organizacionPolitica": "MOVIMIENTO DE INTEGRACION Y REVOLUCION ANDINA",
             "numeroCandidato": 3.0,
@@ -82,47 +85,8 @@
             "postulaDistrito": null,
             "cargo": [
                 "REGIDOR PROVINCIAL"
-            ]
-        },
-        {
-            "idHojaVida": 229744.0,
-            "feNacimiento": "1992-03-27T00:00:00",
-            "txSexo": "F",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "47014478",
-            "nombreCompleto": "NORMA YENE MACHACA LUPACA",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2702.0,
-            "organizacionPolitica": "MOVIMIENTO DE INTEGRACION Y REVOLUCION ANDINA",
-            "numeroCandidato": 6.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/229744.jpg",
-            "postulaDepartamento": "PUNO",
-            "postulaProvincia": "EL COLLAO",
-            "postulaDistrito": null,
-            "cargo": [
-                "REGIDOR PROVINCIAL"
-            ]
-        },
-        {
-            "idHojaVida": 229745.0,
-            "feNacimiento": "1996-02-12T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "76525145",
-            "nombreCompleto": "JUAN ALBERTO NAVARRO JAYO",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2702.0,
-            "organizacionPolitica": "MOVIMIENTO DE INTEGRACION Y REVOLUCION ANDINA",
-            "numeroCandidato": 5.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/229745.jpg",
-            "postulaDepartamento": "PUNO",
-            "postulaProvincia": "EL COLLAO",
-            "postulaDistrito": null,
-            "cargo": [
-                "REGIDOR PROVINCIAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 229746.0,
@@ -132,7 +96,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "44027388",
             "nombreCompleto": "NILDA MARITZA MAMANI MAMANI",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2702.0,
             "organizacionPolitica": "MOVIMIENTO DE INTEGRACION Y REVOLUCION ANDINA",
             "numeroCandidato": 4.0,
@@ -142,7 +106,50 @@
             "postulaDistrito": null,
             "cargo": [
                 "REGIDOR PROVINCIAL"
-            ]
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 229745.0,
+            "feNacimiento": "1996-02-12T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "76525145",
+            "nombreCompleto": "JUAN ALBERTO NAVARRO JAYO",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2702.0,
+            "organizacionPolitica": "MOVIMIENTO DE INTEGRACION Y REVOLUCION ANDINA",
+            "numeroCandidato": 5.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/229745.jpg",
+            "postulaDepartamento": "PUNO",
+            "postulaProvincia": "EL COLLAO",
+            "postulaDistrito": null,
+            "cargo": [
+                "REGIDOR PROVINCIAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 229744.0,
+            "feNacimiento": "1992-03-27T00:00:00",
+            "txSexo": "F",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "47014478",
+            "nombreCompleto": "NORMA YENE MACHACA LUPACA",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2702.0,
+            "organizacionPolitica": "MOVIMIENTO DE INTEGRACION Y REVOLUCION ANDINA",
+            "numeroCandidato": 6.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/229744.jpg",
+            "postulaDepartamento": "PUNO",
+            "postulaProvincia": "EL COLLAO",
+            "postulaDistrito": null,
+            "cargo": [
+                "REGIDOR PROVINCIAL"
+            ],
+            "nativo": "SI"
         },
         {
             "idHojaVida": 229747.0,
@@ -152,7 +159,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "43420356",
             "nombreCompleto": "JOSE LUIS CACASACA JACINTO",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2702.0,
             "organizacionPolitica": "MOVIMIENTO DE INTEGRACION Y REVOLUCION ANDINA",
             "numeroCandidato": 7.0,
@@ -162,27 +169,8 @@
             "postulaDistrito": null,
             "cargo": [
                 "REGIDOR PROVINCIAL"
-            ]
-        },
-        {
-            "idHojaVida": 242030.0,
-            "feNacimiento": "1989-02-28T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "45575557",
-            "nombreCompleto": "WILBER PILCO FLORES",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2702.0,
-            "organizacionPolitica": "MOVIMIENTO DE INTEGRACION Y REVOLUCION ANDINA",
-            "numeroCandidato": 9.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/242030.jpg",
-            "postulaDepartamento": "PUNO",
-            "postulaProvincia": "EL COLLAO",
-            "postulaDistrito": null,
-            "cargo": [
-                "REGIDOR PROVINCIAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 242033.0,
@@ -192,7 +180,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "41182298",
             "nombreCompleto": "FRANCISCA BEATRIZ HUAYCANI RAMIREZ",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2702.0,
             "organizacionPolitica": "MOVIMIENTO DE INTEGRACION Y REVOLUCION ANDINA",
             "numeroCandidato": 8.0,
@@ -202,7 +190,29 @@
             "postulaDistrito": null,
             "cargo": [
                 "REGIDOR PROVINCIAL"
-            ]
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 242030.0,
+            "feNacimiento": "1989-02-28T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "45575557",
+            "nombreCompleto": "WILBER PILCO FLORES",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2702.0,
+            "organizacionPolitica": "MOVIMIENTO DE INTEGRACION Y REVOLUCION ANDINA",
+            "numeroCandidato": 9.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/242030.jpg",
+            "postulaDepartamento": "PUNO",
+            "postulaProvincia": "EL COLLAO",
+            "postulaDistrito": null,
+            "cargo": [
+                "REGIDOR PROVINCIAL"
+            ],
+            "nativo": "NO"
         }
     ],
     "totalPages": 0

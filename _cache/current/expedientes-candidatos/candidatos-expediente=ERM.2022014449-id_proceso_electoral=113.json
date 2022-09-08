@@ -12,7 +12,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "42069133",
             "nombreCompleto": "EUCLIDES HUAMAN ALBORNOZ",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2730.0,
             "organizacionPolitica": "MOVIMIENTO INDEPENDIENTE REGIONAL MI BUEN VECINO",
             "numeroCandidato": 0.0,
@@ -22,7 +22,8 @@
             "postulaDistrito": "RONDOS",
             "cargo": [
                 "ALCALDE DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 216763.0,
@@ -32,7 +33,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "22742207",
             "nombreCompleto": "TEODORO PORTAL CARRILLO",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2730.0,
             "organizacionPolitica": "MOVIMIENTO INDEPENDIENTE REGIONAL MI BUEN VECINO",
             "numeroCandidato": 1.0,
@@ -42,47 +43,8 @@
             "postulaDistrito": "RONDOS",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 216766.0,
-            "feNacimiento": "1971-01-08T00:00:00",
-            "txSexo": "F",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "22702972",
-            "nombreCompleto": "LUCILA JUIPA CAJALEON",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2730.0,
-            "organizacionPolitica": "MOVIMIENTO INDEPENDIENTE REGIONAL MI BUEN VECINO",
-            "numeroCandidato": 4.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/216766.jpg",
-            "postulaDepartamento": "HUANUCO",
-            "postulaProvincia": "LAURICOCHA",
-            "postulaDistrito": "RONDOS",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 216767.0,
-            "feNacimiento": "1998-12-09T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "62930140",
-            "nombreCompleto": "GRIMALDO PUJAY QUIROZ",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2730.0,
-            "organizacionPolitica": "MOVIMIENTO INDEPENDIENTE REGIONAL MI BUEN VECINO",
-            "numeroCandidato": 5.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/216767.jpg",
-            "postulaDepartamento": "HUANUCO",
-            "postulaProvincia": "LAURICOCHA",
-            "postulaDistrito": "RONDOS",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 240547.0,
@@ -92,7 +54,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "71630891",
             "nombreCompleto": "YULY MEDALIZ CARRILLO ALBORNOZ",
-            "estado": "INADMISIBLE",
+            "estado": "IMPROCEDENTE",
             "idOrganizacionPolitica": 2730.0,
             "organizacionPolitica": "MOVIMIENTO INDEPENDIENTE REGIONAL MI BUEN VECINO",
             "numeroCandidato": 2.0,
@@ -102,7 +64,8 @@
             "postulaDistrito": "RONDOS",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 240548.0,
@@ -112,7 +75,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "44005664",
             "nombreCompleto": "LOLIN RONALD MENDOZA HILARIO",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2730.0,
             "organizacionPolitica": "MOVIMIENTO INDEPENDIENTE REGIONAL MI BUEN VECINO",
             "numeroCandidato": 3.0,
@@ -122,7 +85,50 @@
             "postulaDistrito": "RONDOS",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 216766.0,
+            "feNacimiento": "1971-01-08T00:00:00",
+            "txSexo": "F",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "22702972",
+            "nombreCompleto": "LUCILA JUIPA CAJALEON",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2730.0,
+            "organizacionPolitica": "MOVIMIENTO INDEPENDIENTE REGIONAL MI BUEN VECINO",
+            "numeroCandidato": 4.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/216766.jpg",
+            "postulaDepartamento": "HUANUCO",
+            "postulaProvincia": "LAURICOCHA",
+            "postulaDistrito": "RONDOS",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 216767.0,
+            "feNacimiento": "1998-12-09T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "62930140",
+            "nombreCompleto": "GRIMALDO PUJAY QUIROZ",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2730.0,
+            "organizacionPolitica": "MOVIMIENTO INDEPENDIENTE REGIONAL MI BUEN VECINO",
+            "numeroCandidato": 5.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/216767.jpg",
+            "postulaDepartamento": "HUANUCO",
+            "postulaProvincia": "LAURICOCHA",
+            "postulaDistrito": "RONDOS",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
         }
     ],
     "totalPages": 0

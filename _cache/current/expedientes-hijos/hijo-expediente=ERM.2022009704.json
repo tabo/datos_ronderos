@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 4.0,
+    "count": 6.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 4,
+            "totalRows": 6,
             "rowNumber": 1,
             "txJuradoCompetencia": "LIMA ESTE 2",
             "txCodExpedienteExt": "ERM.2022005635",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 4,
+            "totalRows": 6,
             "rowNumber": 2,
             "txJuradoCompetencia": "LIMA ESTE 2",
             "txCodExpedienteExt": "ERM.2022009208",
@@ -55,7 +55,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 4,
+            "totalRows": 6,
             "rowNumber": 3,
             "txJuradoCompetencia": "LIMA ESTE 2",
             "txCodExpedienteExt": "ERM.2022009465",
@@ -63,8 +63,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "KAREN SURIKO VILLACORTA",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 157135,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -80,14 +80,14 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 4,
+            "totalRows": 6,
             "rowNumber": 4,
             "txJuradoCompetencia": "LIMA ESTE 2",
             "txCodExpedienteExt": "ERM.2022020001",
             "feRegistro": "30/06/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "GABRIELA XIMENA GUZMAN",
+            "txResponsable": " ",
             "txEtapa": "ESTUDIO",
             "txEstado": "EN TRÁMITE",
             "idExpediente": 168271,
@@ -96,6 +96,61 @@
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "LIMA ESTE 2",
             "partes": [
+                {
+                    "txNombresApellidos": "MARILYN KATTY CRUZ CHACMANA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 6,
+            "rowNumber": 5,
+            "txJuradoCompetencia": "LIMA ESTE 2",
+            "txCodExpedienteExt": "ERM.2022027493",
+            "feRegistro": "02/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTRAS PETICIONES CONTRA PRONUNCIAMIENTOS DEL JNE / JEE",
+            "txResponsable": "GABRIELA XIMENA GUZMAN",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 175975,
+            "idExpedientePadre": 168271,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA ESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "MARILYN KATTY CRUZ CHACMANA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 6,
+            "rowNumber": 6,
+            "txJuradoCompetencia": "LIMA ESTE 2",
+            "txCodExpedienteExt": "ERM.2022037922",
+            "feRegistro": "21/08/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "HERBERT RAUL ORE",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 186576,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA ESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "ELMER DAVID GUTIERREZ VILLARREAL",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
                 {
                     "txNombresApellidos": "MARILYN KATTY CRUZ CHACMANA",
                     "idPersonalJurado": null,

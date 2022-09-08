@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 2.0,
+    "count": 5.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 2,
+            "totalRows": 5,
             "rowNumber": 1,
             "txJuradoCompetencia": "QUISPICANCHI",
             "txCodExpedienteExt": "ERM.2022019154",
@@ -20,20 +20,26 @@
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "QUISPICANCHI",
-            "partes": [],
+            "partes": [
+                {
+                    "txNombresApellidos": "FRANCK DANNY RAURAU VARGAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 2,
+            "totalRows": 5,
             "rowNumber": 2,
             "txJuradoCompetencia": "QUISPICANCHI",
             "txCodExpedienteExt": "ERM.2022020916",
             "feRegistro": "05/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "BALDOMERO ROBERTO CHAVEZ",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "OMAR LADRON DE GUEVARA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 169192,
             "idExpedientePadre": 161254,
             "txImportancia": "NO MEDIÁTICO",
@@ -42,6 +48,96 @@
             "partes": [
                 {
                     "txNombresApellidos": "FRANCK DANNY RAURAU VARGAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "QUISPICANCHI",
+            "txCodExpedienteExt": "ERM.2022035176",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "OMAR LADRON DE GUEVARA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183786,
+            "idExpedientePadre": 161254,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "QUISPICANCHI",
+            "partes": [
+                {
+                    "txNombresApellidos": "FRANCK DANNY RAURAU VARGAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "YUDI HUAMAN ZANABRIA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "QUISPICANCHI",
+            "txCodExpedienteExt": "ERM.2022036500",
+            "feRegistro": "17/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "OMAR LADRON DE GUEVARA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 185128,
+            "idExpedientePadre": 161254,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "QUISPICANCHI",
+            "partes": [
+                {
+                    "txNombresApellidos": "FRANCK DANNY RAURAU VARGAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "YUDI HUAMAN ZANABRIA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 5,
+            "txJuradoCompetencia": "QUISPICANCHI",
+            "txCodExpedienteExt": "ERM.2022036585",
+            "feRegistro": "17/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "OMAR LADRON DE GUEVARA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 185223,
+            "idExpedientePadre": 161254,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "QUISPICANCHI",
+            "partes": [
+                {
+                    "txNombresApellidos": "FRANCK DANNY RAURAU VARGAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "YUDI HUAMAN ZANABRIA",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

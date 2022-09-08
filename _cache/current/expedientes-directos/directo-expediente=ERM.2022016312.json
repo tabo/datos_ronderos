@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 1.0,
+    "count": 3.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 1,
+            "totalRows": 3,
             "rowNumber": 1,
             "txJuradoCompetencia": "QUISPICANCHI",
             "txCodExpedienteExt": "ERM.2022019276",
@@ -13,14 +13,74 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
             "txResponsable": "JESSICA ALVAREZ",
-            "txEtapa": "ASIGNACION",
-            "txEstado": "ASIGNADO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 167494,
             "idExpedientePadre": 164386,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "QUISPICANCHI",
             "partes": [
+                {
+                    "txNombresApellidos": "ANDERSON CHAMPI CASTILLO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "QUISPICANCHI",
+            "txCodExpedienteExt": "ERM.2022029209",
+            "feRegistro": "06/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JESSICA ALVAREZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 177734,
+            "idExpedientePadre": 164386,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "QUISPICANCHI",
+            "partes": [
+                {
+                    "txNombresApellidos": "ANDERSON CHAMPI CASTILLO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "YUDI HUAMAN ZANABRIA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "QUISPICANCHI",
+            "txCodExpedienteExt": "ERM.2022036568",
+            "feRegistro": "17/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JESSICA ALVAREZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 185197,
+            "idExpedientePadre": 164386,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "QUISPICANCHI",
+            "partes": [
+                {
+                    "txNombresApellidos": "YUDI HUAMAN ZANABRIA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
                 {
                     "txNombresApellidos": "ANDERSON CHAMPI CASTILLO",
                     "idPersonalJurado": null,

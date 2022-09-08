@@ -1,20 +1,20 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 1.0,
+    "count": 3.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 1,
+            "totalRows": 3,
             "rowNumber": 1,
             "txJuradoCompetencia": "QUISPICANCHI",
             "txCodExpedienteExt": "ERM.2022020227",
             "feRegistro": "02/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "BIANI MARYSELY MARTINEZ",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "JESSICA ALVAREZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168491,
             "idExpedientePadre": 164887,
             "txImportancia": "NO MEDIÁTICO",
@@ -23,6 +23,66 @@
             "partes": [
                 {
                     "txNombresApellidos": "EVELIN CLAUDIA PACHECO GALLEGOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "QUISPICANCHI",
+            "txCodExpedienteExt": "ERM.2022031675",
+            "feRegistro": "10/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JESSICA ALVAREZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 180237,
+            "idExpedientePadre": 164887,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "QUISPICANCHI",
+            "partes": [
+                {
+                    "txNombresApellidos": "EVELIN CLAUDIA PACHECO GALLEGOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "YUDI HUAMAN ZANABRIA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "QUISPICANCHI",
+            "txCodExpedienteExt": "ERM.2022033332",
+            "feRegistro": "13/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JESSICA ALVAREZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 181914,
+            "idExpedientePadre": 164887,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "QUISPICANCHI",
+            "partes": [
+                {
+                    "txNombresApellidos": "EVELIN CLAUDIA PACHECO GALLEGOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "YUDI HUAMAN ZANABRIA",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

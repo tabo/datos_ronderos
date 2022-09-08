@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 3.0,
+    "count": 19.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 3,
+            "totalRows": 19,
             "rowNumber": 1,
             "txJuradoCompetencia": "LIMA OESTE 2",
             "txCodExpedienteExt": "ERM.2022010771",
@@ -13,8 +13,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "BETZABETH MARGORIE AROHUANCA",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 158559,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 3,
+            "totalRows": 19,
             "rowNumber": 2,
             "txJuradoCompetencia": "LIMA OESTE 2",
             "txCodExpedienteExt": "ERM.2022010840",
@@ -38,8 +38,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "BETZABETH MARGORIE AROHUANCA",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 158625,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -55,7 +55,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 3,
+            "totalRows": 19,
             "rowNumber": 3,
             "txJuradoCompetencia": "LIMA OESTE 2",
             "txCodExpedienteExt": "ERM.2022010871",
@@ -63,9 +63,414 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "BETZABETH MARGORIE AROHUANCA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 158658,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE CARLOS GARAY LOPEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022022771",
+            "feRegistro": "14/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "BETZABETH MARGORIE AROHUANCA",
             "txEtapa": "ESTUDIO",
             "txEstado": "A LA ESPERA DE INFORMACIÓN",
-            "idExpediente": 158658,
+            "idExpediente": 171151,
+            "idExpedientePadre": 158658,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE CARLOS GARAY LOPEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 5,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022022780",
+            "feRegistro": "14/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "BETZABETH MARGORIE AROHUANCA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 171160,
+            "idExpedientePadre": 158658,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE CARLOS GARAY LOPEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 6,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022026277",
+            "feRegistro": "29/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "BETZABETH MARGORIE AROHUANCA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 174751,
+            "idExpedientePadre": 158625,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE CARLOS GARAY LOPEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 7,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022026401",
+            "feRegistro": "30/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "BETZABETH MARGORIE AROHUANCA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 174883,
+            "idExpedientePadre": 158625,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE CARLOS GARAY LOPEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 8,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022026410",
+            "feRegistro": "30/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "BETZABETH MARGORIE AROHUANCA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 174903,
+            "idExpedientePadre": 158602,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE CARLOS GARAY LOPEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 9,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022026654",
+            "feRegistro": "31/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "BETZABETH MARGORIE AROHUANCA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 175140,
+            "idExpedientePadre": 158658,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE CARLOS GARAY LOPEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 10,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022027314",
+            "feRegistro": "02/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "BETZABETH MARGORIE AROHUANCA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 175804,
+            "idExpedientePadre": 158559,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE CARLOS GARAY LOPEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 11,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022030760",
+            "feRegistro": "09/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "BETZABETH MARGORIE AROHUANCA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 179295,
+            "idExpedientePadre": 158658,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE CARLOS GARAY LOPEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 12,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022031260",
+            "feRegistro": "10/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "BETZABETH MARGORIE AROHUANCA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 179796,
+            "idExpedientePadre": 158625,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE CARLOS GARAY LOPEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 13,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022032131",
+            "feRegistro": "11/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "BETZABETH MARGORIE AROHUANCA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 180702,
+            "idExpedientePadre": 158559,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE CARLOS GARAY LOPEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 14,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022034245",
+            "feRegistro": "14/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "BETZABETH MARGORIE AROHUANCA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 182843,
+            "idExpedientePadre": 175140,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE CARLOS GARAY LOPEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 15,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022035151",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "BETZABETH MARGORIE AROHUANCA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183764,
+            "idExpedientePadre": 179796,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE CARLOS GARAY LOPEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 16,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022037120",
+            "feRegistro": "19/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "BETZABETH MARGORIE AROHUANCA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 185769,
+            "idExpedientePadre": 180702,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE CARLOS GARAY LOPEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "FERNANDO LUIS ARIAS STELLA CASTILLO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 17,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022040580",
+            "feRegistro": "03/09/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "BETZABETH MARGORIE AROHUANCA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 189622,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE CARLOS GARAY LOPEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 18,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022040581",
+            "feRegistro": "03/09/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "BETZABETH MARGORIE AROHUANCA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 189641,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE CARLOS GARAY LOPEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 19,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022040582",
+            "feRegistro": "03/09/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "BETZABETH MARGORIE AROHUANCA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 189642,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",

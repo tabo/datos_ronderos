@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 6.0,
+    "count": 9.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 6,
+            "totalRows": 9,
             "rowNumber": 1,
             "txJuradoCompetencia": "JAEN",
             "txCodExpedienteExt": "ERM.2022009163",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 9,
             "rowNumber": 2,
             "txJuradoCompetencia": "JAEN",
             "txCodExpedienteExt": "ERM.2022009406",
@@ -55,7 +55,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 9,
             "rowNumber": 3,
             "txJuradoCompetencia": "JAEN",
             "txCodExpedienteExt": "ERM.2022009733",
@@ -80,7 +80,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 9,
             "rowNumber": 4,
             "txJuradoCompetencia": "JAEN",
             "txCodExpedienteExt": "ERM.2022009770",
@@ -100,12 +100,17 @@
                     "txNombresApellidos": "MARIA MAGDALENA HUAMAN HERNANDEZ",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "AMERICO IGNACIO RUIZ VILLAVERDE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
                 }
             ],
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 9,
             "rowNumber": 5,
             "txJuradoCompetencia": "JAEN",
             "txCodExpedienteExt": "ERM.2022013588",
@@ -130,18 +135,93 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 9,
             "rowNumber": 6,
             "txJuradoCompetencia": "JAEN",
             "txCodExpedienteExt": "ERM.2022021815",
             "feRegistro": "10/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "MILTON ALEX HIDALGO",
+            "txResponsable": "AMELIA BAZAN",
             "txEtapa": "ESTUDIO",
             "txEstado": "EN TRÁMITE",
             "idExpediente": 170146,
             "idExpedientePadre": 157493,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "JAEN",
+            "partes": [
+                {
+                    "txNombresApellidos": "MARIA MAGDALENA HUAMAN HERNANDEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 9,
+            "rowNumber": 7,
+            "txJuradoCompetencia": "JAEN",
+            "txCodExpedienteExt": "ERM.2022034467",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "AMELIA BAZAN",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 183065,
+            "idExpedientePadre": 161528,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "JAEN",
+            "partes": [
+                {
+                    "txNombresApellidos": "MARIA MAGDALENA HUAMAN HERNANDEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 9,
+            "rowNumber": 8,
+            "txJuradoCompetencia": "JAEN",
+            "txCodExpedienteExt": "ERM.2022034478",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "AMELIA BAZAN",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 183079,
+            "idExpedientePadre": 157493,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "JAEN",
+            "partes": [
+                {
+                    "txNombresApellidos": "MARIA MAGDALENA HUAMAN HERNANDEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 9,
+            "rowNumber": 9,
+            "txJuradoCompetencia": "JAEN",
+            "txCodExpedienteExt": "ERM.2022038237",
+            "feRegistro": "22/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "AMELIA BAZAN",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 186919,
+            "idExpedientePadre": 183065,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "JAEN",

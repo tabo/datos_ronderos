@@ -1,20 +1,20 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 1.0,
+    "count": 4.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 1,
+            "totalRows": 4,
             "rowNumber": 1,
             "txJuradoCompetencia": "LIMA OESTE 2",
             "txCodExpedienteExt": "ERM.2022019514",
             "feRegistro": "28/06/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "ALONSO MANUEL ENCARNACION",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "MIGUEL ANGEL ARROYO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 167759,
             "idExpedientePadre": 154577,
             "txImportancia": "NO MEDIÁTICO",
@@ -22,7 +22,97 @@
             "txJuradoCreacion": "LIMA OESTE 2",
             "partes": [
                 {
-                    "txNombresApellidos": "JOSE MERCEDES AMAYA DEDIOS",
+                    "txNombresApellidos": "JOSE MERCEDES AMAYA DEDIOS,",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022024602",
+            "feRegistro": "21/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "MIGUEL ANGEL ARROYO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 173022,
+            "idExpedientePadre": 154577,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE MERCEDES AMAYA DEDIOS,",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022029065",
+            "feRegistro": "06/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "TACHA DE CANDIDATO",
+            "txResponsable": "MIGUEL ANGEL ARROYO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 177587,
+            "idExpedientePadre": 154577,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE WUILLAN MENA NAUCA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JOSE MERCEDES AMAYA DEDIOS,",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "LUIS MANUEL VALDIVIA GARATE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022030043",
+            "feRegistro": "08/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "TACHA DE CANDIDATO",
+            "txResponsable": "MIGUEL ANGEL ARROYO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 178573,
+            "idExpedientePadre": 154577,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE MERCEDES AMAYA DEDIOS,",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "LUIS MANUEL VALDIVIA GARATE",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

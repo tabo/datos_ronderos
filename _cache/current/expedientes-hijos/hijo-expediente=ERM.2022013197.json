@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 2.0,
+    "count": 3.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 2,
+            "totalRows": 3,
             "rowNumber": 1,
             "txJuradoCompetencia": "SAN ANTONIO DE PUTINA",
             "txCodExpedienteExt": "ERM.2022008026",
@@ -13,8 +13,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "BETSY KARINA GUTIERREZ",
-            "txEtapa": "PRONUNCIAMIENTO",
-            "txEstado": "EN FIRMAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 155651,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -30,17 +30,42 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 2,
+            "totalRows": 3,
             "rowNumber": 2,
             "txJuradoCompetencia": "PUNO",
             "txCodExpedienteExt": "ERM.2022020736",
             "feRegistro": "04/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "BIANI MARYSELY MARTINEZ",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "RUBI MARIBEL CABRERA",
+            "txEtapa": "PRONUNCIAMIENTO",
+            "txEstado": "EN PRONUNCIAMIENTO",
             "idExpediente": 169005,
+            "idExpedientePadre": 161116,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PUNO",
+            "partes": [
+                {
+                    "txNombresApellidos": "CORINA LUCANA MAMANI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "PUNO",
+            "txCodExpedienteExt": "ERM.2022038526",
+            "feRegistro": "24/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTRAS PETICIONES CONTRA PRONUNCIAMIENTOS DEL JNE / JEE",
+            "txResponsable": "BIANI MARYSELY MARTINEZ",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 187212,
             "idExpedientePadre": 161116,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",

@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 3.0,
+    "count": 6.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 3,
+            "totalRows": 6,
             "rowNumber": 1,
             "txJuradoCompetencia": "LIMA NORTE 1",
             "txCodExpedienteExt": "ERM.2022019596",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 3,
+            "totalRows": 6,
             "rowNumber": 2,
             "txJuradoCompetencia": "LIMA NORTE 1",
             "txCodExpedienteExt": "ERM.2022020087",
@@ -60,7 +60,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 3,
+            "totalRows": 6,
             "rowNumber": 3,
             "txJuradoCompetencia": "LIMA NORTE 1",
             "txCodExpedienteExt": "ERM.2022020702",
@@ -83,6 +83,81 @@
                 },
                 {
                     "txNombresApellidos": "JORGE MANUEL BRAVO MOLINA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 6,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "LIMA NORTE 1",
+            "txCodExpedienteExt": "ERM.2022034789",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "YLMER YENY CAJAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183391,
+            "idExpedientePadre": 156318,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 1",
+            "partes": [
+                {
+                    "txNombresApellidos": "ALEXIS BRYAN ATENCIO DIAZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 6,
+            "rowNumber": 5,
+            "txJuradoCompetencia": "LIMA NORTE 1",
+            "txCodExpedienteExt": "ERM.2022034822",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "YLMER YENY CAJAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183431,
+            "idExpedientePadre": 156318,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 1",
+            "partes": [
+                {
+                    "txNombresApellidos": "ALEXIS BRYAN ATENCIO DIAZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 6,
+            "rowNumber": 6,
+            "txJuradoCompetencia": "LIMA NORTE 1",
+            "txCodExpedienteExt": "ERM.2022036415",
+            "feRegistro": "17/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "YLMER YENY CAJAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 185032,
+            "idExpedientePadre": 156318,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 1",
+            "partes": [
+                {
+                    "txNombresApellidos": "ALEXIS BRYAN ATENCIO DIAZ",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

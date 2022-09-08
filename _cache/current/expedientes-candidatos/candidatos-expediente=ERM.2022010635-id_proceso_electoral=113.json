@@ -12,7 +12,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "40120890",
             "nombreCompleto": "LUIS IVAN CRUZ PUMA",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2218.0,
             "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
             "numeroCandidato": 0.0,
@@ -22,7 +22,8 @@
             "postulaDistrito": "CHALLHUAHUACHO",
             "cargo": [
                 "ALCALDE DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 212401.0,
@@ -32,7 +33,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "44697921",
             "nombreCompleto": "GREGORIO ROJAS PANIURA",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2218.0,
             "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
             "numeroCandidato": 1.0,
@@ -42,7 +43,8 @@
             "postulaDistrito": "CHALLHUAHUACHO",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 212402.0,
@@ -52,7 +54,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "70362927",
             "nombreCompleto": "MARGOT ESCUDERO CONTRERAS",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2218.0,
             "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
             "numeroCandidato": 2.0,
@@ -62,47 +64,8 @@
             "postulaDistrito": "CHALLHUAHUACHO",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 212404.0,
-            "feNacimiento": "1975-05-08T00:00:00",
-            "txSexo": "F",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "80623016",
-            "nombreCompleto": "PORFIRIA ENCALADA YUCA DE MUÑOZ",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2218.0,
-            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
-            "numeroCandidato": 4.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/212404.jpg",
-            "postulaDepartamento": "APURIMAC",
-            "postulaProvincia": "COTABAMBAS",
-            "postulaDistrito": "CHALLHUAHUACHO",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 212405.0,
-            "feNacimiento": "1980-10-23T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "40784947",
-            "nombreCompleto": "CIPRIAN SAMA LIMA",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2218.0,
-            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
-            "numeroCandidato": 5.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/212405.jpg",
-            "postulaDepartamento": "APURIMAC",
-            "postulaProvincia": "COTABAMBAS",
-            "postulaDistrito": "CHALLHUAHUACHO",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 242641.0,
@@ -112,7 +75,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "76394187",
             "nombreCompleto": "DANIEL MALDONADO ALEJANDRO",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2218.0,
             "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
             "numeroCandidato": 3.0,
@@ -122,7 +85,50 @@
             "postulaDistrito": "CHALLHUAHUACHO",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 212404.0,
+            "feNacimiento": "1975-05-08T00:00:00",
+            "txSexo": "F",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "80623016",
+            "nombreCompleto": "PORFIRIA ENCALADA YUCA DE MUÑOZ",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2218.0,
+            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "numeroCandidato": 4.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/212404.jpg",
+            "postulaDepartamento": "APURIMAC",
+            "postulaProvincia": "COTABAMBAS",
+            "postulaDistrito": "CHALLHUAHUACHO",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 212405.0,
+            "feNacimiento": "1980-10-23T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "40784947",
+            "nombreCompleto": "CIPRIAN SAMA LIMA",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2218.0,
+            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "numeroCandidato": 5.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/212405.jpg",
+            "postulaDepartamento": "APURIMAC",
+            "postulaProvincia": "COTABAMBAS",
+            "postulaDistrito": "CHALLHUAHUACHO",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
         }
     ],
     "totalPages": 0

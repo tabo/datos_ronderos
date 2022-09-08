@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 3.0,
+    "count": 5.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 3,
+            "totalRows": 5,
             "rowNumber": 1,
             "txJuradoCompetencia": "SULLANA",
             "txCodExpedienteExt": "ERM.2022017915",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 3,
+            "totalRows": 5,
             "rowNumber": 2,
             "txJuradoCompetencia": "SULLANA",
             "txCodExpedienteExt": "ERM.2022018075",
@@ -55,7 +55,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 3,
+            "totalRows": 5,
             "rowNumber": 3,
             "txJuradoCompetencia": "SULLANA",
             "txCodExpedienteExt": "ERM.2022018069",
@@ -63,10 +63,60 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "CARLOS ALBERTO ULLILEN",
-            "txEtapa": "RESUELTO",
-            "txEstado": "RESUELTO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "A LA ESPERA DE INFORMACIÓN",
             "idExpediente": 166218,
             "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "SULLANA",
+            "partes": [
+                {
+                    "txNombresApellidos": "MARTIN CARLOS ALBERTO MORALES REQUENA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "SULLANA",
+            "txCodExpedienteExt": "ERM.2022022917",
+            "feRegistro": "14/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "CARLOS ALBERTO ULLILEN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 171304,
+            "idExpedientePadre": 166214,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "SULLANA",
+            "partes": [
+                {
+                    "txNombresApellidos": "MARTIN CARLOS ALBERTO MORALES REQUENA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 5,
+            "txJuradoCompetencia": "SULLANA",
+            "txCodExpedienteExt": "ERM.2022028329",
+            "feRegistro": "04/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTRAS PETICIONES CONTRA PRONUNCIAMIENTOS DEL JNE / JEE",
+            "txResponsable": "ANGELICA MARIA GRANDE ",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "idExpediente": 176847,
+            "idExpedientePadre": 171304,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "SULLANA",

@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 5.0,
+    "count": 12.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 5,
+            "totalRows": 12,
             "rowNumber": 1,
             "txJuradoCompetencia": "CALLAO",
             "txCodExpedienteExt": "ERM.2022017699",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 12,
             "rowNumber": 2,
             "txJuradoCompetencia": "CALLAO",
             "txCodExpedienteExt": "ERM.2022017786",
@@ -38,8 +38,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "KATYA PAMELA GALINDO",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 165929,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -55,7 +55,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 12,
             "rowNumber": 3,
             "txJuradoCompetencia": "CALLAO",
             "txCodExpedienteExt": "ERM.2022017787",
@@ -63,8 +63,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "KATYA PAMELA GALINDO",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 165930,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -80,7 +80,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 12,
             "rowNumber": 4,
             "txJuradoCompetencia": "CALLAO",
             "txCodExpedienteExt": "ERM.2022018396",
@@ -88,8 +88,8 @@
             "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
             "txMateria": "OTROS",
             "txResponsable": "KATYA PAMELA GALINDO",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 166540,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -105,18 +105,193 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 12,
             "rowNumber": 5,
             "txJuradoCompetencia": "CALLAO",
             "txCodExpedienteExt": "ERM.2022019251",
             "feRegistro": "25/06/2022",
             "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "HELDER ELVIS BLANCO",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "KATYA PAMELA GALINDO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 167474,
             "idExpedientePadre": 166540,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CALLAO",
+            "partes": [
+                {
+                    "txNombresApellidos": "SUSANA LUCY CUEVA DIAZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 12,
+            "rowNumber": 6,
+            "txJuradoCompetencia": "CALLAO",
+            "txCodExpedienteExt": "ERM.2022026016",
+            "feRegistro": "28/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "KATYA PAMELA GALINDO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 174497,
+            "idExpedientePadre": 166140,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CALLAO",
+            "partes": [
+                {
+                    "txNombresApellidos": "SUSANA LUCY CUEVA DIAZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 12,
+            "rowNumber": 7,
+            "txJuradoCompetencia": "CALLAO",
+            "txCodExpedienteExt": "ERM.2022026023",
+            "feRegistro": "28/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "KATYA PAMELA GALINDO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 174502,
+            "idExpedientePadre": 166140,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CALLAO",
+            "partes": [
+                {
+                    "txNombresApellidos": "SUSANA LUCY CUEVA DIAZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 12,
+            "rowNumber": 8,
+            "txJuradoCompetencia": "CALLAO",
+            "txCodExpedienteExt": "ERM.2022026035",
+            "feRegistro": "28/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "KATYA PAMELA GALINDO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 174526,
+            "idExpedientePadre": 165930,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CALLAO",
+            "partes": [
+                {
+                    "txNombresApellidos": "SUSANA LUCY CUEVA DIAZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 12,
+            "rowNumber": 9,
+            "txJuradoCompetencia": "CALLAO",
+            "txCodExpedienteExt": "ERM.2022026057",
+            "feRegistro": "28/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "KATYA PAMELA GALINDO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 174531,
+            "idExpedientePadre": 166140,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CALLAO",
+            "partes": [
+                {
+                    "txNombresApellidos": "SUSANA LUCY CUEVA DIAZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 12,
+            "rowNumber": 10,
+            "txJuradoCompetencia": "CALLAO",
+            "txCodExpedienteExt": "ERM.2022034797",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "KATYA PAMELA GALINDO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183395,
+            "idExpedientePadre": 165814,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CALLAO",
+            "partes": [
+                {
+                    "txNombresApellidos": "SUSANA LUCY CUEVA DIAZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 12,
+            "rowNumber": 11,
+            "txJuradoCompetencia": "CALLAO",
+            "txCodExpedienteExt": "ERM.2022035212",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "KATYA PAMELA GALINDO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183839,
+            "idExpedientePadre": 166140,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CALLAO",
+            "partes": [
+                {
+                    "txNombresApellidos": "SUSANA LUCY CUEVA DIAZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 12,
+            "rowNumber": 12,
+            "txJuradoCompetencia": "CALLAO",
+            "txCodExpedienteExt": "ERM.2022036818",
+            "feRegistro": "18/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "KATYA PAMELA GALINDO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 185448,
+            "idExpedientePadre": 165929,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "CALLAO",

@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 1.0,
+    "count": 5.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 1,
+            "totalRows": 5,
             "rowNumber": 1,
             "txJuradoCompetencia": "HUARI",
             "txCodExpedienteExt": "ERM.2022020450",
@@ -13,8 +13,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "TACHA DE CANDIDATO",
             "txResponsable": "CYNTIA MAGALY SANDOVAL",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168709,
             "idExpedientePadre": 156596,
             "txImportancia": "NO MEDIÁTICO",
@@ -23,6 +23,121 @@
             "partes": [
                 {
                     "txNombresApellidos": "MANUEL ALEJANDRO SALCEDO SOLORZANO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "HUARI",
+            "txCodExpedienteExt": "ERM.2022022689",
+            "feRegistro": "14/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "TACHA DE CANDIDATO",
+            "txResponsable": "CYNTIA MAGALY SANDOVAL",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 171063,
+            "idExpedientePadre": 156596,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUARI",
+            "partes": [
+                {
+                    "txNombresApellidos": "EDGAR GUIMARAY ASENCIOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "LUIS ALEJANDRO LOBATO GUTIERREZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "HUARI",
+            "txCodExpedienteExt": "ERM.2022024988",
+            "feRegistro": "23/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "TACHA DE CANDIDATO",
+            "txResponsable": "CYNTIA MAGALY SANDOVAL",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 173407,
+            "idExpedientePadre": 156596,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUARI",
+            "partes": [
+                {
+                    "txNombresApellidos": "FATIMA INES CERNA LOPEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "EDGAR GUIMARAY ASENCIOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "HUARI",
+            "txCodExpedienteExt": "ERM.2022034864",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "CYNTIA MAGALY SANDOVAL",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183471,
+            "idExpedientePadre": 156596,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUARI",
+            "partes": [
+                {
+                    "txNombresApellidos": "EDGAR GUIMARAY ASENCIOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 5,
+            "txJuradoCompetencia": "HUARI",
+            "txCodExpedienteExt": "ERM.2022035276",
+            "feRegistro": "16/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "CYNTIA MAGALY SANDOVAL",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183900,
+            "idExpedientePadre": 156596,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUARI",
+            "partes": [
+                {
+                    "txNombresApellidos": "BRIGITTE MIRELLA CHAVEZ VERAMENDI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "EDGAR GUIMARAY ASENCIOS",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

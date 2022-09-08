@@ -1,20 +1,20 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 1.0,
+    "count": 3.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 1,
+            "totalRows": 3,
             "rowNumber": 1,
             "txJuradoCompetencia": "CALLAO",
             "txCodExpedienteExt": "ERM.2022020762",
             "feRegistro": "04/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "TEOFILA AMELIA HERNÁNDEZ",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "KATYA PAMELA GALINDO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 169042,
             "idExpedientePadre": 165485,
             "txImportancia": "NO MEDIÁTICO",
@@ -22,7 +22,57 @@
             "txJuradoCreacion": "CALLAO",
             "partes": [
                 {
-                    "txNombresApellidos": "JUAN SILVA HUERTAS",
+                    "txNombresApellidos": "JUAN SILVA HUERTAS,",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "CALLAO",
+            "txCodExpedienteExt": "ERM.2022025977",
+            "feRegistro": "27/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "KATYA PAMELA GALINDO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 174469,
+            "idExpedientePadre": 165485,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CALLAO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN SILVA HUERTAS,",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "CALLAO",
+            "txCodExpedienteExt": "ERM.2022026040",
+            "feRegistro": "28/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "KATYA PAMELA GALINDO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 174512,
+            "idExpedientePadre": 165485,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CALLAO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN SILVA HUERTAS,",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

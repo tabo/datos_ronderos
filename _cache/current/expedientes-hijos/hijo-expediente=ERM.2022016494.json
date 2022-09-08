@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 5.0,
+    "count": 15.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 5,
+            "totalRows": 15,
             "rowNumber": 1,
             "txJuradoCompetencia": "UCAYALI",
             "txCodExpedienteExt": "ERM.2022005906",
@@ -45,7 +45,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 15,
             "rowNumber": 2,
             "txJuradoCompetencia": "UCAYALI",
             "txCodExpedienteExt": "ERM.2022011453",
@@ -53,8 +53,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "KAREN YADIRA ESPINOZA",
-            "txEtapa": "ASIGNACION",
-            "txEstado": "ASIGNADO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 159292,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -70,7 +70,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 15,
             "rowNumber": 3,
             "txJuradoCompetencia": "UCAYALI",
             "txCodExpedienteExt": "ERM.2022012820",
@@ -95,7 +95,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 15,
             "rowNumber": 4,
             "txJuradoCompetencia": "UCAYALI",
             "txCodExpedienteExt": "ERM.2022013718",
@@ -120,7 +120,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 15,
             "rowNumber": 5,
             "txJuradoCompetencia": "UCAYALI",
             "txCodExpedienteExt": "ERM.2022014612",
@@ -128,10 +128,270 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "KAREN YADIRA ESPINOZA",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 162619,
             "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "UCAYALI",
+            "partes": [
+                {
+                    "txNombresApellidos": "WINSTON ANTONY PEZO GARCIA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 15,
+            "rowNumber": 6,
+            "txJuradoCompetencia": "UCAYALI",
+            "txCodExpedienteExt": "ERM.2022029504",
+            "feRegistro": "07/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "KAREN YADIRA ESPINOZA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 178030,
+            "idExpedientePadre": 159292,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "UCAYALI",
+            "partes": [
+                {
+                    "txNombresApellidos": "WINSTON ANTONY PEZO GARCIA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 15,
+            "rowNumber": 7,
+            "txJuradoCompetencia": "UCAYALI",
+            "txCodExpedienteExt": "ERM.2022029505",
+            "feRegistro": "07/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "KAREN YADIRA ESPINOZA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 178031,
+            "idExpedientePadre": 162619,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "UCAYALI",
+            "partes": [
+                {
+                    "txNombresApellidos": "WINSTON ANTONY PEZO GARCIA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 15,
+            "rowNumber": 8,
+            "txJuradoCompetencia": "UCAYALI",
+            "txCodExpedienteExt": "ERM.2022029507",
+            "feRegistro": "07/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "FRANCO RAUL ARTURO NAVARRO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 178032,
+            "idExpedientePadre": 162619,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "UCAYALI",
+            "partes": [
+                {
+                    "txNombresApellidos": "WINSTON ANTONY PEZO GARCIA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 15,
+            "rowNumber": 9,
+            "txJuradoCompetencia": "UCAYALI",
+            "txCodExpedienteExt": "ERM.2022029512",
+            "feRegistro": "07/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "FRANCO RAUL ARTURO NAVARRO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 178033,
+            "idExpedientePadre": 159292,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "UCAYALI",
+            "partes": [
+                {
+                    "txNombresApellidos": "WINSTON ANTONY PEZO GARCIA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 15,
+            "rowNumber": 10,
+            "txJuradoCompetencia": "UCAYALI",
+            "txCodExpedienteExt": "ERM.2022029514",
+            "feRegistro": "07/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ESCARLE CABANILLAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 178035,
+            "idExpedientePadre": 162619,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "UCAYALI",
+            "partes": [
+                {
+                    "txNombresApellidos": "WINSTON ANTONY PEZO GARCIA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "WENDY PRISCILA ORBE FLORES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 15,
+            "rowNumber": 11,
+            "txJuradoCompetencia": "UCAYALI",
+            "txCodExpedienteExt": "ERM.2022029509",
+            "feRegistro": "07/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "FRANCO RAUL ARTURO NAVARRO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 178043,
+            "idExpedientePadre": 162619,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "UCAYALI",
+            "partes": [
+                {
+                    "txNombresApellidos": "WINSTON ANTONY PEZO GARCIA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 15,
+            "rowNumber": 12,
+            "txJuradoCompetencia": "UCAYALI",
+            "txCodExpedienteExt": "ERM.2022029511",
+            "feRegistro": "07/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "FRANCO RAUL ARTURO NAVARRO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 178045,
+            "idExpedientePadre": 160727,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "UCAYALI",
+            "partes": [
+                {
+                    "txNombresApellidos": "WINSTON ANTONY PEZO GARCIA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 15,
+            "rowNumber": 13,
+            "txJuradoCompetencia": "UCAYALI",
+            "txCodExpedienteExt": "ERM.2022029519",
+            "feRegistro": "07/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ESCARLE CABANILLAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 178047,
+            "idExpedientePadre": 160727,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "UCAYALI",
+            "partes": [
+                {
+                    "txNombresApellidos": "WINSTON ANTONY PEZO GARCIA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "WENDY PRISCILA ORBE FLORES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 15,
+            "rowNumber": 14,
+            "txJuradoCompetencia": "UCAYALI",
+            "txCodExpedienteExt": "ERM.2022035504",
+            "feRegistro": "16/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ESCARLE CABANILLAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 184123,
+            "idExpedientePadre": 162619,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "UCAYALI",
+            "partes": [
+                {
+                    "txNombresApellidos": "WINSTON ANTONY PEZO GARCIA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 15,
+            "rowNumber": 15,
+            "txJuradoCompetencia": "UCAYALI",
+            "txCodExpedienteExt": "ERM.2022035586",
+            "feRegistro": "16/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ESCARLE CABANILLAS",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "idExpediente": 184205,
+            "idExpedientePadre": 160727,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "UCAYALI",

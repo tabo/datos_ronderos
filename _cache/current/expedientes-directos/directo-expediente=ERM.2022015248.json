@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 2.0,
+    "count": 5.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 2,
+            "totalRows": 5,
             "rowNumber": 1,
             "txJuradoCompetencia": "LIMA OESTE 3",
             "txCodExpedienteExt": "ERM.2022018368",
@@ -30,17 +30,92 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 2,
+            "totalRows": 5,
             "rowNumber": 2,
             "txJuradoCompetencia": "LIMA OESTE 3",
             "txCodExpedienteExt": "ERM.2022019870",
             "feRegistro": "29/06/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "EDDA CECILIA SANCHEZ PACHAS",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": " ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168130,
+            "idExpedientePadre": 163253,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 3",
+            "partes": [
+                {
+                    "txNombresApellidos": "VICTOR JAVIER DIAZ ESPINOZA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "LIMA OESTE 3",
+            "txCodExpedienteExt": "ERM.2022022157",
+            "feRegistro": "11/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "FIORELLA STUCCHI",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 170507,
+            "idExpedientePadre": 163253,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 3",
+            "partes": [
+                {
+                    "txNombresApellidos": "VICTOR JAVIER DIAZ ESPINOZA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "LIMA OESTE 3",
+            "txCodExpedienteExt": "ERM.2022022463",
+            "feRegistro": "13/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "FIORELLA STUCCHI",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 170813,
+            "idExpedientePadre": 163253,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 3",
+            "partes": [
+                {
+                    "txNombresApellidos": "VICTOR JAVIER DIAZ ESPINOZA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 5,
+            "txJuradoCompetencia": "LIMA OESTE 3",
+            "txCodExpedienteExt": "ERM.2022022476",
+            "feRegistro": "13/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "FIORELLA STUCCHI",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 170831,
             "idExpedientePadre": 163253,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",

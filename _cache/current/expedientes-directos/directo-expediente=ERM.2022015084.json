@@ -1,20 +1,20 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 1.0,
+    "count": 2.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 1,
+            "totalRows": 2,
             "rowNumber": 1,
             "txJuradoCompetencia": "PIURA",
             "txCodExpedienteExt": "ERM.2022019159",
             "feRegistro": "24/06/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "JOCELYN ROCIO GUTARRA",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "ZAIRA DEL ROSARIO VILELA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 167389,
             "idExpedientePadre": 163102,
             "txImportancia": "NO MEDIÁTICO",
@@ -23,6 +23,36 @@
             "partes": [
                 {
                     "txNombresApellidos": "CYNTHIA FIORELA JIMENEZ VILCHERRES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 2,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "PIURA",
+            "txCodExpedienteExt": "ERM.2022035562",
+            "feRegistro": "16/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ZAIRA DEL ROSARIO VILELA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 184172,
+            "idExpedientePadre": 163102,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PIURA",
+            "partes": [
+                {
+                    "txNombresApellidos": "CYNTHIA FIORELA JIMENEZ VILCHERRES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JULISSA KATHERINE ULLOA URBINA",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

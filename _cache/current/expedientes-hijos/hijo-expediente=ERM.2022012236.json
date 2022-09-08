@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 6.0,
+    "count": 11.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 6,
+            "totalRows": 11,
             "rowNumber": 1,
             "txJuradoCompetencia": "TACNA",
             "txCodExpedienteExt": "ERM.2022006708",
@@ -13,8 +13,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "MARIA DE FATIMA GARCIA",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 154229,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 11,
             "rowNumber": 2,
             "txJuradoCompetencia": "TACNA",
             "txCodExpedienteExt": "ERM.2022006921",
@@ -39,7 +39,7 @@
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "MARIA DE FATIMA GARCIA",
             "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEstado": "A LA ESPERA DE INFORMACIÓN",
             "idExpediente": 154466,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -55,7 +55,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 11,
             "rowNumber": 3,
             "txJuradoCompetencia": "TACNA",
             "txCodExpedienteExt": "ERM.2022007016",
@@ -63,8 +63,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "MARIA DE FATIMA GARCIA",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 154561,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -80,7 +80,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 11,
             "rowNumber": 4,
             "txJuradoCompetencia": "TACNA",
             "txCodExpedienteExt": "ERM.2022007942",
@@ -88,8 +88,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "MARIA DE FATIMA GARCIA",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 155579,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -105,7 +105,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 11,
             "rowNumber": 5,
             "txJuradoCompetencia": "TACNA",
             "txCodExpedienteExt": "ERM.2022008532",
@@ -113,8 +113,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "MARIA DE FATIMA GARCIA",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 156206,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -130,7 +130,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 11,
             "rowNumber": 6,
             "txJuradoCompetencia": "TACNA",
             "txCodExpedienteExt": "ERM.2022019869",
@@ -138,8 +138,8 @@
             "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
             "txMateria": "OTROS",
             "txResponsable": "MARIA DE FATIMA GARCIA",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168101,
             "idExpedientePadre": 154561,
             "txImportancia": "NO MEDIÁTICO",
@@ -148,6 +148,161 @@
             "partes": [
                 {
                     "txNombresApellidos": "JONATHAN ERNESTO COLLANTES BRICEÑO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 11,
+            "rowNumber": 7,
+            "txJuradoCompetencia": "TACNA",
+            "txCodExpedienteExt": "ERM.2022021866",
+            "feRegistro": "10/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "TACHA DE CANDIDATO",
+            "txResponsable": "MARIA DE FATIMA GARCIA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 170194,
+            "idExpedientePadre": 156206,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TACNA",
+            "partes": [
+                {
+                    "txNombresApellidos": "JONATHAN ERNESTO COLLANTES BRICEÑO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "DIEGO OSWALDO ARAGON PANIAGUA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 11,
+            "rowNumber": 8,
+            "txJuradoCompetencia": "TACNA",
+            "txCodExpedienteExt": "ERM.2022022925",
+            "feRegistro": "14/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "TACHA DE CANDIDATO",
+            "txResponsable": "MARIA DE FATIMA GARCIA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 171289,
+            "idExpedientePadre": 156206,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TACNA",
+            "partes": [
+                {
+                    "txNombresApellidos": "SONIA MERCEDES FUENTES ZAPATA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JONATHAN ERNESTO COLLANTES BRICEÑO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 11,
+            "rowNumber": 9,
+            "txJuradoCompetencia": "TACNA",
+            "txCodExpedienteExt": "ERM.2022030894",
+            "feRegistro": "09/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "MARIA DE FATIMA GARCIA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 179413,
+            "idExpedientePadre": 170194,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TACNA",
+            "partes": [
+                {
+                    "txNombresApellidos": "DIEGO OSWALDO ARAGON PANIAGUA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "ALDO FABRIZIO BORRERO ROJAS,",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JONATHAN ERNESTO COLLANTES BRICEÑO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 11,
+            "rowNumber": 10,
+            "txJuradoCompetencia": "TACNA",
+            "txCodExpedienteExt": "ERM.2022031872",
+            "feRegistro": "10/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "MARIA DE FATIMA GARCIA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 180428,
+            "idExpedientePadre": 171289,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TACNA",
+            "partes": [
+                {
+                    "txNombresApellidos": "SONIA MERCEDES FUENTES ZAPATA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JONATHAN ERNESTO COLLANTES BRICEÑO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 11,
+            "rowNumber": 11,
+            "txJuradoCompetencia": "TACNA",
+            "txCodExpedienteExt": "ERM.2022034737",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "OTRAS PETICIONES CONTRA PRONUNCIAMIENTOS DEL JNE / JEE",
+            "txResponsable": "MARIA DE FATIMA GARCIA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183332,
+            "idExpedientePadre": 154466,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TACNA",
+            "partes": [
+                {
+                    "txNombresApellidos": "JONATHAN ERNESTO COLLANTES BRICEÑO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JACQUELIN VIDALINA HUARAHUARA ZARATE",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

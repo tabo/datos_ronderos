@@ -1,20 +1,20 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 1.0,
+    "count": 2.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 1,
+            "totalRows": 2,
             "rowNumber": 1,
             "txJuradoCompetencia": "HUAYTARA",
             "txCodExpedienteExt": "ERM.2022021232",
             "feRegistro": "07/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "MARILYN MIRCEA CALDERON",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "CESAR ANTONIO GAMEROS",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
             "idExpediente": 169531,
             "idExpedientePadre": 159334,
             "txImportancia": "NO MEDIÁTICO",
@@ -23,6 +23,41 @@
             "partes": [
                 {
                     "txNombresApellidos": "JAIME HUERTA TARAZONA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 2,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "HUAYTARA",
+            "txCodExpedienteExt": "ERM.2022033659",
+            "feRegistro": "13/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "CARMELITA IRENE ITURRI",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 182261,
+            "idExpedientePadre": 159334,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUAYTARA",
+            "partes": [
+                {
+                    "txNombresApellidos": "FERNANDO MULATO SANCHEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JAIME HUERTA TARAZONA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "ELIZABETH KARINA HERNANDEZ CASTILLO",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

@@ -13,14 +13,20 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
             "txResponsable": " ",
-            "txEtapa": "INICIO",
-            "txEstado": "REGISTRADO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
             "idExpediente": 169871,
             "idExpedientePadre": 166316,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "HUANUCO",
-            "partes": [],
+            "partes": [
+                {
+                    "txNombresApellidos": "OSCAR ALBERTO TOLEDO ALANIA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
             "tienePersonalJurado": false
         }
     ],

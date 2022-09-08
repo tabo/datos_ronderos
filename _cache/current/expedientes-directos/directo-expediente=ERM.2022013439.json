@@ -13,14 +13,20 @@
             "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
             "txMateria": "OTROS",
             "txResponsable": "RICHARD SAMUEL IPENZA",
-            "txEtapa": "PRONUNCIAMIENTO",
-            "txEstado": "EN PRONUNCIAMIENTO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168170,
             "idExpedientePadre": 161385,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "URUBAMBA",
-            "partes": [],
+            "partes": [
+                {
+                    "txNombresApellidos": "FRANCK DANNY RAURAU VARGAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
             "tienePersonalJurado": false
         }
     ],

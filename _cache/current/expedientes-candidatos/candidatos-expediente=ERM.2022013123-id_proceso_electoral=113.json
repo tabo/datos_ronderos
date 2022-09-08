@@ -12,7 +12,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "01851422",
             "nombreCompleto": "LAZARO PAYE QUISOCALA",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2218.0,
             "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
             "numeroCandidato": 0.0,
@@ -22,7 +22,8 @@
             "postulaDistrito": "OLLARAYA",
             "cargo": [
                 "ALCALDE DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 206201.0,
@@ -32,7 +33,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "01859093",
             "nombreCompleto": "ALFONSO CALDERON QUISPE",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2218.0,
             "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
             "numeroCandidato": 1.0,
@@ -42,67 +43,8 @@
             "postulaDistrito": "OLLARAYA",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 206203.0,
-            "feNacimiento": "1983-02-19T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "42205984",
-            "nombreCompleto": "DAVID ARUCUTIPA PAUCAR",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2218.0,
-            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
-            "numeroCandidato": 3.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/206203.jpg",
-            "postulaDepartamento": "PUNO",
-            "postulaProvincia": "YUNGUYO",
-            "postulaDistrito": "OLLARAYA",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 206204.0,
-            "feNacimiento": "1995-02-14T00:00:00",
-            "txSexo": "F",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "76818043",
-            "nombreCompleto": "ELIZABETH SARMIENTO ANCACHI",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2218.0,
-            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
-            "numeroCandidato": 4.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/206204.jpg",
-            "postulaDepartamento": "PUNO",
-            "postulaProvincia": "YUNGUYO",
-            "postulaDistrito": "OLLARAYA",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 206205.0,
-            "feNacimiento": "1977-12-30T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "10752213",
-            "nombreCompleto": "JUAN CARLOS OSCO CALIZAYA",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2218.0,
-            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
-            "numeroCandidato": 5.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/206205.jpg",
-            "postulaDepartamento": "PUNO",
-            "postulaProvincia": "YUNGUYO",
-            "postulaDistrito": "OLLARAYA",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 241325.0,
@@ -112,7 +54,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "42970176",
             "nombreCompleto": "YUDIT CAHUAYA MACHICADO",
-            "estado": "INADMISIBLE",
+            "estado": "IMPROCEDENTE",
             "idOrganizacionPolitica": 2218.0,
             "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
             "numeroCandidato": 2.0,
@@ -122,7 +64,71 @@
             "postulaDistrito": "OLLARAYA",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 206203.0,
+            "feNacimiento": "1983-02-19T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "42205984",
+            "nombreCompleto": "DAVID ARUCUTIPA PAUCAR",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2218.0,
+            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "numeroCandidato": 3.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/206203.jpg",
+            "postulaDepartamento": "PUNO",
+            "postulaProvincia": "YUNGUYO",
+            "postulaDistrito": "OLLARAYA",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 206204.0,
+            "feNacimiento": "1995-02-14T00:00:00",
+            "txSexo": "F",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "76818043",
+            "nombreCompleto": "ELIZABETH SARMIENTO ANCACHI",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2218.0,
+            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "numeroCandidato": 4.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/206204.jpg",
+            "postulaDepartamento": "PUNO",
+            "postulaProvincia": "YUNGUYO",
+            "postulaDistrito": "OLLARAYA",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 206205.0,
+            "feNacimiento": "1977-12-30T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "10752213",
+            "nombreCompleto": "JUAN CARLOS OSCO CALIZAYA",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2218.0,
+            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "numeroCandidato": 5.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/206205.jpg",
+            "postulaDepartamento": "PUNO",
+            "postulaProvincia": "YUNGUYO",
+            "postulaDistrito": "OLLARAYA",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
         }
     ],
     "totalPages": 0

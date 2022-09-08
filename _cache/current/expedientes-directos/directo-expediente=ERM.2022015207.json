@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 2.0,
+    "count": 3.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 2,
+            "totalRows": 3,
             "rowNumber": 1,
             "txJuradoCompetencia": "QUISPICANCHI",
             "txCodExpedienteExt": "ERM.2022020049",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 2,
+            "totalRows": 3,
             "rowNumber": 2,
             "txJuradoCompetencia": "QUISPICANCHI",
             "txCodExpedienteExt": "ERM.2022020477",
@@ -48,6 +48,36 @@
             "partes": [
                 {
                     "txNombresApellidos": "EVELIN CLAUDIA PACHECO GALLEGOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "QUISPICANCHI",
+            "txCodExpedienteExt": "ERM.2022022012",
+            "feRegistro": "11/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "OMAR LADRON DE GUEVARA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 170330,
+            "idExpedientePadre": 163235,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "QUISPICANCHI",
+            "partes": [
+                {
+                    "txNombresApellidos": "EVELIN CLAUDIA PACHECO GALLEGOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "YUDI HUAMAN ZANABRIA",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

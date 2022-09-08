@@ -12,7 +12,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "42316988",
             "nombreCompleto": "CHRISTIAN BLANCO VALDEZ",
-            "estado": "ADMITIDO",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 14.0,
             "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
             "numeroCandidato": 0.0,
@@ -22,7 +22,8 @@
             "postulaDistrito": "ACCHA",
             "cargo": [
                 "ALCALDE DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 206305.0,
@@ -32,7 +33,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "46673813",
             "nombreCompleto": "JULY YESELI SUAREZ VARGAS",
-            "estado": "ADMITIDO",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 14.0,
             "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
             "numeroCandidato": 1.0,
@@ -42,7 +43,8 @@
             "postulaDistrito": "ACCHA",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 206306.0,
@@ -52,7 +54,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "43614875",
             "nombreCompleto": "JAIME PORTILLA SALDIVAR",
-            "estado": "ADMITIDO",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 14.0,
             "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
             "numeroCandidato": 2.0,
@@ -62,47 +64,8 @@
             "postulaDistrito": "ACCHA",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 206308.0,
-            "feNacimiento": "1979-04-08T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "80087677",
-            "nombreCompleto": "JUSTINIANO MIRANDA VILLAVICENCIO",
-            "estado": "ADMITIDO",
-            "idOrganizacionPolitica": 14.0,
-            "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
-            "numeroCandidato": 4.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/206308.jpg",
-            "postulaDepartamento": "CUSCO",
-            "postulaProvincia": "PARURO",
-            "postulaDistrito": "ACCHA",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 206309.0,
-            "feNacimiento": "2000-06-06T00:00:00",
-            "txSexo": "F",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "75220421",
-            "nombreCompleto": "NIMIA CORAZON MESAHUANCA GONSAYO",
-            "estado": "ADMITIDO",
-            "idOrganizacionPolitica": 14.0,
-            "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
-            "numeroCandidato": 5.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/206309.jpg",
-            "postulaDepartamento": "CUSCO",
-            "postulaProvincia": "PARURO",
-            "postulaDistrito": "ACCHA",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 242335.0,
@@ -112,7 +75,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "23986308",
             "nombreCompleto": "GEORGINA NUÑEZ VEGA",
-            "estado": "ADMITIDO",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 14.0,
             "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
             "numeroCandidato": 3.0,
@@ -122,7 +85,50 @@
             "postulaDistrito": "ACCHA",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 206308.0,
+            "feNacimiento": "1979-04-08T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "80087677",
+            "nombreCompleto": "JUSTINIANO MIRANDA VILLAVICENCIO",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 14.0,
+            "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+            "numeroCandidato": 4.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/206308.jpg",
+            "postulaDepartamento": "CUSCO",
+            "postulaProvincia": "PARURO",
+            "postulaDistrito": "ACCHA",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 206309.0,
+            "feNacimiento": "2000-06-06T00:00:00",
+            "txSexo": "F",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "75220421",
+            "nombreCompleto": "NIMIA CORAZON MESAHUANCA GONSAYO",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 14.0,
+            "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+            "numeroCandidato": 5.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/206309.jpg",
+            "postulaDepartamento": "CUSCO",
+            "postulaProvincia": "PARURO",
+            "postulaDistrito": "ACCHA",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
         }
     ],
     "totalPages": 0

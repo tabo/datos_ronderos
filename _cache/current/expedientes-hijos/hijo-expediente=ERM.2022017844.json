@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 2.0,
+    "count": 7.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 2,
+            "totalRows": 7,
             "rowNumber": 1,
             "txJuradoCompetencia": "TAMBOPATA",
             "txCodExpedienteExt": "ERM.2022017838",
@@ -13,8 +13,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "CEFERINA ALANOCA",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 165969,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 2,
+            "totalRows": 7,
             "rowNumber": 2,
             "txJuradoCompetencia": "TAMBOPATA",
             "txCodExpedienteExt": "ERM.2022017869",
@@ -38,10 +38,135 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "HECTOR CONDORI",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 166002,
             "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TAMBOPATA",
+            "partes": [
+                {
+                    "txNombresApellidos": "CRIZLY LEILA BELTRAN AGUIRRE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 7,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "TAMBOPATA",
+            "txCodExpedienteExt": "ERM.2022023482",
+            "feRegistro": "16/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "HECTOR CONDORI",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 171884,
+            "idExpedientePadre": 166002,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TAMBOPATA",
+            "partes": [
+                {
+                    "txNombresApellidos": "CRIZLY LEILA BELTRAN AGUIRRE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 7,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "TAMBOPATA",
+            "txCodExpedienteExt": "ERM.2022023483",
+            "feRegistro": "16/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "HECTOR CONDORI",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 171885,
+            "idExpedientePadre": 165981,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TAMBOPATA",
+            "partes": [
+                {
+                    "txNombresApellidos": "CRIZLY LEILA BELTRAN AGUIRRE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 7,
+            "rowNumber": 5,
+            "txJuradoCompetencia": "TAMBOPATA",
+            "txCodExpedienteExt": "ERM.2022023754",
+            "feRegistro": "18/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "CEFERINA ALANOCA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 172159,
+            "idExpedientePadre": 165969,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TAMBOPATA",
+            "partes": [
+                {
+                    "txNombresApellidos": "CRIZLY LEILA BELTRAN AGUIRRE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 7,
+            "rowNumber": 6,
+            "txJuradoCompetencia": "TAMBOPATA",
+            "txCodExpedienteExt": "ERM.2022035014",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "HECTOR CONDORI",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183617,
+            "idExpedientePadre": 165981,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TAMBOPATA",
+            "partes": [
+                {
+                    "txNombresApellidos": "CRIZLY LEILA BELTRAN AGUIRRE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 7,
+            "rowNumber": 7,
+            "txJuradoCompetencia": "TAMBOPATA",
+            "txCodExpedienteExt": "ERM.2022037811",
+            "feRegistro": "21/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "HECTOR CONDORI",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 186489,
+            "idExpedientePadre": 183617,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "TAMBOPATA",

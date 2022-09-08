@@ -1,20 +1,20 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 4.0,
+    "count": 10.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 4,
+            "totalRows": 10,
             "rowNumber": 1,
             "txJuradoCompetencia": "SANTA",
             "txCodExpedienteExt": "ERM.2022010357",
             "feRegistro": "15/06/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
-            "txResponsable": "KATHERIN MORENO",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "EDER JHON ESTRADA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 158094,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -30,16 +30,16 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 4,
+            "totalRows": 10,
             "rowNumber": 2,
             "txJuradoCompetencia": "SANTA",
             "txCodExpedienteExt": "ERM.2022012535",
             "feRegistro": "16/06/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
-            "txResponsable": "KATHERIN MORENO",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "EDER JHON ESTRADA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 160447,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -55,16 +55,16 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 4,
+            "totalRows": 10,
             "rowNumber": 3,
             "txJuradoCompetencia": "SANTA",
             "txCodExpedienteExt": "ERM.2022012951",
             "feRegistro": "16/06/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
-            "txResponsable": "KATHERIN MORENO",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "EDER JHON ESTRADA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 160871,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -80,18 +80,178 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 4,
+            "totalRows": 10,
             "rowNumber": 4,
             "txJuradoCompetencia": "SANTA",
             "txCodExpedienteExt": "ERM.2022014654",
             "feRegistro": "16/06/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
-            "txResponsable": "KATHERIN MORENO",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "EDER JHON ESTRADA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 162656,
             "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "SANTA",
+            "partes": [
+                {
+                    "txNombresApellidos": "OSCAR ENRIQUE ZAVALETA SANCHEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 10,
+            "rowNumber": 5,
+            "txJuradoCompetencia": "SANTA",
+            "txCodExpedienteExt": "ERM.2022028938",
+            "feRegistro": "05/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "EDER JHON ESTRADA",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 177463,
+            "idExpedientePadre": 162046,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "SANTA",
+            "partes": [
+                {
+                    "txNombresApellidos": "OSCAR ENRIQUE ZAVALETA SANCHEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "LUISA CHAPA NARRO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 10,
+            "rowNumber": 6,
+            "txJuradoCompetencia": "SANTA",
+            "txCodExpedienteExt": "ERM.2022032910",
+            "feRegistro": "12/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "KAREN EDITH ZAVALETA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 181485,
+            "idExpedientePadre": 158094,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "SANTA",
+            "partes": [
+                {
+                    "txNombresApellidos": "OSCAR ENRIQUE ZAVALETA SANCHEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 10,
+            "rowNumber": 7,
+            "txJuradoCompetencia": "SANTA",
+            "txCodExpedienteExt": "ERM.2022032912",
+            "feRegistro": "12/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "EDER JHON ESTRADA",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 181503,
+            "idExpedientePadre": 158094,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "SANTA",
+            "partes": [
+                {
+                    "txNombresApellidos": "OSCAR ENRIQUE ZAVALETA SANCHEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "LUISA CHAPA NARRO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 10,
+            "rowNumber": 8,
+            "txJuradoCompetencia": "SANTA",
+            "txCodExpedienteExt": "ERM.2022033410",
+            "feRegistro": "13/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "KAREN EDITH ZAVALETA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 181992,
+            "idExpedientePadre": 162656,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "SANTA",
+            "partes": [
+                {
+                    "txNombresApellidos": "OSCAR ENRIQUE ZAVALETA SANCHEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 10,
+            "rowNumber": 9,
+            "txJuradoCompetencia": "SANTA",
+            "txCodExpedienteExt": "ERM.2022033589",
+            "feRegistro": "13/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "KATIA DEL PILAR CHAVEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 182186,
+            "idExpedientePadre": 158094,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "SANTA",
+            "partes": [
+                {
+                    "txNombresApellidos": "OSCAR ENRIQUE ZAVALETA SANCHEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 10,
+            "rowNumber": 10,
+            "txJuradoCompetencia": "SANTA",
+            "txCodExpedienteExt": "ERM.2022034443",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "EDER JHON ESTRADA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183035,
+            "idExpedientePadre": 162656,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "SANTA",

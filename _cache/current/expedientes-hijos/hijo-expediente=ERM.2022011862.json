@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 3.0,
+    "count": 5.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 3,
+            "totalRows": 5,
             "rowNumber": 1,
             "txJuradoCompetencia": "PACASMAYO",
             "txCodExpedienteExt": "ERM.2022018849",
@@ -30,16 +30,16 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 3,
+            "totalRows": 5,
             "rowNumber": 2,
             "txJuradoCompetencia": "PACASMAYO",
             "txCodExpedienteExt": "ERM.2022020756",
             "feRegistro": "04/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "ANGELICA MARIA GRANDE ",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "CECILIA ANGELICA GARCIA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 169039,
             "idExpedientePadre": 159741,
             "txImportancia": "NO MEDIÁTICO",
@@ -55,7 +55,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 3,
+            "totalRows": 5,
             "rowNumber": 3,
             "txJuradoCompetencia": "PACASMAYO",
             "txCodExpedienteExt": "ERM.2022021179",
@@ -73,6 +73,66 @@
             "partes": [
                 {
                     "txNombresApellidos": "ANGEL STING FLORES CAMPOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "PACASMAYO",
+            "txCodExpedienteExt": "ERM.2022039594",
+            "feRegistro": "28/08/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "YOSELINY PAMELA CARI",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 188370,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PACASMAYO",
+            "partes": [
+                {
+                    "txNombresApellidos": "CESAR RODOLFO MILLA MANAY",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "ANGEL STING FLORES CAMPOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 5,
+            "txJuradoCompetencia": "PACASMAYO",
+            "txCodExpedienteExt": "ERM.2022039915",
+            "feRegistro": "31/08/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "YOSELINY PAMELA CARI",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 188701,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PACASMAYO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ANGEL STING FLORES CAMPOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "CARLOS RAFAEL SANCHEZ GARCIA",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

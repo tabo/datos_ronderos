@@ -13,14 +13,20 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
             "txResponsable": " ",
-            "txEtapa": "INICIO",
-            "txEstado": "REGISTRADO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
             "idExpediente": 169876,
             "idExpedientePadre": 161798,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "HUANUCO",
-            "partes": [],
+            "partes": [
+                {
+                    "txNombresApellidos": "MARTIN FLORES JAVIER",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
             "tienePersonalJurado": false
         }
     ],

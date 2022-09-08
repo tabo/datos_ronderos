@@ -1,20 +1,20 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 1.0,
+    "count": 2.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 1,
+            "totalRows": 2,
             "rowNumber": 1,
             "txJuradoCompetencia": "LIMA OESTE 1",
             "txCodExpedienteExt": "ERM.2022020121",
             "feRegistro": "01/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "ANA MARIA VILLASANTE",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "LEYLA LISBETH MEDINA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168384,
             "idExpedientePadre": 156678,
             "txImportancia": "NO MEDIÁTICO",
@@ -23,6 +23,36 @@
             "partes": [
                 {
                     "txNombresApellidos": "ALEXIS BRYAN ATENCIO DIAZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 2,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "LIMA OESTE 1",
+            "txCodExpedienteExt": "ERM.2022026191",
+            "feRegistro": "29/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "MARISOL CCECCAÑA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 174652,
+            "idExpedientePadre": 156678,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 1",
+            "partes": [
+                {
+                    "txNombresApellidos": "ALEXIS BRYAN ATENCIO DIAZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "CHRISTIAM ANTONIO RAYO VELA",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

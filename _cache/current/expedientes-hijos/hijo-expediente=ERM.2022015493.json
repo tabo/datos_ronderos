@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 2.0,
+    "count": 4.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 2,
+            "totalRows": 4,
             "rowNumber": 1,
             "txJuradoCompetencia": "LIMA CENTRO",
             "txCodExpedienteExt": "ERM.2022002957",
@@ -13,8 +13,8 @@
             "txTipoExpediente": "PROPAGANDA ELECTORAL",
             "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
             "txResponsable": "LILIANA BEATRIZ FARFAN",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 149497,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -35,7 +35,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 2,
+            "totalRows": 4,
             "rowNumber": 2,
             "txJuradoCompetencia": "MARISCAL NIETO",
             "txCodExpedienteExt": "ERM.2022015401",
@@ -44,7 +44,7 @@
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "WILDON JAVIER CHUQUIMAMANI",
             "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEstado": "A LA ESPERA DE INFORMACIÓN",
             "idExpediente": 163436,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -53,6 +53,61 @@
             "partes": [
                 {
                     "txNombresApellidos": "LUIS FRANCISCO MAMANI CHIPANA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "MARISCAL NIETO",
+            "txCodExpedienteExt": "ERM.2022022826",
+            "feRegistro": "14/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "FIORELLA PAMELA ALARCON",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 171200,
+            "idExpedientePadre": 163548,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL NIETO",
+            "partes": [
+                {
+                    "txNombresApellidos": "LUIS FRANCISCO MAMANI CHIPANA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "MARISCAL NIETO",
+            "txCodExpedienteExt": "ERM.2022032320",
+            "feRegistro": "11/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JORGE ELISBAN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 180871,
+            "idExpedientePadre": 163436,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL NIETO",
+            "partes": [
+                {
+                    "txNombresApellidos": "LUIS FRANCISCO MAMANI CHIPANA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "CARMEN COYLA MAMANI",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

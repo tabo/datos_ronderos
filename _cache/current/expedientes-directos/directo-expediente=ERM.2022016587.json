@@ -1,18 +1,18 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 2.0,
+    "count": 4.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 2,
+            "totalRows": 4,
             "rowNumber": 1,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022019104",
             "feRegistro": "24/06/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "JHOSSELIN JULIETH VELA",
+            "txResponsable": " ",
             "txEtapa": "ESTUDIO",
             "txEstado": "EN TRÁMITE",
             "idExpediente": 167326,
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 2,
+            "totalRows": 4,
             "rowNumber": 2,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022020025",
@@ -41,6 +41,55 @@
             "txEtapa": "INICIO",
             "txEstado": "REGISTRADO",
             "idExpediente": 168285,
+            "idExpedientePadre": 164667,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "REQUENA",
+            "partes": [],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "REQUENA",
+            "txCodExpedienteExt": "ERM.2022022945",
+            "feRegistro": "15/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "TACHA DE CANDIDATO",
+            "txResponsable": "JOSE LUIS QUISPE",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 171338,
+            "idExpedientePadre": 164667,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "REQUENA",
+            "partes": [
+                {
+                    "txNombresApellidos": "TOMAS LOPEZ PANAIFO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "TEDY LLERENA VILLACORTA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "REQUENA",
+            "txCodExpedienteExt": "ERM.2022023491",
+            "feRegistro": "16/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "TACHA DE CANDIDATO",
+            "txResponsable": " ",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 171888,
             "idExpedientePadre": 164667,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",

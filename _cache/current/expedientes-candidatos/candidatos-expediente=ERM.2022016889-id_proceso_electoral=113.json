@@ -12,7 +12,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "25000666",
             "nombreCompleto": "ROGELIO EFRAIN APAZA VARGAS",
-            "estado": "ADMITIDO",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2218.0,
             "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
             "numeroCandidato": 0.0,
@@ -23,7 +23,8 @@
             "cargo": [
                 "ALCALDE DISTRITAL",
                 "ALCALDE DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 238311.0,
@@ -33,7 +34,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "25183510",
             "nombreCompleto": "MAXIMILIANA SUCLLI CUTIPA",
-            "estado": "ADMITIDO",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2218.0,
             "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
             "numeroCandidato": 1.0,
@@ -44,70 +45,8 @@
             "cargo": [
                 "REGIDOR DISTRITAL",
                 "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 238313.0,
-            "feNacimiento": "1993-01-09T00:00:00",
-            "txSexo": "F",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "70115495",
-            "nombreCompleto": "SINDIA NATALY GUTIERREZ LAYME",
-            "estado": "ADMITIDO",
-            "idOrganizacionPolitica": 2218.0,
-            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
-            "numeroCandidato": 3.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/238313.jpg",
-            "postulaDepartamento": "CUSCO",
-            "postulaProvincia": "QUISPICANCHI",
-            "postulaDistrito": "CCATCA",
-            "cargo": [
-                "REGIDOR DISTRITAL",
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 238314.0,
-            "feNacimiento": "1967-06-23T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "24704912",
-            "nombreCompleto": "JUAN DE DIOS LACUTA ALANOCA",
-            "estado": "ADMITIDO",
-            "idOrganizacionPolitica": 2218.0,
-            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
-            "numeroCandidato": 4.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/238314.jpg",
-            "postulaDepartamento": "CUSCO",
-            "postulaProvincia": "QUISPICANCHI",
-            "postulaDistrito": "CCATCA",
-            "cargo": [
-                "REGIDOR DISTRITAL",
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 238315.0,
-            "feNacimiento": "1994-07-20T00:00:00",
-            "txSexo": "F",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "71140272",
-            "nombreCompleto": "MARITZA FERNANDEZ INQUILLAY",
-            "estado": "ADMITIDO",
-            "idOrganizacionPolitica": 2218.0,
-            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
-            "numeroCandidato": 5.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/238315.jpg",
-            "postulaDepartamento": "CUSCO",
-            "postulaProvincia": "QUISPICANCHI",
-            "postulaDistrito": "CCATCA",
-            "cargo": [
-                "REGIDOR DISTRITAL",
-                "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 241664.0,
@@ -117,7 +56,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "09221556",
             "nombreCompleto": "ANICETO CJANAHUIRE QQUENAYA",
-            "estado": "ADMITIDO",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2218.0,
             "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
             "numeroCandidato": 2.0,
@@ -128,7 +67,74 @@
             "cargo": [
                 "REGIDOR DISTRITAL",
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 238313.0,
+            "feNacimiento": "1993-01-09T00:00:00",
+            "txSexo": "F",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "70115495",
+            "nombreCompleto": "SINDIA NATALY GUTIERREZ LAYME",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2218.0,
+            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "numeroCandidato": 3.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/238313.jpg",
+            "postulaDepartamento": "CUSCO",
+            "postulaProvincia": "QUISPICANCHI",
+            "postulaDistrito": "CCATCA",
+            "cargo": [
+                "REGIDOR DISTRITAL",
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 238314.0,
+            "feNacimiento": "1967-06-23T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "24704912",
+            "nombreCompleto": "JUAN DE DIOS LACUTA ALANOCA",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2218.0,
+            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "numeroCandidato": 4.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/238314.jpg",
+            "postulaDepartamento": "CUSCO",
+            "postulaProvincia": "QUISPICANCHI",
+            "postulaDistrito": "CCATCA",
+            "cargo": [
+                "REGIDOR DISTRITAL",
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 238315.0,
+            "feNacimiento": "1994-07-20T00:00:00",
+            "txSexo": "F",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "71140272",
+            "nombreCompleto": "MARITZA FERNANDEZ INQUILLAY",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2218.0,
+            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "numeroCandidato": 5.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/238315.jpg",
+            "postulaDepartamento": "CUSCO",
+            "postulaProvincia": "QUISPICANCHI",
+            "postulaDistrito": "CCATCA",
+            "cargo": [
+                "REGIDOR DISTRITAL",
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
         }
     ],
     "totalPages": 0

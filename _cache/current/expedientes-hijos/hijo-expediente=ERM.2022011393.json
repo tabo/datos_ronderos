@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 3.0,
+    "count": 4.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 3,
+            "totalRows": 4,
             "rowNumber": 1,
             "txJuradoCompetencia": "LIMA ESTE 2",
             "txCodExpedienteExt": "ERM.2022005782",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 3,
+            "totalRows": 4,
             "rowNumber": 2,
             "txJuradoCompetencia": "LIMA ESTE 2",
             "txCodExpedienteExt": "ERM.2022011348",
@@ -50,12 +50,17 @@
                     "txNombresApellidos": "LUIS ALBERTO LARA MORAN",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "SANDRA CAROLINA AQUIJES MANRIQUE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
                 }
             ],
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 3,
+            "totalRows": 4,
             "rowNumber": 3,
             "txJuradoCompetencia": "LIMA ESTE 2",
             "txCodExpedienteExt": "ERM.2022020488",
@@ -63,9 +68,34 @@
             "txTipoExpediente": "PROPAGANDA ELECTORAL",
             "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
             "txResponsable": "LUIS MIGUEL MERINO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 168749,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA ESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "LUIS ALBERTO LARA MORAN",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "LIMA ESTE 2",
+            "txCodExpedienteExt": "ERM.2022038357",
+            "feRegistro": "23/08/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "HERBERT RAUL ORE",
             "txEtapa": "ESTUDIO",
             "txEstado": "EN TRÁMITE",
-            "idExpediente": 168749,
+            "idExpediente": 187044,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",

@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 1.0,
+    "count": 3.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 1,
+            "totalRows": 3,
             "rowNumber": 1,
             "txJuradoCompetencia": "ESPINAR",
             "txCodExpedienteExt": "ERM.2022018309",
@@ -22,12 +22,72 @@
             "txJuradoCreacion": "ESPINAR",
             "partes": [
                 {
-                    "txNombresApellidos": "MIJAIL JARA ARONI",
+                    "txNombresApellidos": "JORGE LUIS YATACO YATACO, JORGE LUIS",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 },
                 {
-                    "txNombresApellidos": "JORGE LUIS YATACO YATACO",
+                    "txNombresApellidos": "MIJAIL JARA ARONI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "ESPINAR",
+            "txCodExpedienteExt": "ERM.2022031849",
+            "feRegistro": "10/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "SERGIO SILVA",
+            "txEtapa": "PRONUNCIAMIENTO",
+            "txEstado": "EN PRONUNCIAMIENTO",
+            "idExpediente": 180419,
+            "idExpedientePadre": 153592,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "ESPINAR",
+            "partes": [
+                {
+                    "txNombresApellidos": "JORGE LUIS YATACO YATACO, JORGE LUIS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "MIJAIL JARA ARONI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "ESPINAR",
+            "txCodExpedienteExt": "ERM.2022034741",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "LILY JUNIET CAMA",
+            "txEtapa": "PRONUNCIAMIENTO",
+            "txEstado": "EN PRONUNCIAMIENTO",
+            "idExpediente": 183344,
+            "idExpedientePadre": 153592,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "ESPINAR",
+            "partes": [
+                {
+                    "txNombresApellidos": "JORGE LUIS YATACO YATACO, JORGE LUIS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "MIJAIL JARA ARONI",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

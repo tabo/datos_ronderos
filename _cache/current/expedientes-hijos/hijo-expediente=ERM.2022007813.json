@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 9.0,
+    "count": 10.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 9,
+            "totalRows": 10,
             "rowNumber": 1,
             "txJuradoCompetencia": "HUAURA",
             "txCodExpedienteExt": "ERM.2022006303",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 9,
+            "totalRows": 10,
             "rowNumber": 2,
             "txJuradoCompetencia": "HUAURA",
             "txCodExpedienteExt": "ERM.2022006362",
@@ -55,7 +55,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 9,
+            "totalRows": 10,
             "rowNumber": 3,
             "txJuradoCompetencia": "HUAURA",
             "txCodExpedienteExt": "ERM.2022007272",
@@ -80,7 +80,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 9,
+            "totalRows": 10,
             "rowNumber": 4,
             "txJuradoCompetencia": "HUAURA",
             "txCodExpedienteExt": "ERM.2022007642",
@@ -88,8 +88,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "JUAN PABLO EURIBE",
-            "txEtapa": "PRONUNCIAMIENTO",
-            "txEstado": "EN FIRMAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 155249,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -105,7 +105,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 9,
+            "totalRows": 10,
             "rowNumber": 5,
             "txJuradoCompetencia": "HUAURA",
             "txCodExpedienteExt": "ERM.2022008269",
@@ -113,8 +113,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "JUAN PABLO EURIBE",
-            "txEtapa": "PRONUNCIAMIENTO",
-            "txEstado": "EN FIRMAS",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
             "idExpediente": 155948,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -130,7 +130,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 9,
+            "totalRows": 10,
             "rowNumber": 6,
             "txJuradoCompetencia": "HUAURA",
             "txCodExpedienteExt": "ERM.2022008316",
@@ -138,8 +138,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "JUAN PABLO EURIBE",
-            "txEtapa": "PRONUNCIAMIENTO",
-            "txEstado": "EN FIRMAS",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
             "idExpediente": 155998,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -155,7 +155,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 9,
+            "totalRows": 10,
             "rowNumber": 7,
             "txJuradoCompetencia": "HUAURA",
             "txCodExpedienteExt": "ERM.2022008341",
@@ -163,8 +163,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "JUAN PABLO EURIBE",
-            "txEtapa": "PRONUNCIAMIENTO",
-            "txEstado": "EN FIRMAS",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
             "idExpediente": 156015,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -180,7 +180,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 9,
+            "totalRows": 10,
             "rowNumber": 8,
             "txJuradoCompetencia": "HUAURA",
             "txCodExpedienteExt": "ERM.2022012466",
@@ -188,8 +188,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "JUAN PABLO EURIBE",
-            "txEtapa": "PRONUNCIAMIENTO",
-            "txEstado": "EN FIRMAS",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
             "idExpediente": 160370,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -205,7 +205,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 9,
+            "totalRows": 10,
             "rowNumber": 9,
             "txJuradoCompetencia": "HUAURA",
             "txCodExpedienteExt": "ERM.2022014072",
@@ -213,10 +213,35 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "JUAN PABLO EURIBE",
-            "txEtapa": "PRONUNCIAMIENTO",
-            "txEstado": "EN FIRMAS",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
             "idExpediente": 162033,
             "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUAURA",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN JOSE LI PERALTA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 10,
+            "rowNumber": 10,
+            "txJuradoCompetencia": "HUAURA",
+            "txCodExpedienteExt": "ERM.2022037161",
+            "feRegistro": "19/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JUAN PABLO EURIBE",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 185811,
+            "idExpedientePadre": 153819,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "HUAURA",

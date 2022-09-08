@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 5.0,
+    "count": 17.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 5,
+            "totalRows": 17,
             "rowNumber": 1,
             "txJuradoCompetencia": "MARISCAL NIETO",
             "txCodExpedienteExt": "ERM.2022011431",
@@ -13,8 +13,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "FIORELLA PAMELA ALARCON",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 159251,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 17,
             "rowNumber": 2,
             "txJuradoCompetencia": "MARISCAL NIETO",
             "txCodExpedienteExt": "ERM.2022011559",
@@ -38,8 +38,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "FIORELLA PAMELA ALARCON",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 159403,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -55,7 +55,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 17,
             "rowNumber": 3,
             "txJuradoCompetencia": "MARISCAL NIETO",
             "txCodExpedienteExt": "ERM.2022011569",
@@ -63,8 +63,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "WILDON JAVIER CHUQUIMAMANI",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 159411,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -80,7 +80,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 17,
             "rowNumber": 4,
             "txJuradoCompetencia": "MARISCAL NIETO",
             "txCodExpedienteExt": "ERM.2022015422",
@@ -88,8 +88,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "WILDON JAVIER CHUQUIMAMANI",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 163476,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -105,18 +105,353 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 17,
             "rowNumber": 5,
             "txJuradoCompetencia": "MARISCAL NIETO",
             "txCodExpedienteExt": "ERM.2022020518",
             "feRegistro": "03/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "PEDRO ELIAS RAMOS",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "WILDON JAVIER CHUQUIMAMANI",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168773,
             "idExpedientePadre": 159411,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL NIETO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ISAAC WASHINGTON MAMANI CCAÑI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 17,
+            "rowNumber": 6,
+            "txJuradoCompetencia": "MARISCAL NIETO",
+            "txCodExpedienteExt": "ERM.2022029148",
+            "feRegistro": "06/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "WILDON JAVIER CHUQUIMAMANI",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 177685,
+            "idExpedientePadre": 163467,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL NIETO",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARMEN COYLA MAMANI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "ISAAC WASHINGTON MAMANI CCAÑI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 17,
+            "rowNumber": 7,
+            "txJuradoCompetencia": "MARISCAL NIETO",
+            "txCodExpedienteExt": "ERM.2022029156",
+            "feRegistro": "06/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "WILDON JAVIER CHUQUIMAMANI",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 177691,
+            "idExpedientePadre": 159403,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL NIETO",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARMEN COYLA MAMANI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "ISAAC WASHINGTON MAMANI CCAÑI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 17,
+            "rowNumber": 8,
+            "txJuradoCompetencia": "MARISCAL NIETO",
+            "txCodExpedienteExt": "ERM.2022030293",
+            "feRegistro": "08/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JORGE ELISBAN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 178842,
+            "idExpedientePadre": 157825,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL NIETO",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARMEN COYLA MAMANI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "CIRO EMIR MELO AVALOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 17,
+            "rowNumber": 9,
+            "txJuradoCompetencia": "MARISCAL NIETO",
+            "txCodExpedienteExt": "ERM.2022030344",
+            "feRegistro": "08/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JORGE ELISBAN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 178868,
+            "idExpedientePadre": 159403,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL NIETO",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARMEN COYLA MAMANI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "ISAAC WASHINGTON MAMANI CCAÑI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 17,
+            "rowNumber": 10,
+            "txJuradoCompetencia": "MARISCAL NIETO",
+            "txCodExpedienteExt": "ERM.2022030340",
+            "feRegistro": "08/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JORGE ELISBAN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 178883,
+            "idExpedientePadre": 159403,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL NIETO",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARMEN COYLA MAMANI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "ISAAC WASHINGTON MAMANI CCAÑI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 17,
+            "rowNumber": 11,
+            "txJuradoCompetencia": "MARISCAL NIETO",
+            "txCodExpedienteExt": "ERM.2022030892",
+            "feRegistro": "09/08/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "WILDON JAVIER CHUQUIMAMANI",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 179412,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL NIETO",
+            "partes": [
+                {
+                    "txNombresApellidos": "AURELIA JINCHUÑA HUALLPA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "ISAAC WASHINGTON MAMANI CCAÑI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 17,
+            "rowNumber": 12,
+            "txJuradoCompetencia": "MARISCAL NIETO",
+            "txCodExpedienteExt": "ERM.2022032326",
+            "feRegistro": "11/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "WILDON JAVIER CHUQUIMAMANI",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 180876,
+            "idExpedientePadre": 159403,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL NIETO",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARMEN COYLA MAMANI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "ISAAC WASHINGTON MAMANI CCAÑI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 17,
+            "rowNumber": 13,
+            "txJuradoCompetencia": "MARISCAL NIETO",
+            "txCodExpedienteExt": "ERM.2022034856",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "WILDON JAVIER CHUQUIMAMANI",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183450,
+            "idExpedientePadre": 177691,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL NIETO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ISAAC WASHINGTON MAMANI CCAÑI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 17,
+            "rowNumber": 14,
+            "txJuradoCompetencia": "MARISCAL NIETO",
+            "txCodExpedienteExt": "ERM.2022035086",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "WILDON JAVIER CHUQUIMAMANI",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183703,
+            "idExpedientePadre": 177685,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL NIETO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ISAAC WASHINGTON MAMANI CCAÑI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 17,
+            "rowNumber": 15,
+            "txJuradoCompetencia": "MARISCAL NIETO",
+            "txCodExpedienteExt": "ERM.2022036678",
+            "feRegistro": "18/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "WILDON JAVIER CHUQUIMAMANI",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 185319,
+            "idExpedientePadre": 180876,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL NIETO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ISAAC WASHINGTON MAMANI CCAÑI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 17,
+            "rowNumber": 16,
+            "txJuradoCompetencia": "MARISCAL NIETO",
+            "txCodExpedienteExt": "ERM.2022036937",
+            "feRegistro": "18/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "JORGE ELISBAN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 185572,
+            "idExpedientePadre": 178883,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL NIETO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ISAAC WASHINGTON MAMANI CCAÑI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 17,
+            "rowNumber": 17,
+            "txJuradoCompetencia": "MARISCAL NIETO",
+            "txCodExpedienteExt": "ERM.2022037275",
+            "feRegistro": "19/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "JORGE ELISBAN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 185943,
+            "idExpedientePadre": 178868,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "MARISCAL NIETO",

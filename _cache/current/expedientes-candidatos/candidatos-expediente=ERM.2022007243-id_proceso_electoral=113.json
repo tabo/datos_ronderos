@@ -12,7 +12,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "22758194",
             "nombreCompleto": "ROSAS ORLANDO HERRERA CALIXTO",
-            "estado": "ADMITIDO",
+            "estado": "EXCLUSION",
             "idOrganizacionPolitica": 1257.0,
             "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
             "numeroCandidato": 0.0,
@@ -22,7 +22,8 @@
             "postulaDistrito": "PAMPAMARCA",
             "cargo": [
                 "ALCALDE DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 166215.0,
@@ -32,7 +33,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "46259223",
             "nombreCompleto": "LUZ IRMA PEREZ GALEANO",
-            "estado": "ADMITIDO",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 1257.0,
             "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
             "numeroCandidato": 1.0,
@@ -42,7 +43,8 @@
             "postulaDistrito": "PAMPAMARCA",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 166216.0,
@@ -52,7 +54,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "22758264",
             "nombreCompleto": "EMANUEL CRUZ ABAD",
-            "estado": "ADMITIDO",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 1257.0,
             "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
             "numeroCandidato": 2.0,
@@ -62,47 +64,8 @@
             "postulaDistrito": "PAMPAMARCA",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 166218.0,
-            "feNacimiento": "1960-04-25T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "22758178",
-            "nombreCompleto": "PATRICIO ADAN GARAY",
-            "estado": "ADMITIDO",
-            "idOrganizacionPolitica": 1257.0,
-            "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
-            "numeroCandidato": 4.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/166218.jpg",
-            "postulaDepartamento": "HUANUCO",
-            "postulaProvincia": "YAROWILCA",
-            "postulaDistrito": "PAMPAMARCA",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 166219.0,
-            "feNacimiento": "2000-09-13T00:00:00",
-            "txSexo": "F",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "74604375",
-            "nombreCompleto": "MILAGROS SILVIA PIO VEGA",
-            "estado": "ADMITIDO",
-            "idOrganizacionPolitica": 1257.0,
-            "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
-            "numeroCandidato": 5.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/166219.jpg",
-            "postulaDepartamento": "HUANUCO",
-            "postulaProvincia": "YAROWILCA",
-            "postulaDistrito": "PAMPAMARCA",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 240203.0,
@@ -112,7 +75,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "74350815",
             "nombreCompleto": "YANET MIRIAM ANAYA SOLORZANO",
-            "estado": "ADMITIDO",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 1257.0,
             "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
             "numeroCandidato": 3.0,
@@ -122,7 +85,50 @@
             "postulaDistrito": "PAMPAMARCA",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 166218.0,
+            "feNacimiento": "1960-04-25T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "22758178",
+            "nombreCompleto": "PATRICIO ADAN GARAY",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 1257.0,
+            "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+            "numeroCandidato": 4.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/166218.jpg",
+            "postulaDepartamento": "HUANUCO",
+            "postulaProvincia": "YAROWILCA",
+            "postulaDistrito": "PAMPAMARCA",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 166219.0,
+            "feNacimiento": "2000-09-13T00:00:00",
+            "txSexo": "F",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "74604375",
+            "nombreCompleto": "MILAGROS SILVIA PIO VEGA",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 1257.0,
+            "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+            "numeroCandidato": 5.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/166219.jpg",
+            "postulaDepartamento": "HUANUCO",
+            "postulaProvincia": "YAROWILCA",
+            "postulaDistrito": "PAMPAMARCA",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
         }
     ],
     "totalPages": 0

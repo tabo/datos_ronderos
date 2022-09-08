@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 5.0,
+    "count": 12.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 5,
+            "totalRows": 12,
             "rowNumber": 1,
             "txJuradoCompetencia": "OXAPAMPA",
             "txCodExpedienteExt": "ERM.2022007005",
@@ -35,7 +35,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 12,
             "rowNumber": 2,
             "txJuradoCompetencia": "OXAPAMPA",
             "txCodExpedienteExt": "ERM.2022010699",
@@ -60,7 +60,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 12,
             "rowNumber": 3,
             "txJuradoCompetencia": "OXAPAMPA",
             "txCodExpedienteExt": "ERM.2022017617",
@@ -85,7 +85,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 12,
             "rowNumber": 4,
             "txJuradoCompetencia": "OXAPAMPA",
             "txCodExpedienteExt": "ERM.2022017636",
@@ -110,7 +110,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 12,
             "rowNumber": 5,
             "txJuradoCompetencia": "OXAPAMPA",
             "txCodExpedienteExt": "ERM.2022017653",
@@ -121,6 +121,181 @@
             "txEtapa": "RESUELTO",
             "txEstado": "RESUELTO",
             "idExpediente": 165765,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "OXAPAMPA",
+            "partes": [
+                {
+                    "txNombresApellidos": "ELMER CASTAÑEDA VARGAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 12,
+            "rowNumber": 6,
+            "txJuradoCompetencia": "OXAPAMPA",
+            "txCodExpedienteExt": "ERM.2022022662",
+            "feRegistro": "14/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "FLOR KARINA GOMEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 171026,
+            "idExpedientePadre": 165761,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "OXAPAMPA",
+            "partes": [
+                {
+                    "txNombresApellidos": "ELMER CASTAÑEDA VARGAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 12,
+            "rowNumber": 7,
+            "txJuradoCompetencia": "OXAPAMPA",
+            "txCodExpedienteExt": "ERM.2022026693",
+            "feRegistro": "31/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "KATERIN NATALIE MOSCOSO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 175176,
+            "idExpedientePadre": 165732,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "OXAPAMPA",
+            "partes": [
+                {
+                    "txNombresApellidos": "ELMER CASTAÑEDA VARGAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 12,
+            "rowNumber": 8,
+            "txJuradoCompetencia": "OXAPAMPA",
+            "txCodExpedienteExt": "ERM.2022026692",
+            "feRegistro": "31/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "FLOR KARINA GOMEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 175179,
+            "idExpedientePadre": 165761,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "OXAPAMPA",
+            "partes": [
+                {
+                    "txNombresApellidos": "ELMER CASTAÑEDA VARGAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 12,
+            "rowNumber": 9,
+            "txJuradoCompetencia": "OXAPAMPA",
+            "txCodExpedienteExt": "ERM.2022026698",
+            "feRegistro": "31/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "KATERIN NATALIE MOSCOSO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 175183,
+            "idExpedientePadre": 165732,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "OXAPAMPA",
+            "partes": [
+                {
+                    "txNombresApellidos": "ELMER CASTAÑEDA VARGAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 12,
+            "rowNumber": 10,
+            "txJuradoCompetencia": "OXAPAMPA",
+            "txCodExpedienteExt": "ERM.2022026700",
+            "feRegistro": "31/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "KATERIN NATALIE MOSCOSO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 175198,
+            "idExpedientePadre": 165732,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "OXAPAMPA",
+            "partes": [
+                {
+                    "txNombresApellidos": "ELMER CASTAÑEDA VARGAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 12,
+            "rowNumber": 11,
+            "txJuradoCompetencia": "OXAPAMPA",
+            "txCodExpedienteExt": "ERM.2022030105",
+            "feRegistro": "08/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "KATERIN NATALIE MOSCOSO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 178632,
+            "idExpedientePadre": 165732,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "OXAPAMPA",
+            "partes": [
+                {
+                    "txNombresApellidos": "ELMER CASTAÑEDA VARGAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 12,
+            "rowNumber": 12,
+            "txJuradoCompetencia": "OXAPAMPA",
+            "txCodExpedienteExt": "ERM.2022037514",
+            "feRegistro": "20/08/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "JOSE FREDDY SANTOS",
+            "txEtapa": "PRONUNCIAMIENTO",
+            "txEstado": "EN FIRMAS",
+            "idExpediente": 186175,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",

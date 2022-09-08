@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 5.0,
+    "count": 7.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 5,
+            "totalRows": 7,
             "rowNumber": 1,
             "txJuradoCompetencia": "CHINCHA",
             "txCodExpedienteExt": "ERM.2022005648",
@@ -45,7 +45,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 7,
             "rowNumber": 2,
             "txJuradoCompetencia": "CHINCHA",
             "txCodExpedienteExt": "ERM.2022008250",
@@ -70,7 +70,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 7,
             "rowNumber": 3,
             "txJuradoCompetencia": "CHINCHA",
             "txCodExpedienteExt": "ERM.2022008258",
@@ -95,16 +95,16 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 7,
             "rowNumber": 4,
             "txJuradoCompetencia": "CHINCHA",
             "txCodExpedienteExt": "ERM.2022020984",
             "feRegistro": "06/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "RONY ALEJANDRO COQUIL",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "PETER MARTINEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 169267,
             "idExpedientePadre": 155199,
             "txImportancia": "NO MEDIÁTICO",
@@ -120,18 +120,68 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 7,
             "rowNumber": 5,
             "txJuradoCompetencia": "CHINCHA",
             "txCodExpedienteExt": "ERM.2022021449",
             "feRegistro": "08/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "JAIRO YIYE CUBA",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "STEFANIA JACQUELINE MATOS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 169764,
             "idExpedientePadre": 155304,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CHINCHA",
+            "partes": [
+                {
+                    "txNombresApellidos": "HUGO GUSTAVO MENDOZA PEREZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 7,
+            "rowNumber": 6,
+            "txJuradoCompetencia": "CHINCHA",
+            "txCodExpedienteExt": "ERM.2022022509",
+            "feRegistro": "13/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "PETER MARTINEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 170869,
+            "idExpedientePadre": 155350,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CHINCHA",
+            "partes": [
+                {
+                    "txNombresApellidos": "HUGO GUSTAVO MENDOZA PEREZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 7,
+            "rowNumber": 7,
+            "txJuradoCompetencia": "CHINCHA",
+            "txCodExpedienteExt": "ERM.2022039551",
+            "feRegistro": "28/08/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "STEFANIA JACQUELINE MATOS",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 188317,
+            "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "CHINCHA",

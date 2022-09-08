@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 2.0,
+    "count": 3.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 2,
+            "totalRows": 3,
             "rowNumber": 1,
             "txJuradoCompetencia": "TRUJILLO",
             "txCodExpedienteExt": "ERM.2022018788",
@@ -30,17 +30,42 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 2,
+            "totalRows": 3,
             "rowNumber": 2,
             "txJuradoCompetencia": "TRUJILLO",
             "txCodExpedienteExt": "ERM.2022018833",
             "feRegistro": "22/06/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "TOMAS ALEJANDRO TELLO",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "JORGE LUIS ÑAUPA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 167039,
+            "idExpedientePadre": 153128,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS ARMANDO AZABACHE MORILLAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022021909",
+            "feRegistro": "10/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JORGE LUIS ÑAUPA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 170231,
             "idExpedientePadre": 153128,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",

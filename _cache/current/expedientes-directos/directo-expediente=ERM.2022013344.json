@@ -1,26 +1,152 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 1.0,
+    "count": 5.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 1,
+            "totalRows": 5,
             "rowNumber": 1,
             "txJuradoCompetencia": "MARISCAL CACERES",
             "txCodExpedienteExt": "ERM.2022021634",
             "feRegistro": "09/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "TACHA DE CANDIDATO",
-            "txResponsable": " ",
-            "txEtapa": "INICIO",
-            "txEstado": "REGISTRADO",
+            "txResponsable": "HAROLD ALFREDO GALAN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 169956,
             "idExpedientePadre": 161260,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "MARISCAL CACERES",
-            "partes": [],
+            "partes": [
+                {
+                    "txNombresApellidos": "CAROL JINETH TORRES PARANA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "MARISCAL CACERES",
+            "txCodExpedienteExt": "ERM.2022031943",
+            "feRegistro": "11/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JESSICA PAOLA ESQUIVES",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 180499,
+            "idExpedientePadre": 161260,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL CACERES",
+            "partes": [
+                {
+                    "txNombresApellidos": "CAROL JINETH TORRES PARANA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "RAFAEL ELESPURU RODRIGUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "MARISCAL CACERES",
+            "txCodExpedienteExt": "ERM.2022033604",
+            "feRegistro": "13/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "MAYRA MILAGROS BONIFACIO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 182198,
+            "idExpedientePadre": 161260,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL CACERES",
+            "partes": [
+                {
+                    "txNombresApellidos": "CAROL JINETH TORRES PARANA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "MIRIAN GAITAN MANCHAY",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "MARISCAL CACERES",
+            "txCodExpedienteExt": "ERM.2022033718",
+            "feRegistro": "13/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "MAYRA MILAGROS BONIFACIO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 182319,
+            "idExpedientePadre": 161260,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL CACERES",
+            "partes": [
+                {
+                    "txNombresApellidos": "CAROL JINETH TORRES PARANA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "RAFAEL ELESPURU RODRIGUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 5,
+            "txJuradoCompetencia": "MARISCAL CACERES",
+            "txCodExpedienteExt": "ERM.2022033721",
+            "feRegistro": "13/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "MAYRA MILAGROS BONIFACIO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 182321,
+            "idExpedientePadre": 161260,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL CACERES",
+            "partes": [
+                {
+                    "txNombresApellidos": "CAROL JINETH TORRES PARANA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "RAFAEL ELESPURU RODRIGUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
             "tienePersonalJurado": false
         }
     ],

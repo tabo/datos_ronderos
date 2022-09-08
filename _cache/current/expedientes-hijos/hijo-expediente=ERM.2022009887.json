@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 13.0,
+    "count": 18.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 13,
+            "totalRows": 18,
             "rowNumber": 1,
             "txJuradoCompetencia": "PATAZ",
             "txCodExpedienteExt": "ERM.2022005678",
@@ -35,7 +35,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 13,
+            "totalRows": 18,
             "rowNumber": 2,
             "txJuradoCompetencia": "PATAZ",
             "txCodExpedienteExt": "ERM.2022005832",
@@ -75,7 +75,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 13,
+            "totalRows": 18,
             "rowNumber": 3,
             "txJuradoCompetencia": "PATAZ",
             "txCodExpedienteExt": "ERM.2022006244",
@@ -105,7 +105,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 13,
+            "totalRows": 18,
             "rowNumber": 4,
             "txJuradoCompetencia": "PATAZ",
             "txCodExpedienteExt": "ERM.2022007750",
@@ -135,7 +135,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 13,
+            "totalRows": 18,
             "rowNumber": 5,
             "txJuradoCompetencia": "PATAZ",
             "txCodExpedienteExt": "ERM.2022007874",
@@ -165,7 +165,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 13,
+            "totalRows": 18,
             "rowNumber": 6,
             "txJuradoCompetencia": "PATAZ",
             "txCodExpedienteExt": "ERM.2022009631",
@@ -190,7 +190,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 13,
+            "totalRows": 18,
             "rowNumber": 7,
             "txJuradoCompetencia": "PATAZ",
             "txCodExpedienteExt": "ERM.2022009686",
@@ -215,7 +215,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 13,
+            "totalRows": 18,
             "rowNumber": 8,
             "txJuradoCompetencia": "PATAZ",
             "txCodExpedienteExt": "ERM.2022009708",
@@ -240,7 +240,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 13,
+            "totalRows": 18,
             "rowNumber": 9,
             "txJuradoCompetencia": "PATAZ",
             "txCodExpedienteExt": "ERM.2022009752",
@@ -265,7 +265,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 13,
+            "totalRows": 18,
             "rowNumber": 10,
             "txJuradoCompetencia": "PATAZ",
             "txCodExpedienteExt": "ERM.2022009844",
@@ -290,7 +290,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 13,
+            "totalRows": 18,
             "rowNumber": 11,
             "txJuradoCompetencia": "PATAZ",
             "txCodExpedienteExt": "ERM.2022009859",
@@ -315,7 +315,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 13,
+            "totalRows": 18,
             "rowNumber": 12,
             "txJuradoCompetencia": "PATAZ",
             "txCodExpedienteExt": "ERM.2022009874",
@@ -323,8 +323,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "CARLOS EDUARDO CORDOVA",
-            "txEtapa": "RESUELTO",
-            "txEstado": "RESUELTO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
             "idExpediente": 157623,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -340,7 +340,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 13,
+            "totalRows": 18,
             "rowNumber": 13,
             "txJuradoCompetencia": "PATAZ",
             "txCodExpedienteExt": "ERM.2022009897",
@@ -358,6 +358,171 @@
             "partes": [
                 {
                     "txNombresApellidos": "YEISON ALFONSO MARREROS GUILLEN",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 18,
+            "rowNumber": 14,
+            "txJuradoCompetencia": "PATAZ",
+            "txCodExpedienteExt": "ERM.2022022232",
+            "feRegistro": "12/07/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "CARLOS EDUARDO CORDOVA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 170576,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PATAZ",
+            "partes": [
+                {
+                    "txNombresApellidos": "YEISON ALFONSO MARREROS GUILLEN",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "NANCI ALCIRA CALDERON GOMEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 18,
+            "rowNumber": 15,
+            "txJuradoCompetencia": "PATAZ",
+            "txCodExpedienteExt": "ERM.2022024318",
+            "feRegistro": "20/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "SANDRA MERCEDES GAVIDIA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 172710,
+            "idExpedientePadre": 157352,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PATAZ",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROSAURA CASTILLO PALACIOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "YEISON ALFONSO MARREROS GUILLEN",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 18,
+            "rowNumber": 16,
+            "txJuradoCompetencia": "PATAZ",
+            "txCodExpedienteExt": "ERM.2022029340",
+            "feRegistro": "06/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "CARLOS EDUARDO CORDOVA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 177868,
+            "idExpedientePadre": 153760,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PATAZ",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROSAURA CASTILLO PALACIOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "YEISON ALFONSO MARREROS GUILLEN",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JAIME FRANCISCO PAUL RIVAS PEREZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 18,
+            "rowNumber": 17,
+            "txJuradoCompetencia": "PATAZ",
+            "txCodExpedienteExt": "ERM.2022035150",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "CARLOS EDUARDO CORDOVA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183753,
+            "idExpedientePadre": 153760,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PATAZ",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROSAURA CASTILLO PALACIOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "YEISON ALFONSO MARREROS GUILLEN",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "EDWARD DAVID GARAY CANALES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 18,
+            "rowNumber": 18,
+            "txJuradoCompetencia": "PATAZ",
+            "txCodExpedienteExt": "ERM.2022035240",
+            "feRegistro": "16/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "CARLOS EDUARDO CORDOVA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183849,
+            "idExpedientePadre": 157600,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PATAZ",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROSAURA CASTILLO PALACIOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "YEISON ALFONSO MARREROS GUILLEN",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "EDWARD DAVID GARAY CANALES",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

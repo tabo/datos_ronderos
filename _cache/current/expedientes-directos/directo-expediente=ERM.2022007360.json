@@ -12,7 +12,7 @@
             "feRegistro": "24/06/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "ANGELICA MARIA GRANDE ",
+            "txResponsable": " ",
             "txEtapa": "ESTUDIO",
             "txEstado": "EN TRÁMITE",
             "idExpediente": 167386,
@@ -38,14 +38,20 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
             "txResponsable": " ",
-            "txEtapa": "INICIO",
-            "txEstado": "REGISTRADO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
             "idExpediente": 169868,
             "idExpedientePadre": 154953,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "HUANUCO",
-            "partes": [],
+            "partes": [
+                {
+                    "txNombresApellidos": "OSCAR ALBERTO TOLEDO ALANIA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
             "tienePersonalJurado": false
         }
     ],

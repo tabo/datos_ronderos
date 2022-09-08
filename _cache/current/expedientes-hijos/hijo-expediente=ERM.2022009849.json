@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 5.0,
+    "count": 27.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 5,
+            "totalRows": 27,
             "rowNumber": 1,
             "txJuradoCompetencia": "TRUJILLO",
             "txCodExpedienteExt": "ERM.2022006758",
@@ -13,8 +13,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "ELENA ELIZABETH CARRASCO",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 154279,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 27,
             "rowNumber": 2,
             "txJuradoCompetencia": "TRUJILLO",
             "txCodExpedienteExt": "ERM.2022007113",
@@ -38,8 +38,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "CLAUDIA FIORELLA ZAPATA",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 154660,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -55,7 +55,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 27,
             "rowNumber": 3,
             "txJuradoCompetencia": "TRUJILLO",
             "txCodExpedienteExt": "ERM.2022009883",
@@ -80,7 +80,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 27,
             "rowNumber": 4,
             "txJuradoCompetencia": "TRUJILLO",
             "txCodExpedienteExt": "ERM.2022010389",
@@ -105,7 +105,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 27,
             "rowNumber": 5,
             "txJuradoCompetencia": "TRUJILLO",
             "txCodExpedienteExt": "ERM.2022018094",
@@ -116,6 +116,561 @@
             "txEtapa": "RESUELTO",
             "txEstado": "RESUELTO",
             "idExpediente": 166229,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROMMEL ALEXANDER PEREZ ZARATE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 27,
+            "rowNumber": 6,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022023255",
+            "feRegistro": "16/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "CLAUDIA FIORELLA ZAPATA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "idExpediente": 171649,
+            "idExpedientePadre": 157603,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROMMEL ALEXANDER PEREZ ZARATE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 27,
+            "rowNumber": 7,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022023264",
+            "feRegistro": "16/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "CLAUDIA FIORELLA ZAPATA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "idExpediente": 171657,
+            "idExpedientePadre": 157603,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROMMEL ALEXANDER PEREZ ZARATE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 27,
+            "rowNumber": 8,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022023281",
+            "feRegistro": "16/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "CLAUDIA FIORELLA ZAPATA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "idExpediente": 171665,
+            "idExpedientePadre": 157603,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROMMEL ALEXANDER PEREZ ZARATE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 27,
+            "rowNumber": 9,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022023280",
+            "feRegistro": "16/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "CLAUDIA FIORELLA ZAPATA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "idExpediente": 171681,
+            "idExpedientePadre": 157603,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROMMEL ALEXANDER PEREZ ZARATE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 27,
+            "rowNumber": 10,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022023286",
+            "feRegistro": "16/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "CLAUDIA FIORELLA ZAPATA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "idExpediente": 171685,
+            "idExpedientePadre": 157603,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROMMEL ALEXANDER PEREZ ZARATE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 27,
+            "rowNumber": 11,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022023287",
+            "feRegistro": "16/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "CLAUDIA FIORELLA ZAPATA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "idExpediente": 171686,
+            "idExpedientePadre": 157603,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROMMEL ALEXANDER PEREZ ZARATE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 27,
+            "rowNumber": 12,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022023322",
+            "feRegistro": "16/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "MARICRUZ YESENIA MORENO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 171708,
+            "idExpedientePadre": 159250,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROMMEL ALEXANDER PEREZ ZARATE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 27,
+            "rowNumber": 13,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022023321",
+            "feRegistro": "16/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "DIANA ESTHER RODRIGUEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 171719,
+            "idExpedientePadre": 157597,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROMMEL ALEXANDER PEREZ ZARATE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "MARLON MICHEL PEZO RUIDIAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 27,
+            "rowNumber": 14,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022023324",
+            "feRegistro": "16/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JORGE LUIS ÑAUPA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 171720,
+            "idExpedientePadre": 158151,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROMMEL ALEXANDER PEREZ ZARATE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 27,
+            "rowNumber": 15,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022029214",
+            "feRegistro": "06/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTRAS PETICIONES CONTRA PRONUNCIAMIENTOS DEL JNE / JEE",
+            "txResponsable": "ALONSO MANUEL ENCARNACION",
+            "txEtapa": "INICIO",
+            "txEstado": "REGISTRADO",
+            "idExpediente": 177759,
+            "idExpedientePadre": 173464,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROMMEL ALEXANDER PEREZ ZARATE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 27,
+            "rowNumber": 16,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022032753",
+            "feRegistro": "12/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "CLAUDIA FIORELLA ZAPATA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "idExpediente": 181324,
+            "idExpedientePadre": 154660,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROMMEL ALEXANDER PEREZ ZARATE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 27,
+            "rowNumber": 17,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022034555",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "CLAUDIA FIORELLA ZAPATA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "idExpediente": 183133,
+            "idExpedientePadre": 157603,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROMMEL ALEXANDER PEREZ ZARATE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 27,
+            "rowNumber": 18,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022034560",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JORGE LUIS ÑAUPA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183159,
+            "idExpedientePadre": 158151,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROMMEL ALEXANDER PEREZ ZARATE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 27,
+            "rowNumber": 19,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022035084",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "JORGE LUIS ÑAUPA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183688,
+            "idExpedientePadre": 171720,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROMMEL ALEXANDER PEREZ ZARATE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 27,
+            "rowNumber": 20,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022037278",
+            "feRegistro": "19/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTROS",
+            "txResponsable": "DANIEL MALCA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 185931,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROMMEL ALEXANDER PEREZ ZARATE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 27,
+            "rowNumber": 21,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022037285",
+            "feRegistro": "19/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTROS",
+            "txResponsable": "DANIEL MALCA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 185935,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROMMEL ALEXANDER PEREZ ZARATE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 27,
+            "rowNumber": 22,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022037280",
+            "feRegistro": "19/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTROS",
+            "txResponsable": "DANIEL MALCA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 185945,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROMMEL ALEXANDER PEREZ ZARATE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 27,
+            "rowNumber": 23,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022037286",
+            "feRegistro": "19/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTROS",
+            "txResponsable": "DANIEL MALCA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 185948,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROMMEL ALEXANDER PEREZ ZARATE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 27,
+            "rowNumber": 24,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022037288",
+            "feRegistro": "19/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTROS",
+            "txResponsable": "DANIEL MALCA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 185950,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROMMEL ALEXANDER PEREZ ZARATE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 27,
+            "rowNumber": 25,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022037668",
+            "feRegistro": "21/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "JORGE LUIS ÑAUPA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 186333,
+            "idExpedientePadre": 183159,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROMMEL ALEXANDER PEREZ ZARATE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 27,
+            "rowNumber": 26,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022037717",
+            "feRegistro": "21/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "CLAUDIA FIORELLA ZAPATA",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 186384,
+            "idExpedientePadre": 181321,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TRUJILLO",
+            "partes": [
+                {
+                    "txNombresApellidos": "ROMMEL ALEXANDER PEREZ ZARATE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 27,
+            "rowNumber": 27,
+            "txJuradoCompetencia": "TRUJILLO",
+            "txCodExpedienteExt": "ERM.2022038347",
+            "feRegistro": "23/08/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "GLADYS EULITA ESPINOZA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 187017,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",

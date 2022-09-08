@@ -12,7 +12,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "04816781",
             "nombreCompleto": "EDISON PEREZ QUISPE",
-            "estado": "ADMITIDO",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2300.0,
             "organizacionPolitica": "MOVIMIENTO REGIONAL FUERZA POR MADRE DE DIOS - MR FMDD",
             "numeroCandidato": 0.0,
@@ -22,7 +22,8 @@
             "postulaDistrito": "LABERINTO",
             "cargo": [
                 "ALCALDE DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 203075.0,
@@ -32,7 +33,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "25317903",
             "nombreCompleto": "MARIO RAMOS SALAS",
-            "estado": "ADMITIDO",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2300.0,
             "organizacionPolitica": "MOVIMIENTO REGIONAL FUERZA POR MADRE DE DIOS - MR FMDD",
             "numeroCandidato": 1.0,
@@ -42,67 +43,8 @@
             "postulaDistrito": "LABERINTO",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 203077.0,
-            "feNacimiento": "1963-09-01T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "00506502",
-            "nombreCompleto": "AGUSTIN CANAVIRI MELCHOR",
-            "estado": "ADMITIDO",
-            "idOrganizacionPolitica": 2300.0,
-            "organizacionPolitica": "MOVIMIENTO REGIONAL FUERZA POR MADRE DE DIOS - MR FMDD",
-            "numeroCandidato": 3.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/203077.jpg",
-            "postulaDepartamento": "MADRE DE DIOS",
-            "postulaProvincia": "TAMBOPATA",
-            "postulaDistrito": "LABERINTO",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 203078.0,
-            "feNacimiento": "1979-06-25T00:00:00",
-            "txSexo": "F",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "40336946",
-            "nombreCompleto": "MILAGROS GEORGINA SOTELO VELARDE",
-            "estado": "IMPROCEDENTE",
-            "idOrganizacionPolitica": 2300.0,
-            "organizacionPolitica": "MOVIMIENTO REGIONAL FUERZA POR MADRE DE DIOS - MR FMDD",
-            "numeroCandidato": 4.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/203078.jpg",
-            "postulaDepartamento": "MADRE DE DIOS",
-            "postulaProvincia": "TAMBOPATA",
-            "postulaDistrito": "LABERINTO",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 203079.0,
-            "feNacimiento": "1983-12-02T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "42107209",
-            "nombreCompleto": "AURELIO CCAHUANA CONDORI",
-            "estado": "ADMITIDO",
-            "idOrganizacionPolitica": 2300.0,
-            "organizacionPolitica": "MOVIMIENTO REGIONAL FUERZA POR MADRE DE DIOS - MR FMDD",
-            "numeroCandidato": 5.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/203079.jpg",
-            "postulaDepartamento": "MADRE DE DIOS",
-            "postulaProvincia": "TAMBOPATA",
-            "postulaDistrito": "LABERINTO",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 240734.0,
@@ -112,7 +54,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "76374264",
             "nombreCompleto": "ALINA HUMPIRE ACHIRCANO",
-            "estado": "ADMITIDO",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2300.0,
             "organizacionPolitica": "MOVIMIENTO REGIONAL FUERZA POR MADRE DE DIOS - MR FMDD",
             "numeroCandidato": 2.0,
@@ -122,7 +64,71 @@
             "postulaDistrito": "LABERINTO",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 203077.0,
+            "feNacimiento": "1963-09-01T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "00506502",
+            "nombreCompleto": "AGUSTIN CANAVIRI MELCHOR",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2300.0,
+            "organizacionPolitica": "MOVIMIENTO REGIONAL FUERZA POR MADRE DE DIOS - MR FMDD",
+            "numeroCandidato": 3.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/203077.jpg",
+            "postulaDepartamento": "MADRE DE DIOS",
+            "postulaProvincia": "TAMBOPATA",
+            "postulaDistrito": "LABERINTO",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 203078.0,
+            "feNacimiento": "1979-06-25T00:00:00",
+            "txSexo": "F",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "40336946",
+            "nombreCompleto": "MILAGROS GEORGINA SOTELO VELARDE",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2300.0,
+            "organizacionPolitica": "MOVIMIENTO REGIONAL FUERZA POR MADRE DE DIOS - MR FMDD",
+            "numeroCandidato": 4.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/203078.jpg",
+            "postulaDepartamento": "MADRE DE DIOS",
+            "postulaProvincia": "TAMBOPATA",
+            "postulaDistrito": "LABERINTO",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 203079.0,
+            "feNacimiento": "1983-12-02T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "42107209",
+            "nombreCompleto": "AURELIO CCAHUANA CONDORI",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2300.0,
+            "organizacionPolitica": "MOVIMIENTO REGIONAL FUERZA POR MADRE DE DIOS - MR FMDD",
+            "numeroCandidato": 5.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/203079.jpg",
+            "postulaDepartamento": "MADRE DE DIOS",
+            "postulaProvincia": "TAMBOPATA",
+            "postulaDistrito": "LABERINTO",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
         }
     ],
     "totalPages": 0

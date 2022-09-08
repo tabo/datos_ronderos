@@ -12,7 +12,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "01284251",
             "nombreCompleto": "APOLINAR VILCA FLORES",
-            "estado": "INADMISIBLE",
+            "estado": "EXCLUSION",
             "idOrganizacionPolitica": 2218.0,
             "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
             "numeroCandidato": 0.0,
@@ -22,7 +22,8 @@
             "postulaDistrito": "VILQUE",
             "cargo": [
                 "ALCALDE DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 228969.0,
@@ -32,7 +33,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "71514798",
             "nombreCompleto": "YAKELIN DANITZA FLORES QUISPE",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2218.0,
             "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
             "numeroCandidato": 1.0,
@@ -42,67 +43,8 @@
             "postulaDistrito": "VILQUE",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 228971.0,
-            "feNacimiento": "1991-11-06T00:00:00",
-            "txSexo": "F",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "70143559",
-            "nombreCompleto": "EVA COLCA PARICAHUA",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2218.0,
-            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
-            "numeroCandidato": 3.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/228971.jpg",
-            "postulaDepartamento": "PUNO",
-            "postulaProvincia": "PUNO",
-            "postulaDistrito": "VILQUE",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 228972.0,
-            "feNacimiento": "1980-01-22T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "41666410",
-            "nombreCompleto": "VICENTE QUISPE CASQUINO",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2218.0,
-            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
-            "numeroCandidato": 4.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/228972.jpg",
-            "postulaDepartamento": "PUNO",
-            "postulaProvincia": "PUNO",
-            "postulaDistrito": "VILQUE",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 228973.0,
-            "feNacimiento": "1974-01-14T00:00:00",
-            "txSexo": "F",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "01284196",
-            "nombreCompleto": "NORA COAQUIRA QUISPE",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2218.0,
-            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
-            "numeroCandidato": 5.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/228973.jpg",
-            "postulaDepartamento": "PUNO",
-            "postulaProvincia": "PUNO",
-            "postulaDistrito": "VILQUE",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 241290.0,
@@ -112,7 +54,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "70170663",
             "nombreCompleto": "RONALD NAUN QUISPE MAMANI",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2218.0,
             "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
             "numeroCandidato": 2.0,
@@ -122,7 +64,71 @@
             "postulaDistrito": "VILQUE",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 228971.0,
+            "feNacimiento": "1991-11-06T00:00:00",
+            "txSexo": "F",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "70143559",
+            "nombreCompleto": "EVA COLCA PARICAHUA",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2218.0,
+            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "numeroCandidato": 3.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/228971.jpg",
+            "postulaDepartamento": "PUNO",
+            "postulaProvincia": "PUNO",
+            "postulaDistrito": "VILQUE",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 228972.0,
+            "feNacimiento": "1980-01-22T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "41666410",
+            "nombreCompleto": "VICENTE QUISPE CASQUINO",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2218.0,
+            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "numeroCandidato": 4.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/228972.jpg",
+            "postulaDepartamento": "PUNO",
+            "postulaProvincia": "PUNO",
+            "postulaDistrito": "VILQUE",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 228973.0,
+            "feNacimiento": "1974-01-14T00:00:00",
+            "txSexo": "F",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "01284196",
+            "nombreCompleto": "NORA COAQUIRA QUISPE",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2218.0,
+            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "numeroCandidato": 5.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/228973.jpg",
+            "postulaDepartamento": "PUNO",
+            "postulaProvincia": "PUNO",
+            "postulaDistrito": "VILQUE",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
         }
     ],
     "totalPages": 0

@@ -1,0 +1,160 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 219327.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 4.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "46014711",
+        "nombres": "CRISTOFER JONATHAN",
+        "apellidoPaterno": "CHAPARRO",
+        "apellidoMaterno": "MATUTE",
+        "sexo": "1",
+        "feNacimiento": "28/08/1989",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "070108",
+        "naciDepartamento": "CUSCO",
+        "naciProvincia": "CUSCO",
+        "naciDistrito": "WANCHAQ",
+        "ubigeoDomicilio": "070301",
+        "domiDepartamento": "CUSCO",
+        "domiProvincia": "ANTA",
+        "domiDistrito": "ANTA",
+        "domicilioDirecc": "CONCHACALLA CENTRAL S/N",
+        "ubigeoPostula": "070000",
+        "postulaDepartamento": "CUSCO",
+        "postulaProvincia": " ",
+        "postulaDistrito": " ",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/219327.jpg",
+        "estado": "INSCRITO",
+        "idOrganizacionPolitica": 2218.0,
+        "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "numeroCandidato": 2.0,
+        "cargo": [
+            "ACCESITARIO"
+        ],
+        "txFeTerminoRegistro": "14/06/2022 09:49:42",
+        "txGuidFormatoHojaVida": "9416e6a3-3049-4ad9-bd97-791d865b288e",
+        "idSolicitudLista": 33911.0,
+        "txComentario": null
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 245032,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "ECOGEN E.I.R.L",
+            "ocupacionProfesion": "GERENTE GENERAL",
+            "rucTrabajo": "20602802745",
+            "direccionTrabajo": "S/N",
+            "anioTrabajoDesde": "2017",
+            "anioTrabajoHasta": "2022",
+            "ubigeoTrabajo": "140135",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "LIMA",
+            "trabajoProvincia": "LIMA",
+            "trabajoDistrito": "EL AGUSTINO",
+            "idHojaVida": 219327,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": null
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 216746,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 219327,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [
+            {
+                "idHvCargoPartidario": 143002,
+                "tengoCargoPartidario": "SI",
+                "itemCargoPartidario": 1,
+                "idOrgPolCargoPartidario": 2218,
+                "orgPolCargoPartidario": "PARTIDO POLÍTICO PARTIDO POLITICO NACIONAL PERU LIBRE",
+                "cargoPartidario": "SECRETARIO DE ORGANIZACION",
+                "anioCargoPartiDesde": "2022",
+                "anioCargoPartiHasta": "2022",
+                "idHojaVida": 219327,
+                "idEstado": 1,
+                "estado": "ACTIVO (R)",
+                "txComentario": null
+            }
+        ],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 195696,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 13020.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 82800.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 219327,
+                "idEstado": 1,
+                "totalIngresos": 95820.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 161544,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "REGISTRO DE PROPIEDAD VEHICULAR",
+                "marca": null,
+                "placa": "2259DX ",
+                "valor": 20000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "BUENO",
+                "comentario": null,
+                "idHojaVida": 219327,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": [
+            {
+                "idHVTitularidad": 6861,
+                "tengoTitularidad": "SI",
+                "nuItemTitularidad": 1,
+                "txPersonaJuridica": "ECOGEN E.I.R.L",
+                "idParamTipoTitularidad": 87,
+                "txTipoTitularidad": "ACCIONES",
+                "flCantidad": 100.0,
+                "flValor": 100.0,
+                "idHojaVida": 219327,
+                "idEstado": 1,
+                "txUsuario": "42600694",
+                "txFechaRegistro": null,
+                "txComentario": null,
+                "txRegistroManual": null
+            }
+        ]
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

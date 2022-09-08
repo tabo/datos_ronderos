@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 4.0,
+    "count": 7.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 4,
+            "totalRows": 7,
             "rowNumber": 1,
             "txJuradoCompetencia": "SAN ANTONIO DE PUTINA",
             "txCodExpedienteExt": "ERM.2022005412",
@@ -35,7 +35,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 4,
+            "totalRows": 7,
             "rowNumber": 2,
             "txJuradoCompetencia": "SAN ANTONIO DE PUTINA",
             "txCodExpedienteExt": "ERM.2022014322",
@@ -43,8 +43,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "BETSY KARINA GUTIERREZ",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 162308,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -60,7 +60,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 4,
+            "totalRows": 7,
             "rowNumber": 3,
             "txJuradoCompetencia": "SAN ANTONIO DE PUTINA",
             "txCodExpedienteExt": "ERM.2022014626",
@@ -68,8 +68,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "BETSY KARINA GUTIERREZ",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 162624,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -85,7 +85,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 4,
+            "totalRows": 7,
             "rowNumber": 4,
             "txJuradoCompetencia": "SAN ANTONIO DE PUTINA",
             "txCodExpedienteExt": "ERM.2022015946",
@@ -93,8 +93,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "BETSY KARINA GUTIERREZ",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 163997,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -103,6 +103,91 @@
             "partes": [
                 {
                     "txNombresApellidos": "EMILIO LUQUE MASCO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 7,
+            "rowNumber": 5,
+            "txJuradoCompetencia": "SAN ANTONIO DE PUTINA",
+            "txCodExpedienteExt": "ERM.2022023559",
+            "feRegistro": "17/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "BETSY KARINA GUTIERREZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 171945,
+            "idExpedientePadre": 162624,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "SAN ANTONIO DE PUTINA",
+            "partes": [
+                {
+                    "txNombresApellidos": "EMILIO LUQUE MASCO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 7,
+            "rowNumber": 6,
+            "txJuradoCompetencia": "SAN ANTONIO DE PUTINA",
+            "txCodExpedienteExt": "ERM.2022038921",
+            "feRegistro": "25/08/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "MARITZA YOVANA ROMERO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 187632,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "SAN ANTONIO DE PUTINA",
+            "partes": [
+                {
+                    "txNombresApellidos": "EMILIO LUQUE MASCO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "HUGO CHURA ALANOCA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 7,
+            "rowNumber": 7,
+            "txJuradoCompetencia": "SAN ANTONIO DE PUTINA",
+            "txCodExpedienteExt": "ERM.2022038945",
+            "feRegistro": "25/08/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "MARITZA YOVANA ROMERO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "idExpediente": 187681,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "SAN ANTONIO DE PUTINA",
+            "partes": [
+                {
+                    "txNombresApellidos": "EMILIO LUQUE MASCO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "HUGO CHURA ALANOCA",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

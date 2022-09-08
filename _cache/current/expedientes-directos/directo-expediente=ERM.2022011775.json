@@ -13,14 +13,20 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
             "txResponsable": "JHON CRISTIAN CANCHARI",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
             "idExpediente": 169855,
             "idExpedientePadre": 159645,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "CUSCO",
-            "partes": [],
+            "partes": [
+                {
+                    "txNombresApellidos": "EVELIN CLAUDIA PACHECO GALLEGOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
             "tienePersonalJurado": false
         }
     ],

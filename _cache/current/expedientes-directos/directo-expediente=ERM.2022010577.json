@@ -13,14 +13,20 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
             "txResponsable": "PEDRO JESUS NUÑEZ",
-            "txEtapa": "PRONUNCIAMIENTO",
-            "txEstado": "EN FIRMAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 169940,
             "idExpedientePadre": 158341,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "HUANCAYO",
-            "partes": [],
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE LUIS RIVERA BARZOLA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
             "tienePersonalJurado": false
         }
     ],

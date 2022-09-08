@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 3.0,
+    "count": 6.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 3,
+            "totalRows": 6,
             "rowNumber": 1,
             "txJuradoCompetencia": "POMABAMBA",
             "txCodExpedienteExt": "ERM.2022020096",
@@ -13,18 +13,24 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
             "txResponsable": "RAYSA NATALIE MINAYA",
-            "txEtapa": "PRONUNCIAMIENTO",
-            "txEstado": "EN PRONUNCIAMIENTO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168361,
             "idExpedientePadre": 163011,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "POMABAMBA",
-            "partes": [],
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN SILVA HUERTAS,",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 3,
+            "totalRows": 6,
             "rowNumber": 2,
             "txJuradoCompetencia": "POMABAMBA",
             "txCodExpedienteExt": "ERM.2022020197",
@@ -32,9 +38,84 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
             "txResponsable": "RAYSA NATALIE MINAYA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 168457,
+            "idExpedientePadre": 163011,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "POMABAMBA",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN SILVA HUERTAS,",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 6,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "JURADO NACIONAL DE ELECCIONES",
+            "txCodExpedienteExt": "ERM.2022020200",
+            "feRegistro": "01/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "RAYSA NATALIE MINAYA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 168463,
+            "idExpedientePadre": 163011,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "POMABAMBA",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN SILVA HUERTAS,",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 6,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "POMABAMBA",
+            "txCodExpedienteExt": "ERM.2022022726",
+            "feRegistro": "14/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "RAYSA NATALIE MINAYA",
             "txEtapa": "PRONUNCIAMIENTO",
             "txEstado": "EN PRONUNCIAMIENTO",
-            "idExpediente": 168457,
+            "idExpediente": 171092,
+            "idExpedientePadre": 163011,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "POMABAMBA",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN SILVA HUERTAS,",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 6,
+            "rowNumber": 5,
+            "txJuradoCompetencia": "POMABAMBA",
+            "txCodExpedienteExt": "ERM.2022022754",
+            "feRegistro": "14/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "RAYSA NATALIE MINAYA",
+            "txEtapa": "PRONUNCIAMIENTO",
+            "txEstado": "EN PRONUNCIAMIENTO",
+            "idExpediente": 171141,
             "idExpedientePadre": 163011,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
@@ -43,24 +124,24 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 3,
-            "rowNumber": 3,
-            "txJuradoCompetencia": "JURADO NACIONAL DE ELECCIONES",
-            "txCodExpedienteExt": "ERM.2022020200",
-            "feRegistro": "01/07/2022",
+            "totalRows": 6,
+            "rowNumber": 6,
+            "txJuradoCompetencia": "POMABAMBA",
+            "txCodExpedienteExt": "ERM.2022025327",
+            "feRegistro": "25/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
-            "txMateria": "APELACIÓN",
-            "txResponsable": "TEOFILA AMELIA HERNÁNDEZ",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
-            "idExpediente": 168463,
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "RAYSA NATALIE MINAYA",
+            "txEtapa": "PRONUNCIAMIENTO",
+            "txEstado": "EN PRONUNCIAMIENTO",
+            "idExpediente": 173761,
             "idExpedientePadre": 163011,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "POMABAMBA",
             "partes": [
                 {
-                    "txNombresApellidos": "JUAN SILVA HUERTAS",
+                    "txNombresApellidos": "JUAN SILVA HUERTAS,",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

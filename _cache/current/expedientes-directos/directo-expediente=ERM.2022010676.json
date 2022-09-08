@@ -13,8 +13,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "TACHA DE CANDIDATO",
             "txResponsable": "SHIRLEY MERCEDES LOPEZ",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 169574,
             "idExpedientePadre": 158460,
             "txImportancia": "NO MEDIÁTICO",
@@ -23,6 +23,11 @@
             "partes": [
                 {
                     "txNombresApellidos": "KARINA TUANAMA SALAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "SEGUNDO ALFONSO HUAYAMA NEIRA",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

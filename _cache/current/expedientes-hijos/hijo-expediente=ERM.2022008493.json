@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 6.0,
+    "count": 21.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 6,
+            "totalRows": 21,
             "rowNumber": 1,
             "txJuradoCompetencia": "LIMA SUR 1",
             "txCodExpedienteExt": "ERM.2022008089",
@@ -22,6 +22,11 @@
             "txJuradoCreacion": "LIMA SUR 1",
             "partes": [
                 {
+                    "txNombresApellidos": "ARMANDO LINO LLERENA VICTORIA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
                     "txNombresApellidos": "KEVIN STEVE CASTILLO ROJAS",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
@@ -30,7 +35,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 21,
             "rowNumber": 2,
             "txJuradoCompetencia": "LIMA SUR 1",
             "txCodExpedienteExt": "ERM.2022009525",
@@ -60,7 +65,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 21,
             "rowNumber": 3,
             "txJuradoCompetencia": "LIMA SUR 1",
             "txCodExpedienteExt": "ERM.2022011733",
@@ -68,8 +73,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "PAOLA CRISTINA CABRERA",
-            "txEtapa": "ASIGNACION",
-            "txEstado": "ASIGNADO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 159603,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -85,22 +90,27 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 21,
             "rowNumber": 4,
             "txJuradoCompetencia": "LIMA SUR 1",
-            "txCodExpedienteExt": "ERM.2022020689",
-            "feRegistro": "04/07/2022",
+            "txCodExpedienteExt": "ERM.2022018682",
+            "feRegistro": "21/06/2022",
             "txTipoExpediente": "PROPAGANDA ELECTORAL",
             "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
             "txResponsable": "GIULIANA MILAGROS CARRASCO",
-            "txEtapa": "ASIGNACION",
-            "txEstado": "ASIGNADO",
-            "idExpediente": 168960,
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 166865,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "LIMA SUR 1",
             "partes": [
+                {
+                    "txNombresApellidos": "MARCO ANTONIO LUCAS AGUIRRE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
                 {
                     "txNombresApellidos": "KEVIN STEVE CASTILLO ROJAS",
                     "idPersonalJurado": null,
@@ -110,16 +120,76 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 21,
             "rowNumber": 5,
+            "txJuradoCompetencia": "LIMA SUR 1",
+            "txCodExpedienteExt": "ERM.2022020688",
+            "feRegistro": "04/07/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "GABY CONSUELO ANAMPA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 168959,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA SUR 1",
+            "partes": [
+                {
+                    "txNombresApellidos": "MARCO ANTONIO LUCAS AGUIRRE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "KEVIN STEVE CASTILLO ROJAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 21,
+            "rowNumber": 6,
+            "txJuradoCompetencia": "LIMA SUR 1",
+            "txCodExpedienteExt": "ERM.2022020689",
+            "feRegistro": "04/07/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "GIULIANA MILAGROS CARRASCO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 168960,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA SUR 1",
+            "partes": [
+                {
+                    "txNombresApellidos": "MARCO ANTONIO LUCAS AGUIRRE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "KEVIN STEVE CASTILLO ROJAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 21,
+            "rowNumber": 7,
             "txJuradoCompetencia": "LIMA SUR 1",
             "txCodExpedienteExt": "ERM.2022021174",
             "feRegistro": "06/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "CARLA MIJAL ROCA",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "GIULIANA MILAGROS CARRASCO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 169465,
             "idExpedientePadre": 156168,
             "txImportancia": "NO MEDIÁTICO",
@@ -135,22 +205,442 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
-            "rowNumber": 6,
+            "totalRows": 21,
+            "rowNumber": 8,
             "txJuradoCompetencia": "LIMA SUR 1",
             "txCodExpedienteExt": "ERM.2022021570",
             "feRegistro": "08/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "YESSICA YOLY CUTIPA",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "PAOLA CRISTINA CABRERA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 169899,
             "idExpedientePadre": 159603,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "LIMA SUR 1",
             "partes": [
+                {
+                    "txNombresApellidos": "KEVIN STEVE CASTILLO ROJAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 21,
+            "rowNumber": 9,
+            "txJuradoCompetencia": "LIMA SUR 1",
+            "txCodExpedienteExt": "ERM.2022024042",
+            "feRegistro": "19/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "GIULIANA MILAGROS CARRASCO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 172442,
+            "idExpedientePadre": 155718,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA SUR 1",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN CARLOS GONZALES HIDALGO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "KEVIN STEVE CASTILLO ROJAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 21,
+            "rowNumber": 10,
+            "txJuradoCompetencia": "LIMA SUR 1",
+            "txCodExpedienteExt": "ERM.2022024263",
+            "feRegistro": "20/07/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "GIULIANA MILAGROS CARRASCO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 172663,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA SUR 1",
+            "partes": [
+                {
+                    "txNombresApellidos": "MARCO ANTONIO LUCAS AGUIRRE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JUAN CARLOS GONZALES HIDALGO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "KEVIN STEVE CASTILLO ROJAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 21,
+            "rowNumber": 11,
+            "txJuradoCompetencia": "LIMA SUR 1",
+            "txCodExpedienteExt": "ERM.2022024690",
+            "feRegistro": "21/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "PAOLA CRISTINA CABRERA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 173096,
+            "idExpedientePadre": 159603,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA SUR 1",
+            "partes": [
+                {
+                    "txNombresApellidos": "KEVIN STEVE CASTILLO ROJAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 21,
+            "rowNumber": 12,
+            "txJuradoCompetencia": "LIMA SUR 1",
+            "txCodExpedienteExt": "ERM.2022028313",
+            "feRegistro": "04/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "TACHA DE CANDIDATO",
+            "txResponsable": "GIULIANA MILAGROS CARRASCO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176840,
+            "idExpedientePadre": 157248,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA SUR 1",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN CARLOS GONZALES HIDALGO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "YNA ESTHER RIVERA JIMENEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "KEVIN STEVE CASTILLO ROJAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 21,
+            "rowNumber": 13,
+            "txJuradoCompetencia": "LIMA SUR 1",
+            "txCodExpedienteExt": "ERM.2022028316",
+            "feRegistro": "04/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "TACHA DE CANDIDATO",
+            "txResponsable": "GIULIANA MILAGROS CARRASCO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176843,
+            "idExpedientePadre": 157248,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA SUR 1",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN CARLOS GONZALES HIDALGO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "YNA ESTHER RIVERA JIMENEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "KEVIN STEVE CASTILLO ROJAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 21,
+            "rowNumber": 14,
+            "txJuradoCompetencia": "LIMA SUR 1",
+            "txCodExpedienteExt": "ERM.2022029077",
+            "feRegistro": "06/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTRAS PETICIONES CONTRA PRONUNCIAMIENTOS DEL JNE / JEE",
+            "txResponsable": "GIULIANA MILAGROS CARRASCO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 177596,
+            "idExpedientePadre": 157248,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA SUR 1",
+            "partes": [
+                {
+                    "txNombresApellidos": "ALFREDO EDUARDO CASTRO ESPIRITU",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JUAN CARLOS GONZALES HIDALGO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "KEVIN STEVE CASTILLO ROJAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 21,
+            "rowNumber": 15,
+            "txJuradoCompetencia": "LIMA SUR 1",
+            "txCodExpedienteExt": "ERM.2022029442",
+            "feRegistro": "07/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "TACHA DE CANDIDATO",
+            "txResponsable": "HUGO LUIS CORNEJO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 177978,
+            "idExpedientePadre": 155722,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA SUR 1",
+            "partes": [
+                {
+                    "txNombresApellidos": "KEVIN STEVE CASTILLO ROJAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JUAN VIDAL CCOYORI CARRION",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 21,
+            "rowNumber": 16,
+            "txJuradoCompetencia": "LIMA SUR 1",
+            "txCodExpedienteExt": "ERM.2022030419",
+            "feRegistro": "08/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "TACHA DE CANDIDATO",
+            "txResponsable": "HUGO LUIS CORNEJO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 178970,
+            "idExpedientePadre": 155722,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA SUR 1",
+            "partes": [
+                {
+                    "txNombresApellidos": "KEVIN STEVE CASTILLO ROJAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "KEVIN RAUL ALEXANDER POLICARPO CACEDA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 21,
+            "rowNumber": 17,
+            "txJuradoCompetencia": "LIMA SUR 1",
+            "txCodExpedienteExt": "ERM.2022031272",
+            "feRegistro": "10/08/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "GIULIANA MILAGROS CARRASCO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "idExpediente": 179817,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA SUR 1",
+            "partes": [
+                {
+                    "txNombresApellidos": "MARCO ANTONIO LUCAS AGUIRRE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JUAN CARLOS GONZALES HIDALGO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "KEVIN STEVE CASTILLO ROJAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 21,
+            "rowNumber": 18,
+            "txJuradoCompetencia": "LIMA SUR 1",
+            "txCodExpedienteExt": "ERM.2022034960",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "HUGO LUIS CORNEJO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183565,
+            "idExpedientePadre": 155722,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA SUR 1",
+            "partes": [
+                {
+                    "txNombresApellidos": "LUIS MARCELO ALBORNOZ VASQUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "KEVIN STEVE CASTILLO ROJAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 21,
+            "rowNumber": 19,
+            "txJuradoCompetencia": "LIMA SUR 1",
+            "txCodExpedienteExt": "ERM.2022035005",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "GIULIANA MILAGROS CARRASCO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183597,
+            "idExpedientePadre": 156168,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA SUR 1",
+            "partes": [
+                {
+                    "txNombresApellidos": "MARCO ANTONIO LUCAS AGUIRRE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JUAN CARLOS GONZALES HIDALGO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "LUIS MARCELO ALBORNOZ VASQUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "KEVIN STEVE CASTILLO ROJAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 21,
+            "rowNumber": 20,
+            "txJuradoCompetencia": "LIMA SUR 1",
+            "txCodExpedienteExt": "ERM.2022036733",
+            "feRegistro": "18/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "HUGO LUIS CORNEJO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 185380,
+            "idExpedientePadre": 178970,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA SUR 1",
+            "partes": [
+                {
+                    "txNombresApellidos": "KEVIN STEVE CASTILLO ROJAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "KEVIN RAUL ALEXANDER POLICARPO CACEDA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 21,
+            "rowNumber": 21,
+            "txJuradoCompetencia": "LIMA SUR 1",
+            "txCodExpedienteExt": "ERM.2022037366",
+            "feRegistro": "20/08/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "GIULIANA MILAGROS CARRASCO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "idExpediente": 186032,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA SUR 1",
+            "partes": [
+                {
+                    "txNombresApellidos": "MARCO ANTONIO LUCAS AGUIRRE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
                 {
                     "txNombresApellidos": "KEVIN STEVE CASTILLO ROJAS",
                     "idPersonalJurado": null,

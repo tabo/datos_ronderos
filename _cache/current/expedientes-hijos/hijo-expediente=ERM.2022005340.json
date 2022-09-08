@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 7.0,
+    "count": 29.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 7,
+            "totalRows": 29,
             "rowNumber": 1,
             "txJuradoCompetencia": "MARISCAL CACERES",
             "txCodExpedienteExt": "ERM.2022003446",
@@ -13,8 +13,8 @@
             "txTipoExpediente": "PROPAGANDA ELECTORAL",
             "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
             "txResponsable": "ANGELICA MARIA NAVAS",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 150106,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -35,7 +35,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 29,
             "rowNumber": 2,
             "txJuradoCompetencia": "MARISCAL CACERES",
             "txCodExpedienteExt": "ERM.2022005139",
@@ -60,7 +60,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 29,
             "rowNumber": 3,
             "txJuradoCompetencia": "MARISCAL CACERES",
             "txCodExpedienteExt": "ERM.2022005463",
@@ -68,8 +68,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "JESSICA PAOLA ESQUIVES",
-            "txEtapa": "PRONUNCIAMIENTO",
-            "txEstado": "EN FIRMAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 152850,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -85,7 +85,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 29,
             "rowNumber": 4,
             "txJuradoCompetencia": "MOYOBAMBA",
             "txCodExpedienteExt": "ERM.2022005608",
@@ -115,7 +115,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 29,
             "rowNumber": 5,
             "txJuradoCompetencia": "SAN MARTIN",
             "txCodExpedienteExt": "ERM.2022006341",
@@ -140,7 +140,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 29,
             "rowNumber": 6,
             "txJuradoCompetencia": "SAN MARTIN",
             "txCodExpedienteExt": "ERM.2022007072",
@@ -165,8 +165,38 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 29,
             "rowNumber": 7,
+            "txJuradoCompetencia": "MOYOBAMBA",
+            "txCodExpedienteExt": "ERM.2022015092",
+            "feRegistro": "17/06/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "SOLICITUD DE INSCRIPCIÓN",
+            "txResponsable": "HEYDY SHOIS RODRIGUEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 163094,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MOYOBAMBA",
+            "partes": [
+                {
+                    "txNombresApellidos": "MICHEL RENGIFO BALSECA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "CARLOS JOSE HAEMMERLE VASQUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 29,
+            "rowNumber": 8,
             "txJuradoCompetencia": "MOYOBAMBA",
             "txCodExpedienteExt": "ERM.2022018837",
             "feRegistro": "22/06/2022",
@@ -188,6 +218,566 @@
                 },
                 {
                     "txNombresApellidos": "FERNANDO VELASQUEZ CARRANZA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 29,
+            "rowNumber": 9,
+            "txJuradoCompetencia": "MARISCAL CACERES",
+            "txCodExpedienteExt": "ERM.2022023065",
+            "feRegistro": "15/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": " ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 171433,
+            "idExpedientePadre": 152707,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL CACERES",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS JOSE HAEMMERLE VASQUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 29,
+            "rowNumber": 10,
+            "txJuradoCompetencia": "MOYOBAMBA",
+            "txCodExpedienteExt": "ERM.2022023167",
+            "feRegistro": "15/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "YESICA PAOLA CIEZA",
+            "txEtapa": "PRONUNCIAMIENTO",
+            "txEstado": "EN PRONUNCIAMIENTO",
+            "idExpediente": 171543,
+            "idExpedientePadre": 160356,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MOYOBAMBA",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS JOSE HAEMMERLE VASQUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 29,
+            "rowNumber": 11,
+            "txJuradoCompetencia": "MARISCAL CACERES",
+            "txCodExpedienteExt": "ERM.2022023157",
+            "feRegistro": "15/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": " ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 171560,
+            "idExpedientePadre": 153969,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL CACERES",
+            "partes": [
+                {
+                    "txNombresApellidos": "FERNANDO GRANDEZ VEINTEMILLA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "CARLOS JOSE HAEMMERLE VASQUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 29,
+            "rowNumber": 12,
+            "txJuradoCompetencia": "MARISCAL CACERES",
+            "txCodExpedienteExt": "ERM.2022023891",
+            "feRegistro": "19/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "HAROLD ALFREDO GALAN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 172297,
+            "idExpedientePadre": 165920,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL CACERES",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS JOSE HAEMMERLE VASQUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 29,
+            "rowNumber": 13,
+            "txJuradoCompetencia": "SAN MARTIN",
+            "txCodExpedienteExt": "ERM.2022025685",
+            "feRegistro": "26/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "URSULA KIMBERLY HIDALGO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 174123,
+            "idExpedientePadre": 159480,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "SAN MARTIN",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS JOSE HAEMMERLE VASQUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "ALEJANDRO AMADOR AGURTO MOGOLLON",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 29,
+            "rowNumber": 14,
+            "txJuradoCompetencia": "MARISCAL CACERES",
+            "txCodExpedienteExt": "ERM.2022036000",
+            "feRegistro": "16/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JESSICA DELGADO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 184629,
+            "idExpedientePadre": 152707,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL CACERES",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS JOSE HAEMMERLE VASQUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 29,
+            "rowNumber": 15,
+            "txJuradoCompetencia": "MOYOBAMBA",
+            "txCodExpedienteExt": "ERM.2022036386",
+            "feRegistro": "17/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "HEYDY SHOIS RODRIGUEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 185022,
+            "idExpedientePadre": 163094,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MOYOBAMBA",
+            "partes": [
+                {
+                    "txNombresApellidos": "KENYO ETHEL MALLQUI RAMOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "CARLOS JOSE HAEMMERLE VASQUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 29,
+            "rowNumber": 16,
+            "txJuradoCompetencia": "MOYOBAMBA",
+            "txCodExpedienteExt": "ERM.2022036688",
+            "feRegistro": "18/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "TONY ADAN DIAZ",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 185339,
+            "idExpedientePadre": 165971,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MOYOBAMBA",
+            "partes": [
+                {
+                    "txNombresApellidos": "MICHEL RENGIFO BALSECA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "CARLOS JOSE HAEMMERLE VASQUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 29,
+            "rowNumber": 17,
+            "txJuradoCompetencia": "MARISCAL CACERES",
+            "txCodExpedienteExt": "ERM.2022037485",
+            "feRegistro": "20/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": " ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 186136,
+            "idExpedientePadre": 182513,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL CACERES",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS JOSE HAEMMERLE VASQUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 29,
+            "rowNumber": 18,
+            "txJuradoCompetencia": "MARISCAL CACERES",
+            "txCodExpedienteExt": "ERM.2022037476",
+            "feRegistro": "20/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": " ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 186144,
+            "idExpedientePadre": 182326,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL CACERES",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS JOSE HAEMMERLE VASQUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 29,
+            "rowNumber": 19,
+            "txJuradoCompetencia": "MARISCAL CACERES",
+            "txCodExpedienteExt": "ERM.2022037486",
+            "feRegistro": "20/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": " ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 186150,
+            "idExpedientePadre": 182341,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL CACERES",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS JOSE HAEMMERLE VASQUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 29,
+            "rowNumber": 20,
+            "txJuradoCompetencia": "MARISCAL CACERES",
+            "txCodExpedienteExt": "ERM.2022037487",
+            "feRegistro": "20/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": " ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 186151,
+            "idExpedientePadre": 182342,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL CACERES",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS JOSE HAEMMERLE VASQUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 29,
+            "rowNumber": 21,
+            "txJuradoCompetencia": "MARISCAL CACERES",
+            "txCodExpedienteExt": "ERM.2022037493",
+            "feRegistro": "20/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": " ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 186152,
+            "idExpedientePadre": 181963,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL CACERES",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS JOSE HAEMMERLE VASQUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 29,
+            "rowNumber": 22,
+            "txJuradoCompetencia": "MARISCAL CACERES",
+            "txCodExpedienteExt": "ERM.2022037561",
+            "feRegistro": "20/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": " ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 186214,
+            "idExpedientePadre": 182511,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL CACERES",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS JOSE HAEMMERLE VASQUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 29,
+            "rowNumber": 23,
+            "txJuradoCompetencia": "MARISCAL CACERES",
+            "txCodExpedienteExt": "ERM.2022037616",
+            "feRegistro": "21/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": " ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 186271,
+            "idExpedientePadre": 182558,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL CACERES",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS JOSE HAEMMERLE VASQUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 29,
+            "rowNumber": 24,
+            "txJuradoCompetencia": "MARISCAL CACERES",
+            "txCodExpedienteExt": "ERM.2022037650",
+            "feRegistro": "21/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": " ",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 186306,
+            "idExpedientePadre": 184629,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL CACERES",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS JOSE HAEMMERLE VASQUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 29,
+            "rowNumber": 25,
+            "txJuradoCompetencia": "MARISCAL CACERES",
+            "txCodExpedienteExt": "ERM.2022037652",
+            "feRegistro": "21/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": " ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 186307,
+            "idExpedientePadre": 182512,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL CACERES",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS JOSE HAEMMERLE VASQUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 29,
+            "rowNumber": 26,
+            "txJuradoCompetencia": "MOYOBAMBA",
+            "txCodExpedienteExt": "ERM.2022038193",
+            "feRegistro": "22/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "TONY ADAN DIAZ",
+            "txEtapa": "PRONUNCIAMIENTO",
+            "txEstado": "EN PRONUNCIAMIENTO",
+            "idExpediente": 186864,
+            "idExpedientePadre": 165971,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MOYOBAMBA",
+            "partes": [
+                {
+                    "txNombresApellidos": "MICHEL RENGIFO BALSECA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "CARLOS JOSE HAEMMERLE VASQUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 29,
+            "rowNumber": 27,
+            "txJuradoCompetencia": "MOYOBAMBA",
+            "txCodExpedienteExt": "ERM.2022038196",
+            "feRegistro": "22/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "HEYDY SHOIS RODRIGUEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 186865,
+            "idExpedientePadre": 185022,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MOYOBAMBA",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS JOSE HAEMMERLE VASQUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 29,
+            "rowNumber": 28,
+            "txJuradoCompetencia": "MOYOBAMBA",
+            "txCodExpedienteExt": "ERM.2022038360",
+            "feRegistro": "23/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "QUEJA POR DEFECTO DE TRAMITACIÓN",
+            "txResponsable": "MARY RUBY FIESTAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 187036,
+            "idExpedientePadre": 165662,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MOYOBAMBA",
+            "partes": [
+                {
+                    "txNombresApellidos": "CASTORANIBAL PEREZ CAMPOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "ALEXIS BRYAN ATENCIO DIAZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JUAN EFRAIN SANCHEZ LA ROSA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 29,
+            "rowNumber": 29,
+            "txJuradoCompetencia": "MARISCAL CACERES",
+            "txCodExpedienteExt": "ERM.2022038560",
+            "feRegistro": "24/08/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "JESSICA DELGADO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 187252,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL CACERES",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS JOSE HAEMMERLE VASQUEZ",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

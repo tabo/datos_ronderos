@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 1.0,
+    "count": 3.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 1,
+            "totalRows": 3,
             "rowNumber": 1,
             "txJuradoCompetencia": "HUARI",
             "txCodExpedienteExt": "ERM.2022019901",
@@ -13,8 +13,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "TACHA DE CANDIDATO",
             "txResponsable": "FELIX LENIN GAMBINI",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168149,
             "idExpedientePadre": 158593,
             "txImportancia": "NO MEDIÁTICO",
@@ -26,6 +26,61 @@
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 },
+                {
+                    "txNombresApellidos": "EBERTH EPIFANIO RIOS TAMAYO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "HUARI",
+            "txCodExpedienteExt": "ERM.2022026338",
+            "feRegistro": "29/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "TACHA DE CANDIDATO",
+            "txResponsable": "FELIX LENIN GAMBINI",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 174810,
+            "idExpedientePadre": 158593,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUARI",
+            "partes": [
+                {
+                    "txNombresApellidos": "LOURDES DORIS SOLIS CERNA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "EBERTH EPIFANIO RIOS TAMAYO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "HUARI",
+            "txCodExpedienteExt": "ERM.2022026979",
+            "feRegistro": "01/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "FELIX LENIN GAMBINI",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 175456,
+            "idExpedientePadre": 158593,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUARI",
+            "partes": [
                 {
                     "txNombresApellidos": "EBERTH EPIFANIO RIOS TAMAYO",
                     "idPersonalJurado": null,

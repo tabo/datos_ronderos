@@ -12,7 +12,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "42091282",
             "nombreCompleto": "JHON PERCY MAULI ROMERO",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 14.0,
             "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
             "numeroCandidato": 0.0,
@@ -22,7 +22,8 @@
             "postulaDistrito": "TAMBO",
             "cargo": [
                 "ALCALDE DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 235325.0,
@@ -32,7 +33,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "70828470",
             "nombreCompleto": "XIOMARA ARASELLY OCHOA RIVERA",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 14.0,
             "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
             "numeroCandidato": 1.0,
@@ -42,7 +43,8 @@
             "postulaDistrito": "TAMBO",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 235326.0,
@@ -52,7 +54,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "45320945",
             "nombreCompleto": "ELOY LAPA HUAMAN",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 14.0,
             "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
             "numeroCandidato": 2.0,
@@ -62,47 +64,8 @@
             "postulaDistrito": "TAMBO",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 235328.0,
-            "feNacimiento": "1996-02-23T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "71764797",
-            "nombreCompleto": "JUAN CARLOS URBANO HUARANCCA",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 14.0,
-            "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
-            "numeroCandidato": 4.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/235328.jpg",
-            "postulaDepartamento": "AYACUCHO",
-            "postulaProvincia": "LA MAR",
-            "postulaDistrito": "TAMBO",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 235329.0,
-            "feNacimiento": "1999-07-08T00:00:00",
-            "txSexo": "F",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "71786506",
-            "nombreCompleto": "YESICA BENDEZU HUAMAN",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 14.0,
-            "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
-            "numeroCandidato": 5.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/235329.jpg",
-            "postulaDepartamento": "AYACUCHO",
-            "postulaProvincia": "LA MAR",
-            "postulaDistrito": "TAMBO",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 242722.0,
@@ -112,7 +75,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "48010020",
             "nombreCompleto": "RUTH MARY PEREZ MIGUEL",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 14.0,
             "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
             "numeroCandidato": 3.0,
@@ -122,7 +85,50 @@
             "postulaDistrito": "TAMBO",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 235328.0,
+            "feNacimiento": "1996-02-23T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "71764797",
+            "nombreCompleto": "JUAN CARLOS URBANO HUARANCCA",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 14.0,
+            "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+            "numeroCandidato": 4.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/235328.jpg",
+            "postulaDepartamento": "AYACUCHO",
+            "postulaProvincia": "LA MAR",
+            "postulaDistrito": "TAMBO",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 235329.0,
+            "feNacimiento": "1999-07-08T00:00:00",
+            "txSexo": "F",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "71786506",
+            "nombreCompleto": "YESICA BENDEZU HUAMAN",
+            "estado": "IMPROCEDENTE",
+            "idOrganizacionPolitica": 14.0,
+            "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+            "numeroCandidato": 5.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/235329.jpg",
+            "postulaDepartamento": "AYACUCHO",
+            "postulaProvincia": "LA MAR",
+            "postulaDistrito": "TAMBO",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
         }
     ],
     "totalPages": 0

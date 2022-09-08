@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 53.0,
+    "count": 76.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 1,
             "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
             "txCodExpedienteExt": "ERM.2022006374",
@@ -40,7 +40,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 2,
             "txJuradoCompetencia": "ALTO AMAZONAS",
             "txCodExpedienteExt": "ERM.2022006495",
@@ -70,7 +70,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 3,
             "txJuradoCompetencia": "ALTO AMAZONAS",
             "txCodExpedienteExt": "ERM.2022008036",
@@ -95,7 +95,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 4,
             "txJuradoCompetencia": "ALTO AMAZONAS",
             "txCodExpedienteExt": "ERM.2022008047",
@@ -120,7 +120,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 5,
             "txJuradoCompetencia": "ALTO AMAZONAS",
             "txCodExpedienteExt": "ERM.2022008411",
@@ -145,7 +145,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 6,
             "txJuradoCompetencia": "ALTO AMAZONAS",
             "txCodExpedienteExt": "ERM.2022008458",
@@ -170,7 +170,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 7,
             "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
             "txCodExpedienteExt": "ERM.2022008789",
@@ -178,8 +178,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "CLAUDIA SOFIA TENAZOA",
-            "txEtapa": "RESUELTO",
-            "txEstado": "RESUELTO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
             "idExpediente": 156468,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -187,7 +187,17 @@
             "txJuradoCreacion": "MARISCAL RAMON CASTILLA",
             "partes": [
                 {
+                    "txNombresApellidos": "WILLIAM SEGUNDO PÉREZ BONIFAZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
                     "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "ALICIA EUGENIA RIOS MENDEZ",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }
@@ -195,7 +205,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 8,
             "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
             "txCodExpedienteExt": "ERM.2022008813",
@@ -215,12 +225,17 @@
                     "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "ALICIA EUGENIA RIOS MENDEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
                 }
             ],
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 9,
             "txJuradoCompetencia": "UCAYALI",
             "txCodExpedienteExt": "ERM.2022008842",
@@ -228,8 +243,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "ESCARLE CABANILLAS",
-            "txEtapa": "ASIGNACION",
-            "txEstado": "ASIGNADO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 156532,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -245,7 +260,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 10,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022008858",
@@ -270,7 +285,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 11,
             "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
             "txCodExpedienteExt": "ERM.2022008918",
@@ -278,8 +293,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "CLAUDIA SOFIA TENAZOA",
-            "txEtapa": "RESUELTO",
-            "txEstado": "RESUELTO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
             "idExpediente": 156604,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -290,12 +305,17 @@
                     "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "ALICIA EUGENIA RIOS MENDEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
                 }
             ],
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 12,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022008981",
@@ -315,12 +335,17 @@
                     "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "MARIA ELENA PAREDES SANDOVAL",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
                 }
             ],
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 13,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022009039",
@@ -328,8 +353,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "JOSE LUIS QUISPE",
-            "txEtapa": "PRONUNCIAMIENTO",
-            "txEstado": "EN REVISION DE PLENOS",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
             "idExpediente": 156736,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -345,7 +370,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 14,
             "txJuradoCompetencia": "UCAYALI",
             "txCodExpedienteExt": "ERM.2022009070",
@@ -370,7 +395,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 15,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022009078",
@@ -395,7 +420,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 16,
             "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
             "txCodExpedienteExt": "ERM.2022009188",
@@ -415,12 +440,17 @@
                     "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "ALICIA EUGENIA RIOS MENDEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
                 }
             ],
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 17,
             "txJuradoCompetencia": "MAYNAS",
             "txCodExpedienteExt": "ERM.2022009313",
@@ -445,7 +475,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 18,
             "txJuradoCompetencia": "MAYNAS",
             "txCodExpedienteExt": "ERM.2022009322",
@@ -453,8 +483,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "FIORELLA MONTALVAN",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
             "idExpediente": 157014,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -470,7 +500,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 19,
             "txJuradoCompetencia": "MAYNAS",
             "txCodExpedienteExt": "ERM.2022009354",
@@ -478,8 +508,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "MARLENE MARGARITA MARQUEZ",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 157054,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -495,7 +525,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 20,
             "txJuradoCompetencia": "MAYNAS",
             "txCodExpedienteExt": "ERM.2022009343",
@@ -503,8 +533,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "MARLENE MARGARITA MARQUEZ",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 157060,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -520,7 +550,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 21,
             "txJuradoCompetencia": "MAYNAS",
             "txCodExpedienteExt": "ERM.2022009368",
@@ -528,8 +558,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "MARLENE MARGARITA MARQUEZ",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 157085,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -545,7 +575,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 22,
             "txJuradoCompetencia": "MAYNAS",
             "txCodExpedienteExt": "ERM.2022009401",
@@ -553,8 +583,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "JEMISUY LILIANA FERNANDEZ",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 157093,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -570,7 +600,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 23,
             "txJuradoCompetencia": "MAYNAS",
             "txCodExpedienteExt": "ERM.2022009389",
@@ -578,8 +608,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "JEMISUY LILIANA FERNANDEZ",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 157105,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -595,7 +625,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 24,
             "txJuradoCompetencia": "MAYNAS",
             "txCodExpedienteExt": "ERM.2022009439",
@@ -603,8 +633,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "ELISA AKIKO DIAZ",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 157126,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -620,7 +650,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 25,
             "txJuradoCompetencia": "MAYNAS",
             "txCodExpedienteExt": "ERM.2022009425",
@@ -628,8 +658,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "JEMISUY LILIANA FERNANDEZ",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 157148,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -645,7 +675,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 26,
             "txJuradoCompetencia": "MAYNAS",
             "txCodExpedienteExt": "ERM.2022009432",
@@ -653,8 +683,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "FIORELLA MONTALVAN",
-            "txEtapa": "PRONUNCIAMIENTO",
-            "txEstado": "EN FIRMAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 157154,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -670,7 +700,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 27,
             "txJuradoCompetencia": "MAYNAS",
             "txCodExpedienteExt": "ERM.2022009444",
@@ -678,8 +708,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "CLAIRETH IDROGO",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 157162,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -695,7 +725,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 28,
             "txJuradoCompetencia": "MAYNAS",
             "txCodExpedienteExt": "ERM.2022009454",
@@ -703,8 +733,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "CLAIRETH IDROGO",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 157169,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -720,7 +750,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 29,
             "txJuradoCompetencia": "MAYNAS",
             "txCodExpedienteExt": "ERM.2022009471",
@@ -728,8 +758,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "JEMISUY LILIANA FERNANDEZ",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 157179,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -745,7 +775,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 30,
             "txJuradoCompetencia": "MAYNAS",
             "txCodExpedienteExt": "ERM.2022009499",
@@ -753,8 +783,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "JEMISUY LILIANA FERNANDEZ",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 157192,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -770,7 +800,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 31,
             "txJuradoCompetencia": "MAYNAS",
             "txCodExpedienteExt": "ERM.2022009534",
@@ -778,8 +808,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "JEMISUY LILIANA FERNANDEZ",
-            "txEtapa": "PRONUNCIAMIENTO",
-            "txEstado": "EN FIRMAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 157229,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -795,7 +825,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 32,
             "txJuradoCompetencia": "MAYNAS",
             "txCodExpedienteExt": "ERM.2022009536",
@@ -803,8 +833,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "MARLENE MARGARITA MARQUEZ",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 157231,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -820,7 +850,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 33,
             "txJuradoCompetencia": "MAYNAS",
             "txCodExpedienteExt": "ERM.2022009573",
@@ -828,8 +858,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "MARLENE MARGARITA MARQUEZ",
-            "txEtapa": "PRONUNCIAMIENTO",
-            "txEstado": "EN FIRMAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 157302,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -845,7 +875,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 34,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022010276",
@@ -853,8 +883,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "ARACELY ROMELIA VIERA",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 158017,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -862,7 +892,7 @@
             "txJuradoCreacion": "REQUENA",
             "partes": [
                 {
-                    "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
+                    "txNombresApellidos": "MARIA ELENA PAREDES SANDOVAL",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }
@@ -870,7 +900,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 35,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022010289",
@@ -895,7 +925,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 36,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022010300",
@@ -920,7 +950,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 37,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022010322",
@@ -945,7 +975,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 38,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022010335",
@@ -965,12 +995,17 @@
                     "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "ALICIA JHOANA RIOS NASHNATE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
                 }
             ],
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 39,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022010339",
@@ -978,8 +1013,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "ARACELY ROMELIA VIERA",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 158084,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -990,12 +1025,17 @@
                     "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "MARIA ELENA PAREDES SANDOVAL",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
                 }
             ],
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 40,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022010345",
@@ -1012,7 +1052,7 @@
             "txJuradoCreacion": "REQUENA",
             "partes": [
                 {
-                    "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
+                    "txNombresApellidos": "MARIA ELENA PAREDES SANDOVAL",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }
@@ -1020,7 +1060,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 41,
             "txJuradoCompetencia": "ALTO AMAZONAS",
             "txCodExpedienteExt": "ERM.2022011319",
@@ -1045,7 +1085,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 42,
             "txJuradoCompetencia": "ALTO AMAZONAS",
             "txCodExpedienteExt": "ERM.2022011416",
@@ -1070,7 +1110,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 43,
             "txJuradoCompetencia": "ALTO AMAZONAS",
             "txCodExpedienteExt": "ERM.2022011478",
@@ -1095,7 +1135,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 44,
             "txJuradoCompetencia": "ALTO AMAZONAS",
             "txCodExpedienteExt": "ERM.2022011700",
@@ -1120,7 +1160,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 45,
             "txJuradoCompetencia": "ALTO AMAZONAS",
             "txCodExpedienteExt": "ERM.2022011738",
@@ -1145,7 +1185,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 46,
             "txJuradoCompetencia": "ALTO AMAZONAS",
             "txCodExpedienteExt": "ERM.2022011845",
@@ -1170,7 +1210,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 47,
             "txJuradoCompetencia": "ALTO AMAZONAS",
             "txCodExpedienteExt": "ERM.2022011930",
@@ -1195,7 +1235,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 48,
             "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
             "txCodExpedienteExt": "ERM.2022018276",
@@ -1220,7 +1260,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 49,
             "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
             "txCodExpedienteExt": "ERM.2022018277",
@@ -1245,7 +1285,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 50,
             "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
             "txCodExpedienteExt": "ERM.2022018278",
@@ -1270,7 +1310,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 51,
             "txJuradoCompetencia": "MAYNAS",
             "txCodExpedienteExt": "ERM.2022019573",
@@ -1295,14 +1335,14 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 52,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022019738",
             "feRegistro": "29/06/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "TOMAS ALEJANDRO TELLO",
+            "txResponsable": " ",
             "txEtapa": "ESTUDIO",
             "txEstado": "EN TRÁMITE",
             "idExpediente": 167982,
@@ -1320,7 +1360,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 53,
+            "totalRows": 76,
             "rowNumber": 53,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022020707",
@@ -1343,6 +1383,641 @@
                 },
                 {
                     "txNombresApellidos": "JOSE ANTONIO SALAZAR RENGIFO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 76,
+            "rowNumber": 54,
+            "txJuradoCompetencia": "ALTO AMAZONAS",
+            "txCodExpedienteExt": "ERM.2022023244",
+            "feRegistro": "16/07/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "JAVIER VÁSQUEZ",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "idExpediente": 171643,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "ALTO AMAZONAS",
+            "partes": [
+                {
+                    "txNombresApellidos": "CESAR ENRIQUE GAMBETTA CORNEJO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 76,
+            "rowNumber": 55,
+            "txJuradoCompetencia": "MAYNAS",
+            "txCodExpedienteExt": "ERM.2022025104",
+            "feRegistro": "23/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "FIORELLA MONTALVAN",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 173533,
+            "idExpedientePadre": 169984,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MAYNAS",
+            "partes": [
+                {
+                    "txNombresApellidos": "DERSY KATTY TAPULLIMA SHUÑA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 76,
+            "rowNumber": 56,
+            "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
+            "txCodExpedienteExt": "ERM.2022025141",
+            "feRegistro": "24/07/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "RAYMA LIZET ZAPATA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 173563,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL RAMON CASTILLA",
+            "partes": [
+                {
+                    "txNombresApellidos": "JANETH CHOQUE JUSTINIANI",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "RENZO GIORDANO SARMIENTO CORBERA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JULIO GONZALO FARRO CUMPA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 76,
+            "rowNumber": 57,
+            "txJuradoCompetencia": "ALTO AMAZONAS",
+            "txCodExpedienteExt": "ERM.2022025258",
+            "feRegistro": "25/07/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "JAVIER VÁSQUEZ",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "idExpediente": 173682,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "ALTO AMAZONAS",
+            "partes": [
+                {
+                    "txNombresApellidos": "CESAR ENRIQUE GAMBETTA CORNEJO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 76,
+            "rowNumber": 58,
+            "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
+            "txCodExpedienteExt": "ERM.2022028058",
+            "feRegistro": "04/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "RAYMA LIZET ZAPATA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176553,
+            "idExpedientePadre": 156873,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL RAMON CASTILLA",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "ALICIA EUGENIA RIOS MENDEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 76,
+            "rowNumber": 59,
+            "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
+            "txCodExpedienteExt": "ERM.2022028550",
+            "feRegistro": "05/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTRAS PETICIONES CONTRA PRONUNCIAMIENTOS DEL JNE / JEE",
+            "txResponsable": "RAYMA LIZET ZAPATA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 177067,
+            "idExpedientePadre": 156873,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL RAMON CASTILLA",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 76,
+            "rowNumber": 60,
+            "txJuradoCompetencia": "UCAYALI",
+            "txCodExpedienteExt": "ERM.2022029484",
+            "feRegistro": "07/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "KAREN YADIRA ESPINOZA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 177997,
+            "idExpedientePadre": 156760,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "UCAYALI",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "WENDY PRISCILA ORBE FLORES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 76,
+            "rowNumber": 61,
+            "txJuradoCompetencia": "UCAYALI",
+            "txCodExpedienteExt": "ERM.2022029531",
+            "feRegistro": "07/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "KAREN YADIRA ESPINOZA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 178051,
+            "idExpedientePadre": 156532,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "UCAYALI",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "WENDY PRISCILA ORBE FLORES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 76,
+            "rowNumber": 62,
+            "txJuradoCompetencia": "UCAYALI",
+            "txCodExpedienteExt": "ERM.2022029533",
+            "feRegistro": "07/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ESCARLE CABANILLAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 178068,
+            "idExpedientePadre": 156532,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "UCAYALI",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 76,
+            "rowNumber": 63,
+            "txJuradoCompetencia": "UCAYALI",
+            "txCodExpedienteExt": "ERM.2022031627",
+            "feRegistro": "10/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "KAREN YADIRA ESPINOZA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 180184,
+            "idExpedientePadre": 156532,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "UCAYALI",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 76,
+            "rowNumber": 64,
+            "txJuradoCompetencia": "ALTO AMAZONAS",
+            "txCodExpedienteExt": "ERM.2022033118",
+            "feRegistro": "12/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JAVIER VÁSQUEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 181709,
+            "idExpedientePadre": 155678,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "ALTO AMAZONAS",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 76,
+            "rowNumber": 65,
+            "txJuradoCompetencia": "ALTO AMAZONAS",
+            "txCodExpedienteExt": "ERM.2022034118",
+            "feRegistro": "14/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "MIGUEL ANGEL MARTINEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 182715,
+            "idExpedientePadre": 156083,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "ALTO AMAZONAS",
+            "partes": [
+                {
+                    "txNombresApellidos": "CESAR ENRIQUE GAMBETTA CORNEJO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 76,
+            "rowNumber": 66,
+            "txJuradoCompetencia": "ALTO AMAZONAS",
+            "txCodExpedienteExt": "ERM.2022034143",
+            "feRegistro": "14/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JAVIER VÁSQUEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 182728,
+            "idExpedientePadre": 155678,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "ALTO AMAZONAS",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 76,
+            "rowNumber": 67,
+            "txJuradoCompetencia": "ALTO AMAZONAS",
+            "txCodExpedienteExt": "ERM.2022034147",
+            "feRegistro": "14/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JAVIER VÁSQUEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 182748,
+            "idExpedientePadre": 155678,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "ALTO AMAZONAS",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 76,
+            "rowNumber": 68,
+            "txJuradoCompetencia": "ALTO AMAZONAS",
+            "txCodExpedienteExt": "ERM.2022034158",
+            "feRegistro": "14/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JAVIER VÁSQUEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 182759,
+            "idExpedientePadre": 155678,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "ALTO AMAZONAS",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 76,
+            "rowNumber": 69,
+            "txJuradoCompetencia": "ALTO AMAZONAS",
+            "txCodExpedienteExt": "ERM.2022034180",
+            "feRegistro": "14/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "LILIAN CRISTINA MENDOZA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 182784,
+            "idExpedientePadre": 159245,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "ALTO AMAZONAS",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 76,
+            "rowNumber": 70,
+            "txJuradoCompetencia": "ALTO AMAZONAS",
+            "txCodExpedienteExt": "ERM.2022034807",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "LILIAN CRISTINA MENDOZA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183404,
+            "idExpedientePadre": 159144,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "ALTO AMAZONAS",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 76,
+            "rowNumber": 71,
+            "txJuradoCompetencia": "UCAYALI",
+            "txCodExpedienteExt": "ERM.2022035577",
+            "feRegistro": "16/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "KAREN YADIRA ESPINOZA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 184190,
+            "idExpedientePadre": 156760,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "UCAYALI",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 76,
+            "rowNumber": 72,
+            "txJuradoCompetencia": "UCAYALI",
+            "txCodExpedienteExt": "ERM.2022035592",
+            "feRegistro": "16/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ESCARLE CABANILLAS",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "idExpediente": 184206,
+            "idExpedientePadre": 157711,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "UCAYALI",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 76,
+            "rowNumber": 73,
+            "txJuradoCompetencia": "UCAYALI",
+            "txCodExpedienteExt": "ERM.2022035673",
+            "feRegistro": "16/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ESCARLE CABANILLAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 184289,
+            "idExpedientePadre": 156760,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "UCAYALI",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 76,
+            "rowNumber": 74,
+            "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
+            "txCodExpedienteExt": "ERM.2022036292",
+            "feRegistro": "17/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "CLAUDIA SOFIA TENAZOA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 184915,
+            "idExpedientePadre": 156468,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL RAMON CASTILLA",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "ALICIA EUGENIA RIOS MENDEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 76,
+            "rowNumber": 75,
+            "txJuradoCompetencia": "UCAYALI",
+            "txCodExpedienteExt": "ERM.2022036404",
+            "feRegistro": "17/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ESCARLE CABANILLAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 185029,
+            "idExpedientePadre": 157678,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "UCAYALI",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 76,
+            "rowNumber": 76,
+            "txJuradoCompetencia": "ALTO AMAZONAS",
+            "txCodExpedienteExt": "ERM.2022039695",
+            "feRegistro": "29/08/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "JAVIER VÁSQUEZ",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "A LA ESPERA DE INFORMACIÓN",
+            "idExpediente": 188483,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "ALTO AMAZONAS",
+            "partes": [
+                {
+                    "txNombresApellidos": "CESAR ENRIQUE GAMBETTA CORNEJO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JUAN CARLOS CORALES PAREDES",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

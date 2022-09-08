@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 7.0,
+    "count": 19.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 7,
+            "totalRows": 19,
             "rowNumber": 1,
             "txJuradoCompetencia": "LEONCIO PRADO",
             "txCodExpedienteExt": "ERM.2022007969",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 19,
             "rowNumber": 2,
             "txJuradoCompetencia": "LEONCIO PRADO",
             "txCodExpedienteExt": "ERM.2022008218",
@@ -55,7 +55,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 19,
             "rowNumber": 3,
             "txJuradoCompetencia": "HUANUCO",
             "txCodExpedienteExt": "ERM.2022008534",
@@ -80,7 +80,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 19,
             "rowNumber": 4,
             "txJuradoCompetencia": "LEONCIO PRADO",
             "txCodExpedienteExt": "ERM.2022008776",
@@ -105,7 +105,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 19,
             "rowNumber": 5,
             "txJuradoCompetencia": "HUANUCO",
             "txCodExpedienteExt": "ERM.2022009091",
@@ -113,8 +113,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "CRISTIAN JORGE ECHEVARRIA",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 156781,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -130,7 +130,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 19,
             "rowNumber": 6,
             "txJuradoCompetencia": "HUANUCO",
             "txCodExpedienteExt": "ERM.2022013827",
@@ -138,8 +138,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "KATIA ROSEMIRA TOLENTINO",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 161799,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -155,7 +155,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 19,
             "rowNumber": 7,
             "txJuradoCompetencia": "HUANUCO",
             "txCodExpedienteExt": "ERM.2022015090",
@@ -163,13 +163,313 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "JUDITH MARIBEL CACERES",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 163093,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "HUANUCO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JAVIER ROJAS PARRA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 8,
+            "txJuradoCompetencia": "LEONCIO PRADO",
+            "txCodExpedienteExt": "ERM.2022027430",
+            "feRegistro": "02/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "SHARON STEFHANY MORY",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 175925,
+            "idExpedientePadre": 155594,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LEONCIO PRADO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JAVIER ROJAS PARRA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 9,
+            "txJuradoCompetencia": "LEONCIO PRADO",
+            "txCodExpedienteExt": "ERM.2022027431",
+            "feRegistro": "02/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "SHARON STEFHANY MORY",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 175926,
+            "idExpedientePadre": 155594,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LEONCIO PRADO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JAVIER ROJAS PARRA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 10,
+            "txJuradoCompetencia": "LEONCIO PRADO",
+            "txCodExpedienteExt": "ERM.2022027432",
+            "feRegistro": "02/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "SHARON STEFHANY MORY",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 175927,
+            "idExpedientePadre": 155594,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LEONCIO PRADO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JAVIER ROJAS PARRA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 11,
+            "txJuradoCompetencia": "LEONCIO PRADO",
+            "txCodExpedienteExt": "ERM.2022027433",
+            "feRegistro": "02/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "SHARON STEFHANY MORY",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 175928,
+            "idExpedientePadre": 155594,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LEONCIO PRADO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JAVIER ROJAS PARRA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 12,
+            "txJuradoCompetencia": "LEONCIO PRADO",
+            "txCodExpedienteExt": "ERM.2022027435",
+            "feRegistro": "02/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "SHARON STEFHANY MORY",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 175929,
+            "idExpedientePadre": 155594,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LEONCIO PRADO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JAVIER ROJAS PARRA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 13,
+            "txJuradoCompetencia": "LEONCIO PRADO",
+            "txCodExpedienteExt": "ERM.2022027867",
+            "feRegistro": "03/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "SHARON STEFHANY MORY",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176379,
+            "idExpedientePadre": 155594,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LEONCIO PRADO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JAVIER ROJAS PARRA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 14,
+            "txJuradoCompetencia": "LEONCIO PRADO",
+            "txCodExpedienteExt": "ERM.2022028372",
+            "feRegistro": "04/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "FRANCOIS GUILLERMO ADDERLY SALINAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176869,
+            "idExpedientePadre": 155882,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LEONCIO PRADO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JAVIER ROJAS PARRA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 15,
+            "txJuradoCompetencia": "LEONCIO PRADO",
+            "txCodExpedienteExt": "ERM.2022028401",
+            "feRegistro": "04/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "FRANCOIS GUILLERMO ADDERLY SALINAS",
+            "txEtapa": "PRONUNCIAMIENTO",
+            "txEstado": "EN FIRMAS",
+            "idExpediente": 176910,
+            "idExpedientePadre": 156455,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LEONCIO PRADO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JAVIER ROJAS PARRA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 16,
+            "txJuradoCompetencia": "LEONCIO PRADO",
+            "txCodExpedienteExt": "ERM.2022028407",
+            "feRegistro": "04/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "FRANCOIS GUILLERMO ADDERLY SALINAS",
+            "txEtapa": "PRONUNCIAMIENTO",
+            "txEstado": "EN FIRMAS",
+            "idExpediente": 176922,
+            "idExpedientePadre": 156455,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LEONCIO PRADO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JAVIER ROJAS PARRA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 17,
+            "txJuradoCompetencia": "LEONCIO PRADO",
+            "txCodExpedienteExt": "ERM.2022029935",
+            "feRegistro": "08/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "FRANCOIS GUILLERMO ADDERLY SALINAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 178471,
+            "idExpedientePadre": 156455,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LEONCIO PRADO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JAVIER ROJAS PARRA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 18,
+            "txJuradoCompetencia": "LEONCIO PRADO",
+            "txCodExpedienteExt": "ERM.2022029984",
+            "feRegistro": "08/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "SHARON STEFHANY MORY",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 178512,
+            "idExpedientePadre": 155594,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LEONCIO PRADO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JAVIER ROJAS PARRA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 19,
+            "rowNumber": 19,
+            "txJuradoCompetencia": "LEONCIO PRADO",
+            "txCodExpedienteExt": "ERM.2022029993",
+            "feRegistro": "08/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "SHARON STEFHANY MORY",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 178517,
+            "idExpedientePadre": 155594,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LEONCIO PRADO",
             "partes": [
                 {
                     "txNombresApellidos": "JAVIER ROJAS PARRA",

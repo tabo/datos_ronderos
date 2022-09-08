@@ -12,7 +12,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "42889444",
             "nombreCompleto": "BENITO VALVERDE MORENO",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2245.0,
             "organizacionPolitica": "MOVIMIENTO REGIONAL EL MAICITO",
             "numeroCandidato": 0.0,
@@ -22,7 +22,8 @@
             "postulaDistrito": "SAN JUAN",
             "cargo": [
                 "ALCALDE DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 145801.0,
@@ -32,7 +33,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "40257283",
             "nombreCompleto": "APOLONIO VICENTE ROSALES SOTELO",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2245.0,
             "organizacionPolitica": "MOVIMIENTO REGIONAL EL MAICITO",
             "numeroCandidato": 1.0,
@@ -42,67 +43,8 @@
             "postulaDistrito": "SAN JUAN",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 145803.0,
-            "feNacimiento": "1987-06-15T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "44326998",
-            "nombreCompleto": "AGUSTIN MEGIA ALBITES",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2245.0,
-            "organizacionPolitica": "MOVIMIENTO REGIONAL EL MAICITO",
-            "numeroCandidato": 3.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/145803.jpg",
-            "postulaDepartamento": "ANCASH",
-            "postulaProvincia": "SIHUAS",
-            "postulaDistrito": "SAN JUAN",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 145804.0,
-            "feNacimiento": "1999-04-08T00:00:00",
-            "txSexo": "F",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "70792795",
-            "nombreCompleto": "ELVA CARMELA CAPRISTANO CAMPOMANES",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2245.0,
-            "organizacionPolitica": "MOVIMIENTO REGIONAL EL MAICITO",
-            "numeroCandidato": 4.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/145804.jpg",
-            "postulaDepartamento": "ANCASH",
-            "postulaProvincia": "SIHUAS",
-            "postulaDistrito": "SAN JUAN",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 145805.0,
-            "feNacimiento": "1978-02-06T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "33259170",
-            "nombreCompleto": "LUIS MODESTO LORENZO TOLENTINO",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2245.0,
-            "organizacionPolitica": "MOVIMIENTO REGIONAL EL MAICITO",
-            "numeroCandidato": 5.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/145805.jpg",
-            "postulaDepartamento": "ANCASH",
-            "postulaProvincia": "SIHUAS",
-            "postulaDistrito": "SAN JUAN",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 241049.0,
@@ -112,7 +54,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "71096934",
             "nombreCompleto": "NELIA EDNECIA VELASQUEZ REYES",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2245.0,
             "organizacionPolitica": "MOVIMIENTO REGIONAL EL MAICITO",
             "numeroCandidato": 2.0,
@@ -122,7 +64,71 @@
             "postulaDistrito": "SAN JUAN",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 145803.0,
+            "feNacimiento": "1987-06-15T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "44326998",
+            "nombreCompleto": "AGUSTIN MEGIA ALBITES",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2245.0,
+            "organizacionPolitica": "MOVIMIENTO REGIONAL EL MAICITO",
+            "numeroCandidato": 3.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/145803.jpg",
+            "postulaDepartamento": "ANCASH",
+            "postulaProvincia": "SIHUAS",
+            "postulaDistrito": "SAN JUAN",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 145804.0,
+            "feNacimiento": "1999-04-08T00:00:00",
+            "txSexo": "F",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "70792795",
+            "nombreCompleto": "ELVA CARMELA CAPRISTANO CAMPOMANES",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2245.0,
+            "organizacionPolitica": "MOVIMIENTO REGIONAL EL MAICITO",
+            "numeroCandidato": 4.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/145804.jpg",
+            "postulaDepartamento": "ANCASH",
+            "postulaProvincia": "SIHUAS",
+            "postulaDistrito": "SAN JUAN",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 145805.0,
+            "feNacimiento": "1978-02-06T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "33259170",
+            "nombreCompleto": "LUIS MODESTO LORENZO TOLENTINO",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2245.0,
+            "organizacionPolitica": "MOVIMIENTO REGIONAL EL MAICITO",
+            "numeroCandidato": 5.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/145805.jpg",
+            "postulaDepartamento": "ANCASH",
+            "postulaProvincia": "SIHUAS",
+            "postulaDistrito": "SAN JUAN",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
         }
     ],
     "totalPages": 0

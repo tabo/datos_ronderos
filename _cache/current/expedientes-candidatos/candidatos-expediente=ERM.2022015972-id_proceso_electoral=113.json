@@ -12,7 +12,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "41954090",
             "nombreCompleto": "QUIROGA SALVADOR FLORES",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2218.0,
             "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
             "numeroCandidato": 0.0,
@@ -22,7 +22,8 @@
             "postulaDistrito": "APARICIO POMARES",
             "cargo": [
                 "ALCALDE DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 197303.0,
@@ -32,7 +33,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "22748025",
             "nombreCompleto": "ROLANDO BALTAZAR MARIANO",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2218.0,
             "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
             "numeroCandidato": 1.0,
@@ -42,67 +43,8 @@
             "postulaDistrito": "APARICIO POMARES",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 197305.0,
-            "feNacimiento": "1978-07-26T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "80078605",
-            "nombreCompleto": "WILMER ADRIANO CABIA",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2218.0,
-            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
-            "numeroCandidato": 3.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/197305.jpg",
-            "postulaDepartamento": "HUANUCO",
-            "postulaProvincia": "YAROWILCA",
-            "postulaDistrito": "APARICIO POMARES",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 197306.0,
-            "feNacimiento": "1981-11-16T00:00:00",
-            "txSexo": "F",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "41267976",
-            "nombreCompleto": "YESSENIA EUPEDIA ANDRES CABIA",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2218.0,
-            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
-            "numeroCandidato": 4.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/197306.jpg",
-            "postulaDepartamento": "HUANUCO",
-            "postulaProvincia": "YAROWILCA",
-            "postulaDistrito": "APARICIO POMARES",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 197307.0,
-            "feNacimiento": "1973-07-22T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "22754182",
-            "nombreCompleto": "LUIS TOLENTINO FLORES",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2218.0,
-            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
-            "numeroCandidato": 5.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/197307.jpg",
-            "postulaDepartamento": "HUANUCO",
-            "postulaProvincia": "YAROWILCA",
-            "postulaDistrito": "APARICIO POMARES",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 241647.0,
@@ -112,7 +54,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "76038707",
             "nombreCompleto": "MAGDALENA LUCAS MAYLLE",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2218.0,
             "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
             "numeroCandidato": 2.0,
@@ -122,7 +64,71 @@
             "postulaDistrito": "APARICIO POMARES",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 197305.0,
+            "feNacimiento": "1978-07-26T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "80078605",
+            "nombreCompleto": "WILMER ADRIANO CABIA",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2218.0,
+            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "numeroCandidato": 3.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/197305.jpg",
+            "postulaDepartamento": "HUANUCO",
+            "postulaProvincia": "YAROWILCA",
+            "postulaDistrito": "APARICIO POMARES",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 197306.0,
+            "feNacimiento": "1981-11-16T00:00:00",
+            "txSexo": "F",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "41267976",
+            "nombreCompleto": "YESSENIA EUPEDIA ANDRES CABIA",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2218.0,
+            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "numeroCandidato": 4.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/197306.jpg",
+            "postulaDepartamento": "HUANUCO",
+            "postulaProvincia": "YAROWILCA",
+            "postulaDistrito": "APARICIO POMARES",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 197307.0,
+            "feNacimiento": "1973-07-22T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "22754182",
+            "nombreCompleto": "LUIS TOLENTINO FLORES",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2218.0,
+            "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+            "numeroCandidato": 5.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/197307.jpg",
+            "postulaDepartamento": "HUANUCO",
+            "postulaProvincia": "YAROWILCA",
+            "postulaDistrito": "APARICIO POMARES",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
         }
     ],
     "totalPages": 0

@@ -12,7 +12,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "32922466",
             "nombreCompleto": "GABINO PEDRO GARCIA BRAVO",
-            "estado": "INADMISIBLE",
+            "estado": "IMPROCEDENTE",
             "idOrganizacionPolitica": 2869.0,
             "organizacionPolitica": "PARTIDO PATRIOTICO DEL PERU",
             "numeroCandidato": 0.0,
@@ -22,7 +22,8 @@
             "postulaDistrito": "SAN JUAN DE IRIS",
             "cargo": [
                 "ALCALDE DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 188583.0,
@@ -32,7 +33,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "16149012",
             "nombreCompleto": "ANGEL EDUARDO VASQUEZ LOZANO",
-            "estado": "RECIBIDO",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2869.0,
             "organizacionPolitica": "PARTIDO PATRIOTICO DEL PERU",
             "numeroCandidato": 1.0,
@@ -42,67 +43,8 @@
             "postulaDistrito": "SAN JUAN DE IRIS",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 188585.0,
-            "feNacimiento": "1973-06-04T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "16148985",
-            "nombreCompleto": "ALFREDO AQUILES JIMENEZ RETAMOZO",
-            "estado": "RECIBIDO",
-            "idOrganizacionPolitica": 2869.0,
-            "organizacionPolitica": "PARTIDO PATRIOTICO DEL PERU",
-            "numeroCandidato": 3.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/188585.jpg",
-            "postulaDepartamento": "LIMA",
-            "postulaProvincia": "HUAROCHIRI",
-            "postulaDistrito": "SAN JUAN DE IRIS",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 188586.0,
-            "feNacimiento": "2001-08-18T00:00:00",
-            "txSexo": "F",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "76602239",
-            "nombreCompleto": "EMELY JAZMIN RODRIGUEZ VASQUEZ",
-            "estado": "RECIBIDO",
-            "idOrganizacionPolitica": 2869.0,
-            "organizacionPolitica": "PARTIDO PATRIOTICO DEL PERU",
-            "numeroCandidato": 4.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/188586.jpg",
-            "postulaDepartamento": "LIMA",
-            "postulaProvincia": "HUAROCHIRI",
-            "postulaDistrito": "SAN JUAN DE IRIS",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 188587.0,
-            "feNacimiento": "1980-09-18T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "40827518",
-            "nombreCompleto": "MARCELO DORIA RETAMOZO",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2869.0,
-            "organizacionPolitica": "PARTIDO PATRIOTICO DEL PERU",
-            "numeroCandidato": 5.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/188587.jpg",
-            "postulaDepartamento": "LIMA",
-            "postulaProvincia": "HUAROCHIRI",
-            "postulaDistrito": "SAN JUAN DE IRIS",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 241403.0,
@@ -112,7 +54,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "76652017",
             "nombreCompleto": "DHAMARI JHOETSY PAUCAR PEREZ",
-            "estado": "RECIBIDO",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2869.0,
             "organizacionPolitica": "PARTIDO PATRIOTICO DEL PERU",
             "numeroCandidato": 2.0,
@@ -122,7 +64,71 @@
             "postulaDistrito": "SAN JUAN DE IRIS",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 188585.0,
+            "feNacimiento": "1973-06-04T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "16148985",
+            "nombreCompleto": "ALFREDO AQUILES JIMENEZ RETAMOZO",
+            "estado": "EXCLUSION",
+            "idOrganizacionPolitica": 2869.0,
+            "organizacionPolitica": "PARTIDO PATRIOTICO DEL PERU",
+            "numeroCandidato": 3.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/188585.jpg",
+            "postulaDepartamento": "LIMA",
+            "postulaProvincia": "HUAROCHIRI",
+            "postulaDistrito": "SAN JUAN DE IRIS",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 188586.0,
+            "feNacimiento": "2001-08-18T00:00:00",
+            "txSexo": "F",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "76602239",
+            "nombreCompleto": "EMELY JAZMIN RODRIGUEZ VASQUEZ",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2869.0,
+            "organizacionPolitica": "PARTIDO PATRIOTICO DEL PERU",
+            "numeroCandidato": 4.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/188586.jpg",
+            "postulaDepartamento": "LIMA",
+            "postulaProvincia": "HUAROCHIRI",
+            "postulaDistrito": "SAN JUAN DE IRIS",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 188587.0,
+            "feNacimiento": "1980-09-18T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "40827518",
+            "nombreCompleto": "MARCELO DORIA RETAMOZO",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2869.0,
+            "organizacionPolitica": "PARTIDO PATRIOTICO DEL PERU",
+            "numeroCandidato": 5.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/188587.jpg",
+            "postulaDepartamento": "LIMA",
+            "postulaProvincia": "HUAROCHIRI",
+            "postulaDistrito": "SAN JUAN DE IRIS",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
         }
     ],
     "totalPages": 0

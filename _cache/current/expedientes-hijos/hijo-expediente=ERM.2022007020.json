@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 12.0,
+    "count": 13.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 12,
+            "totalRows": 13,
             "rowNumber": 1,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022006762",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 12,
+            "totalRows": 13,
             "rowNumber": 2,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022006771",
@@ -55,7 +55,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 12,
+            "totalRows": 13,
             "rowNumber": 3,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022006782",
@@ -80,7 +80,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 12,
+            "totalRows": 13,
             "rowNumber": 4,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022006784",
@@ -105,7 +105,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 12,
+            "totalRows": 13,
             "rowNumber": 5,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022006789",
@@ -130,7 +130,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 12,
+            "totalRows": 13,
             "rowNumber": 6,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022006794",
@@ -155,7 +155,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 12,
+            "totalRows": 13,
             "rowNumber": 7,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022010360",
@@ -163,8 +163,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "ARACELY ROMELIA VIERA",
-            "txEtapa": "PRONUNCIAMIENTO",
-            "txEstado": "EN FIRMAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 158096,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -185,7 +185,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 12,
+            "totalRows": 13,
             "rowNumber": 8,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022010366",
@@ -210,7 +210,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 12,
+            "totalRows": 13,
             "rowNumber": 9,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022010363",
@@ -235,7 +235,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 12,
+            "totalRows": 13,
             "rowNumber": 10,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022010368",
@@ -260,7 +260,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 12,
+            "totalRows": 13,
             "rowNumber": 11,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022021301",
@@ -290,7 +290,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 12,
+            "totalRows": 13,
             "rowNumber": 12,
             "txJuradoCompetencia": "REQUENA",
             "txCodExpedienteExt": "ERM.2022021346",
@@ -302,6 +302,36 @@
             "txEstado": "RESUELTO",
             "idExpediente": 169661,
             "idExpedientePadre": 158096,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "REQUENA",
+            "partes": [
+                {
+                    "txNombresApellidos": "DAVID ELVIS PEREA SANCHEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JORGE ENRIQUE MOURAO RIOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 13,
+            "rowNumber": 13,
+            "txJuradoCompetencia": "REQUENA",
+            "txCodExpedienteExt": "ERM.2022023205",
+            "feRegistro": "15/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": " ",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 171590,
+            "idExpedientePadre": 169661,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "REQUENA",

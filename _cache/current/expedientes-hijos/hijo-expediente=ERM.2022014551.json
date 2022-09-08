@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 9.0,
+    "count": 18.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 9,
+            "totalRows": 18,
             "rowNumber": 1,
             "txJuradoCompetencia": "LEONCIO PRADO",
             "txCodExpedienteExt": "ERM.2022014415",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 9,
+            "totalRows": 18,
             "rowNumber": 2,
             "txJuradoCompetencia": "LEONCIO PRADO",
             "txCodExpedienteExt": "ERM.2022014428",
@@ -55,7 +55,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 9,
+            "totalRows": 18,
             "rowNumber": 3,
             "txJuradoCompetencia": "LEONCIO PRADO",
             "txCodExpedienteExt": "ERM.2022014543",
@@ -80,7 +80,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 9,
+            "totalRows": 18,
             "rowNumber": 4,
             "txJuradoCompetencia": "LEONCIO PRADO",
             "txCodExpedienteExt": "ERM.2022014540",
@@ -105,7 +105,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 9,
+            "totalRows": 18,
             "rowNumber": 5,
             "txJuradoCompetencia": "LEONCIO PRADO",
             "txCodExpedienteExt": "ERM.2022014547",
@@ -130,7 +130,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 9,
+            "totalRows": 18,
             "rowNumber": 6,
             "txJuradoCompetencia": "LEONCIO PRADO",
             "txCodExpedienteExt": "ERM.2022015940",
@@ -138,8 +138,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "FRANCOIS GUILLERMO ADDERLY SALINAS",
-            "txEtapa": "PRONUNCIAMIENTO",
-            "txEstado": "EN FIRMAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 163994,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -155,7 +155,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 9,
+            "totalRows": 18,
             "rowNumber": 7,
             "txJuradoCompetencia": "LEONCIO PRADO",
             "txCodExpedienteExt": "ERM.2022017893",
@@ -180,7 +180,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 9,
+            "totalRows": 18,
             "rowNumber": 8,
             "txJuradoCompetencia": "LEONCIO PRADO",
             "txCodExpedienteExt": "ERM.2022021644",
@@ -205,7 +205,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 9,
+            "totalRows": 18,
             "rowNumber": 9,
             "txJuradoCompetencia": "LEONCIO PRADO",
             "txCodExpedienteExt": "ERM.2022021647",
@@ -217,6 +217,231 @@
             "txEstado": "RESUELTO",
             "idExpediente": 169963,
             "idExpedientePadre": 162534,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LEONCIO PRADO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE MANUEL VALLE RIOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 18,
+            "rowNumber": 10,
+            "txJuradoCompetencia": "LEONCIO PRADO",
+            "txCodExpedienteExt": "ERM.2022023770",
+            "feRegistro": "18/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": " ",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 172150,
+            "idExpedientePadre": 162549,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LEONCIO PRADO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE MANUEL VALLE RIOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 18,
+            "rowNumber": 11,
+            "txJuradoCompetencia": "LEONCIO PRADO",
+            "txCodExpedienteExt": "ERM.2022024829",
+            "feRegistro": "22/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "FRANCOIS GUILLERMO ADDERLY SALINAS",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 173247,
+            "idExpedientePadre": 162410,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LEONCIO PRADO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE MANUEL VALLE RIOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 18,
+            "rowNumber": 12,
+            "txJuradoCompetencia": "LEONCIO PRADO",
+            "txCodExpedienteExt": "ERM.2022025097",
+            "feRegistro": "23/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "FRANCOIS GUILLERMO ADDERLY SALINAS",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 173505,
+            "idExpedientePadre": 162403,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LEONCIO PRADO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE MANUEL VALLE RIOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 18,
+            "rowNumber": 13,
+            "txJuradoCompetencia": "LEONCIO PRADO",
+            "txCodExpedienteExt": "ERM.2022025131",
+            "feRegistro": "24/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "FRANCOIS GUILLERMO ADDERLY SALINAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 173558,
+            "idExpedientePadre": 162403,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LEONCIO PRADO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE MANUEL VALLE RIOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 18,
+            "rowNumber": 14,
+            "txJuradoCompetencia": "LEONCIO PRADO",
+            "txCodExpedienteExt": "ERM.2022026045",
+            "feRegistro": "28/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "FRANCOIS GUILLERMO ADDERLY SALINAS",
+            "txEtapa": "PRONUNCIAMIENTO",
+            "txEstado": "EN FIRMAS",
+            "idExpediente": 174516,
+            "idExpedientePadre": 162410,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LEONCIO PRADO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE MANUEL VALLE RIOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 18,
+            "rowNumber": 15,
+            "txJuradoCompetencia": "LEONCIO PRADO",
+            "txCodExpedienteExt": "ERM.2022026518",
+            "feRegistro": "30/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "FRANCOIS GUILLERMO ADDERLY SALINAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 175002,
+            "idExpedientePadre": 163994,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LEONCIO PRADO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE MANUEL VALLE RIOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 18,
+            "rowNumber": 16,
+            "txJuradoCompetencia": "LEONCIO PRADO",
+            "txCodExpedienteExt": "ERM.2022027245",
+            "feRegistro": "02/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "GABRIELA DALIA LARA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 175746,
+            "idExpedientePadre": 166028,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LEONCIO PRADO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE MANUEL VALLE RIOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 18,
+            "rowNumber": 17,
+            "txJuradoCompetencia": "LEONCIO PRADO",
+            "txCodExpedienteExt": "ERM.2022028431",
+            "feRegistro": "04/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "GABRIELA DALIA LARA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176945,
+            "idExpedientePadre": 162534,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LEONCIO PRADO",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE MANUEL VALLE RIOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 18,
+            "rowNumber": 18,
+            "txJuradoCompetencia": "LEONCIO PRADO",
+            "txCodExpedienteExt": "ERM.2022030972",
+            "feRegistro": "09/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "FRANCOIS GUILLERMO ADDERLY SALINAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 179538,
+            "idExpedientePadre": 163994,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "LEONCIO PRADO",

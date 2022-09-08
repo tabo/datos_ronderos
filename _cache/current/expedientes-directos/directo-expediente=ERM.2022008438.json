@@ -1,26 +1,107 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 1.0,
+    "count": 4.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 1,
+            "totalRows": 4,
             "rowNumber": 1,
             "txJuradoCompetencia": "LIMA SUR 2",
             "txCodExpedienteExt": "ERM.2022021585",
             "feRegistro": "08/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "IVAN JESUS GUTARRA",
-            "txEtapa": "ASIGNACION",
-            "txEstado": "ASIGNADO",
+            "txResponsable": " ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 169907,
             "idExpedientePadre": 156111,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "LIMA SUR 2",
-            "partes": [],
+            "partes": [
+                {
+                    "txNombresApellidos": "LILIANA MILAGROS TAKAYAMA JIMENEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "LIMA SUR 2",
+            "txCodExpedienteExt": "ERM.2022023569",
+            "feRegistro": "17/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "EDWAR ADRIAN ARROYO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 171950,
+            "idExpedientePadre": 156111,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA SUR 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "LILIANA MILAGROS TAKAYAMA JIMENEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "LIMA SUR 2",
+            "txCodExpedienteExt": "ERM.2022023571",
+            "feRegistro": "17/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "EDWAR ADRIAN ARROYO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 171966,
+            "idExpedientePadre": 156111,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA SUR 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "LILIANA MILAGROS TAKAYAMA JIMENEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "LIMA SUR 2",
+            "txCodExpedienteExt": "ERM.2022030061",
+            "feRegistro": "08/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "IVAN JESUS GUTARRA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 178602,
+            "idExpedientePadre": 156111,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA SUR 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "LILIANA MILAGROS TAKAYAMA JIMENEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
             "tienePersonalJurado": false
         }
     ],

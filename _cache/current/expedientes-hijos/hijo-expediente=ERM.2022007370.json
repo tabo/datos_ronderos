@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 2.0,
+    "count": 4.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 2,
+            "totalRows": 4,
             "rowNumber": 1,
             "txJuradoCompetencia": "TUMBES",
             "txCodExpedienteExt": "ERM.2022007399",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 2,
+            "totalRows": 4,
             "rowNumber": 2,
             "txJuradoCompetencia": "TUMBES",
             "txCodExpedienteExt": "ERM.2022007609",
@@ -48,6 +48,66 @@
             "partes": [
                 {
                     "txNombresApellidos": "JUAN AGUSTIN ESPINOZA ROMERO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "TUMBES",
+            "txCodExpedienteExt": "ERM.2022034032",
+            "feRegistro": "14/08/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "KARIN ROSALVA NAVARRO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 182622,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TUMBES",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN AGUSTIN ESPINOZA ROMERO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JAVIER JOSE ZAVALETA PIZANGO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "TUMBES",
+            "txCodExpedienteExt": "ERM.2022039239",
+            "feRegistro": "26/08/2022",
+            "txTipoExpediente": "PROPAGANDA ELECTORAL",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "KARIN ROSALVA NAVARRO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 187998,
+            "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TUMBES",
+            "partes": [
+                {
+                    "txNombresApellidos": "JUAN AGUSTIN ESPINOZA ROMERO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JAVIER JOSE ZAVALETA PIZANGO",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

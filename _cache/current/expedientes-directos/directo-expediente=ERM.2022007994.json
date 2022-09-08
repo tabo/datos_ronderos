@@ -1,20 +1,20 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 2.0,
+    "count": 7.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 2,
+            "totalRows": 7,
             "rowNumber": 1,
             "txJuradoCompetencia": "LIMA NORTE 2",
             "txCodExpedienteExt": "ERM.2022019875",
             "feRegistro": "30/06/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "TOMAS ALEJANDRO TELLO",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "EDI DIOMEDES CARBAJAL",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168103,
             "idExpedientePadre": 155612,
             "txImportancia": "NO MEDIÁTICO",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 2,
+            "totalRows": 7,
             "rowNumber": 2,
             "txJuradoCompetencia": "LIMA NORTE 2",
             "txCodExpedienteExt": "ERM.2022020220",
@@ -38,8 +38,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "TACHA DE CANDIDATO",
             "txResponsable": "EDI DIOMEDES CARBAJAL",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168488,
             "idExpedientePadre": 155612,
             "txImportancia": "NO MEDIÁTICO",
@@ -53,6 +53,156 @@
                 },
                 {
                     "txNombresApellidos": "ALVARO GONZALO GUTIERREZ ROJAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 7,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022027695",
+            "feRegistro": "03/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "EDI DIOMEDES CARBAJAL",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176188,
+            "idExpedientePadre": 155612,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE YSABEL TERRONES MENDEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "CLEOFE AURORA LUJAN CABRERA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 7,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022037457",
+            "feRegistro": "20/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "EDI DIOMEDES CARBAJAL",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 186121,
+            "idExpedientePadre": 155612,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE YSABEL TERRONES MENDEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "ALVARO GONZALO GUTIERREZ ROJAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 7,
+            "rowNumber": 5,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022038845",
+            "feRegistro": "25/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "MARBELLA ALONDRA CORDOVA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 187568,
+            "idExpedientePadre": 155612,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE YSABEL TERRONES MENDEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "CLEOFE AURORA LUJAN CABRERA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 7,
+            "rowNumber": 6,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022039664",
+            "feRegistro": "28/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "EDI DIOMEDES CARBAJAL",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 188437,
+            "idExpedientePadre": 155612,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE YSABEL TERRONES MENDEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "CLEOFE AURORA LUJAN CABRERA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 7,
+            "rowNumber": 7,
+            "txJuradoCompetencia": "LIMA NORTE 2",
+            "txCodExpedienteExt": "ERM.2022039660",
+            "feRegistro": "28/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "MARBELLA ALONDRA CORDOVA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 188443,
+            "idExpedientePadre": 155612,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA NORTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "JOSE YSABEL TERRONES MENDEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "CLEOFE AURORA LUJAN CABRERA",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

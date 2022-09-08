@@ -1,0 +1,145 @@
+{
+    "datoGeneral": {
+        "idPlanGobierno": 27237,
+        "idTipoEleccion": 4,
+        "txTipoEleccion": "REGIONAL",
+        "idOrganizacionPolitica": 2218,
+        "txOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 0,
+        "juradoElectoral": null,
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/46270a35-02eb-4fec-b10a-8a5e527e5f19.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/a5135c62-9772-4532-9802-2726add5bc16.pdf",
+        "txCodExpedienteExt": null,
+        "idProcesoElectoral": 0
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 211637,
+            "txPgProblema": "DEFICIENCIA EN LA COBERTURA DE SERVICIOS BASICOS",
+            "txPgObjetivo": "CUBRIR LOS SERVICIOS BASICOS DE LA POBLACION PARA MEJORAR LA CALIDAD DE VIDA EN LOS DIVERSOS AMBITOS GEOGRAFICOS",
+            "txPgIndicador": "SOLO EL 60% DE POBLACION TIENE ACCESO AL SERVICIO DE AGUA EN SU VIVIENDA, MIENTRAS EL 62% DE LAS VIVIENDAS CUENTAN CON UN SISTEMA DE DESAGUE U OTRO SIMILAR, Y EL 20% DE POBLACION NO CUENTA CON ENERGIA ELECTRICA EN SUS DOMICILIOS",
+            "txPgMeta": "INCREMENTAR EN 20% LOS SERVCIOS BASICOS DE LAS VIVIENDAS EN LA REGION, MEDIANTE INVERSIONES INTEGRALES DE DOTACION DE SISTEMAS  DE  AGUA Y DESAGUE",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211646,
+            "txPgProblema": "DEFICIT EN INFRAESTRUCTURA SANITARIA ( HOSPITALES)",
+            "txPgObjetivo": "IMPULSAR LA FINALIZACION DEL HOSPITAL ANTONIO LORENA E IMPULSAR LA MODERNIZACION DEL HOSPITAL REGIONAL DEL CUSCO",
+            "txPgIndicador": "EN LA REGION CUSCO SE TIENE TRES HOSPITALES TIPO III, DE LOS CUALES UNO ESTA PARALIZADO SU CONSTRUCCION, YEL HOSPITAL DE ESSALUD YA TIENE MAS DE TREINTA AÑOS Y FINALMETE EL HOSPITAL REGIONAL TIENE MAS DE 60 AÑOS SIN HACER MEJORAS",
+            "txPgMeta": "CONTAR CON LOS TRES HOSPITALES CON NUEVA INFRAESTRUCTURA Y CON EQUIPAMIENTO DE ULTIMA GENERACION",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211655,
+            "txPgProblema": "ALTO DEFICIT EN INFRAESTRUCTURA EDUCATIVA A NIVEL DE LA REGION",
+            "txPgObjetivo": "CERRAR LA BRECHA EN EDUCACION CON UN PROGRAMA DE INFRAESTRUCTURA EDUCATIVA FINANCIADA EN SU TOTALIDAD CON EL MECANISMO DE OBRAS POR IMPUESTOS",
+            "txPgIndicador": "LA REGION CUSCO TIENE UN DEFICIT DEL 48.2% EN INFRAESTRUCTURA EDUCATIVA OCUPANDO UN PUESTO 22 DE 26 REGIONES EN EL PAIS.",
+            "txPgMeta": "LLEGAR A UN 20 % DE DEFICIT DE INFRAESTRUCTURA EDUCATIVA",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 211670,
+            "txPgProblema": "EXISTE UN BAJO GRADO DE GASTO PRESUPUESTAL, DESTINADO AL SECTOR AGROPECUARIO",
+            "txPgObjetivo": "CONTAR CON  TIERRAS AGRICOLAS CON TECNIFICACION PARA LA MEJORA DE LA PRODUCTIVIDAD",
+            "txPgIndicador": "AL 2021 EL 97 % DE TIERRAS AGRICOLAS NO CUENTAN CON TECNIFICACION",
+            "txPgMeta": "REDUCCION DE LA BRECHA EN UN 20%",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211677,
+            "txPgProblema": "EXISTE UNA GRAN BRECHA DE INFRAESTRUCTURA VIAL NO ATENDIDA",
+            "txPgObjetivo": "CONTAR CON INFRAESTRUCTURA VIAL DE CALIDAD Y DURABILIDAD",
+            "txPgIndicador": "AL 2022 EXISTE UN 51.8% DE LA RED VIAL DEPARTAMENTAL QUE NO CUENTAN CON PAVIMENTACION, ADEMAS DE  78.6% DE LA RED VIAL VECINAL EN LAS MISMAS CONDICIONES",
+            "txPgMeta": "ASFALTADO DEL 10% DE LAS VIAS NO PAVIMENTADAS",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211688,
+            "txPgProblema": "MAL APROVECHAMIENTO DE LOS RECURSOS ENERGETICOS DE LA REGION",
+            "txPgObjetivo": "MEJORAR LA DISTRIBUCION DE RECURSOS, ASI COMO LA MEJORA DE LA CALIDAD DE VIDA DE LAS POBLACIONES ADYACENTES",
+            "txPgIndicador": "PARA GASTOS POR CONCEPTO DE CANON Y SOBRE CANON SE DESTINARON ALREDEDOR DE S/. 245,683,342",
+            "txPgMeta": "MANTENER EL GASTO POR CANON SOBRE EL 90% DE AVANCE PRESUPUESTAL",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 211703,
+            "txPgProblema": "CRECIENTE DEFORESTACION POR INADECUADAS PRACTICAS DE USO DE TIERRAS PARA FINES AGRICOLAS Y PECUARIOS",
+            "txPgObjetivo": "ASEGURAR UN AMBIENTE SALUDABLE Y SOSTENIBLE QUE REDUZCA LA VULNERABILIDAD DE LA POBLACIÓN Y SUS MEDIOS DE VIDA",
+            "txPgIndicador": "SUPERFICIE REFORESTADA ANUALMENTE",
+            "txPgMeta": "2548 HECTÁREAS REFORESTADAS ANUALMENTE EN TODA LA REGIÓN",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211711,
+            "txPgProblema": "BAJO NIVEL DE TRATAMIENTO DE RESIDUOS SOLIDOS",
+            "txPgObjetivo": "ASEGURAR UN AMBIENTE SALUDABLE Y SOSTENIBLE QUE REDUZCA LA VULNERABILIDAD DE LA POBLACIÓN Y SUS MEDIOS DE VIDA",
+            "txPgIndicador": "EJECUCIÓN DE OBRAS DE LIMIEZA PÚBLICA Y TRATAMIENTO DE RESIDUOS SÓLIDOS",
+            "txPgMeta": "30% DE TODOS LOS DISTRITOS DE LA REGIÓN CUENTAN CON EQUIPAMIENTO, MAQUINARIA Y SERVICIO DE LIMPIEZA PÚBLIDA ADECUADA",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211720,
+            "txPgProblema": "BAJA ACCESIBILIDAD A ZONAS PRODUCTORAS E INTERCONECTIVIDAD ENTRE ZONAS PRODUCTORAS",
+            "txPgObjetivo": "PROMOVER LA COHESIÓN TERRITORIAL DE MANERA SOSTENIBLE",
+            "txPgIndicador": "NÚMERO DE KM DE RED VIAL PAVIMENTADA ACUMULADO",
+            "txPgMeta": "800 KM DE RED VIAL CREADA, MEJORADA Y AMPLIADA",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 211731,
+            "txPgProblema": "BAJO NIVEL DE CONFIABILIDAD EN LOS FUNCIONARIOS Y SERVIDORES PÚBLICOS",
+            "txPgObjetivo": "GARANTIZAR EL ESTADO DE DERECHO Y LA GOBERNABILIDAD",
+            "txPgIndicador": "PORCENTAJE DE PERSONAS QUE CONSIDERAN LA CORRUPCIÓN COMO UN PROBLEMA CENTRAL",
+            "txPgMeta": "70% DE LA POBLACIÓN BENEFICIARIA CONFÍA EN LOS GL Y GR",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211744,
+            "txPgProblema": "BAJO NIVEL DE EMPODERAMIENTO DE LOS JÓVENES PARA ACCEDER AL MERCADO LABORAL Y DÉBIL PARTICIPACIÓN DE LAS MUJERES EN CARGOS PÚBLICOS",
+            "txPgObjetivo": "REDUCIR LA VULNERABILIDAD DE LA POBLACIÓN CON INCLUSIÓN SOCIAL E IGUALDAD DE GÉNERO",
+            "txPgIndicador": "PORCENTAJE DE POBLACIÓN EN POBREZA (MONETARIA)",
+            "txPgMeta": "SE REDUCE EN 20% LA TASA DE POBLACIÓN EN POBREZA Y EXTREMA POBREZA",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 211758,
+            "txPgProblema": "POCA COORDINACIÓN A NIVEL PROVINCIAL Y DISTRITAL PARA PROYECTOS EN MANCOMUNIDAD",
+            "txPgObjetivo": "DINÁMICA Y EFECTIVA COORDINACION INTERINSTITUCIONAL DEL GR Y LOS GOBIERNOS LOCALES PARA PROMOVER INVERSIONES CON ENFOQUE TERRITORIAL",
+            "txPgIndicador": "NÚMERO DE REUNIONES PROGRAMADAS MENSUALMENTE CON DIFERENTES PROVINCIAS PARA DESARROLLAR MESAS TÉCNICAS",
+            "txPgMeta": "96 MESAS TÉCNICAS INTERINSTITUCIONALES",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
+}

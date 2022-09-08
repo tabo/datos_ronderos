@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 3.0,
+    "count": 7.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 3,
+            "totalRows": 7,
             "rowNumber": 1,
             "txJuradoCompetencia": "TACNA",
             "txCodExpedienteExt": "ERM.2022017562",
@@ -13,8 +13,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "ARMIDA KAREN PONCE",
-            "txEtapa": "PRONUNCIAMIENTO",
-            "txEstado": "EN PRONUNCIAMIENTO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 165686,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 3,
+            "totalRows": 7,
             "rowNumber": 2,
             "txJuradoCompetencia": "TACNA",
             "txCodExpedienteExt": "ERM.2022019735",
@@ -38,8 +38,8 @@
             "txTipoExpediente": "PROPAGANDA ELECTORAL",
             "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
             "txResponsable": "MARIA DE FATIMA GARCIA",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 167980,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -47,7 +47,7 @@
             "txJuradoCreacion": "TACNA",
             "partes": [
                 {
-                    "txNombresApellidos": "MIRTHA IRINA GARCIA LEON",
+                    "txNombresApellidos": "MIRTHA IRINA GARCÍA LEÓN",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 },
@@ -60,7 +60,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 3,
+            "totalRows": 7,
             "rowNumber": 3,
             "txJuradoCompetencia": "TACNA",
             "txCodExpedienteExt": "ERM.2022020058",
@@ -68,10 +68,40 @@
             "txTipoExpediente": "PROPAGANDA ELECTORAL",
             "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
             "txResponsable": "MARIA DE FATIMA GARCIA",
-            "txEtapa": "PRONUNCIAMIENTO",
-            "txEstado": "EN PRONUNCIAMIENTO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168323,
             "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TACNA",
+            "partes": [
+                {
+                    "txNombresApellidos": "MIRTHA IRINA GARCÍA LEÓN",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "EDGAR DOMINGUEZ TALLEDO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 7,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "TACNA",
+            "txCodExpedienteExt": "ERM.2022024104",
+            "feRegistro": "19/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "ARMIDA KAREN PONCE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 172492,
+            "idExpedientePadre": 165686,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "TACNA",
@@ -82,7 +112,87 @@
                     "idEstadoPersonalJurado": null
                 },
                 {
-                    "txNombresApellidos": "MIRTHA IRINA GARCIA LEON",
+                    "txNombresApellidos": "JHON ELVIS ALAVE QUISPE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 7,
+            "rowNumber": 5,
+            "txJuradoCompetencia": "TACNA",
+            "txCodExpedienteExt": "ERM.2022024649",
+            "feRegistro": "21/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "ARMIDA KAREN PONCE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 173066,
+            "idExpedientePadre": 165686,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TACNA",
+            "partes": [
+                {
+                    "txNombresApellidos": "EDGAR DOMINGUEZ TALLEDO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 7,
+            "rowNumber": 6,
+            "txJuradoCompetencia": "TACNA",
+            "txCodExpedienteExt": "ERM.2022026571",
+            "feRegistro": "31/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "GUISELL DE FATIMA GALVEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 175053,
+            "idExpedientePadre": 165537,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TACNA",
+            "partes": [
+                {
+                    "txNombresApellidos": "EDGAR DOMINGUEZ TALLEDO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JHON ELVIS ALAVE QUISPE",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 7,
+            "rowNumber": 7,
+            "txJuradoCompetencia": "TACNA",
+            "txCodExpedienteExt": "ERM.2022036652",
+            "feRegistro": "17/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "FABIOLA AMELIA COAGUILA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 185301,
+            "idExpedientePadre": 165537,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "TACNA",
+            "partes": [
+                {
+                    "txNombresApellidos": "EDGAR DOMINGUEZ TALLEDO",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

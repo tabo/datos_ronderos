@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 6.0,
+    "count": 10.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 6,
+            "totalRows": 10,
             "rowNumber": 1,
             "txJuradoCompetencia": "SAN MARTIN",
             "txCodExpedienteExt": "ERM.2022011588",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 10,
             "rowNumber": 2,
             "txJuradoCompetencia": "SAN MARTIN",
             "txCodExpedienteExt": "ERM.2022011617",
@@ -55,7 +55,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 10,
             "rowNumber": 3,
             "txJuradoCompetencia": "SAN MARTIN",
             "txCodExpedienteExt": "ERM.2022011649",
@@ -80,7 +80,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 10,
             "rowNumber": 4,
             "txJuradoCompetencia": "SAN MARTIN",
             "txCodExpedienteExt": "ERM.2022013763",
@@ -105,7 +105,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 10,
             "rowNumber": 5,
             "txJuradoCompetencia": "SAN MARTIN",
             "txCodExpedienteExt": "ERM.2022013777",
@@ -130,7 +130,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 10,
             "rowNumber": 6,
             "txJuradoCompetencia": "SAN MARTIN",
             "txCodExpedienteExt": "ERM.2022018662",
@@ -142,6 +142,106 @@
             "txEstado": "RESUELTO",
             "idExpediente": 166834,
             "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "SAN MARTIN",
+            "partes": [
+                {
+                    "txNombresApellidos": "SEGUNDO RAMON CHAVEZ RUIZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 10,
+            "rowNumber": 7,
+            "txJuradoCompetencia": "SAN MARTIN",
+            "txCodExpedienteExt": "ERM.2022024338",
+            "feRegistro": "20/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JOANA SILVA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 172744,
+            "idExpedientePadre": 159502,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "SAN MARTIN",
+            "partes": [
+                {
+                    "txNombresApellidos": "SEGUNDO RAMON CHAVEZ RUIZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 10,
+            "rowNumber": 8,
+            "txJuradoCompetencia": "SAN MARTIN",
+            "txCodExpedienteExt": "ERM.2022024339",
+            "feRegistro": "20/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JOANA SILVA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 172745,
+            "idExpedientePadre": 159502,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "SAN MARTIN",
+            "partes": [
+                {
+                    "txNombresApellidos": "SEGUNDO RAMON CHAVEZ RUIZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 10,
+            "rowNumber": 9,
+            "txJuradoCompetencia": "SAN MARTIN",
+            "txCodExpedienteExt": "ERM.2022024376",
+            "feRegistro": "20/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "URSULA KIMBERLY HIDALGO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 172783,
+            "idExpedientePadre": 159456,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "SAN MARTIN",
+            "partes": [
+                {
+                    "txNombresApellidos": "SEGUNDO RAMON CHAVEZ RUIZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 10,
+            "rowNumber": 10,
+            "txJuradoCompetencia": "SAN MARTIN",
+            "txCodExpedienteExt": "ERM.2022034703",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "FRANCESCA PADILLA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 183304,
+            "idExpedientePadre": 159012,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "SAN MARTIN",

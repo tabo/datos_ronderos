@@ -1,20 +1,20 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 2.0,
+    "count": 4.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 2,
+            "totalRows": 4,
             "rowNumber": 1,
             "txJuradoCompetencia": "CHINCHA",
             "txCodExpedienteExt": "ERM.2022019295",
             "feRegistro": "26/06/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "YANET MERCEDES LEON",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "STEFANIA JACQUELINE MATOS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 167526,
             "idExpedientePadre": 165721,
             "txImportancia": "NO MEDIÁTICO",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 2,
+            "totalRows": 4,
             "rowNumber": 2,
             "txJuradoCompetencia": "CHINCHA",
             "txCodExpedienteExt": "ERM.2022021392",
@@ -41,6 +41,56 @@
             "txEtapa": "RESUELTO",
             "txEstado": "RESUELTO",
             "idExpediente": 169704,
+            "idExpedientePadre": 165721,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CHINCHA",
+            "partes": [
+                {
+                    "txNombresApellidos": "YSABEL FIORELLA YATACO ROBLES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "CHINCHA",
+            "txCodExpedienteExt": "ERM.2022021831",
+            "feRegistro": "10/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "STEFANIA JACQUELINE MATOS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 170158,
+            "idExpedientePadre": 165721,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CHINCHA",
+            "partes": [
+                {
+                    "txNombresApellidos": "YSABEL FIORELLA YATACO ROBLES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "CHINCHA",
+            "txCodExpedienteExt": "ERM.2022030666",
+            "feRegistro": "09/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "STEFANIA JACQUELINE MATOS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 179197,
             "idExpedientePadre": 165721,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",

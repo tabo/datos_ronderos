@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 7.0,
+    "count": 10.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 7,
+            "totalRows": 10,
             "rowNumber": 1,
             "txJuradoCompetencia": "UCAYALI",
             "txCodExpedienteExt": "ERM.2022006552",
@@ -13,8 +13,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "KAREN YADIRA ESPINOZA",
-            "txEtapa": "ASIGNACION",
-            "txEstado": "ASIGNADO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 154070,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 10,
             "rowNumber": 2,
             "txJuradoCompetencia": "UCAYALI",
             "txCodExpedienteExt": "ERM.2022006566",
@@ -38,8 +38,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "KAREN YADIRA ESPINOZA",
-            "txEtapa": "ASIGNACION",
-            "txEstado": "ASIGNADO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 154084,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -55,7 +55,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 10,
             "rowNumber": 3,
             "txJuradoCompetencia": "UCAYALI",
             "txCodExpedienteExt": "ERM.2022006578",
@@ -63,14 +63,19 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "ESCARLE CABANILLAS",
-            "txEtapa": "ASIGNACION",
-            "txEstado": "ASIGNADO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 154096,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "UCAYALI",
             "partes": [
+                {
+                    "txNombresApellidos": "MILAGROS NOLORBE ZATALAYA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
                 {
                     "txNombresApellidos": "JORGE FRANCISCO LLANCA CUBAS",
                     "idPersonalJurado": null,
@@ -80,7 +85,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 10,
             "rowNumber": 4,
             "txJuradoCompetencia": "UCAYALI",
             "txCodExpedienteExt": "ERM.2022006585",
@@ -105,7 +110,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 10,
             "rowNumber": 5,
             "txJuradoCompetencia": "UCAYALI",
             "txCodExpedienteExt": "ERM.2022006600",
@@ -130,7 +135,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 10,
             "rowNumber": 6,
             "txJuradoCompetencia": "UCAYALI",
             "txCodExpedienteExt": "ERM.2022006605",
@@ -155,7 +160,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 7,
+            "totalRows": 10,
             "rowNumber": 7,
             "txJuradoCompetencia": "UCAYALI",
             "txCodExpedienteExt": "ERM.2022018438",
@@ -167,6 +172,81 @@
             "txEstado": "RESUELTO",
             "idExpediente": 166593,
             "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "UCAYALI",
+            "partes": [
+                {
+                    "txNombresApellidos": "JORGE FRANCISCO LLANCA CUBAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 10,
+            "rowNumber": 8,
+            "txJuradoCompetencia": "UCAYALI",
+            "txCodExpedienteExt": "ERM.2022029525",
+            "feRegistro": "07/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ESCARLE CABANILLAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 178062,
+            "idExpedientePadre": 154070,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "UCAYALI",
+            "partes": [
+                {
+                    "txNombresApellidos": "JORGE FRANCISCO LLANCA CUBAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 10,
+            "rowNumber": 9,
+            "txJuradoCompetencia": "UCAYALI",
+            "txCodExpedienteExt": "ERM.2022035550",
+            "feRegistro": "16/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "KAREN YADIRA ESPINOZA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 184157,
+            "idExpedientePadre": 154070,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "UCAYALI",
+            "partes": [
+                {
+                    "txNombresApellidos": "JORGE FRANCISCO LLANCA CUBAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 10,
+            "rowNumber": 10,
+            "txJuradoCompetencia": "UCAYALI",
+            "txCodExpedienteExt": "ERM.2022035555",
+            "feRegistro": "16/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ESCARLE CABANILLAS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 184181,
+            "idExpedientePadre": 154123,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "UCAYALI",

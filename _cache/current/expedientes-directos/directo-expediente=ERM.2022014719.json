@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 2.0,
+    "count": 3.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 2,
+            "totalRows": 3,
             "rowNumber": 1,
             "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
             "txCodExpedienteExt": "ERM.2022018859",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 2,
+            "totalRows": 3,
             "rowNumber": 2,
             "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
             "txCodExpedienteExt": "ERM.2022021628",
@@ -38,14 +38,45 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
             "txResponsable": "CLAUDIA SOFIA TENAZOA",
-            "txEtapa": "PRONUNCIAMIENTO",
-            "txEstado": "EN REVISION DE PLENOS",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 169937,
             "idExpedientePadre": 162738,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "MARISCAL RAMON CASTILLA",
-            "partes": [],
+            "partes": [
+                {
+                    "txNombresApellidos": "TEDDY ENRIQUE SIGUAS GIERATHS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 3,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "MARISCAL RAMON CASTILLA",
+            "txCodExpedienteExt": "ERM.2022030412",
+            "feRegistro": "08/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "CLAUDIA SOFIA TENAZOA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 178942,
+            "idExpedientePadre": 162738,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL RAMON CASTILLA",
+            "partes": [
+                {
+                    "txNombresApellidos": "TEDDY ENRIQUE SIGUAS GIERATHS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
             "tienePersonalJurado": false
         }
     ],

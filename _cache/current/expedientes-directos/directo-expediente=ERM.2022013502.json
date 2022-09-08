@@ -1,26 +1,62 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 1.0,
+    "count": 2.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 1,
+            "totalRows": 2,
             "rowNumber": 1,
             "txJuradoCompetencia": "MARISCAL CACERES",
             "txCodExpedienteExt": "ERM.2022021594",
             "feRegistro": "08/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "HAROLD ALFREDO GALAN",
-            "txEtapa": "ASIGNACION",
-            "txEstado": "ASIGNADO",
+            "txResponsable": " ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 169915,
             "idExpedientePadre": 161441,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "MARISCAL CACERES",
-            "partes": [],
+            "partes": [
+                {
+                    "txNombresApellidos": "MARCIAL FUSTAMANTE SAAVEDRA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 2,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "MARISCAL CACERES",
+            "txCodExpedienteExt": "ERM.2022040053",
+            "feRegistro": "01/09/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "ZULEMA VALERIA ALIAGA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 188929,
+            "idExpedientePadre": 161441,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "MARISCAL CACERES",
+            "partes": [
+                {
+                    "txNombresApellidos": "DANIEL PISCO VENANCIO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "MARCIAL FUSTAMANTE SAAVEDRA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
             "tienePersonalJurado": false
         }
     ],

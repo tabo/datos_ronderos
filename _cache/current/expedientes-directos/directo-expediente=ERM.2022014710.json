@@ -1,20 +1,20 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 1.0,
+    "count": 4.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 1,
+            "totalRows": 4,
             "rowNumber": 1,
             "txJuradoCompetencia": "CHACHAPOYAS",
             "txCodExpedienteExt": "ERM.2022021390",
             "feRegistro": "08/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "YANET MERCEDES LEON",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "MILAGROS DEL ROCIO VIGIL",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 169690,
             "idExpedientePadre": 162717,
             "txImportancia": "NO MEDIÁTICO",
@@ -23,6 +23,91 @@
             "partes": [
                 {
                     "txNombresApellidos": "JESUS VIGO REYES",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 2,
+            "txJuradoCompetencia": "CHACHAPOYAS",
+            "txCodExpedienteExt": "ERM.2022023002",
+            "feRegistro": "15/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "TACHA DE LISTA",
+            "txResponsable": "MILAGROS DEL ROCIO VIGIL",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 171373,
+            "idExpedientePadre": 162717,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CHACHAPOYAS",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS ENRIQUE DELGADO LEGOAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "EVER MANUEL VELASQUEZ VELA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "CHACHAPOYAS",
+            "txCodExpedienteExt": "ERM.2022032390",
+            "feRegistro": "11/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "TACHA DE CANDIDATO",
+            "txResponsable": "MILAGROS DEL ROCIO VIGIL",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 180954,
+            "idExpedientePadre": 162717,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CHACHAPOYAS",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS ENRIQUE DELGADO LEGOAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "EVER MANUEL VELASQUEZ VELA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "CHACHAPOYAS",
+            "txCodExpedienteExt": "ERM.2022034347",
+            "feRegistro": "14/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "MILAGROS DEL ROCIO VIGIL",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 182952,
+            "idExpedientePadre": 162717,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CHACHAPOYAS",
+            "partes": [
+                {
+                    "txNombresApellidos": "EVER MANUEL VELASQUEZ VELA",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

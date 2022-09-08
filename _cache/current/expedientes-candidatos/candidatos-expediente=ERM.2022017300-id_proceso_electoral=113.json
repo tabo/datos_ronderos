@@ -12,7 +12,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "41378512",
             "nombreCompleto": "MARCIAL MAUCAYLLE RINCON",
-            "estado": "RECIBIDO",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 1257.0,
             "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
             "numeroCandidato": 0.0,
@@ -22,7 +22,8 @@
             "postulaDistrito": "SAN JERONIMO",
             "cargo": [
                 "ALCALDE DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 213821.0,
@@ -32,7 +33,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "31148943",
             "nombreCompleto": "CEFERINO OSCCO YAURIS",
-            "estado": "RECIBIDO",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 1257.0,
             "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
             "numeroCandidato": 1.0,
@@ -42,67 +43,8 @@
             "postulaDistrito": "SAN JERONIMO",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 213823.0,
-            "feNacimiento": "1969-08-01T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "31171759",
-            "nombreCompleto": "EUSEBIO ALARCON ZUÑIGA",
-            "estado": "RECIBIDO",
-            "idOrganizacionPolitica": 1257.0,
-            "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
-            "numeroCandidato": 3.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/213823.jpg",
-            "postulaDepartamento": "APURIMAC",
-            "postulaProvincia": "ANDAHUAYLAS",
-            "postulaDistrito": "SAN JERONIMO",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 213824.0,
-            "feNacimiento": "1996-10-19T00:00:00",
-            "txSexo": "F",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "76733056",
-            "nombreCompleto": "SAYDA MARITZA QUISPE ALLCCA",
-            "estado": "RECIBIDO",
-            "idOrganizacionPolitica": 1257.0,
-            "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
-            "numeroCandidato": 4.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/213824.jpg",
-            "postulaDepartamento": "APURIMAC",
-            "postulaProvincia": "ANDAHUAYLAS",
-            "postulaDistrito": "SAN JERONIMO",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 213825.0,
-            "feNacimiento": "1989-12-21T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "46105469",
-            "nombreCompleto": "JESUS RODRIGUEZ QUISPE",
-            "estado": "RECIBIDO",
-            "idOrganizacionPolitica": 1257.0,
-            "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
-            "numeroCandidato": 5.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/213825.jpg",
-            "postulaDepartamento": "APURIMAC",
-            "postulaProvincia": "ANDAHUAYLAS",
-            "postulaDistrito": "SAN JERONIMO",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 242669.0,
@@ -112,7 +54,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "48401909",
             "nombreCompleto": "KAIRELY JOSED MAUCAYLLE MORALES",
-            "estado": "RECIBIDO",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 1257.0,
             "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
             "numeroCandidato": 2.0,
@@ -122,7 +64,71 @@
             "postulaDistrito": "SAN JERONIMO",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 213823.0,
+            "feNacimiento": "1969-08-01T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "31171759",
+            "nombreCompleto": "EUSEBIO ALARCON ZUÑIGA",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 1257.0,
+            "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+            "numeroCandidato": 3.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/213823.jpg",
+            "postulaDepartamento": "APURIMAC",
+            "postulaProvincia": "ANDAHUAYLAS",
+            "postulaDistrito": "SAN JERONIMO",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 213824.0,
+            "feNacimiento": "1996-10-19T00:00:00",
+            "txSexo": "F",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "76733056",
+            "nombreCompleto": "SAYDA MARITZA QUISPE ALLCCA",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 1257.0,
+            "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+            "numeroCandidato": 4.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/213824.jpg",
+            "postulaDepartamento": "APURIMAC",
+            "postulaProvincia": "ANDAHUAYLAS",
+            "postulaDistrito": "SAN JERONIMO",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 213825.0,
+            "feNacimiento": "1989-12-21T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "46105469",
+            "nombreCompleto": "JESUS RODRIGUEZ QUISPE",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 1257.0,
+            "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+            "numeroCandidato": 5.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/213825.jpg",
+            "postulaDepartamento": "APURIMAC",
+            "postulaProvincia": "ANDAHUAYLAS",
+            "postulaDistrito": "SAN JERONIMO",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
         }
     ],
     "totalPages": 0

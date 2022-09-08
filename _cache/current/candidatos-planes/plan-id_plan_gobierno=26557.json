@@ -1,6 +1,145 @@
 {
-    "messages": [
-        "Se ha producido un error. Inténtalo de nuevo."
+    "datoGeneral": {
+        "idPlanGobierno": 26557,
+        "idTipoEleccion": 6,
+        "txTipoEleccion": "MUNICIPAL DISTRITAL",
+        "idOrganizacionPolitica": 226,
+        "txOrganizacionPolitica": "MOVIMIENTO INDEPENDIENTE TRABAJANDO PARA TODOS",
+        "txTipoPlan": null,
+        "idJuradoElectoral": 1687,
+        "juradoElectoral": "HUAYTARA",
+        "txRutaCompleto": "https://mpesije.jne.gob.pe/docs/53f69b1b-6987-4f72-b1e7-9136f297e785.pdf",
+        "txRutaResumen": "https://mpesije.jne.gob.pe/docs/4b67689a-105a-4bba-a19c-08a97beda265.pdf",
+        "txCodExpedienteExt": "ERM.2022012351",
+        "idProcesoElectoral": 113
+    },
+    "dimensionSocial": [
+        {
+            "idPlanGobDimension": 193492,
+            "txPgProblema": "•\tPOBLACIÓN QUE NO CUENTA CON ACCESO AL SERVICIO DE AGUA POTABLE 35.0%, Y NO CUENTA CON ACCESO AL SERVICIOS DE ALCANTARILLADO 65.0%.",
+            "txPgObjetivo": "•\tMEJORAR EL ACCESO A LA POBLACIÓN DE LOS SERVICIOS DE AGUA POTABLE Y SERVICIOS DE ALCANTARILLADO.",
+            "txPgIndicador": "•\tPORCENTAJE DE VIVIENDAS CON EL SERVICIO DE AGUA INSTALADA 65.0%\n\n•\tPORCENTAJE DE VIVIENDAS CON EL SERVICIO DE ALCANTARILLADO 65%.",
+            "txPgMeta": "•\tMEJORAR LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 193505,
+            "txPgProblema": "•\tPOBLACIÓN SIN SEGURO INTEGRAL DE SALUD 35.26%.",
+            "txPgObjetivo": "•\tMEJORAR LAS OPORTUNIDADES DE ACCESO DE LA POBLACIÓN A LOS SERVICIOS DE SALUD BÁSICA.",
+            "txPgIndicador": "•\tPORCENTAJE DE LA POBLACIÓN A UN ADECUADO ACCESO DE SERVICIO DE SALUD BÁSICA 50.0%",
+            "txPgMeta": "•\tINCREMENTAR LOS REGISTROS DE LOS BENEFICIARIOS DEL SEGURO DE SALUD AL 80.0%.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 193520,
+            "txPgProblema": "•\tALTA TASA DE MORTALIDAD INFANTIL EN 3.50% Y LA TASA DE DESNUTRICIÓN CRÓNICA ASCIENDE AL 55%.",
+            "txPgObjetivo": "•\tMEJORAR LAS OPORTUNIDADES DE ACCESO DE LA POBLACIÓN A LOS A LOS SERVICIOS DE SALUD CON EQUIPAMIENTO ADECUADO.",
+            "txPgIndicador": "•\tPORCENTAJE DE MORTALIDAD INFANTIL, PORCENTAJE DE DESNUTRICIÓN CRÓNICA DE NIÑOS Y NIÑAS MENORES DE 36 MESES.",
+            "txPgMeta": "•\tDISMINUCIÓN DE LA ANEMIA INFANTIL EN 25.0%.",
+            "idPgDimension": 1,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
     ],
-    "developerMessage": null
+    "dimensionEconomica": [
+        {
+            "idPlanGobDimension": 193544,
+            "txPgProblema": "•\tEN EL DISTRITO LA POBLACIÓN ECONÓMICAMENTE ACTIVA OCUPADA (PEA OCUPADA) 65.0%",
+            "txPgObjetivo": "•\tELEVAR LA CANTIDAD Y CALIDAD DE LA PRODUCCIÓN AGRÍCOLA PARA HACER FRENTE AL MERCADO LOCAL Y NACIONAL.",
+            "txPgIndicador": "•\tPORCENTAJE DE  EMPLEABILIDAD EN LAS DIFERENTES ACTIVIDADES PRODUCTIVAS.",
+            "txPgMeta": "•\tPROMOVER LA FORMACIÓN DE PYMES Y APROVECHAR AL MÁXIMO LOS RECURSOS QUE OFRECE NUESTRO DISTRITO EN LA AGRICULTURA Y GANADERÍA.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 193572,
+            "txPgProblema": "•\tEN EL DISTRITO NO SE CUENTA CON SUFICIENTE INFRAESTRUCTURA DE RIEGO Y AGRÍCOLA.",
+            "txPgObjetivo": "•\tMEJORAR LA INFRAESTRUCTURA TANTO AGRÍCOLA QUE FACILITE SU DESARROLLO; E INCORPORACIÓN Y DESARROLLO DE INICIATIVAS INNOVADORAS CON TECNOLOGÍA APROPIADA.",
+            "txPgIndicador": "•\tPORCENTAJE DEL SISTEMA DE RIEGO E INFRAESTRUCTURA QUE OPERAN EN CONDICIONES INADECUADAS.",
+            "txPgMeta": "•\tMEJORAR DE LA INFRAESTRUCTURA DE LOS CANALES DE RIEGO Y AGRÍCOLA.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 193599,
+            "txPgProblema": "•\tLOS ATRACTIVOS TURÍSTICOS DEL DISTRITO SE ENCUENTRAN OLVIDADOS Y FALTA DE MANTENIMIENTO Y PROMOCIÓN.",
+            "txPgObjetivo": "•\tACONDICIONAMIENTO Y PUESTA EN VALOR DE ATRACTIVOS TURÍSTICOS.",
+            "txPgIndicador": "•\tPORCENTAJE DE RECURSOS TURÍSTICOS INVENTARIADOS PRIORIZADOS QUE NO BRINDAN ADECUADO SERVICIO TURÍSTICO PÚBLICO.",
+            "txPgMeta": "•\tINCENTIVAR PROGRAMAS DE CAPACITACIÓN TÉCNICOS PRODUCTIVOS PARA LA POBLACIÓN BENEFICIARIA.",
+            "idPgDimension": 2,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionAmbiental": [
+        {
+            "idPlanGobDimension": 193656,
+            "txPgProblema": "•\tINADECUADO ORDENAMIENTO TERRITORIAL.",
+            "txPgObjetivo": "•\tLOGRAR QUE LARAMARCA SE CONSTITUYA UNA CIUDAD DEBIDAMENTE PLANIFICADA, EN LO URBANO Y RURAL.",
+            "txPgIndicador": "•\tPORCENTAJE DE PREDIOS URBANOS Y RURALES SIN CATASTRO..",
+            "txPgMeta": "•\tREALIZAR TITULACIÓN PARA LA PROPIEDAD URBANA Y RURAL.\n•\tELABORAR EL PLAN DE ORDENAMIENTO LOCAL.\n•\tREALIZAR LA ACTUALIZACIÓN DEL CATASTRO URBANO Y RURAL.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 193682,
+            "txPgProblema": "•\tINADECUADA GESTIÓN DE LOS RESIDUOS SÓLIDOS EN EL ÁMBITO DISTRITAL.",
+            "txPgObjetivo": "•\tPROMOVER TECNOLOGÍAS AMBIENTALES DE APROVECHAMIENTO DE LOS RECURSOS ORGÁNICOS E INORGÁNICOS.",
+            "txPgIndicador": "•\tPORCENTAJE DE POBLACIÓN NO ATENDIDA POR UN ADECUADO SERVICIO DE LIMPIEZA PÚBLICA.",
+            "txPgMeta": "•\tEJECUTAR PROGRAMAS DE PROTECCIÓN AL MEDIO AMBIENTE.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 193707,
+            "txPgProblema": "•\tALTO NIVEL DE PROPAGACIÓN DE VECTORES DE ENFERMEDAD POR LA EXPOSICIÓN DE AGUAS RESIDUALES.",
+            "txPgObjetivo": "•\tPROMOVER EL ENTORNO AMBIENTAL LIBRE DE CONTAMINANTES.",
+            "txPgIndicador": "•\tPORCENTAJE DE PROPAGACIÓN DE PLAGAS 50.0%.",
+            "txPgMeta": "•\tPROMOVER LA CONSTRUCCIÓN DE UNA PLANTA DE TRATAMIENTO DE AGUAS RESIDUALES.",
+            "idPgDimension": 3,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionInstitucional": [
+        {
+            "idPlanGobDimension": 193743,
+            "txPgProblema": "•\tDÉBIL ORGANIZACIÓN SOCIALES DE BASE.",
+            "txPgObjetivo": "•\tLOGRAR LA PARTICIPACIÓN ACTIVA DE LA POBLACIÓN E INCLUSIÓN DE GRUPOS VULNERABLES EN EL MARCO DEL DESARROLLO LOCAL.",
+            "txPgIndicador": "•\tPORCENTAJE DE PARTICIPACIÓN DE LA POBLACIÓN EN LAS OSB.",
+            "txPgMeta": "•\tPROMOVER EL MEJORAMIENTO EN LA ATENCIÓN DE LOS SERVICIOS PÚBLICOS.\n•\tTRANSPARENCIA Y GESTIÓN EN LOS ENTES LOCALES, Y CIVILES.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 193772,
+            "txPgProblema": "•\tDEFICIENTE GESTIÓN PÚBLICA MUNICIPAL.",
+            "txPgObjetivo": "•\tUNA ADMINISTRACIÓN MUNICIPAL, EFICIENTE, EFICAZ Y CON PROCESOS TRANSPARENTES.",
+            "txPgIndicador": "•\tPORCENTAJE DE ATENCIÓN A LA POBLACIÓN USUARIA DURANTE LA GESTIÓN MUNICIPAL.",
+            "txPgMeta": "•\tMODERNIZAR LA ADMINISTRACIÓN FINANCIERA, ADMINISTRATIVA Y PRESUPUESTARIA.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        },
+        {
+            "idPlanGobDimension": 193795,
+            "txPgProblema": "•\tDÉBIL INTERVENCIÓN DE GESTIÓN DE RIESGOS.",
+            "txPgObjetivo": "•\tLOGRAR INTEGRAR LA PARTICIPACIÓN DE LOS INVOLUCRADOS EN LA GESTIÓN DE RIESGO.",
+            "txPgIndicador": "•\tPORCENTAJE DE PARTICIPACIÓN DE LA POBLACIÓN EN LA GESTIÓN DE RIESGO.",
+            "txPgMeta": "•\tPROMOVER LA PARTICIPACIÓN CIUDADANA Y MEJORAR LA RESILIENCIA DE LA POBLACIÓN ANTE LA OCURRENCIA DE LOS PELIGROS.",
+            "idPgDimension": 4,
+            "idEstado": 1,
+            "nuPorcentaje": 100
+        }
+    ],
+    "dimensionPropuesta": []
 }

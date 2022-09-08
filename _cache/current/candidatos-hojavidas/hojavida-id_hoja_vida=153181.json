@@ -1,0 +1,156 @@
+{
+    "datoGeneral": {
+        "idHojaVida": 153181.0,
+        "idProcesoElectoral": 113.0,
+        "idTipoEleccion": 6.0,
+        "carneExtranjeria": null,
+        "numeroDocumento": "30488591",
+        "nombres": "EDINSON WALTER",
+        "apellidoPaterno": "NEYRA",
+        "apellidoMaterno": " ",
+        "sexo": "1",
+        "feNacimiento": "25/05/1977",
+        "paisNacimiento": "PERÚ",
+        "ubigeoNacimiento": "040403",
+        "naciDepartamento": "AREQUIPA",
+        "naciProvincia": "CARAVELI",
+        "naciDistrito": "ATICO",
+        "ubigeoDomicilio": "040403",
+        "domiDepartamento": "AREQUIPA",
+        "domiProvincia": "CARAVELI",
+        "domiDistrito": "ATICO",
+        "domicilioDirecc": "PLAZA DE ARMAS S/N",
+        "ubigeoPostula": "040403",
+        "postulaDepartamento": "AREQUIPA",
+        "postulaProvincia": "CARAVELI",
+        "postulaDistrito": "ATICO",
+        "rutaArchivo": "/Assets/Fotos-HojaVida/153181.jpg",
+        "estado": "IMPROCEDENTE",
+        "idOrganizacionPolitica": 2173.0,
+        "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+        "numeroCandidato": 1.0,
+        "cargo": [
+            "REGIDOR DISTRITAL"
+        ],
+        "txFeTerminoRegistro": "09/06/2022 20:13:51",
+        "txGuidFormatoHojaVida": "edf59759-7405-40f1-b0b7-3ff10a6a396e",
+        "idSolicitudLista": 25205.0,
+        "txComentario": "NO"
+    },
+    "experienciaLaboral": [
+        {
+            "idHvExpeLaboral": 169841,
+            "tengoExpeLaboral": "1",
+            "itemExpeLaboral": 1,
+            "centroTrabajo": "MINERA AURIFERA FRAI ALONSO S.A.",
+            "ocupacionProfesion": "GERENTE",
+            "rucTrabajo": "20453873723",
+            "direccionTrabajo": "CARRETERA PANAMERICANA",
+            "anioTrabajoDesde": "2008",
+            "anioTrabajoHasta": "2014",
+            "ubigeoTrabajo": "040403",
+            "trabajoPais": "PERÚ",
+            "trabajoDepartamento": "AREQUIPA",
+            "trabajoProvincia": "CARAVELI",
+            "trabajoDistrito": "ATICO",
+            "idHojaVida": 153181,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)",
+            "txComentario": "NO"
+        }
+    ],
+    "formacionAcademica": {
+        "educacionBasica": {
+            "idHvEduBasica": 148691,
+            "tengoEduBasica": "SI",
+            "eduPrimaria": "SI",
+            "concluidoEduPrimaria": "SI",
+            "eduSecundaria": "SI",
+            "concluidoEduSecundaria": "SI",
+            "idHojaVida": 153181,
+            "idEstado": 1,
+            "estado": "ACTIVO (R)"
+        },
+        "educacionTecnico": [],
+        "educacionNoUniversitaria": [],
+        "educacionUniversitaria": [],
+        "educacionPosgrado": [],
+        "educacionPosgradoOtro": []
+    },
+    "trayectoria": {
+        "cargoPartidario": [],
+        "cargoEleccion": []
+    },
+    "renunciaEfectuada": [
+        {
+            "idHvRenunciaOp": 140607,
+            "tengoRenunciaOp": "SI",
+            "itemRenunciaop": 1,
+            "idOrgPolRenunciaOp": 142,
+            "orgPolRenunciaOp": "MOVIMIENTO REGIONAL O DEPARTAMENTAL AREQUIPA, TRADICION Y FUTURO",
+            "anioRenunciaOp": "2018",
+            "idHojaVida": 153181,
+            "idEstado": 1,
+            "txComentario": "AFILIACION INDEVIDA"
+        }
+    ],
+    "informacionAdicional": [],
+    "declaracionJurada": {
+        "ingreso": [
+            {
+                "idHvIngresos": 144834,
+                "idTengoIngresos": "1",
+                "tengoIngresos": "SI",
+                "anioIngresos": "2021",
+                "remuBrutaPublico": 0.0,
+                "remuBrutaPrivado": 30000.0,
+                "rentaIndividualPublico": 0.0,
+                "rentaIndividualPrivado": 0.0,
+                "otroIngresoPublico": 0.0,
+                "otroIngresoPrivado": 0.0,
+                "idHojaVida": 153181,
+                "idEstado": 1,
+                "totalIngresos": 30000.0
+            }
+        ],
+        "bienInmueble": [],
+        "bienMueble": [
+            {
+                "idHvBienMueble": 156832,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 2,
+                "vehiculo": "AUTO CHERY",
+                "marca": null,
+                "placa": "F7U 647",
+                "valor": 30000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "AUTO",
+                "comentario": "NO",
+                "idHojaVida": 153181,
+                "idEstado": 1
+            },
+            {
+                "idHvBienMueble": 156817,
+                "idTengoBienMueble": "1",
+                "tengoBienMueble": "SI",
+                "itemMueble": 1,
+                "vehiculo": "CAMIONETA MITSUBISHI",
+                "marca": null,
+                "placa": "C7A276",
+                "valor": 36000.0,
+                "modelo": null,
+                "anio": null,
+                "caracteristica": "CAMIONETA",
+                "comentario": "NO",
+                "idHojaVida": 153181,
+                "idEstado": 1
+            }
+        ],
+        "otroMueble": [],
+        "titularidad": []
+    },
+    "sentenciaPenal": [],
+    "sentenciaObliga": []
+}

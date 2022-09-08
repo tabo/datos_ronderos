@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 2.0,
+    "count": 4.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 2,
+            "totalRows": 4,
             "rowNumber": 1,
             "txJuradoCompetencia": "LIMA OESTE 2",
             "txCodExpedienteExt": "ERM.2022020792",
@@ -22,6 +22,11 @@
             "txJuradoCreacion": "LIMA OESTE 2",
             "partes": [
                 {
+                    "txNombresApellidos": "JULIO CESAR BERNAOLA ARANGO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
                     "txNombresApellidos": "PABLO RAFAEL LAZO SALAS",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
@@ -30,7 +35,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 2,
+            "totalRows": 4,
             "rowNumber": 2,
             "txJuradoCompetencia": "LIMA OESTE 2",
             "txCodExpedienteExt": "ERM.2022020822",
@@ -41,6 +46,56 @@
             "txEtapa": "RESUELTO",
             "txEstado": "RESUELTO",
             "idExpediente": 169095,
+            "idExpedientePadre": 157853,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "PABLO RAFAEL LAZO SALAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022027056",
+            "feRegistro": "01/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "LIZ ALMENDRA PACHECO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 175550,
+            "idExpedientePadre": 157853,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "PABLO RAFAEL LAZO SALAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 4,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022028020",
+            "feRegistro": "04/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "LIZ ALMENDRA PACHECO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176529,
             "idExpedientePadre": 157853,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",

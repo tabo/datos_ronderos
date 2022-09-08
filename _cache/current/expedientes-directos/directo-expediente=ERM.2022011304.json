@@ -1,20 +1,20 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 2.0,
+    "count": 5.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 2,
+            "totalRows": 5,
             "rowNumber": 1,
             "txJuradoCompetencia": "HUANCAVELICA",
             "txCodExpedienteExt": "ERM.2022020359",
             "feRegistro": "02/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
-            "txMateria": "TACHA DE LISTA",
+            "txMateria": "TACHA DE CANDIDATO",
             "txResponsable": "JHOSSELYN YULISSA LLAMOCA",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168626,
             "idExpedientePadre": 159112,
             "txImportancia": "NO MEDIÁTICO",
@@ -35,7 +35,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 2,
+            "totalRows": 5,
             "rowNumber": 2,
             "txJuradoCompetencia": "HUANCAVELICA",
             "txCodExpedienteExt": "ERM.2022020483",
@@ -43,8 +43,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "TACHA DE LISTA",
             "txResponsable": "JHOSSELYN YULISSA LLAMOCA",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168736,
             "idExpedientePadre": 159112,
             "txImportancia": "NO MEDIÁTICO",
@@ -58,6 +58,91 @@
                 },
                 {
                     "txNombresApellidos": "MOISES NEMESIO PEBE GAMARRA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 3,
+            "txJuradoCompetencia": "HUANCAVELICA",
+            "txCodExpedienteExt": "ERM.2022021275",
+            "feRegistro": "07/07/2022",
+            "txTipoExpediente": "DÁDIVAS",
+            "txMateria": "INICIO DE PROCEDIMIENTO SANCIONADOR POR INFORME DE FISCALIZACIÓN",
+            "txResponsable": "LIZBET CORTEZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 169579,
+            "idExpedientePadre": 159112,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUANCAVELICA",
+            "partes": [
+                {
+                    "txNombresApellidos": "JAIME HUERTA TARAZONA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "SAMUEL MORAN CARDENAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 4,
+            "txJuradoCompetencia": "HUANCAVELICA",
+            "txCodExpedienteExt": "ERM.2022024985",
+            "feRegistro": "23/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "MIRIAM HUAMAN",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 173418,
+            "idExpedientePadre": 159112,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUANCAVELICA",
+            "partes": [
+                {
+                    "txNombresApellidos": "JAIME HUERTA TARAZONA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 5,
+            "rowNumber": 5,
+            "txJuradoCompetencia": "HUANCAVELICA",
+            "txCodExpedienteExt": "ERM.2022025788",
+            "feRegistro": "27/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JHOSSELYN YULISSA LLAMOCA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 174211,
+            "idExpedientePadre": 159112,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUANCAVELICA",
+            "partes": [
+                {
+                    "txNombresApellidos": "JAIME HUERTA TARAZONA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "CARLA YARANGA MENDOZA",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

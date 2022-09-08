@@ -13,8 +13,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "TACHA DE CANDIDATO",
             "txResponsable": "RUSBERT PAUL SEGURA",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168661,
             "idExpedientePadre": 158108,
             "txImportancia": "NO MEDIÁTICO",
@@ -23,6 +23,11 @@
             "partes": [
                 {
                     "txNombresApellidos": "NACOR ALEJANDRO FLORES RIOS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "HOMERO MONSALVE FERNANDEZ",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

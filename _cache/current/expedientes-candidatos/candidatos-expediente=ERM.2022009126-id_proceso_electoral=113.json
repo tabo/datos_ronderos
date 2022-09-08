@@ -5,66 +5,6 @@
     "messageLog": null,
     "data": [
         {
-            "idHojaVida": 192382.0,
-            "feNacimiento": "1990-09-28T00:00:00",
-            "txSexo": "F",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "46549265",
-            "nombreCompleto": "MILAGROS MELGAR PINCO",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2694.0,
-            "organizacionPolitica": "MOVIMIENTO REGIONAL GANA AYACUCHO",
-            "numeroCandidato": 2.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/192382.jpg",
-            "postulaDepartamento": "AYACUCHO",
-            "postulaProvincia": "HUAMANGA",
-            "postulaDistrito": "SANTIAGO DE PISCHA",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 192383.0,
-            "feNacimiento": "1977-08-29T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "80192884",
-            "nombreCompleto": "ADOLFO CHACCHI LEAÑO",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2694.0,
-            "organizacionPolitica": "MOVIMIENTO REGIONAL GANA AYACUCHO",
-            "numeroCandidato": 3.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/192383.jpg",
-            "postulaDepartamento": "AYACUCHO",
-            "postulaProvincia": "HUAMANGA",
-            "postulaDistrito": "SANTIAGO DE PISCHA",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 192385.0,
-            "feNacimiento": "1976-06-22T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "41336704",
-            "nombreCompleto": "JAIHRZINO RAUCANA HUACACHI",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2694.0,
-            "organizacionPolitica": "MOVIMIENTO REGIONAL GANA AYACUCHO",
-            "numeroCandidato": 5.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/192385.jpg",
-            "postulaDepartamento": "AYACUCHO",
-            "postulaProvincia": "HUAMANGA",
-            "postulaDistrito": "SANTIAGO DE PISCHA",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
             "idHojaVida": 240389.0,
             "feNacimiento": "1994-08-02T00:00:00",
             "txSexo": "F",
@@ -72,7 +12,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "48380806",
             "nombreCompleto": "NADIA RIVERA SANTIAGO",
-            "estado": "INADMISIBLE",
+            "estado": "IMPROCEDENTE",
             "idOrganizacionPolitica": 2694.0,
             "organizacionPolitica": "MOVIMIENTO REGIONAL GANA AYACUCHO",
             "numeroCandidato": 0.0,
@@ -82,7 +22,8 @@
             "postulaDistrito": "SANTIAGO DE PISCHA",
             "cargo": [
                 "ALCALDE DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 240396.0,
@@ -92,7 +33,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "43236775",
             "nombreCompleto": "GROVER CUADROS MEDINA",
-            "estado": "INADMISIBLE",
+            "estado": "IMPROCEDENTE",
             "idOrganizacionPolitica": 2694.0,
             "organizacionPolitica": "MOVIMIENTO REGIONAL GANA AYACUCHO",
             "numeroCandidato": 1.0,
@@ -102,7 +43,50 @@
             "postulaDistrito": "SANTIAGO DE PISCHA",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 192382.0,
+            "feNacimiento": "1990-09-28T00:00:00",
+            "txSexo": "F",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "46549265",
+            "nombreCompleto": "MILAGROS MELGAR PINCO",
+            "estado": "IMPROCEDENTE",
+            "idOrganizacionPolitica": 2694.0,
+            "organizacionPolitica": "MOVIMIENTO REGIONAL GANA AYACUCHO",
+            "numeroCandidato": 2.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/192382.jpg",
+            "postulaDepartamento": "AYACUCHO",
+            "postulaProvincia": "HUAMANGA",
+            "postulaDistrito": "SANTIAGO DE PISCHA",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 192383.0,
+            "feNacimiento": "1977-08-29T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "80192884",
+            "nombreCompleto": "ADOLFO CHACCHI LEAÑO",
+            "estado": "IMPROCEDENTE",
+            "idOrganizacionPolitica": 2694.0,
+            "organizacionPolitica": "MOVIMIENTO REGIONAL GANA AYACUCHO",
+            "numeroCandidato": 3.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/192383.jpg",
+            "postulaDepartamento": "AYACUCHO",
+            "postulaProvincia": "HUAMANGA",
+            "postulaDistrito": "SANTIAGO DE PISCHA",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 240398.0,
@@ -112,7 +96,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "70021223",
             "nombreCompleto": "LUCINDA HUAMANCAYO YAULI",
-            "estado": "INADMISIBLE",
+            "estado": "IMPROCEDENTE",
             "idOrganizacionPolitica": 2694.0,
             "organizacionPolitica": "MOVIMIENTO REGIONAL GANA AYACUCHO",
             "numeroCandidato": 4.0,
@@ -122,7 +106,29 @@
             "postulaDistrito": "SANTIAGO DE PISCHA",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 192385.0,
+            "feNacimiento": "1976-06-22T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "41336704",
+            "nombreCompleto": "JAIHRZINO RAUCANA HUACACHI",
+            "estado": "IMPROCEDENTE",
+            "idOrganizacionPolitica": 2694.0,
+            "organizacionPolitica": "MOVIMIENTO REGIONAL GANA AYACUCHO",
+            "numeroCandidato": 5.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/192385.jpg",
+            "postulaDepartamento": "AYACUCHO",
+            "postulaProvincia": "HUAMANGA",
+            "postulaDistrito": "SANTIAGO DE PISCHA",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
         }
     ],
     "totalPages": 0

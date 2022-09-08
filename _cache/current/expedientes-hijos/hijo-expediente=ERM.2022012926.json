@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 4.0,
+    "count": 6.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 4,
+            "totalRows": 6,
             "rowNumber": 1,
             "txJuradoCompetencia": "BOLOGNESI",
             "txCodExpedienteExt": "ERM.2022010450",
@@ -13,8 +13,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "LUCERO ELIANA LLONTOP",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 158204,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 4,
+            "totalRows": 6,
             "rowNumber": 2,
             "txJuradoCompetencia": "BOLOGNESI",
             "txCodExpedienteExt": "ERM.2022010461",
@@ -55,7 +55,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 4,
+            "totalRows": 6,
             "rowNumber": 3,
             "txJuradoCompetencia": "BOLOGNESI",
             "txCodExpedienteExt": "ERM.2022019187",
@@ -80,7 +80,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 4,
+            "totalRows": 6,
             "rowNumber": 4,
             "txJuradoCompetencia": "BOLOGNESI",
             "txCodExpedienteExt": "ERM.2022021187",
@@ -92,6 +92,56 @@
             "txEstado": "RESUELTO",
             "idExpediente": 169471,
             "idExpedientePadre": 160834,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "BOLOGNESI",
+            "partes": [
+                {
+                    "txNombresApellidos": "EDISON CONVERCIO IBARRA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 6,
+            "rowNumber": 5,
+            "txJuradoCompetencia": "BOLOGNESI",
+            "txCodExpedienteExt": "ERM.2022024857",
+            "feRegistro": "22/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "LUCERO ELIANA LLONTOP",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 173289,
+            "idExpedientePadre": 158204,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "BOLOGNESI",
+            "partes": [
+                {
+                    "txNombresApellidos": "EDISON CONVERCIO IBARRA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 6,
+            "rowNumber": 6,
+            "txJuradoCompetencia": "BOLOGNESI",
+            "txCodExpedienteExt": "ERM.2022025908",
+            "feRegistro": "27/07/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "QUEJA POR DENEGATORIA DE APELACIÓN",
+            "txResponsable": "MYRIAM VIDAL",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 174373,
+            "idExpedientePadre": 173289,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "BOLOGNESI",

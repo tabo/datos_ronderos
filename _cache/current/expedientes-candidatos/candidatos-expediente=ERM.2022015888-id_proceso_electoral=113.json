@@ -12,7 +12,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "42159264",
             "nombreCompleto": "JAIME RAMOS HURTADO",
-            "estado": "RECIBIDO",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2857.0,
             "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
             "numeroCandidato": 0.0,
@@ -22,7 +22,8 @@
             "postulaDistrito": "COYLLURQUI",
             "cargo": [
                 "ALCALDE DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 152899.0,
@@ -32,7 +33,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "40324049",
             "nombreCompleto": "GERARDO CAVIEDES GROVAS",
-            "estado": "RECIBIDO",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2857.0,
             "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
             "numeroCandidato": 1.0,
@@ -42,67 +43,8 @@
             "postulaDistrito": "COYLLURQUI",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 152901.0,
-            "feNacimiento": "1987-05-24T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "44416857",
-            "nombreCompleto": "RAMON CHALCO NUÑEZ",
-            "estado": "RECIBIDO",
-            "idOrganizacionPolitica": 2857.0,
-            "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
-            "numeroCandidato": 3.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/152901.jpg",
-            "postulaDepartamento": "APURIMAC",
-            "postulaProvincia": "COTABAMBAS",
-            "postulaDistrito": "COYLLURQUI",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 152902.0,
-            "feNacimiento": "1995-01-15T00:00:00",
-            "txSexo": "F",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "60500331",
-            "nombreCompleto": "BACILIA LETONA PACHECO",
-            "estado": "RECIBIDO",
-            "idOrganizacionPolitica": 2857.0,
-            "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
-            "numeroCandidato": 4.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/152902.jpg",
-            "postulaDepartamento": "APURIMAC",
-            "postulaProvincia": "COTABAMBAS",
-            "postulaDistrito": "COYLLURQUI",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 152903.0,
-            "feNacimiento": "1985-08-04T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "44379064",
-            "nombreCompleto": "MIGUEL GAYOSO SANCHEZ",
-            "estado": "RECIBIDO",
-            "idOrganizacionPolitica": 2857.0,
-            "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
-            "numeroCandidato": 5.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/152903.jpg",
-            "postulaDepartamento": "APURIMAC",
-            "postulaProvincia": "COTABAMBAS",
-            "postulaDistrito": "COYLLURQUI",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 240619.0,
@@ -112,7 +54,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "71812678",
             "nombreCompleto": "BISME CHUCHULLO CURI",
-            "estado": "RECIBIDO",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2857.0,
             "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
             "numeroCandidato": 2.0,
@@ -122,7 +64,71 @@
             "postulaDistrito": "COYLLURQUI",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 152901.0,
+            "feNacimiento": "1987-05-24T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "44416857",
+            "nombreCompleto": "RAMON CHALCO NUÑEZ",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2857.0,
+            "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+            "numeroCandidato": 3.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/152901.jpg",
+            "postulaDepartamento": "APURIMAC",
+            "postulaProvincia": "COTABAMBAS",
+            "postulaDistrito": "COYLLURQUI",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 152902.0,
+            "feNacimiento": "1995-01-15T00:00:00",
+            "txSexo": "F",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "60500331",
+            "nombreCompleto": "BACILIA LETONA PACHECO",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2857.0,
+            "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+            "numeroCandidato": 4.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/152902.jpg",
+            "postulaDepartamento": "APURIMAC",
+            "postulaProvincia": "COTABAMBAS",
+            "postulaDistrito": "COYLLURQUI",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 152903.0,
+            "feNacimiento": "1985-08-04T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "44379064",
+            "nombreCompleto": "MIGUEL GAYOSO SANCHEZ",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2857.0,
+            "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+            "numeroCandidato": 5.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/152903.jpg",
+            "postulaDepartamento": "APURIMAC",
+            "postulaProvincia": "COTABAMBAS",
+            "postulaDistrito": "COYLLURQUI",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
         }
     ],
     "totalPages": 0

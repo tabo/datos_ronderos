@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 5.0,
+    "count": 10.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 5,
+            "totalRows": 10,
             "rowNumber": 1,
             "txJuradoCompetencia": "HUARAL",
             "txCodExpedienteExt": "ERM.2022013994",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 10,
             "rowNumber": 2,
             "txJuradoCompetencia": "HUARAL",
             "txCodExpedienteExt": "ERM.2022014480",
@@ -55,7 +55,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 10,
             "rowNumber": 3,
             "txJuradoCompetencia": "HUARAL",
             "txCodExpedienteExt": "ERM.2022014492",
@@ -80,7 +80,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 10,
             "rowNumber": 4,
             "txJuradoCompetencia": "HUARAL",
             "txCodExpedienteExt": "ERM.2022014519",
@@ -105,7 +105,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 5,
+            "totalRows": 10,
             "rowNumber": 5,
             "txJuradoCompetencia": "HUARAL",
             "txCodExpedienteExt": "ERM.2022014522",
@@ -117,6 +117,131 @@
             "txEstado": "RESUELTO",
             "idExpediente": 162520,
             "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUARAL",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS WALTER CAMPOS DELGADILLO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 10,
+            "rowNumber": 6,
+            "txJuradoCompetencia": "HUARAL",
+            "txCodExpedienteExt": "ERM.2022023524",
+            "feRegistro": "17/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "ALESSANDRA FIORELA REBECA CRUZ",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 171922,
+            "idExpedientePadre": 163182,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUARAL",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS WALTER CAMPOS DELGADILLO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 10,
+            "rowNumber": 7,
+            "txJuradoCompetencia": "HUARAL",
+            "txCodExpedienteExt": "ERM.2022023605",
+            "feRegistro": "17/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "YESENIA ROJAS",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
+            "idExpediente": 172005,
+            "idExpedientePadre": 162475,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUARAL",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS WALTER CAMPOS DELGADILLO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 10,
+            "rowNumber": 8,
+            "txJuradoCompetencia": "HUARAL",
+            "txCodExpedienteExt": "ERM.2022029280",
+            "feRegistro": "06/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ZUZIM CASAVERDE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 177795,
+            "idExpedientePadre": 162520,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUARAL",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS WALTER CAMPOS DELGADILLO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 10,
+            "rowNumber": 9,
+            "txJuradoCompetencia": "HUARAL",
+            "txCodExpedienteExt": "ERM.2022031406",
+            "feRegistro": "10/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ZUZIM CASAVERDE",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 179962,
+            "idExpedientePadre": 163182,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "HUARAL",
+            "partes": [
+                {
+                    "txNombresApellidos": "CARLOS WALTER CAMPOS DELGADILLO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 10,
+            "rowNumber": 10,
+            "txJuradoCompetencia": "HUARAL",
+            "txCodExpedienteExt": "ERM.2022032480",
+            "feRegistro": "11/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ZUZIM CASAVERDE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 181059,
+            "idExpedientePadre": 163182,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "HUARAL",

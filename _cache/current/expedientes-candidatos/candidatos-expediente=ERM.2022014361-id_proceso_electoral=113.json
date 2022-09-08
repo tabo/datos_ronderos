@@ -12,7 +12,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "06800410",
             "nombreCompleto": "MARCELINO HILARIO RAMOS CANALES",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2706.0,
             "organizacionPolitica": "MOVIMIENTO REGIONAL WARI LLAQTA",
             "numeroCandidato": 0.0,
@@ -22,7 +22,8 @@
             "postulaDistrito": "SORAS",
             "cargo": [
                 "ALCALDE DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 168767.0,
@@ -32,7 +33,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "70171423",
             "nombreCompleto": "MONICA GUTIERREZ POMA",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2706.0,
             "organizacionPolitica": "MOVIMIENTO REGIONAL WARI LLAQTA",
             "numeroCandidato": 1.0,
@@ -42,67 +43,8 @@
             "postulaDistrito": "SORAS",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 168769.0,
-            "feNacimiento": "1987-11-22T00:00:00",
-            "txSexo": "F",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "44966161",
-            "nombreCompleto": "MARGOTH YUCRA QUILCA",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2706.0,
-            "organizacionPolitica": "MOVIMIENTO REGIONAL WARI LLAQTA",
-            "numeroCandidato": 3.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/168769.jpg",
-            "postulaDepartamento": "AYACUCHO",
-            "postulaProvincia": "SUCRE",
-            "postulaDistrito": "SORAS",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 168770.0,
-            "feNacimiento": "1979-02-19T00:00:00",
-            "txSexo": "M",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "80254731",
-            "nombreCompleto": "HECTOR PUBLIO ALEJANDRO ASTIYAURI",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2706.0,
-            "organizacionPolitica": "MOVIMIENTO REGIONAL WARI LLAQTA",
-            "numeroCandidato": 4.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/168770.jpg",
-            "postulaDepartamento": "AYACUCHO",
-            "postulaProvincia": "SUCRE",
-            "postulaDistrito": "SORAS",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
-        },
-        {
-            "idHojaVida": 168771.0,
-            "feNacimiento": "1995-05-13T00:00:00",
-            "txSexo": "F",
-            "designado": null,
-            "idProcesoElectoral": 0.0,
-            "numeroDocumento": "70171426",
-            "nombreCompleto": "JUDITH GUTIERREZ HUARCAYA",
-            "estado": "INADMISIBLE",
-            "idOrganizacionPolitica": 2706.0,
-            "organizacionPolitica": "MOVIMIENTO REGIONAL WARI LLAQTA",
-            "numeroCandidato": 5.0,
-            "rutaArchivo": "/Assets/Fotos-HojaVida/168771.jpg",
-            "postulaDepartamento": "AYACUCHO",
-            "postulaProvincia": "SUCRE",
-            "postulaDistrito": "SORAS",
-            "cargo": [
-                "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
         },
         {
             "idHojaVida": 241179.0,
@@ -112,7 +54,7 @@
             "idProcesoElectoral": 0.0,
             "numeroDocumento": "80126929",
             "nombreCompleto": "JAKER GOMEZ HUAMANI",
-            "estado": "INADMISIBLE",
+            "estado": "INSCRITO",
             "idOrganizacionPolitica": 2706.0,
             "organizacionPolitica": "MOVIMIENTO REGIONAL WARI LLAQTA",
             "numeroCandidato": 2.0,
@@ -122,7 +64,71 @@
             "postulaDistrito": "SORAS",
             "cargo": [
                 "REGIDOR DISTRITAL"
-            ]
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 168769.0,
+            "feNacimiento": "1987-11-22T00:00:00",
+            "txSexo": "F",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "44966161",
+            "nombreCompleto": "MARGOTH YUCRA QUILCA",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2706.0,
+            "organizacionPolitica": "MOVIMIENTO REGIONAL WARI LLAQTA",
+            "numeroCandidato": 3.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/168769.jpg",
+            "postulaDepartamento": "AYACUCHO",
+            "postulaProvincia": "SUCRE",
+            "postulaDistrito": "SORAS",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 168770.0,
+            "feNacimiento": "1979-02-19T00:00:00",
+            "txSexo": "M",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "80254731",
+            "nombreCompleto": "HECTOR PUBLIO ALEJANDRO ASTIYAURI",
+            "estado": "EXCLUSION",
+            "idOrganizacionPolitica": 2706.0,
+            "organizacionPolitica": "MOVIMIENTO REGIONAL WARI LLAQTA",
+            "numeroCandidato": 4.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/168770.jpg",
+            "postulaDepartamento": "AYACUCHO",
+            "postulaProvincia": "SUCRE",
+            "postulaDistrito": "SORAS",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
+        },
+        {
+            "idHojaVida": 168771.0,
+            "feNacimiento": "1995-05-13T00:00:00",
+            "txSexo": "F",
+            "designado": null,
+            "idProcesoElectoral": 0.0,
+            "numeroDocumento": "70171426",
+            "nombreCompleto": "JUDITH GUTIERREZ HUARCAYA",
+            "estado": "INSCRITO",
+            "idOrganizacionPolitica": 2706.0,
+            "organizacionPolitica": "MOVIMIENTO REGIONAL WARI LLAQTA",
+            "numeroCandidato": 5.0,
+            "rutaArchivo": "/Assets/Fotos-HojaVida/168771.jpg",
+            "postulaDepartamento": "AYACUCHO",
+            "postulaProvincia": "SUCRE",
+            "postulaDistrito": "SORAS",
+            "cargo": [
+                "REGIDOR DISTRITAL"
+            ],
+            "nativo": "NO"
         }
     ],
     "totalPages": 0

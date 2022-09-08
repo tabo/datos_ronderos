@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 6.0,
+    "count": 12.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 6,
+            "totalRows": 12,
             "rowNumber": 1,
             "txJuradoCompetencia": "LIMA OESTE 2",
             "txCodExpedienteExt": "ERM.2022010115",
@@ -13,8 +13,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "LIZ ALMENDRA PACHECO",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 157853,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 12,
             "rowNumber": 2,
             "txJuradoCompetencia": "LIMA OESTE 2",
             "txCodExpedienteExt": "ERM.2022012512",
@@ -38,8 +38,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "LIZ ALMENDRA PACHECO",
-            "txEtapa": "RESUELTO",
-            "txEstado": "RESUELTO",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "A LA ESPERA DE INFORMACIÓN",
             "idExpediente": 160411,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -55,16 +55,16 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 12,
             "rowNumber": 3,
             "txJuradoCompetencia": "LIMA OESTE 2",
             "txCodExpedienteExt": "ERM.2022020787",
             "feRegistro": "05/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "HELDER ELVIS BLANCO",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "LIZ ALMENDRA PACHECO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 169060,
             "idExpedientePadre": 160453,
             "txImportancia": "NO MEDIÁTICO",
@@ -80,7 +80,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 12,
             "rowNumber": 4,
             "txJuradoCompetencia": "LIMA OESTE 2",
             "txCodExpedienteExt": "ERM.2022020792",
@@ -110,7 +110,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 12,
             "rowNumber": 5,
             "txJuradoCompetencia": "LIMA OESTE 2",
             "txCodExpedienteExt": "ERM.2022020822",
@@ -135,7 +135,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 12,
             "rowNumber": 6,
             "txJuradoCompetencia": "LIMA OESTE 2",
             "txCodExpedienteExt": "ERM.2022021059",
@@ -147,6 +147,161 @@
             "txEstado": "RESUELTO",
             "idExpediente": 169348,
             "idExpedientePadre": 169060,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "PABLO RAFAEL LAZO SALAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 12,
+            "rowNumber": 7,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022022579",
+            "feRegistro": "13/07/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "APELACIÓN",
+            "txResponsable": "LIZ ALMENDRA PACHECO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 170951,
+            "idExpedientePadre": 169063,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "PABLO RAFAEL LAZO SALAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "JULIO CESAR BERNAOLA ARANGO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 12,
+            "rowNumber": 8,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022027056",
+            "feRegistro": "01/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "LIZ ALMENDRA PACHECO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 175550,
+            "idExpedientePadre": 157853,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "PABLO RAFAEL LAZO SALAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 12,
+            "rowNumber": 9,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022028019",
+            "feRegistro": "04/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "LIZ ALMENDRA PACHECO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176513,
+            "idExpedientePadre": 160453,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "PABLO RAFAEL LAZO SALAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 12,
+            "rowNumber": 10,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022028020",
+            "feRegistro": "04/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "LIZ ALMENDRA PACHECO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 176529,
+            "idExpedientePadre": 157853,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "PABLO RAFAEL LAZO SALAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 12,
+            "rowNumber": 11,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022029562",
+            "feRegistro": "07/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "LIZ ALMENDRA PACHECO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 178098,
+            "idExpedientePadre": 160411,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "LIMA OESTE 2",
+            "partes": [
+                {
+                    "txNombresApellidos": "PABLO RAFAEL LAZO SALAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 12,
+            "rowNumber": 12,
+            "txJuradoCompetencia": "LIMA OESTE 2",
+            "txCodExpedienteExt": "ERM.2022032124",
+            "feRegistro": "11/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "LIZ ALMENDRA PACHECO",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 180698,
+            "idExpedientePadre": 160453,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "LIMA OESTE 2",

@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 9.0,
+    "count": 11.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 9,
+            "totalRows": 11,
             "rowNumber": 1,
             "txJuradoCompetencia": "PACASMAYO",
             "txCodExpedienteExt": "ERM.2022008610",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 9,
+            "totalRows": 11,
             "rowNumber": 2,
             "txJuradoCompetencia": "PACASMAYO",
             "txCodExpedienteExt": "ERM.2022010102",
@@ -55,16 +55,16 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 9,
+            "totalRows": 11,
             "rowNumber": 3,
             "txJuradoCompetencia": "PACASMAYO",
             "txCodExpedienteExt": "ERM.2022012003",
             "feRegistro": "16/06/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
-            "txResponsable": "GRETTEL PURIZAGA",
-            "txEtapa": "RESUELTO",
-            "txEstado": "RESUELTO",
+            "txResponsable": "CESIA YULEYZY SECLEN",
+            "txEtapa": "PRONUNCIAMIENTO",
+            "txEstado": "EN FIRMAS",
             "idExpediente": 159875,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -80,7 +80,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 9,
+            "totalRows": 11,
             "rowNumber": 4,
             "txJuradoCompetencia": "PACASMAYO",
             "txCodExpedienteExt": "ERM.2022013117",
@@ -105,7 +105,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 9,
+            "totalRows": 11,
             "rowNumber": 5,
             "txJuradoCompetencia": "PACASMAYO",
             "txCodExpedienteExt": "ERM.2022016037",
@@ -130,7 +130,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 9,
+            "totalRows": 11,
             "rowNumber": 6,
             "txJuradoCompetencia": "PACASMAYO",
             "txCodExpedienteExt": "ERM.2022017307",
@@ -155,16 +155,16 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 9,
+            "totalRows": 11,
             "rowNumber": 7,
             "txJuradoCompetencia": "PACASMAYO",
             "txCodExpedienteExt": "ERM.2022019700",
             "feRegistro": "28/06/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "XIOMARA ALEJANDRA FRYE",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "GRETTEL PURIZAGA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 167937,
             "idExpedientePadre": 156277,
             "txImportancia": "NO MEDIÁTICO",
@@ -180,7 +180,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 9,
+            "totalRows": 11,
             "rowNumber": 8,
             "txJuradoCompetencia": "PACASMAYO",
             "txCodExpedienteExt": "ERM.2022020035",
@@ -205,16 +205,16 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 9,
+            "totalRows": 11,
             "rowNumber": 9,
             "txJuradoCompetencia": "PACASMAYO",
             "txCodExpedienteExt": "ERM.2022020430",
             "feRegistro": "03/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "PEDRO ELIAS RAMOS",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "GRETTEL PURIZAGA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168691,
             "idExpedientePadre": 161041,
             "txImportancia": "NO MEDIÁTICO",
@@ -223,6 +223,66 @@
             "partes": [
                 {
                     "txNombresApellidos": "CRISTIAN RICARDO VERA MARCHENA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 11,
+            "rowNumber": 10,
+            "txJuradoCompetencia": "PACASMAYO",
+            "txCodExpedienteExt": "ERM.2022036476",
+            "feRegistro": "17/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "CECILIA ANGELICA GARCIA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 185093,
+            "idExpedientePadre": 164094,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PACASMAYO",
+            "partes": [
+                {
+                    "txNombresApellidos": "HERNANDO MARTIN NONTOL MALDONADO",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "CRISTIAN RICARDO VERA MARCHENA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 11,
+            "rowNumber": 11,
+            "txJuradoCompetencia": "PACASMAYO",
+            "txCodExpedienteExt": "ERM.2022036466",
+            "feRegistro": "17/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "CECILIA ANGELICA GARCIA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 185109,
+            "idExpedientePadre": 165408,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "PACASMAYO",
+            "partes": [
+                {
+                    "txNombresApellidos": "CRISTIAN RICARDO VERA MARCHENA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "HERNANDO MARTIN NONTOL MALDONADO",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }

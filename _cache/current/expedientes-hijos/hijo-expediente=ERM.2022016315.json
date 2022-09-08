@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 10.0,
+    "count": 12.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 10,
+            "totalRows": 12,
             "rowNumber": 1,
             "txJuradoCompetencia": "JAEN",
             "txCodExpedienteExt": "ERM.2022005282",
@@ -30,7 +30,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 10,
+            "totalRows": 12,
             "rowNumber": 2,
             "txJuradoCompetencia": "JAEN",
             "txCodExpedienteExt": "ERM.2022014240",
@@ -55,7 +55,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 10,
+            "totalRows": 12,
             "rowNumber": 3,
             "txJuradoCompetencia": "JAEN",
             "txCodExpedienteExt": "ERM.2022014380",
@@ -80,7 +80,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 10,
+            "totalRows": 12,
             "rowNumber": 4,
             "txJuradoCompetencia": "JAEN",
             "txCodExpedienteExt": "ERM.2022015994",
@@ -105,7 +105,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 10,
+            "totalRows": 12,
             "rowNumber": 5,
             "txJuradoCompetencia": "JAEN",
             "txCodExpedienteExt": "ERM.2022016156",
@@ -130,16 +130,16 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 10,
+            "totalRows": 12,
             "rowNumber": 6,
             "txJuradoCompetencia": "JAEN",
             "txCodExpedienteExt": "ERM.2022021810",
             "feRegistro": "10/07/2022",
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
-            "txResponsable": "EDDA CECILIA SANCHEZ PACHAS",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txResponsable": "AMELIA BAZAN",
+            "txEtapa": "ASIGNACION",
+            "txEstado": "ASIGNADO",
             "idExpediente": 170144,
             "idExpedientePadre": 162213,
             "txImportancia": "NO MEDIÁTICO",
@@ -155,7 +155,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 10,
+            "totalRows": 12,
             "rowNumber": 7,
             "txJuradoCompetencia": "JAEN",
             "txCodExpedienteExt": "ERM.2022021867",
@@ -163,8 +163,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "APELACIÓN",
             "txResponsable": "JACKELINE LUZMERY SEVERINO",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 170175,
             "idExpedientePadre": 162380,
             "txImportancia": "NO MEDIÁTICO",
@@ -180,7 +180,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 10,
+            "totalRows": 12,
             "rowNumber": 8,
             "txJuradoCompetencia": "JAEN",
             "txCodExpedienteExt": "ERM.2022021872",
@@ -205,7 +205,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 10,
+            "totalRows": 12,
             "rowNumber": 9,
             "txJuradoCompetencia": "JAEN",
             "txCodExpedienteExt": "ERM.2022021878",
@@ -230,7 +230,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 10,
+            "totalRows": 12,
             "rowNumber": 10,
             "txJuradoCompetencia": "JAEN",
             "txCodExpedienteExt": "ERM.2022021876",
@@ -242,6 +242,56 @@
             "txEstado": "EN TRÁMITE",
             "idExpediente": 170218,
             "idExpedientePadre": 164388,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "JAEN",
+            "partes": [
+                {
+                    "txNombresApellidos": "RONALD DELGADO CUBAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 12,
+            "rowNumber": 11,
+            "txJuradoCompetencia": "JAEN",
+            "txCodExpedienteExt": "ERM.2022028891",
+            "feRegistro": "05/08/2022",
+            "txTipoExpediente": "PEDIDOS - OTROS MEDIOS IMPUGNATORIOS",
+            "txMateria": "OTRAS PETICIONES CONTRA PRONUNCIAMIENTOS DEL JNE / JEE",
+            "txResponsable": "AMELIA BAZAN",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 177397,
+            "idExpedientePadre": 170144,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "JAEN",
+            "partes": [
+                {
+                    "txNombresApellidos": "RONALD DELGADO CUBAS",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 12,
+            "rowNumber": 12,
+            "txJuradoCompetencia": "JAEN",
+            "txCodExpedienteExt": "ERM.2022034434",
+            "feRegistro": "15/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "AMELIA BAZAN",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "EN TRÁMITE",
+            "idExpediente": 183030,
+            "idExpedientePadre": 164237,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "JAEN",

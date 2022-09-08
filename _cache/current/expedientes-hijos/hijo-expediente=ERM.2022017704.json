@@ -1,11 +1,11 @@
 {
     "pageIndex": 1,
     "pageSize": 9999999,
-    "count": 6.0,
+    "count": 10.0,
     "messageLog": null,
     "data": [
         {
-            "totalRows": 6,
+            "totalRows": 10,
             "rowNumber": 1,
             "txJuradoCompetencia": "CHANCHAMAYO",
             "txCodExpedienteExt": "ERM.2022005214",
@@ -40,7 +40,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 10,
             "rowNumber": 2,
             "txJuradoCompetencia": "CHANCHAMAYO",
             "txCodExpedienteExt": "ERM.2022017545",
@@ -48,8 +48,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "JULIO CESAR DEZA",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 165665,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -65,7 +65,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 10,
             "rowNumber": 3,
             "txJuradoCompetencia": "CHANCHAMAYO",
             "txCodExpedienteExt": "ERM.2022017673",
@@ -73,8 +73,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "JULIO CESAR DEZA",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 165776,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -90,7 +90,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 10,
             "rowNumber": 4,
             "txJuradoCompetencia": "CHANCHAMAYO",
             "txCodExpedienteExt": "ERM.2022017695",
@@ -115,7 +115,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 10,
             "rowNumber": 5,
             "txJuradoCompetencia": "CHANCHAMAYO",
             "txCodExpedienteExt": "ERM.2022017712",
@@ -123,8 +123,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "SOLICITUD DE INSCRIPCIÓN",
             "txResponsable": "ESMERALDA TEOFILA PENDULA",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 165861,
             "idExpedientePadre": 0,
             "txImportancia": "NO MEDIÁTICO",
@@ -140,7 +140,7 @@
             "tienePersonalJurado": false
         },
         {
-            "totalRows": 6,
+            "totalRows": 10,
             "rowNumber": 6,
             "txJuradoCompetencia": "CHANCHAMAYO",
             "txCodExpedienteExt": "ERM.2022017802",
@@ -152,6 +152,106 @@
             "txEstado": "RESUELTO",
             "idExpediente": 165940,
             "idExpedientePadre": 0,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CHANCHAMAYO",
+            "partes": [
+                {
+                    "txNombresApellidos": "EDWIN WALTER DAVID HEREDIA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 10,
+            "rowNumber": 7,
+            "txJuradoCompetencia": "CHANCHAMAYO",
+            "txCodExpedienteExt": "ERM.2022030690",
+            "feRegistro": "09/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JULIO CESAR DEZA",
+            "txEtapa": "ESTUDIO",
+            "txEstado": "PARA AUDIENCIA",
+            "idExpediente": 179231,
+            "idExpedientePadre": 165830,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CHANCHAMAYO",
+            "partes": [
+                {
+                    "txNombresApellidos": "EDWIN WALTER DAVID HEREDIA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 10,
+            "rowNumber": 8,
+            "txJuradoCompetencia": "CHANCHAMAYO",
+            "txCodExpedienteExt": "ERM.2022031713",
+            "feRegistro": "10/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JULIO CESAR DEZA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 180256,
+            "idExpedientePadre": 165830,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CHANCHAMAYO",
+            "partes": [
+                {
+                    "txNombresApellidos": "EDWIN WALTER DAVID HEREDIA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 10,
+            "rowNumber": 9,
+            "txJuradoCompetencia": "CHANCHAMAYO",
+            "txCodExpedienteExt": "ERM.2022031705",
+            "feRegistro": "10/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "JULIO CESAR DEZA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 180264,
+            "idExpedientePadre": 165817,
+            "txImportancia": "NO MEDIÁTICO",
+            "txComplejidad": "COMPLEJIDAD MEDIA",
+            "txJuradoCreacion": "CHANCHAMAYO",
+            "partes": [
+                {
+                    "txNombresApellidos": "EDWIN WALTER DAVID HEREDIA",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                }
+            ],
+            "tienePersonalJurado": false
+        },
+        {
+            "totalRows": 10,
+            "rowNumber": 10,
+            "txJuradoCompetencia": "CHANCHAMAYO",
+            "txCodExpedienteExt": "ERM.2022035544",
+            "feRegistro": "16/08/2022",
+            "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
+            "txMateria": "EXCLUSIÓN DE CANDIDATO",
+            "txResponsable": "ESMERALDA TEOFILA PENDULA",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
+            "idExpediente": 184164,
+            "idExpedientePadre": 165817,
             "txImportancia": "NO MEDIÁTICO",
             "txComplejidad": "COMPLEJIDAD MEDIA",
             "txJuradoCreacion": "CHANCHAMAYO",

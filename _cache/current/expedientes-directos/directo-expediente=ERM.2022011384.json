@@ -13,8 +13,8 @@
             "txTipoExpediente": "INSCRIPCIÓN DE LISTAS",
             "txMateria": "TACHA DE CANDIDATO",
             "txResponsable": "ARTURO ALVAREZ",
-            "txEtapa": "ESTUDIO",
-            "txEstado": "EN TRÁMITE",
+            "txEtapa": "RESUELTO",
+            "txEstado": "RESUELTO",
             "idExpediente": 168006,
             "idExpedientePadre": 159224,
             "txImportancia": "NO MEDIÁTICO",
@@ -23,6 +23,11 @@
             "partes": [
                 {
                     "txNombresApellidos": "LITA LISBETT PINEDO VASQUEZ",
+                    "idPersonalJurado": null,
+                    "idEstadoPersonalJurado": null
+                },
+                {
+                    "txNombresApellidos": "WEISMAN CAMPOS IRIGOIN",
                     "idPersonalJurado": null,
                     "idEstadoPersonalJurado": null
                 }
