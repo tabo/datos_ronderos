@@ -38,7 +38,7 @@ def _get_logger() -> Any:
     handler.setFormatter(formatter)
     root_logger = logging.getLogger()
     root_logger.addHandler(handler)
-    root_logger.setLevel(logging.DEBUG)
+    root_logger.setLevel(logging.INFO)
 
     return structlog.get_logger()
 

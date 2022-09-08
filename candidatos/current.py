@@ -6,6 +6,7 @@ from typing import Any
 
 from candidatos.requests import get_client
 from candidatos import cache
+from candidatos.logs import log
 
 
 @dataclass(order=True)
@@ -418,9 +419,13 @@ class Current:
                 ] == 1
                 return data
 
-        return cache.get_value(
+        res = cache.get_value(
             self.cache_key(self.expediente_hijo, expediente=expediente), _fn
         )
+        if res is None:
+            log.warn("Server en llamas. Request expediente_hijo", expediente=expediente)
+            self.qput(99, self.expediente_hijo, expediente=expediente)
+        return res
 
     expediente_hijo.cache_base = ("current", "expedientes-hijos", "hijo")
 

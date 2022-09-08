@@ -62,7 +62,7 @@ def get_value(key, fn):
                 newline="\n",
                 encoding="utf-8",
             )
-        log.debug("cache_store", key=key, size=f"{pp.stat().st_size:,}")
+            log.debug("cache_store", key=key, size=f"{pp.stat().st_size:,}")
     if good_result:
         _known.add(key)
         return res
@@ -83,7 +83,10 @@ def get_from_cache(key):
     p = cache_path(key)
     if p.is_file():
         log.debug("file_cache_hit", key=key, size=f"{p.stat().st_size:,}")
-        return json.loads(p.read_text(encoding="utf-8"))
+        try:
+            return json.loads(p.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            log.exception("JSON decoding error", key=key)
     raise CacheNotFound
 
 
